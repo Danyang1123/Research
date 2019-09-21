@@ -1,0 +1,255 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"Purpose: To assess the efficacy of anti-inflammatory approaches, comprising a topical corticosteroid and omega-3 supplements, for modulating the inflammatory overlay associated with contact lens discomfort (CLD).",0,0,0,0,0,0,0,0,0,0,0
+1,"Methods: This randomized controlled trial involved 72 adults with CLD, randomized (1:1:1:1) to one of the following: placebo (oral olive oil), oral fish oil (900 mg/d eicosapentaenoic acid [EPA] + 600 mg/d docosohexaenoic acid [DHA]), oral combined fish+flaxseed oils (900 mg/d EPA + 600 mg/d DHA + 900 mg/d alpha-linolenic acid), or omega-3 eye-drops (0.025% EPA + 0.0025% DHA four times per day [qid]) for 12 weeks, with visits at baseline, weeks 4 and 12.",0,0,0,0,0,0,0,0,0,0,0
+2,"At week 12, participants who received placebo were assigned a low-potency corticosteroid (fluorometholone [FML] 0.1%, drops, three times per day [tid]) for 2 weeks (week 14).",0,0,0,0,0,0,0,0,0,0,0
+3,Results: Sixty-five participants completed the primary endpoint.,0,0,0,0,0,0,0,0,0,0,0
+4,"At week 12, contact lens dry-eye questionnaire (CLDEQ-8) score was reduced from baseline with oral fish oil (−7.3 ± 0.8 units, n = 17, P < 0.05), compared with placebo (−3.5 ± 0.9 units, n = 16).",0,0,0,0,0,0,0,0,0,0,0
+5,"FML produced significant reductions in tear IL-17A (−71.1 ± 14.3%, n = 12) and IL-6 (−47.6 ± 17.5%, n = 12, P < 0.05) relative to its baseline (week 12).",0,0,0,0,0,0,0,0,0,0,0
+6,"At week 12, tear IL-17A levels were reduced from baseline in the oral fish oil (−63.2 ± 12.8%, n = 12, P < 0.05) and topical omega-3 (−76.2 ± 10.8%, n = 10, P < 0.05) groups, compared with placebo (−3.8 ± 12.7%, n = 12).",0,0,0,0,0,0,0,0,0,0,0
+7,"Tear IL-6 was reduced with all omega-3 interventions, relative to placebo (P < 0.05) at week 12.",0,0,0,0,0,0,0,0,0,0,0
+8,Conclusions: CLD was attenuated by oral long-chain omega-3 supplementation for 12 weeks.,0,0,0,0,0,0,0,0,0,0,0
+9,"Acute (2 week) topical corticosteroids and longer-term (12 week) omega-3 supplementation reduced tear levels of the proinflammatory cytokines IL-17A and IL-6, demonstrating parallels in modulating ocular inflammation with these approaches.",0,0,0,0,0,0,0,0,0,0,0
+10,"Inflammation is a complex nonspecific tissue response elicited by exposure to potentially harmful stimuli, and is a feature of several ocular surface conditions, including dry eye disease, conjunctivochalasis, ocular allergy, and blepharitis.",0,0,0,0,0,0,0,0,0,0,0
+11,"In these presentations, the anterior eye response typically features classic signs of inflammation, including redness, pain, swelling, heat, and loss of normal function.",0,0,0,0,0,0,0,0,0,0,0
+12,"These clinical signs are accompanied by alterations to the expression of inflammatory biomarkers, such as human leukocyte antigen and intercellular adhesion molecule-1, on ocular surface cells.",0,0,0,0,0,0,0,0,0,0,0
+13,"Furthermore, there are changes to tear film composition, including an upregulation of proinflammatory cytokines, alterations to tear lipid mediators, and increased tear protease activity (e.g., metalloproteinases-9 and -2).",0,0,0,0,0,0,0,0,0,0,0
+14,"While uncomplicated contact lens wear is not associated with these classic signs of inflammation, there has been growing interest in understanding the potential role of inflammation in the ocular discomfort response experienced by some contact lens wearers.",0,0,0,0,0,0,0,0,0,0,0
+15,Although a link between ocular discomfort and the upregulation of a range of tear film inflammatory cytokines has not been clearly demonstrated.,0,0,0,0,0,0,0,0,0,0,0
+16,changes to tear levels of leukotriene-B4 have been reported in association with diurnal fluctuations in lens comfort.,0,0,0,0,0,0,0,0,0,0,0
+17,"Furthermore, dynamic changes to the density of putative antigen-presenting cells, as observed using in vivo corneal confocal microscopy, have been documented within the cornea and conjunctiva of contact lens wearers who experience discomfort, suggesting a more pronounced immune response in symptomatic lens wearers.",0,0,0,0,0,0,0,0,0,0,0
+18,These findings imply that modulating the ocular immune response should be beneficial for reducing contact lens discomfort (CLD).,0,0,0,0,0,0,0,0,0,0,0
+19,"In particular, if inflammation is involved in the etiology of this response, then anti-inflammatory interventions should both mitigate symptoms and attenuate subclinical signs of inflammation (e.g., elevations in tear proinflammatory cytokines).",0,0,0,0,0,0,0,0,0,0,0
+20,"As recently reviewed, few studies have considered the potential merit of anti-inflammatories for modifying the inflammatory overlay in this context.",0,0,0,0,0,0,0,0,0,0,0
+21,"Anti-inflammatory drugs, such as corticosteroids and nonsteroidal anti-inflammatory drugs (NSAIDs), have not yet been investigated.",0,0,0,0,0,0,0,0,0,0,0
+22,"Two studies reported conflicting findings relating to a potential role for the immunomodulatory agent, cyclosporine 0.5%, for treating dry eye secondary to contact lens wear.",0,0,0,0,0,0,0,0,0,0,0
+23,"Preliminary evidence suggests that oral supplementation with essential fatty acids (EFAs), including long-chain omega-3s and omega-6s, may be beneficial.",0,0,0,0,0,0,0,0,0,0,0
+24,"However, the mechanism(s) underlying their potential benefits remain unclear, as does whether there are differences conferred with long-chain versus combined long- and short-chain omega-3 supplementation.",0,0,0,0,0,0,0,0,0,0,0
+25,"Further, the role of topical EFA supplements has only been considered in experimental models of ocular inflammation.",0,0,0,0,0,0,0,0,0,0,0
+26,"The aim of this study was to compare different anti-inflammatory approaches, comprising a topical corticosteroid (as a ‘gold-standard' anti-inflammatory drug suitable for acute modulation of inflammatory responses) and three forms of omega-3 EFA supplements (long-chain, combined long- and short-chain, and long-chain topical), as therapeutic approaches for modulating the chronic low-grade inflammatory response in CLD.",0,0,0,0,0,0,0,0,0,0,0
+27,"We sought to compare the clinical and immunologic modulation of the response, in order to investigate which aspect(s) of the inflammatory cascade were modified by these interventions.",0,0,0,0,0,0,0,0,0,0,0
+28,This project was conducted in accordance with the tenets of the Declaration of Helsinki and was approved by the University of Melbourne Human Research Ethics Committee - Health Sciences subcommittee.,0,0,0,0,0,0,0,0,0,0,0
+29,All participants provided written informed consent to participate.,0,0,0,0,0,0,0,0,0,0,0
+30,The trial was prospectively registered on the Australian and New Zealand Clinical Trials Registry (ACTRN12615000173594).,0,0,0,0,0,0,0,0,0,0,0
+31,Both eyes were tested for all clinical parameters.,0,0,0,0,0,0,0,0,0,0,0
+32,"Unless otherwise specified, analyses are based upon the average results of right and left eyes for each individual, as the inflammatory response is expected to be a common attribute between eyes.",0,0,0,0,0,0,0,0,0,0,0
+33,"The study was conducted at the University of Melbourne eye care clinic (Victoria, Australia).",1,0,0,1,0,0,0,0,0,0,0
+34,"Participant eligibility criteria (Table 1) were designed to recruit adult participants experiencing CLD, who wore soft disposable contact lenses in both eyes on a daily-wear basis (minimum of 5 d/wk), and who had been contact lens wearers for at least 6 months.",1,0,0,1,0,0,0,0,0,0,0
+35,"The validated contact lens dry eye questionnaire-8 (CLDEQ-8) questionnaire, considered to reflect a wearer's global opinion of their contact lens comfort, was used to categorize participants as ‘symptomatic' of CLD (i.e., CLDEQ-8 score of ≥13).",1,0,0,1,0,0,0,0,0,0,0
+36,Participant Inclusion and Exclusion Criteria,1,0,0,1,0,0,0,0,0,0,0
+37,"Participant enrolment commenced on April 8, 2015 and was completed on November 16, 2016.",1,0,0,1,0,0,0,0,0,0,0
+38,Participants using lubricant eye drops at baseline (n = 32) were permitted to continue using the same product throughout the study.,0,0,0,0,0,0,0,0,0,0,0
+39,"At each visit, the investigator questioned participants with regard to how frequently they had used lubricant eye drops since the previous visit.",0,0,0,0,0,0,0,0,0,0,0
+40,There was no significant difference in the frequency of eye drop administration between intervention arms at baseline or over the study duration (P > 0.05 for both comparisons).,0,0,0,0,0,0,0,0,0,0,0
+41,"This was a randomized, placebo-controlled trial.",0,0,1,0,0,0,0,0,0,0,0
+42,"Participants were assigned to one of four following interventions: oral placebo (olive oil, 1500 mg/d), oral fish oil (long-chain omega-3s: 900 mg/d eicosapentaenoic acid [EPA] + 600 mg/d docosohexaenoic acid [DHA]), oral combined fish and flaxseed oil (long- and short-chain omega-3s: 900 mg/d EPA + 600 mg/d DHA + 900 mg/d alpha-linolenic acid [ALA]), or topical omega-3 eye drops (EPA 0.025% + DHA 0.0025% four times a day [qid]).",0,0,1,0,0,0,0,0,0,0,0
+43,Participants receiving the three oral supplements were masked to the intervention they received and outcome assessors were also masked to the assigned intervention.,0,0,1,0,0,0,0,0,0,0,0
+44,"The olive oil supplement was manufactured (BJP Laboratories, Queensland, Australia).",0,0,1,0,0,0,0,0,0,0,0
+45,"Olive oil is an appropriate inert control for omega-3 clinical investigations; its main constituent is oleic acid, an omega-9 monounsaturated fatty acid, which does not affect the level of polyunsaturated fatty acids incorporated within the body.",0,0,1,0,0,0,0,0,0,0,0
+46,Oleic acid made up approximately 70% of the daily dose (1500 mg/d olive oil) consumed by participants.,0,0,0,0,0,0,0,0,0,0,0
+47,"The balance of the components included linoleic acid (omega-6, ∼10%: 150 mg/d) and saturated fatty acids (∼20%).",0,0,0,0,0,0,0,0,0,0,0
+48,"As such, the daily dose of omega-6 fatty acids from the olive oil supplement was approximately 150 mg/d.",0,0,0,0,0,0,0,0,0,0,0
+49,"Given that the average Western diet includes approximately 17,000 mg/d of omega-6 fatty acids, the potential contribution from the olive oil supplement to omega-6 consumption is less than 0.9% of daily intake, and thus relatively minimal in the context of total dietary consumption.",0,0,0,0,0,0,0,0,0,0,0
+50,"The oral omega-3 supplements are commercially available (fish oil; Caruso's Natural fish oil 1000 capsules, Sydney, NSW, Australia; fish and flaxseed oil: TheraTears; Akorn Consumer Health, Ann Arbor, MI, USA).",0,0,0,0,0,0,0,0,0,0,0
+51,"The topical omega-3 formulation (Remogen Omega; TRB Chemedica International SA, Vouvry, Switzerland) is commercially available in Europe as a nonpreserved lubricant.",0,0,0,0,0,0,0,0,0,0,0
+52,Figure 1 summarizes the trial design.,0,0,0,0,0,0,0,0,0,0,0
+53,"Participants were required to attend at least three visits (baseline: day 1, week 4: day 28 ± 5, and week 12: day 84 ± 7).",0,0,0,0,0,0,0,0,0,0,0
+54,"At completion of the primary endpoint (week 12), the oral supplement group allocations were unmasked.",0,0,0,0,0,0,0,0,0,0,0
+55,"Participants assigned to placebo (olive oil), then received the topical corticosteroid (fluorometholone alcohol [FML] 0.1% eye drops; Allergan Pty Ltd, Irvine, CA, USA), qid, before or after contact lens wear, for 2 weeks.",0,0,0,0,0,0,0,0,0,0,0
+56,"This served as a comparator for assessing the relative degree of anti-inflammatory effect achievable with the omega-3 interventions, relative to the corticosteroid.",0,0,0,0,0,0,0,0,0,0,0
+57,"The design of the study was within-subject for the corticosteroid, to assess the maximal effect of steroid intervention, and between-subject for analyzing outcomes for the other study groups.",0,0,0,0,0,0,0,0,0,0,0
+58,Diagram of the clinical trial design.,0,0,0,0,0,0,0,0,0,0,0
+59,Participants were instructed to maintain their current diet habits throughout the study.,0,0,0,0,0,0,0,0,0,0,0
+60,"As previously described,dietary intake of omega-3 EFAs was assessed by asking participants about their consumption of omega-3–rich foods over the month prior to the study visit.",0,0,0,0,0,0,0,0,0,0,0
+61,"At subsequent visits, participants were questioned about changes to their diet and medications, and about compliance with taking the study supplements.",0,0,0,0,0,0,0,0,0,0,0
+62,"Compliance with the oral supplements was assessed by participants returning containers with unused capsules at each review, for counting by an independent researcher.",0,0,0,0,0,0,0,0,0,0,0
+63,"Acceptable compliance, for data inclusion, was 75% or more capsule consumption, based on capsule counts.",0,0,0,0,0,0,0,0,0,0,0
+64,"For the topical omega-3 group, participants returned unused minims for counting; acceptable compliance was defined as return of less than 25% of the expected unit-dose minims.",0,0,0,0,0,0,0,0,0,0,0
+65,"A target sample size of 16 participants per group was calculated based on having 90% power, at a two-tailed significance level of 0.05, to detect a 25% change from baseline in CLDEQ-8 score, assuming a SD of 30%.",0,0,0,0,0,0,0,0,0,0,0
+66,"An additional two participants per group were included to allow for up to 12% participant attrition, giving a recruitment target of 18 per group (i.e., 72 participants in total).",0,0,0,0,0,0,0,0,0,0,0
+67,A 1:1:1:1 allocation ratio was used to randomize participants.,0,1,0,0,0,0,0,0,0,0,0
+68,"An independent data manager created a randomization sequence using a random-number generator in Microsoft Excel (Microsoft Corporation, Redmond, WA, USA).",0,0,0,0,0,0,0,0,0,0,0
+69,"This schedule was provided to an independent pharmacist (Dartnell's Pharmacy, Victoria, Australia), who repackaged the oral supplements into identical opaque containers using the schedule.",0,0,0,0,0,0,0,0,0,0,0
+70,"The supplement containers were labeled with the participant randomization codes, from 001 to 072.",0,0,0,0,0,0,0,0,0,0,0
+71,"A masked investigator, who dispensed the investigational product labeled with the appropriate code, sequentially enrolled eligible participants.",0,0,0,0,0,0,0,0,0,0,0
+72,"Participants allocated to the oral supplements were masked to their allocation, as achieved by the products being dispensed in identical opaque containers by a masked investigator.",0,0,0,0,1,1,1,0,0,0,0
+73,"Study personnel, including the investigators, clinical outcome assessor, and laboratory outcome assessors were masked to this allocation.",0,0,0,0,1,1,1,0,0,0,0
+74,Participants allocated to the topical omega-3 and steroid groups were not masked to their allocation.,0,0,0,0,1,1,1,0,0,0,0
+75,Clinical Examination Procedures,0,0,0,0,1,1,1,0,0,0,0
+76,"Unless otherwise indicated, all procedures were performed at each visit.",0,0,0,0,1,1,1,0,0,0,0
+77,"A full schedule of assessments, listed in the order of testing, is provided in Table 2.",0,0,0,0,0,0,0,0,0,0,0
+78,"CLD was quantified using the CLDEQ-8, a validated survey that assesses comfort over the previous 2 weeks, on a scale from 0 to 37.",0,0,0,0,0,0,0,0,0,0,0
+79,A threshold score of 13 is consistent with clinically significant CLD.,0,0,0,0,0,0,0,0,0,0,0
+80,Best-Corrected Visual Acuity (BCVA),0,0,0,0,0,0,0,0,0,0,0
+81,"Monocular BCVA was measured in logMAR, following noncycloplegic subjective spherocylindrical refraction.",0,0,0,0,0,0,0,0,0,0,0
+82,"Tear osmolarity was measured from the inferolateral tear meniscus using the TearLab (TearLab Corp., San Diego, CA, USA), which was calibrated daily according to manufacturer's instructions.",0,0,0,0,0,0,0,1,1,0,0
+83,Room temperature was maintained at 22 ± 2°C.,0,0,0,0,0,0,0,1,1,0,0
+84,Participants using eye drops were instructed not to instill these for at least 2 hours prior to testing and this was confirmed prior to taking measurements.,0,0,0,0,0,0,0,1,1,0,0
+85,"Noninvasive tear stability on the contact lens surface was quantified using the Contact Lens - Tear Film Surface Quality (CL-TFSQ) index (E300 corneal topographer; Medmont International Pty Ltd, Victoria, Australia).",0,0,0,0,0,0,0,0,0,0,0
+86,We have shown that the TFSQ index has high repeatability (coefficient-of-variation: 9.4%) and the shortest of three consecutive measures has the best overall diagnostic utility for detecting tear film instability.,0,0,0,0,0,0,0,0,0,0,0
+87,Basal Tear Collection and Analyses,0,0,0,0,0,0,0,0,0,0,0
+88,"Nonstimulated (basal) tear samples (∼5 μL/eye) were collected from the inferior-temporal cul de sac prior to contact lens removal, using a glass microcapillary tube (20 μL MicroCap; Drummond Scientific, Broomall, PA, USA), as previously described.1 Tear flow rate was monitored to exclude potential dilution effects caused by reflex tearing.",0,0,0,0,0,0,0,0,0,0,0
+89,Only samples with a flow rate of 1 to 3 μL/min were used.,0,0,0,0,0,0,0,0,0,0,0
+90,"Following collection, samples were stored at −80°C until required for the cytokine analyses.",0,0,0,0,0,0,0,0,0,0,0
+91,"Tear cytokine levels were analyzed using an established protocol.1 This method involves a Multiplex Cytometric Bead Array for quantitative analysis of the following: IL-2, IL-4, IL-6, IL-10, IL-17A, TNF-α, and IFN-γ (Human Th1/Th2/Th17 kit; BD Biosciences, San Diego, CA, USA).",0,0,0,0,0,0,0,0,0,0,0
+92,"Samples were acquired on a Becton Dickinson FACS Canto II flow cytometer (Franklin Lakes, NJ, USA) and data were analyzed using Becton Dickinson FCAP Array software.",0,0,0,0,0,0,0,0,0,0,0
+93,"Changes to tear cytokine levels were measured as the percentage change from baseline, in individuals who had detectable levels of each cytokine at baseline.",0,0,0,0,0,0,0,0,0,0,0
+94,"LC-MS separation and characterization of tear proteins was carried out by analytical HPLC using Zorbax 300 SB-C18 column (150 × 0.5 mm; Agilent Technologies, Santa Clara, CA, USA) and Agilent 1100 Series Capillary LC system in-line with an Agilent 1100 Series LC/MSD ion-trap mass spectrometer.",0,0,0,0,0,0,0,0,0,0,0
+95,Data analysis software (Agilent Technologies) was used to deconvolute the detected charge series to identify the proteins.,0,0,0,0,0,0,0,0,0,0,0
+96,Chromatograms were developed at a flow rate of 20 μL/min using solvent A 0.1% TFA in H2O and solvent B 0.1% TFA in acetonitrile as the limit buffer.,0,0,0,0,0,0,0,0,0,0,0
+97,The mass spectrometer was operated with electrospray ionization configured in the positive ion mode.,0,0,0,0,0,0,0,0,0,0,0
+98,A volume of 1 μL from each tear sample was used for each single analysis and a linear gradient of 5% to 47% of solvent B over 38 minutes was used.,0,0,0,0,0,0,0,0,0,0,0
+99,Contact Lens Fitting Assessment,0,0,0,0,0,0,0,0,0,0,0
+100,The fitting of participants' habitual contact lenses was examined at the slit lamp to ensure adequacy of lens centration and movement.,0,0,0,0,0,0,0,0,0,0,0
+101,No participants were excluded from participating in the study on the basis of an inadequate lens fitting.,0,0,0,0,0,0,0,0,0,0,0
+102,A generalized assessment of anterior segment health was undertaken.,0,0,0,0,0,0,0,0,0,0,0
+103,"The severity of bulbar redness, limbal redness, anterior blepharitis, and meibomian gland capping, in 0.1 increments, was graded using the validated Efron scale.",0,0,0,0,0,0,0,0,0,0,0
+104,"Sodium fluorescein tear break-up time (NaFl TBUT) was measured using Dry Eye Test strips (Amcon Laboratories, St. Louis, MO, USA).",0,0,0,0,0,0,0,0,0,0,0
+105,"One minute after instillation, NaFl TBUT was measured using ×10 magnification with blue illumination and a Wratten 12 yellow-barrier filter.",0,0,0,0,0,0,0,0,0,0,0
+106,Participants were asked to gently blink and then hold their eyes open for as long as comfortable.,0,0,0,0,0,0,0,0,0,0,0
+107,The interval between the blink and the appearance of the first dark spot or discontinuity in the precorneal fluorescein-stained tear layer was measured with a stopwatch.,0,0,0,0,0,0,0,0,0,0,0
+108,Three NaFl TBUTs were recorded for each eye and averaged.,0,0,0,0,0,0,0,0,0,0,0
+109,"Corneal NaFl staining was examined using ×16 magnification, blue illumination and a Wratten 12 yellow-barrier filter, 2 minutes after instilling NaFl.",0,0,0,0,0,0,0,0,0,0,0
+110,"Staining was assessed using the five-step Oxford scale, with 0.1-grading increments to maximize precision.",0,0,0,0,0,0,0,0,0,0,0
+111,"Nasal and temporal conjunctival lissamine green (LG) staining were assessed using the Oxford scale, 1 minute after instilling LG (GreenGlo; Sigma Pharmaceuticals, LLC, North Liberty, IA, USA).",0,0,0,0,0,0,0,0,0,0,0
+112,"A ‘total ocular surface staining' score (ranging from 0.0–15.0), being the sum of the individual NaFl corneal, LG temporal conjunctival, and LG nasal conjunctival scores, was determined.",0,0,0,0,0,0,0,0,0,0,0
+113,"The Schirmer test, with topical anesthesia, was performed.",0,0,0,0,0,0,0,0,0,0,0
+114,One drop of 0.5% proxymetacaine hydrochloride was instilled.,0,0,0,0,0,0,0,0,0,0,0
+115,"After 4 minutes, the folded end of a sterile Schirmer strip (EagleVision, Memphis, TN, USA) was placed between the middle and lateral third of the inferior lid margin.",0,0,0,0,0,0,0,0,0,0,0
+116,"Participants were instructed to close their eyes, in a dimly lit room, and the strip wetting was measured (and recorded in millimeters), after 5 minutes.",0,0,0,0,0,0,0,0,0,0,0
+117,"IOP was measured using a Perkins applanation tonometer (Clement Clarke, Harlow, UK) immediately after instillation of one drop of 0.5% proxymetacaine hydrochloride and NaFl dye.",0,0,0,0,0,0,0,0,0,0,0
+118,"For females of self-reported childbearing potential, a 20-mL urine sample was tested with an Instalert pregnancy test (Innovacon, Inc., San Diego, CA, USA) at the baseline and week 12 visits.",0,0,0,0,0,0,0,1,1,0,0
+119,"The primary outcome measures were mean change from baseline for (1) CLDEQ-8 score, (2) tear osmolarity, and (3) tear inflammatory cytokine levels.",0,0,0,0,0,0,0,0,0,0,0
+120,"Secondary outcomes were mean change from baseline in clinical signs for tear stability (CL-TFSQ index and NaFl TBUT), bulbar and limbal redness, ocular surface staining, anterior blepharitis, meibomian gland capping, tear production (Schirmer test score), and tear film proteins.",0,0,0,0,0,0,0,0,0,0,0
+121,"Safety was assessed by documenting adverse events (AEs), and quantifying changes to BCVA and IOP between baseline and week 12.",0,0,0,0,0,0,0,0,0,0,0
+122,"Data relating to participant demographic and baseline clinical characteristics were analyzed using GraphPad Prism (Version 5; GraphPad Software, San Diego, CA, USA) with the Mann-Whitney U, Kruskal-Wallis, χ2, or one-way ANOVA, as appropriate.",0,0,0,0,0,0,0,0,0,0,0
+123,Data normality was assessed using the D'Agostino and Pearson omnibus test.,0,0,0,0,0,0,0,0,0,0,0
+124,"Where there was a statistically significant difference between groups, Tukey or Dunnett's post hoc analyses was performed.",0,0,0,0,0,0,0,0,0,0,0
+125,"Intergroup comparisons were analyzed using GenStat (16th edition; VSN International, Hemel Hempstead, UK).",0,0,0,0,0,0,0,0,0,0,0
+126,"Repeated measures ANOVA was used to assess for differences in the posttreatment means between groups over time (i.e., the main effect of group) relative to baseline (day 1) at each time point (weeks 4 and 12).",0,0,0,0,0,0,0,0,0,0,0
+127,"To assess for the effect of the topical corticosteroid (week 14: post steroid), the baseline for each parameter was taken as the value at week 12 (post placebo, primary endpoint).",0,0,0,0,0,0,0,0,0,0,0
+128,"Where there was a statistically significant main effect, a post hoc analysis was undertaken using the Fisher's least significant difference for comparison between group means.",0,0,0,0,0,0,0,0,0,0,0
+129,"To assess for intergroup differences where data were not matched (e.g., data relating to the effect of FML 0.1% at week 14 versus the omega-3 treatment groups), a one-way ANOVA, with Dunnett's post hoc analyses, was used.",0,0,0,0,0,0,0,0,0,0,0
+130,"A post hoc analysis was also performed, combining the three omega-3 supplementation arms into a single group (n = 49) and comparing changes in outcome measures with placebo (n = 16) at week 12.",0,0,0,0,0,0,0,0,0,0,0
+131,Repeated measures ANOVA was used to assess for differences in the posttreatment means at week 12.,0,0,0,0,0,0,0,0,0,0,0
+132,Detection of outliers was performed using the generalized extreme studentized deviate test; exclusion of any data points as outliers is reported in the results.,0,0,0,0,0,0,0,0,0,0,0
+133,"For all analyses, an alpha level of 0.05 was adopted for statistical significance.",0,0,0,0,0,0,0,0,0,0,0
+134,"Unless otherwise specified, data are expressed as mean ± standard error of the mean (SEM).",0,0,0,0,0,0,0,0,0,0,0
+135,"Of 135 potential participants screened for eligibility, 72 met the eligibility criteria and were enrolled; 65 completed the week 12 visit (i.e., 90% participant retention).",0,0,0,0,0,0,0,0,0,0,0
+136,"Of the seven participants who did not complete the week 12 visit, two were from the placebo group, one was from the oral fish oil group, and four were from the topical omega-3 group.",0,0,0,0,0,0,0,0,0,0,0
+137,"Of the 16 participants who completed the primary endpoint visit and were assigned to placebo, 12 participants completed the week 14 visit, following topical corticosteroid (FML 0.1%, three time per day [tid]) treatment for 14 ± 3 days.",0,0,0,0,0,0,0,0,0,0,0
+138,Baseline participant demographic and clinical data are provided in Table 3.,0,0,0,0,0,0,0,0,0,0,0
+139,"There was no significant difference between groups for age, sex, ethnicity, or the primary clinical outcome measures; values for all secondary and safety clinical outcome measures were also similar (P > 0.05 for all comparisons).",0,0,0,0,0,0,0,0,0,0,0
+140,None of the participants reported major changes to their intake of foods containing high levels of omega-3 EFAs over the study duration.,0,0,0,0,0,0,0,0,0,0,0
+141,Participant Baseline Characteristics,0,0,0,0,0,0,0,0,0,0,0
+142,There was a high level of treatment fidelity as measured by returned capsule counts (average compliance: 89 ± 4%).,0,0,0,0,0,0,0,0,0,0,0
+143,All participants exceeded the prespecified minimum level of compliance; no data were excluded from the analysis due to inadequate compliance.,0,0,0,0,0,0,0,0,0,0,0
+144,Topical Corticosteroid Effects,0,0,0,0,0,0,0,0,0,0,0
+145,The change in CLDEQ-8 score relative to baseline was similar after 2 weeks of topical corticosteroid (Fig.,0,0,0,0,0,0,0,0,0,0,0
+146,"2A; week 14 [post steroid]: −3.0 ± 1.0 units, n = 12 versus week 12 [post placebo]: −3.8 ± 1.2 units, n = 12, P > 0.05).",0,0,0,0,0,0,0,0,0,0,0
+147,The topical corticosteroid had no significant effect on tear osmolarity (Fig.,0,0,0,0,0,0,0,0,0,0,0
+148,"Mean change in CLDEQ-8 symptom score (A), tear IL-17A (pg/mL) (B), and tear IL-6 (pg/mL) (C) levels from baseline with placebo and topical corticosteroid treatment.",0,0,0,0,0,0,0,0,0,0,0
+149,"(A) Change in CLDEQ-8 symptom score from baseline (day 1) at week 12 (post placebo, n = 12, white bars) and at week 14 (post steroid: FML, 0.1%, tid for 2 weeks, n = 12, relative to the postplacebo, week 12 timepoint, gray bars).",0,0,0,0,0,0,0,0,0,0,0
+150,"(B) Percentage change in tear IL-17A levels at weeks 12 (post placebo, n = 12) and 14 (post steroid, n = 12).",0,0,0,0,0,0,0,0,0,0,0
+151,"(B) Percentage change in tear IL-6 levels at weeks 12 (post placebo, n = 12) and 14 (post steroid, n = 12).",0,0,0,0,0,0,0,0,0,0,0
+152,Data are expressed as mean ± SEM.,0,0,0,0,0,0,0,0,0,0,0
+153,Asterisks show statistically significant intergroup differences (*P < 0.05).,0,0,0,0,0,0,0,0,0,0,0
+154,The arrow indicates the direction of improvement.,0,0,0,0,0,0,0,0,0,0,0
+155,"Change in tear osmolarity from baseline (day 1) at weeks 4 and 12 in each of the study groups, and at week 14 (relative to week 12, post placebo, in individuals from the placebo group who undertook a 2-week treatment with a topical corticosteroid, FML 0.1%, tid).",0,0,0,0,0,0,0,0,0,0,0
+156,Data are expressed as mean ± SEM.,0,0,0,0,0,0,0,0,0,0,0
+157,"FML imparted a significant, relative reduction in the levels of IL-17A (Fig.",0,0,0,0,0,0,0,0,0,0,0
+158,"2B: week 14 [post steroid]: −71.1 ± 14.3%, n = 12 versus week 12 [post placebo]: −4.7 ± 12.6%, n = 12, P < 0.05) and IL-6 (Fig.",0,0,0,0,0,0,0,0,0,0,0
+159,"2C: week 14 [post steroid]: −47.6 ± 17.5%, n = 12 versus week 12 [post placebo]: +80.2 ± 53.1%, n = 12, P < 0.05) compared with week 12 (post placebo).",0,0,0,0,0,0,0,0,0,0,0
+160,"Compared with placebo, FML did not have any significant effect on the tear concentrations of the other cytokines (IL-2, IL-4, IL-10, TNF-α, and IFN-γ) relative to week 12.",0,0,0,0,0,0,0,0,0,0,0
+161,"Relative to week 12, FML did not have a significant effect on any of the secondary outcomes (i.e., tear stability, bulbar redness, limbal redness, ocular surface staining, anterior blepharitis, meibomian gland capping, and tear production) at week 14.",0,0,0,0,0,0,0,0,0,0,0
+162,Omega-3 Supplementation Effects,0,0,0,0,0,0,0,0,0,0,0
+163,"At week 12, the CLDEQ-8 score was reduced from baseline (day 1) with oral fish oil supplementation (Fig.",0,0,0,0,0,0,0,0,0,0,0
+164,"4: −7.3 ± 0.8 units, n = 17, P < 0.05), compared with oral placebo (−3.5 ± 0.9 units, n = 16).",0,0,0,0,0,0,0,0,0,0,0
+165,"For the other omega-3 interventions there was no significant change in CLDEQ-8 score from baseline, relative to placebo (Fig.",0,0,0,0,0,0,0,0,0,0,0
+166,"4, P > 0.05 for all comparisons).",0,0,0,0,0,0,0,0,0,0,0
+167,"Change in CLDEQ-8 symptom score from baseline (day 1) at weeks 4 and 12 in each of the study groups, and at week 14 (relative to week 12, post placebo, in individuals from the placebo group who undertook a 2-week treatment with a topical corticosteroid, FML 0.1%, 3 times daily).",0,0,0,0,0,0,0,0,0,0,0
+168,Data are expressed as mean ± SEM.,0,0,0,0,0,0,0,0,0,0,0
+169,Asterisks show statistically significant intergroup differences (*P < 0.05).,0,0,0,0,0,0,0,0,0,0,0
+170,The arrow indicates the direction of improvement.,0,0,0,0,0,0,0,0,0,0,0
+171,"For tear cytokines, IL-17A (Fig.",0,0,0,0,0,0,0,0,0,0,0
+172,"5) was reduced from baseline at week 12 in the oral fish oil (−63.2 ± 12.8%, n = 12, P < 0.05) and topical omega-3 groups (−76.2 ± 10.8%, n = 10, P < 0.05) relative to oral placebo (−3.8 ± 12.7%, n = 12).",0,0,0,0,0,0,0,0,0,0,0
+173,"6) was also reduced at week 12 relative to baseline, compared with oral placebo, in each of the omega-3 groups (P < 0.05 for each comparison).",0,0,0,0,0,0,0,0,0,0,0
+174,"There were no significant intergroup differences for tear concentrations of the other cytokines (IL-2, IL-4, IL-10, TNF-α, and IFN-γ), relative to baseline, at weeks 4 or 12 (P > 0.05 for all comparisons).",0,0,0,0,0,0,0,0,0,0,0
+175,"Percentage change from baseline (day 1) in tear IL-17A levels at weeks 4 and 12 in each of the study groups, and at week 14 (relative to week 12, post placebo, in individuals who had received the oral placebo intervention and then underwent a 2-week treatment with a topical corticosteroid, FML 0.1%, tid).",0,0,0,0,0,0,0,0,0,0,0
+176,"There was one participant in the oral fish + flaxseed group (week 4) and two participants in the oral fish oil group (week 12), that were identified as outliers using the generalized extreme studentized deviate test and were removed from the analysis.",0,0,0,0,0,0,0,0,0,0,0
+177,Data are expressed as mean ± SEM.,0,0,0,0,0,0,0,0,0,0,0
+178,Asterisks show statistically significant intergroup differences (*P < 0.05).,0,0,0,0,0,0,0,0,0,0,0
+179,The arrow indicates the direction of improvement.,0,0,0,0,0,0,0,0,0,0,0
+180,"Percentage change from baseline (day 1) in tear IL-6 levels at weeks 4 and 12 in each of the study groups, and at week 14 (relative to week 12, post placebo, in individuals who had received the oral placebo intervention and then underwent a 2-week treatment with a topical corticosteroid, FML 0.1%, tid).",0,0,0,0,0,0,0,0,0,0,0
+181,"There was one participant in the oral fish group (week 12) and two participants in the oral fish + flaxseed oil group (week 12), that were identified as outliers using the generalized extreme studentized deviate test and were removed from the analysis.",0,0,0,0,0,0,0,0,0,0,0
+182,Data are expressed as mean ± SEM.,0,0,0,0,0,0,0,0,0,0,0
+183,"Asterisks show statistically significant intergroup differences (*P < 0.05, ***P < 0.001).",0,0,0,0,0,0,0,0,0,0,0
+184,The arrow indicates the direction of improvement.,0,0,0,0,0,0,0,0,0,0,0
+185,"There was no significant intergroup difference for the change from baseline for any of the secondary outcomes (NaFl TBUT, bulbar redness, limbal redness, ocular surface staining, anterior blepharitis, meibomian gland capping, tear production, CL-TFSQ index; Fig.",0,0,0,0,0,0,0,0,0,0,0
+186,"Change in noninvasive tear film stability on the contact lens surface (CL-TFSQ index, measured in seconds) from baseline (day 1) at weeks 4 and 12 in each of the study groups, and at week 14 (relative to week 12, post placebo, in individuals who had received the oral placebo intervention and then underwent a 2-week treatment with a topical corticosteroid, FML 0.1%, tid).",0,0,0,0,0,0,0,0,0,0,0
+187,Data are expressed as mean ± SEM.,0,0,0,0,0,0,0,0,0,0,0
+188,The arrow indicates the direction of improvement.,0,0,0,0,0,0,0,0,0,0,0
+189,"For the tear protein analyses, eight distinct protein peaks were detected using HPLC.",0,0,0,0,0,0,0,0,0,0,0
+190,The change in area under the curve (AUC) from baseline at weeks 12 and 14 were quantified.,0,0,0,0,0,0,0,0,0,0,0
+191,"There was no significant change to the AUC for any of the distinct protein peaks, either between groups or within groups (P > 0.05 for all comparisons; data not shown).",0,0,0,0,0,0,0,0,0,0,0
+192,"A post hoc analysis was performed, combining the three omega-3 intervention groups (n = 49) and comparing changes in the primary and secondary outcomes, relative to day 1, with the placebo group (n = 16) at week 12.",0,0,0,0,0,0,0,0,0,0,0
+193,This analysis did not identify any other significant differences relative to placebo (P > 0.05 for all comparisons).,0,0,0,0,0,0,0,0,0,0,0
+194,"At weeks 12 and 14, there were no detrimental effects on BCVA or IOP in any of the study groups.",0,0,0,0,0,0,0,0,0,0,0
+195,There were no pretreatment AEs and all interventions were well tolerated.,0,0,0,0,0,0,0,0,0,0,0
+196,"Of the 20 AEs, 11 were judged as mild (i.e., awareness of symptoms or signs but well tolerated) and nine were considered moderate (i.e., discomfort interfering with normal activity).",0,0,0,0,0,0,0,0,0,0,0
+197,Adverse Events Stratified By Severity and Study Group,0,0,0,0,0,0,0,0,0,0,0
+198,"The most frequently reported AEs were colds (30%) and gastrointestinal events (e.g., nausea and bloating, in 20%).",0,0,0,0,0,0,0,0,0,0,0
+199,"Based on the principal investigator's (LED) assessment, 65% were deemed to have no or an unlikely potential association with the study supplements and 35% of the AEs were considered potentially related to the study interventions.",0,0,0,0,0,0,0,0,0,0,0
+200,"The aim of this randomized, placebo-controlled trial was to compare the efficacy of different anti-inflammatory approaches, comprising a topical corticosteroid and three forms of omega-3 supplements (oral long-chain [fish oil], oral long- and short-chain [fish and flaxseed oils], and topical eye drops), for modulating the potential ocular inflammatory overlay present in individuals who experience CLD.",0,0,0,0,0,0,0,1,1,1,1
+201,"Using a within-subject design, we show that acute application of a low-potency topical corticosteroid (FML 0.1%, tid for 2 weeks) significantly reduces some tear inflammatory markers in CLD.",0,0,0,0,0,0,0,0,0,1,1
+202,The degree of improvement is similar to the effect imparted by long-term oral long-chain omega-3 supplements (fish oil: 900 mg/d EPA + 600 mg/d DHA for 12 weeks).,0,0,0,0,0,0,0,0,0,1,1
+203,"The 12-week intervention period was selected based upon the results of recent clinical trials, where clinical improvements were evident in individuals with dry eye symptoms, where similar dosing was used.",0,0,0,0,0,0,0,0,0,1,1
+204,"In addition, this intervention period is supported by experimental omega-3 fatty acid tissue repletion studies, undertaken by our group, which show a 10-week period of dietary supplementation is necessary to maximize tissue levels.",0,0,0,0,0,0,0,0,0,1,1
+205,"We identify parallels between modulating tear inflammatory cytokine levels with topical corticosteroids and omega-3 EFA supplements; both approaches induced relative reductions in basal tear concentrations of IL-17A and IL-6, with the effect more pronounced with the corticosteroid.",0,0,0,0,0,0,0,0,0,0,0
+206,Our findings demonstrate the benefit of oral long-chain omega-3 supplements for reducing CLD.,0,0,0,0,0,0,0,0,0,0,0
+207,"Our data also highlight the potential for topical omega-3 eye drops to modulate specific tear film inflammatory mediators (i.e., IL-17A and IL-6).",0,0,0,0,0,0,0,0,0,0,0
+208,"In the present study, 12 weeks of oral fish oil resulted in an average reduction in CLDEQ-8 symptom score of 7.2 units relative to baseline.",0,0,0,0,0,0,0,0,0,0,0
+209,"This change is clinically significant, exceeding the minimal clinically important difference of 3.0 units for the CLDEQ-8 questionnaire.",0,0,0,0,0,0,0,0,0,0,0
+210,A considerable body of evidence lends support to topical corticosteroids and EFA supplements reducing ocular surface symptoms in dry eye disease.,0,0,0,0,0,0,0,0,0,0,0
+211,"However, there has been less research considering whether these interventions impart similar benefits in CLD.",0,0,0,0,0,0,0,0,0,0,0
+212,"Anti-inflammatory therapies, including corticosteroids and NSAIDs, have not been previously investigated.",0,0,0,0,0,0,0,0,0,0,0
+213,"Two prior studies examined the use of omega-6 and omega-3 EFA supplements for treating CLD, without considering tear inflammatory markers.",0,0,0,0,0,0,0,0,0,0,0
+214,"In a single-site randomized trial involving female contact lens wearers, evening primrose supplements (omega-6 EFAs) for 6 months reduced dryness symptoms without significantly altering other clinical signs.",0,0,0,0,0,0,0,0,0,0,0
+215,"A 6-month intervention study with oral omega-3 EFAs (360 mg/d EPA + 240 mg/d DHA) also reported improvements in lens comfort, with an associated increase in conjunctival goblet cell density.",0,0,0,0,0,0,0,0,0,0,0
+216,"In the present study, we observed parallels between modulating the inflammatory response in CLD, using short-term topical corticosteroids and omega-3 supplementation for several weeks.",0,0,0,0,0,0,0,0,0,0,0
+217,"After 2 weeks of topical FML (0.1%, tid), levels of the tear proinflammatory cytokines IL-17A and IL-6 were significantly reduced.",0,0,0,0,0,0,0,0,0,0,0
+218,Glucocorticoids are the cornerstone of treatment for inflammation and attenuate the production and action of a diverse range of cytokines.,0,0,0,0,0,0,0,0,0,0,0
+219,"However, in practice, the anti-inflammatory benefits of these drugs must be balanced against the potential adverse events that can occur with long-term use, including cataract, enhanced susceptibility to ocular infection, and raised IOP, all of which are unacceptable risks for managing CLD.",0,0,0,0,0,0,0,0,0,0,0
+220,"Given the known anti-inflammatory effects of omega-3 fatty acids and their safety profile (including an absence of significant ocular side effects with sustained supplementation), we were interested in comparing this approach to the gold-standard of a corticosteroid.",0,0,0,0,0,0,0,0,0,0,0
+221,"At week 12, tear levels of IL-17A were reduced from baseline in both the oral fish oil and topical omega-3 groups, compared with placebo; a similar trend was observed in the oral combined long- and short-chain omega-3 supplement group, but did not reach statistical significance (P = 0.07).",0,0,0,0,0,0,0,0,0,0,0
+222,"The observed timing of the improvement with omega-3 supplements is consistent with their physiologic effects taking several weeks, allowing for their incorporation into plasma membranes.",0,0,0,0,0,0,0,0,0,0,0
+223,"Our group reported a similar reduction in tear IL-17A levels with oral krill oil supplementation in mild-to-moderate dry eye disease; interestingly, in this earlier study, oral fish oil supplements did not appear to confer the same benefit that we find in our present work, which may be related to the presence of a more significant inflammatory process in dry eye compared with the subclinical expression in CLD.",0,0,0,0,0,0,0,0,0,0,0
+224,"The recently published Dry Eye Assessment and Management study, which assessed the effects of high-dose fish oil supplementation (2000 mg/d EPA + 1000 mg/d DHA) also did not find a beneficial effect in individuals with moderate to severe symptoms of dry eye disease, relative to placebo; these effects may also relate to the dosing, potential concomitant use of adjunct anti-inflammatory interventions, and/or unregulated changes to existing therapies over the study duration.",0,0,0,0,0,0,0,0,0,0,0
+225,"A different pattern of change was evident for tear IL-6 levels, which were elevated at week 4, relative to baseline, and remained elevated until week 12 in the placebo group.",0,0,0,0,0,0,0,0,0,0,0
+226,IL-6 is a multifunctional cytokine with potential proinflammatory actions.,0,0,0,0,0,0,0,0,0,0,0
+227,"IL-6 is upregulated during soft contact lens wear and increases in concentration with progressive lens wear, supporting the presence of a chronic inflammatory response.",0,0,0,0,0,0,0,0,0,0,0
+228,"As anticipated with a potent anti-inflammatory, topical FML significantly decreased tear IL-6, to below the levels measured at the end of the placebo period.",0,0,0,0,0,0,0,0,0,0,0
+229,"All forms of omega-3 supplementation, including topical administration, attenuated the relative increase in IL-6 with sustained contact lens wear, but not to the extent of the corticosteroid.",0,0,0,0,0,0,0,0,0,0,0
+230,"The beneficial effect of omega-3 supplements on reducing tear IL-6 is consistent with the anti-inflammatory effects described in relation to the attenuation of retinal inflammation, via suppression of IL-6, in a mouse model of choroidal neovascularization.",0,0,0,0,0,0,0,0,0,0,0
+231,"Experimental studies have also shown that omega-3 consumption can alter the differentiation of T-helper cells and reduce systemic levels of proinflammatory cytokines, including IL-17A and IL-6.",0,0,0,0,0,0,0,0,0,0,0
+232,"Furthermore, antibody blockade of IL-6 receptors in an experimental model of corneal injury can significantly inhibit corneal inflammation and the associated neovascular response.",0,0,0,0,0,0,0,0,0,0,0
+233,"Topical omega-3 supplementation modulated some tear proinflammatory cytokines and, further, the magnitude of the effect was similar to oral supplementation.",0,0,0,0,0,0,0,0,0,0,0
+234,"In the topical preparation, the concentration of long-chain omega-3s was 0.025% EPA and 0.0025% DHA, equating to 7.5 mg EPA and 0.7 5mg DHA per 30-μL eye drop.",0,0,0,0,0,0,0,0,0,0,0
+235,"Based upon four times daily dosing, this amounts to a local delivery of omega-3 fatty acids of 30 mg EPA and 3 mg DHA to each eye per day, being approximately 50-fold lower than the oral fish oil dose.",0,0,0,0,0,0,0,0,0,0,0
+236,"The observed reduction in tear IL-17A and IL-6 with the topical omega-3 is unlikely to be an artefact resulting from tear film dilution, as we ensured tear samples were collected at least 2 hours after the last instillation of eye drops and levels of the other assayed cytokines were not significantly altered.",0,0,0,0,0,0,0,0,0,0,0
+237,"We propose that topical administration may be sufficient to promote omega-3 fatty acid incorporation into ocular surface lipid membranes, to yield anti-inflammatory effects.",0,0,0,0,0,0,0,0,0,0,0
+238,Alternatively it might add directly to the pool of free fatty acids available as metabolic substrates for cyclo-oxygenase and lipo-oxygenase activity.,0,0,0,0,0,0,0,0,0,0,0
+239,"Topical short-chain omega-3 fatty acids (ALA) have been reported to reduce corneal dendritic cell numbers and decrease the expression of proinflammatory mediators in the conjunctiva, in an experimental model of dry eye.",0,0,0,0,0,0,0,0,0,0,0
+240,"A class of lipid-derived immunomodulators, resolvins, which are metabolic by-products of EPA (resolvin E1) and DHA (resolvin D1), have been identified as potential anti-inflammatory agents for treating dry eye disease.",0,0,0,0,0,0,0,0,0,0,0
+241,"In cultured conjunctival goblet cells, resolvin E1 and resolvin D1 reduce inflammation through decreasing levels of cysteinyl leukotrienes.",0,0,0,0,0,0,0,0,0,0,0
+242,"A topical (0.1%) form of the resolvin E1 prodrug, RX-10045, which is rapidly hydrolyzed to its active form in situ, has been shown to reduce corneal stromal haze after rabbit corneal injury.",0,0,0,0,0,0,0,0,0,0,0
+243,"Together, these findings are consistent with topical omega-3 fatty acids inducing a local modulation of ocular inflammation, and that eye drop formulations of omega-3 fatty acids may be a viable alternative for people who would prefer not to consume oral supplements.",0,0,0,0,0,0,0,0,0,0,0
+244,A limitation of the study was that participants assigned to the topical omega-3 and corticosteroid groups were not masked to their allocation.,0,0,0,0,0,0,0,0,0,0,0
+245,"Although, it should be noted that despite being unmasked, these topical groups did not show a significant improvement in the subjective outcome measure (CLDEQ-8 score).",0,0,0,0,0,0,0,0,0,0,0
+246,"Rather, significant changes in these groups were only evident for objective outcome measures (tear IL-17A and IL-6 levels), which are unlikely to have been affected by participants being unmasked.",0,0,0,0,0,0,0,0,0,0,0
+247,We also acknowledge that a more robust assessment of participant compliance could have been achieved with the measurement of systemic omega-3 levels from blood assays.,0,0,0,0,0,0,0,0,0,0,0
+248,"In conclusion, this trial demonstrates parallels between how inflammation in CLD is modulated with an acutely administered, low-potency topical corticosteroid and longer-term (12 week) use of omega-3 EFA supplements.",0,0,0,0,0,0,0,0,0,0,0
+249,"Relative to placebo, CLD was reduced by oral fish oil (900 mg/d EPA + 600 mg/d DHA for 12 weeks).",0,0,0,0,0,0,0,0,0,0,0
+250,"Both oral and topical forms of omega-3 supplements also induced relative reductions in the tear concentration of key proinflammatory cytokines, being similar to the treatment effect of the short-term (2 week) use of a topical corticosteroid.",0,0,0,0,0,0,0,0,0,0,0
+251,"Addition of short-chain omega-3 fatty acids did not provide any additional benefit in modulating tear inflammatory cytokines, compared with a long-chain supplement alone.",0,0,0,0,0,0,0,0,0,0,0
+252,Our findings demonstrate the benefit of omega-3 supplementation as an effective anti-inflammatory approach for modifying the inflammatory overlay present during CLD.,0,0,0,0,0,0,0,0,0,0,0
+253,"Our data suggest that topical omega-3 EFAs may promote localized anti-inflammatory effects, raising the possibility that systemic EFA may not be required to treat mild ocular surface inflammation.",0,0,0,0,0,0,0,0,0,0,0

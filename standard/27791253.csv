@@ -1,0 +1,141 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To evaluate and compare the efficacy of a lipid-based lubricant eyedrop formulation (hydroxypropyl guar/propylene glycol/phospholipid [HPG/PG/PL]) with preservative-free saline for the treatment of dry eye.,0,0,0,0,N,N,0,0,0,0,0
+1,"This was a prospective, multicenter, randomized, single-masked, parallel-group phase 4 clinical study.",0,0,0,0,N,N,0,0,0,0,0
+2,"Patients ≥18 years diagnosed with dry eye received 1 drop of saline 4 times daily (QID) for 15 days during a run-in phase, followed by randomization.",0,0,0,0,N,N,0,0,0,0,0
+3,Patients then instilled HPG/PG/PL or saline QID through day 35 and as needed through day 90.,0,0,0,0,N,N,0,0,0,0,0
+4,"Change in tear film break-up time (TFBUT), change in total ocular surface staining (TOSS) score, and Impact of Dry Eye on Everyday Life (IDEEL) were evaluated on day 35.",0,0,0,0,N,N,0,0,0,0,0
+5,Increase in TFBUT from baseline to day 35 was assessed during the interim and final analyses.,0,0,0,0,N,N,0,0,0,1,0
+6,"Mean ± SE difference between the HPG/PG/PL (n = 110) and saline groups (n = 100) was 1.3 ± 0.4 seconds (interim analysis; 95% confidence interval [CI] 0.5-2.1 seconds; p = 0.0012) and 1.0 ± 0.3 seconds (final analysis; 95% CI 0.4-1.6 seconds; p = 0.0011), demonstrating the superiority of HPG/PG/PL.",0,0,0,0,N,N,0,0,0,1,0
+7,The mean ± SE difference between the HPG/PG/PL and saline groups for IDEEL treatment effectiveness scores was 16.0 ± 3.6 (95% CI 8.9-23.1; p<0.0001).,0,0,0,0,N,N,0,0,0,1,0
+8,No significant differences in TOSS scores or IDEEL inconvenience scores were observed between treatment groups.,0,0,0,0,N,N,0,0,0,1,0
+9,Thirty-five days of QID HPG/PG/PL treatment resulted in a statistically significant improvement in TFBUT and IDEEL treatment effectiveness scores compared with saline but not in TOSS or IDEEL treatment inconvenience scores.,0,0,0,0,N,N,0,0,0,0,0
+10,HPG/PG/PL was well-tolerated by patients.,0,0,0,0,N,N,0,0,0,0,0
+11,"Keywords Hydroxypropyl guar, Ocular surface staining, Propylene glycol, Quality of life, Systane Balance, Tear film break-up time",0,0,0,0,N,N,0,0,0,0,0
+12,"Dry eye syndrome is a proteiform condition combining various levels of deficiency of the aqueous, lipid, or mucin components of the tear film, with subsequent increase in tear film osmolarity, tear film instability, and ocular surface inflammation.",0,0,0,0,N,N,0,0,0,0,0
+13,"Lipid deficiency is thought to play a significant role in most cases of dry eye and is frequently caused by meibomian gland dysfunction (i.e., decreased number and function of lipid-secreting meibomian glands) .",0,0,0,0,N,N,0,0,0,0,0
+14,"Lipid deficiency results in excessive evaporation of the tear film, which exposes the ocular surface to desiccation, friction-induced damage, subsequent inflammation, and discomfort.",0,0,0,0,N,N,0,0,0,0,0
+15,Objective signs such as decreased tear film break-up time (TFBUT) and increased corneal and conjunctival staining indicative of epithelial damage are useful in diagnosing dry eye.,0,0,0,0,N,N,0,0,0,0,0
+16,"However, diagnosis can be complicated by a lack of correlation between signs of dry eye and patient-reported symptoms of ocular dryness, burning, grittiness, foreign body sensation, and photophobia; as such, consideration of both the subjective and objective characteristics of dry eye is necessary.",0,0,0,0,N,N,0,0,0,0,0
+17,"The goals of dry eye management include increasing tear film stability, reducing ocular surface damage, and improving ocular symptoms.",0,0,0,0,N,N,0,0,0,0,0
+18,Artificial tears are the first-line treatment for dry eye.,0,0,0,0,N,N,1,0,0,0,0
+19,"Many commonly used formulations, such as saline, temporarily supplement the aqueous component of the tear film but must be used frequently to relieve the signs and symptoms of dry eye and may not increase TFBUT.",0,0,0,0,N,N,0,0,0,0,0
+20,Lubricant eyedrops formulated with lipids or viscosity-increasing agents are thought to provide longer-lasting effects by increasing residence time on the ocular surface and by restoring multiple components of the tear film to improve tear film stability.,0,0,0,0,N,N,0,0,0,0,0
+21,"One lipid-based lubricant eyedrop containing the gelling agent hydroxypropyl guar (HPG), the demulcent propylene glycol (PG), the phospholipid (PL) dimyristoyl phosphatidylglycerol, oil microemulsions, mineral oil, and sorbitol to optimize viscosity (HPG/PG/PL; Systane® Balance) was previously shown to improve patient-reported dry eye symptoms.",0,0,0,0,N,N,0,0,0,0,0
+22,"Further, subscales for symptom bother, treatment satisfaction, and quality of life in the Impact of Dry Eye on Everyday Life (IDEEL) questionnaire were significantly improved compared with patients’ routine drops.",0,0,0,0,N,N,0,0,0,0,0
+23,"In a randomized comparison study, the lipid-based HPG/PG/PL lubricant eyedrop was significantly more effective in increasing TFBUT compared with saline and was well-tolerated.",0,0,0,0,N,N,0,0,0,0,0
+24,"Although limited by relatively small sample sizes, these studies suggest that the HPG/PG/PL formulation improves the signs and symptoms of dry eye.",0,0,0,0,N,N,0,0,0,0,0
+25,This study evaluated the efficacy and safety of the lipid-based HPG/PG/PL lubricant eyedrop compared with preservative-free saline in patients with lipid-deficient dry eye.,0,0,0,0,N,N,0,0,0,0,0
+26,"This was a prospective, randomized, single-masked, parallel-group phase 4 study conducted at 35 sites in France, Germany, Italy, the Netherlands, Poland, Spain, and the United Kingdom  (ClinicalTrials.gov identifier NCT01967147).",0,0,0,0,N,N,0,0,0,0,0
+27,The study protocol received institutional review board approvals from each respective investigational site.,0,0,0,0,N,N,0,0,0,0,0
+28,The study was conducted in accordance with the Declaration of Helsinki and the International Conference on Harmonisation Good Clinical Practice standards.,0,0,0,0,N,N,0,0,0,0,0
+29,Study participants provided voluntary written informed consent at screening.,0,0,0,0,N,N,0,0,0,0,0
+30,The study included a run-in phase and 2 treatment phases (Fig.,0,0,0,0,N,N,1,0,0,0,1
+31,"During the 15-day run-in phase, patients self-instilled 1 drop of saline in each eye 4 times daily (QID).",0,0,0,0,N,N,0,0,0,0,0
+32,"At a post-run-in baseline visit (day 0), eligible patients were randomized 1:1 to receive either lipid-based HPG/PG/PL lubricant eyedrops (Systane® Balance; Alcon Laboratories, Inc., Fort Worth, TX, USA) or preservative-free saline for the duration of the study.",0,1,0,0,N,N,0,0,0,0,0
+33,"During the first treatment phase, patients instilled their assigned eyedrops in each eye QID through day 35.",0,0,0,0,N,N,0,0,0,0,0
+34,"In the second treatment phase, patients were instructed to instill their assigned eyedrops in each eye as needed (PRN) through day 90.",0,0,0,0,N,N,0,0,0,0,0
+35,Patients instilled randomized treatments in both eyes.,0,1,0,0,N,N,0,0,0,0,1
+36,Arrow indicates interim analysis time point at day 35.,0,0,0,0,N,N,0,0,0,0,0
+37,The interim efficacy analysis was conducted after 40% of the planned patients completed the day 35 visit or completed the study.,0,0,0,0,N,N,0,0,0,0,0
+38,The final efficacy analysis was conducted after all patients completed the study.,0,0,0,0,N,N,0,0,0,0,0
+39,HPG/PG/PL = hydroxypropyl guar/propylene glycol/phospholipid lubricant eyedrop; PRN = as needed; QID = 4 times daily.,0,0,0,0,N,N,0,0,0,0,0
+40,Eligible patients were aged ≥18 years and diagnosed with dry eye ≥6 months before the pre-run-in screening visit.,1,0,0,1,N,N,0,1,0,0,0
+41,"The following dry eye criteria were required to be present in at least 1 eye at the screening visit: meibomian gland dysfunction grade ≤2 for meibum expressibility and meibum quality, TFBUT ≤5 seconds, and unanesthetized Schirmer I test result ≥3 mm.",1,0,0,1,N,N,0,1,0,0,0
+42,An additional inclusion criterion was best-corrected visual acuity of 55 Early Treatment Diabetic Retinopathy Study (ETDRS) letters (20/80 Snellen) or better in each eye.,1,0,0,1,N,N,0,1,0,0,0
+43,"Key exclusion criteria were use of topical treatments containing benzalkonium chloride or other products with known corneal surface toxicity, change in eyelid hygiene, insertion of punctal plugs, initiation of diathermy, use of contact lenses, or participation in an investigational drug or device trial ≤30 days before screening; active ocular allergy, infection, inflammation unrelated to dry eye, or oculodermal rosacea with meibomian gland dysfunction; ocular or intraocular surgery, eyelid surgery, keratorefractive procedures, corneal transplant, or serious ocular trauma ≤1 year before screening; use of systemic medications known to cause dry eye unless the treatment regimen was stable for ≥30 days before screening and throughout the study; pregnancy or possible pregnancy during the study; and hypersensitivity to study treatments.",1,0,0,1,N,N,0,1,0,0,0
+44,"The primary efficacy endpoint was change in TFBUT from baseline to day 35 in the study eye (i.e., the eye with the shorter TFBUT at screening or the right eye if both eyes had the same TFBUT at screening).",0,0,0,0,N,N,0,0,1,0,0
+45,"Additional efficacy outcomes were changes from baseline to day 35 in total ocular surface staining (TOSS) score and IDEEL questionnaire scores for the treatment satisfaction module, which included treatment effectiveness and treatment inconvenience.",0,0,0,0,N,N,0,0,1,0,0
+46,Safety was monitored by adverse event (AE) reporting (volunteered and elicited).,0,0,0,0,N,N,0,0,1,0,0
+47,Efficacy endpoints were evaluated at day 35 (QID dosing only); AEs were reported through day 90 and included the QID and PRN dosing phases.,0,0,0,0,N,N,0,0,1,0,0
+48,Tear film break-up time was assessed by slit-lamp examination after instillation of sodium fluorescein.,0,0,0,0,N,N,0,0,1,0,0
+49,"Three consecutive readings were collected, and the average TFBUT was recorded.",0,0,0,0,N,N,0,0,0,0,0
+50,"The TOSS score was calculated as the sum of staining scores for corneal fluorescein staining, nasal conjunctival lissamine green staining, and temporal conjunctival lissamine green staining.",0,0,0,0,N,N,0,0,0,0,0
+51,Staining for each zone was rated on an Oxford grading scale from 0 (none) to 5 (severe); the maximum TOSS score was 15 points.,0,0,0,0,N,N,0,0,0,0,0
+52,"The IDEEL scores were calculated as the mean of patient-reported scores for treatment effectiveness or treatment inconvenience items and also multiplied by 25 (possible score range, 0 = complete disability to 100 = no disability).",0,0,0,0,N,N,0,0,0,0,0
+53,Efficacy endpoints were analyzed in the intent-to-treat (ITT) population (all patients randomized to treatment).,0,0,0,0,N,N,0,0,0,0,0
+54,The AEs were assessed for all patients who received study medication.,0,0,0,0,N,N,1,0,0,0,0
+55,"Sample size calculations determined that a study population of 294 patients was sufficient to detect a between-group difference in TFBUT change from baseline with 90% power, assuming a mean treatment difference of 0.945 seconds and an SD of 2.5 seconds.",0,0,0,0,N,N,0,0,0,0,0
+56,"The actual magnitude of the TFBUT treatment difference was uncertain; therefore, an interim analysis of the primary efficacy endpoint was conducted after ≥40% of the total number of planned patients (n ≥118/294) completed the day 35 visit or completed the study.",0,0,0,0,N,N,0,0,0,0,0
+57,"If superiority of HPG/PG/PL over saline with regard to TFBUT was not demonstrated in the interim analysis at the prespecified significance criterion of p<0.0021, the study was to continue until all planned patients were enrolled (with a final p<0.05 in that case).",0,0,0,0,N,N,0,0,0,0,0
+58,"If the criterion was met at the planned interim analysis (p<0.0021), the study was to be stopped; a final efficacy analysis was then to be conducted after all patients enrolled at the point of the interim analysis completed the study.",0,0,0,0,N,N,0,0,0,0,0
+59,"Tear film break-up time change from baseline was analyzed using a mixed-model repeated measures procedure that included terms for baseline TFBUT, eye, treatment group, study visit, and treatment-by-visit interaction.",0,0,0,0,N,N,0,0,0,0,0
+60,"The TOSS and IDEEL treatment effectiveness and treatment inconvenience score changes from baseline were analyzed using a mixed-model repeated measures procedure, with terms for baseline score, treatment, eye (TOSS only), study visit, and treatment-by-visit interaction.",0,0,0,0,N,N,0,0,0,0,0
+61,"The TOSS and IDEEL treatment effectiveness and treatment inconvenience score outcomes were analyzed, in sequential order, only if superiority of HPG/PG/PL was demonstrated for TFBUT at a 2-sided 5% level of significance.",0,0,0,0,N,N,0,0,0,0,0
+62,Superiority of HPG/PG/PL for each of these secondary outcomes was concluded based on a significant treatment difference only if the preceding outcome was also significant.,0,0,0,0,N,N,0,0,0,0,0
+63,Patient demographics and AEs were summarized using descriptive statistics.,0,0,0,0,N,N,0,0,0,0,1
+64,"Of the 279 patients enrolled at the time the study was stopped, 214 patients were randomized to receive HPG/PG/PL or saline and were included in the ITT population.",1,0,0,1,N,N,1,1,0,0,0
+65,"Of these patients, 210 received their assigned study treatment (HPG/PG/PL, n = 110; saline, n = 100) and were included in the safety analysis (Fig.",0,0,0,0,N,N,0,0,0,0,0
+66,Mean ± SD patient age was 59.0 ± 14.7 years.,0,0,0,0,N,N,0,0,0,0,0
+67,"Most patients were female (76%, n = 163/214) and white (89%, n = 190/214).",0,0,0,0,N,N,0,0,0,0,0
+68,"Patient demographics and baseline dry eye characteristics (i.e., TFBUT, visual acuity, TOSS score, IDEEL treatment effectiveness and treatment inconvenience scores) were similar between treatment groups (Tab.",0,0,0,0,N,N,0,0,0,0,0
+69,HPG/PG/PL = hydroxypropyl guar/propylene glycol/phospholipid lubricant eyedrop.,0,0,0,0,N,N,0,0,0,0,0
+70,TABLE I Demographic and baseline characteristics (intent-to-treat population),0,0,0,0,N,N,0,0,0,0,0
+71,"Thirty-three patients discontinued the study early (HPG/PG/PL, n = 13; saline, n = 20).",0,0,0,0,N,N,0,0,0,0,0
+72,"The reasons for discontinuation were AEs (HPG/PG/PL, n = 5; saline, n = 2), patient decision (HPG/PG/PL, n = 2; saline, n = 4), lack of efficacy (HPG/PG/PL, n = 1; saline, n = 4), lost to follow-up (HPG/PG/PL, n = 1; saline, n = 2), noncompliance with the study drug (HPG/PG/PL, n = 0; saline, n = 3), and “other” (HPG/PG/PL, n = 4; saline, n = 5).",0,0,0,0,N,N,0,0,0,0,0
+73,"The mean ± SD TFBUT scores were similar between groups at baseline (HPG/PG/PL, 3.7 ± 1.4 seconds; saline, 3.7 ± 1.6 seconds; Tab.",0,0,0,0,N,N,0,0,0,1,0
+74,"The interim analysis of the primary efficacy endpoint was conducted in October 2014 and included 138 patients (HPG/PG/PL, n = 76; saline, n = 62).",0,0,0,0,N,N,0,0,0,0,0
+75,The mean ± SE TFBUT change from baseline to day 35 was significantly greater with HPG/PG/PL compared with saline (Fig.,0,0,0,0,N,N,0,0,0,0,0
+76,"The between-group difference was 1.3 ± 0.4 seconds (95% confidence interval [CI] 0.5-2.1 seconds; p = 0.0012); as such, the superiority criterion for HPG/PG/PL was met (i.e., p<0.0021) and the study enrollment was stopped.",0,0,0,0,N,N,0,0,0,0,0
+77,"HPG/PG/PL was also superior to saline in the supportive final analysis, which was evaluated after all enrolled patients completed the study.",0,0,0,0,N,N,0,0,0,0,0
+78,The between-group difference in mean ± SE TFBUT change from baseline to day 35 in the final analysis was 1.0 ± 0.3 seconds (95% CI 0.4-1.6 seconds; p = 0.0011; Fig.,0,0,0,0,N,N,0,0,0,0,0
+79,3 Mean change from baseline at day 35 in tear film break-up time (TFBUT).,0,0,0,0,N,N,0,0,0,0,1
+80,Hydroxypropyl guar/propylene glycol/phospholipid lubricant eyedrop (HPG/PG/PL) was superior to saline at day 35 for prolonging TFBUT in patients with lipid-deficient dry eye at both the interim and final analyses.,0,0,0,0,N,N,0,0,0,0,0
+81,"The mean ± SD TOSS scores at baseline were similar between treatment groups (HPG/PG/PL, 3.5 ± 2.1 points; saline, 3.4 ± 2.4 points; Tab.",0,0,0,0,N,N,0,0,0,0,0
+82,The mean ± SE TOSS score change from baseline to day 35 was -0.81 ± 0.14 points with HPG/PG/PL and -0.64 ± 0.15 points with saline (Tab.,0,0,0,0,N,N,0,0,0,0,0
+83,The between-group difference in TOSS score change from baseline was -0.17 ± 0.21 points and was not significant (p = 0.4289; 95% CI -0.58 to 0.25 points).,0,0,0,0,N,N,0,0,0,0,0
+84,The statistical criterion for superiority of HPG/PG/PL compared with saline was not met for the secondary outcomes based on the prespecified sequential testing order of endpoints.,0,0,0,0,N,N,0,0,0,0,0
+85,TABLE II TOSS and IDEEL score changes from baseline to day 35 (intent-to-treat population),0,0,0,0,N,N,0,0,0,0,0
+86,"The mean ± SD baseline scores for IDEEL treatment effectiveness were similar between treatments (HPG/PG/PL, 44.6 ± 27.3; saline, 46.2 ± 27.9; Tab.",0,0,0,0,N,N,0,0,0,0,0
+87,"Baseline scores were also similar for IDEEL treatment inconvenience (HPG/PG/PL, 76.6 ± 22.1; saline, 74.5 ± 24.9; Tab.",0,0,0,0,N,N,0,0,0,0,0
+88,The IDEEL treatment effectiveness score change from baseline to day 35 was 21.5 ± 2.4 in the HPG/PG/PL group and 5.5 ± 2.7 in the saline group (Tab.,0,0,0,0,N,N,0,0,0,0,0
+89,The between-group difference was 16.0 ± 3.6 favoring HPG/PG/PL (p<0.0001; 95% CI 8.9 to 23.1).,0,0,0,0,N,N,0,0,0,0,0
+90,"The IDEEL treatment inconvenience score changes from baseline to day 35 were 1.3 ± 1.6 and 0.8 ± 1.7 with HPG/PG/PL and saline, respectively (Tab.",0,0,0,0,N,N,0,0,0,0,0
+91,The between-group difference of 0.52 ± 2.3 was not significant (p = 0.8211; 95% CI -4.0 to 5.1).,0,0,0,0,N,N,0,0,0,0,0
+92,Ocular AEs were reported by 19% of patients receiving HPG/PG/PL (n = 21/110) and 8% of patients receiving saline (n = 8/100) through treatment day 90 (QID and PRN dosing phases; Tab.,0,0,0,0,N,N,0,0,0,0,0
+93,The most frequently reported ocular AEs in the HPG/PG/PL group were eye irritation (11 events in 6 patients) and eye pain (6 events in 3 patients).,0,0,0,0,N,N,0,0,0,0,0
+94,Foreign body sensation was the most frequently reported ocular AE in the saline group (3 events in 2 patients).,0,0,0,0,N,N,0,0,0,0,0
+95,Nonocular AEs were reported for 17% of patients receiving HPG/PG/PL (n = 19/110) and 16% of patients receiving saline (n = 16/100; Tab.,0,0,0,0,N,N,0,0,0,0,0
+96,"Two patients in each treatment group experienced serious AEs (HPG/PG/PL, multiple fractures and laryngeal operation; saline, renal cyst excision and arterial hemorrhage [same patient] and femur fracture); no serious AEs were related to treatment.",0,0,0,0,N,N,0,0,0,0,0
+97,TABLE III Adverse events occurring with >1% frequency (safety population),0,0,0,0,N,N,0,0,0,0,1
+98,"The mean ± SD visual acuity (ETDRS letters read) was generally unchanged from baseline to day 35 (HPG/PG/PL: baseline, 84.8 ± 7.0 letters; day 35, 83.8 ± 8.5 letters; saline: baseline, 85.4 ± 7.6 letters; day 35, 85.8 ± 7.0 letters).",0,0,0,0,N,N,0,0,0,0,0
+99,Mean change from baseline to day 35 was <1 letter in both treatment groups.,0,0,0,0,N,N,0,0,0,0,0
+100,"Lipid deficiency of the tear film can lead to a continuous cycle of decreased tear film stability, increased tear evaporation, tear hyperosmolarity, inflammation, and ocular surface damage.",0,0,1,0,N,N,0,0,0,0,0
+101,"These processes manifest as ocular signs and symptoms, including decreased TFBUT, increased epithelial staining, ocular discomfort, and decreased quality of life.",0,0,1,0,N,N,0,0,0,0,0
+102,"This study compared the efficacy of a lipid-based lubricant eyedrop, HPG/PG/PL, with that of saline in patients with lipid-deficient dry eye.",0,0,1,0,N,N,0,0,0,0,0
+103,"After 35 days of QID treatment, the TFBUT increase from saline-treated baseline was significantly greater in the HPG/PG/PL group compared with the saline group, and the superiority of HPG/PG/PL was demonstrated.",0,0,1,0,N,N,0,0,0,0,0
+104,This finding was confirmed in both the primary interim analysis and the supportive final analysis.,0,0,1,0,N,N,0,0,0,0,0
+105,"TOSS scores were decreased from baseline in both treatment groups; the treatment difference was not significant; therefore, the superiority of HPG/PG/PL compared with saline with regard to additional efficacy endpoints was not tested based on the prespecified multiplicity testing strategy.",0,0,0,0,N,N,0,0,0,0,0
+106,The most common AEs reported with HPG/PG/PL were eye irritation and eye pain.,0,0,0,0,N,N,0,0,0,0,0
+107,"In this study, the lipid-based HPG/PG/PL lubricant eyedrop increased TFBUT by 1.5 to 1.8 seconds, which was a 40% to 50% improvement; this increase was significantly greater than the nominal 0.5-second increase observed in the saline-treated group (13%; between-group difference, 1.0 to 1.3 seconds).",0,0,0,0,N,N,0,0,0,0,0
+108,"This result suggests that the lipid-based artificial tear formulation of HPG/PG/PL restored the tear film to a more normative, stable state compared with the aqueous-based supplementation provided by saline.",0,0,0,0,N,N,0,0,0,0,0
+109,"By prolonging TFBUT, HPG/PG/PL may decrease ocular surface damage caused by exposure, desiccation, and inflammation of the corneal and conjunctival epithelia.",0,0,0,0,N,N,0,0,0,0,0
+110,"The magnitude of TFBUT changes from baseline with HPG/PG/PL and saline were comparable to those observed in a randomized, investigator-masked, parallel-group study of 49 patients with lipid-deficient dry eye.",0,0,0,0,N,N,0,0,0,0,0
+111,"After 4 weeks of QID use, TFBUT was increased by 65% with HPG/PG/PL and 15% with saline.",0,0,0,0,N,N,0,0,0,0,0
+112,Increased TFBUT with HPG/PG/PL was also observed in a small open-label study of patients with evaporative dry eye associated with mild to moderate meibomian gland dysfunction.,0,0,0,0,N,N,0,0,0,0,0
+113,The magnitude of effect (21%-24%) was smaller than that observed in the current study; this may have been because of differences in disease severity.,0,0,0,0,N,N,0,0,0,0,0
+114,"Additionally, patients instilled HPG/PG/PL as needed, and the average dosing over 4 weeks of treatment was 1.9 doses per day, compared with the QID regimen used in the current study.",0,0,0,0,N,N,0,0,0,0,0
+115,"For the patient-reported outcome, IDEEL, the treatment effectiveness scores were improved from baseline with HPG/PG/PL, and improvements were significantly greater with HPG/PG/PL treatment compared with saline.",0,0,0,0,N,N,0,0,0,0,0
+116,The improvement in patient ratings for treatment effectiveness on the validated IDEEL treatment satisfaction module was nearly 400% higher in patients in the HPG/PG/PL group compared with the saline group.,0,0,0,0,N,N,0,0,0,0,0
+117,The IDEEL treatment inconvenience scores were not different between groups.,0,0,0,0,N,N,0,0,0,0,0
+118,The increase in the IDEEL treatment effectiveness score in response to HPG/PG/PL represents an improvement in quality of life and emphasizes its importance in patients with lipid-deficient dry eye.,0,0,0,0,N,N,0,0,0,0,0
+119,The clinical relevance of the efficacy outcomes in this study requires further investigation.,0,0,0,0,N,N,1,0,0,0,0
+120,"Although the TFBUT increase achieved with HPG/PG/PL treatment was statistically greater than that achieved with saline, the clinical relevance of this treatment difference is debatable.",0,0,0,0,N,N,0,0,0,0,0
+121,The TOSS score treatment difference between HPG/PG/PL and saline was not statistically significant.,0,0,0,0,N,N,0,0,0,0,0
+122,"However, the improvement in patient-reported treatment effectiveness was significantly greater in the HPG/PG/PL treatment group.",0,0,0,0,N,N,0,0,0,0,0
+123,"These data suggest that, compared with saline, 35 days of HPG/PG/PL treatment improved both tear film stability and dry eye symptoms but did not achieve markedly better epithelial cell healing.",0,0,0,0,N,N,0,0,0,0,0
+124,"With the exception of eye irritation, which was reported by 6 patients receiving HPG/PG/PL and 1 patient receiving saline, the incidence of ocular AEs was generally similar between groups, and no new safety concerns were identified.",0,0,0,0,N,N,0,0,0,0,0
+125,These results suggest that HPG/PG/PL provides better improvement in patient-reported quality of life measures compared with saline without imposing any additional burden related to treatment bother or inconvenience.,0,0,0,0,N,N,0,0,0,0,0
+126,"As with many dry eye treatments, both HPG/PG/PL and saline replenish the aqueous layer of the tear film to lubricate the ocular surface.",0,0,0,0,N,N,0,0,0,0,0
+127,"The effectiveness of HPG/PG/PL is prolonged by the interaction of HPG with the lipids, oils, and PG in the formulation to promote retention on the ocular surface.",0,0,0,0,N,N,0,0,0,0,0
+128,"Further, HPG/PG/PL is thought to act through a dual mechanism in which HPG, a mucomimetic, binds to areas of damaged epithelial cells and creates a gel matrix that restores and stabilizes the tear film to protect corneal and conjunctival epithelia.",0,0,0,0,N,N,0,0,0,0,0
+129,"The phospholipid components of HPG/PG/PL include a dimyristoyl phosphatidylglycerol, a polar lipid that mimics the properties of phospholipids in natural tears and acts as a surfactant that helps to reduce tear evaporation.",0,0,0,0,N,N,0,0,0,0,0
+130,HPG/PG/PL also contains microemulsions of oils and mineral oil that mimic the lipid component of the tear film to wet the eye and decrease tear evaporation.,0,0,0,0,N,N,0,0,0,0,0
+131,"By acting on multiple factors in the pathophysiology of dry eye (tear film instability, imbalance, and rapid breakup; drying of the ocular surface; and epithelial damage) and the lipid changes associated with meibomian gland dysfunction, HPG/PG/PL may interrupt the vicious cycle that contributes to dry eye.",0,0,0,0,N,N,0,0,0,0,0
+132,"The evaluation of TFBUT, an objective characteristic of dry eye, and patient-reported outcomes, a subjective characteristic of dry eye, are strengths of this study.",0,0,0,0,N,N,0,0,0,0,0
+133,"However, there was somewhat of an inconsistency between the small increase in TFBUT and the large increase in the IDEEL treatment effectiveness score in response to HPG/PG/PL.",0,0,0,0,N,N,0,0,0,0,0
+134,"This may have been due to the inherent variability in the assessment of TFBUT, which is an invasive measurement.",0,0,0,0,N,N,0,0,0,0,0
+135,"Interpretation of the results may be limited by the lack of treatment crossover; however, the observed efficacy and safety results are generally consistent with previous studies.",0,0,0,0,N,N,0,0,0,0,0
+136,"Because of the single-masked nature of this study, patient knowledge of treatment assignments may have introduced potential bias.",0,0,0,0,N,N,0,0,0,0,0
+137,"In conclusion, HPG/PG/PL increased TFBUT to a significantly greater extent after 35 days of QID use compared with preservative-free saline.",0,0,0,0,N,N,0,0,0,0,0
+138,Improvement in the IDEEL treatment effectiveness score was also significantly greater with HPG/PG/PL compared with saline.,0,0,0,0,N,N,0,0,0,0,0
+139,HPG/PG/PL demonstrated superior efficacy to preservative-free saline with regard to improved tear film stability in patients with lipid-deficient dry eye and was well-tolerated.,0,0,0,0,N,N,0,0,0,0,0

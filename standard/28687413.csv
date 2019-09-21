@@ -1,0 +1,240 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Exacerbations of asthma cause a substantial global illness burden.,0,0,0,0,0,0,0,N,0,0,0
+1,Adults with uncontrolled persistent asthma despite maintenance treatment require additional therapy.,0,0,0,0,0,0,0,N,1,0,0
+2,"Since macrolide antibiotics can be used to treat persistent asthma, we aimed to assess the efficacy and safety of oral azithromycin as add-on therapy in patients with uncontrolled persistent asthma on medium-to-high dose inhaled corticosteroids plus a long-acting bronchodilator.",0,0,0,0,0,0,0,N,0,0,0
+3,"We did a randomised, double-blind, placebo controlled parallel group trial to determine whether oral azithromycin decreases the frequency of asthma exacerbations in adults (≥18 years) with symptomatic asthma despite current use of inhaled corticosteroid and long-acting bronchodilator, and who had no hearing impairment or abnormal prolongation of the corrected QT interval.",0,0,0,0,0,0,0,N,0,0,0
+4,Patients were randomly assigned (1:1) to receive azithromycin 500 mg or placebo three times per week for 48 weeks.,0,1,1,1,0,0,0,N,0,0,0
+5,Patients were centrally allocated using concealed random allocation from a computer-generated random numbers table with permuted blocks of 4 or 6 and stratification for centre and past smoking.,0,1,1,0,0,0,0,N,0,0,0
+6,Primary efficacy endpoints were the rate of total (severe and moderate) asthma exacerbations over 48 weeks and asthma quality of life.,0,0,0,0,0,0,0,N,0,0,0
+7,Data were analysed on an intention-to-treat basis.,0,0,0,0,0,0,0,N,1,0,0
+8,"The trial is registered at the Australian and New Zealand Clinical Trials Registry (ANZCTR), number 12609000197235.",0,0,0,0,0,0,0,N,0,0,0
+9,"Between June 12, 2009, and Jan 31, 2015, 420 patients were randomly assigned (213 in the azithromycin group and 207 in the placebo group).",0,0,0,0,0,0,0,N,0,0,0
+10,Azithromycin reduced asthma exacerbations (1·07 per patient-year [95% CI 0·85–1·29]) compared with placebo (1·86 per patient-year [1·54–2·18]; incidence rate ratio [IRR] 0·59 [95% CI 0·47–0·74]; p<0·0001).,0,0,0,0,0,0,0,N,0,0,0
+11,"The proportion of patients experiencing at least one asthma exacerbation was reduced by azithromycin treatment (127 [61%] patients in the placebo group vs 94 [44%] patients in the azithromycin group, p<0·0001).",0,0,0,0,0,0,0,N,0,0,0
+12,"Azithromycin significantly improved asthma-related quality of life (adjusted mean difference, 0·36 [95% CI 0·21–0·52]; p=0·001).",0,0,0,0,0,0,0,N,0,0,0
+13,Diarrhoea was more common in azithromycin-treated patients (72 [34%] vs 39 [19%]; p=0·001).,0,0,0,0,0,0,0,N,0,0,0
+14,Adults with persistent symptomatic asthma experience fewer asthma exacerbations and improved quality of life when treated with oral azithromycin for 48 weeks.,0,0,0,0,0,0,0,N,0,0,0
+15,Azithromycin might be a useful add-on therapy in persistent asthma.,0,0,0,0,0,0,0,N,0,0,0
+16,"National Health and Medical Research Council of Australia, John Hunter Hospital Charitable Trust.",0,0,0,0,0,0,0,N,0,0,0
+17,"Asthma is a common global chronic disease, and over 50 million people are estimated to have moderate-to-severe uncontrolled asthma.1 Patients with uncontrolled asthma are at risk of severe exacerbations that result in frequent visits to physicians' offices, hospitalisations, days lost from work, and—rarely—death.",0,0,0,0,0,0,0,N,0,0,0
+18,"Asthma exacerbations can still occur despite maintenance treatment with inhaled corticosteroids and long-acting bronchodilators, indicating a need for additional treatment options in uncontrolled persistent asthma.",0,0,0,0,0,0,0,N,0,0,0
+19,"Asthma is characterised by chronic airway inflammation, increased susceptibility to respiratory viral infection, and altered airway microbiology.",0,0,0,0,0,0,0,N,0,0,0
+20,"The airway inflammatory response is heterogeneous in asthma, with eosinophilic and non-eosinophilic phenotypes being recognised.",0,0,0,0,0,0,0,N,0,0,0
+21,These phenotypes have different mechanisms and different responses to inhaled corticosteroids.,0,0,0,0,0,0,0,N,0,0,0
+22,"The eosinophilic phenotype involves the Th2/allergic pathways and is usually corticosteroid-sensitive, whereas the non-eosinophilic phenotype exhibits innate immune dysfunction and corticosteroid insensitivity.",0,0,0,0,0,0,0,N,0,0,0
+23,"Macrolide antibiotics have antibacterial, antiviral, and anti-inflammatory effects, and are reported to be beneficial in both eosinophilic and non-eosinophilic subtypes.",0,0,0,0,0,0,0,N,0,0,0
+24,"Systematic reviews of randomised controlled trials report benefits of macrolides on asthma symptoms but are unable to draw conclusions about the effects on other endpoints, including exacerbations, due to lack of data, heterogeneity of results, and inadequate study design and sample size.Therefore, we did a randomised trial to test the hypothesis that azithromycin reduces asthma exacerbations and improves quality of life in patients with symptomatic asthma on inhaled maintenance therapy.",0,0,0,0,0,0,0,N,0,0,0
+25,Asthma is a common chronic inflammatory airway disease worldwide.,0,0,0,0,0,0,0,N,0,0,0
+26,"Severe exacerbations and poor control persist in people treated with maintenance asthma therapy, showing a need for additional therapeutic options.",0,0,0,0,0,0,0,N,0,0,0
+27,"Macrolide antibiotics have anti-inflammatory, antibacterial, and antiviral effects that might be beneficial in asthma.",0,0,0,0,0,0,0,N,0,0,0
+28,"We searched PubMed on Dec 12, 2016, for randomised controlled clinical trials of macrolides for asthma in adults that were published in English, using the search terms “asthma AND (macrolide OR azithromycin) AND clinical trial AND adult”.",0,0,0,0,0,0,0,N,0,0,0
+29,"The search was done from Jan 1, 1980 onwards and identified randomised controlled trials and systematic reviews of clinical trials.",0,0,0,0,0,0,0,N,0,0,0
+30,"These studies identified a potential benefit of macrolides on asthma symptoms, but gave inconsistent results for an effect on asthma exacerbations and for phenotype-specific effects.",0,0,0,0,0,0,0,N,0,0,0
+31,"Systematic reviews were unable to draw conclusions about the effects on other endpoints, including exacerbations, due to lack of data, heterogeneity of results, and inadequate study design.",0,0,0,0,0,0,0,N,0,0,0
+32,Our study provides clear evidence of benefit of add-on azithromycin in reducing asthma exacerbations in adults with uncontrolled asthma who are taking maintenance inhaled corticosteroid and a long-acting bronchodilator.,0,0,0,0,0,0,0,N,0,0,0
+33,We also show improved quality of life with azithromycin treatment of persistent asthma.,0,0,0,0,0,0,0,N,0,0,0
+34,"Additionally, we identify a beneficial effect of azithromycin in reducing episodes of respiratory infection.",1,0,0,0,0,0,0,N,0,0,0
+35,The treatment was well tolerated.,0,0,0,0,0,0,0,N,0,0,0
+36,Implications of all the available evidence,0,0,0,0,0,0,0,N,0,0,0
+37,Using azithromycin in addition to inhaled corticosteroids and long-acting bronchodilators could substantially improve the health of people with uncontrolled persistent asthma.,0,0,0,0,0,0,0,N,0,0,0
+38,"We used a multicentre, randomised, double-blind, placebo-controlled, parallel group trial to evaluate the efficacy and safety of oral azithromycin 500 mg, three times weekly for 48 weeks, as add-on therapy in adults with persistent symptomatic asthma despite maintenance controller therapy with an inhaled corticosteroid and a long-acting bronchodilator.",0,0,0,0,1,0,0,N,0,0,0
+39,"Patients were eligible if they had asthma defined as a compatible history and documented objective evidence of variable airflow obstruction from bronchodilator response (with post-bronchodilator reversibility of at least 12% and at least 200 mL forced expiratory volume in 1 s [FEV1]), airway hyperresponsiveness, or increased peak flow variability (>12% of amplitude above the lowest peak expiratory flow [PEF] over at least 1 week of monitoring); and were currently symptomatic with at least partial loss of asthma control (asthma control score [ACQ6] ≥0·75) despite treatment with maintenance inhaled corticosteroids or long-acting bronchodilators.",0,0,0,0,1,0,0,N,0,0,0
+40,"The ACQ6 is a six-item questionnaire that assesses daytime and night-time symptoms and rescue β agonist use, on a 0–6 scale.",0,0,0,0,1,0,0,N,0,0,0
+41,"Patients were also required to be clinically stable with no recent exacerbations, infections, or changes in maintenance medication for at least 4 weeks before study entry, and to be non-smokers confirmed by exhaled carbon monoxide less than 10 parts per million.",0,0,0,0,1,0,0,N,0,0,0
+42,"To exclude patients with substantial parenchymal lung disease, such as emphysema, ex-smokers with more than 10 pack-years of smoking were excluded if their diffusing capacity for carbon monoxide (gas transfer corrected for effective alveolar volume) was less than 70% of the predicted value.",0,0,0,0,1,0,0,N,0,0,0
+43,Patients with hearing impairment or abnormally prolonged QTc interval were excluded.,0,0,0,0,0,0,0,N,0,0,0
+44,"A national steering committee of investigators designed the trial and was responsible for its conduct, analysis, interpretation, and reporting.",0,0,0,0,0,0,0,N,0,0,0
+45,The trial was approved by institutional ethics committees.,0,0,0,0,0,0,0,N,1,0,0
+46,All patients provided written informed consent.,0,0,0,0,0,0,0,N,0,0,0
+47,Patients were centrally allocated (1:1) to azithromycin or identical-looking placebo using concealed random allocation from a computer-generated random numbers table with permuted blocks of 4 or 6 and stratification for centre and past smoking.,0,1,1,0,0,0,0,N,0,0,0
+48,"Stenlake Compounding Pharmacy (Bondi Junction, Sydney, NSW, Australia) formulated the study drug and matching placebo tablets.",0,0,0,0,0,0,0,N,0,0,0
+49,Study packs were labelled with the allocated randomisation number and bottle numbers.,0,0,1,1,0,0,0,N,0,0,0
+50,"All investigators, study research staff, and the patients treating doctors were masked to treatment allocation.",0,0,0,0,0,1,1,N,0,0,0
+51,"After a screening visit, patients entered a 2 week run-in period.",0,0,0,0,0,0,0,N,0,0,0
+52,"Those with optimised asthma treatment, adherence to more than 80% of doses (based on inhaler dose counters, diary records, and validated questionnaire), and who remained stable with change in ACQ6 of less than 0·5 were randomly assigned.",0,0,0,0,0,0,0,N,0,0,0
+53,"Patients were treated for 48 weeks and attended the clinic for assessment at weeks 6, 12, 24, 36, 48, and 52.",0,0,0,0,0,0,0,N,0,0,0
+54,"Study visits assessed symptoms (ACQ6 and visual analogue scales), medication use, asthma exacerbations, adherence, adverse events (including self-reported respiratory infections), and spirometry.",0,0,0,0,0,0,0,N,0,0,0
+55,"Telephone assessments were done at weeks 18, 30, and 42.",0,0,0,0,0,0,0,N,0,0,0
+56,Induced sputum was collected before randomisation (five sites) and at the end of treatment visit (week 48).,0,0,0,0,0,0,0,N,0,0,0
+57,Azithromycin and placebo implementation adherence were assessed by tablet count returns at each visit and calculating the proportion taken.,0,0,0,0,0,0,0,N,0,0,0
+58,Maintenance inhaled corticosteroid implementation adherence was assessed by dose counters when applicable or by validated questionnaire.,0,0,0,0,0,0,0,N,0,0,0
+59,"For safety monitoring, we assessed liver function tests and an electrocardiogram at screening, after 6 weeks of treatment, and at the end of treatment.",0,0,0,0,0,0,0,N,0,0,0
+60,"QTc prolongation longer than 480 ms resulted in withdrawal from the trial, subject to investigator review.",0,0,0,0,0,0,0,N,0,0,0
+61,"For patients with a pre-existing conduction defect, we used the J-T interval.",0,0,0,0,0,1,1,N,0,0,0
+62,"Microbiological assessments involved sputum culture for recognised pulmonary pathogens, throat, and nose swab culture (two centres for nose and throat swabs) at randomisation and end of treatment in a subset of patients (appendix).",0,0,0,0,0,0,0,N,0,0,0
+63,Patients were phenotyped for prespecified subgroup analyses.,0,0,0,0,0,0,0,N,0,0,0
+64,Inflammatory phenotype was assessed as eosinophilic when sputum eosinophils were 3% or more.,0,0,0,0,0,0,0,N,0,0,0
+65,"If sputum was unavailable, blood eosinophil count (≥300 per μL) was used to assign phenotype, with the optimal cutpoint defined using the AMAZES study baseline data.",0,0,0,0,0,0,0,N,0,0,0
+66,"Patients with non-eosinophilic asthma had less than 3% sputum eosinophils or, if sputum was unavailable, a blood eosinophil count of less than 300 per μL.",0,0,0,0,0,0,0,N,0,0,0
+67,"Oral corticosteroid courses or hospitalisation for asthma in the previous 12 months or both were used to assess exacerbation phenotype, and frequent exacerbators had a history of at least two severe exacerbations.",0,0,0,0,0,0,0,N,0,0,0
+68,Cough and sputum were evaluated using a visual analogue scale and mucus hypersecretion was defined as a score of at least 6.,0,0,0,0,0,0,0,N,0,0,0
+69,Primary efficacy endpoints were the total number of asthma exacerbations (severe and moderate) over 48 weeks and asthma quality of life.,0,0,0,0,0,0,0,N,0,0,0
+70,Severe exacerbations were defined as worsening of asthma symptoms that led to one of the following: at least 3 days of systemic corticosteroid treatment of at least 10 mg/day or a temporary increase in a stable oral corticosteroid maintenance dosage of at least 10 mg/day for at least 3 days; an asthma-specific hospitalisation; or emergency department visit requiring systemic corticosteroids.,0,0,0,0,0,0,0,N,0,0,0
+71,"Moderate exacerbations were defined as any temporary increase in inhaled corticosteroids or antibiotics in conjunction with a deterioration in asthma symptoms or both (change in ACQ6 of at least 0·5 or increased diary symptom score), or any increase in β2 agonist use for at least 2 days, or an emergency department visit not requiring systemic corticosteroids.",0,0,0,0,0,0,0,N,0,0,0
+72,Exacerbations were captured at all visits using structured interviewing and from patient daily diaries.,0,0,0,0,0,0,0,N,0,0,0
+73,"Secondary outcomes were ACQ6 score, lung function, induced sputum cell counts, antibiotic courses for respiratory infection, microbial assessments, and adverse events.",0,0,0,0,0,0,0,N,0,0,0
+74,For the sample size calculation we used a negative binomial model and assumed an incidence of asthma exacerbations of 0·58 per person-year in the placebo group.,0,0,0,0,0,0,0,N,0,0,0
+75,"Using Keene's formula and a dispersion parameter of 0·1, we estimated that 194 patients would be needed in each treatment group to have 80% power to detect a 35% reduction in the incidence of exacerbations among participants treated with azithromycin compared with those treated with placebo at the 5% significance level.",0,0,0,0,0,0,0,N,0,0,0
+76,We aimed to recruit 420 participants to allow for drop-outs.,0,0,0,0,0,0,0,N,0,0,0
+77,"Statistical analyses were done using STATA 13 (StataCorp, College Station, TX, USA).",0,0,0,0,0,0,0,N,0,0,0
+78,Data were analysed on an intention-to-treat basis using two-sided tests with p values less than 0·05 considered significant.,0,0,0,0,0,0,0,N,1,0,0
+79,"A negative binomial regression was done for the analysis of asthma exacerbations, with the length of intervention treatment included as an offset and adjustment for clustering for study site.",0,0,0,0,0,0,0,N,0,0,0
+80,"The estimated treatment effect (ie, the incidence rate ratio of azithromycin vs placebo), corresponding 95% CIs, and a two-sided p value for the incidence rate ratio were calculated.",0,0,0,0,0,0,0,N,0,0,0
+81,"Annualised exacerbation rates were also calculated as the total number of exacerbations per person divided by the number of days of follow-up, multiplied by 365, and expressed as exacerbations per person-year.",0,0,0,0,0,0,0,N,0,0,0
+82,The proportion of participants experiencing at least one exacerbation was compared using a χ2 test.,0,0,0,0,0,0,0,N,0,0,0
+83,"To assess differences in the time to first exacerbation between patients treated with azithromycin and those treated with placebo, we estimated the hazard ratio using a Cox proportional hazards model.",0,0,0,0,0,0,0,N,0,0,0
+84,Separate negative binomial regression models were fitted for inflammatory phenotype (non-eosinophilic asthma or eosinophilic asthma).,0,0,0,0,0,0,0,N,0,0,0
+85,"End of treatment AQLQ scores, ACQ6 scores, symptom visual analogue scales, and sputum cell counts were analysed using ANCOVA with adjustment for baseline and interaction between eosinophilic and non-eosinophilic phenotype and treatment group.",0,0,0,0,0,0,0,N,0,0,0
+86,The p value of the interaction term indicates if there is a significant difference in the treatment effect between phenotype.,0,0,0,0,0,0,0,N,0,0,0
+87,"The last observation carried forward (LOCF) was used for missing end of treatment AQLQ scores, ACQ6 scores, and symptom visual analogue scales with sensitivity analyses on observed data only.",0,0,0,0,0,0,0,N,0,0,0
+88,The remaining categorical data were compared using χ2 or Fisher's exact test as appropriate and continuous data were compared using Wilcoxon rank-sum test.,0,0,0,0,0,0,0,N,0,0,0
+89,"The trial is registered at the Australian and New Zealand Clinical Trials Registry (ANZCTR), number 12609000197235.",0,0,0,0,0,0,0,N,0,0,0
+90,The trial was funded by the Australian Government's National Health and Medical Research Council (NHMRC) and there was no commercial input into any aspect of the trial.,0,0,0,0,0,0,0,N,0,0,0
+91,"The sponsors of the study (NHMRC, Australia) had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",0,0,0,0,0,0,0,N,0,0,0
+92,HP and PGG had full access to all the data in the study and PGG had final responsibility for the decision to submit for publication.,0,0,0,0,0,0,0,N,0,0,0
+93,"Between June 12, 2009, and Jan 31, 2015, 582 patients were screened for participation, and 420 were randomly assigned across eight sites.",0,0,0,0,0,1,1,N,0,0,0
+94,The reasons for screen failure are listed in the appendix.,0,0,0,0,0,0,0,N,0,0,0
+95,We allocated 213 (51%) to azithromycin treatment and 207 (49%) to placebo.,0,0,0,1,0,0,0,N,0,0,0
+96,The trial was completed by 334 (80%) patients.,0,0,0,0,0,0,0,N,0,0,0
+97,"There were similar numbers of trial withdrawals in each group, and similar withdrawals due to adverse effects (15 [4%] in the azithromycin group and 10 [2%] in the placebo group; figure 1).",0,0,0,0,0,0,0,N,0,0,0
+98,Other reasons for withdrawal are listed in the appendix.,1,0,0,0,0,0,0,N,0,0,0
+99,The patients allocated to azithromycin had similar characteristics to those allocated to placebo (table 1).,0,0,0,1,0,0,0,N,0,0,0
+100,"All patients were, on average, older (median 60 years [IQR 50–68]) with atopic asthma (319 [76%]) who had asthma for a median of 32 years (IQR 16–48).",0,0,0,0,0,0,0,N,0,0,0
+101,"Patients in both groups included ex-smokers (61 [38%]), median pack-years 7·5 (IQR 1·6–22·5), without reduced gas transfer coefficient (median KCO percent predicted of 86% [IQR 78–95]), so as to exclude co-existing emphysema.",0,0,0,0,0,0,0,N,0,0,0
+102,Most patients treated with azithromycin or placebo (361 [86%]) were prescribed maintenance high-dose inhaled corticosteroid and all had been prescribed long-acting bronchodilators.,0,0,0,0,0,0,0,N,0,0,0
+103,"Inhaled corticosteroids were used in combination with several long-acting bronchodilators (long-acting beta agonist [LABA], 345 [82%]; LABA with long-acting muscarinic antagonist [LAMA], 68 [16%]; LAMA, five [1·5%]; theophylline, two [<1%]).",0,0,0,0,0,0,0,N,0,0,0
+104,They had uncontrolled asthma with a mean ACQ6 score of 1·55 (SD 0·79) and airflow obstruction with an FEV1 of 73% (20) predicted.,0,0,0,0,0,0,0,N,0,0,0
+105,144 (43%) patients had an eosinophilic inflammatory phenotype using induced sputum and 187 (57%) had a non-eosinophilic phenotype.,0,0,0,0,0,0,0,N,0,0,0
+106,"Mean adherence to trial medication was 81% (SD 8), with 83% of patients taking over 75% of doses.",0,0,0,0,0,0,0,N,0,0,0
+107,Characteristics of patients at baseline,0,0,0,0,0,0,0,N,0,1,1
+108,There was a significant reduction in the incidence of total (moderate and severe combined) asthma exacerbations in the azithromycin-treated group (figure 2).,0,0,0,0,0,0,0,N,0,1,1
+109,"The placebo group experienced 1·86 exacerbations per person-year (95% CI 1·54–2·18), whereas the azithromycin-treated group experienced 1·07 exacerbations per person-year (0·85–1·29).",0,0,0,0,0,0,0,N,0,1,1
+110,The incidence rate ratio was 0·59 (95% CI 0·47–0·74; p<0·0001; figure 2B).,0,0,0,0,0,0,0,N,0,1,1
+111,127 (61%) patients in the placebo group experienced at least one asthma exacerbation compared with 94 (44%) patients in the azithromycin group (p<0·0001).,0,0,1,0,0,0,0,N,0,0,0
+112,We assessed time to asthma exacerbation and found that azithromycin was associated with a reduced hazard ratio (HR 0·65 [95% CI 0·50–0·85]; p=0·001; figure 2C).,0,0,0,0,0,0,0,N,0,0,0
+113,"The beneficial effect of azithromycin remained significant after adjustment for differences in maintenance inhaled corticosteroid dose (figure 3), a history of frequent (at least two) asthma exacerbations, in those with chronic cough and sputum production and in those with and without bacterial pathogen isolation from sputum using standard culture techniques.",0,0,0,0,0,0,0,N,0,0,0
+114,"Asthma exacerbations (severe and moderate) during 48 weeks of treatment with azithromycin 500 mg, three times per week, or placebo",0,0,0,0,0,1,1,N,0,0,0
+115,(A) Cumulative severe and moderate asthma exacerbations.,0,0,0,0,0,0,0,N,0,0,0
+116,(B) Exacerbations per person-year and incidence rate ratio.,0,0,0,0,0,0,0,N,0,0,0
+117,Point estimate of annualised asthma exacerbation rate with 95% CI is shown.,0,0,0,0,0,0,0,N,1,0,0
+118,"(C) Proportion of patients free from an asthma exacerbation for 1 year according to treatment group: median exacerbation-free days: azithromycin, 344 days (IQR 233 to not determined); placebo, 148 days (56–333).",0,0,0,0,0,0,0,N,0,0,0
+119,Effect of add-on azithromycin treatment on asthma exacerbations according to prespecified subgroup analyses,0,0,0,0,0,0,0,N,0,0,0
+120,"Inhaled corticosteroid dose adjustment adjusted for maintenance inhaled corticosteroid dose at baseline (low, medium, or high).",0,0,0,0,0,0,0,N,0,0,0
+121,Non-eosinophilic asthma defined by baseline sputum eosinophil count less than 3% or blood eosinophil count less than 300 per μL if sputum unavailable.,0,0,0,0,0,0,0,N,0,0,0
+122,"Eosinophilic asthma defined by baseline sputum eosinophil count of 3% or more, or blood eosinophil count greater than 300 per μL if sputum unavailable.",0,0,0,0,0,0,0,N,0,0,0
+123,*Significant interaction between subgroup and treatment.,0,0,0,0,0,0,0,N,0,0,0
+124,Azithromycin use was associated with an improvement in asthma-related quality of life (adjusted mean difference 0·36 [95% CI 0·21–0·52]; p=0·001; table 2).,0,0,0,0,0,0,0,N,0,0,0
+125,"This benefit was seen across all AQLQ domains (table 3), and in the symptoms domain the mean change from baseline was 0·5 units, which equates to the minimal important difference for this questionnaire.",0,0,0,0,0,0,0,N,0,0,0
+126,Effect of treatment on asthma outcomes,0,0,0,0,0,0,0,N,0,1,1
+127,Effect of treatment on asthma-related quality of life (AQLQ) domains,0,0,0,0,0,0,0,N,0,0,0
+128,Azithromycin reduced asthma exacerbations in both eosinophilic asthma and non-eosinophilic asthma (figure 3).,0,0,0,0,0,0,0,N,0,0,0
+129,"In non-eosinophilic asthma, patients treated with placebo (n=104) experienced 1·74 exacerbations per person-year, compared with those treated with azithromycin (n=120) who experienced 1·15 exacerbations per person-year (incidence rate ratio 0·66 [95% CI 0·47–0·93]; p=0·019).",0,0,0,0,0,0,0,N,0,0,0
+130,"In eosinophilic asthma, patients treated with placebo (n=103) experienced 1·98 exacerbations per person-year whereas those treated with azithromycin (n=93) experienced 0·96 exacerbations per person-year (IRR 0·52 [95% CI 0·29–0·94]; p=0·030).",0,0,0,0,0,0,0,N,0,0,0
+131,Severe asthma exacerbations were significantly reduced by azithromycin treatment.,0,0,0,0,0,0,0,N,0,0,0
+132,The placebo group experienced 1·07 severe asthma exacerbations per person-year whereas the azithromycin treated group experienced 0·61 severe asthma exacerbations per person-year (IRR 0·59 [95% CI 0·42–0·83]; p=0·002).,0,0,0,0,0,0,0,N,0,0,0
+133,Azithromycin use improved asthma control as measured by ACQ6 score (adjusted mean difference −0·20 [95% CI −0·34 to −0·05]; table 2).,0,0,0,0,0,0,0,N,0,0,0
+134,"There was also a reduction in nasal symptoms, cough, and sputum production in patients using azithromycin (table 2).",0,0,0,0,0,0,0,N,0,0,0
+135,At the end of the treatment period the number of sputum eosinophils (× 104 per mL) were less in the azithromycin group (median 6·89 [IQR 2·03–46·38] vs 11·05 [2·14–40·32]; appendix) but sputum neutrophils did not differ between treatment groups.,0,0,0,0,0,0,0,N,0,0,0
+136,The within-patient change in sputum cell counts before and after treatment did not differ significantly between azithromycin and placebo groups (appendix).,0,0,0,0,0,0,0,N,0,0,0
+137,"There was no significant difference between the azithromycin and placebo groups in the overall rate and type of serious adverse events, which occurred in 16 (8%) patients treated with azithromycin and 26 (13%) patients treated with placebo (p=0·27; table 4).",0,0,0,0,0,0,0,N,0,0,0
+138,There was no difference in study withdrawals due to adverse effects between the azithromycin group (15 [7%]) and placebo group (10 [5%]; p=0·34).,0,0,0,0,0,0,0,N,0,0,0
+139,We assessed prespecified potentially drug-related adverse events based on the known safety profile of azithromycin.,0,0,0,0,0,0,0,N,0,0,0
+140,"Azithromycin treatment was associated with diarrhoea in 72 (34%) patients, which was significantly more than placebo (39 [19%]; p=0·001).",0,0,0,0,0,0,0,N,0,0,0
+141,Withdrawal from the study due to diarrhoea occurred in four patients in the azithromycin-treated group and three in the placebo group.,0,0,0,0,0,0,0,N,0,0,0
+142,There was no significant increase in the rate of other potentially drug-related adverse events (table 4).,0,0,0,0,0,0,0,N,0,0,0
+143,"Two patients were withdrawn due to abnormal QTc prolongation observed during the study (one in each group; appendix), and three patients were withdrawn due to tinnitus or hearing loss, all from the placebo group.",0,0,0,0,0,0,0,N,0,0,0
+144,Adverse events due to a clinically diagnosed infection occurred in fewer patients treated with azithromycin (42 [20%] vs 74 [36%]; p<0·001).,0,0,0,0,0,0,0,N,0,0,0
+145,This was due to a reduction in the number of patients reporting at interview a respiratory tract infection (36 [17%] vs 64 [31%]; p=0·001).,0,0,0,0,0,0,0,N,0,0,0
+146,The rate of antibiotic courses for respiratory infectious episodes was significantly reduced in the azithromycin-treated group compared with the placebo-treated group (IRR 0·52 [95% CI 0·45–0·59]; p<0·0001; figure 4).,0,0,0,0,0,0,0,N,0,0,0
+147,"Cumulative antibiotic treated respiratory infections during 48 weeks of treatment with azithromycin 500 mg, three times per week, or placebo",0,0,0,0,0,0,0,N,0,0,0
+148,All patients randomly assigned were included.,0,0,0,0,0,0,0,N,0,0,0
+149,"At baseline, sputum culture in 244 patients detected a potentially pathogenic microorganism in 48 (20%) of the randomly assigned patients.",0,0,0,0,0,0,0,N,0,0,0
+150,18 (37·5%) of those 48 pathogens were resistant to azithromycin (appendix).,0,0,0,0,0,0,0,N,0,0,0
+151,"At the end of treatment, sputum culture in 180 patients detected potentially pathogenic microorganisms in 37 patients (20 in the placebo group, 17 in the azithromycin group; p=0·58).",0,0,0,0,0,0,0,N,0,0,0
+152,"There were 12 azithromycin-resistant pathogens detected after azithromycin treatment, which included Haemophilus influenzae (n=4), Pseudomonas aeruginosa (n=4), Staphylococcus aureus (n=2), enteric gram-negative rod (n=1), and Streptococcus pneumoniae (n=1; appendix).",0,0,0,0,0,0,0,N,0,0,0
+153,"There were seven azithromycin-resistant pathogens after placebo treatment (p=0·27 vs azithromycin) which included H influenzae (n=1), P aeruginosa (n=4), enteric gram-negative rod (n=1), and S pneumoniae (n=1; appendix).",0,0,0,0,0,0,0,N,0,0,0
+154,"At the end of treatment, there was a non-significant increase in azithromycin-resistant organisms in sputum of patients treated with azithromycin compared with placebo (19 [49%] of 39 vs 12 [29%] of 42; p=0·062).",0,0,0,0,0,0,0,N,0,0,0
+155,Azithromycin-resistant organisms in nose and throat swabs were similar in both treatment groups at the end of treatment (appendix).,0,0,0,0,0,0,0,N,0,0,0
+156,An analysis of azithromycin-resistant potentially pathogenic microorganisms in 11 paired sputum samples from baseline to end of treatment showed that four (36%) at baseline and four (36%) after treatment were resistant to azithromycin in the placebo group.,0,0,0,0,0,0,0,N,0,0,0
+157,In the azithromycin group (n=10) at baseline three microorganisms (30%) were resistant to azithromycin and this increased to six (60%) at the end of treatment (p=0·38; appendix).,0,0,0,0,0,0,0,N,0,0,0
+158,A sub-analysis of the induced sputum microbiome (n=134) did not identify bacterial diversity as an effect modifier (appendix).,0,0,0,0,0,0,0,N,0,0,0
+159,Patients with symptomatic asthma on combination maintenance therapy with inhaled corticosteroid and a long-acting bronchodilator remain at risk of asthma exacerbations.,0,0,0,0,0,0,0,N,0,0,0
+160,"We report that the addition of oral azithromycin 500 mg, three times per week, for 48 weeks, led to a decrease in the frequency of asthma exacerbations and improved asthma-related quality of life.",0,0,0,0,0,0,0,N,0,0,0
+161,With azithromycin there were also fewer respiratory infections overall.,0,0,0,0,0,0,0,N,0,0,0
+162,"The treatment was well tolerated, but there was an increase in diarrhoea as a side-effect of treatment.",0,0,0,0,0,0,0,N,0,0,0
+163,Asthma exacerbations are major events for patients with asthma and there are few studies that evaluate the effects of macrolides on asthma exacerbations.,0,0,0,0,0,0,0,N,0,0,0
+164,"The AZISAST study compared azithromycin 250 mg and placebo given three times per week for 26 weeks in 109 adults with asthma.There was no reduction in asthma exacerbations overall, but in a sub-group analysis there was a positive effect in non-eosinophilic asthma for a co-primary endpoint of severe asthma exacerbations and lower respiratory tract infections.",0,0,0,0,0,0,0,N,0,0,0
+165,"The AZISAST study had different inclusion criteria, inflammatory phenotype classification (blood eosinophils <0·2 × 109 per L), and outcome assessment compared with the AMAZES study.",0,0,0,0,0,0,0,N,0,0,0
+166,Patients in AZISAST were selected to have a history of frequent exacerbations or frequent lower respiratory tract infection or both.,0,0,0,0,0,0,0,N,0,0,0
+167,"In AMAZES, we found that azithromycin was effective in those with frequent exacerbations, but also identified an additional effect in patients with uncontrolled asthma but without a frequent exacerbation history.",0,0,0,0,0,0,0,N,0,0,0
+168,The blood eosinophil cutpoint used in AZISAST was less specific for eosinophilic asthma when evaluated in the AMAZES population.,0,0,0,0,0,0,0,N,0,0,0
+169,AZISAST also used a composite endpoint (severe asthma exacerbations or lower respiratory infection or both).,0,0,0,0,0,0,0,N,0,0,0
+170,It is unclear to what extent the subgroup analysis effect in AZISAST was driven by an effect on lower respiratory tract infection.,0,0,0,0,0,0,0,N,0,0,0
+171,"In AMAZES, we also saw a reduction in exacerbations in both eosinophilic and non-eosinophilic asthma subtypes and we also saw a positive effect of azithromycin on lower respiratory tract infection in non-eosinophilic patients, which would be in agreement with AZISAST.",0,0,0,0,0,0,0,N,0,0,0
+172,Another study of azithromycin 600 mg weekly for 12 weeks in 75 adults with asthma reported no significant difference in exacerbation frequency.,0,0,0,0,0,0,0,N,0,0,0
+173,"The AMAZES study examined a larger population, was of longer duration than these previous studies, and used higher doses of azithromycin.",0,0,0,0,0,0,0,N,0,0,0
+174,The AMAZES population was an older age group with long-standing asthma.,0,0,0,0,0,0,0,N,0,0,0
+175,Asthma is a common disease across all age ranges.,0,0,0,0,0,0,0,N,0,0,0
+176,Our results are broadly applicable to patients with persistent asthma in the adult and older adult age range.,0,0,0,0,0,0,0,N,0,0,0
+177,They might not be applicable to children or younger adults with asthma and further evaluation is required in these age groups.,1,0,0,0,0,0,0,N,0,0,0
+178,Most patients in our study (>80%) were taking high-dose inhaled corticosteroid and long-acting bronchodilators suggesting that the effects of azithromycin seem to be additive to these maintenance asthma therapies.,0,0,0,0,0,0,0,N,0,0,0
+179,We used a dose of azithromycin that was less than the recommended antimicrobial dosage for acute bacterial infections.,0,0,0,0,0,0,0,N,0,0,0
+180,"We chose azithromycin because of its long duration of action, which might mitigate any effects of non-adherence, and its potentially superior efficacy and safety profile from in-vitro experiments.",0,0,0,0,0,0,0,N,0,0,0
+181,"Smoking has a known effect on inflammatory phenotype and treatment response in asthma, possibly by inducing a non-eosinophilic phenotype.",0,0,0,0,0,0,0,N,0,0,0
+182,"We excluded current smokers to manage this effect, and verified non-smoking status by exhaled carbon monoxide measurement.",0,0,0,0,0,0,0,N,0,0,0
+183,"However, past smoking is common in asthma, and to increase the generalisability of the study we included ex-smokers with proven asthma but without emphysema.",0,0,0,0,0,0,0,N,0,0,0
+184,"Macrolides have antibacterial, antiviral, and anti-inflammatory effects.",0,0,0,0,0,0,0,N,0,0,0
+185,"We did not find evidence to support an antibacterial effect, and like other studies, we did not observe a consistent reduction in sputum inflammatory cell counts to suggest a definite anti-inflammatory effect.",0,0,0,0,0,0,0,N,0,0,0
+186,"We have previously examined short-term treatment using a different macrolide, clarithromycin, in 45 participants, in which we observed reductions in sputum supernatant interleukin (IL)-8 and neutrophil elastase and smaller reductions in neutrophil number.",0,0,0,0,0,0,0,N,0,0,0
+187,"That study involved a shorter duration of treatment, with a different macrolide, and examined completely different outcomes to AMAZES.",0,0,0,0,0,0,0,N,0,0,0
+188,Other studies also report immunomodulatory effects of macrolides in eosinophilic inflammation.,0,0,0,0,0,0,0,N,0,0,0
+189,The mechanism of the anti-inflammatory effects of macrolides potentially involves several pathways.,0,0,0,0,0,0,0,N,0,0,0
+190,"Macrolides can bind to macrophilin-12 and inhibit the calcium–calmodulin-dependent phosphatase, calcineurin.",0,0,0,0,0,0,0,N,0,0,0
+191,This effect inhibits activation of T cells and is exploited in the use of macrolide–calcineurin immunosuppressants such as tacrolimus.,0,0,0,0,0,0,0,N,0,0,0
+192,"These agents also inhibit many immune cell types, including eosinophils and basophils, and reduce IL-5 gene transcription.",0,0,0,0,0,0,0,N,0,0,0
+193,"Macrolides, including azithromycin, also inhibit mTOR activity, and blockade of this pathway inhibits eosinophil differentiation and allergic inflammation in model systems.",0,0,0,0,0,0,0,N,0,0,0
+194,The mechanism of the antiviral effect of macrolides is not yet determined.,0,0,0,0,0,0,0,N,0,0,0
+195,"However, respiratory viral infection is associated with severe exacerbations in eosinophilic asthma and causes most respiratory infections.",0,0,0,0,0,0,0,N,0,0,0
+196,"There is a known interaction between eosinophilic airway inflammation, exacerbation rate, and impaired innate antiviral immunity.",0,0,0,0,0,0,0,N,0,0,0
+197,"Since we observed a benefit of azithromycin on both asthma exacerbations and respiratory infections, we speculate that azithromycin might be acting to prevent viral-induced episodes in asthma.",0,0,0,0,0,0,0,N,0,0,0
+198,"Azithromycin seemed well tolerated, with only diarrhoea being more common in patients treated with azithromycin.",0,0,0,0,0,0,0,N,0,0,0
+199,"We did not identify excess withdrawals due to diarrhoea (four in the azithromycin group, three in the placebo group), or hearing problems.",0,0,0,0,0,0,0,N,0,0,0
+200,Prolongation of the corrected QT interval is a risk for cardiac arrhythmia.,0,0,0,0,0,0,0,N,0,0,0
+201,"We, like others, found that pre-screening of patients could prevent this adverse effect.",0,0,0,0,0,0,0,N,0,0,0
+202,Microbial resistance is a known effect of antibiotic use.,0,0,0,0,0,0,0,N,0,0,0
+203,"We evaluated resistance to azithromycin using surveillance cultures, as well as assessing the frequency of clinical infections to detect any excess of infectious events with resistant organisms.",0,0,0,0,0,0,0,N,0,0,0
+204,"While azithromycin was associated with an increase in resistant organisms at the end of treatment, this was not statistically significant.",0,0,0,0,0,0,0,N,0,0,0
+205,"However, the study was not adequately powered to fully assess this effect.",0,0,0,0,0,0,0,N,0,0,0
+206,This effect could be important and needs to be followed up in future work.,0,0,0,0,0,0,0,N,0,0,0
+207,"Clinical infectious episodes were not increased, and episodes of respiratory infection were actually reduced with azithromycin treatment.",0,0,0,0,0,0,0,N,0,0,0
+208,The potential impact of antimicrobial resistance remains an important barrier to the long-term use of macrolides for airway diseases.,0,0,0,0,0,0,0,N,0,0,0
+209,"Our study, like others, did not identify a harmful effect to individuals after treatment for up to 48 weeks; however, AMAZES was not powered to detect a significant difference in resistance between treatment groups.",0,0,0,0,0,0,0,N,0,0,0
+210,"Nonetheless, novel approaches to mitigate antimicrobial resistance including inhaled macrolides, macrolides with a shorter duration of action, or macrolides without antibacterial effects warrant further study.",0,0,0,0,0,0,0,N,0,0,0
+211,It is important to consider the potential place of azithromycin in asthma therapy.,0,0,0,0,0,0,0,N,0,0,0
+212,We found that azithromycin was beneficial when added to treatment for patients with poor asthma control despite inhaled corticosteroid and a long-acting bronchodilator.,0,0,0,0,0,0,0,N,0,0,0
+213,"The other potential add-on treatments available to this population are maintenance oral corticosteroid, tiotropium, anti-IgE monoclonal antibody therapy, or anti-IL-5 monoclonal antibody therapy.",0,0,0,0,0,0,0,N,0,0,0
+214,Oral corticosteroids have substantial toxic effects.,0,0,0,0,0,0,0,N,0,0,0
+215,"Monoclonal antibody therapy for asthma is effective in patients with a history of frequent exacerbations, but access is limited by cost and requirement for injection.",0,0,0,0,0,0,0,N,0,0,0
+216,Azithromycin showed similar efficacy to monoclonal antibodies in reducing severe asthma exacerbations.,0,0,0,1,0,0,0,N,0,0,0
+217,It has broader benefits in that it is effective in patients without a history of frequent exacerbations and also reduces lower respiratory tract infections.,0,0,0,0,0,0,0,N,0,0,0
+218,Azithromycin is likely to be less costly than monoclonal antibody therapy.,0,0,0,0,0,0,0,N,0,0,0
+219,Azithromycin could be considered before the introduction of monoclonal antibody therapy in patients with poorly controlled asthma on inhaled corticosteroid and long-acting bronchodilator.,0,0,0,0,0,0,0,N,0,0,0
+220,The use of inhaled corticosteroid and LABA in a single inhaler as maintenance and reliever therapy (SMART) has shown superiority over fixed-dose inhaled corticosteroid and LABA.,0,0,0,0,0,0,0,N,0,0,0
+221,Most randomised controlled trials of SMART have differed from AMAZES in the population studied and in the maintenance inhaled corticosteroid doses used.,0,0,0,0,0,0,0,N,0,0,0
+222,"The maintenance inhaled corticosteroid dose in SMART is 800 μg budesonide daily, which is substantially less than the AMAZES maintenance inhaled corticosteroid dose, and inhaled corticosteroid dose reduction is not recommended in uncontrolled asthma.",0,0,0,0,0,0,0,N,0,0,0
+223,Therefore SMART is not recommended in guidelines for use in severe asthma.,0,0,0,0,0,0,0,N,0,0,0
+224,"However, given the efficacy of SMART, it would be useful to compare add-on azithromycin to SMART in future trials using a population with less severe asthma, on a lower maintenance inhaled corticosteroid dose.",0,0,0,0,0,0,0,N,0,0,0
+225,There are limitations to this study.,0,0,0,0,0,0,0,N,0,0,0
+226,The study protocol states that the primary analysis was to evaluate the effect of azithromycin on asthma exacerbations.,0,0,0,0,0,1,1,N,0,0,0
+227,"We also discuss the importance of looking at the effect when patients are classified by inflammatory subtype (ie, eosinophilic vs non-eosinophilic asthma).",0,0,0,0,0,0,0,N,0,0,0
+228,The rationale for this is further expanded in the Introduction.,1,0,0,0,0,0,0,N,0,0,0
+229,We consider both analyses as important and necessary to determine the place of this treatment in asthma therapy.,0,0,0,0,0,0,0,N,0,0,0
+230,"Subsequent to the publication of the AZISAST study, we modified our pre-stated analysis (ANZCTR) to give priority to the non-eosinophilic analysis, however still maintained the need to evaluate the effects of azithromycin as stated in the protocol.",0,0,0,0,0,0,0,N,0,0,0
+231,"The current analyses report the effect of azithromycin on asthma overall, as stated in the protocol, as well as reporting the effects by inflammatory subtype.",0,0,0,0,0,0,0,N,0,0,0
+232,"We used LOCF for analysis of our co-primary outcome, quality of life, and secondary outcomes, symptoms and spirometry.",0,0,0,0,0,0,0,N,0,0,0
+233,The use of LOCF might bias results in favour of the treatment group if data are not missing at random.,0,0,0,0,0,0,0,N,0,0,0
+234,"A sensitivity analysis of the co-primary outcome, quality of life, using observed data did not change the results.",0,0,0,0,0,0,0,N,0,0,0
+235,The results of the exacerbation subgroup analyses should also be viewed with caution due to sample size and repeated analysis.,0,0,0,0,0,0,0,N,0,0,0
+236,"In summary, we found that adding azithromycin 500 mg, three times weekly, for 48 weeks to maintenance inhaled corticosteroid–long-acting bronchodilator therapy in patients with symptomatic asthma who have no hearing impairment or abnormal QTc prolongation, decreased the frequency of asthma exacerbations and improved quality of life.",0,0,0,0,0,0,0,N,0,0,0
+237,"Given the major impact of asthma exacerbations on patients and the community, and the ongoing risk posed by these events in patients who remain symptomatic on maintenance therapy, we consider that azithromycin is a valuable addition to existing regimens for treating asthma.",0,0,0,0,0,0,0,N,0,0,0
+238,The long-term effects of this therapy on community microbial resistance require further evaluation.,1,0,0,0,0,0,0,N,0,0,0

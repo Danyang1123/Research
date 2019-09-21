@@ -1,0 +1,212 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Objectives</h3><p>The discovery of the blue lightsensitive retinal photoreceptor responsible for signaling daytime to the brain suggested that light to the circadian system could be inhibited by using blue‐blocking orange tinted glasses.,0,0,N,0,0,0,N,0,0,0,0
+1,Blue‐blocking (</p>BB<p>) glasses are a potential treatment option for bipolar mania.,0,0,N,0,0,0,N,0,0,0,0
+2,We examined the effectiveness of </p>BB<p> glasses in hospitalized patients with bipolar disorder in a manic state.,0,0,N,0,0,0,N,0,0,0,0
+3,"Methods</h3><p>In a single‐blinded, randomized, placebo‐controlled trial (</p>RCT<p>), eligible patients (with bipolar mania; age 18–70 years) were recruited from five clinics in Norway.",0,0,N,0,0,0,N,0,0,0,0
+4,"Patients were assigned to </p>BB<p> glasses or placebo (clear glasses) from 6 p.m. to 8 a.m. for 7 days, in addition to treatment as usual.",0,0,N,0,0,0,N,0,0,0,0
+5,Symptoms were assessed daily by use of the Young Mania Rating Scale (</p>YMRS<p>).,0,0,N,0,0,0,N,0,0,0,0
+6,"Motor activity was assessed by actigraphy, and compared to data from a healthy control group.",0,0,N,0,0,0,N,0,0,0,0
+7,Wearing glasses for one evening/night qualified for inclusion in the intention‐to‐treat analysis.,0,0,N,0,0,0,N,0,0,0,0
+8,"Results</h3><p>From February 2012 to February 2015, 32 patients were enrolled.",0,0,N,0,0,0,N,0,0,0,0
+9,"Eight patients dropped out and one was excluded, resulting in 12 patients in the </p>BB<p> group and 11 patients in the placebo group.",0,0,N,0,0,0,N,0,0,0,0
+10,"The mean decline in </p>YMRS<p> score was 14.1 [95% confidence interval (</p>CI<p>): 9.7–18.5] in the </p>BB<p> group, and 1.7 (95% </p>CI<p>: −4.0 to 7.4) in the placebo group, yielding an effect size of 1.86 (Cohen's <span class=""italic"">d</span>).",0,0,N,0,0,0,N,0,0,0,0
+11,"In the </p>BB<p> group, one patient reported headache and two patients experienced easily reversible depressive symptoms.",0,0,N,0,0,0,N,0,0,0,0
+12,Conclusions</h3><p>This </p>RCT<p> shows that </p>BB<p> glasses are effective and feasible as add‐on treatment for bipolar mania.,0,0,N,0,0,0,N,0,0,0,0
+13,"Bipolar disorder is a serious mental illness with a prevalence of approximately 1% <a href=""#bdi12390-bib-0001"">1</a>.",0,0,N,0,0,0,N,0,0,0,0
+14,Bipolar I disorder is characterized by manic and depressive mood swings.,0,0,N,0,0,0,N,0,0,0,0
+15,"Patients in an episode of mania present with symptoms of elevated mood, irritability, increased energy, risk‐taking behaviour, sleep disturbances, and changes in thoughts and perception, sometimes to the level of psychosis.",0,0,N,0,0,0,N,0,0,0,0
+16,"Patients with bipolar disorder have the highest suicide rate (20%) amongst all those with psychiatric disorders <a href=""#bdi12390-bib-0002"">2</a>.",0,0,N,0,0,0,N,0,0,0,0
+17,"Manic episodes are associated with a particularly high risk of injury and death from accidents, as well as social, economic and professional damage <a href=""#bdi12390-bib-0003"">3</a>.",0,0,N,0,0,0,N,0,0,0,0
+18,"A full‐blown psychotic mania also increases the risk of a subsequent depressive episode <a href=""#bdi12390-bib-0004"">4</a>, <a href=""#bdi12390-bib-0005"">5</a>.",0,0,N,0,0,0,N,0,0,0,0
+19,Effective treatment of manic episodes is therefore of high clinical importance.,0,0,N,0,0,0,N,0,0,0,0
+20,"Current treatment of bipolar mania rests heavily on the use of mood‐stabilizing and antipsychotic agents, the effects of which are slow in onset.",0,0,N,0,0,0,N,0,0,0,0
+21,"The duration of manic episodes is several weeks on average <a href=""#bdi12390-bib-0006"">6</a>, <a href=""#bdi12390-bib-0007"">7</a>.",0,0,N,0,0,0,N,0,0,0,0
+22,This fact alone is a strong indication that the current treatment options do not target the most elemental mania‐sustaining mechanisms.,0,0,N,0,0,0,N,0,0,0,0
+23,"Recent research supports the common clinical experience that bipolar episodes are provoked by changes in light conditions <a href=""#bdi12390-bib-0008"">8</a>, <a href=""#bdi12390-bib-0009"">9</a>.",0,0,N,0,0,0,N,0,0,0,0
+24,"Also, there is supporting evidence for seasonality in bipolar disorder, and symptoms of bipolar disorder are closely linked to abnormal circadian rhythms <a href=""#bdi12390-bib-0010"">10</a>, <a href=""#bdi12390-bib-0011"">11</a>.",0,0,N,0,0,0,N,0,0,0,0
+25,"The light/dark cycle is the strongest synchronizing environmental signal to the ‘master clock’ of circadian rhythms, the suprachiasmatic nucleus (SCN) located in the hypothalamus.",0,0,N,0,0,0,N,0,0,0,0
+26,"Light through the eye signals daytime to the SCN, which in turn inhibits production of the ‘dark hormone’ melatonin in the pineal gland <a href=""#bdi12390-bib-0012"">12</a>.",0,0,N,0,0,0,N,0,0,0,0
+27,Dark therapy (DT) aims to synchronize circadian rhythms by placing patients with mania in a completely dark room for 14 hours during the night.,0,0,N,0,0,0,N,0,0,0,0
+28,"DT has been described to have striking effects in two case reports and one pilot study <a href=""#bdi12390-bib-0013"">13</a>, <a href=""#bdi12390-bib-0014"">14</a>, <a href=""#bdi12390-bib-0015"">15</a>.",0,0,N,0,0,0,N,0,0,0,0
+29,"However, total darkness provides a broad range of sensory deprivation that may cause serious adherence problems, particularly for patients in a manic state.",0,0,N,0,0,0,N,0,0,0,0
+30,"During the last three decades, a specialized retinal ganglion cell type responsible for detecting and conveying the daylight signal to the brain has been identified and characterized.",0,0,N,0,0,0,N,0,0,0,0
+31,"These cells, termed intrinsically photo‐responsive retinal ganglion cells (ipRGCs), contain the blue light‐sensitive photo‐pigment melanopsin <a href=""#bdi12390-bib-0016"">16</a>.",0,0,N,0,0,0,N,0,0,0,0
+32,"In addition to direct signalling of the light/dark status of the environment via ipRGC‐SCN projections, ipRGCs connect with several other regions of the brain, including the limbic system, striatum and brain stem <a href=""#bdi12390-bib-0016"">16</a>.",0,0,N,0,0,0,N,0,0,0,0
+33,"Aberrant light conditions have been demonstrated to affect mood and cognition both through the fast‐acting direct pathways in the ipRGC circuits and indirectly via effects on circadian rhythms and sleep <a href=""#bdi12390-bib-0016"">16</a>.",0,0,N,0,0,0,N,0,0,0,0
+34,The fact that a narrow spectrum of light (blue light) constitutes the daylight signal can be exploited in a therapeutic setting.,0,0,N,0,0,0,N,0,0,0,0
+35,Preventing blue light from entering the eye has been demonstrated to create a state of virtual darkness in the brain.,0,0,N,0,0,0,N,0,0,0,0
+36,"Wearing orange glasses (blue‐blockers) in white‐light environments <a href=""#bdi12390-bib-0017"">17</a>, <a href=""#bdi12390-bib-0018"">18</a>, or using light during the night‐time without wavelengths below 530 nm <a href=""#bdi12390-bib-0019"">19</a>, has been shown to preserve melatonin production, similar to the melatonin profile for subjects in darkness.",0,0,N,0,0,0,N,0,0,0,0
+37,"In a 21‐patient case series describing euthymic patients with bipolar disorder wearing orange glasses in the evening, 50% of the patients reported improved sleep during the intervention <a href=""#bdi12390-bib-0020"">20</a>.",0,0,N,0,0,0,N,0,0,0,0
+38,"Similar findings have been reported in one patient with schizoaffective disorder <a href=""#bdi12390-bib-0021"">21</a>, in one patient with mania <a href=""#bdi12390-bib-0022"">22</a>, and in one patient with bipolar II disorder <a href=""#bdi12390-bib-0023"">23</a>.",0,0,N,0,0,0,N,0,0,0,0
+39,"In this RCT, we examined the effectiveness and feasibility of blue‐blocking (BB) glasses as an add‐on treatment in reducing symptoms of mania in hospitalized patients with bipolar disorder.",0,0,N,0,0,0,N,0,0,0,0
+40,"The main hypotheses were: BB is effective in treating manic symptoms and, furthermore, BB is feasible as a treatment for patients in a manic episode.",0,0,N,0,0,0,N,0,0,0,0
+41,The primary outcome was change in manic symptoms.,0,0,N,0,0,0,N,0,0,0,0
+42,The secondary outcome was change in motor activity.,0,0,N,0,0,0,N,0,0,0,0
+43,"Finally, the feasibility of BB was assessed through a patient experience self‐report form and monitoring of side effects.",0,0,N,0,0,0,N,0,0,0,0
+44,The study was a multicentre randomized placebo‐controlled single‐blinded study.,0,0,N,0,0,0,N,0,0,0,0
+45,"Patients were recruited from five hospitals in the southwest of Norway, latitude 58–59′N.",0,0,N,0,0,0,N,0,0,0,0
+46,"Patients were recruited from Valen Hospital and Folgefonn District Hospital from 1 February 2012, from Haugesund Hospital and Haugaland District Hospital from 20 August 2012, and from Stavanger University Hospital from 20 August 2014.",0,0,N,0,0,0,N,0,0,0,0
+47,Healthy controls were recruited from the same locations and in the same periods of time as the patients.,0,0,N,0,0,0,N,0,0,0,0
+48,The study was terminated on 15 February 2015.,0,0,N,0,0,0,N,0,0,0,0
+49,"Eligible patients were those admitted to hospital with manic symptoms and bipolar disorder according to the Diagnostic and Statistical Manual of Mental Disorders, 4<sup>th</sup> edition, Text Revision (DSM‐IV‐TR) criteria <a href=""#bdi12390-bib-0024"">24</a>, and aged 18–70 years.",0,0,N,0,0,0,N,0,0,0,0
+50,"Exclusion criteria were previous knowledge of BB glasses, not consenting to participate, daily use of beta blockers, nonsteroidal anti‐inflammatory drugs (NSAIDs) or calcium antagonists, and severe eye disease or traumatic injury affecting both eyes.",0,0,N,0,0,0,N,0,0,0,0
+51,"In the case of withdrawal symptoms from any drug or alcohol at the time of admission, the start of the intervention was delayed until withdrawal symptoms had ceased.",0,0,N,0,0,0,N,0,0,0,0
+52,Recruiting doctors were not involved in the ordinary treatment of the participants.,0,0,N,0,0,0,N,0,0,0,0
+53,Inclusion criteria for healthy controls were age 18–70 years and written informed consent to participation.,0,0,N,0,0,0,N,0,0,0,0
+54,"Exclusion criteria were diagnosis of bipolar disorder and previous or current night‐shift work, and were otherwise the same as for patients.",0,0,N,0,0,0,N,0,0,0,0
+55,Previous knowledge of BB glasses was not an exclusion criterion for healthy controls.,0,0,N,0,0,0,N,0,0,0,0
+56,"Data from the literature were scarce with regard to previous trials using DT and nonexistent with regard to BB in patients with mania, making power analysis difficult.",0,0,N,0,0,0,N,0,0,0,0
+57,"Based on the DT study (large effect sizes 0.9–1.6; Cohen's <span class=""italic"">d</span>), a power analysis indicated that, for a probability level of 0.05 (two‐tailed) and power set at 0.80, 21 patients in each group would be sufficient to detect a significant difference <a href=""#bdi12390-bib-0015"">15</a>.",0,0,N,0,0,0,N,0,0,0,0
+58,"However, after 3 years of recruitment and with a total number of 24 patients included for the intention‐to‐treat analysis, inclusion was ended due to the increasing risk of a selection bias because of the growing public awareness of the effects of blue light and BB glasses.",0,0,N,0,0,0,N,0,0,0,0
+59,"All patients who adhered to the protocol (used the glasses from 6 p.m. to 8 a.m.) for at least one evening, night and early morning were included in the intention‐to‐treat analysis.",0,0,N,0,0,0,N,0,0,0,0
+60,One patient in the BB group was excluded from the analysis because of withdrawal symptoms from benzodiazepines at the start of the intervention.,0,0,N,0,0,0,N,0,0,0,0
+61,The procedures were approved by The Regional Ethical Committee in Norway (REK) and were in accordance with the Helsinki Declaration.,1,0,N,1,1,1,N,0,0,0,0
+62,REK approved the use of delayed consent for the participating patients.,1,0,N,1,1,1,N,0,0,0,0
+63,All subjects granted written informed consent after receiving a full description of the study.,1,0,N,1,1,1,N,0,0,0,0
+64,"Included patients were randomly assigned to wearing either orange glasses (BB) or clear glasses (placebo), by use of manual drawing from a fixed number of folded patches.",0,1,N,0,0,0,N,0,0,0,0
+65,Secretaries not otherwise involved in the trial made the allocation.,0,0,N,0,0,0,N,0,0,0,0
+66,The participants were masked to group assignment by receiving identical limited information about the purpose of the study: testing the effectiveness of different types of glasses in reducing manic symptoms by blocking different wavelengths of light.,0,0,N,0,0,0,N,0,0,0,0
+67,No patient observed other patients wearing glasses of a different colour during the trial.,0,0,N,0,0,0,N,0,0,0,0
+68,Patients did not have access to the internet.,0,0,N,0,0,0,N,0,0,0,0
+69,The persons assessing day‐to‐day mania symptoms and analysing the data were not blinded to group assignment.,0,0,N,0,0,0,N,0,0,0,0
+70,"Patients were diagnosed by experienced psychiatrists trained in the use of the Mini International Neuropsychiatric Interview‐Plus <a href=""#bdi12390-bib-0025"">25</a>.",0,0,N,0,0,0,N,0,0,0,0
+71,All patients were physically examined for severe impairment of vision.,0,0,N,0,0,0,N,0,0,0,0
+72,"The BB group wore orange glasses (LowBlueLights.com, University Heights, OH, USA), and the placebo group wore clear‐lensed glasses (Uvex, Furth, Germany and 3M, Austin, TX, USA) from 6 p.m. to 8 a.m. for seven consecutive days.",0,0,N,0,0,0,N,0,0,0,0
+73,"The transmittance spectra of the intervention glasses are shown in <span class=""italic"">Supplementary Fig.",0,0,N,0,0,0,N,0,0,0,0
+74,1</span>.,0,0,N,0,0,0,N,0,0,0,0
+75,"For both groups, the intervention was given in addition to treatment as usual (TAU) (Table <a href=""#bdi12390-tbl-0001"">1</a>).",0,0,N,0,0,0,N,0,0,0,0
+76,Participants were instructed that the glasses could be taken off when turning out the light at bedtime and should be put on if turning on the light before 8 a.m.,0,0,N,0,0,0,N,0,0,0,0
+77,"In both groups, the patients were offered a choice between different models of glasses.",0,0,N,0,0,0,N,0,0,0,0
+78,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,N,0,0,0,N,0,0,0,0
+79,</span>Individual medications and outcomes for patients assigned to blue‐blocking glasses or clear glasses (placebo),0,0,N,0,0,0,N,0,0,0,0
+80,"The patients’ manic symptoms were scored daily by use of the Young Mania Rating Scale (YMRS) <a href=""#bdi12390-bib-0026"">26</a> at the time of nurse reports from the day shift (2 p.m.).",0,0,N,0,0,0,N,0,0,0,0
+81,Doctors trained in YMRS scoring rated all participants and all ratings were performed as a consensus together with at least one trained member of the nursing staff who had attended the patient on the day of assessment.,0,0,N,0,0,0,N,0,0,0,0
+82,"The score for each item was assigned on the basis of the highest level of symptoms, regardless of duration, during the 24‐hour interval starting at midnight.",0,0,N,0,0,0,N,0,0,0,0
+83,"If symptoms increased from 2 p.m. to midnight, the score was adjusted by the doctor responsible for the scoring.",0,0,N,0,0,0,N,0,0,0,0
+84,"By use of a wrist‐worn actigraph (Actiwatch Spectrum; Philips Respironics, Inc., Murrysville, PA, USA), motor activity was continuously recorded for all groups (patients and healthy control subjects).",0,0,N,0,0,0,N,0,0,0,0
+85,"An actigraph contains a piezoelectric accelerometer recording movements in all directions and stores the registered activity count (per defined epoch) in an internal memory unit <a href=""#bdi12390-bib-0027"">27</a>.",0,0,N,0,0,0,N,0,0,0,0
+86,The patients were monitored during the seven days of intervention.,0,0,N,0,0,0,N,0,0,0,0
+87,"Healthy controls were monitored for a seven‐day baseline period without any intervention, followed by a seven‐day period of daily BB from 6 p.m. to 8 a.m.",0,0,N,0,0,0,N,0,0,0,0
+88,The BB/placebo interval (intervention interval) was defined in the Actiwatch software as lasting from 6 p.m. to 8 a.m. for patients and for healthy controls.,0,0,N,0,0,0,N,0,0,0,0
+89,"The interval without glasses was defined as 8 a.m. to 6 p.m. Based on nurses’ reports for patients and self‐report forms for healthy controls, any reported deviation from the protocol was corrected by changing the start and end times of the interval accordingly.",0,0,N,0,0,0,N,0,0,0,0
+90,"If BB glasses were taken off temporarily during the intervention interval, the period of nonuse was excluded, and the remaining interval analysed.",0,0,N,0,0,0,N,0,0,0,0
+91,Intervals with more than 50% invalid time (activity) were excluded from the analysis.,0,0,N,0,0,0,N,0,0,0,0
+92,Pre‐treatment activity intervals of more than 70 min were included in the analysis.,0,0,N,0,0,0,N,0,0,0,0
+93,The feasibility of the intervention was assessed using a patient self‐report form developed for the trial.,0,0,N,0,0,0,N,0,0,0,0
+94,Patients were instructed to rate five statements about the study and the intervention on a five‐point scale ranging from ‘fully disagree’ to ‘fully agree’.,0,0,N,0,0,0,N,0,0,0,0
+95,"Additionally, all subjects had the opportunity to add individual comments detailing their experiences in the trial.",0,0,N,0,0,0,N,0,0,0,0
+96,The primary outcome was change in the YMRS score.,0,0,N,0,0,0,N,0,0,0,0
+97,The secondary outcomes were change in motor activity recorded by means of an actigraph and scores from the patient experience self‐report form.,0,0,N,0,0,0,N,0,0,0,0
+98,Side effects were recorded if present.,0,0,N,0,0,0,N,0,0,0,0
+99,Descriptive statistical methods were used to characterize the sample.,0,0,N,0,0,0,N,0,0,0,0
+100,"The association between treatment and the primary outcome YMRS total score as well as secondary actigraph outcomes was assessed in a linear model with repeated measures, with time, treatment and their interaction as predictors using simple contrasts (all time‐points compared with the baseline value).",0,0,N,0,0,0,N,0,0,0,0
+101,The single items were assessed by graphical methods and means with 95% confidence intervals (CIs) at each time‐point.,0,0,N,0,0,0,N,0,0,0,0
+102,Average activity (counts/min) was calculated for all subjects by use of the Actiware Statistics program.,0,0,N,0,0,0,N,0,0,0,0
+103,"Computation was otherwise performed using SPSS 22 (IBM Corp., Armonk, NY, USA) and Matlab 7.1 (Mathworks, Inc., Natick, MA, USA) and all graphics were produced in Matlab 7.1.",0,0,N,0,0,0,N,0,0,0,0
+104,"The trial profile is shown in Figure <a href=""#bdi12390-fig-0001"">1</a>.",1,0,N,1,1,1,N,1,1,1,1
+105,A total of 32 patients were randomized to one of the two groups.,1,1,N,1,1,1,N,1,1,1,1
+106,"Six patients withdrew consent on the first night of the intervention and two were unable to adhere to the protocol, yielding an intention‐to‐treat group of 24 patients in total, 13 patients in the BB group and 11 patients in the placebo group.",0,0,N,0,0,0,N,1,1,1,1
+107,Actigraph recordings from 22 patients (12 in the BBT group and 10 in the placebo group) and 35 healthy controls were analysed.,0,0,N,0,0,0,N,1,1,1,1
+108,"View larger version</a></span><span class=""fig-label"">Figure 1.",0,0,N,0,0,0,N,1,1,1,1
+109,</span>Trial profile in a randomized controlled trial of blue‐blocking (BB) glasses versus placebo glasses for patients with bipolar mania.,0,0,N,0,0,0,N,0,0,0,0
+110,"Demographic variables and baseline clinical characteristics for all groups are shown in Table <a href=""#bdi12390-tbl-0002"">2</a>.",0,0,N,0,0,0,N,0,0,0,0
+111,There were more men than women in both patient groups.,0,0,N,0,0,0,N,0,0,0,0
+112,The pre‐treatment mean YMRS score for the control group was 27.0 as compared to 23.4 in the BB group.,0,0,N,0,0,0,N,0,0,0,0
+113,"The healthy control group differed from the patient groups with respect to a more equal distribution of sexes, a higher level of education and a higher level of employment.",0,0,N,0,0,0,N,0,0,0,0
+114,"During the intervention week, pharmacological treatment was less intensive for the BB group than for the placebo group (Table <a href=""#bdi12390-tbl-0001"">1</a>); that is, only three of 12 patients in the BB group received two or more different types of antipsychotic drugs as compared to eight of 11 in the placebo group.",0,0,N,0,0,0,N,0,0,0,0
+115,"Only six of 12 patients in the BB group received an anxiolytic, hypnotic or sedative drug, as compared to all patients in the placebo group.",0,0,N,0,0,0,N,0,0,0,0
+116,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,N,0,0,0,N,0,0,0,0
+117,</span>Characteristics of patients with mania assigned to blue‐blocking glasses or placebo and the healthy control group,0,0,N,0,0,0,N,0,0,0,0
+118,"A significant difference in YMRS score change between the BB and placebo groups was apparent after three days of intervention (p = 0.042, partial η<sup>2</sup> = 0.222), and continued to increase throughout the intervention, reaching p = 0.001 (partial η<sup>2</sup> = 0.49) after seven days (Fig.",0,0,N,0,0,0,N,0,0,0,0
+119,"<a href=""#bdi12390-fig-0002"">2</a>).",0,0,N,0,0,0,N,0,0,0,0
+120,The mean change in total YMRS score after seven days of intervention was 14.1 (95% CI: 9.7–18.5) in the BB group as compared to 1.7 (95% CI: −4.0 to 7.39) in the placebo group.,0,0,N,0,0,0,N,0,0,0,0
+121,"This yielded a Cohen's <span class=""italic"">d</span> of 1.86 (<span class=""italic"">Supplementary Table 1</span>).",0,0,N,0,0,0,N,0,0,0,0
+122,"View larger version</a></span><span class=""fig-label"">Figure 2.",0,0,N,0,0,0,N,0,0,0,0
+123,</span>(A) Young Mania Rating Scale (YMRS) total scores for patients assigned to blue‐blocking (BB) glasses (n = 12*) or clear glasses (placebo) (n = 11**).,0,0,N,0,0,0,N,0,0,0,0
+124,Values are reported as means with 95% confidence intervals (CIs).,0,0,N,0,0,0,N,0,0,0,0
+125,The p‐values are reported for the effect of the interaction (change of treatment effect between baseline and each time‐point) in a linear model.,0,0,N,0,0,0,N,0,0,0,0
+126,(B) Spaghetti plot of YMRS individual scores for patients assigned to BB glasses (n = 12*) or clear glasses (placebo) (n = 11**).,0,0,N,0,0,0,N,0,0,0,0
+127,*One dropout on day 1.,0,0,N,0,0,0,N,0,0,0,0
+128,"**Three dropouts on days 1, 5, and 6, respectively.",0,0,N,0,0,0,N,0,0,0,0
+129,"The single YMRS item scores are shown in Figure <a href=""#bdi12390-fig-0003"">3</a>.",0,0,N,0,0,0,N,0,0,0,0
+130,There was a pronounced and rapid decline in eight out of 11 items in the BB group compared to the placebo group.,0,0,N,0,0,0,N,0,0,0,0
+131,"There was an immediate decline in scores for items 5 (Irritability) and 7 (Language‐thought disorder), followed by a stable difference as compared to placebo, while other items showed a progressive decline over the entire time period, for example, items 6 (Speech: rate and amount) and 10 (Appearance).",0,0,N,0,0,0,N,0,0,0,0
+132,"For two of the items showing no change, items 3 (Sexual interest) and 9 (Disruptive and aggressive behavior), both groups scored very low at the start of the intervention.",0,0,N,0,0,0,N,0,0,0,0
+133,For item 4 (Sleep) there was no change in symptoms between groups.,0,0,N,0,0,0,N,0,0,0,0
+134,"View larger version</a></span><span class=""fig-label"">Figure 3.",0,0,N,0,0,0,N,0,0,0,0
+135,"</span>Young Mania Rating Scale (YMRS) item scores for patients assigned to blue‐blocking (BB) glasses (n = 12; one dropout on day 1) or clear glasses (placebo) (n = 11; three dropouts on days 1, 5, and 6, respectively).",0,0,N,0,0,0,N,0,0,0,0
+136,Values are reported as means with 95% confidence intervals (CIs).,0,0,N,0,0,0,N,0,0,0,0
+137,"Items 5, 6, and 9: scale range 0–8 points; for other items, scale range 0–4 points.",0,0,N,0,0,0,N,0,0,0,0
+138,"Actigraph data showed that the average activity counts/min, in the intervention interval 6 p.m. to 8 a. m., was consistently lower in the BB group as compared to the placebo group from the second night of the intervention, although the difference was not statistically significant (<span class=""italic"">Supplementary Fig.",0,0,N,0,0,0,N,0,0,0,0
+139,2</span>).,0,0,N,0,0,0,N,0,0,0,0
+140,"There was a marked decline in activity from the first to the second night of the intervention in the patient BB group, and compared to healthy controls also wearing BB glasses, the difference was already significant from the first to the second BB interval (p = 0.018).",0,0,N,0,0,0,N,0,0,0,0
+141,"Furthermore, for activity during daytime (without glasses), there was a significant difference between the patient BB group and healthy controls on days 2–4, where activity decreased in the patient group and increased in the healthy control group as compared to pre‐treatment day 0 (for days 0–2: p = 0.028).",0,0,N,0,0,0,N,0,0,0,0
+142,Scores from the patient experience self‐report form showed that wearing glasses was generally well tolerated by patients in a manic episode (Fig.,0,0,N,0,0,0,N,0,0,0,0
+143,"<a href=""#bdi12390-fig-0004"">4</a>).",0,0,N,0,0,0,N,0,0,0,0
+144,Patients in the placebo group found the glasses somewhat more irritating than patients in the BB group.,0,0,N,0,0,0,N,0,0,0,0
+145,"In both groups, some patients reported paranoid thoughts regarding the Actiwatch Spectrum device.",0,0,N,0,0,0,N,0,0,0,0
+146,"View larger version</a></span><span class=""fig-label"">Figure 4.",0,0,N,0,0,0,N,0,0,0,0
+147,</span>Self‐reported patient experience with intervention and participation in study for the patients assigned to blue‐blocking (BB) glasses (n = 12) or clear glasses (placebo) (n = 11).,0,0,N,0,0,0,N,0,0,0,0
+148,"With regard to side effects, two patients in the BB group reported emerging depressive symptoms on days 6 and 7, respectively.",0,0,N,0,0,0,N,0,0,0,0
+149,"For one patient, these instantly diminished after a two‐hour shortening of the duration of BB by delaying the start to 8 p.m. For the second patient, a break from BB lasting one evening and one night was followed by a rapid elevation of mood to hypomania on the following day.",0,0,N,0,0,0,N,0,0,0,0
+150,No patients had a switch to a severe depressive episode during or immediately after the intervention.,0,0,N,0,0,0,N,0,0,0,0
+151,"One patient, with comorbid migraine, reported headache associated with the use of BB glasses, causing drop‐out on the second night of the intervention.",0,0,N,0,0,0,N,0,0,0,0
+152,"In the healthy control group, three subjects reported headache attributed to BB.",0,0,N,0,0,0,N,0,0,0,0
+153,One of these reported having migraine.,0,0,N,0,0,0,N,0,0,0,0
+154,Four healthy control subjects reported uncomfortably low energy and two of these also reported lowered mood that was reversed after the discontinuation of the use of BB glasses.,0,0,N,0,0,0,N,0,0,0,0
+155,This is the first placebo‐controlled RCT examining the effectiveness and feasibility of blue‐blocking orange glasses (BB glasses) as an add‐on treatment for patients diagnosed with bipolar mania compared to the placebo condition clear glasses.,0,0,N,0,0,0,N,0,0,0,0
+156,"Patients wore glasses from 6 p.m. to 8 a.m. for seven consecutive days, but were otherwise treated as usual.",0,0,N,0,0,0,N,0,0,0,0
+157,"BB glasses were highly effective as an add‐on treatment for patients in a manic episode, with a significant difference in total YMRS score between the BB and placebo groups as early as three days after the start of the intervention.",0,0,N,0,0,0,N,0,0,0,0
+158,"The effect sizes, ranging from 1.05 to 1.86 during the last three days of the intervention, were extraordinarily high, and were strikingly similar to the effect sizes reported in a previous DT study <a href=""#bdi12390-bib-0015"">15</a>.",0,0,N,0,0,0,N,0,0,0,0
+159,"Unlike the outcome in the DT study, we did not find any relationship between pre‐intervention duration of episode and outcome <a href=""#bdi12390-bib-0015"">15</a>.",0,0,N,0,0,0,N,0,0,0,0
+160,"Remarkably, some symptoms of mania (YMRS single item scores) were clearly attenuated after a single night of intervention.",0,0,N,0,0,0,N,0,0,0,0
+161,"This pattern of YMRS single item scores was supported by actigraph recordings showing a significant drop in motor activity in the patient BB group from the first to the second BB interval, as compared to a healthy control group also receiving BB.",0,0,N,0,0,0,N,0,0,0,0
+162,"With regard to the somewhat surprising finding of no change in item 4 (Total hours of sleep/subjective need for sleep), it has previously been suggested that this item may not be suitable for BB conditions <a href=""#bdi12390-bib-0022"">22</a>.",0,0,N,0,0,0,N,0,0,0,0
+163,"BB glasses were generally well perceived by the patients, and their use was found to be feasible even for several manic patients with psychotic symptoms.",0,0,N,0,0,0,N,0,0,0,0
+164,"The observed side effects, namely headache and uncomfortably lowered mood and energy, were observed at approximately the same frequencies in the patient BB group and in healthy controls receiving BB.",0,0,N,0,0,0,N,0,0,0,0
+165,"Notably, two of the four individuals reporting headache had previously been diagnosed with migraine.",0,0,N,0,0,0,N,0,0,0,0
+166,Headache and lowered mood diminished rapidly for all subjects when BB was discontinued.,0,0,N,0,0,0,N,0,0,0,0
+167,This study was not double‐blinded as the nature of the intervention (coloured glasses) made masking practically impossible.,0,0,N,0,0,0,N,0,0,0,0
+168,"Even if raters had been blinded, it would have been difficult to blind the reporting staff, and patients in a manic state cannot be instructed to withhold information concerning treatment from the rater.",0,0,N,0,0,0,N,0,0,0,0
+169,"To limit the danger of rater's bias, all YMRS ratings were made as a consensus between at least two persons.",0,0,N,0,0,0,N,0,0,0,0
+170,"In our opinion, consensus decisions partially based on observations throughout the 24‐hour period were crucial for counteracting the effects of patients’ tendency to compose themselves when interacting with a doctor.",0,0,N,0,0,0,N,0,0,0,0
+171,"Ultimately, YMRS ratings were supported by objective actigraph monitoring showing marked decline in motor activity corresponding in time with the drop in YMRS items related to activation.",0,0,N,0,0,0,N,0,0,0,0
+172,"The sample size was relatively small, but nevertheless sufficient to test the hypothesis.",0,0,N,0,0,0,N,0,0,0,0
+173,"The sample size and naturalistic design may, however, have influenced the precision of the effect size, as illustrated in <span class=""italic"">Supplementary Table 1</span> showing the variation of effect sizes during the intervention.",0,0,N,0,0,0,N,0,0,0,0
+174,"In a large sample, a slightly better outcome in the placebo group would be expected and hence somewhat less dramatic effects size than 1.86.",0,0,N,0,0,0,N,0,0,0,0
+175,"Unfortunately, because of the growing awareness of blue light and blue‐blockers, it may prove difficult to reproduce this study with the exact same design with a larger sample.",0,0,N,0,0,0,N,0,0,0,0
+176,The sample size yielded insufficient statistical power for detecting significant differences in average Actigraph‐recorded activity between the patient groups.,0,0,N,0,0,0,N,0,0,0,0
+177,"The slow decline in YMRS score in the placebo group is a disturbing, but not surprising, finding.",0,0,N,0,0,0,N,0,0,0,0
+178,The somewhat higher age and longer illness duration of the placebo group may have contributed to this.,0,0,N,0,0,0,N,0,0,0,0
+179,"It is, however, well known that acute episodes of mania, even first episodes, respond slowly to TAU <a href=""#bdi12390-bib-0007"">7</a>.",0,0,N,0,0,0,N,0,0,0,0
+180,"It should also be mentioned that our study was performed in a true naturalistic setting with few exclusion criteria, yielding high generalizability for the population of patients with bipolar disorder.",0,0,N,0,0,0,N,0,0,0,0
+181,"Similar study designs are rarely seen in pharmacological efficacy studies, and this issue should be kept in mind when interpreting the YMRS pattern in the placebo group.",0,0,N,0,0,0,N,0,0,0,0
+182,"In fact, one consequence of the strict naturalistic design was that treatment was continually adjusted according to the patients’ clinical state.",0,0,N,0,0,0,N,0,0,0,0
+183,The potential confounding of less intensive treatment in the improving BB group may have contributed to underestimation of the effect of BB glasses.,0,0,N,0,0,0,N,0,0,0,0
+184,"For instance, due to rapid improvement of symptoms, two patients in the BB group were moved from the acute ward to a local hospital during the intervention.",0,0,N,0,0,0,N,0,0,0,0
+185,"For both patients, transfer was followed by a transient worsening of symptoms.",0,0,N,0,0,0,N,0,0,0,0
+186,"In contrast, no patients in the placebo group were transferred.",0,0,N,0,0,0,N,0,0,0,0
+187,"Interestingly, in the BB group, YMRS item scores related to increased activation, and actigraph‐recorded motor activity, declined before items related to symptoms of distorted thought and perception.",0,0,N,0,0,0,N,0,0,0,0
+188,This led to the hypothesis that the primary anti‐manic effect of BB is deactivation.,0,0,N,0,0,0,N,0,0,0,0
+189,"The mechanisms that may underlie such a relationship have been elucidated through functional magnetic resonance imaging (fMRI) studies, where exposure to blue light, within seconds, activated areas in the brain stem corresponding to the noradrenergic nucleus locus coeruleus (LC) <a href=""#bdi12390-bib-0028"">28</a>, <a href=""#bdi12390-bib-0029"">29</a>.",0,0,N,0,0,0,N,0,0,0,0
+190,"Noradrenergic pathways project from the LC to most of the brain, particularly to the forebrain, and their activation leaves neurons more excitable to novel synaptic stimuli <a href=""#bdi12390-bib-0030"">30</a>.",0,0,N,0,0,0,N,0,0,0,0
+191,"Additionally, the LC activates the hypothalamic‐pituitary‐adrenal (HPA) axis, which many studies have found to be dysfunctional in bipolar disorder <a href=""#bdi12390-bib-0031"">31</a>.",0,0,N,0,0,0,N,0,0,0,0
+192,"Interestingly, an fMRI study showed that the effect of blue light during an executive task depended on circadian phase and sleep homeostasis <a href=""#bdi12390-bib-0032"">32</a>.",0,0,N,0,0,0,N,0,0,0,0
+193,"Patients in a manic episode are indeed out of their homeostatic balance with regard to rest and sleep as well as circadian rhythmicity <a href=""#bdi12390-bib-0011"">11</a>.",0,0,N,0,0,0,N,0,0,0,0
+194,"Thus, the manic symptoms may be fuelled by blue light via excitatory pathways from the brainstem.",0,0,N,0,0,0,N,0,0,0,0
+195,"The last few decades have seen growing interest in the role of dopamine in the pathophysiology of mania, and it is not disputed that elevated dopamine levels are reflected in many symptoms of mania <a href=""#bdi12390-bib-0004"">4</a>.",0,0,N,0,0,0,N,0,0,0,0
+196,"However, our findings imply that changes in cognition and perception during mania (i.e., psychotic symptoms) may be secondary effects of increased activation.",0,0,N,0,0,0,N,0,0,0,0
+197,This observation is in accordance with the sequence of the developing symptoms during the build‐up of manic episodes.,0,0,N,0,0,0,N,0,0,0,0
+198,"Interestingly, the original catecholamine hypothesis proposed that manic symptoms may be caused by high levels of noradrenalin <a href=""#bdi12390-bib-0033"">33</a>.",0,0,N,0,0,0,N,0,0,0,0
+199,"If, however, the dopaminergic drive during mania is secondary to persistently high activity of noradrenergic systems, this could explain the slow onset of overall improvement for patients in a psychotic manic episode, where the current conventional treatment mainly relies on dopamine‐blocking agents <a href=""#bdi12390-bib-0004"">4</a>.",0,0,N,0,0,0,N,0,0,0,0
+200,"The rapid reduction in YMRS item scores related to activation in the BB group gives us reason to state the hypothesis that the anti‐manic effect seen during BB treatment is due to silencing of signalling in the ipRGC circuits directly influencing mood and cognition, rather than indirect effects via melatonin secretion, sleep or increased circadian synchrony.",0,0,N,0,0,0,N,0,0,0,0
+201,"A subsequent contribution from impact on melatonin secretion and circadian rhythmicity is very likely, but cannot be confirmed by the present data.",0,0,N,0,0,0,N,0,0,0,0
+202,"In a recent case report describing a patient with bipolar II disorder using BB glasses over 2 weeks, the onset of nocturnal melatonin secretion was advanced by 1 hour 18 min, along with improved mood and relief from anxiety <a href=""#bdi12390-bib-0023"">23</a>.",0,0,N,0,0,0,N,0,0,0,0
+203,"Several other studies have shown preservation of melatonin during BB in light conditions for healthy individuals <a href=""#bdi12390-bib-0017"">17</a>, <a href=""#bdi12390-bib-0018"">18</a>, <a href=""#bdi12390-bib-0034"">34</a>, and in one case report the sleep−wake cycle was rapidly and markedly regularized during BB for a patient in a manic episode <a href=""#bdi12390-bib-0022"">22</a>.",0,0,N,0,0,0,N,0,0,0,0
+204,"Ultimately, the basic mechanisms underlying the effects of BB in mania need further investigation.",0,0,N,0,0,0,N,0,0,0,0
+205,"Our results are strongly indicative that light, more specifically blue light, is a major environmental factor maintaining bipolar mania through the melanopsin−ipRGC systems.",0,0,N,0,0,0,N,0,0,0,0
+206,Our results provide a new opportunity for bridging both theoretical and therapeutic gaps related to bipolar disorder.,0,0,N,0,0,0,N,0,0,0,0
+207,"Most importantly, however, this study implies that BB glasses, used in accordance with our protocol, are a safe and efficient intervention for bipolar mania that should be utilized in treatment efforts.",0,0,N,0,0,0,N,0,0,0,0
+208,"In parallel, follow‐up studies are needed for replication of findings and refinement of this novel treatment option.",0,0,N,0,0,0,N,0,0,0,0
+209,The authors of this paper do not have any commercial associations that might pose a conflict of interest in connection with this manuscript.,0,0,N,0,0,0,N,0,0,0,0
+210,Open In Web Browser,0,0,N,0,0,0,N,0,0,0,0

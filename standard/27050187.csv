@@ -1,0 +1,120 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"In patients with severe aortic stenosis at increased risk for surgery, self-expanding transcatheter aortic valve replacement (TAVR) is associated with improved 2-year survival compared with surgery.",1,0,N,0,N,N,N,0,N,0,0
+1,This study sought to determine whether this clinical benefit was sustained over time.,0,0,N,0,N,N,N,0,N,0,0
+2,Patients with severe aortic stenosis deemed at increased risk for surgery by a multidisciplinary heart team were randomized 1:1 to TAVR or open surgical valve replacement (SAVR).,0,0,N,0,N,N,N,0,N,0,0
+3,Three-year clinical and echocardiographic outcomes were obtained in those patients with an attempted procedure.,0,0,N,0,N,N,N,0,N,0,0
+4,A total of 797 patients underwent randomization at 45 U.S. centers; 750 patients underwent an attempted procedure.,0,1,N,0,N,N,N,0,N,0,0
+5,Three-year all-cause mortality or stroke was significantly lower in TAVR patients (37.3% vs. 46.7% in SAVR; p = 0.006).,0,0,N,0,N,N,N,0,N,0,0
+6,"Adverse clinical outcome components were also reduced in TAVR patients compared with SAVR patients, including all-cause mortality (32.9% vs. 39.1%, respectively; p = 0.068), all stroke (12.6% vs. 19.0%, respectively; p = 0.034), and major adverse cardiovascular or cerebrovascular events (40.2% vs. 47.9%, respectively; p = 0.025).",0,0,N,0,N,N,N,0,N,0,0
+7,"At 3 years aortic valve hemodynamics were better with TAVR patients (mean aortic valve gradient 7.62 ± 3.57 mm Hg vs. 11.40 ± 6.81 mm Hg in SAVR; p < 0.001), although moderate or severe residual aortic regurgitation was higher in TAVR patients (6.8% vs. 0.0% in SAVR; p < 0.001).",0,0,N,0,N,N,N,0,N,0,0
+8,There was no clinical evidence of valve thrombosis in either group.,0,0,N,0,N,N,N,0,N,0,0
+9,Patients with severe aortic stenosis at increased risk for surgery had improved 3-year clinical outcomes after TAVR compared with surgery.,0,0,N,0,N,N,N,0,N,0,0
+10,Aortic valve hemodynamics were more favorable in TAVR patients without differences in structural valve deterioration.,0,0,N,0,N,N,N,0,N,0,0
+11,(Safety and Efficacy Study of the Medtronic CoreValve® System in the Treatment of Symptomatic Severe Aortic Stenosis in High Risk and Very High Risk Subjects Who Need Aortic Valve Replacement; NCT01240902),0,0,N,0,N,N,N,0,N,0,0
+12,aortic stenosisoutcomessurgical aortic valve replacementtranscatheter aortic valve replacement,1,0,N,0,N,N,N,0,N,0,0
+13,AVAaortic valve areaMACCEmajor adverse cardiovascular and cerebrovascular eventsMDCTmultidetector computed tomographyNYHANew York Heart AssociationSAVRsurgical aortic valve replacementTAVRtranscatheter aortic valve replacement,0,0,N,0,N,N,N,0,N,0,0
+14,Transcatheter aortic valve replacement (TAVR) has been established as an alternative to surgical valve replacement (SAVR) in patients with severe aortic stenosis who are deemed suboptimal for surgery.,0,0,N,0,N,N,N,0,N,0,0
+15,"We have previously shown that patients at increased surgical risk treated with self-expanding TAVR had superior clinical outcomes compared with surgery, a benefit that was sustained 2 years after the procedure.",0,0,N,0,N,N,N,0,N,0,0
+16,"We hypothesized that the reasons for this survival benefit were related to reduced periprocedural complications, such as bleeding, acute kidney injury, post-operative atrial fibrillation, improved aortic valve hemodynamics, lower rates of prosthesis-patient mismatch, and more rapid recovery with improved health status using TAVR compared with SAVR.",0,0,N,0,N,N,N,0,N,0,0
+17,"Although we expected that these health benefits would be largely realized in the first year after aortic valve replacement, we found a further separation of the survival curves between 1 and 2 years after the procedure (from 4.8% at 1 year to 6.5% at 2 years).",0,0,N,0,N,N,N,0,N,0,0
+18,We postulated that early surgical complications might have had a sustained impact on the 2-year survival and stroke outcomes in the surgical group.,0,0,N,0,N,N,N,0,N,0,0
+19,"The purpose of this analysis was to determine whether the clinical benefit of self-expanding TAVR compared with SAVR was sustained 3 years later, and to compare aortic valve hemodynamics in the 2 groups in order to detect signals for structural valve deterioration.",0,0,N,0,N,N,N,0,N,0,0
+20,"This multicenter, prospective, randomized, noninferiority trial conducted at 45 sites across the United States has been reported in detail elsewhere.",0,0,N,0,N,N,N,0,N,0,0
+21,"An independent Clinical Events Committee adjudicated all major clinical events, and an independent data safety monitoring board provided study oversight.",0,0,N,0,N,N,N,0,N,0,0
+22,The institutional review board at each site approved the protocol.,0,0,N,0,N,N,N,0,N,0,0
+23,"All patients provided written, informed consent for the procedure and follow-up evaluations for 5 years.",0,0,N,0,N,N,N,0,N,0,0
+24,Patient selection has been described previously in detail.,0,0,N,0,N,N,N,0,N,0,0
+25,"In brief, patients with severe aortic stenosis defined as an aortic valve area (AVA) of ≤0.8 cm2 or an AVA index of ≤0.5 cm2/m2 and either a mean gradient >40 mm Hg or peak aortic jet velocity >4 m/s and New York Heart Association (NYHA) functional class II or worse symptoms were eligible for the trial if both the local heart team and a national screening committee agreed they were at increased risk for SAVR.Increased risk was defined as an estimated 30-day mortality risk 15% or greater and a combined 30-day surgical mortality and major morbidity risk less than 50%.",0,0,N,0,N,N,N,0,N,0,0
+26,Risk was assessed using the Society of Thoracic Surgeons predictors of mortality score and other factors associated with increased surgical risk described in previous publications.,0,0,N,0,N,N,N,0,N,0,0
+27,Detailed inclusion and exclusion criteria have been reported.,0,0,N,0,N,N,N,0,N,0,0
+28,The study procedures for the CoreValve US Pivotal Trial were previously described in detail.,0,0,N,0,N,N,N,0,N,0,0
+29,Patients were randomly assigned to TAVR or SAVR in a 1:1 manner; randomization was stratified by study site and intended access site (iliofemoral or noniliofemoral access).,0,1,N,0,N,N,N,0,N,0,0
+30,"For patients assigned to TAVR, the bioprothesis valve size was chosen according to the perimeter-based diameter of the screening multidetector computed tomography (MDCT).",0,0,N,0,N,N,N,0,N,0,0
+31,Dual antiplatelet therapy with aspirin (at least 81 mg daily) and clopidogrel (at least 75 mg daily) was recommended before and for 3 months after the procedure.,0,0,N,0,N,N,N,0,N,0,0
+32,"For patients assigned to SAVR, site-specific standard surgical techniques were used with the valve type and size being selected by the individual cardiac surgeon on the basis of direct anatomic measurements made during the procedure using valve specific sizing tools.",0,0,N,0,N,N,N,0,N,0,0
+33,"After surgical valve replacement, aspirin (at least 81 mg daily) was prescribed indefinitely for all patients, including those who also received warfarin.",0,0,N,0,N,N,N,0,N,0,0
+34,"An independent Clinical Events Committee evaluated 3-year clinical events using the Valve Academic Research Consortium-1 criteria, which was used at the initiation of the study.",0,0,N,0,N,N,N,0,N,0,0
+35,"These endpoints included all-cause mortality, all stroke, major stroke, all-cause mortality or major stroke, pacemaker implantation, life-threatening or disabling bleeding, valve thrombosis, valve endocarditis and major adverse cardiovascular and cerebrovascular events (MACCE) (death, myocardial infarction, stroke, or reintervention).",0,0,N,0,N,N,N,0,N,0,0
+36,NYHA functional class was recorded by the clinical sites.,0,0,N,0,N,N,N,0,N,0,0
+37,"Clinical site–reported echocardiographic estimations of AVA, mean aortic valve gradient, and aortic regurgitation were used for this analysis.",1,0,N,0,N,N,N,0,N,0,0
+38,Worsening aortic valve gradients were defined as a >50% increase in the aortic valve gradient from 1-month to 3-year follow-up.,0,0,N,0,N,N,N,0,N,0,0
+39,"This analysis evaluated the as-treated population, defined as all patients who underwent an attempted implantation.",0,0,N,0,N,N,N,0,N,0,0
+40,Categorical variables were compared using the Fisher exact test or chi-square test.,0,0,N,0,N,N,N,0,N,0,0
+41,Continuous variables are presented as the mean ± SD and were compared using the Student t test.,0,0,N,0,N,N,N,0,N,0,1
+42,Kaplan-Meier estimates were used to construct the survival curves on the basis of all available follow-up data for the time-to-event analysis.,0,0,N,0,N,N,N,0,N,0,0
+43,Differences in events rates between the TAVR and SAVR groups were evaluated using the log-rank test.,0,0,N,0,N,N,N,0,N,0,0
+44,All echocardiographic measurements were evaluated using a 2-sample Student t test or the Wilcoxon rank sum test for continuous variables and the Mantel-Haenszel test for categorical variables.,0,0,N,0,N,N,N,0,N,0,0
+45,All testing used a 2-sided alpha level of 0.05.,0,0,N,0,N,N,N,0,N,0,0
+46,"All statistical analyses were performed with the use of SAS software, version 9.2 (SAS Institute, Cary, North Carolina).",0,0,N,0,N,N,N,0,N,0,0
+47,A total of 750 patients were included in the as-treated patient population.,0,0,N,1,N,N,N,0,N,0,0
+48,TAVR was attempted in 391 patients and surgery was attempted in 359 patients.,0,0,N,1,N,N,N,0,N,0,0
+49,TAVR patients were followed for a median of 35.8 months and surgery patients for a median of 34.6 months.,0,0,N,1,N,N,N,0,N,0,1
+50,Three-year clinical outcomes were available in 228 of 246 (92.7%) eligible patients who were alive in the TAVR group and 179 of 194 (92.3%) eligible patients who were alive in the SAVR group (Figure 1).,0,0,N,1,N,N,N,0,N,0,0
+51,Patient disposition through 3 years for patients who underwent an attempted implant procedure.,0,0,N,0,N,N,N,0,N,0,0
+52,Vital status at 3 years was known for 228 of 246 (92.7%) remaining transcatheter aortic valve replacement (TAVR) patients and 179 of 194 (92.3%) remaining surgical aortic valve replacement (SAVR) patients.,0,0,N,0,N,N,N,0,N,0,0
+53,"A total of 33 patients (18 TAVR, 15 SAVR) missed their 3-year follow-up.",0,0,N,0,N,N,N,0,N,0,0
+54,Baseline clinical demographics are summarized in Table 1.,0,0,N,0,N,N,N,0,N,0,0
+55,"The combined average age was 83.2 ± 6.7 years, and 53% of patients were men.",0,0,N,0,N,N,N,0,N,0,0
+56,"Patients were highly symptomatic, with NYHA functional class III or IV symptoms in 86.1% of the patients.",0,0,N,0,N,N,N,0,N,0,0
+57,The mean Society of Thoracic Surgeons predictors of mortality score was 7.4 ± 3.2%.,0,0,N,0,N,N,N,0,N,0,1
+58,"Although diabetes occurred more often in surgical patients (p = 0.004), there was no significant difference in the frequency of insulin-requiring diabetes in the 2 groups (Table 1).",0,0,N,0,N,N,N,0,N,0,0
+59,Baseline Patient Characteristics,0,0,N,0,N,N,N,0,N,0,0
+60,Three-year clinical outcomes are found in Table 2.,0,0,N,0,N,N,N,0,N,0,0
+61,"There was a 20.1% relative reduction in the occurrence of all-cause mortality or stroke at 3 years in TAVR patients compared with surgical patients (p = 0.006) (Table 2, Central Illustration), with an absolute risk reduction of 9.4%.",0,0,N,0,N,N,N,0,N,0,0
+62,"Compared with surgical patients, TAVR patients experienced a nonsignificant 15.9% relative risk reduction in all-cause mortality (absolute Δ 6.2%; p = 0.068), a 33.7% relative risk reduction in all stroke (absolute Δ 6.4%; p = 0.034), a 15.9% relative risk reduction in all-cause mortality or major stroke (absolute Δ 6.6%; p = 0.046), and a 16.1% relative risk reduction in MACCE (absolute Δ 7.7%; p = 0.025) (Central Illustration).",0,0,N,0,N,N,N,0,N,0,0
+63,The rates of all-cause mortality at 3 years for the intention-to-treat cohort were similar (TAVR 33.0% vs. SAVR 38.8%; p = 0.069).,0,0,N,0,N,N,N,0,N,0,0
+64,"Life-threatening or major bleeding and acute kidney injury were more common in the SAVR group, whereas vascular complications, reintervention, and the need for new permanent pacemakers were more common in the TAVR group; the majority of these events occurred within the first 30 days.",0,0,N,1,N,N,N,0,N,0,0
+65,The incidence of valve endocarditis and aortic valve hospitalization were low and not different between the 2 groups (Table 2).,0,0,N,0,N,N,N,0,N,0,0
+66,The incidence of NYHA functional class I and II heart failure symptoms were similar in both groups at 3 years (92.3% for TAVR and 91.1% for SAVR) (Figure 2).,0,0,N,0,N,N,N,0,N,0,0
+67,NYHA Functional Class Over Time,0,0,N,0,N,N,N,1,N,0,0
+68,The distribution of New York Heart Association (NYHA) symptoms for patients treated with TAVR or SAVR through 3-year follow-up.,0,0,N,0,N,N,N,1,N,0,0
+69,"Three-year aortic valve gradients were lower in transcatheter patients (mean aortic valve gradient 7.62 ± 3.57 mm Hg vs. 11.40 ± 6.81 mm Hg in surgical patients; p < 0.001) (Table 3), although moderate or severe aortic regurgitation was higher in transcatheter patients (6.8% vs. 0.0% in surgical patients; p < 0.001) (Table 3).",0,0,N,0,N,N,N,0,N,0,0
+70,"In paired analysis, 3-year aortic valve gradients were also statistically lower in transcatheter patients (7.81 ± 3.58 mm Hg vs. 10.78 ± 5.82 mm Hg in surgical patients; p < 0.001) (Figure 3).",0,0,N,0,N,N,N,0,N,0,0
+71,"In paired analysis, the moderate or severe AR was also higher in the transcatheter patients (7.1% vs. 0.0%; p < 0.001) (Figure 4).",0,0,N,0,N,N,N,0,N,0,0
+72,There was no evidence of clinical valve thrombosis or structural valve deterioration in either group.,0,0,N,0,N,N,N,0,N,0,0
+73,"The rates of worsening aortic valve gradients, defined as a >50% increase from 1 month to 3 years, were similar in the 2 groups (9.5% in the TAVR group and 12.6% in the SAVR group; p = 0.38).",0,0,N,0,N,N,N,0,N,0,0
+74,Serial Echocardiography by Treatment Group for All Patients,0,0,N,0,N,N,N,0,N,0,0
+75,Echocardiographic Findings Over Time: Paired Analysis,0,0,N,0,N,N,N,1,N,0,0
+76,Reduction in aortic valve (AV) mean gradient and increased AV area are maintained through 3 years.,1,0,N,0,N,N,N,1,N,0,1
+77,Data reported on the basis of site-reported echocardiographic findings in patients with echocardiographic measurements at all time points reported.,0,0,N,0,N,N,N,1,N,0,0
+78,Paired sets of mean AV gradient data were available for 174 TAVR and 113 SAVR patients; AV area was available for 126 TAVR and 85 SAVR patients.,0,0,N,0,N,N,N,0,N,0,0
+79,TAVR was associated with significantly lower gradients; and larger aortic valve areas at each time point (all p < 0.05).,0,0,N,0,N,N,N,0,N,0,0
+80,Total Aortic Regurgitation Over Time: Paired Analysis,0,0,N,0,N,N,N,0,N,0,0
+81,"Site-reported total aortic regurgitation at discharge, 1 year, 2 years, and 3 years for patients with echocardiographic measurements at each time point reported.",1,0,N,0,N,N,N,0,N,0,0
+82,The results of this analysis demonstrate the sustained 3-year clinical benefit of self-expanding TAVR over SAVR in patients with aortic stenosis at increased risk for surgery.,0,0,N,0,N,N,N,0,N,0,0
+83,"Coupled with reductions in all-cause mortality and stroke, self-expanding TAVR was also shown to have lower 3-year mean aortic valve gradients and larger effective orifice areas compared with SAVR, albeit with more total aortic regurgitation.",0,0,N,0,N,N,N,0,N,0,0
+84,There were no differences in the occurrence of structural valve deterioration over time in the 2 groups.,0,0,N,0,N,N,N,0,N,0,1
+85,We believe that these findings support the use of self-expanding TAVR as the treatment of choice in patients at increased risk for surgery.,0,0,N,0,N,N,N,0,N,0,0
+86,One randomized trial in patients treated with balloon-expandable TAVR and surgery showed comparable clinical outcomes in the 2 groups 5 years after the procedure .,0,0,N,0,N,N,N,0,N,0,0
+87,"Although an early (6-month) clinical benefit was suggested with balloon-expandable TAVR, mortality was similar in the 2 groups 1 year, 2 years, and 5 years  after the procedure.",0,0,N,0,N,N,N,0,N,0,0
+88,"We found an absolute difference in all-cause mortality between TAVR and SAVR patients at 1 year of 4.8%, 2 years of 6.5%, and 3 years of 6.2%, although this difference was no longer statistically significant (p = 0.068) at 3 years.",0,0,N,0,N,N,N,0,N,0,0
+89,"Differences in mortality between TAVR and SAVR in our study were most pronounced between 30 and 120 days but persisted throughout the first 3 years after the procedure, most likely due to reduced periprocedural complications, such as bleeding, acute kidney injury, post-operative atrial fibrillation, lower rates of prosthesis-patient mismatch, and more rapid recovery and improved health status  with TAVR compared with SAVR.",0,0,N,0,N,N,N,0,N,0,0
+90,"The differences in the results of these 2 studies may relate to operator learning curve, use of MDCT in the current study, a slightly lower-risk patient population, or differences in performance of the balloon-expandable and self-expanding transcatheter bioprotheses.",0,0,N,0,N,N,N,0,N,0,0
+91,"Furthermore, this current study shows that reductions in all-cause mortality or stroke seen at 1 year were maintained 3 years after the procedure, which is unique for our study.",0,0,N,0,N,N,N,0,N,0,0
+92,"The incidence of all stroke, combined all-cause mortality or major stroke and MACCE have also remained significantly lower in the TAVR patients compared with SAVR patients, a benefit that is independent of age, gender, body mass index, left ventricular ejection fraction, or the presence of diabetes mellitus.",0,0,N,0,N,N,N,0,N,0,0
+93,All-cause mortality also trended toward significance (p = 0.068) in patients treated with TAVR.,0,0,N,0,N,N,N,0,N,0,0
+94,The pacemaker rates were higher in patients treated with the self-expanding bioprothesis (28.0%) compared with surgery (14.5%) and longer-term follow-up is needed to evaluate whether displacement of the tricuspid valve with the pacemaker lead may cause chronic tricuspid valve insufficiency and right heart failure.,0,0,N,0,N,N,N,0,N,0,0
+95,"We would also anticipate later term outcomes will be determined by the characteristics of the transcatheter and surgical bioprostheses, including the relative balance of valve performance, measured by the hemodynamics of forward flow, impact of residual aortic regurgitation, and the durability of the specific bioprothesis.",0,0,N,0,N,N,N,0,N,0,0
+96,Sustained hemodynamic improvements after aortic valve replacement,0,0,N,0,N,N,N,0,N,0,0
+97,"Similar to a prior randomized study with balloon-expandable TAVR and our own studies at 1 year and 2 years with the self-expanding bioprothesis, we found a sustained reduction in 3-year mean aortic valve gradients and an improvement of AVAs in patients treated with self-expanding TAVR compared with SAVR.",0,0,N,0,N,N,N,0,N,0,0
+98,The reasons for this hemodynamic benefit likely relates to the lower profile transcatheter bioprothesis with self-expanding nitinol at the level of the annulus compared with surgery and to the supra-annular location of the porcine pericardial valve.,0,0,N,0,N,N,N,0,N,0,0
+99,"The potential benefit of improved hemodynamics needs to be balanced with the potentially negative impact on survival of residual aortic regurgitation after TAVR, which has been associated with suboptimal late clinical outcomes.",0,0,N,0,N,N,N,0,N,0,0
+100,The low incidence (6.8%) of moderate and severe residual aortic regurgitation in this study may not have impacted 3-year survival relative to the improved valve hemodynamic performance.,0,0,N,0,N,N,N,0,N,0,0
+101,Tissue valve durability is dependent on a combination of biomechanical stresses and biological processes after valve implantation.,0,0,N,0,N,N,N,0,N,1,0
+102,Biomechanical stresses are reflected by how well the prosthetic device resolves the stenosis and eliminates flow turbulence through the prosthetic valve.,0,0,N,0,N,N,N,0,N,1,0
+103,"On the basis of the results of our study, biomechanical stresses are likely lower in transcatheter patients than surgical patients due to the lower residual mean gradients and the effective orifice area in transcatheter patients.",0,0,N,0,N,N,N,0,N,1,0
+104,"Although anticalcification treatment was not available on the self-expanding bioprosthesis used in the study, alpha-amino oleic acid treatment has been added to the commercially available self-expanding bioprosthesis.",0,0,N,0,N,N,N,0,N,1,0
+105,"These findings demonstrate the durability of self-expanding TAVR in the elderly patients enrolled in this study, but longer-term studies will be needed as this therapy is expanded to younger patients.",0,0,N,0,N,N,N,0,N,1,0
+106,Time-dependent imaging using high-resolution MDCT imaging has demonstrated leaflet immobility and thickening following aortic valve replacement using both transcatheter and surgical bioprostheses.,0,0,N,0,N,N,N,0,N,0,0
+107,"Although the implications of these findings are still uncertain, there is now a heightened awareness of the potential for transcatheter valve thrombosis, particularly in patients who show rising aortic valve gradients late after valve implantation.",0,0,N,0,N,N,N,0,N,0,0
+108,"We found low rates of structural valve hemodynamic deterioration, as defined by a >50% increase in mean aortic valve gradient from 1-month to 3-years with both the transcatheter (9.5%) and surgical (12.6%) bioprostheses.",0,0,N,0,N,N,N,0,N,0,0
+109,"There were no cases of valve thrombosis found at 3 years in our study, and we detected low rates of valve endocarditis with both self-expanding TAVR (0.9%) and SAVR (1.7%) bioprostheses.",0,0,N,0,N,N,N,0,N,0,0
+110,"Although this data is reassuring, additional prospective studies are needed to further define the incidence and clinical importance of leaflet thickening and immobility demonstrated using MDCT after transcatheter and surgical valve replacement.",0,0,N,0,N,N,N,0,N,0,0
+111,It is uncertain whether the crimping–recrimping of the transcatheter valve will have an impact on long-term bioprosthesis durability.,0,0,N,0,N,N,N,0,N,0,0
+112,"We used an as-treated analysis population to account for potential differential dropout of patients who declined therapy after randomization, primarily open surgery; however, we did confirm that the mortality benefit at 3 years with TAVR was similar in the intention-to-treat cohort.",0,0,N,0,N,N,N,0,N,0,0
+113,The 3-year follow-up is limited and longer 10-year studies are needed to understand the longer-term durability in patients at lower risk with longer life expectancies.,0,0,N,0,N,N,N,0,N,0,0
+114,Self-expanding TAVR was associated with a sustained 3-year clinical benefit over SAVR in patients with aortic stenosis at increased risk for surgery.,0,0,N,0,N,N,N,0,N,0,0
+115,Self-expanding TAVR was also associated with improved valve hemodynamics and no differences were found in the occurrence of structural valve deterioration over time.,0,0,N,0,N,N,N,0,N,0,0
+116,These findings support the use of self-expanding TAVR as the treatment of choice in patients suboptimal for surgery.,0,0,N,0,N,N,N,0,N,0,0
+117,COMPETENCY IN PATIENT CARE AND PROCEDURAL SKILLS: TAVR with self-expanding prostheses has sustained benefit in patients with severe aortic stenosis at high surgical risk for ≥3 years compared to surgical valve replacement.,0,0,N,0,N,N,N,0,N,0,0
+118,TRANSLATIONAL OUTLOOK: Additional studies are needed to validate outcomes of TAVR over even longer follow-up intervals and in lower-risk patients with severe aortic stenosis.,0,0,N,0,N,N,N,0,N,0,0

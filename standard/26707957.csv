@@ -1,0 +1,118 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Many athletes with patellar tendinopathy participate in sports with symptoms during or after activities.,0,0,0,0,N,N,N,N,0,0,0
+1,Current treatments do not decrease pain in-season; eccentric exercises in-season result in an increase in pain.,0,0,0,1,N,N,N,N,0,0,0
+2,This study examined if isometric and isotonic exercises relieved pain in competing athletes with patellar tendinopathy.,0,0,0,0,N,N,N,N,0,0,0
+3,Jumping athletes with patellar tendinopathy playing at least three times per week participated in this study.,0,0,0,0,N,N,N,N,0,0,0
+4,Athletes were randomised into an isometric or isotonic exercise group.,0,0,0,0,N,N,N,N,0,0,0
+5,The exercise programs consisted of four isometric or isotonic exercise sessions per week for four weeks.,0,0,0,0,N,N,N,N,0,0,0
+6,Pain during a single leg decline squat (SLDS) on a Numeric Rating Scale (NRS; 0–10) was used as the main outcome measure; measurements were completed at baseline and at 4-week follow-up.,0,0,0,0,N,N,N,N,0,0,0
+7,Twenty-nine athletes were included in this study.,0,0,0,0,N,N,N,N,0,0,0
+8,"Median pain scores improved significantly over the 4-week intervention period in both the isometric group (Z = −2.527, p = 0.012, r = −0.63) and isotonic group (Z = −2.952, p = 0.003, r = −0.63).",0,0,0,0,N,N,N,N,1,1,0
+9,"There was no significant difference in NRS pain score change (U = 29.0, p = 0.208, r = 0.29) between the isometric group (median (IQR), 2.5 (1–4.5)) and isotonic group (median (IQR), 3.0 (2–6)).",0,0,0,0,N,N,N,N,1,1,0
+10,This is the first study to show a decrease in patellar tendon pain without a modification of training and competition load and the first study to investigate isometric exercises in a clinical setting.,0,0,0,0,N,N,N,N,0,0,0
+11,Both isometric and isotonic exercise programs are easy-to-use exercises that can reduce pain from patellar tendinopathy for athletes in-season.,0,0,0,0,N,N,N,N,0,0,0
+12,TendinopathyPhysical therapy modalitiesExercise therapyPatellar ligamentTendonsJumper's knee,0,0,0,0,N,N,N,N,0,0,0
+13,"Patellar tendinopathy, also known as jumper's knee, is an overuse injury of the patellar tendon that causes pain and dysfunction.",0,0,0,0,N,N,N,N,0,0,0
+14,It is a common injury in sports that involve explosive movements that load the extensor mechanism of the knee.1 High prevalence rates are reported in jumping sports such as volleyball and basketball (45% and 32% in elite athletes respectively).,0,0,0,0,N,N,N,N,0,0,0
+15,"Many different modalities are used for the treatment of patellar tendinopathy, however treatments like injections, shockwave and surgery require athletes to cease sporting activities.",1,0,0,0,N,N,N,N,0,0,0
+16,Exercise may be the best treatment for tendinopathies as histopathological changes and clinical improvements in pain and function have been demonstrated.,0,0,0,0,N,N,N,N,0,0,0
+17,Most studies have been conducted using eccentric exercise protocols and early studies showed positive results.,0,0,0,0,N,N,N,N,0,0,0
+18,"However, eccentric exercises may not be effective when used in-season and might even make symptoms worse in athletes with patellar tendon pathology.",0,0,0,0,N,N,N,N,0,0,0
+19,"Moreover, when eccentric exercise was used prophylactically in-season in asymptomatic soccer players with pathology on imaging, there was a higher risk of developing a jumper's knee.",0,0,0,0,N,N,N,N,0,0,0
+20,Many athletes play with jumper's knee symptoms and pain negatively affects capacity to train and perform in matches.,0,0,0,0,N,N,N,N,0,0,0
+21,They cope with their injury because pain often decreases after warm-up but returns and is worse the day after activity.,0,0,0,0,N,N,N,N,0,0,0
+22,Isometric and isotonic exercises have the potential to decrease pain while continuing sport activities.Isotonic muscle contractions (heavy slow resistance training 3–5 times per week) resulted in a significant reduction in pain after a 12-week program.Isometric exercises have been found to decrease tendon pain in athletes with patellar tendinopathy in the short-term (45 min).,0,0,0,0,N,N,N,N,0,0,0
+23,It is unknown if isometric exercises can decrease tendon pain over a longer period of time and if repeated isometric exercises are beneficial.,0,0,0,0,N,N,N,N,0,0,0
+24,The aim of this study was to examine whether isometric and isotonic exercises relieve pain in competing athletes with patellar tendinopathy.,0,0,0,0,N,N,N,N,0,0,0
+25,It was hypothesised that both isometric and isotonic exercises would decrease pain in athletes with patellar tendinopathy in-season and that isometric exercises would decrease patellar tendon pain more than isotonic exercises.,0,0,0,0,N,N,N,N,0,0,0
+26,This study was a randomised trial of two interventions—participants were randomly assigned to one of two exercise intervention groups.,0,0,0,0,N,N,N,N,0,0,0
+27,"The study was approved by the Monash University Human Research Ethics Committee (MUHREC), Australia (CF12/0230–2012000067).",0,0,0,0,N,N,N,N,0,0,0
+28,All participants provided written informed consent.,0,0,0,0,N,N,N,N,0,0,0
+29,This trial was registered in the Australian New Zealand Clinical Trial Registry (ACTRN12613000871741).,0,0,0,0,N,N,N,N,0,0,0
+30,"Participants were volleyball and basketball players (16–32 years) playing or training at least three times per week, presenting with patellar tendinopathy diagnosed by an experienced physiotherapist.",1,0,0,0,N,N,N,N,0,0,0
+31,Inclusion criteria consisted of focal tendon pain at the inferior or superior pole of the patella and a history of exercise associated knee pain at the same spot.,1,0,0,0,N,N,N,N,0,0,0
+32,"Exclusion criteria were existence of other knee pathology, previous patellar tendon rupture, previous patellar tendon surgery, inflammatory disorders, metabolic bone diseases, type II diabetes, use of fluroquinolones or corticosteroids in the last 12 months, known familial hypercholesterolemia and chronic pain conditions.",1,0,0,0,N,N,N,N,0,0,0
+33,Players from Victorian volleyball leagues and basketball leagues who played or trained at least three times per week were approached at their game or training venue.,1,0,0,0,N,N,N,N,0,0,0
+34,"After baseline measurements were performed, participants were given an exercise program.",0,0,0,0,N,N,N,N,0,0,0
+35,Participants were randomised to an exercise program by the draw of a sealed opaque envelope from 40 identical envelopes that were randomised using a randomisation table created by computer software (20 in each group).,0,1,1,0,N,N,N,N,0,0,0
+36,The program was demonstrated (including repetition maximum testing) at the gym where they were going to perform their exercises.,0,0,0,0,N,N,N,N,0,0,0
+37,"Every week participants were followed-up in person or by phone, asking participants if they encountered any problems with the exercise program.",0,0,0,0,N,N,N,N,0,0,0
+38,After the 4-week exercise program baseline measurements were repeated.,0,0,1,0,N,N,N,N,0,0,0
+39,Both groups performed a 4-week exercise program with exercises performed four times per week.,0,0,0,0,N,N,N,N,0,0,0
+40,The isometric and isotonic exercise program were matched for time under tension and rest.,0,0,0,0,N,N,N,N,0,0,0
+41,Pilot testing was used to ensure that the protocols were matched for rate of perceived exertion.,0,0,0,0,N,N,N,N,0,0,0
+42,The isometric exercise consisted of 5 × 45 s single leg isometric contractions of each leg on a leg extension machine.,0,0,0,0,N,N,N,N,0,0,0
+43,Isometric contractions were performed at 80% of maximal voluntary contraction with a knee joint angle of 60°.,0,0,0,0,N,N,N,N,0,0,0
+44,Isotonic exercise consisted of four sets of eight repetitions of single leg isotonic contractions of each leg on a leg extension machine.,0,0,0,0,N,N,N,N,0,0,0
+45,Isotonic contractions consisted of a 3-s concentric phase immediately followed by a 4-s eccentric phase and were performed on 80% of 8 repetitions maximum.,0,0,0,0,N,N,N,N,0,0,0
+46,"After performing the exercises for each leg, participants rested for 15 s before continuing with the first leg again.",0,0,0,0,N,N,N,N,0,0,0
+47,Weight was increased by 2.5% every week if possible.,0,0,0,0,N,N,N,N,0,0,0
+48,"If pain was experienced during an exercise or if participants were not able to complete their repetitions with proper execution (e.g., shaking during the contraction), they were instructed to lower the weight for the following repetitions and complete the entire session (equal time under tension).",0,0,0,0,N,N,N,N,0,0,0
+49,Audio files that counted the timing of the exercises were provided for use during their exercises to standardise the speed of repetition and rest and therefore time under tension for all participants.,0,0,0,0,N,N,N,N,0,0,0
+50,"The primary outcome measure was pain during a single leg decline squat (SLDS) scored on a numeric rating scale (NRS) (0–10), which is a provocative clinical test to monitor tendon pain.",0,0,0,0,N,N,N,N,0,0,0
+51,A 2-point difference on the NRS was considered to be a minimal clinical important difference (MCID).,0,0,0,0,N,N,N,N,0,0,0
+52,"The VISA-P, a questionnaire on pain and function of the knee, was also completed.",0,0,0,0,N,N,N,N,0,0,0
+53,"The score on the VISA-P ranges from 0 to 100, 100 being a completely asymptomatic and fully functioning athlete.",0,0,0,0,N,N,N,N,0,0,0
+54,The MCID of the VISA-P was considered to be 13 points.,0,0,0,0,N,N,N,N,0,0,0
+55,Participants were asked about their average tendon pain compared to the beginning of the exercise program on a global rating of change scale from very much worse (−4) to very much better (+4).,0,0,1,0,N,N,N,N,0,0,0
+56,"A diary was also provided to the participants, in which they reported completed exercise sessions.",0,0,0,0,N,N,N,N,0,0,0
+57,These data were used to calculate adherence to the exercise program.,0,0,0,1,N,N,N,N,0,0,0
+58,All outcome measures were administered at baseline and four weeks later at the end of the program.,0,0,0,1,N,N,N,N,0,0,0
+59,Only the worst knee was used in the analysis of the data in athletes with bilateral patellar tendinopathy.,0,0,0,0,N,N,N,N,0,0,0
+60,"NRS pain scores on the SLDS had a non-normal distribution, and non-parametric tests were used to test for differences.",0,0,0,0,N,N,N,N,0,0,0
+61,A Wilcoxon signed rank test was conducted to test for differences between baseline and follow-up measurements for NRS pain score during SLDS within each group.,0,0,0,0,N,N,N,N,0,0,0
+62,A Mann–Whitney U-test was used to test for differences between the isometric and isotonic intervention group.,0,0,0,0,N,N,N,N,0,0,0
+63,"As secondary analyses, the same tests were performed for the VISA-P score.",0,0,0,0,N,N,N,N,0,0,0
+64,Analyses were conducted using IBM SPSS Statistics 20 software and an alpha of 0.05 was considered significant.,0,0,0,0,N,N,N,N,0,0,0
+65,Participants were included in the trial between August 2013 and July 2014 (Fig.,0,1,1,0,N,N,N,N,0,0,0
+66,Thirteen participants were randomised to the isometric group and 16 to the isotonic group.,0,0,0,0,N,N,N,N,0,0,0
+67,Group characteristics did not differ at baseline (Table 1) and mean adherence to the exercise program was 81%.,0,0,0,1,N,N,N,N,0,0,0
+68,"Median pain scores improved significantly over the 4-week intervention period within the isometric group (Z = −2.527, p = 0.012, r = −0.63) and within the isotonic group (Z = −2.952, p = 0.003, r = −0.63) (Table 2).There was no significant difference in NRS pain score change (U = 29.0, p = 0.208, r = 0.29) between the isometric group (median (IQR), 2.5 (1–4.5)) and isotonic group (median (IQR), 3.0 (2–6)) (Table 2).",0,0,0,0,N,N,N,N,1,1,0
+69,"Median VISA-P scores also improved significantly over the 4-week intervention period within the isometric group (Z = −2.201, p = 0.028, r = −0.55) and within the isotonic group (Z = −2.952, p = 0.003, r = −0.66).",0,0,0,0,N,N,N,N,1,1,0
+70,The median change in VISA-P was 9 points (3–25).,0,0,0,0,N,N,N,N,0,0,0
+71,"There was no significant difference in VISA-P score change (U = 39.5, p = 0.965, r = −0.01) between the isometric group and isotonic group (Table 2).",0,0,0,0,N,N,N,N,1,1,0
+72,The median perceived global rating of change (−4 to +4) for tendon pain at follow-up compared to pre-intervention was +2.3 (2.0–3.0).,0,0,0,0,N,N,N,N,0,0,0
+73,Flow chart of participants included in the trial.,0,0,0,0,N,N,N,N,0,0,0
+74,Characteristics of the population.,0,0,0,0,N,N,N,N,0,0,1
+75,Main outcome measures at baseline and follow-up for the intervention groups and total population.,0,0,0,0,N,N,N,N,0,0,1
+76,This study showed a clinically important decrease in pain in athletes with patellar tendinopathy during a season with both isometric and isotonic exercises.,0,0,0,0,N,N,N,N,0,0,0
+77,"The VISA-P also showed a significant improvement over time (close to MCID), which indicates that not only pain but also function of the knee improved in this population.",0,0,0,0,N,N,N,N,0,0,0
+78,No significant difference between the isometric and isotonic exercise group was found.,0,0,0,1,N,N,N,N,0,0,0
+79,"In the field of tendinopathy, where exercise is the primary and most effective treatment available,relatively few studies have been conducted on exercise programs for patellar tendinopathy.",0,0,0,0,N,N,N,N,0,0,0
+80,Improvements in pain have been reported when resistance exercise/training is used as rehabilitation.,0,0,0,0,N,N,N,N,0,0,0
+81,showed a similar improvement in pain after 12 weeks of heavy slow resistance training as our study.,0,0,0,0,N,N,N,N,0,0,1
+82,"After six weeks of the heavy slow isotonic exercise rehabilitation program, Cannell et al.",0,0,0,0,N,N,N,N,0,0,1
+83,also found a decrease in pain.,0,0,0,0,N,N,N,N,0,0,1
+84,"Other studies have focussed on eccentric exercises as rehabilitation, and these exercise protocols also relieved pain in non-competing athletes.Eccentric exercise in-season may have no effect or even worsens patellar tendinopathy symptoms.The findings of our study using isotonic and isometric exercise are in contrast with eccentric exercises in-season.",0,0,0,0,N,N,N,N,0,0,0
+85,"An important difference between the exercise programs in our study compared to previous studies investigating eccentric exercises on a decline board,is that eccentric exercises on a decline board were designed to provoke pain in the tendon.Since participants in this study were still participating in basketball or volleyball matches and training sessions (exposing their tendons to a high tendon load), provocative loads for the patellar tendon should be avoided.",0,0,0,0,N,N,N,N,0,0,0
+86,"An essential part of the exercises performed in our study is that the exercises are a high load for the muscle, however not in a way that that is provocative to the tendon and may increase pain.",0,0,0,0,N,N,N,N,0,0,0
+87,"The dosage (e.g., number of repetitions, days per week and duration of a contraction) and type of exercise are important characteristics of an exercise program.",0,0,0,0,N,N,N,N,0,0,0
+88,A high percentage of repetition maximum (RM) has been used in our study for the isometric (80% 1RM) as well as the isotonic exercises (80% 8RM).,0,0,0,0,N,N,N,N,0,0,0
+89,Beneficial effects from rehabilitation for tendons require high load per repetition.,0,0,0,0,N,N,N,N,0,0,0
+90,"Furthermore, a high percentage of RM in leg extension exercises has been shown to improve muscle strength and neural activation.",0,0,0,0,N,N,N,N,0,0,0
+91,The leg extension machine was used to isolate the load through the quadriceps muscle and patellar tendon as much as possible.,0,0,0,0,N,N,N,N,0,0,0
+92,"Despite the positive effect of exercise for tendinopathy, both in research labs and in the clinic, the precise mechanism of effect, optimal dosage and loading strategy has not yet been determined and further research is required.",0,0,0,0,N,N,N,N,0,0,0
+93,Previous studies investigating short-term effects of isometric and isotonic exercises on (tendon) pain have found a decrease in pain post exercise.,0,0,0,0,N,N,N,N,0,0,0
+94,"Isometric exercises resulted in a significant decrease in tendon pain and cortical inhibition (present at elevated levels in patellar tendinopathy); pain relief lasted for at least 45 min after isometric exercises, while a much smaller decrease in pain and no change in cortical inhibition was found after isotonic exercises.",0,0,0,0,N,N,N,N,0,0,0
+95,"In contrast to these studies on the acute effects of isometric and isotonic exercise, our study found no difference between isotonic and isometric exercise after four weeks.",0,0,0,0,N,N,N,N,0,0,0
+96,"Previous studies suggest it may be that isometric exercises have a greater effect in reducing acute pain, while isotonic exercise may cause a more gradual decrease in pain.",0,0,0,0,N,N,N,N,0,0,0
+97,How exercises affect pain is still unclear.,0,0,0,0,N,N,N,N,0,0,0
+98,An ongoing debate about pain in (patellar) tendinopathy exists; it is still unclear if pain is physiological or pathophysiological or a combination in patellar tendinopathy.,0,0,0,0,N,N,N,N,0,0,0
+99,"Our study has an important contribution to the conservative management of patellar tendinopathy, in particular for in-season athletes with patellar tendinopathy.",0,0,0,0,N,N,N,N,0,0,0
+100,It also confirms the recent shift in the literature away from isolated eccentrics for the rehabilitation of patellar tendinopathy.,0,0,0,0,N,N,N,N,0,0,0
+101,"The shift away from isolated eccentric exercises does not seem to be exclusive for patellar tendinopathy, a similar shift in the literature seems to take place in other tendinopathies as well.",0,0,0,0,N,N,N,N,0,0,0
+102,More high quality research in this field is needed to find the best treatment strategy for every phase of tendinopathy.,0,0,0,0,N,N,N,N,0,0,0
+103,The current study had relatively small numbers in the intervention groups.,0,0,0,0,N,N,N,N,0,0,0
+104,"Despite small group sizes, we found significant improvements in pain scores in both groups.",0,0,0,0,N,N,N,N,0,0,0
+105,"There were no data on which to base an a priori sample size calculation, as this was the first study to compare these exercise programs.",0,0,0,0,N,N,N,N,0,0,0
+106,The group sizes in this study are similar to other studies investigating exercise programs for patellar tendinopathy.,0,0,0,0,N,N,N,N,0,0,0
+107,The 4-week follow-up was relatively short as the study was designed to investigate if an (initial) decrease in patellar tendon pain could be achieved in competing athletes.,0,0,0,0,N,N,N,N,0,0,0
+108,Another limitation was that sessions were not supervised and no random checks for compliance in the gym were performed.,0,0,0,0,N,N,N,N,0,0,0
+109,"This was a real-life study, supervision of all patients was therefore not feasible and it reflects what is done in clinical practice.",0,0,0,0,N,N,N,N,0,0,0
+110,The chance to successfully implement the exercise programs in practice with a high adherence of the patient might also be greater than in studies with a more controlled environment.,0,0,0,0,N,N,N,N,0,0,0
+111,"This study was, to our knowledge, the first to find positive results for athletes with patellar tendinopathy without modification of the training and competition load and it was the first study to investigate isometric exercises in a clinical setting.",0,0,0,0,N,N,N,N,0,0,0
+112,Both isometric and isotonic exercise programs can reduce pain and improve function in athletes with patellar tendinopathy in-season.,0,0,1,0,N,N,N,N,0,0,0
+113,This study shows that isometric and isotonic exercises can decrease pain in athletes with patellar tendinopathy in-season.,0,0,0,0,N,N,N,N,0,0,0
+114,The exercises are easy to perform and also have the advantage over conventional eccentric training that they are less time-consuming for the athlete.,0,0,0,0,N,N,N,N,0,0,0
+115,The programs should be applied in a situation in which an athlete has pain in-season or in the first weeks after a patient comes to a sports medicine/physiotherapy clinic with patellar tendinopathy symptoms.,0,0,0,0,N,N,N,N,0,0,0
+116,Pain decrease in the relatively short term possibly increases the adherence of patients with a program and reduces the chance of transition to invasive and more expensive treatments.,0,0,0,0,N,N,N,N,0,0,0

@@ -1,0 +1,235 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Cataract decreases blue light transmission.,0,0,0,0,0,N,0,0,0,0,0
+1,"Because of the selective blue light sensitivity of the retinal ganglion cells governing circadian photoentrainment, cataract may interfere with normal sleep–wake regulation and cause sleep disturbances.",0,0,0,0,0,N,0,0,0,0,0
+2,The purpose was to investigate the effect of cataract surgery on circadian photoentrainment and to determine any difference between blue-blocking and neutral intraocular lenses (IOLs).,0,0,0,0,0,N,0,0,0,0,0
+3,"The study was a single-center, investigator-driven, double-masked, block-randomized clinical trial.",0,0,0,0,0,N,1,0,0,0,0
+4,One eye in 76 patients with bilateral age-related cataract eligible for cataract surgery was included.,0,0,0,0,0,N,0,0,0,0,0
+5,Intervention was cataract surgery by phacoemulsification.,1,0,1,1,1,N,0,0,1,0,0
+6,Patients were randomized to receive a blue-blocking or neutral IOL.,1,1,1,1,1,N,0,0,1,0,0
+7,Primary outcome was activation of intrinsic photosensitive ganglion cells using post-illumination pupil response (PIPR) to blue light from 10 to 30 seconds after light exposure as a surrogate measure.,0,0,0,0,0,N,0,0,0,0,0
+8,Secondary outcomes were circadian rhythm analysis using actigraphy and 24-hour salivary melatonin measurements.,0,0,0,0,0,N,0,0,0,0,0
+9,"Finally, objective and subjective sleep quality were determined by actigraphy and the Pittsburgh Sleep Quality Index.",0,0,0,0,0,N,0,0,0,0,0
+10,The blue light PIPR increased 2 days (17%) and 3 weeks (24%) after surgery (P < 0.001).,1,0,1,1,1,N,0,1,1,1,1
+11,The majority of circadian and sleep-specific actigraphy parameters did not change after surgery.,1,0,1,1,1,N,0,1,1,1,1
+12,A forward shift of the circadian rhythm by 22 minutes (P = 0.004) for actigraphy and a tendency toward an earlier melatonin onset (P = 0.095) were found.,1,0,1,1,1,N,0,1,1,1,1
+13,Peak salivary melatonin concentration increased after surgery (P = 0.037).,0,0,0,0,0,N,0,1,0,1,1
+14,"No difference was detected between blue-blocking and neutral IOLs, whereas low preoperative blue light transmission was inversely associated with an increase in PIPR (P = 0.021) and sleep efficiency (P = 0.048).",0,0,0,0,0,N,0,1,0,1,1
+15,Cataract surgery increases photoreception by the photosensitive retinal ganglion cells.,0,0,0,0,0,N,0,0,0,0,0
+16,"Because of inconsistency between the significant findings and the many parameters that were unchanged, we can conclude that cataract surgery does not adversely affect the circadian rhythm or sleep.",0,0,0,0,0,N,0,0,0,0,0
+17,Longer follow-up time and fellow eye surgery may reveal the significance of the subtle changes observed.,0,0,0,0,0,N,0,0,0,0,0
+18,"We found no difference between blue-blocking and neutral IOLs, and, because of the minor effect of surgery in itself, an effect of IOL type seems highly unlikely.",0,0,0,0,0,N,0,0,0,0,0
+19,ANOVAanalysis of varianceAREDSAge-Related Eye Disease StudyCIconfidence intervalIOLintraocular lensISinterday stabilityIVintraday variabilityL5least active 5-hour intervallogMARlogarithm of the minimum angle of resolutionM10most active 10-hour intervalPIPRpost-illumination pupil responsePSQIPittsburgh Sleep Quality IndexSCNsuprachiasmatic nucleus,0,0,0,0,0,N,0,0,0,0,0
+20,Sleep is essential for maintaining health.,0,0,0,0,0,N,0,0,0,0,0
+21,"Conversely, sleep disruption and disorders are associated with comorbidities, use of medication, and personal burden,and the consequent daytime sleepiness increases the risk of falling and traffic accidents.Sleep regulation is maintained by a homeostatic process maintaining sleep wakefulness equilibrium and by the circadian rhythm, generated in the suprachiasmatic nucleus (SCN).",0,0,0,0,0,N,0,0,0,0,0
+22,"The circadian rhythm relies on daily external cues to entrain to the solar 24-hour day, the principal cue being daylight.",0,0,0,0,0,N,0,0,0,0,0
+23,Photoentrainment of the circadian rhythm is in the mammalian retina governed by intrinsically photosensitive ganglion cells via axonal projections to the SCN.,0,0,0,0,0,N,0,0,0,0,0
+24,"These cells express melanopsin that absorbs blue light with a peak absorption of approximately 460 to 480 nm; therefore, blue light is important to circadian entrainment.",0,0,0,0,0,N,0,0,0,0,0
+25,"In addition, the photosensitive ganglion cells form the afferent part of the pupil light response.",0,0,0,0,0,N,0,0,0,0,0
+26,"Because of the characteristics of the intrinsic response and the absorption spectrum of melanopsin, the intrinsic (melanopsin) contribution to the pupil response can be estimated as the post-illumination pupil response (PIPR) to blue light.",0,0,0,0,0,N,0,0,0,0,0
+27,"Cataract is an opacification of the lens of the eye characterized by light scattering and absorption, predominantly of blue light.",0,0,0,0,0,N,0,0,0,0,0
+28,"Thus, cataract may be associated with a decreased potential for circadian photoentrainment.",0,0,0,0,0,N,0,0,0,0,0
+29,"This assumption is supported by previous nonrandomized, questionnaire-based studies that found a beneficial effect of cataract surgery on sleep quality.",0,0,0,0,0,N,0,0,0,0,0
+30,"During the past decade, blue light–blocking intraocular lenses (IOLs) mimicking the natural coloring of the human crystalline lens have been introduced.",0,0,0,0,0,N,0,0,0,0,0
+31,"It is believed that this may protect the retina from phototoxic blue light, possibly contributing to the development of age-related macular degeneration.Although the visual function is comparable to neutral IOLs, the increased absorption of blue light, vital to circadian photoentrainment, has led to concern that the blue-blocking IOLs may interfere with the circadian rhythm.",0,0,0,0,0,N,0,0,0,0,0
+32,The aim of this study was to evaluate the effect of cataract surgery on circadian photoentrainment and sleep.,0,0,0,0,0,N,0,0,0,0,0
+33,"Second, the effect of the blue light transmission characteristics of the implanted IOL was tested in a randomized study.",0,0,0,0,0,N,0,0,0,0,0
+34,Objective measures for intrinsic photosensitive retinal ganglion cell activation were estimated using pupillometry.,0,0,0,0,0,N,0,0,0,0,0
+35,Effects on the circadian rhythm were evaluated by actigraphy and salivary melatonin concentration measurements.,0,0,0,0,0,N,0,0,0,0,0
+36,Sleep quality was determined using sleep quality–specific actigraphy parameters and by validated questionnaires.,0,0,0,0,0,N,0,0,0,0,0
+37,"The study was a double-masked, block-randomized clinical trial designed to investigate the effect of cataract and the effect of blue-blocking versus neutral IOLs on circadian photoentrainment.",0,0,0,0,0,N,1,0,0,0,0
+38,"Participants were recruited from among patients who were referred for cataract surgery to the Department of Ophthalmology, Rigshospitalet–Glostrup, Denmark.",0,0,0,0,0,N,0,0,0,0,0
+39,Inclusion criteria were all patients who were referred for bilateral senile cataract eligible for cataract surgery and informed written consent.,0,0,0,0,0,N,0,0,0,0,0
+40,"Only the first eye was included in the study, that is, the eye with the lowest visual acuity according to the department's guidelines.",0,0,0,0,0,N,0,0,0,0,0
+41,"Exclusion criteria were any ophthalmological disease with an expected effect on the retina, optic disc, or cornea, including advanced age-related macular degeneration, glaucoma, diabetic retinopathy, corneal dystrophy, ocular trauma, and recurrent uveitis.",0,0,0,0,0,N,0,0,0,0,0
+42,"Furthermore, patients with severe systemic disease, including diabetes, cancer of any kind, and known sleep disturbances, were excluded.",0,0,0,0,0,N,0,0,0,0,0
+43,"Preoperative and postoperative complications with an impact on visual acuity, including ruptured capsule, nucleus drop, and postoperative corneal edema, led to exclusion.",0,0,0,0,0,N,0,0,0,0,0
+44,"Informed written consent was obtained, and the study was approved by the Committee on Health Research Ethics, the Capital Region of Denmark (H-4-2011-121), registered at clinicaltrials.gov (NCT01686308), and was conducted in accordance with the Declaration of Helsinki.",0,0,0,0,0,N,0,0,0,0,0
+45,"Randomization was performed on the day of the surgery using automated, computerized block-randomization lists with a 1:1 allocation ratio and a block size of 9.",0,0,0,0,0,N,1,0,0,0,0
+46,The participants were masked to IOL type.,0,0,0,0,0,N,1,0,0,0,0
+47,"Because of the different colors of the blue-blocking and neutral IOLs, it was not possible to keep the investigator masked to IOL type.",0,0,0,0,0,N,1,0,0,0,0
+48,"Instead, statistical analyses were performed after a complete re-masking of the data post hoc.",0,0,0,0,0,N,0,0,0,0,0
+49,Masking was not broken before all statistical analyses had been performed.,0,0,0,0,0,N,0,0,0,0,0
+50,Intervention was standard minimal incision phacoemulsification with topical anesthesia without retrobulbar anesthesia.,0,0,0,0,0,N,0,0,0,0,0
+51,"A posterior chamber IOL was placed “in the bag.” The implanted IOL was a neutral ultraviolet-only blocking IOL (AMO ZCB00; Abbott Medical Optics, Santa Ana, CA) transmitting approximately 95% at 480 nm or a blue-blocking IOL (Acrysof SN60WF; Alcon, Fort Worth, TX) transmitting approximately 80% at 480 nm.",0,0,0,0,0,N,0,0,0,0,0
+52,"The chosen yellow IOL is popular worldwide, and although more absorbent IOLs exist, it has a transmission spectrum representative of the most common blue-blocking IOLs.",0,0,0,0,0,N,0,0,0,0,0
+53,The fellow eye was operated after the visit at 3 weeks postoperatively.,0,0,0,0,0,N,0,0,0,0,0
+54,All surgeries were performed around spring and fall equinoxes by 2 highly experienced surgeons (B.H.,0,0,0,0,0,N,0,0,0,0,0
+55,"Snellen best-corrected distance visual acuity with subsequent logarithm of the minimum angle of resolution (logMAR) conversion and refraction followed by slit-lamp biomicroscopy, fundoscopy, and Goldmann applanation tonometry were performed at all visits.",0,0,0,0,0,N,0,0,0,0,0
+56,"The retina was scanned with spectral domain optical coherence tomography (Heidelberg SD-OCT; Heidelberg Engineering, Heidelberg, Germany), and infrared fundus photographs were taken at baseline and after 3 weeks.",0,0,0,0,0,N,0,0,0,0,0
+57,All subjects were examined by the same physician (A.E.B.,0,0,0,0,0,N,0,0,0,0,0
+58,"Circadian type was determined before surgery using the Danish version of the Morningness-Eveningness Questionnaire, and the sum score was evaluated.",0,0,0,0,0,N,0,0,0,0,0
+59,"Higher values represent morning circadian type, and lower values represent evening type.",0,0,0,0,0,N,0,0,0,0,0
+60,Blue Light Transmission and Cataract Grading,0,0,0,0,0,N,0,0,0,0,0
+61,The degree and type of cataract were determined before surgery using the Age-Related Eye Disease Study (AREDS) 2008 clinical lens grading protocol.,0,0,0,0,0,N,0,0,0,0,0
+62,Blue light lens transmission was measured objectively with a lens autofluorescence–based method estimating the lens transmission at 480 nm.,0,0,0,0,0,N,0,0,0,0,0
+63,Intrinsic Photosensitive Retinal Ganglion Cell Activation by Blue Light,0,0,0,0,0,N,0,0,0,0,0
+64,Photosensitive retinal ganglion cell activation by blue light was estimated using the PIPR as a surrogate measure.,0,0,0,0,0,N,0,0,0,0,0
+65,Pupil responses to red light were recorded as a control of classic photoreceptor-driven pupil response.Participants were examined with pupillometry 1 to 4 weeks before surgery and 2 days and 3 weeks after surgery.,0,0,0,0,0,N,0,0,0,0,0
+66,"Consensual pupil responses to monochromatic light stimuli were recorded using a chromatic pupillometer, as previously described.",0,0,0,0,0,N,0,0,0,0,0
+67,"The light source was placed in front of the study eye (surgery eye) approximately 1 cm from the eye, and the camera was placed in front of the fellow eye.",0,0,0,0,0,N,0,0,0,0,0
+68,An adaptive sleeve was used to prevent light scattering from the light source to the fellow eye.,0,0,0,0,0,N,0,0,0,0,0
+69,"By stimulating the surgery eye and recording the pupil response from the fellow unoperated eye, we ensured that surgical trauma to the iris sphincter or dilator would not affect the measurements.",0,0,0,0,0,N,0,0,0,0,0
+70,The examination consisted of 2 separate measurements of the pupil responses to 20-second light stimulations.,0,0,0,0,0,N,0,0,0,0,0
+71,"First, a pupil response to bright red light (660 nm, 300 cd/m2) was recorded, followed by a recording of the pupil response to bright blue light (470 nm, 300 cd/m2).",0,0,0,0,0,N,0,0,0,0,0
+72,"Sampling rate was 20 Hz, and the pupil size was measured continuously for 10 seconds before light stimulation (establishing baseline pupil diameter), during light stimulation, and 60 seconds after light off (90 seconds total).",0,0,0,0,0,N,0,0,0,0,0
+73,"The pupil size was normalized by dividing the actual measured pupil diameter with the baseline pupil diameter (averaged during the initial 10 seconds before light stimulation), thus yielding a normalized baseline pupil size of 1.",0,0,0,0,0,N,0,0,0,0,0
+74,"Pupil contraction was calculated as 1 minus pupil size; for example, a pupil size of 0.6 corresponded to a pupil contraction of 1−0.6 = 0.4.",0,0,0,0,0,N,0,0,0,0,0
+75,"The mean PIPR, being the primary parameter for intrinsic activation of the photosensitive retinal ganglion cells, was calculated as the average pupil contraction from 10 to 30 seconds after the blue light stimulation ended.",0,0,0,0,0,N,0,0,0,0,0
+76,"The maximal pupil contraction amplitude during the initial 6 seconds of light stimulation (a measure of cone activation) and the early PIPR from 0 to 10 seconds after light off (a measure of mixed cone and intrinsic ganglion cell activation) were calculated26, 30 (Fig 1).",0,0,0,0,0,N,0,0,0,0,0
+77,"The consensual pupil response (i.e., the study/surgery eye was illuminated, and the pupil response was recorded in the fellow eye) to blue light (470 nm, 300 cd/m2) from a single participant before surgery.",0,0,0,0,0,N,0,0,0,0,0
+78,The pupil size was normalized and expressed as the ratio relative to the baseline pupil diameter measured 10 seconds before light stimulation (−10 to 0 seconds).,0,0,0,0,0,N,0,0,0,0,0
+79,The maximal pupil constriction amplitude (CAmax) was the maximal pupil constriction during the initial 6 seconds of light stimulation.,0,0,0,0,0,N,0,0,0,0,0
+80,"The early post-illumination pupil response (PIPR) from 0 to 10 seconds after light off (PIPR0–10) was calculated as the mean constriction during the first 10 seconds after the stimulus ended, and the late PIPR from 10 to 30 seconds after light off (PIPR10–30) was calculated as the mean pupil constriction during 10 to 30 seconds after the stimulus ended.",0,0,0,0,0,N,0,0,0,0,0
+81,The latter was chosen as the primary parameter for the reason that the PIPR to blue light largely is produced by intrinsic activation of photosensitive retinal ganglion cells.,0,0,0,0,0,N,0,0,0,0,0
+82,"During the initial post-stimulation seconds (PIPR0–10), rod/cone adaptation also affects the pupil response.",0,0,0,0,0,N,0,0,0,0,0
+83,CAmax is mainly associated with cone and activation.,0,0,0,0,0,N,0,0,0,0,0
+84,Rod contribution largely can be disregarded because no dark adaptation was used.,0,0,0,0,0,N,0,0,0,0,0
+85,"All examinations were performed during “office hours” (8 am to 4 pm) to prevent circadian variation, and there was a minimum of 5 minutes between each examination to prevent an additive effect of the previous examination.",0,0,0,0,0,N,0,0,0,0,0
+86,"Pupils were dilated on the study eye to a diameter of at least 5 mm using 1 drop of tropicamide 1% or 10 mg/ml and phenylephrine or 100 mg/ml, whereas the maximal pupil size in the fellow eye was achieved by dark adaption for 1 minute.",0,0,0,0,0,N,0,0,0,0,0
+87,"Activity and ambient light levels were measured by wrist-worn actigraphy (Actiwatch Spectrum; Respironics, Philips Healthcare, Utrecht, The Netherlands) for 7 consecutive days beginning 1 to 4 weeks before surgery and again 3 weeks postoperatively (days 21–28).",0,0,0,0,0,N,0,0,0,0,0
+88,"Activity, light intensity, and spectral (red, green, blue) composition were logged using 30-second epochs.",0,0,0,0,0,N,0,0,0,0,0
+89,"Bed time and wake-up time were marked using the “event marker button,” and measurements were supplemented by a diary, in which wake-up time, bed time, number of awakenings, total sleep time, and intake of sleep-inducing substances were noted.",0,0,0,0,0,N,0,0,0,0,0
+90,Data were downloaded from the actigraphs to the software program Philips Actiware 6.0 (Philips Healthcare).,0,0,0,0,0,N,0,0,0,0,0
+91,"For circadian rhythm analysis of the activity pattern, data were exported and processed in the statistical software package R, version 3.1.0 (downloadable at: http://cran.r-project.org/) and analyzed using a nonparametric approach.",0,0,0,0,0,N,0,0,0,0,0
+92,"The quality of the rhythm was evaluated by calculating the interday stability (IS) (i.e., a ratio of the variability of the average 24-hour pattern and the overall variance) and the intraday variability (IV) (i.e., a ratio of the hour-to-hour variability), and the overall variance was calculated.",0,0,0,0,0,N,0,0,0,0,0
+93,"For a perfect sine wave, the IS reaches 1, whereas Gaussian noise produces a value of zero.",0,0,0,0,0,N,0,0,0,0,0
+94,The IV yields values between 0.5 and 2 and increases with increasing inter-hourly defragmentation of the rhythm.,0,0,0,0,0,N,0,0,0,0,0
+95,The timing of the rhythm was evaluated by identifying onset of the least active 5-hour interval (L5) and most active 10-hour interval (M10) in the average 24-hour cycle.,0,0,0,0,0,N,0,0,0,0,0
+96,"Last, the overall average activity level and the relative amplitude, that is, the ratio between the activity amplitude and the sum of the average activity during L5 and M10, were calculated.",0,0,0,0,0,N,0,0,0,0,0
+97,Sleep-specific parameters were obtained by processing data in the software program Philips Actiware 6.0 (Philips Healthcare).,0,0,0,0,0,N,0,0,0,0,0
+98,"Automatic rest interval detection algorithm was used, and the wake threshold was set to “medium.” Intervals were inspected for algorithm errors and manually corrected on the basis of congruence among activity measurement, event marker, light information, and diary information in prioritized order.",0,0,0,0,0,N,0,0,0,0,0
+99,Sleep efficiency was automatically calculated as percentage of sleep during the major rest interval (night).,0,0,0,0,0,N,0,0,0,0,0
+100,"Other automatically calculated sleep parameters included sleep onset latency, total sleep time, and wake after sleep onset.",0,0,0,0,0,N,0,0,0,0,0
+101,"In addition, average blue light exposure was calculated.",0,0,0,0,0,N,0,0,0,0,0
+102,Salivary Melatonin Concentration Measurements,0,0,0,0,0,N,0,0,0,0,0
+103,The master circadian rhythm generated in the SCN was characterized by 24-hour salivary melatonin concentration profiles.,0,0,0,0,0,N,0,0,0,0,0
+104,Salivary samples were obtained 1 to 4 weeks before surgery and 3 weeks after surgery (during the first night of actigraphy measurement).,0,0,0,0,0,N,0,0,0,0,0
+105,Participants were instructed to collect 7 salivary samples at 4-hour intervals in their own homes beginning at 12:00 noon.,0,0,0,0,0,N,0,0,0,0,0
+106,"No light-controlling regimen was used, but the patients were instructed not to engage in activities that deviated significantly from their average everyday activities while collecting the salivary samples.",0,0,0,0,0,N,0,0,0,0,0
+107,"Furthermore, participants were instructed to dim the lights in the evening and keep the lights off during the night.",0,0,0,0,0,N,0,0,0,0,0
+108,"Before collection, the mouth was rinsed and participants refrained from food or alcohol consumption and smoking for 30 minutes before collection.",0,0,0,0,0,N,0,0,0,0,0
+109,"Melatonin concentrations were determined with a direct saliva melatonin radioimmunoassay (Bühlmann Laboratories, Schönenbuch, Switzerland).",0,0,0,0,0,N,0,0,0,0,0
+110,"The intra-assay precision was indicated as a mean coefficient of variability of 5.2%, and the inter-assay precision was indicated as a mean coefficient of variability of 10.2%.",0,0,0,0,0,N,0,0,0,0,0
+111,Peak melatonin concentration at night was defined as the maximal nightly value (from 8 pm to 8 am).,0,0,0,0,0,N,0,0,0,0,0
+112,Melatonin onset was defined as the time that salivary concentrations before the nightly peak exceeded the threshold as determined by the linear interpolation between the 2 data points flanking the threshold value set to 4 pg/ml and reported as decimal hours after the start time of collection (12:00 noon).,0,0,0,0,0,N,0,0,0,0,0
+113,"In cases in which all measurements were <4 pg/ml, a threshold of 30% of peak melatonin concentration was used.",0,0,0,0,0,N,0,0,0,0,0
+114,"The Danish version of the Pittsburgh Sleep Quality Index (PSQI), yielding a global score for subjective sleep quality, was completed 1 to 4 weeks before surgery and 3 weeks after, the latter based on the postoperative period only.",0,0,0,0,0,N,0,0,0,0,0
+115,"A value of zero indicates perfect sleep quality, and poorer sleep quality yields increasing values.",0,0,0,0,0,N,0,0,0,0,0
+116,Poor sleepers were identified with a global score ≥5.,0,0,0,0,0,N,0,0,0,0,0
+117,The main outcome was PIPR to blue light.,0,0,0,0,0,N,0,0,0,0,0
+118,"Secondary outcomes were circadian parameters for actigraphy, salivary melatonin concentrations, sleep efficiency (actigraphy determined), and subjective sleep quality (determined by PSQI).",0,0,0,0,0,N,0,0,0,0,0
+119,A mixed-model approach was used to compare the outcomes before and after surgery and the difference between the 2 treatment arms.,0,0,0,0,0,N,0,0,0,0,0
+120,"In addition to the effect of treatment allocation, the effect of preoperative lens transmission was tested in separate models.",0,0,0,0,0,N,0,0,0,0,0
+121,"Analysis of variance (ANOVA) was used to compare preoperative blue light transmission, and AREDS nuclear opacity and proportions were tested using the chi-square test.",0,0,0,0,0,N,0,0,0,0,0
+122,Data were analyzed using parametric tests because normal distribution reasonably can be assumed for the differences produced by the repeated-measures design.,0,0,0,0,0,N,0,0,0,0,0
+123,"In cases of obvious nonparametric distribution and data riddled by zero values, appropriate corrections and nonparametric tests were applied.",0,0,0,0,0,N,0,0,0,0,0
+124,"Analyses were performed with the statistical software package R, version 3.1.0 (downloadable at: http://cran.r-project.org/).",0,0,0,0,0,N,0,0,0,0,0
+125,A significance level of 0.05 was chosen.,0,0,0,0,0,N,0,0,0,0,0
+126,Sample size was determined on the basis of a nonpublished pilot study and on age-matched data for PIPR derived from the research department's normative data.,0,0,0,0,0,N,0,0,0,0,0
+127,"With an expected change after surgery of 30% and a standard deviation of 30%, 10 participants should be included in the trial evaluating the effect of cataract surgery (paired t test power test, significance level = 0.05, power = 0.8).",0,0,0,0,0,N,0,0,0,0,0
+128,"To examine the effect of blue-blocking versus neutral IOL, the group size was set to 30, producing a minimum of 60 participants (Student t test power test, significance level = 0.05, power = 0.8, delta = 0.22).",0,0,0,0,0,N,0,0,0,0,0
+129,"Data are presented as mean ± standard deviations in Table 1, Table 2, Table 3, Table 4, Table 5 and as mean and 95% confidence intervals in the text unless otherwise stated.",0,0,0,0,0,N,0,0,0,0,0
+130,"Statistical modeling was consulted with Section of Biostatistics, Department of Public Health, University of Copenhagen.",0,0,0,0,0,N,0,0,0,0,0
+131,Data are presented as means ± standard deviations (SDs) if not otherwise stated.,0,0,0,0,0,N,0,0,0,0,0
+132,No significant differences were found.,0,0,0,0,0,N,0,0,0,0,0
+133,Transmission is the in vivo estimated blue light transmission through the lens at 480 nm.25 AREDS represents nuclear opacity evaluated by the AREDS 2008 clinical lens grading protocol.,0,0,0,0,0,N,0,0,0,0,0
+134,Pupillometry Parameters before and after Cataract Surgery,0,0,0,0,0,N,0,0,0,0,0
+135,Data are presented as mean ± SDs.,0,0,0,0,0,N,0,0,0,0,0
+136,Consensual pupil response parameters were measured before (n = 76) and 2 days (n = 73) and 3 weeks (n = 72) after cataract surgery and are expressed as ratios relative to the baseline pupil diameter measured 10 seconds before light stimulation.,0,0,0,0,0,N,0,0,0,0,0
+137,Actigraphy Measures before and after Cataract Surgery,0,0,0,0,0,N,0,0,0,0,0
+138,Data are presented as mean ± standard deviations.,0,0,0,0,0,N,0,0,0,0,0
+139,Wrist-worn actigraphy was performed before surgery and 3 weeks postoperatively.,0,0,0,0,0,N,0,0,0,0,0
+140,"Sleep quality parameters were calculated using the software program Actiware 6.0, Philips Actiware 6.0 (Philips Healthcare, Utrecht, The Netherlands), providing a measure for sleep efficiency, onset latency, total sleep time, and wakefulness after sleep onset.",0,0,0,0,0,N,0,0,0,0,0
+141,The circadian rhythm was analyzed using a nonparametric approach.,0,0,0,0,0,N,0,0,0,0,0
+142,"These parameters include the IS, IV, Avg, RA, and L5 and M10 reported as decimal hours after 12:00 noon and 12:00 midnight, respectively.",0,0,0,0,0,N,0,0,0,0,0
+143,Salivary Melatonin Measurements before and after Surgery,0,0,0,0,0,N,0,0,0,0,0
+144,Data are presented as mean ± standard deviations.,0,0,0,0,0,N,0,0,0,0,0
+145,The nightly peak melatonin concentration (maximal value from 8 pm to 8 am) and the melatonin onset (decimal hours after 12:00 noon when melatonin concentration ≥4 pg/ml) are shown.,0,0,0,0,0,N,0,0,0,0,0
+146,Subjective Sleep Quality before and after Surgery,0,0,0,0,0,N,0,0,0,0,0
+147,Data are presented as mean ± SDs.,0,0,0,0,0,N,0,0,0,0,0
+148,"Preoperative subjective sleep quality evaluated by the PSQI, yielding a global score and identifying poor sleepers (global score ≥5), is shown.",0,0,0,0,0,N,0,0,0,0,0
+149,"A total of 76 participants, 41 female and 35 male, with a mean age of 73.7 years (range, 50–94 years), were recruited from among the 267 candidates who were invited to screening (30%).",0,0,0,0,0,N,0,0,0,0,0
+150,"The main reason for screen failure was that the indication for cataract surgery was not met (31%), ophthalmic or systemic comorbidities (16%), and 23% of the eligible candidates declined participation.",0,0,0,0,0,N,0,0,0,0,0
+151,A total of 73 participants were randomized (35 participants allocated to neutral IOLs and 38 participants allocated to blue-blocking IOLs) because 1 participant changed her mind regarding the operation and 1 participant dropped out after the baseline examination; another participant was excluded at the day of the operation because of posterior capsule rupture.,0,0,0,0,0,N,0,0,0,0,0
+152,"One participant found the study procedures too comprehensive and dropped out after the first control visit, producing a final number of 72 participants at the 3-week postoperative visit.",0,0,0,0,0,N,0,0,0,0,0
+153,No participants developed postoperative complications leading to exclusion.,0,0,0,0,0,N,0,0,0,0,0
+154,"Mean preoperative visual acuity was 0.35 logMAR (95% confidence interval [CI], 0.29–0.45) and increased to −0.03 logMAR (95% CI, −0.05 to −0.01) 3 weeks after surgery.",0,0,0,0,0,N,0,0,0,0,0
+155,"The blue light lens transmission was 0.34 (95% CI, 0.31–0.38) in the study eye and 0.38 (95% CI, 0.34–0.41) in the fellow eye.",0,0,0,0,0,N,0,0,0,0,0
+156,"The median nuclear opacity evaluated with the AREDS 2008 clinical lens opacity grading protocol was 2 (interquartile range, 1–2.5) and 1.5 (interquartile range, 1–2) in the study eye and fellow eye, respectively, and a strong correlation between nuclear opacity blue light transmission was found, as previously reported (ANOVA, F6 = 39.82, P < 0.001).",0,0,0,0,0,N,0,0,0,0,0
+157,"Preoperatively, no difference was found between the 2 allocation arms (neutral or blue-blocking IOL) with regard to distribution of age and sex, and to blue light transmission, AREDS nuclear opacity, and circadian type (Table 1).",0,0,0,0,0,N,0,0,0,0,0
+158,Intrinsic Photosensitive Retinal Ganglion Cell Activation by Blue Light,0,0,0,0,0,N,0,0,0,0,0
+159,"The mean PIPR to blue light increased significantly after cataract surgery by 17% (95% CI, 9–25) and 24% (95% CI, 15–32) at 2 days and 3 weeks postoperatively, respectively (mixed-model ANOVA, F141 = 11.9, P < 0.001).",0,0,0,0,0,N,0,0,0,0,0
+160,"There was no significant difference between patients randomized to blue-blocking or neutral IOL (mixed-model ANOVA, F139 = 1.0, P = 0.225) (Fig 2, Table 2).",0,0,0,0,0,N,0,0,0,0,0
+161,The effect of cataract surgery on the post-illumination pupil response (PIPR).,0,0,0,0,0,N,0,0,0,0,0
+162,"Plots of the post-illumination pupil response from 10 to 30 seconds after light off (PIPR10–30)—a surrogate measure for intrinsic activation of photosensitive retinal ganglion cells by blue light (470 nm)—for participants allocated to neutral ultraviolet-only blocking intraocular lens (IOL) (AMO ZCB00; Abbott Medical Optics, Santa Ana, CA) or blue-blocking IOL (Acrysof SN60WF; Alcon, Fort Worth, TX).",0,0,0,0,0,N,0,0,0,0,0
+163,The black lines show the mean for each visit.,0,0,0,0,0,N,0,0,0,0,0
+164,Variance is shown as ±1 standard error.,0,0,0,0,0,N,0,0,0,0,0
+165,"Low preoperative blue light lens transmission caused a relatively larger increase in blue light pupil response at 2 days after surgery (linear mixed-effect model, T137 = −2.38, P = 0.021).",0,0,0,0,0,N,0,0,0,0,0
+166,"The effect leveled out at 3 weeks postoperatively (linear mixed-effect model, T137 = −1.26, P = 0.209).",0,0,0,0,0,N,0,0,0,0,0
+167,"The dilated study eye pupil size before surgery was 6.93 mm (95% CI, 6.75–7.11) and decreased to 6.46 mm (95% CI, 6.28–6.46) 3 weeks after surgery (paired t test, T69 = −726, P < 0.001).",0,0,0,0,0,N,0,0,0,0,0
+168,"This change in pupil size did not affect the increase in blue light PIPR as measured in the contralateral eye (mixed-effect ANOVA, F133 = 1.93, P = 0.14).",0,0,0,0,0,N,0,0,0,0,0
+169,The pupil response to red light was unaffected by surgery (Table 2).,0,0,0,0,0,N,0,0,0,0,0
+170,"With regard to the circadian-specific actigraphy parameters, 2 parameters were significantly affected by surgery.",0,0,0,0,0,N,0,0,0,0,0
+171,"The onset of the average M10 was shifted forward by 21.6 minutes (95% CI, 7.7–37.2) after surgery (linear mixed effect, T68 = −3.03, P = 0.004), and a subtle change was detected regarding the quality of the rhythm as the IV (a measure for the fragmentation of the rhythm) increased by 8% (95% CI, 2–14; linear mixed effect, T68 = 2.71, P = 0.009).",0,0,0,0,0,N,0,0,0,0,0
+172,"No effect of IOL type was found (mixed-model ANOVA, P > 0.05).",0,0,0,0,0,N,0,0,0,0,0
+173,"Preoperative sleep efficiency was inversely correlated with the change in sleep efficiency after surgery, that is, the participants in the lower quartile compared with the participants with a higher preoperative sleep efficiency (mixed-model ANOVA, F66 = 4.89, P = 0.004) (Table 3).",0,0,0,0,0,N,0,0,0,0,0
+174,"In addition, sleep quality increased relatively more for the participants with the lowest preoperative blue light transmission (mixed-model ANOVA, F68=4.07, P = 0.048).",0,0,0,0,0,N,0,0,0,0,0
+175,"The IOL type had no effect on the change in sleep efficiency (mixed-model ANOVA, F68 = 1.15, P = 0.287).",0,0,0,0,0,N,0,0,0,0,0
+176,"For the entire group, no change in sleep efficiency was found.",0,0,0,0,0,N,0,0,0,0,0
+177,"No significant changes were found in the other sleep parameters, that is, total sleep time, sleep onset latency, and wakefulness after sleep onset.",0,0,0,0,0,N,0,0,0,0,0
+178,The daytime blue light exposure also was not affected.,0,0,0,0,0,N,0,0,0,0,0
+179,"According to the sleep diaries, 6 participants used sleep-inducing substances before surgery, but only 3 participants used them after surgery (chi-square test, χ21 = 65.6, P = 0.580).",0,0,0,0,0,N,0,0,0,0,0
+180,"The types of medicine used included over-the-counter analgesics, prescription analgesics, and sedative drugs.",0,0,0,0,0,N,0,0,0,0,0
+181,Salivary Melatonin Concentration Measurements,0,0,0,0,0,N,0,0,0,0,0
+182,"The nightly peak melatonin concentration increased significantly after surgery by 23% (95% CI, 5–41) (Table 4, Fig 3).",0,0,0,0,0,N,0,0,0,0,0
+183,"A statistical tendency toward an advanced salivary melatonin onset by 43 minutes (95% CI, −7 to 92; paired t test, T64 = 1.70, P = 0.095) after surgery was detected.",0,0,0,0,0,N,0,0,0,0,0
+184,"Likewise, a tendency toward a 57-minute advance (95% CI, −6 to 123; paired t test, T33 = 1.77, P = 0.087) was found for the participants allocated to blue-blocking IOLs, whereas no change was found for the participants allocated to neutral IOLs (Table 4, Fig 3).",0,0,0,0,0,N,0,0,0,0,0
+185,The effect of cataract surgery on 24-hour salivary melatonin profiles.,0,0,0,0,0,N,0,0,0,0,0
+186,The mean 24-hour salivary melatonin profiles for participants allocated to implantation with a neutral ultraviolet-only blocking intraocular lens (IOL) (AMO ZCB00; Abbott Medical Optics) or a blue-blocking IOL (Acrysof SN60WF; Alcon) are shown.,0,0,0,0,0,N,0,0,0,0,0
+187,Variance is shown as ±1 standard error.,0,0,0,0,0,N,0,0,0,0,0
+188,"Subjective sleep quality assessed by the PSQI questionnaire was not affected by the surgery (mixed-model ANOVA, F64 = 0.91, P = 0.345) or by IOL type (mixed-model ANOVA, F63 = 2.04, P = 0.158) (Table 5).",0,0,0,0,0,N,0,0,0,0,0
+189,"The number of poor sleepers was not affected by surgery (chi-square test, X2 = 0.03, P = 0.856) (Table 5).",0,0,0,0,0,N,0,0,0,0,0
+190,The aim of this study was to evaluate the effect of cataract surgery on circadian photoentrainment and sleep.,0,0,0,0,0,N,0,0,0,0,0
+191,"We found a significant increase in the PIPR to blue light from 10 to 30 seconds after light off, a surrogate measure of intrinsic activation of photosensitive retinal ganglion cells after surgery.",0,0,0,0,0,N,0,0,0,0,0
+192,The majority of the sleep-specific and circadian rhythm–specific actigraphy parameters were not affected by surgery except for a significant forward shift in the M10 and an increased defragmentation of the rhythm as the IV increased significantly.,0,0,0,0,0,N,0,0,0,0,0
+193,Melatonin onset was also shifted forward but failed to reach significance.,0,0,0,0,0,N,0,0,0,0,0
+194,"Nocturnal peak concentration increased significantly after surgery, and 2 covariates (i.e., preoperative blue light transmission and preoperative sleep efficiency) correlated inversely with the change in sleep efficiency after surgery, although regression toward the mean cannot be excluded for the latter.",0,0,0,0,0,N,0,0,0,0,0
+195,These findings show that cataract surgery increases blue light transmission and photosensitive retinal ganglion cell photoreception.,0,0,0,0,0,N,0,0,0,0,0
+196,"The hypothesis is that the increased photoreception potentiates the input signal to SCN, leading to a stronger drive toward wakefulness during the day and a stronger drive toward sleep during the night, as well as increased melatonin secretion, which improves circadian entrainment and sleep quality.",0,0,0,0,0,N,0,0,0,0,0
+197,"The observed increase in nocturnal melatonin concentration supports the hypothesis, but the lack of change for the majority of actigraphy parameters does not.",0,0,0,0,0,N,0,0,0,0,0
+198,"Namely, an improvement in IS or IV would be expected, and thus, the increase in IV goes against the hypothesis, although the finding in itself is not meaningful or robust to Bonferroni correction for multiple outcomes (Padjusted = 0.060).",0,0,0,0,0,N,0,0,0,0,0
+199,"Improved circadian photoentrainment could produce changes in the timing of the rhythm, which indeed was found as a significant forward shift in the M10 onset (meaning an earlier onset of activity for participants after surgery) and as a nonsignificant tendency toward forward shift of melatonin onset, but no change of the L5 onset (meaning unchanged timing of the nightly rest period) was found.",0,0,0,0,0,N,0,0,0,0,0
+200,"Overall, we found no difference between the groups: blue-blocking versus neutral IOLs.",0,0,0,0,0,N,0,0,0,0,0
+201,"This is perhaps not surprising because of the relatively high blue light transmission of 80% and 95%, respectively, compared with 32% in the participants before cataract surgery.",0,0,0,0,0,N,0,0,0,0,0
+202,"Thus, cataract surgery increases the blue light transmission by approximately 250% and 300%, respectively, whereas the difference between the blue-blocking and neutral IOLs is 15%.",0,0,0,0,0,N,0,0,0,0,0
+203,"We previously determined that a typical blue-blocking IOL corresponds to a human lens of 15 to 22 years of age and is unlikely to affect circadian photoentrainment adversely.Conversely, an effect of cataract degree was found because participants with lower preoperative blue light transmission experienced greater improvements in photosensitive ganglion cell activation (PIPR) and sleep efficiency after surgery.",0,0,0,0,0,N,0,0,0,0,0
+204,"The reported effect of preoperative blue light transmission on the increase in PIPR leveled out after 3 weeks, suggesting an adaptational mechanism similar to that seen in the commonly reported postoperative cyanopsia.",0,0,0,0,0,N,0,0,0,0,0
+205,"Other factors, such as increased quality of life, may confound the findings because quality of life is known to increase after cataract surgery.",0,0,0,0,0,N,0,0,0,0,0
+206,Another confounding factor may be that evening activities may change after surgery.,0,0,0,0,0,N,0,0,0,0,0
+207,"Increase in visual acuity could lead to a shift from watching television to reading or other nonscreen activities, which could have an effect on evening blue light exposure that would tend to delay the circadian rhythm and melatonin onset counter to our findings.",0,0,0,0,0,N,0,0,0,0,0
+208,"However, the control visit was after first eye surgery only, when many patients are troubled by changes in refraction without the appropriate correction and difficulties with stereopsis.",0,0,0,0,0,N,0,0,0,0,0
+209,"Furthermore, overall activity (average) was consistent before and after surgery, as was blue light exposure.",0,0,0,0,0,N,0,0,0,0,0
+210,It was not possible to correct for the qualitative characteristics of activity.,0,0,0,0,0,N,0,0,0,0,0
+211,"The PIPR to blue light was used as a surrogate measure of photosensitive retinal ganglion cell activation, and the determined increase was attributed to increased intrinsic activation of the photosensitive retinal ganglion cells.",0,0,0,0,0,N,0,0,0,0,0
+212,The cells that are involved in circadian photoentrainment are different from the cells that are involved in pupil regulation with respect to form and melanopsin concentrations.,0,0,0,0,0,N,0,0,0,0,0
+213,"Nonetheless, all classes of photosensitive retinal ganglion cells rely on intrinsic photosensitivity caused by melanopsin that is correlated to PIPR to blue light.",0,0,0,0,0,N,0,0,0,0,0
+214,"Because we did not observe any change in maximal contraction amplitude, presumed to be due to cone activation, or the pupil response to red light, it is reasonable to interpret the increase in PIPR as an increase in intrinsic activation of the photosensitive retinal ganglion cells.",0,0,0,0,0,N,0,0,0,0,0
+215,Pupil responses were measured in the unoperated fellow eye to ensure that the response was not affected by alterations in the function of the pupil dilator or sphincter.,0,0,0,0,0,N,0,0,0,0,0
+216,"Although changes in pupil size in the study eye pupil were compensated for by dilating the pupil, the pupils, as expected, decreased slightly after surgery, presumably because of relaxation of the iris caused by removal of the crystalline lens with a much larger volume than the artificial IOL.",0,0,0,0,0,N,0,0,0,0,0
+217,"This decrease in study eye pupil size causes relatively less light to enter the eye and would tend to decrease the pupil response, counter to our findings.",0,0,0,0,0,N,0,0,0,0,0
+218,The participants received operation on only 1 eye within the duration of the study (3 weeks postoperatively) to prevent any mechanical effect of the surgery to the measurement eye.,0,0,0,0,0,N,0,0,0,0,0
+219,"Therefore, a potentially larger increase may be expected after a fellow-eye surgery and longer follow-up time.",0,0,0,0,0,N,0,0,0,0,0
+220,"However, seasonal change affects ambient light levels, and the photoperiod at the current latitude (Denmark) may affect circadian entrainment.",0,0,0,0,0,N,0,0,0,0,0
+221,"In this study, this was compensated for by using a short follow-up time and by enrolling participants exclusively at both spring and autumn equinoxes.",0,0,0,0,0,N,0,0,0,0,0
+222,"Thus, seasonal change should be taken into consideration when planning a longer follow-up.",0,0,0,0,0,N,0,0,0,0,0
+223,"With the current sample size and variation, the power to detect the estimated before/after difference for the pupil response data was 99.6%.",0,0,0,0,0,N,0,0,0,0,0
+224,"Because of a slightly higher than anticipated variation, the power to detect a significant intergroup difference of 22% was 65%, producing a type II error probability of 35%.",0,0,0,0,0,N,0,0,0,0,0
+225,"Thus, an effect of neutral versus blue-blocking IOLs cannot be ruled out entirely.",0,0,0,0,0,N,0,0,0,0,0
+226,"For sleep efficiency, the type II risk was negligible because the intergroup difference was 1.5% (95% CI, 1.14–1.75) compared with a minimal detectable difference of 4% (with the observed variation and a power of 80%).",0,0,0,0,0,N,0,0,0,0,0
+227,"In summary, this study presents evidence of increased activation of photosensitive ganglion cells after cataract surgery.",0,0,0,0,0,N,0,0,0,0,0
+228,"Some circadian parameters were affected by surgery, whereas others were not, and overall sleep quality remained unchanged.",0,0,0,0,0,N,0,0,0,0,0
+229,"However, it should be noted that the included patients were not selected on the basis of preoperative sleeping difficulties or cataract degree.",0,0,0,0,0,N,0,0,0,0,0
+230,Including participants with lower sleep quality and denser cataract could affect the outcome.,0,0,0,0,0,N,0,0,0,0,0
+231,"We have not been able to reproduce previous results showing positive effects of cataract surgery on sleep, but we did find an effect of preoperative blue light transmission, which has been linked to sleep disturbances.",0,0,0,0,0,N,0,0,0,0,0
+232,"On the basis of the findings, we can safely say that cataract surgery and definitely different types of IOLs do not adversely affect circadian photoentrainment or sleep.",0,0,0,0,0,N,0,0,0,0,0
+233,"Because subtle effects on the circadian rhythm were found, we cannot exclude the possibility that cataract surgery may still affect circadian photoentrainment or sleep in the longer term or after fellow-eye surgery.",0,0,0,0,0,N,0,0,0,0,0

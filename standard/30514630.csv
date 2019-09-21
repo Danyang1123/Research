@@ -1,0 +1,261 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"Low-concentration atropine is an emerging therapy for myopia progression, but its efficacy and optimal concentration remain uncertain.",0,0,0,0,0,0,0,0,0,0,0
+1,"Our study aimed to evaluate the efficacy and safety of low-concentration atropine eye drops at 0.05%, 0.025%, and 0.01% compared with placebo over a 1-year period.",0,0,0,0,0,0,0,0,0,0,0
+2,"Randomized, placebo-controlled, double-masked trial.",0,0,0,0,0,0,0,0,0,0,0
+3,A total of 438 children aged 4 to 12 years with myopia of at least −1.0 diopter (D) and astigmatism of −2.5 D or less.,0,0,0,0,0,0,0,0,0,0,0
+4,"Participants were randomly assigned in a 1:1:1:1 ratio to receive 0.05%, 0.025%, and 0.01% atropine eye drops, or placebo eye drop, respectively, once nightly to both eyes for 1 year.",1,1,1,1,1,1,1,0,0,0,0
+5,"Cycloplegic refraction, axial length (AL), accommodation amplitude, pupil diameter, and best-corrected visual acuity were measured at baseline, 2 weeks, 4 months, 8 months, and 12 months.",1,0,1,1,1,1,1,0,0,0,0
+6,Visual Function Questionnaire was administered at the 1-year visit.,1,0,1,1,1,1,1,0,0,0,0
+7,"Changes in spherical equivalent (SE) and AL were measured, and their differences among groups were compared using generalized estimating equation.",0,0,0,0,0,0,0,0,0,0,0
+8,"After 1 year, the mean SE change was −0.27±0.61 D, −0.46±0.45 D, −0.59±0.61 D, and −0.81±0.53 D in the 0.05%, 0.025%, and 0.01% atropine groups, and placebo groups, respectively (P < 0.001), with a respective mean increase in AL of 0.20±0.25 mm, 0.29±0.20 mm, 0.36±0.29 mm, and 0.41±0.22 mm (P < 0.001).",0,0,0,0,0,0,0,1,0,1,0
+9,"The accommodation amplitude was reduced by 1.98±2.82 D, 1.61±2.61 D, 0.26±3.04 D, and 0.32±2.91 D, respectively (P < 0.001).",0,0,0,0,0,0,0,1,0,1,0
+10,"The pupil sizes under photopic and mesopic conditions were increased respectively by 1.03±1.02 mm and 0.58±0.63 mm in the 0.05% atropine group, 0.76±0.90 mm and 0.43±0.61 mm in the 0.025% atropine group, 0.49±0.80 mm and 0.23±0.46 mm in the 0.01% atropine group, and 0.13±1.07 mm and 0.02±0.55 mm in the placebo group (P < 0.001).",0,0,0,0,0,0,0,1,0,1,0
+11,Visual acuity and vision-related quality of life were not affected in each group.,0,0,0,0,0,0,0,1,0,1,0
+12,"The 0.05%, 0.025%, and 0.01% atropine eye drops reduced myopia progression along a concentration-dependent response.",0,0,0,0,0,0,0,0,0,0,0
+13,All concentrations were well tolerated without an adverse effect on vision-related quality of life.,0,0,0,0,0,0,0,0,0,0,0
+14,"Of the 3 concentrations used, 0.05% atropine was most effective in controlling SE progression and AL elongation over a period of 1 year.",0,0,0,0,0,0,0,0,0,0,0
+15,"Myopia is the most common ocular disorder worldwide with increasing prevalence over the past decades, predominantly in East Asia.",0,0,0,0,0,0,0,0,0,0,0
+16,Its prevalence in young adults has been reported to be 96.5% in Korean military conscripts and 94.9% in university students in China.,0,0,0,0,0,0,0,0,0,0,0
+17,"It is predicted that approximately half of the world’s population will be myopic by 2050, with as much as 10% being highly myopic.",0,0,0,0,0,0,0,0,0,0,0
+18,"Notably, high myopia is associated with excessive eyeball growth leading to sight-threatening complications, including presenile cataract, glaucoma, retinal detachment, choroidal neovascularization, myopic macular degeneration, and macular hemorrhage.Thus, myopia is a major public health concern, posing a heavy health and economic burden to the society.",0,0,0,0,0,0,0,0,0,0,0
+19,Finding an effective and safe method to prevent myopia progression is important.,0,0,0,0,0,0,0,0,0,0,0
+20,"Atropine eye drops, a nonselective muscarinic antagonist, have been used for myopia control for some years.",0,0,0,0,0,0,0,0,0,0,0
+21,"In a randomized controlled trial involving 400 children aged 6 to 12 years, Atropine for the Treatment of Myopia 1 (ATOM 1), it was found that over a 2-year period, atropine 1% eye drops slowed myopia progression to −0.28±0.92 diopters (D), compared with −1.20±0.69 D in the placebo group, with a 77% reduction in myopia progression with no axial elongation.",0,0,0,0,0,0,0,0,0,0,0
+22,"However, the associated blurred near vision, photophobia, and risk of increased ultraviolet exposure often deter parents from widely adopting the treatment.",0,0,0,0,0,0,0,0,0,0,0
+23,"Recently, lower-concentration atropine eye drops have been found to be effective in slowing myopia progression.",0,0,0,0,0,0,0,0,0,0,0
+24,"In the ATOM 2 trial, 0.5%, 0.1%, and 0.01% atropine slowed myopia progression to −0.3±0.60 D, −0.38±0.60 D, and −0.49±0.63 D, respectively, over 2 years.",0,0,0,0,0,0,0,0,0,0,0
+25,"With fewer side effects and rebound after drop cessation, the authors suggested that the low concentration of 0.01% atropine has a better treatment-to–side effect ratio.",0,0,0,0,0,0,0,0,0,0,0
+26,"However, the study was limited by the lack of a placebo control group.16 Furthermore, axial length (AL) elongation in the 0.01% group remained significant (0.41±0.32 mm/2 years), rendering an uncertain role of low-concentration atropine in myopia control.",0,0,0,0,0,0,0,0,0,0,0
+27,"Nevertheless, a recent American Academy of Ophthalmology report and other retrospective studies supported the use of low-concentration atropine to prevent myopia progression.",0,0,0,0,0,0,0,0,0,0,0
+28,"Although concentration-dependent responses were evident in higher-concentration atropine, whether the same occurs in lower concentration has to be affirmed.",0,0,0,0,0,0,0,0,0,0,0
+29,"In a meta-analysis reported in 2016 that included 7 studies of high, moderate, and low concentrations of atropine, atropine was efficacious in slowing myopia progression, but with no concentration-dependent effect.",0,0,0,0,0,0,0,0,0,0,0
+30,"Likewise, another meta-analysis of 19 studies suggested the efficacy of atropine is concentration independent, whereas the adverse effects are concentration dependent.",0,0,0,0,0,0,0,0,0,0,0
+31,Some important questions on low-concentration atropine for myopia control are still to be answered: (1) Does low-concentration atropine prevent myopia progression when compared with the placebo group?,0,0,0,0,0,0,0,0,0,0,0
+32,(2) Does the effect vary along a concentration-dependent response?,0,0,0,0,0,0,0,0,0,0,0
+33,(3) What is the optimal concentration that provides the best efficacy and safety?,0,0,0,0,0,0,0,0,0,0,0
+34,"Thus, we have conducted the Low-concentration Atropine for Myopia Progression (LAMP) study, which is a randomized placebo-controlled, double-masked trial, to evaluate the efficacy and safety of low-concentration atropine eye drops at levels of 0.05%, 0.025%, and 0.01%.",0,0,0,0,0,0,0,0,0,0,0
+35,The LAMP study comprises 4 phases.,0,0,0,0,0,0,0,0,0,0,0
+36,"Phase 1 (1-year period) is a treatment phase of 0.05%, 0.025%, and 0.01% atropine and placebo groups for 1 year.",0,0,0,0,0,0,0,0,0,0,0
+37,"In Phase 2 (1-year period), the placebo group will be crossed over to the optimal group (best treatment to side effect ratio as determined in Phase 1) at the beginning of the second year, because it is unethical to let the children continue placebo treatment once low-concentration atropine is proven effective after 1 year.",0,0,0,0,0,0,0,0,0,0,0
+38,"Meanwhile, 0.05%, 0.025%, and 0.01% atropine, when proven effective, will be continued to the end of the second year to evaluate the efficacy and side effects in a 2-year period.",0,0,0,0,0,0,0,0,0,0,0
+39,"Phase 3 (1-year period) is a washout period of 12 months for 0.05%, 0.025%, and 0.01% atropine to determine the rebound phenomenon.",0,0,0,0,0,0,0,0,0,0,0
+40,The crossed-over group (receiving placebo at the first year and subsequently crossed over to the optimal group at the second year) will continue the eye drops during Phase 3.,0,0,0,0,0,0,0,0,0,0,0
+41,Phase 4 (2-year period) will be an extended phase to determine the long-term effects of low-concentration atropine.,0,0,0,0,0,0,0,0,0,0,0
+42,Atropine will be resumed in subjects who have progressed more than 0.5 D during the washout period.,0,0,0,0,0,0,0,0,0,0,0
+43,"If there is no change in refraction and no increase in axial elongation, atropine will not be resumed.",0,0,0,0,0,0,0,0,0,0,0
+44,The crossed-over group will continue with atropine to determine the long-term effects of the optimal group without discontinuation.,0,0,0,0,0,0,0,0,0,0,0
+45,The concentration of atropine used in Phase 4 will be decided later on the basis of the results of Phases 1 to 3.,0,0,0,0,0,0,0,0,0,0,0
+46,This article presents the 1-year results (Phase 1) of the LAMP study.,0,0,0,0,0,0,0,0,0,0,0
+47,"This study was conducted from January 2016 to November 2017 at the CUHK Eye Centre of the Chinese University of Hong Kong, Hong Kong, China.",1,0,1,1,1,1,1,0,0,0,0
+48,"Children aged 4 to 12 years with myopic refraction of at least 1.0 D in both eyes, astigmatism of less than 2.5 D, and documented myopic progression of at least 0.5 D in the past 1 year were enrolled in this double-blinded, single-center clinical trial.",1,0,1,1,1,1,1,0,0,0,0
+49,"Excluded were those with ocular diseases (e.g., cataract, congenital retinal diseases, amblyopia, and strabismus), previous use of atropine or pirenzepine, or orthokeratology lens or other optical methods for myopia control, allergy to atropine, or systemic diseases (e.g., endocrine, cardiac, and respiratory diseases).",0,0,0,0,0,0,0,0,0,0,0
+50,"Written informed consent was obtained from parents or guardians, and verbal consent was obtained from the participants.",0,0,0,0,0,0,0,0,0,0,0
+51,"The study was approved by the Ethics Committee of the Chinese University of Hong Kong and was registered with the Centre for Clinical Research and Biostatistics Clinical Trials Registry, the Chinese University of Hong Kong (registration no: CUHK_CCT00383).",0,0,0,0,0,0,0,0,0,0,0
+52,All procedures were conducted according to the tenets of the Declaration of Helsinki.,0,0,0,0,0,0,0,0,0,0,0
+53,"Participants in this study were randomized to receive 0.05%, 0.025%, or 0.01% atropine, or placebo eye drops once nightly in both eyes at an allocation ratio of 1:1:1:1 in 6 strata defined by gender and age groups of 4 to 6 years, 7 to 9 years, and 10 to 12 years, respectively, so that gender and age could be balanced across the 4 treatment arms.",0,0,0,0,0,0,0,0,0,0,0
+54,The trial medications were prepackaged identically with the number of study subjects and the expiration date.,0,0,0,0,0,0,0,0,0,0,0
+55,"They consisted of the appropriate concentration of atropine sulfate at 0.05%, 0.025%, or 0.01% (0.5 ml unit-concentration, preservative free), and the placebo was 0.9% sodium chloride (0.5 ml unit-concentration, preservative free).",0,0,0,0,0,0,0,0,0,0,0
+56,"All eye drops were prepared by Aseptic Innovative Medicine Co, LTD, Taipei, Taiwan, in mono-dose preparation.",0,0,0,0,0,0,0,0,0,0,0
+57,Expiry duration for each batch of eye drops was 2 years.,0,0,0,0,0,0,0,0,0,0,0
+58,"Certificates of analysis for 0.05%, 0.025%, and 0.01% atropine, and 0.9% sodium chloride were obtained from the manufacturer with assurance for concentration, stability, and sterility.",0,0,0,0,0,0,0,0,0,0,0
+59,"The Drug Trial Certificate was granted from the Department of Health, Hong Kong SAR, China.",0,0,0,0,0,0,0,0,0,0,0
+60,All subjects were recruited and randomized to 4 treatment groups at the baseline visit.,0,0,0,0,0,0,0,0,0,0,0
+61,"All subjects (0.05%, 0.025%, 0.01% atropine, and placebo) were then followed up on the same schedule with the same examination protocol: at 2 weeks (monitor visit), 4 months, 8 months, and 12 months from the baseline visit.",0,0,0,0,0,0,0,0,0,0,0
+62,"The purpose of the monitor visit at 2 weeks was to determine the hyperopic shift, if any, that has been reported in a higher concentration of atropine in the ATOM 1 and 2 studies.",0,0,0,0,0,0,0,0,0,0,0
+63,"At each visit, distant best-corrected visual acuity (BCVA) in logarithm of the minimum angle of resolution (logMAR) was assessed by an optometrist, who was masked for the group allocation of the subjects, using the Early Treatment Diabetic Retinopathy Study chart.",0,0,0,0,0,0,0,0,0,0,0
+64,Near visual acuity was assessed using best-corrected distance spectacle correction with a reduced logMAR reading chart placed at 40 cm under well-lit conditions.,0,0,0,0,0,0,0,0,0,0,0
+65,"The near point of accommodation was measured using a Royal Air Force (RAF) near point rule (Harlow, Essex, UK) with best-corrected distance spectacle correction.",0,0,0,0,0,0,0,0,0,0,0
+66,Participants were instructed to move the target inward until the N5 print became slightly blurred and then outward until it just became clear.,0,0,0,0,0,0,0,0,0,0,0
+67,Accommodation amplitude was calculated as the inverse of the near point of accommodation.,0,0,0,0,0,0,0,0,0,0,0
+68,"Mesopic pupil size and photopic pupil size were measured with the OPD-Scan III (Nidek, Gamagori, Japan).",0,0,0,0,0,0,0,0,0,0,0
+69,"In both cases, at least 5 pupil size readings (with a range of 0.5 mm) were recorded and averaged.",0,0,0,0,0,0,0,0,0,0,0
+70,"Cycloplegic autorefraction was performed using an autorefractor (Nidek ARK-510A) after the cycloplegia regimen, which consisted of at least 2 cycles of eye drops.",0,0,0,0,0,0,0,0,0,0,0
+71,"At the first cycle, 2 separate eye drops, cyclopentolate 1% (Cyclogyl, Alcon-Convreur, Rijksweg, Belgium) and tropicamide 1% (Santen, Osaka, Japan), were administered to both eyes at 5 minutes apart.",0,0,0,0,0,0,0,0,0,0,0
+72,A second cycle of the same cycloplegic drops would be administered 10 minutes after the first cycle.,0,0,0,0,0,0,0,0,0,0,0
+73,A third cycle of the same cycloplegic eye drops would be given 30 minutes after the second cycle if pupillary light reflex was still present or the pupil size was less than 6.0 mm.,0,0,0,0,0,0,0,0,0,0,0
+74,Further cycles of cycloplegic eye drops would be administered if necessary to ensure the pupils are well dilated.,0,0,0,0,0,0,0,0,0,0,0
+75,"Five readings, all of which had to be less than 0.25 D apart, were obtained and averaged.",0,0,0,0,0,0,0,0,0,0,0
+76,Spherical equivalent (SE) was calculated as spherical power plus half of the cylinder power.,0,0,0,0,0,0,0,0,0,0,0
+77,"Ocular AL was measured on a Zeiss IOL Master (Carl Zeiss Meditec Inc, Dublin, CA), based on noncontact partial coherence interferometry.",0,0,0,0,0,0,0,0,0,0,0
+78,"Five readings, with a maximum-minimum deviation of 0.05 mm or less, were taken and averaged.",0,0,0,0,0,0,0,0,0,0,0
+79,"Parents or guardians, subjects, and study investigators were kept masked to the trial medications.",0,0,0,0,0,0,0,0,0,0,0
+80,A diary on the trial medication was kept for each subject.,0,0,0,0,0,0,0,0,0,0,0
+81,Compliance level of each subject was classified according to the mean number of using atropine per week as reported by participants over the first 12 months.,0,0,0,0,0,0,0,0,0,0,0
+82,"Subjects with 75% compliance rate (i.e., a mean of 5.25 days/week) were considered to have good compliance.",0,0,0,0,0,0,0,0,0,0,0
+83,"Subjects were also offered photochromatic glasses (which darken on exposure to ultraviolet or sunlight) if they experienced glare or if their parents were worried of excessive light exposure, or progressive glasses (reading add) if they experienced difficulty with near vision.",0,0,0,0,0,0,0,0,0,0,0
+84,All subjects were prescribed with best-corrected spectacles.,0,0,0,0,0,0,0,0,0,0,0
+85,"At the baseline, validated questionnaire on outdoor time and near work were administered to parents.",0,0,0,0,0,0,0,0,0,0,0
+86,"Outdoor activities included time spent on sports and leisure, whereas near works included time on homework, cell phone, computer, video games, and watching TV.",0,0,0,0,0,0,0,0,0,0,0
+87,"Parental refraction and AL were documented by noncycloplegic autorefraction (Nidek ARK-510A) and Zeiss IOL Master (Carl Zeiss Meditec Inc), respectively, for both parents of each child.",0,0,0,0,0,0,0,0,0,0,0
+88,"At the 12-month follow-up visit, the Chinese version of the 25-Item National Eye Institute Visual Function Questionnaire was administered to all subjects to determine the impact of different treatment groups on the vision-related quality of life.",0,0,0,0,0,0,0,0,0,0,0
+89,"The Chinese version of the 25-Item National Eye Institute Visual Function Questionnaire was found to be reliable to assess the visual functions of Chinese patients with eye diseases in Hong Kong.24 A total of 11 subscales were addressed: general health, general vision, ocular pain, near vision, distance vision, social function, mental health, role limitations, dependency, color vision, and peripheral vision.",0,0,0,0,0,0,0,0,0,0,0
+90,The primary outcome was myopia progression in terms of SE change over 1 year.,0,0,0,0,0,0,0,0,0,0,0
+91,"Myopia progression in each eye was further categorized as mild (<0.5 D), moderate (0.5–0.99 D), or severe (≥1.0 D).",0,0,0,0,0,0,0,0,0,0,0
+92,The secondary outcomes included AL change at 1 year.,0,0,0,0,0,0,0,0,0,0,0
+93,"Side effect parameters included changes in accommodation amplitude, mesopic and photopic pupil sizes, and distant BCVA and near visual acuity.",0,0,0,0,0,0,0,0,0,0,0
+94,"All ophthalmic parameters, including SE, AL, accommodation, pupil size, and visual acuity, were monitored from baseline.",0,0,0,0,0,0,0,0,0,0,0
+95,"During each visit, subjects and parents were given an open-ended opportunity to report any medical illness or side effects.",0,0,0,0,0,0,0,0,0,0,0
+96,"They were also specifically asked about symptoms related to allergy, blurred near vision, glare, or visual loss, and if subjects had been ill or hospitalized since the previous visit.",0,0,0,0,0,0,0,0,0,0,0
+97,"Any adverse events, regardless of whether they appeared relevant to atropine use, were documented.",0,0,0,0,0,0,0,0,0,0,0
+98,"To calculate the required number of study subjects, we took the estimated myopia progression rate for 0.05%, 0.025%, and 0.01% atropine and placebo groups to be −0.28 D, −0.14 D, −0.43 D, and −0.76 D, respectively.",0,0,0,0,0,0,0,0,1,0,0
+99,"The common standard deviation within a group was assumed to be 0.6 D. To detect a difference of at least 0.5 D among treatment groups, a sample size of 344 subjects (86 per group) could achieve 90% power at a 0.05 significance level.",0,0,0,0,0,0,0,0,1,0,0
+100,"By factoring in an attrition rate of 20%, a sample size of 432 subjects (108 per group) would be needed.",0,0,0,0,0,0,0,0,1,0,0
+101,All data were analyzed based on the intention-to-treat principle.,0,0,0,0,0,0,0,0,1,0,0
+102,Change of parameters was defined by the difference between the baseline and the corresponding follow-up values.,0,0,0,0,0,0,0,0,1,0,0
+103,Chi-square test and Fisher exact test were used to test the group difference in categoric data.,0,0,0,0,0,0,0,0,0,0,0
+104,Analysis of variance was used to test the group difference of continuous data.,0,0,0,0,0,0,0,0,0,0,0
+105,"A generalized estimating equation with robust standard errors was used to adjust the correlation between eyes, allowing both eyes of the same subject to be included in the analysis.",0,0,0,0,0,0,0,0,0,0,0
+106,"Repeated-measure analysis was performed for the ophthalmic parameters with treatment group, time, and interaction of time and group included in the model setup, followed by testing the treatment group effects at each time point.",0,0,0,0,0,0,0,0,0,0,0
+107,"If significance was found in the outcome measure between groups, multiple comparisons without adjustment on the significance level would be conducted to identify the significance in each pair of groups.",0,0,0,0,0,0,0,0,0,0,0
+108,The concentration-response effect of atropine on the ophthalmic parameters was confirmed by the coefficient of the treatment groups in regression model after arranging the treatment groups in ordinal scale.,0,0,0,0,0,0,0,0,0,0,0
+109,"STATA (version 14, StataCorp LP, College Station, TX) was used for data analyses.",0,0,0,0,0,0,0,0,0,0,0
+110,P value < 0.05 was considered statistically significant.,0,0,0,0,0,0,0,0,0,0,0
+111,"A total of 484 subjects had been assessed for eligibility, and finally, 438 subjects were recruited into the study, with 109, 108, 110, and 111 subjects allocated into the 0.05% atropine, 0.025% atropine, 0.01% atropine, and placebo groups, respectively (Fig 1).",0,0,0,0,0,0,0,1,0,1,0
+112,"There was no significant difference among groups in demographics, baseline near work and outdoor time, baseline refractive error, accommodation, pupil diameter, BCVA, and parental SE and AL (Table 1).",0,0,0,0,0,0,0,0,0,0,0
+113,"The correlation between change in SE and AL over 1 year was high (correlation coefficient = 0.77, P < 0.001).",0,0,0,0,0,0,0,0,0,0,0
+114,"At the 1-year visit, 55 participants did not attend the follow-up: 7 (6.4%), 17 (15.7%), 13 (11.8%), and 18 (16.2%) from the 0.05% atropine, 0.025% atropine, 0.01% atropine, and placebo groups, respectively (P = 0.11; Fig 1).",0,0,0,0,0,0,0,0,0,0,0
+115,"Compliance, defined as >75% expected use, was 93.6%, 95.4%, 90.9%, and 90.1% in the 0.05% atropine, 0.025% atropine, 0.01% atropine, and placebo groups, respectively (P = 0.44).",0,0,0,0,0,0,0,0,0,0,0
+116,Consolidated Standards of Reporting Trials (CONSORT) of the study.,0,0,0,0,0,0,0,0,0,0,0
+117,Baseline Characteristics of Study Subjects,0,0,0,0,0,0,0,0,0,0,0
+118,Changes in Spherical Equivalent and Axial Length,0,0,0,0,0,0,0,0,0,0,0
+119,"Concentration-dependent response on myopia control was observed in all atropine concentrations (Table 2 and Table S1, available at www.aaojournal.org).",0,0,0,0,0,0,0,0,0,0,0
+120,"There was no initial hyperopic shift at the 2-week monitor visit in all 4 groups (Table S2, available at www.aaojournal.org).",0,0,0,0,0,0,0,0,0,0,0
+121,"At the end of 1 year, SE change was −0.27±0.61 D, −0.46±0.45 D, −0.59±0.61 D, and −0.81±0.53 D in the 0.05%, 0.025%, 0.01% atropine, and placebo groups, respectively, with significant differences between groups (P < 0.001; Table 2 and Fig 2).",0,0,0,0,0,0,0,0,0,0,0
+122,"Axial length change at 1 year was larger in the placebo group (0.41±0.22 mm) than in the 0.05% (0.20±0.25 mm), 0.025% (0.29±0.20 mm), and 0.01% (0.36±0.29 mm) atropine groups (P < 0.001; Table 2 and Fig 3).",0,0,0,0,0,0,0,0,0,0,0
+123,The difference of AL change between the 0.01% atropine and placebo groups in the pairwise comparison was not statistically significant (P = 0.18).,0,0,0,0,0,0,0,0,0,0,0
+124,"In 1 year, 69.6%, 51.6%, and 43.8% of subjects in the 0.05%, 0.025%, and 0.01% atropine groups, respectively, progressed by less than 0.5 D, compared with 24.2% in the placebo group; whereas 15.2%, 12.6%, and 27.8% in the 0.05%, 0.025%, and 0.01% atropine groups, respectively, progressed by ≥1.0 D, compared with 37.1% in the placebo group (Fig 4).",0,0,0,0,0,0,0,0,0,0,0
+125,Change in Ophthalmic Parameters at Follow-up Visits,0,0,0,0,0,0,0,0,0,0,0
+126,Change in spherical equivalent (SE) in treatment groups across time.,0,0,0,0,0,0,0,0,0,0,0
+127,Download high-res image (80KB)Download full-size image,0,0,0,0,0,0,0,0,0,0,0
+128,Change in axial length (AL) in treatment groups across time.,0,0,0,0,0,0,0,0,0,0,0
+129,Distribution of change in SE among treatment groups at 1 year.,0,0,0,0,0,0,0,0,0,0,0
+130,"Changes in Accommodation, Pupil Diameter, and Visual Acuity",0,0,0,0,0,0,0,0,0,0,0
+131,"Changes in accommodation amplitude also followed concentration-dependent response (P < 0.001; Table 2 and Table S1, available at www.aaojournal.org).",0,0,0,0,0,0,0,0,0,0,0
+132,"The mean accommodation amplitudes were different among all 4 groups (P < 0.001; Table S3, available at www.aaojournal.org).",0,0,0,0,0,0,0,0,0,0,0
+133,"Pairwise comparison showed similar changes of accommodation amplitude between the 0.01% atropine and placebo groups, but there were significant differences in the comparisons among other groups.",0,0,0,0,0,0,0,0,0,0,0
+134,The accommodation changes remained stable over time (P = 0.71).,0,0,0,0,0,0,0,0,0,0,0
+135,"Changes in pupil size also followed a concentration-dependent response (between-group P < 0.001; Table 2 and Table S1, www.aaojournal.org), but remained stable over time (within-group P = 0.12 and P = 0.15, for photopic and mesopic conditions, respectively).",0,0,0,0,0,0,0,0,0,0,0
+136,"Both near vision and mean distant BCVA in all groups were not affected significantly (P = 0.25 and P = 0.82, respectively; Table 2).",0,0,0,0,0,0,0,0,0,0,0
+137,"Photophobia, Wearing of Progressive Lens, and Other Adverse Events",0,0,0,0,0,0,0,0,0,0,0
+138,Symptoms of photophobia from subjects were different from baseline among groups at the 2-week visit (P < 0.001; Table 3) but were reduced over time in 1 year (P = 0.27; Table 3).,0,0,0,0,0,0,0,0,0,0,0
+139,Participants receiving low-concentration atropine in general did not require progressive lens spectacles (P = 0.86; Table 3).,0,0,0,0,0,0,0,0,0,0,0
+140,"Mean intraocular pressure was similar among all treatment groups (15.3±2.10 mmHg in 0.05%, 15.8±2.06 mmHg in 0.025%, and 15.4±2.07 mmHg in 0.01% atropine groups, and 15.3±2.09 mmHg in placebo group; P = 0.54).",0,0,0,0,0,0,0,0,0,0,0
+141,Occurrence of allergic conjunctivitis was similar among all groups (P = 0.57).,0,0,0,0,0,0,0,0,0,0,0
+142,Thirteen subjects had severe adverse events requiring hospitalization.,0,0,0,0,0,0,0,0,0,0,0
+143,"In the 0.05% atropine group, there was 1 case each of gastroenteritis, influenza, or asthmatic attack.",0,0,0,0,0,0,0,0,0,0,0
+144,"In the 0.025% atropine group, 1 participant had gastroenteritis, 1 participant had pneumonia, 1 participant had elective circumcision surgery, and 2 participants had influenza.",0,0,0,0,0,0,0,0,0,0,0
+145,"In the 0.01% atropine group, 1 participant had a lip injury requiring surgical repair, 1 participant had influenza, and 1 participant had a distal radius fracture requiring plaster-casting.",0,0,0,0,0,0,0,0,0,0,0
+146,"In the placebo group, 2 participants had influenza.",0,0,0,0,0,0,0,0,0,0,0
+147,Side Effects and Adverse Events,0,0,0,0,0,0,0,0,0,0,0
+148,Vision-Related Quality of Life,0,0,0,0,0,0,0,0,0,0,0
+149,There was no difference in the vision-related quality of life among all groups (Table 4).,0,0,0,0,0,0,0,0,0,0,0
+150,"In all 11 domains, the 0.05%, 0.025%, and 0.01% atropine groups, and the placebo group had similar scores (P = 0.07–0.74).",0,0,0,0,0,0,0,0,0,0,0
+151,Values of Visual Function Questionnaire Domains at 1 Year∗,0,0,0,0,0,0,0,0,0,0,0
+152,"In this randomized placebo-controlled trial of low-concentration atropine eye drops (0.05%, 0.025%, 0.01%) in myopia control, we show that all 3 concentrations of atropine reduced myopia progression when compared with placebo, along with a concentration-dependent response.",0,0,0,0,0,0,0,0,0,0,1
+153,"After 1 year, there was a reduction of 67%, 43%, and 27% in mean SE progression and 51%, 29%, and 12% in AL elongation in the 0.05%, 0.025%, and 0.01% atropine groups, respectively, when compared with the placebo group.",0,0,0,0,0,0,0,0,0,0,1
+154,"Of note, the difference in axial elongation between the 0.01% atropine and placebo groups was not significant.",0,0,0,0,0,0,0,0,0,0,1
+155,"All 3 concentrations of atropine were well tolerated by the children in pupil dilatation, accommodation loss, near vision, and best-corrected distant vision.",0,0,0,0,0,0,0,0,0,0,1
+156,There was no reported treatment-related adverse event.,0,0,0,0,0,0,0,0,0,0,1
+157,The vision-related quality of life was not affected.,0,0,0,0,0,0,0,0,0,0,0
+158,Our results altogether have provided new evidence for low-concentration atropine as an effective and safe intervention against myopia progression.,0,0,0,0,0,0,0,0,0,0,0
+159,First Placebo-Controlled Study,0,0,0,0,0,0,0,0,0,0,0
+160,"After the ATOM 2 study, the use of low-concentration atropine 0.01% has surged in popularity.",0,0,0,0,0,0,0,0,0,0,0
+161,"However, ATOM 2 was limited by the lack of a placebo group.",0,0,0,0,0,0,0,0,0,0,0
+162,"By comparing with the historic control group of the ATOM 1 study, ATOM 2 revealed a slower progression rate at −0.49±0.63 D/2 years in the 0.01% atropine group (vs. −1.20±0.69 D/2 years in the placebo group in ATOM 1).",0,0,0,0,0,0,0,0,0,0,0
+163,"However, there was no significant difference in AL elongation between the 2 groups (0.41±0.32 mm/2 years in the 0.01% atropine group in ATOM 2 vs. 0.38±0.38 mm/2 years in the placebo group in ATOM 1).",0,0,0,0,0,0,0,0,0,0,0
+164,A retrospective case-controlled study in whites in the United States also found that 0.01% atropine reduced the rate of myopic progression (−0.1±0.6 D/year in the 0.01% atropine group vs. −0.6±0.4 D/year in controls).,0,0,0,0,0,0,0,0,0,0,0
+165,"However, the results were based on noncycloplegic refraction alone without information on AL.",0,0,0,0,0,0,0,0,0,0,0
+166,"In a retrospective case-control study of 57 Chinese subjects in Taiwan, the 0.05% atropine group had a mean progression rate of 0.28±0.26 D/year, slower than that of the control group at −0.75±0.35 D/year.",0,0,0,0,0,0,0,0,0,0,0
+167,"In another retrospective study in Taiwan Chinese involving low-concentration atropine eye drops ranging from 0.05% to 0.1%, the results suggested low-concentration atropine as a possible strategy for an initial myopia regimen.",0,0,0,0,0,0,0,0,0,0,0
+168,"However, the study was limited by using different concentrations of atropine during the course of the study, with no information on AL.",0,0,0,0,0,0,0,0,0,0,0
+169,Recent meta-analyses and an American Academy of Ophthalmology report also supported the use of low-concentration atropine for myopia control.,0,0,0,0,0,0,0,0,0,0,0
+170,"Nevertheless, placebo-controlled trials on low-concentration atropine are lacking.",0,0,0,0,0,0,0,0,0,0,0
+171,Our study is the first placebo-controlled trial to provide good evidence of efficacy of low-concentration atropine in retarding myopia progression.,0,0,0,0,0,0,0,0,0,0,0
+172,Our data are relevant to children with myopia progression in all parts of the world.,0,0,0,0,0,0,0,0,0,0,0
+173,Concentration-Dependent Response,0,0,0,0,0,0,0,0,0,0,0
+174,Results of this study also proved the concentration-dependent response among low-concentration atropine.,0,0,0,0,0,0,0,0,0,0,0
+175,"Concentration-dependent response had been reported in higher concentrations of atropine: 0.5%, 0.25%, and 0.1%.",0,0,0,0,0,0,0,0,0,0,0
+176,"However, the ATOM 2 study reported a small difference in efficacy of 0.01% atropine compared with 0.1% and 0.5%, thus posing a question of whether a concentration-dependent response exists between 0.01% and 0.1%.",0,0,0,0,0,0,0,0,0,0,0
+177,Two subsequent meta-analyses also did not find a difference in the efficacy of atropine across different concentrations.,0,0,0,0,0,0,0,0,0,0,0
+178,"In contrast, our results demonstrated a clear concentration-dependent response, with 0.05% atropine better than 0.025% and 0.01%.",0,0,0,0,0,0,0,0,0,0,0
+179,"Based on this concentration-dependent response, it would be possible that increasing the frequency of atropine eye drops, for example, to twice per day, may increase its efficacy in retarding myopia progression.",0,0,0,0,0,0,0,0,0,0,0
+180,This should be assessed in further studies.,0,0,0,0,0,0,0,0,0,0,0
+181,Optimal Concentration: Balance between Efficacy and Safety,0,0,0,0,0,0,0,0,0,0,0
+182,The optimal low-concentration atropine eye drops should be the one with the best balance between efficacy and safety.,0,0,0,0,0,0,0,0,0,0,0
+183,"In this study, although all 3 concentrations were well tolerated, 0.05% atropine showed the best efficacy in reducing SE progression and axial elongation over the 1-year period.",0,0,0,0,0,0,0,0,0,0,0
+184,"In a study of 21 subjects aged 6 to 12 years receiving 0.05% atropine, myopia progressed at a rate of 0.28±0.26 D/year compared with 0.75±0.35 D/year in 57 consecutive untreated patients.",0,0,0,0,0,0,0,0,0,0,0
+185,"In a retrospective review of 50 pre-myopia subjects, 24 of whom were given atropine 0.025% treatment, subsequent myopia shift was less (−0.14±0.24 D) in the atropine group compared with controls (−0.58±0.34 D).",0,0,0,0,0,0,0,0,0,0,0
+186,"In the ATOM 2 study, participants in the 0.01% atropine group progressed by 0.43±0.52 D during the first year and then significantly slowed down in the second year with only 0.06 D progression, with a total progression of 0.49±0.63 D over 2 years.",0,0,0,0,0,0,0,0,0,0,0
+187,"Meanwhile, the AL increased by 0.24±0.19 mm during the first year and 0.17 mm during the second year, with a total elongation of 0.41±0.32 mm over 2 years.",0,0,0,0,0,0,0,0,0,0,0
+188,"Although the difference of SE progression of 0.01% atropine was clinically small compared with higher concentrations of 0.1% and 0.5%, its AL elongation was still significant.",0,0,0,0,0,0,0,0,0,0,0
+189,"Of note, the efficacy of the 0.01% atropine group in our study appeared to be less than that of ATOM 2, with SE progression by −0.59±0.6 D and axial elongation by 0.36±0.29 mm over 1 year, with respective reduction of 27% in SE progression and only 12% in axial elongation.",0,0,0,0,0,0,0,0,0,0,0
+190,"It should be noted that the difference of AL changes between the 0.01% atropine and placebo groups in our study also was not significant, which was consistent with the AL results of ATOM 2.",0,0,0,0,0,0,0,0,0,0,0
+191,The efficacy of 0.01% atropine in ATOM 2 was mainly based on the second year with a significantly less SE progression and AL elongation.,0,0,0,0,0,0,0,0,0,0,0
+192,"Therefore, our second-year follow-up results of all 3 atropine concentrations will be important to determine this stabilization effect and the long-term efficacies of different atropine concentrations.",0,0,0,0,0,0,0,0,0,0,0
+193,"However, we found a better efficacy in the 0.05% atropine group, with SE progression by −0.27±0.61 D/year and axial elongation by 0.20±0.25 mm/year, with respective reduction of 67% in SE progression and 51% in AL elongation.",0,0,0,0,0,0,0,0,0,0,0
+194,"Of note, the efficacy of 0.05% atropine in our study was comparable to 0.1% atropine in the ATOM 2 study (−0.31±0.5 D; 0.13±0.18 mm), but with a better tolerance.",0,0,0,0,0,0,0,0,0,0,0
+195,"Nevertheless, direct comparison between our study and ATOM 2 should be cautious, because the age ranges and cohorts were different.",0,0,0,0,0,0,0,0,0,0,0
+196,"One main concern that deters the use of higher-concentration atropine is pupil mydriasis leading to photophobia, risk of cataract, and loss of accommodation resulting in blurry near vision.",0,0,0,0,0,0,0,0,0,0,0
+197,Results of one study suggested the maximum atropine concentration that would not induce symptoms was 0.02%.,0,0,0,0,0,0,0,0,0,0,0
+198,"Notably, all groups of low-concentration atropine in our study (0.05%, 0.025%, and 0.01%) were well tolerated.",0,0,0,0,0,0,0,0,0,0,0
+199,"First, accommodation amplitude reductions in all groups were small.",0,0,0,0,0,0,0,0,0,0,0
+200,"In a functional term, a reduction of within 2 D accommodation amplitude (e.g.,12–10 D) corresponds to an increase of the near point distance from 8.3 to 10 cm, which is not a major issue clinically.",0,0,0,0,0,0,0,0,0,0,0
+201,"Of note, the 0.01% atropine group had accommodation loss similar to the placebo group, which seems to correlate with its relatively weak efficacy.",0,0,0,0,0,0,0,0,0,0,0
+202,"Second, the near vision and best-corrected distant vision in all groups were not affected.",0,0,0,0,0,0,0,0,0,0,0
+203,"Only a few subjects required progressive spectacles, which were similar among all groups.",0,0,0,0,0,0,0,0,0,0,0
+204,"In contrast, 0.5% and 0.1% atropine in the ATOM 2 study led to a reduction of accommodation amplitude of 10.9 D and 2.4 D, and near visual loss of 0.10±0.16 and 0.32±0.19 logMAR units, respectively.",0,0,0,0,0,0,0,0,0,0,0
+205,"Among them, 70% and 61% of subjects receiving 0.5% and 0.1% atropine, respectively, requested progressive glasses for reading.",0,0,0,0,0,0,0,0,0,0,0
+206,"Third, although pupil dilatation was statistically significant among the groups in this study, the effect was small, that is, increased by 1 mm in 0.05% atropine, 0.8 mm in 0.025% atropine, and 0.5 mm in 0.01% atropine.",0,0,0,0,0,0,0,0,0,0,0
+207,"In the ATOM 2 study, pupils were dilated by 3.5 mm in 0.5% atropine, 2.77 mm in 0.1% atropine, and 1.15 mm in 0.01% atropine.",0,0,0,0,0,0,0,0,0,0,0
+208,"We noted a smaller pupil dilatation in our study, even at the same concentration of 0.01% atropine.",0,0,0,0,0,0,0,0,0,0,0
+209,"One reason could be the use of different methods in pupil measurement, making direct comparison difficult.",0,0,0,0,0,0,0,0,0,0,0
+210,"In our study, we used an objective method (i.e., OPD-Scan III) for pupil measurement.",0,0,0,0,0,0,0,0,0,0,0
+211,"As for photophobia, the low-concentration atropine affected fewer subjects than the higher-concentration atropine in reported studies.",0,0,0,0,0,0,0,0,0,0,0
+212,"Notably, in our placebo group, 1 subject requested progressive lenses and 44 subjects took photochromatic glasses.",0,0,0,0,0,0,0,0,0,0,0
+213,"This may suggest that some children were expecting blurring of vision and photophobia after the eye drops, although they received placebo.",0,0,0,0,0,0,0,0,0,0,0
+214,"In addition, parental concern on the potential side effects of increased ultraviolet exposure also might account for the necessities of photochromatic spectacles.",0,0,0,0,0,0,0,0,0,0,0
+215,"Likewise, parental concerns on the side effects or regular use of eye drops may lead to withdrawal from the study, although the dropout rate in our study was small.",0,0,0,0,0,0,0,0,0,0,0
+216,A locally validated Chinese version of the 25-Item National Eye Institute Visual Function Questionnaire was administered to assess the vision-related quality of life at the end of 1 year.,0,0,0,0,0,0,0,0,0,0,0
+217,"This provided a semiquantitative and standardized assessment that comprehensively covered 11 conditions, including general health, general vision, ocular pain, near vision, distance vision, social function, mental health, role limitations, dependency, color vision, and peripheral vision.",0,0,0,0,0,0,0,0,0,0,0
+218,"Of note, our results suggested that the vision and quality of life of subjects receiving 0.05%, 0.025%, and 0.01% atropine were similar to those of subjects receiving placebo.",0,0,0,0,0,0,0,0,0,0,0
+219,"Adverse events requiring hospitalization were reported in 13 subjects, but none of them was related to the atropine use.",0,0,0,0,0,0,0,0,0,0,0
+220,Mechanisms of Low-Concentration Atropine,0,0,0,0,0,0,0,0,0,0,0
+221,Our study confirmed that low-concentration atropine eye drops reduced both SE progression and AL elongation in parallel.,0,0,0,0,0,0,0,0,0,0,0
+222,"The hyperopic shift that occurred in subjects using high concentrations of 1%, 0.5%, and 0.1% atropine in the ATOM studies did not occur in subjects receiving low-concentration 0.05%, 0.025%, and 0.01% atropine in our study.",0,0,0,0,0,0,0,0,0,0,0
+223,"That hyperopic shift in the use of higher concentrations of atropine could be explained in part by the posterior shift of the lens-iris apparatus to the posterior chamber, resulting in a reduction of vitreous chamber depth.",0,0,0,0,0,0,0,0,0,0,0
+224,The anti-myopia mechanisms of atropine are not fully understood.,0,0,0,0,0,0,0,0,0,0,0
+225,Inhibition of accommodation was thought to be involved.,0,0,0,0,0,0,0,0,0,0,0
+226,"However, subsequent studies revealed that atropine could also inhibit myopia in chicks, which have no accommodative facility, indicating a nonaccommodative mechanism via the nicotinic pathway.",0,0,0,0,0,0,0,0,0,0,0
+227,"Atropine could have biochemical effects on the retina or sclera, which in turn affect remodeling of the sclera.",0,0,0,0,0,0,0,0,0,0,0
+228,"First, atropine may function at a relatively low dose via a neurochemical cascade, which begins at M1/4 receptors in the retina, likely in amacrine cells.",0,0,0,0,0,0,0,0,0,0,0
+229,"Second, atropine may inhibit glycosaminoglycan synthesis in scleral fibroblasts via a nonmuscarinic mechanism.",0,0,0,0,0,0,0,0,0,0,0
+230,"Other theories suggest that pupillary dilation may lead to increased ultraviolet exposure, which may limit axial elongation.",0,0,0,0,0,0,0,0,0,0,0
+231,"Myopia may be associated with increased chronic inflammation in the eye, which may be downregulated by atropine.",0,0,0,0,0,0,0,0,0,0,0
+232,Further studies are needed to reveal the anti-myopia mechanism of low-concentration atropine.,0,0,0,0,0,0,0,0,0,0,0
+233,Study Strengths and Limitations,0,0,0,0,0,0,0,0,0,0,0
+234,"The strengths of this study included the randomized and double-blinded design, placebo-controlled inclusion of different low-concentration atropine, large sample size, and low dropout rate.",0,0,0,0,0,0,0,0,0,0,0
+235,"Comprehensive investigations of cycloplegic refraction, ocular biometry, pupil size, accommodation amplitude, and logMAR distant and near visual acuity were conducted.",0,0,0,0,0,0,0,0,0,0,0
+236,Inclusion of locally validated vision-related questionnaires provided a comprehensive and semiquantitative assessment on visual function in subjects receiving various low-concentration atropine eye drops.,0,0,0,0,0,0,0,0,0,0,0
+237,Potential for unmasking of the subjects attributable to the atropine-induced photophobia and cycloplegia was unavoidable in all atropine control trials.,0,0,0,0,0,0,0,0,0,0,0
+238,"However, the rate of photophobia, near vision disturbances, and vision-related quality of life in all groups were essentially similar in our results, which could decrease the chance of unmasking.",0,0,0,0,0,0,0,0,0,0,0
+239,"Furthermore, investigators responsible for assessing all outcome measures were always masked.",0,0,0,0,0,0,0,0,0,0,0
+240,Cycloplegic refraction and biometry were performed only after the child had received the bilateral cycloplegic regimen.,0,0,0,0,0,0,0,0,0,0,0
+241,"Of note, the placebo treatment period was set at 1-year duration in our current study, because it is unethical to let children continue placebo treatment once atropine was proven effective after 1 year.",0,0,0,0,0,0,0,0,0,0,0
+242,"Therefore, placebo-compared efficacy for 0.05%, 0.025%, and 0.01% atropine could not be determined at a 2-year period.",0,0,0,0,0,0,0,0,0,0,0
+243,"Nevertheless, because we will maintain the 3 atropine groups in the next phase of the study, we will be able to confirm whether 0.05% atropine is the best regimen when compared with 0.025% and 0.01% atropine; this, in return, makes the long-term placebo group less necessary.",0,0,0,0,0,0,0,0,0,0,0
+244,"In addition, the RAF rule is a semiobjective method for accommodation measurement, which may lead to overestimation.",0,0,0,0,0,0,0,0,0,0,0
+245,"Although more objective measurements would be preferred, using the RAF rule in our study enabled comparisons with the ATOM 1 and 2 studies.",0,0,0,0,0,0,0,0,0,0,0
+246,We did not measure the corneal endothelial cell counts in the first phase of our study.,0,0,0,0,0,0,0,0,0,0,0
+247,"One laboratory study suggested that atropine may be toxic to corneal endothelium, but clinical evidence is lacking.",0,0,0,0,0,0,0,0,0,0,0
+248,"The current study reported the first-year (Phase 1) results of our randomized controlled trial, which confirmed the efficacy of low-concentration atropine compared with placebo.",0,0,0,0,0,0,0,0,0,0,0
+249,"However, some important questions have yet to be answered.",0,0,0,0,0,0,0,0,0,0,0
+250,"The ATOM 2 study showed a better efficacy of low-concentration atropine in the second year than the first year, in particular the 0.01% group, suggesting a stabilization effect of progression with time, and that the difference between the efficacy of various low-concentration atropine became smaller at the end of second year, resulting in small clinical differences among 0.01%, 0.1%, and 0.5% atropine.",0,0,0,0,0,0,0,0,0,0,0
+251,"Therefore, although we confirmed that atropine 0.05% is better than 0.025% and 0.01% over a 1-year period, it is important to compare their efficacies after 2 years to determine the long-term optimal concentration.",0,0,0,0,0,0,0,0,0,0,0
+252,"After Phase 2 of our trial, we will report the 2-year efficacy and safety profiles of these 3 concentrations.",0,0,0,0,0,0,0,0,0,0,0
+253,"In addition, a rebound phenomenon, that is, refractive changes after cessation of atropine treatment, has been observed in the ATOM 1 and 2 studies.",0,0,0,0,0,0,0,0,0,0,0
+254,There is also the question of whether atropine could be discontinued once the myopia progression was under control.,0,0,0,0,0,0,0,0,0,0,0
+255,This will be addressed in our subsequent study in Phase 3.,0,0,0,0,0,0,0,0,0,0,0
+256,"Finally, in Phase 4, atropine will be resumed in children whose myopia refraction and AL progressed during the washout period to determine the long-term efficacy of low-concentration atropine at a 5-year period.",0,0,0,0,0,0,0,0,0,0,0
+257,"In summary, the results of our LAMP study provide new evidence supporting that 0.05%, 0.025%, and 0.01% atropine reduce myopia progression along a concentration-dependent response.",0,0,0,0,0,0,0,0,0,0,0
+258,All concentrations of atropine were well tolerated without apparent adverse effect on the quality of life.,0,0,0,0,0,0,0,0,0,0,0
+259,"Of the 3 concentrations used, 0.05% atropine was the most effective in controlling SE progression and axial elongation over a period of 1 year.",0,0,0,0,0,0,0,0,0,0,0

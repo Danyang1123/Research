@@ -1,0 +1,125 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To assess the short-term efficacy and safety of corneal collagen cross-linking (CXL) in preventing the progression of keratoconus (KCN).,0,0,N,0,N,N,N,N,N,0,0
+1,This randomized controlled clinical trial enrolled 26 patients diagnosed with bilateral progressive KCN and were eligible for CXL.,0,0,N,0,N,N,N,N,N,0,0
+2,"In each patient, one eye was randomly selected for treatment, and the contralateral eye served as the control.",0,1,N,0,N,N,N,N,N,0,0
+3,The patients underwent CXL with riboflavin drops and ultraviolet radiation in the treated eye.,0,0,N,0,N,N,N,N,N,0,0
+4,One year follow-up data are presented.,0,0,N,0,N,N,N,N,N,0,0
+5,"Postoperatively, patients were assessed for progression of KCN, visual changes, and other findings.",0,0,N,0,N,N,N,N,N,0,0
+6,"The main outcome measures were maximum simulated keratometry (K-max), best spectacle-corrected visual acuity (BSCVA), and average simulated keratometry.",0,0,N,0,N,N,N,N,N,0,0
+7,"<span class=""italic"">P</span> &lt;0.05 was considered as statistically significant.",0,0,N,0,N,N,N,N,N,0,0
+8,"In the treated eyes, the mean K-max values decreased by 0.22 D at 1-year postoperatively and increased by 0.41 D in the control group.",0,0,N,0,N,N,N,N,N,0,0
+9,"This difference was statistically significant (<span class=""italic"">P</span> &lt; 0.001).",0,0,N,0,N,N,N,N,N,0,0
+10,BSCVA improved slightly (a decrease of 0.13 LogMAR) and decreased slightly in the control group (a 0.01 LogMAR increase).,0,0,N,0,N,N,N,N,N,0,0
+11,"The difference between groups was statistically significant (<span class=""italic"">P</span> = 0.014).",0,0,N,1,N,N,N,N,N,0,0
+12,There was no decrease in visual acuity attributable to complications of CXL in the treated eyes.,0,0,N,0,N,N,N,N,N,0,0
+13,"At 1-year, the keratometry in 3 (12%) treated eyes increased by more than 0.50 D and were considered cases of failed treatment.",0,0,N,0,N,N,N,N,N,0,0
+14,Preliminary and 1-year results indicate CXL can halt the progression of KCN in most cases without causing serious complications.,0,0,N,0,N,N,N,N,N,0,0
+15,"Keratoconus (KCN) is a noninflammatory, degenerative corneal condition in which the cornea shows signs of ectasia and progressive thinning.",0,0,N,0,N,N,N,N,N,0,0
+16,"As this ectasia progresses, corneal irregularities form that decrease visual quality precluding spectacle correction in most cases.",0,0,N,0,N,N,N,N,N,0,0
+17,"Although the condition is usually bilateral, the severity in each eye may differ.",0,0,N,0,N,N,N,N,N,0,0
+18,"The incidence of KCN is reported to be around 1 in 2000.<sup><a href=""#ref1"">1</a></sup> However, advanced diagnostic equipment is allowing identification of early stages of KCN and the incidence seems to be higher than previous estimates.<sup><a href=""#ref2"">2</a></sup> KCN usually begins in adolescence and in many cases progresses into moderate and advanced forms that are associated with severe visual impairment.<sup><a href=""#ref3"">3</a></sup><sup><a href=""#ref4"">4",0,0,N,0,N,N,N,N,N,0,0
+19,"Options for improving vision in KCN patients include prescription spectacles, hard contact lenses, and surgical procedures such as implantation of intracorneal ring segments and corneal transplantation.",0,0,N,0,N,N,N,N,N,0,0
+20,"Until recently, there was no treatment to stop or slow the progression of KCN.",0,0,N,0,N,N,N,N,N,0,0
+21,"In the early 90 s, researchers at Dresden University, Germany, investigated methods to prevent or slow the progression of KCN by increasing corneal tensile strength.",0,0,N,0,N,N,N,N,N,0,0
+22,Their efforts lead to the introduction of corneal collagen cross-linking (CXL).,0,0,N,0,N,N,N,N,N,0,0
+23,"The method is based on the observation that creation of cross-links between adjacent collagen molecules can increase the tensile strength of the cornea, and therefore, slow or halt the progress of KCN.<sup><a href=""#ref5"">5</a></sup> As a morphologic correlate of the crosslinking process, significant increases in corneal collagen diameter have been observed after cross-linking.<sup><a href=""#ref6"">6</a></sup> The concepts of CXL originated from physiologic findings and an understanding of the changes that occur during the aging process and diabetes mellitus.",0,0,N,0,N,N,N,N,N,0,0
+24,"The number of cross-links between collagen fibrils increase with age, and this may somehow explain why the progression of KCN halts at older age (physiologic cross-linking).<sup><a href=""#ref7"">7</a></sup> In addition, an increase in CXL in diabetics is due to glycosylation of the cornea and results in increased corneal tensile strength.",0,0,N,0,N,N,N,N,N,0,0
+25,"This may also explain the very low incidence of KCN in diabetics (pathologic cross-linking).<sup><a href=""#ref8"">8",0,0,N,0,N,N,N,N,N,0,0
+26,"In CXL, riboflavin (Vitamin B2) drops are instilled on the cornea to saturate the corneal stroma.",0,0,N,0,N,N,N,N,N,0,0
+27,"Subsequently, the cornea is exposed to ultraviolet (UV) rays.",0,0,N,0,N,N,N,N,N,0,0
+28,"UV radiation causes riboflavin molecules to release free oxygen radicals that lead to irreversible covalent cross-linking between adjacent collagen molecules.<sup><a href=""#ref9"">9</a></sup> Studies have demonstrated that CXL increases the tensile strength of the cornea<sup><a href=""#ref10"">10</a></sup><sup><a href=""#ref11"">11</a></sup> and clinical experience has shown that it can halt progression of KCN.<sup><a href=""#ref2"">2</a></sup><sup><a href=""#ref12"">12</a></sup> However, most clinical studies that have been published to date lack control groups, and only one prospective, randomized controlled study has been reported.<sup><a href=""#ref13"">13",0,0,N,0,N,N,N,N,N,0,0
+29,"We performed a prospective, randomized, controlled study to evaluate the results and complications of CXL associated with the treatment of progressive KCN.",0,0,N,0,N,N,N,N,N,0,0
+30,"This study enrolled patients presenting at the Noor Eye Hospital or Noor Eye Clinic, Tehran, Iran.",0,0,N,0,N,N,N,N,N,0,0
+31,"A total of 35 patients who met the inclusion criteria were enrolled, but only data from 26 cases with complete preoperative examinations and presented at their follow-up visits up to 1-year were used in the analysis.",0,0,N,0,N,N,N,N,N,0,0
+32,"The nine patients, who were not included in the final analysis, missed their follow-up visits for unknown reasons or did not present within the time frame for their final visit which was 12–14 months postoperatively.",0,0,N,0,N,N,N,N,N,0,0
+33,All patients underwent a thorough informed consent procedure that included a discussion of the treatment and procedures in the study.,0,0,N,0,N,N,N,N,N,0,0
+34,All patients signed consent forms before enrollment into the study.,0,0,N,0,N,N,N,N,N,0,0
+35,"Inclusion criteria were age between 15 and 40 years, confirmed bilateral KCN based on clinical and topography findings, bilateral minimum corneal thickness of 400 μm as measured with the Pentacam (Oculus Optikgeräte GmbH, Wetzlar, Germany) maximum keratometry of 60 D in each eye based on Pentacam readings, and evidence that KCN is progressing.",1,0,N,0,N,N,N,N,N,0,0
+36,Both eyes of each patient had to meet the criteria indicative of KCN progression over the previous 12 months.,1,0,N,0,N,N,N,N,N,0,0
+37,"Evidence for KCN progression was determined by chart review, and previous spectacles or base curve of contact lenses.",0,0,N,0,N,N,N,N,N,0,0
+38,KCN was diagnosed as “progressive” if at least one of the following changes were verified:,0,0,N,0,N,N,N,N,N,0,0
+39,"Increased simulated maximum keratometry (sim max K) by at least 1.0 D, based on corneal topography or ≥1.0 D increase in the curvature of the steep meridian based on keratometer measurements",1,0,N,0,N,N,N,N,N,0,0
+40,"Increased cylinder by at least 1.0 D, based on the manifest refraction",0,0,N,0,N,N,N,N,N,0,0
+41,Loss of ≥2 lines of best spectacle-corrected visual acuity (BSCVA) attributable solely to the progression of KCN.,0,0,N,0,N,N,N,N,N,0,0
+42,"The exclusion criteria were corneal scarring in either eye, previous eye surgery, ocular surface or tear problems, and the coexistence of ocular pathology other than KCN.",0,0,N,0,N,N,N,N,N,0,0
+43,"In each patient, one eye was randomly selected for treatment using a computerized random number table, and the contralateral eye served as the control.",0,1,N,0,N,N,N,N,N,0,0
+44,"All eyes underwent complete examinations before treatment, and at 1, 3, 6, 9, and 12 months after CXL.",0,0,N,0,N,N,N,N,N,0,0
+45,"Examinations included uncorrected visual acuity, refraction, BSCVA, slit lamp exam, fundoscopy, Scheimpflug imaging with the Pentacam (Ocular Optikgeräte GmbH, Germany), and pachymetry with an ultrasound pachymeter (Nidek, US 1800, Echoscan, NIDEK Co. Ltd. Gamagori, Japan).",0,0,N,0,N,N,N,N,N,0,0
+46,Patients were advised to discontinue wearing hard contact lenses at least three weeks prior to the procedure and soft contact lenses at least 3 days before.,0,0,N,0,N,N,N,N,N,0,0
+47,The selected eye underwent CXL treatment within 1-month after preliminary preoperative examinations.,0,0,N,0,N,N,N,N,N,0,0
+48,"We used a method similar to that proposed by Wollensak <span class=""italic"">et al</span>.<sup><a href=""#ref12"">12</a></sup> Local anesthesia was achieved by instilling one drop of tetracaine hydrochloride 0.5% (Sina Daru, Iran), three times at 5 min intervals.",0,0,N,0,N,N,N,N,N,0,0
+49,"For the procedure, the lid speculum was placed, and then the epithelium was removed in an 8 mm area of the central cornea.",0,0,N,0,N,N,N,N,N,0,0
+50,"Then we instilled one drop of riboflavin 0.1% in 20% dextran (Streuli pharmaceuticals, Uznach, Switzerland) onto the stroma once every 3 min for 30 min (a total of 10 drops).",0,0,N,0,N,N,N,N,N,0,0
+51,"Once this stage was completed, the patient was examined at the slit lamp to observe the presence of riboflavin and yellow tindall in the anterior chamber.",0,0,N,0,N,N,N,N,N,0,0
+52,"Subsequently the UV-X (IROC, Zürich, Switzerland) was used to irradiate 370 nm UV light, 9 mm in diameter onto the cornea from a distance of 5 cm.",0,0,N,0,N,N,N,N,N,0,0
+53,"Before each treatment session, the UV-X was calibrated to ensure a radiation intensity of 3 mw/cm<sup>2</sup>.",0,0,N,0,N,N,N,N,N,0,0
+54,The cornea was exposed to UV for 30 min while simultaneously instilling riboflavin drops every 3 min.,0,0,N,0,N,N,N,N,N,0,0
+55,"At the end of this procedure, the corneal surface was irrigated with sterile BSS, and then covered with a soft bandage contact lens (Night and Day, Bausch and Lomb, CA, USA).",0,0,N,0,N,N,N,N,N,0,0
+56,"One drop of chloramphenicol 0.5% (Sina Daru, Iran) was instilled and the patient was instructed to topical chloramphenicol four times daily in addition to betamethasone 0.1%, four times daily, and preservative-free artificial tears (hypromelose) as needed.",0,0,N,0,N,N,N,N,N,0,0
+57,Patients were examined on the first and third posttreatment day.,0,0,N,0,N,N,N,N,N,0,0
+58,"On the 3<sup>rd</sup> day, the contact lens would be removed provided that epithelial healing was complete.",0,0,N,0,N,N,N,N,N,0,0
+59,"After the lens removal, chloramphenicol was discontinued, and betamethasone was continued twice daily for one week.",0,0,N,0,N,N,N,N,N,0,0
+60,Betamethasone was not prescribed for a longer duration to mitigate complications such as increased intraocular pressure and also based on the observation that the majority of previous studies limited steroid use to 1 to 2 weeks only.,0,0,N,0,N,N,N,N,N,0,0
+61,Cases with incomplete epithelial healing on the 3<sup>rd</sup> day were examined daily until complete reepithelialization.,0,0,N,0,N,N,N,N,N,0,0
+62,"Main outcome measures during follow-up were BSCVA, the maximum simulated keratometry (K-max) and mean keratometry (K-mean) based on Pentacam readings.",1,0,N,0,N,N,N,N,N,0,0
+63,"The mean, median, and standard deviation were calculated for K-max, K-mean, BSCVA, and spherical equivalent.",0,0,N,0,N,N,N,N,N,0,0
+64,The independent-samples Mann–Whitney U-test was used to compare data in the two groups.,0,0,N,0,N,N,N,N,N,0,0
+65,"A <span class=""italic"">P</span> &lt; 0.05 was considered statistically significant.",0,0,N,0,N,N,N,N,N,0,0
+66,A total of 52 eyes of 26 patients were studied.,0,0,N,0,N,N,N,N,N,0,0
+67,"The mean age of all the patients was, 25.6 ± 5.1 years (range, 15–37 years), 30.8% (<span class=""italic"">n</span> = 8) were male, and 69.2% (<span class=""italic"">n</span> = 18) were female.",0,0,N,0,N,N,N,N,N,0,0
+68,"<a href=""#T1"">Table 1</a> summarizes clinical findings in the treatment and control groups at baseline.",0,0,N,0,N,N,N,N,N,0,0
+69,"Before CXL, the studied variables were comparable in the two groups, and there were no statistically significant differences between the two groups in terms of age, K-mean and BSCVA.",0,0,N,1,N,N,N,N,N,0,0
+70,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,N,0,N,N,N,N,N,0,0
+71,"</span>Preoperative vision, refraction, and topographic parameters of eyes in the treatment and control groups",0,0,N,0,N,N,N,N,N,0,0
+72,"The outcomes for K-max are presented in <a href=""#F1"">Figure 1</a>.",0,0,N,0,N,N,N,N,N,0,0
+73,"The K-max decreased 0.22 ± 0.6 D in the treated group and increased 0.41 ± 0.74 D in the control group [<a href=""#F1"">Figure 1</a>].",0,0,N,0,N,N,N,N,N,1,1
+74,"The change in K-max from before treatment to the 1-year follow examination was statistically significantly different between groups (<span class=""italic"">P</span> = 0.002).",0,0,N,1,N,N,N,N,N,1,1
+75,"The K-max decreased by more than 0.50 D in more than 20% of the treated eyes, in 9.0%, the decrease was more than 1.0 D, and in 7.7% of eye, there was no change in K-max [<a href=""#F2"">Figure 2</a>].",0,0,N,0,N,N,N,N,N,1,1
+76,"The increase in K-max was greater in the control group [<a href=""#F2"">Figure 2</a>].",0,0,N,0,N,N,N,N,N,0,0
+77,There were 12% of eyes in the treatment group that were classified as a failed treatment (&gt;0.5 D increase in K-max) and 38.5% of the eyes in the control group had an increase in K-max &gt;0.5 D.,0,0,N,0,N,N,N,N,N,1,1
+78,"View larger version</a></span><span class=""fig-label"">Figure 1.",0,0,N,0,N,N,N,N,N,0,0
+79,</span>Comparison of changes in maximum keratometry readings over time in the two groups,0,0,N,0,N,N,N,N,N,0,0
+80,"View larger version</a></span><span class=""fig-label"">Figure 2.",0,0,N,0,N,N,N,N,N,0,0
+81,</span>Changes in maximum keratometry in the two groups after 1-year,0,0,N,0,N,N,N,N,N,0,0
+82,"The K-mean improved by 0.1 D from 47.3 D to 47.2 D in the treatment group while the mean increased from 46.1 D to 46.5 D in the control group [<a href=""#F3"">Figure 3</a>].",0,0,N,0,N,N,N,N,N,0,0
+83,"Changes in K-mean from before CXL to 1-year after CXL were statistically significantly different between groups (<span class=""italic"">P</span> = 0.002) [<a href=""#F3"">Figure 3</a>].",0,0,N,1,N,N,N,N,N,1,1
+84,"<a href=""#T2"">Table 2</a> summarizes the changes in BSCVA, cylinder and corneal thickness 1-year after CXL and the differences between groups.",0,0,N,0,N,N,N,N,N,0,0
+85,"View larger version</a></span><span class=""fig-label"">Figure 3.",0,0,N,0,N,N,N,N,N,0,0
+86,</span>Changes in average keratometry readings in the two groups over time,0,0,N,0,N,N,N,N,N,0,0
+87,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,N,0,N,N,N,N,N,0,0
+88,</span>Change of main outcome measures between baseline and 1-year follow-up,0,0,N,0,N,N,N,N,N,0,0
+89,Figure 4</a> presents the changes in spherical equivalent for both groups.,0,0,N,0,N,N,N,N,N,0,0
+90,The spherical equivalent improved after treatment compare to before CXL in the treated group and deteriorated in the control group.,0,0,N,0,N,N,N,N,N,0,0
+91,"There was 0.54 ± 1.65 D less myopia in the treated group compared to 0.4 ± 1.46 D more myopia in the control group (<span class=""italic"">P</span> = 0.125).",0,0,N,0,N,N,N,N,N,0,0
+92,"View larger version</a></span><span class=""fig-label"">Figure 4.",0,0,N,0,N,N,N,N,N,0,0
+93,</span>Comparison of spherical equivalent values in the two groups over time,0,0,N,0,N,N,N,N,N,0,0
+94,Reepithelialization was complete by the 3<sup>rd</sup> day in all treated eyes except one which took 5 days.,0,0,N,0,N,N,N,N,N,0,0
+95,"Grade 1+ or 2+ (Hanna grading)<sup><a href=""#ref14"">14</a></sup> corneal (stromal) haze was present in all treated eyes.",0,0,N,0,N,N,N,N,N,0,0
+96,Corneal haze was similar to post-photorefractive keratectomy eyes.,0,0,N,0,N,N,N,N,N,0,0
+97,The corneal haze resolved between 3 and 6 months after CXL and did not persist in any eye.,0,0,N,0,N,N,N,N,N,0,0
+98,"The demarcation line<sup><a href=""#ref15"">15</a></sup> was visible in the corneal stroma at about two-thirds of the thickness in 20 of 26 treated eyes during the 1<sup>st</sup> month after CXL.",0,0,N,0,N,N,N,N,N,0,0
+99,"In many countries, KCN is the leading cause of keratoplasty, and in others, it is among the most common causes.<sup><a href=""#ref16"">16</a></sup><sup><a href=""#ref17"">17</a></sup> Considering the visual results of keratoplasty, which are far from ideal, and the prevalence of KCN, it is not surprising that CXL has garnered significant attention so quickly after introduction in clinical practice.",0,0,N,0,N,N,N,N,N,0,0
+100,"The main biomechanical feature of KCN is reduced tensile strength.<sup><a href=""#ref18"">18</a></sup> CXL increases corneal rigidity and halts the progression of the condition.",0,0,N,0,N,N,N,N,N,0,0
+101,"Increased corneal rigidity has been confirmed by <span class=""italic"">in-vitro</span><sup><a href=""#ref10"">10</a></sup><sup><a href=""#ref11"">11</a></sup> and <span class=""italic"">in-vivo</span> experiments on human eyes.<sup><a href=""#ref2"">2</a></sup><sup><a href=""#ref12"">12</a></sup> In fact, the mode of action in CXL had never been achieved in previous treatment modalities.",0,0,N,0,N,N,N,N,N,0,0
+102,"One of the main obstacles to evaluating CXL outcomes in halting the progress of KCN arises from the unpredictable behavior and speed of progression between eyes of a patient.<sup><a href=""#ref1"">1</a></sup><sup><a href=""#ref3"">3</a></sup><sup><a href=""#ref18"">18</a></sup> Accurate knowledge of KCN progression in each eye can be achieved by studying its clinical trend over a long time, however, these data are typically unavailable.",0,0,N,0,N,N,N,N,N,0,0
+103,"The inclusion criteria in this study were chosen to overcome this obstacle, and we followed a paired analysis approach; the untreated eye of each patient served as the control for the contralateral treated eye.",0,0,N,0,N,N,N,N,N,0,0
+104,We ensured that KCN was progressing bilaterally and randomized the grouping of eyes into treatment and control groups.,0,0,N,0,N,N,N,N,N,0,0
+105,This approach may minimize the confounding effect of different progression rates in different eyes.,0,0,N,0,N,N,N,N,N,0,0
+106,"To eliminate the potential effect of hard contact lenses, imaging with the Pentacam was performed at least 3 weeks after patients discontinued contact lens wear.",1,0,N,0,N,N,N,N,N,0,0
+107,"The first clinical report concerning CXL was published in 2003 by Wollensak <span class=""italic"">et al</span>., who studied 6 month results in 23 patients.<sup><a href=""#ref12"">12</a></sup> The mean reduction in K-max in their study was 1.4 D, and they had no cases of failed treatment.",0,0,N,0,N,N,N,N,N,0,0
+108,"Hoyer <span class=""italic"">et al</span>.<sup><a href=""#ref19"">19</a></sup> reported 3-years results in 153 eyes, with a mean reduction of 4.0 D in K-max and a 2% (3 eyes) treatment failure.",0,0,N,0,N,N,N,N,N,0,0
+109,"Similar results have been reported from Italy,<sup><a href=""#ref2"">2</a></sup><sup><a href=""#ref20"">20</a></sup> France,<sup><a href=""#ref21"">21</a></sup> and India.<sup><a href=""#ref22"">22</a></sup> All these reports concern case series without controls.",0,0,N,0,N,N,N,N,N,0,0
+110,"Wittig-Silva <span class=""italic"">et al</span>.",0,0,N,0,N,N,N,N,N,0,0
+111,"published the first and only randomized controlled study of CXL.<sup><a href=""#ref13"">13</a></sup> They<sup><a href=""#ref13"">13</a></sup> found the outcomes in the treatment and control cases were statistically significantly different.",0,0,N,0,N,N,N,N,N,0,0
+112,"Average K-max changes at 1-year were −1.45 D and 1.28 D in the treatment and control groups respectively, and were no failed treatments.<sup><a href=""#ref13"">13</a></sup> However, they compared different people, not contralateral eyes.<sup><a href=""#ref13"">13</a></sup> Coskunseven <span class=""italic"">et al</span>.<sup><a href=""#ref23"">23</a></sup> treated one eye with CXL and used the contralateral eye as the control in 29 patients.",0,0,N,0,N,N,N,N,N,0,0
+113,"In each patient, they<sup><a href=""#ref23"">23</a></sup> chose the eye with more advanced KCN for treatment, and there was no randomization.",0,0,N,0,N,N,N,N,N,0,0
+114,"After a mean period of 9 months, the K-max in the treated group decreased by 1.57 D and did not change in the control group.<sup><a href=""#ref23"">23",0,0,N,0,N,N,N,N,N,0,0
+115,"To the best of our knowledge, this is the first study on the effect of CXL in which contralateral eyes are compared, and case selection was randomized.",0,0,N,0,N,N,N,N,N,0,0
+116,"At 1-year, the mean change in K-max was −0.22 D in the treated group and 0.41 D in the control group.",0,0,N,1,N,N,N,N,N,0,0
+117,"In 3 cases (12%), CXL was not successful, and KCN progressed despite treatment.",0,0,N,0,N,N,N,N,N,0,0
+118,"Overall, our findings concur with the literature.",0,0,N,0,N,N,N,N,N,0,0
+119,"CXL can slow or halt the progress of KCN in the treated eye; however, some treatment failures should be expected.",0,0,N,0,N,N,N,N,N,0,0
+120,"Similar to other studies, we observed a decrease in K-max (&gt;0.5 D) in one-third of treated eyes, and this was associated with a slight improvement in BSCVA.",0,0,N,0,N,N,N,N,N,0,0
+121,"Furthermore, the majority of untreated eyes (control eyes) demonstrated increases in K-max, further progression of KCN and decreased BSCVA.",0,0,N,0,N,N,N,N,N,0,0
+122,We encourage more prospective controlled trials to determine if CXL can become part of the standard treatment for progressive KCN.,0,0,N,0,N,N,N,N,N,0,0
+123,"Currently, these studies are rare.<sup><a href=""#ref24"">24</a></sup> The longest reported follow-up has been 6 years.<sup><a href=""#ref25"">25</a></sup> Our study provides some information on the safety and efficacy of this new treatment option, but more extensive studies with longer follow-up are necessary.",0,0,N,0,N,N,N,N,N,0,0

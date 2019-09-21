@@ -1,0 +1,131 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,SIGNIFICANCE: Dry eye is a frequently reported problem among computer users.,0,0,0,0,0,0,0,0,0,0,0
+1,"Low relative humidity environments are recognized to exacerbate signs and symptoms of dry eye, yet are common in offices of computer operators.",0,0,0,0,0,0,0,0,0,0,0
+2,"Desktop USB-powered humidifiers are available commercially, but their efficacy for dry eye relief has not been established.",0,0,0,0,0,0,0,0,0,0,0
+3,"PURPOSE: This study aims to evaluate the potential for a desktop USB-powered humidifier to improve tear-film parameters, ocular surface characteristics, and subjective comfort of computer users.",0,0,0,0,0,0,0,0,0,0,0
+4,"METHODS: Forty-four computer users were enrolled in a prospective, masked, randomized crossover study.",0,0,0,0,0,0,0,0,0,0,0
+5,"On separate days, participants were randomized to 1 hour of continuous computer use, with and without exposure to a desktop humidifier.",0,0,0,0,0,0,0,0,0,0,0
+6,"Lipid-layer grade, noninvasive tear-film breakup time, and tear meniscus height were measured before and after computer use.",0,0,0,1,0,0,0,0,0,0,0
+7,"Following the 1-hour period, participants reported whether ocular comfort was greater, equal, or lesser than that at baseline.",0,0,0,0,0,0,0,0,0,0,0
+8,RESULTS: The desktop humidifier effected a relative difference in humidity between the two environments of +5.4 +/- 5.0% (P < .001).,0,0,0,0,0,0,0,0,0,0,0
+9,Participants demonstrated no significant differences in lipid-layer grade and tear meniscus height between the two environments (all P > .05).,0,0,0,0,0,0,0,0,0,0,0
+10,"However, a relative increase in the median noninvasive tear-film breakup time of +4.0 seconds was observed in the humidified environment (P < .001), which was associated with a higher proportion of subjects reporting greater comfort relative to baseline (36% vs. 5%, P < .001).",0,0,0,0,0,0,0,0,0,0,0
+11,"CONCLUSIONS: Even with a modest increase in relative humidity locally, the desktop humidifier shows potential to improve tear-film stability and subjective comfort during computer use.",0,0,0,0,0,0,0,0,0,0,0
+12,Dry eye and ocular discomfort are commonly reported among computer users.,0,0,0,0,0,0,0,0,0,0,0
+13,"The dramatic increase in the use of computers, in both the home and work environment, has been accompanied by a rise in the prevalence of dry eye symptoms.",0,0,0,0,0,0,0,0,0,0,0
+14,Sustained visual concentration on computer monitors can decrease blinking frequency and potentially increase the exposed ocular surface area.,0,0,1,0,0,0,0,0,0,0,0
+15,"This discourages secretion and distribution of meibomian lipids, contributing to tear-film instability and promoting tear-film evaporation and associated dry eye symptoms.",0,0,0,0,0,0,0,0,0,0,0
+16,"Low-relative-humidity environments are recognized to exacerbate the signs and symptoms of dry eye,  yet offices of computer operators are typically highly air conditioned or centrally heated.",1,0,0,0,0,0,0,0,0,0,0
+17,"Greater water vapor pressure differences between the ocular surface and the surrounding environment can facilitate increased aqueous evaporation from the tear film, further reducing tear-film stability and ocular comfort.",0,0,0,0,0,0,0,0,0,0,0
+18,"Both computer use and low environmental relative humidity can drive borderline dry eye patients toward developing manifest symptoms, and efforts need to be made to tackle this common problem.",0,0,0,0,0,0,0,0,0,0,0
+19,"Current remedies to alleviate dry eye symptoms in the office environment include regular instillation of lubricating eye drops, although the action of these supplements is typically short-lived.",0,0,0,0,0,0,0,0,0,0,0
+20,"Blinking exercises have the potential to improve comfort for computer users ; however, the maintenance of associated benefits requires significant motivation and compliance.",0,0,0,0,0,0,0,0,0,0,0
+21,"Increasing periocular humidity by wearing goggles improves tear-film quality and subjective comfort, but lacks cosmetic appeal in the workplace.",0,0,0,0,0,0,0,0,0,0,0
+22,USB-powered desktop humidifiers are available commercially and are advertised to increase relative humidity locally.,0,0,0,0,0,0,0,0,0,0,0
+23,"However, their efficacy in dry eye relief has not yet been established.",0,0,0,0,0,0,0,0,0,0,0
+24,"The current study was conducted to evaluate the effect of a desktop humidifier on the tear film, ocular surface, and subjective comfort of computer users.",0,0,0,0,0,0,0,0,0,0,0
+25,"This prospective, masked, randomized crossover study followed the tenets of the Declaration of Helsinki and was approved by the institutional human participants ethics committee.",0,0,1,0,0,0,0,0,0,0,0
+26,The study was registered as a clinical trial (ACTRN12617000326392) and abides by the CONSORT statement (,0,0,0,0,0,0,0,0,0,0,0
+27,http://www.consort-statement.org/,0,0,0,0,0,0,0,0,0,0,0
+28,"Subjects were required to be 16 years or older and non-contact lens wearer, with no history of major systemic or ocular disease (other than dry eye), no previous ocular surgery, and no use of topical or systemic medications known to affect the eye.",1,0,0,0,0,0,0,0,0,0,0
+29,Eligible participants were enrolled after providing written informed consent and were required to attend three visits on separate days at the Ocular Surface Laboratory within The University of Auckland Eye Clinic.,0,0,0,0,0,0,0,0,0,0,0
+30,"A total of 46 individuals were tested for eligibility from which 44 eligible participants were enrolled and completed the study, exceeding the sample size requirement for the desired study power.",0,0,0,0,0,0,0,0,0,0,0
+31,The designated outcome for determining sample size was noninvasive tear-film breakup time.,0,0,0,1,0,0,0,0,0,0,0
+32,"Power calculations showed that a minimum of 41 participants was required, to detect a clinically significant difference of 5 seconds, in any of the four pairwise comparisons, with 80% power ([beta] = 0.2) at a two-sided statistical significance level of 5% ([alpha] = 0.05).",0,0,0,0,0,0,0,0,0,0,0
+33,The SD of normal values was estimated to be at 8 seconds.,0,0,0,0,0,0,0,1,0,0,0
+34,"Sample size estimates were determined using a uniform nonparametric adjustment, with PASS 2002 (NCSS Statistical Software LLC, Kaysville, UT).",0,0,0,0,0,0,0,0,0,0,0
+35,"During the enrollment visit, the McMonnies Dry Eye questionnaire was administered, to grade the severity of dry eye symptoms.",0,0,0,0,0,0,0,0,0,0,0
+36,"Although acknowledged to have limitations,particularly in studies involving repeat evaluations, this screening questionnaire was selected as a validated means of gauging dry eye severity and identifying risk factors.",0,0,0,0,0,0,0,0,0,0,0
+37,Participants were then asked to report their average duration of computer use per day.,0,0,0,0,0,0,0,0,0,0,0
+38,"Aqueous tear production was evaluated using a phenol red thread hooked over the lateral third of the lower eyelid, with the wetted length measured after 15 seconds.",0,0,0,0,0,0,0,0,0,0,0
+39,Sodium fluorescein dye was applied to the bulbar conjunctiva in order to evaluate the localized corneal and conjunctival epithelial desiccation.,0,0,0,0,0,0,0,0,0,0,0
+40,"The staining was recorded according to the modified Oxford grading scheme, where the nasal and temporal conjunctivas were each divided into three areas and the cornea into five areas.",0,0,0,0,0,0,0,0,0,0,0
+41,Staining in each area was graded from 0 to 5 with increasing confluence and summed to provide a maximum ocular surface staining score of 55.,0,0,0,0,1,0,0,0,0,0,0
+42,Randomization and Masking of Intervention,0,0,0,0,0,0,0,0,0,0,0
+43,"During the two subsequent visits, participants were required to engage in 1 hour of continuous computer use in the same air-conditioned clinic room.",1,0,0,0,1,0,0,0,0,0,0
+44,"One visit was randomized (by computer-generated random number allocation, generated by an independent researcher and applied to sequentially enrolled participants) to exposure of the USB-powered desktop humidifier (Homi Ltd., Guangdong, China), whereas in the other visit the humidifier was turned off.",0,1,1,0,0,0,0,0,0,0,0
+45,The visits occurred at the same time of the day (to within 1 hour) on two separate days within the same week.,0,0,0,0,0,0,0,0,0,0,0
+46,All visits occurred in the same location.,0,0,0,0,0,0,0,1,1,0,0
+47,"The arrangement of the computer, desktop humidifier, humidity and temperature sensor, and desk and chair within the room was kept the same (Fig.",0,0,0,0,0,0,0,0,0,0,0
+48,The desktop humidifier was placed 60 cm away from the participant's seat.,0,0,0,0,0,0,0,1,0,0,0
+49,"The humidity and temperature sensor was placed at eye level above an adjustable paper tray, 30 cm away from the participant's face.",0,0,1,0,0,0,0,0,0,0,0
+50,Participant masking was achieved by wrapping the humidifier with an opaque black plastic sheet to conceal the indicator light.,0,0,0,0,1,0,0,0,0,0,0
+51,"Participants were informed that water vapor produced by the humidifier may or may not be apparent, depending on the environmental conditions of the room.",0,0,0,0,1,0,0,0,0,0,0
+52,The investigators conducting measurements were masked to treatment exposure.,0,0,0,0,0,1,1,0,1,1,0
+53,Measurements were conducted before and after the 1-hour period of computer use.,0,0,0,0,0,0,0,1,0,1,0
+54,"Temperature and relative humidity were measured locally with a high-precision, rapid-response thermohygrometer (HP21 Thermohygrometer; Rotronic Instruments, West Sussex, U.K.), situated in close proximity to the participant's face (Fig.",0,0,0,0,0,0,0,0,0,1,0
+55,The precision estimate of the relative humidity sensor was +/-1% and the resolution was +/-0.02%.,0,0,0,0,0,0,0,0,0,0,0
+56,"The clinical tests were performed in ascending order of invasiveness, in order to minimize the impact on tear-film physiology for subsequent tests (Table 1).",0,0,0,0,0,0,0,0,0,0,0
+57,"The lower tear meniscus height was determined using a high-magnification digital image under diffuse illumination, which was subsequently calibrated via graticule by ImageJ software (National Institutes of Health, Bethesda, MD).",0,0,0,0,0,0,0,0,0,0,0
+58,Three measurements near the center of the lower meniscus were averaged.,0,0,0,0,0,0,0,1,1,0,0
+59,"Lipid-layer grade and the primary outcome measure, noninvasive tear-film breakup time, were assessed by the Tearscope Plus (Keeler, U.K.), with fine grid insert for noninvasive tear-film breakup time measurements.",0,0,0,1,0,0,0,0,0,0,0
+60,"Lipid-layer grading was based on the Guillon-Keeler grading system: grade 1, open meshwork; grade 2, closed meshwork; grade 3, wave or flow; grade 4, amorphous; grade 5, colored fringes; grade 0, noncontinuous layer due to nonvisibility of lipid or to the presence of abnormal colored fringes.Noninvasive tear-film breakup time was recorded as the time taken, following a blink, for the grid reflection to first show distortion, while the subject maintained fixation and was requested to refrain from blinking.",0,0,0,0,0,0,0,0,0,0,0
+61,Three consecutive breakup time measurements were averaged.,0,0,0,0,0,1,1,0,1,0,0
+62,"Subjectively, participants were requested to compare ocular comfort relative to baseline, following the 1-hour period of computer use, using a force-choice, three-point scale: greater, equal, or lesser comfort.",0,0,0,0,0,0,0,0,0,0,0
+63,"Statistical analyses were performed using GraphPad Prism version 6.02 .Comparisons of continuous variables (relative humidity, temperature, tear meniscus height) between and within groups were performed using paired t tests, where normal distribution had been confirmed by the Kolmogorov-Smirnov test (P > .05).",0,0,0,0,0,0,0,0,0,0,1
+64,Non-normally distributed measures (noninvasive tear-film breakup time) were logarithmically transformed before being assessed by paired t tests.,0,0,0,0,0,0,0,0,0,0,1
+65,Ordinal data (lipid-layer grade) were analyzed using Wilcoxon signed rank tests.,0,0,0,0,0,0,0,0,0,0,1
+66,Categorical data (subjective comfort) were compared using [chi]2 tests or Fisher exact tests.,0,0,0,0,0,0,0,0,0,0,1
+67,"All tests were two-tailed, and P < .05 was considered significant.",0,0,0,0,0,0,0,0,0,0,1
+68,"Statistical correlations between changes in relative humidity, noninvasive tear-film breakup time, and subjective comfort were tested using Spearman rank correlation coefficient.",0,0,0,0,0,0,0,0,0,0,0
+69,"All continuous data are presented as mean +/- SD, ordinal data as median (95% confidence interval), and categorical data as number of participants (% of participants), unless otherwise stated.",0,0,0,0,0,0,0,0,0,0,0
+70,Two prospective participants failed to meet the eligibility criteria and were not enrolled.,0,0,0,0,0,0,0,0,0,1,0
+71,Trial recruitment took place over a 3-month period (June to August 2012) and ceased when a sample size to meet adequate statistical power was reached (with additional 5 to 10% overrecruitment to mitigate against potential dropout).,0,0,0,0,0,0,0,0,0,1,0
+72,A total of 44 enrolled subjects completed both arms of the study and provided full data for analysis.,0,0,0,0,0,0,0,0,0,0,0
+73,"The mean +/- SD age of the 44 enrolled subjects (24 female, 20 male subjects) was 21 +/- 3 years (range, 16 to 37 years).",0,0,0,0,0,0,0,0,0,0,0
+74,Twenty-one subjects (48%) were spectacle wearers.,0,0,0,0,0,0,0,0,0,0,0
+75,"Baseline characteristics and measurements are listed in Tables 2 and 3, respectively.",0,0,0,0,0,1,1,0,0,0,0
+76,"On average, enrolled subjects reported 4.4 +/- 2.1 hours of computer use daily.",0,0,0,0,0,0,0,0,0,0,0
+77,The low McMonnies Dry Eye Questionnaire scores and minimal ocular sodium fluorescein staining showed that dry eye status was not of a severe degree in the current study.,0,0,0,0,0,0,0,0,0,0,0
+78,There were no statistically significant differences in baseline measurements of the participants prior to 1 hour of computer use with and without exposure to the desktop humidifier (all P > .05).,0,0,0,0,0,0,0,0,0,0,0
+79,No adverse events were reported during the trial.,0,0,0,0,0,0,0,0,0,0,0
+80,Local Relative Humidity and Temperature,0,0,0,0,0,0,0,0,0,0,0
+81,"Relative humidity rose significantly from baseline with the desktop humidifier (+3.1 +/- 3.1%, P < .001).",0,0,0,0,0,0,0,0,0,0,0
+82,"Without the humidifier, relative humidity levels dropped (-2.3 +/- 4.4%, P = .001).",0,0,0,0,0,0,0,0,0,0,0
+83,The desktop humidifier thus facilitated an overall difference in relative humidity change of +5.4 +/- 5.0% between the two environments (P < .001).,0,0,0,0,0,0,0,0,0,0,0
+84,There were no significant changes in local room temperatures over the 1-hour period in both groups (both P > .05).,0,0,0,0,0,0,0,0,0,0,0
+85,Tear Film and Ocular Surface Characteristics,0,0,0,0,0,0,0,0,0,0,0
+86,"In both groups, no significant changes in tear meniscus height, lipid-layer grade, or tear meniscus height were observed over the 1-hour period (all P > .05).",0,0,0,0,0,0,0,0,0,0,0
+87,"Noninvasive tear-film breakup time improved following humidifier exposure (P = .01), whereas a significant reduction in breakup time measurements was observed without the humidifier (P = .005).",0,0,0,0,0,0,0,0,0,0,0
+88,"Overall, the desktop humidifier effected a statistically significant difference in the median change of noninvasive tear-film breakup time of +4.0 seconds between groups (P < .001, Fig.",0,0,0,1,0,0,0,0,0,0,0
+89,"Subgroup analysis showed no significant difference in the overall effect of the desktop humidifier on noninvasive tear-film breakup time between spectacle wearers and non-spectacle wearers (median, +4.0 vs. +3.8 seconds; P = .54).",0,0,0,0,0,0,0,0,0,0,0
+90,"Changes in noninvasive tear-film breakup time and local relative humidity were significantly correlated (Spearman [rho] = 0.59, P < .001).",0,0,0,0,0,0,0,0,0,0,0
+91,"Following 1 hour of continuous computer use, a greater proportion of participants exposed to the desktop humidifier reported an improvement in subjective comfort than those without (36% vs. 5%, P < .001, Fig.",0,0,0,0,0,0,0,0,0,0,0
+92,A significantly lower proportion of participants in the humidified environment reported a reduction in ocular comfort (7% vs. 48% P < .001).,0,0,0,0,0,0,0,0,0,0,0
+93,"Subjective comfort was significantly correlated with changes in noninvasive tear-film breakup time (Spearman [rho] = 0.46, P < .001).",0,0,0,1,0,0,0,0,0,0,0
+94,No adverse events were reported during this study.,0,0,0,0,0,0,0,0,0,0,0
+95,"The modern office environment exposes the eyes to a number of provocative stimuli, including continual computer use and low relative humidity.Dry eye associated with computer use is commonly reported.",0,0,0,0,0,0,0,0,0,0,0
+96,The findings of the current study demonstrate a reduction in tear-film stability measurements in participants following 1 hour of continuous computer use in the absence of humidifier exposure.,0,0,0,0,0,0,0,0,0,0,0
+97,"The decreased tear-film stability was reflected in subjective comfort, with almost half (48%) of the participants in the control arm (no humidifier) reporting a reduction in subjective ocular comfort relative to baseline.",0,0,0,0,0,0,0,0,0,0,0
+98,"Computer operation and sustained visual concentration on screen monitors can reduce blinking frequency by a factor of two to three times,relative to that under relaxed conditions.",0,0,0,0,0,0,0,0,0,0,0
+99,"Blinking frequency can be suppressed by the high visual and cognitive load, which overrides other sensory stimuli and cues.",0,0,0,0,0,0,0,0,0,0,0
+100,"Among other functions, the blinking mechanism serves to promote incorporation of meibomian secretions into the tear-film lipid layer, inhibiting aqueous tear evaporation.",0,0,0,0,0,0,0,0,0,0,0
+101,It also facilitates the even distribution of the tear film over the ocular surface.,0,0,0,0,0,0,0,0,1,0,0
+102,"Reduced blinking can therefore affect lipid flow and result in inadequate coverage of the ocular surface, contributing toward tear-film thinning, tear-film breakup, and the formation of dry spots.",0,0,0,0,0,0,0,0,0,0,0
+103,This tear-film instability can be associated with increased tear evaporation and the consequent development of dry eye symptoms.,0,0,1,0,0,0,0,0,0,0,0
+104,"Furthermore, visual concentration and relative up-gaze can widen the palpebral aperture, increasing the exposed ocular surface area, which also encourages thinning and evaporation of the tear film.",0,0,0,0,0,0,0,0,0,0,0
+105,"Low-relative-humidity environments are recognized to exacerbate the severity of dry eye and are common in modern workplaces,  with the widespread use of air conditioning and central heating.",1,0,0,0,0,0,0,0,0,0,0
+106,A greater evaporative driving force results from the larger water vapor pressure gradients between the ocular surface and the surrounding environment.,0,0,0,0,0,0,0,0,0,0,0
+107,"This increases the amount and speed of aqueous tear evaporation, causing ocular discomfort with reduced tear-film stability and cooling of the corneal and conjunctival surfaces.",1,0,0,0,0,0,0,0,0,0,0
+108,The USB-powered desktop humidifier was shown to effect a modest relative change in humidity of +5.4% between the two environments.,0,0,0,0,0,0,0,0,0,0,0
+109,"Nevertheless, a statistically and clinically significant difference was observed in tear-film stability changes between groups, with the humidifier effecting an overall increase in median change of noninvasive tear-film breakup time by 4.0 seconds.",0,0,0,0,0,0,0,0,0,0,0
+110,This may be potentially explained by the reduced water vapor pressure gradients between the ocular surface and surrounding environment contributing toward decreased tear evaporation.,0,0,0,0,0,0,0,0,0,0,0
+111,"Furthermore, a significant correlation was observed between the changes in relative humidity and noninvasive tear-film stability.",0,0,0,0,0,0,0,0,0,0,0
+112,The changes in tear-film stability were also associated with greater subjective comfort among participants exposed to the desktop humidifier than those without.,0,0,0,0,0,0,0,0,0,0,0
+113,This is consistent with previous research that reports that changes in relative humidity can affect tear-film stability and perceived dry eye symptoms.,0,0,0,0,0,0,0,0,0,0,0
+114,"The increased local relative humidity effected by the desktop humidifier may reduce water vapor pressure gradients between the ocular surface and the surrounding environment, potentially contributing toward decreased aqueous tear-film evaporation and improvements in tear-film stability.",0,0,0,0,0,0,0,0,0,0,0
+115,"Local relative humidity was noted to drop by 2.3% in the control arm (no humidifier), which is likely attributed to the underlying air-conditioned environment of the clinic room.",0,0,0,0,1,0,0,0,0,0,0
+116,"Although it is known that increased relative humidity can reduce blinking frequency,  no change in lipid-layer grade was detected with the modest increase in relative humidity effected by the desktop humidifier.",0,0,0,0,0,0,0,0,0,0,0
+117,Efforts were made to ensure that the study was masked.,0,0,0,0,0,0,0,0,0,0,0
+118,The investigators conducting clinical measurements at baseline and postexposure were masked to the allocation status of the participants.,0,0,0,0,0,1,1,0,0,0,0
+119,"Participants were informed that the humidifier may or may not produce water vapor depending on the environmental conditions of the room, and the indicator light of the humidifier was concealed by wrapping the device in an opaque black plastic sheet.",0,0,0,0,0,0,0,0,0,0,0
+120,"Nevertheless, given the randomized crossover design of the study and the difficulty in concealing water vapor production, it is recognized that complete participant masking may not have been fully achievable.",0,0,0,0,0,0,0,0,0,0,0
+121,This is acknowledged to introduce some risk of bias to subjective reports of ocular comfort.,0,0,0,0,0,0,0,0,0,0,0
+122,"Despite this, the investigator-masked objective findings of tear-film stability improvement alone would suggest that humidifier exposure is capable of delivering clinically significant benefits to computer users.",0,0,0,0,0,0,0,0,0,0,0
+123,The findings show that a USB-powered desktop humidifier can potentially provide a means by which computer users may achieve some amount of symptomatic relief from dry eye.,0,0,0,0,0,0,0,0,0,0,0
+124,"In being relatively simple to use and minimally disruptive to computer work, the desktop humidifier offers some advantages over other potential remedies, including lubricating eye drops, blinking exercises, and moisture goggles.",0,0,0,0,0,0,0,0,0,0,0
+125,"An earlier study described the efficacy of an electrospray device, which delivered positively charged liquid droplets to the ocular surface.",0,0,0,0,0,0,0,0,0,0,0
+126,"Although this device also provides minimal interruption to computer work, there were some minor safety concerns regarding the potential exposure and inhalation of castor oil particles.",0,0,0,0,0,0,0,0,0,0,0
+127,"32 In contrast, the desktop humidifier produces only water vapor, and no adverse events were reported by participants in the current study.",0,0,0,0,0,1,1,0,0,0,0
+128,"In conclusion, although the USB-powered desktop humidifier in this study produced only a modest increase in relative humidity locally, significant improvements in tear-film stability and subjective comfort during computer use were demonstrated.",0,0,0,0,0,0,0,0,0,0,0
+129,The desktop humidifier therefore shows potential for dry eye relief for computer users in the modern office environment.,0,0,0,0,0,0,0,0,0,0,0

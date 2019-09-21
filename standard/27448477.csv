@@ -1,0 +1,174 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To objectively and subjectively compare whether reading a story for 30 min from an iPad or from a book in bed prior to sleep will differentially affect sleep.,0,0,N,0,N,N,N,0,0,0,0
+1,"Sixteen students (12 females, mean age 25.1 ± 2.9 years) underwent ambulatory (sleeping in their own beds at home) polysomnographic (PSG) recordings in a counterbalanced crossover design consisting of three PSG nights (one adaptation night, two test nights) and two different reading materials: read from an iPad or from a book.",1,0,N,1,N,N,N,0,0,0,0
+2,Illumination was measured during reading and Karolinska Sleepiness Scale was completed prior to turning the light off.,1,0,N,1,N,N,N,0,0,0,0
+3,Sleep diaries were kept to assess subjective sleep parameters from day to day.,1,0,N,1,N,N,N,0,0,0,0
+4,"Illumination was higher in the iPad condition compared to the book condition (58.3 ± 6.9 vs 26.7 ± 8.0 lux, p <0.001).",1,0,N,1,N,N,N,1,1,1,1
+5,"Reading a story from an iPad decreased subjective sleepiness, delayed the EEG dynamics of slow wave activity by approximately 30 min, and reduced slow wave activity after sleep onset compared to reading from a book.",0,0,N,0,N,N,N,1,1,1,1
+6,No parameters of sleep state timing and sleep onset latency differed between the two reading conditions.,0,0,N,0,N,N,N,1,1,1,1
+7,"Although there was no direct effect on time spent in different sleep states and self-reported sleep onset latency, the use of an iPad which emits blue enriched light impinges acutely on sleepiness and EEG characteristics of sleep pressure.",0,0,N,0,N,N,N,0,0,0,0
+8,"Hence, the use of commercially available tablets may have consequences in terms of alertness, circadian physiology, and sleep.",0,0,N,0,N,N,N,0,0,0,0
+9,Electronic deviceSleep homeostasisBlue lightSleep qualitySleep disturbanceAdolescents,1,0,N,1,N,N,N,0,0,0,0
+10,"In the past few decades we have witnessed a sharp increase in the availability and use of electronic devices such as mobile phones, video game consoles, DVD players, television, audio players, computers, and tablets.",0,0,N,0,N,N,N,0,0,0,0
+11,Along with this accessibility there has been an increase in media use among young people.,0,0,N,0,N,N,N,0,0,0,0
+12,"According to a study conducted by the Kaiser Family Foundation, children and youths, 8–18 years old, now use media for at least 7.5 h per day.",0,0,N,0,N,N,N,0,0,0,0
+13,"Much of the media consumption time (20%) is spent on mobile devices, such as cell phones, tablets, or hand-held videogame players, devices that have become more lightweight and portable making them easier to use, even in bed.",0,0,N,0,N,N,N,0,0,0,0
+14,"Consistent with this, as many as 90–95% of people between the ages of 13 and 64 report the use of some type of electronic media such as television, computer, video game, or cell phone in the hour before bedtime at least once a week.",0,0,N,0,N,N,N,0,0,0,0
+15,Such use has raised concerns as it may lead to insufficient sleep and sleep loss.,0,0,N,0,N,N,N,0,0,0,0
+16,"Sleep is regulated by an interaction between three main factors: the homeostatic drive for sleep, the endogenous circadian system, and behavior.",0,0,N,0,N,N,N,0,0,0,0
+17,The homeostatic sleep drive rises progressively with time spent awake and declines during sleep.,0,0,N,0,N,N,N,0,0,0,0
+18,The classic marker of the homeostatic sleep drive has been slow wave activity in the delta range (1–4 Hz) in the course of non-rapid-eye-movement (NREM) sleep.,0,0,N,0,N,N,N,0,0,0,0
+19,"The circadian system regulates rhythmicity of our physiological functions, among others the sleep–wake rhythm, so that it normally adheres to a 24-h rhythm.",0,0,N,0,N,N,N,0,0,0,0
+20,Light has been shown to shift the timing of the circadian clock.,0,0,N,0,N,N,N,0,0,0,0
+21,"The retinal photoresponsive cell population (intrinsically photoresponsive retinal ganglion cells; ipRGC) contains the photopigment melanopsin, which absorbs a narrow band of wavelengths between 446 and 484 nm – ie, detects blue light.",0,0,N,0,N,N,N,0,0,0,0
+22,"In addition to their connections to our circadian clock, ipRGC cells also project to waking and alerting active areas including the limbic system, striatum, and brainstem.",0,0,N,0,N,N,N,0,0,0,0
+23,"Many screens of electronic devices emit light where short blue wavelengths predominate compared to other light sources with the potential to elicit direct effect on human alertness, sleepiness, and circadian rhythmicity.",0,0,N,0,N,N,N,0,0,0,0
+24,"Epidemiological studies have shown associations between the use of electronic media just before bedtime and delayed bedtime, shortened sleep duration, and increased daytime tiredness.",0,0,N,0,N,N,N,0,0,0,0
+25,"An experimental study showed that bright light exposure with illuminance >6000 lux decreases sleep propensity, but with no effect on sleep consolidation or REM sleep.",0,0,N,0,N,N,N,0,0,0,0
+26,"In line with this, a recent study showed that adolescents exposed to 3-h evening LED screen illumination (∼105 lux) reported higher sleepiness and had longer reaction times when wearing blue blocking glasses compared to clear lenses.",0,0,N,0,N,N,N,0,0,0,0
+27,Blue-enriched polychromatic light at relatively low room light levels has further been shown to impact the homeostatic sleep drive by reducing slow wave activity during the first NREM sleep episode.,0,0,N,0,N,N,N,0,0,0,0
+28,There is a paucity of experimentally and ecologically valid studies on the effects of electronic media just before bedtime and its effect on sleep.,0,0,N,0,N,N,N,0,0,0,0
+29,"One recent study reported that reading from an electronic book for 4 h in the evening delayed sleep onset, reduced evening sleepiness, and delayed timing of the circadian clock (measured by melatonin) compared to reading from a printed book.",0,0,N,0,N,N,N,0,0,0,0
+30,"Still, more studies are needed, especially with more naturally occurring electronic media exposure times.",0,0,N,0,N,N,N,0,0,0,0
+31,Against this backdrop we conducted a randomized controlled trial investigating the effect on sleep of reading a story (for about 30 min) in bed just before turning out the lights from an iPad compared to reading a story (for about 30 min) from a book in bed.,0,0,N,0,N,N,N,0,0,0,0
+32,"We examined subjective measures of sleepiness before turning the lights out, polysomnographic recordings of sleep, and self-reported sleep onset latency the following morning.",0,0,N,0,N,N,N,0,0,0,0
+33,"We explored whether the two conditions (book vs iPad) would lead to different whole night polysomnographic recordings (time in different sleep stages, total sleep time, nocturnal awakenings).",0,0,N,0,N,N,N,0,0,0,0
+34,In terms of specific hypotheses we expected reading from an iPad would result in (1) higher evening subjective alertness and (2) longer subjective and objective sleep onset latency.,0,0,N,0,N,N,N,0,0,0,0
+35,"Moreover, we hypothesized that the dynamics of EEG the first 3 h after sleep onset would differ in the two reading conditions: (1) slow waves, indicators of sleep homeostasis, would be reduced and (2) theta and alpha activity would be higher in the iPad condition compared to the book condition during the first NREM sleep episode.",0,0,N,0,N,N,N,0,0,0,0
+36,"The study was approved by the Regional Committee for Medical and Health Research Ethics, Western Norway (2013/992) and conducted in line with the Declaration of Helsinki of 1964.",0,0,N,0,N,N,N,0,0,0,0
+37,All participants provided informed written consent to participate in the study.,0,0,N,0,N,N,N,0,0,0,0
+38,Twenty volunteers were recruited to the study.,0,0,N,0,N,N,N,0,0,0,0
+39,"All participants were familiar with tablets, were not extreme chronotypes, and were free from sleep, medical, and psychiatric disorders, as assessed by examination and questionnaires.",0,0,N,0,N,N,N,0,0,0,0
+40,No one smoked or used medications that could potentially influence sleep.,0,0,N,0,N,N,N,0,0,0,0
+41,"One week prior to the study, the participants were instructed to keep a regular sleep–wake schedule (bedtimes and time of awakening within ±1 h of the self-selected hours of sleep), and they were requested to stay in bed for at least a time equal to their sleep need.",0,0,N,0,N,N,N,0,0,0,0
+42,"Moreover, they were instructed to abstain from alcohol during the week prior to the experiment and to abstain from caffeine intake after 18:00 h on the recording nights.",0,0,N,0,N,N,N,0,0,0,0
+43,"Four participants were excluded from the study due to period limb movements (PLM) during sleep (PLM index >15, one person), bruxism (one person), and technical issues with the polysomnographic (PSG) recording (two people).",0,0,N,0,N,N,N,0,0,0,0
+44,No participants had an apnea–hypopnea index >5/h.,0,0,N,0,N,N,N,0,0,0,0
+45,"In total, 16 people were included in the study (12 females and four males; age ranged from 22 to 33 years, mean age was 25.1 years, SD = 2.9).",0,0,N,0,N,N,N,0,0,0,0
+46,A counterbalanced crossover design was used and included three nightly ambulatory (sleeping in their own beds at home) polysomnographic recordings: one adaptation night (to account for first night effects and to screen for sleep apnea and periodic limb movement disorder) and two experimental nights.,0,0,N,0,N,N,N,0,0,0,0
+47,"On the two experimental nights, sensors for respiratory events and limb movements were omitted to minimize discomfort for the participants.",0,0,N,0,N,N,N,0,0,0,0
+48,"The participants were randomly allocated to a balanced crossover design; they either read a story (for about 30 min) from a tablet (iPad, Model A1458, Apple, Inc.) in bed just before turning out the lights and then one week later read a story (for about 30 min) from a book just before turning out the lights or they were exposed to the conditions in the reversed order (first read a story from a book, then from a tablet one week later).",0,0,N,0,N,N,N,0,0,0,0
+49,The reading material comprised two different sets of stories.,0,0,N,0,N,N,N,0,0,0,0
+50,The stories were counterbalanced across media (tablet vs book) and across order (tablet first then book vs book first and then tablet).,0,0,N,0,N,N,N,0,0,0,0
+51,"Hence, four orders of conditions were established, each with four participants.",0,0,N,0,N,N,N,0,0,0,0
+52,"Randomization to the four orders was performed by an online randomization calculator (www.randomizer.org) and was stratified by gender, ensuring that three females and one male participated in each order.",0,1,N,0,N,N,N,0,0,0,0
+53,"During the reading sessions in bed, participants were instructed to use ordinary reading light.",0,0,N,0,N,N,N,0,0,0,0
+54,Sleep acquisition and analyses,0,0,N,0,N,N,N,0,0,0,0
+55,"PSG recordings (Titanium, Embla Systems Inc., Broomfield, CO, USA) were montaged according to the AASM Manual for the Scoring of Sleep and Associated Events [19].",0,0,N,0,N,N,N,0,0,0,0
+56,"Briefly, six EEGs, two electrooculograms (EOG), and one electromyogram (EMG; submentalis) were used all three nights.",0,0,N,0,N,N,N,0,0,0,0
+57,"For the adaptation night, additional measurements were used to screen for any sleep disorders: EMG anterior tibialis, electrocardiogram (ECG), and respiration sensors (nasal cannula, thermistor, thoracic and abdominal respiratory inductance pletysmografi and pulsoximetry).",0,0,N,0,N,N,N,0,0,0,0
+58,"PSG recordings were analyzed according to AASM Manual for the Scoring of Sleep and Associated Events by a registered polysomnographic technologist (RPSGT), blinded to the light conditions.",0,0,N,0,N,N,N,0,0,0,0
+59,"Sleep parameters used for further calculations included measures of total sleep time, sleep efficiency, percentage amount of each sleep stage (N1, N2, N3, REM sleep), wake after sleep onset, arousal index, sleep onset latency (the time between lights off and sleep onset), latencies to N3, and REM sleep (the time between sleep onset and first epoch of N3 and REM sleep).",0,0,N,0,N,N,N,0,0,0,0
+60,EEG spectrum analysis was conducted for the first 3 h after sleep onset using an offline Fast Fourier Transformation (FFT) applied on unfiltered EEG signals.,0,0,N,0,N,N,N,0,0,0,0
+61,Analysis was performed at 10-s intervals with Hamming Window and 75% overlap central derivation.,0,0,N,0,N,N,N,0,0,0,0
+62,"EEG power spectra were calculated during NREM sleep in the frequency bands: delta 1 (0.50–1.99 Hz), delta 2 (2.00–3.99 Hz), theta (4.00–7.99 Hz), and alpha (8.00–11.99 Hz) bands.",0,0,N,0,N,N,N,0,0,0,0
+63,An average of different frequency bands was calculated from artifact-free 30-s epochs.,0,0,N,0,N,N,N,0,0,0,0
+64,Mean values were used for statistical analysis.,0,0,N,0,N,N,N,0,0,0,0
+65,Removal of artifacts was performed in two steps: (1) manually: both EEG signals were visually inspected and all epochs containing movement or electrical artifacts were excluded; and (2) semi-automatically: all epochs with EEG power values exceeding mean value multiplied by a factor of 4 were visually inspected and removed if the high value was due to an artifact.,0,0,N,0,N,N,N,0,0,0,0
+66,"The tablet used was an iPad (Model A1458, Apple, Inc.).",0,0,N,0,N,N,N,0,0,0,0
+67,The irradiance spectra relative to 20-cm and 30-cm distances are shown in Fig.,0,0,N,0,N,N,N,0,0,0,0
+68,Note the high content of the blue light spectral irradiance.,0,0,N,0,N,N,N,0,0,0,0
+69,Irradiance spectra from an iPad at 20 cm (white line) and 30 cm (gray line) distances.,0,0,N,0,N,N,N,0,0,0,0
+70,Note the high content of blue light (446–484 nm) spectral irradiance.,0,0,N,0,N,N,N,0,0,0,0
+71,"(For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)",0,0,N,0,N,N,N,0,0,0,0
+72,"To assess the level of illumination, a lux meter was used (PCE-172 Luxmeter).",0,0,N,0,N,N,N,0,0,0,0
+73,The participants measured the illumination at the lateral canthus of the eye when reading the stories.,0,0,N,0,N,N,N,0,0,0,0
+74,Munich Chronotype Questionnaire (MCTQ),0,0,N,0,N,N,N,0,0,0,0
+75,"Chronotype was measured by the MCTQ, which asks participants to report bedtime, time for lights out, sleep onset latency, and wake-up time.",0,0,N,0,N,N,N,0,0,0,0
+76,These parameters are reported for both workdays and days off.,0,0,N,0,N,N,N,0,0,0,0
+77,"The most commonly used index from the MCTQ is the time of the midpoint of sleep on days off, expressed in terms of clock time.",0,0,N,0,N,N,N,0,0,0,0
+78,The scale has high convergent validity.,0,0,N,0,N,N,N,0,0,0,0
+79,None of the participants scored as an extreme chronotype.,0,0,N,0,N,N,N,0,0,0,0
+80,Horne–Östberg Morningness–Eveningness Questionnaire Short Version (MEQr),0,0,N,0,N,N,N,0,0,0,0
+81,Chronotype was furthermore measured by the Adan and Almirall's revised version of the Horne–Östberg Morningness–Eveningness Questionnaire .,0,0,N,0,N,N,N,0,0,0,0
+82,The MEQr consists of five questions regarding the participants' preferences when it comes to chronotype.,0,0,N,0,N,N,N,0,0,0,0
+83,The scale has high external validity.,0,0,N,0,N,N,N,0,0,0,0
+84,None of the participants scored as an extreme chronotype.,0,0,N,0,N,N,N,0,0,0,0
+85,Karolinska Sleepiness Scale (KSS),0,0,N,0,N,N,N,0,0,0,0
+86,Subjective sleepiness just prior to turning the lights off was assessed with the KSS.,0,0,N,0,N,N,N,0,0,0,0
+87,KSS assesses subjective state sleepiness and consists of a scale ranging from 1 to 9 where 1 equals being very alert while 9 reflects the highest level of sleepiness.,0,0,N,0,N,N,N,0,0,0,0
+88,Sleep diaries were kept in order to assess subjective sleep parameters from day to day.,0,0,N,0,N,N,N,0,0,0,0
+89,"Variables derived from the sleep diary comprise sleep onset latency, wake after sleep onset, sleep efficiency, total sleep time, and sleep quality.",0,0,N,0,N,N,N,0,0,0,0
+90,The participants completed the sleep diary each morning upon awakening following the two experimental nights.,0,0,N,0,N,N,N,0,0,0,0
+91,Based on a previous study on the effect of screen illumination on sleep onset latency large effect sizes (Cohen's d = 0.8) on central variables were expected.,0,0,N,0,N,N,N,0,0,0,0
+92,"A power analysis indicated that, for a probability level at 0.05 (two-tailed), and power set at 0.80, 12 subjects were sufficient to detect significant differences.",0,0,N,0,N,N,N,0,0,0,0
+93,We included a total of 16 subjects.,0,0,N,0,N,N,N,0,0,0,0
+94,"Illumination, subjective sleep, and polysomnographic measures of sleep structure were compared with paired sample t-tests.",0,0,N,0,N,N,N,0,0,0,0
+95,"Owing to the large number of comparisons made, a Bonferroni adjustment was applied to the α-level to control for type I errors according to the following groups of variables: (1) sleep onset latency; (2) wake time after sleep onset and total sleep time; (3) arousal index; and (4) N1, N2, N3, and REM sleep % of total sleep time.",0,0,N,0,N,N,N,0,0,0,0
+96,"To examine EEG power in the frequency bands, slow waves (consisting of delta 1 and delta 2), theta and alpha after the two reading conditions, the first 3-h EEG power after sleep onset was computed from central (C3) derivation.",0,0,N,0,N,N,N,0,0,0,0
+97,Comparisons across the two reading conditions were made with repeated-measures of ANOVA with the factors ‘iPad vs book’ and ‘15 min bin’ as repeated measures.,0,0,N,0,N,N,N,0,0,0,0
+98,All significant main and interaction effects were followed up with Fisher LSD post hoc test.,0,0,N,0,N,N,N,0,0,0,0
+99,Significance level was α ≤ 0.05.,0,0,N,0,N,N,N,0,0,0,0
+100,"There were no differences in bedtime and rise time when participants were reading from an iPad compared to a book (all t < 1.6, all p > 0.14).",0,0,N,0,N,N,N,0,0,0,0
+101,"The average sleep duration was 7.8 h vs 7.7 h in the iPad and book conditions, respectively.",0,0,N,0,N,N,N,0,0,0,0
+102,"The illumination was significantly higher in the iPad condition (58.3 ± 6.9 lux) compared to the book condition (26.7 ± 8.0 lux), p <0.001 (see Table 1).",0,0,N,0,N,N,N,0,0,0,0
+103,Illumination and subjective measures of sleepiness and sleep onset latency in participants following reading a story from a tablet compared to reading a story from a book just before turning out the lights.,0,0,N,0,N,N,N,0,0,0,0
+104,"Sleepiness levels were rated higher when reading from a book compared to reading from a tablet (KSS: 7.6 ± 0.3 vs 6.9 ± 0.3, p = 0.035).",0,0,N,0,N,N,N,0,0,0,0
+105,"From the sleep diaries, there was no difference in self-reported latency to sleep (t = 1.4, p = 0.195; see Table 1).",0,0,N,0,N,N,N,0,0,0,0
+106,Sleep structure assessed by polysomnography,0,0,N,0,N,N,N,0,0,0,0
+107,Reading a story from a tablet compared to from a book did not elicit significant differences in objective sleep across the entire night.,0,0,N,0,N,N,N,0,0,0,0
+108,Data for the whole night are presented in Table 2.,0,0,N,0,N,N,N,0,0,0,0
+109,Objective measures of sleep in participants following reading a story from a tablet compared to reading a story from a book just before turning out the lights.,0,0,N,0,N,N,N,0,0,0,0
+110,"Analyses of sleep structure in the first 3 h after sleep onset neither revealed any significant differences in total sleep time, percentage of time spent in N3 and REM sleep, wake after sleep onset, nor arousal index (all t < 1.0, all p > 0.268).",0,0,N,0,N,N,N,0,0,0,0
+111,"To investigate the EEG dynamics across the first 3 h of sleep, we analyzed slow waves (including the lower and higher delta; delta1 and delta2, respectively), theta and alpha activity after sleep onset.",0,0,N,0,N,N,N,0,0,0,0
+112,"Slow waves showed main effects of ‘iPad vs book’ (F(1,15) = 6.1, p = 0.026) and ‘delta1 vs delta2’ (F(1,15) = 65.1, p = 0.000), and an interaction effect between ‘iPad vs book’ × ‘delta1 vs delta2’ × ‘15 min bin’ (F(7,105) = 2.3, p = 0.034).",0,0,N,0,N,N,N,0,0,0,0
+113,"Theta frequencies showed interaction effect between ‘iPad vs book’ × ‘15 min bin’ (F(13,195) = 2.0, p = 0.034).",0,0,N,0,N,N,N,0,0,0,0
+114,There were no significant effects in the alpha band.,0,0,N,0,N,N,N,0,0,0,0
+115,"2, EEG power in the iPad group was lower in the delta 1 and 2 bands 60–105 min after sleep onset compared to the book condition (all p <0.05).",0,0,N,0,N,N,N,0,0,0,0
+116,"Also, the EEG power in the theta band was lower 45–60 and 90–105 min after sleep onset in the iPad condition compared to the book condition.",0,0,N,0,N,N,N,0,0,0,0
+117,Note that the EEG frequencies of delta 1 and 2 peaked approximately 30 min later in the iPad compared to the book condition.,0,0,N,0,N,N,N,0,0,0,0
+118,"Dynamics of absolute values of (A) delta 1 activity (0.50–1.99 Hz), (B) delta 2 activity (2.00–3.99 Hz), (C) theta activity (4.00–7.99 Hz), and (D) alpha activity (8.00–11.99 Hz) during the first 180 min after sleep onset, following reading a story from a tablet (filled symbols) compared to reading a story from a book (open symbols) just before turning out the lights (N = 16; *p < 0.05, **p <0.01, ***p <0.001).",0,0,N,0,N,N,N,0,0,0,0
+119,Our findings prompted us to test whether a delay of 30 min in the delta 1 and 2 frequency bands of the iPad condition could explain the statistical difference in the dynamics of EEG slow waves.,0,0,N,0,N,N,N,0,0,0,0
+120,"When comparing the data for the book condition with 30 min delayed iPad condition data indeed, in the delta 1 band there was no longer significant main effect of ‘iPad vs book.’ There was still an interaction effect with ‘15 min bin,’ but smaller (F(9,135) = 2.3, p = 0.017 vs F(11,165) = 3.7, p <0.001).",0,0,N,0,N,N,N,0,0,0,0
+121,"Moreover, there was no longer a significant interaction effect in the delta 2 band.",0,0,N,0,N,N,N,0,0,0,0
+122,This indicates that EEG slow waves became phase delayed approximately 30 min after reading a story from an iPad compared to reading a story from a book before turning the lights out.,0,0,N,0,N,N,N,0,0,0,0
+123,"Notably, the iPad condition showed a lowered EEG power in the delta 1 band also after correcting for a phase delay (see Fig.",0,0,N,0,N,N,N,0,0,0,0
+124,Delayed EEG dynamics in the iPad group (filled symbols) of approximately 30 min (two time intervals of 15 min) compared to the book group (open circles).,0,0,N,0,N,N,N,0,0,0,0
+125,"Absolute values of (A) delta 1 activity (0.50–1.99 Hz) and (B) delta 2 activity (2.00–3.99 Hz) (N = 16; *p < 0.05, **p <0.01).",0,0,N,0,N,N,N,0,0,0,0
+126,"Reading a story for 30 min on a tablet resulted in higher alertness before turning the lights out, a delayed EEG dynamics of slow wave activity, and reduced slow wave activity after sleep onset compared to reading a story from a book.",0,0,N,0,N,N,N,1,1,1,1
+127,There were no differences in sleep onset latency or time spent in the different sleep stages.,0,0,N,0,N,N,N,1,1,1,1
+128,"As we predicted, participants in the iPad condition reported significantly lower sleepiness at bedtime compared to the book condition.",0,0,N,0,N,N,N,0,0,0,0
+129,"This is in line with previous studies  and can be attributed to the alerting effects of light, involving waking and alerting active areas.",0,0,N,0,N,N,N,0,0,0,0
+130,"However, PSG analyses of the sleep structure in the first 3 h after sleep onset revealed no significant differences in terms of latencies to sleep onset, to deep sleep (N3), or to REM sleep.",0,0,N,0,N,N,N,0,0,0,0
+131,"Moreover, total sleep time, percentage of time spent in N3, and REM sleep were not significantly different between the two conditions.",0,0,N,0,N,N,N,0,0,0,0
+132,"Sleep latency has been reported to be lengthened after 4 h of evening bright light, but not to differ significantly with respect to 2 h of evening light exposure with different polychromatic light intensities.",0,0,N,0,N,N,N,0,0,0,0
+133,"At the same time, sleep latency has been reported to be 10 min longer when reading from an electronic book for 4 h in the evening.",0,0,N,0,N,N,N,0,0,0,0
+134,"Despite small changes in sleep architecture, we found a peak delay in the slow wave EEG dynamics of about 30 min in the iPad condition compared to the book condition.",0,0,N,0,N,N,N,0,0,0,0
+135,"This was perhaps somewhat unexpected due to a moderately low level of light exposure (58.3 ± 6.9 lux), still the findings are in the direction of what was expected from the light phase–response curve .",0,0,N,0,N,N,N,0,0,0,0
+136,"This probably reflects the spectral composition of the light emitted by the iPad, showing a high proportion of blue light wavelength (see Fig.",0,0,N,0,N,N,N,0,0,0,0
+137,"1), and maybe in interaction with the higher light intensity in the iPad compared to the book condition.",0,0,N,0,N,N,N,0,0,0,0
+138,"In humans, exposure to short-wavelength light in the evening has been shown to induce greater circadian and alerting responses than exposure to the same number of photons of longer-wavelength light.",0,0,N,0,N,N,N,0,0,0,0
+139,This is also true at luminance level when measured in photopic lux.,0,0,N,0,N,N,N,0,0,0,0
+140,"Blue-enriched light may accordingly counteract time-dependent and use-dependent sleep drive , resulting in delay and less slow wave activity at the beginning of the first sleep cycles.",0,0,N,0,N,N,N,0,0,0,0
+141,"Hence, the high portion of blue light from the iPad screen in the present study is most likely the causal factor for the peak shift.",0,0,N,0,N,N,N,0,0,0,0
+142,"Reading a story on an iPad did not affect N3 or REM sleep, neither the latency nor total time spent in these sleep stages.",0,0,N,0,N,N,N,0,0,0,0
+143,"However, both the delta 1 and the theta activity during the first 3 h of sleep were lowered compared to the book condition.",0,0,N,0,N,N,N,0,0,0,0
+144,"Alpha activity, an electrographic marker of more aroused stage of sleep or drowsiness, did not differ between the two conditions.",0,0,N,0,N,N,N,0,0,0,0
+145,Taken together this still suggests that the iPad-condition impinges sleep quality compared to the book condition.,0,0,N,0,N,N,N,0,0,0,0
+146,The duration of prior wakefulness is critical when considering the sleep intensity.,0,0,N,0,N,N,N,0,0,0,0
+147,"In the present study, participants kept a regular sleep–wake schedule (bedtimes and time of awakening within ±1 h of the self-selected hours of sleep), thus the differential levels of sleep EEG peak in the delta range cannot be ascribed to differences in prior wake duration.",0,0,N,0,N,N,N,0,0,0,0
+148,"We did not control for prior light exposure, however the study was conducted during the winter season when outdoor light levels are at the lowest in the northern hemisphere.",0,0,N,0,N,N,N,0,0,0,0
+149,Polysomnographic structure of the sleep stages during the whole night remained similar in the two reading conditions.,0,0,N,0,N,N,N,0,0,0,0
+150,"The absence of effects on REM sleep corroborates previous studies on the effects of evening bright light exposure and with different polychromatic light intensities, but differs from reading from an electronic book for 4 h in the evening where less REM sleep was found.",0,0,N,0,N,N,N,0,0,0,0
+151,Sleep consolidation and REM sleep suggest that these variables are less sensitive to use of tablets in bed before turning the lights out.,0,0,N,0,N,N,N,0,0,0,0
+152,"Measures of melatonin were not included in the present study, hence we were precluded from investigating whether the two conditions differed in terms of melatonin suppression  and delay of the circadian rhythm .",0,0,N,0,N,N,N,0,0,0,0
+153,It would also have been a strength if measures of cognitive performance had been included.,0,0,N,0,N,N,N,0,0,0,0
+154,"Also, the type of reading light in the book condition was not assessed.",0,0,N,0,N,N,N,0,0,0,0
+155,"In general, light from a lamp emits considerably less blue light than screens from electronic devices despite a large difference between the traditional bulbs (low content) and halogen bulbs (high content).",0,0,N,0,N,N,N,0,0,0,0
+156,"The light exposure in the two conditions lasted only about 30 min, which might have been too short to induce differences across conditions.",0,0,N,0,N,N,N,0,0,0,0
+157,On the other hand a 30-min exposure time probably reflects common exposure time strengthening the ecological validity of the study.,0,0,N,0,N,N,N,0,0,0,0
+158,"Moreover, the potential effect of electronic media use and light exposure prior to bedtime was not accounted for, although this may have influenced the results.",0,0,N,0,N,N,N,0,0,0,0
+159,Future studies should control for this as well as investigating the effects of different electronic media exposure times in terms of subsequent sleep.,0,0,N,0,N,N,N,0,0,0,0
+160,The fact that the study took place in the participants' own bedrooms further strengthens the ecological validity.,0,0,N,0,N,N,N,0,0,0,0
+161,"Due to the fact that the overall sample size was somewhat limited, subtle difference between the two reading groups would go undetected because of statistical power limitations.",0,0,N,0,N,N,N,0,0,0,0
+162,"The design, a randomized controlled crossover trial, and the use of objective measures of sleep, both in terms of the macro structure as well as the spectral analyses of power bands, are other assets of the study.",0,0,N,0,N,N,N,0,0,0,0
+163,The present study showed that 30 min of reading a story on an iPad in bed before sleeping attenuated sleepiness and impinged acute effects onto the initial sleep EEG power density (slow wave activity and theta).,0,0,N,0,N,N,N,0,0,0,0
+164,These findings may be mediated by a light-induced reduction in accumulated sleep pressure.,0,0,N,0,N,N,N,0,0,0,0
+165,"Even at low illumination level (average 58 lux), light from a tablet can impact directly on the EEG characteristics of sleep.",0,0,N,0,N,N,N,0,0,0,0
+166,"Longer exposure to blue enriched light may elicit stronger and longer-lasting effects on sleep structure, consolidation, sleep EEG activity, timing of the circadian clock (measured by melatonin), and cognitive performance, as shown after 3–4 h of evening LED screen illumination.",0,0,N,0,N,N,N,0,0,0,0
+167,The active technology use in the hours before bedtime underlines the need for future studies focusing on chronic exposure and long-term effects of light from electronic devices on human sleep and cognitive performance.,0,0,N,0,N,N,N,0,0,0,0
+168,"Body and brain undergo several changes with aging (children, young adult, middle-aged and older adults) like progressive loss of neuronal plasticity, attenuation of homeostatic sleep pressure, and increase in cortical activation during sleep.",0,0,N,0,N,N,N,0,0,0,0
+169,"The present study aimed to examine young adults, with a mean age of 25 years.",0,0,N,0,N,N,N,0,0,0,0
+170,Future studies should consequently investigate whether the impact of electronic media on sleep and alertness is modified by age and gender.,0,0,N,0,N,N,N,0,0,0,0
+171,"In conclusion, the use of commercially available tablets such as iPads which emit blue-enriched light in bed has a direct impact on sleepiness and EEG characteristics of sleep pressure.",0,0,N,0,N,N,N,0,0,0,0
+172,"Hence, the use of commercially available tablets may have consequences in terms of alertness, circadian physiology, and sleep.",0,0,N,0,N,N,N,0,0,0,0

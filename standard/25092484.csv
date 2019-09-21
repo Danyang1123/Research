@@ -1,0 +1,344 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Intensive lifestyle interventions have been successful in reducing type 2 diabetes incidence.,0,0,0,0,N,N,0,N,0,0,0
+1,"Whether intensive programmes requiring face-to-face contact, trained staff and access to facilities are feasible, on a larger scale, has been debated.",0,0,0,0,N,N,0,N,0,0,0
+2,"The aim of this study is to determine the feasibility and efficacy of a lifestyle intervention for type 2 diabetes prevention in men using an assessor-blinded, parallel-group, randomised controlled trial.",0,0,0,0,N,N,0,N,0,0,0
+3,"The ‘Type 2 Diabetes PULSE (Prevention Using LifeStyle Education) Programme for Men’ is a 6-month, self-administered, gender-tailored lifestyle intervention, with a multicomponent approach (weight loss, dietary modification, aerobic exercise and resistance training).",0,0,0,0,N,N,0,N,0,0,0
+4,"Eligible men were aged 18–65 years, overweight/obese (BMI 25–40 kg·m− 2) and at high-risk for type 2 diabetes (score ≥ 12, Australian diabetes risk tool).",0,0,0,0,N,N,0,N,0,0,0
+5,"Men with diagnosed prediabetes were eligible, but those with type 1 and 2 diabetes were ineligible.",0,0,0,0,N,N,0,N,0,0,0
+6,Randomisation was stratified by age (< 50 or ≥ 50 years) and BMI category (kg·m− 2: 25–29.9; 30–34.9; 35–40) to the intervention or wait-list control group.,0,0,0,0,N,N,0,N,0,0,0
+7,"Data are collected at study entry (baseline), 3 and 6 months.",0,0,0,0,N,N,0,N,0,0,0
+8,The primary outcome is weight change at 6 months.,0,0,0,0,N,N,0,N,0,0,0
+9,"Secondary outcomes include: fasting plasma glucose, HbA1C, waist circumference, body composition, blood pressure, diet quality, aerobic fitness, muscular fitness and physical activity.",0,0,0,0,N,N,0,N,0,0,0
+10,"Generalised linear mixed models (intention-to-treat) will assess outcomes for treatment (intervention vs. control), time (baseline, 3 and 6-months) and the treatment-by-time interaction.",0,0,0,0,N,N,0,N,0,0,0
+11,The results will determine the efficacy of a type 2 diabetes prevention programme for men with potential for wide reach and dissemination.,0,0,0,0,N,N,0,N,0,0,0
+12,Trial Registration: Australian New Zealand Clinical Trials Registry (ACTRN12612000721808).,0,0,0,0,N,N,0,N,0,0,0
+13,"AESAustralian Eating SurveyANZCTRAustralian New Zealand Clinical Trials RegistryAUDIT-CAlcohol Use Disorders Identification TestAUSDRISKAustralian diabetes risk toolBMIbody mass indexBWbody weightcmcentimetreCONSORTConsolidated Standards of Reporting TrialsDPPdiabetes prevention programmeDPSDiabetes Prevention StudyDQESDietary Questionnaire for Epidemiological StudiesDVDdigital video discE%percentage of total energy intakeFFQfood frequency questionnaireFPGfasting plasma glucoseggramGIglycaemic IndexGSGymstick™hhourHAPSHunter Area Pathology ServiceHbA1Cglycosylated haemoglobinHDLhigh density lipoproteinHOMA-IRHomeostatic Model Assessment-Insulin ResistancekgkilogramskJkilojoulekmkilometreLlitreLDLlow density lipoproteinmmetremgmilligramsminminutemIUmilli-international unitsmLmillilitremmolmillimolesnsample sizePSFPortion Size FactorPULSEPrevention Using LifeStyle EducationQUICKIQuantitative Insulin Sensitivity Check IndexRCTrandomised controlled trialrepsrepetitionsRPMrepetitions per minutesRTresistance trainingssecondsSCTsocial cognitive theorySDstandard deviationSEIFASocio-Economic Indexes for AreasSESsocioeconomic statusSF-12short form 12SHED-ITSelf-Help, Exercise and Diet using Internet TechnologyT2Dtype 2 diabetesUunitsUSUnited StatesVO2maxmaximal oxygen uptakeμmolmicromoles",0,0,0,0,N,N,0,N,0,0,0
+14,Diabetes prevalence is rising globally.,0,0,0,0,N,N,0,N,0,0,0
+15,Current estimates indicate the disease effected 382 million people (8.3%) worldwide in 2013 and is projected to rise to 592 million (10.1%) by 2035.,0,0,0,0,N,N,0,N,0,0,0
+16,"Individuals with type 2 diabetes (T2D) have a high risk of cardiovascular disease, retinopathy, nephropathy and neuropathy.",0,0,0,0,N,N,0,N,0,0,0
+17,"It is possible to prevent/delay progression to T2D with lifestyle interventions (e.g., US Diabetes Prevention Program [DPP]; Finnish Diabetes Prevention Study [DPS]), which may increase life expectancy and quality of life, and reduce health care costs.",0,0,0,0,N,N,0,N,0,0,0
+18,"Whether these highly intensive lifestyle programmes requiring face-to-face contact, trained staff and access to facilities are feasible, on a larger scale, has been questioned.",0,0,0,0,N,N,0,N,0,0,0
+19,"For example, the DPP lifestyle intervention involved a minimum of 16 individual face-to-face curriculum sessions over 24 weeks and an additional two supervised group exercise classes per week.",0,0,0,0,N,N,0,N,0,0,0
+20,"The direct cost of the intervention was US$1399 per person over one year, with 54% (US$750) of the cost attributed to staffing.",0,0,0,0,N,N,0,N,0,0,0
+21,"There is a need for effective programmes that are less time and resource intensive, allowing for greater reach, especially in regional, rural and remote areas.",0,0,0,0,N,N,0,N,0,0,0
+22,A lifestyle intervention that is self-administered is a possible solution for reducing costs and enhancing wider implementation.,0,0,0,0,N,N,0,N,0,0,0
+23,"This approach has been successful in achieving weight loss for men, however there is a paucity of information regarding the feasibility and efficacy of self-administered interventions for T2D prevention and/or risk reduction.",0,0,0,0,N,N,0,N,0,0,0
+24,"A self-administered lifestyle intervention would eliminate the need for highly skilled staff or facilities and their associated costs, and could be practical, sustainable and economically viable, however efficacy needs to be established.",0,0,0,0,N,N,0,N,0,0,0
+25,"Therefore rigorous trials investigating the feasibility and efficacy of self-administered multicomponent (weight loss, dietary modification, exercise) lifestyle interventions for T2D prevention are needed.",0,0,0,0,N,N,0,N,0,0,0
+26,Self-administered lifestyle interventions may also be particularly appealing to men who tend to favour programmes that do not require regular face-to-face individual or group sessions.,0,0,0,0,N,N,0,N,0,0,0
+27,"Furthermore, the novel use of a gender-tailored approach combined with the use of resistance training as a prescribed exercise choice may enhance the appeal of self-administered lifestyle interventions for men and result in greater programme efficacy.",0,0,0,0,N,N,0,N,0,0,0
+28,"The aims of this study are to determine the feasibility and efficacy of the “Type 2 Diabetes PULSE (Prevention Using LifeStyle Education) Programme for Men”, to improve T2D risk biomarkers in overweight/obese men at risk of T2D (including men already diagnosed with prediabetes).",0,0,0,0,N,N,0,N,0,0,0
+29,"The PULSE Programme is a 6-month, self-administered, gender-tailored, multicomponent (weight loss, dietary modification and aerobic exercise + resistance training) lifestyle intervention.",0,0,0,0,N,N,0,N,0,0,0
+30,We hypothesise that the PULSE Programme intervention group will achieve a significant and clinically meaningful reduction in weight (primary outcome) at 6 months post baseline (primary time point) compared to a wait-list control group.,0,0,0,0,N,N,0,N,0,0,0
+31,"Secondary outcomes include glycosylated haemoglobin (HbA1C), fasting plasma glucose (FPG), waist circumference, body composition, blood pressure, diet quality, aerobic fitness, muscular fitness and physical activity.",0,0,0,0,N,N,0,N,0,0,0
+32,"This trial addresses several evidence gaps in the field of T2D prevention, including the feasibility and efficacy of: i) self-administered lifestyle interventions, ii) multicomponent lifestyle interventions incorporating weight loss strategies, dietary modification, aerobic exercise and resistance training , and iii) home-based resistance training [10].",0,0,0,0,N,N,0,N,0,0,0
+33,To our knowledge this will also be the first T2D prevention trial gender-tailored for men.,0,0,0,0,N,N,0,N,0,0,0
+34,"This study is an assessor-blinded, parallel-group randomised controlled trial (RCT) for overweight/obese men at high risk of T2D.",1,1,1,1,N,N,1,N,1,0,0
+35,"Eligible participants were stratified (age, BMI) and then randomised to either the 6-month PULSE Programme intervention or a wait-list control group.",1,1,1,1,N,N,1,N,1,0,0
+36,1 describes the study flow from recruitment through to baseline and assessments at 3 and 6 months (primary time point).,0,0,0,0,N,N,0,N,0,0,0
+37,The study is approved by the institution's Human Research Ethics Committee.,0,0,0,0,N,N,0,N,0,0,0
+38,The study is registered with the Australian New Zealand Clinical Trials Registry (ANZCTR): ACTRN12612000721808.,0,0,0,0,N,N,0,N,0,0,0
+39,"The design, conduct and reporting of this study will adhere to the Consolidated Standards of Reporting Trials (CONSORT) guidelines.",0,0,0,0,N,N,0,N,0,0,0
+40,CONSORT flowchart describing the progress of participants through the study.,0,0,0,0,N,N,0,N,0,0,0
+41,"Participants: eligibility, recruitment and screening",0,0,0,0,N,N,0,N,0,0,0
+42,"The trial recruited overweight/obese men at high risk for T2D, including those already diagnosed with prediabetes.",0,0,0,0,N,N,0,N,0,0,0
+43,The eligibility and exclusion criteria are described in Table 1.,0,0,0,0,N,N,0,N,0,0,0
+44,High risk for T2D was based on a score ≥ 12 on the Australian diabetes risk tool (AUSDRISK).,0,0,0,0,N,N,0,N,0,0,0
+45,Individuals were not required to be diagnosed with prediabetes prior to study entry or to have blood glucose values in the prediabetes range at the baseline time point.,0,0,0,0,N,N,0,N,0,0,0
+46,Eligibility criteria for the trial.,0,0,0,0,N,N,0,N,0,0,0
+47,•Overweight or obese (BMI 25–40 kg·m− 2),0,0,0,0,N,N,0,N,0,0,0
+48,•High risk for T2D based on the AUSDRISK screening tool (≥ 12 points),0,0,0,0,N,N,0,N,0,0,0
+49,•Passed the pre-exercise screening assessment,0,0,0,0,N,N,0,N,0,0,0
+50,•Previously diagnosed with type 1 or 2 diabetes,0,0,0,0,N,N,0,N,0,0,0
+51,•History of major medical problems such as heart disease or stroke in the last five years that would prevent them from exercising,0,0,0,0,N,N,0,N,0,0,0
+52,orthopaedic or joint problems that would be a barrier to physical activity,0,0,0,0,N,N,0,N,0,0,0
+53,•Recently lost 5% or more of their body weight (previous 6 months),0,0,0,0,N,N,0,N,0,0,0
+54,•Currently taking medications that are affected by weight loss or had resulted in weight gain or loss in the last three months,0,0,0,0,N,N,0,N,0,0,0
+55,•Currently participating in an alternative weight loss programme,0,0,0,0,N,N,0,N,0,0,0
+56,•Intending to participate in other weight loss programmes during the study period,0,0,0,0,N,N,0,N,0,0,0
+57,•Not available for assessment sessions,0,0,0,0,N,N,0,N,0,0,0
+58,Recruitment for the trial commenced in August 2012 and has now been completed.,0,0,0,0,N,N,0,N,0,0,0
+59,"Participants were recruited from the Hunter region, New South Wales, Australia, through advertisements on radio, television, newspapers, University website, emails to male dominated workplaces and via the Hunter Medical Research Institute volunteer register.",0,0,0,0,N,N,0,N,0,0,0
+60,"Interested participants contacted the study team via phone or email and were then directed to an online screening questionnaire to assess eligibility (Table 1), which included the AUSDRISK tool.",0,0,0,0,N,N,0,N,0,0,0
+61,Men were also required to pass an adult pre-exercise screening questionnaire.,0,0,0,0,N,N,0,N,0,0,0
+62,The trial did not exclude men based on their current medication regimen unless a particular medication was known to effect or be affected by lifestyle changes and weight loss.,0,0,0,0,N,N,0,N,0,0,0
+63,"All participants who were flagged as having medical issues from the pre-exercise screening questionnaire and those taking certain medications were additionally screened to determine eligibility by the chief investigator (RC), who is an exercise physiologist and registered pharmacist.",0,0,0,0,N,N,0,N,0,0,0
+64,"Those who presented with medical issues identified through the screening process, as well as all men ≥ 45 years of age, were required to obtain clearance from their doctor to participate in the study.",0,0,0,0,N,N,0,N,0,0,0
+65,"This process aimed to ensure that participants could safely participate in the diet and exercise programme, and primarily excluded participants for whom it might be unsafe to exercise unsupervised.",0,0,0,0,N,N,0,N,0,0,0
+66,"Eligible participants were then sent an information statement via email detailing the requirements of the study, the anticipated benefits and risks, the required commitment level, and a consent form (with doctors' clearance form if required).",0,0,0,0,N,N,0,N,0,0,0
+67,All participants were required to provide written informed consent prior to enrolment.,0,0,0,0,N,N,0,N,0,0,0
+68,It is important to note that individuals with type 1 or 2 diabetes were not eligible for this trial.,0,0,0,0,N,N,0,N,0,0,0
+69,"However, individuals with undiagnosed T2D or who develop T2D during the course of the trial will remain eligible for the trial and will be included in statistical analyses at all stages.",0,0,0,0,N,N,0,N,0,0,0
+70,These individuals will be advised to discuss their results with their general practitioner (medical doctor).,0,0,0,0,N,N,0,N,0,0,0
+71,"This is considered an appropriate course of action since individuals with T2D are advised to modify their lifestyle behaviours in a similar way as recommended for at risk or prediabetic individuals (weight loss, diet and exercise).",0,0,0,0,N,N,0,N,0,0,0
+72,There appears to be little difference in the prevalence of T2D among men and women globally.,0,0,0,0,N,N,0,N,0,0,0
+73,T2D prevention studies to date have largely included both men and women and reported the results collectively.,0,0,0,0,N,N,0,N,0,0,0
+74,"Recent reports suggest that studies with weight loss as a targeted component may have greater appeal, retention, adherence, and ultimately be more effective if the programmes are gender exclusive and gender-tailored.",0,0,0,0,N,N,0,N,0,0,0
+75,The use of gender-tailored health messages is an important strategy for engaging men and has been shown to be effective in weight loss programmes for men.,0,0,0,0,N,N,0,N,0,0,0
+76,"Furthermore, a recent systematic review highlighted the limited evidence regarding gender exclusive or gender-tailored lifestyle interventions for T2D prevention.",0,0,0,0,N,N,0,N,0,0,0
+77,The current trial aims to address this evidence gap.,0,0,0,0,N,N,0,N,0,0,0
+78,"The PULSE Programme self-administered lifestyle intervention focuses on improving dietary and exercise behaviours, with the goal of inducing moderate weight loss and improving glycaemic control and other risk factors for T2D.",0,0,0,0,N,N,0,N,0,0,0
+79,"The use of a self-administered approach with minimal face-to-face contact greatly reduces the costs associated with intervention delivery (e.g., dietary counselling, supervised exercise sessions, facility use and transport).",0,0,0,0,N,N,0,N,0,0,0
+80,The PULSE Programme intervention was informed by a series of resources including:,0,0,0,0,N,N,0,N,0,0,0
+81,(i)The International Diabetes Federation — ‘Diabetes Education Modules’ (http://www.idf.org/diabetes-education-modules),0,0,0,0,N,N,0,N,0,0,0
+82,(ii)The American Diabetes Association position statement — ‘Nutrition recommendations and interventions for diabetes’,0,0,0,0,N,N,0,N,0,0,0
+83,(iii)Previous research from our group on the ‘SHED-IT Weight Loss Programme’,0,0,0,0,N,N,0,N,0,0,0
+84,(iv)The ‘Australian Guide to Healthy Eating’ (http://www.eatforhealth.gov.au/),0,0,0,0,N,N,0,N,0,0,0
+85,(v)Current exercise guidelines for T2D treatment and prevention,0,0,0,0,N,N,0,N,0,0,0
+86,(vi)The Diabetes Australia website (www.diabetesaustralia.com.au).,0,0,0,0,N,N,0,N,0,0,0
+87,Participants randomised to the intervention group received the PULSE Programme resource pack after their baseline assessment.,0,0,0,0,N,N,0,N,0,0,0
+88,All resources and materials for the PULSE Programme intervention were provided at this time point with no further content provided at later time points.,0,0,0,0,N,N,0,N,0,0,0
+89,Each participant was given a standardised individual 15-minute orientation to the resource pack components and programme structure.,0,0,0,0,N,N,0,N,0,0,0
+90,"Otherwise the programme was entirely self-administered, with no further face-to-face, telephone, SMS or email contact for intervention delivery or self-monitoring prompting.",0,0,0,0,N,N,0,N,0,0,0
+91,The authors believe that following this procedure will best reflect the real world application of the programme and minimise any sense of accountability resulting from being part of a research trial.,0,0,0,0,N,N,0,N,0,0,0
+92,The PULSE Programme resource pack consisted of the following.,0,0,0,0,N,N,0,N,0,0,0
+93,"The ‘PULSE Type 2 Diabetes Prevention Handbook for Men’ provides key information under the headings “Type 2 Diabetes Prevention”, “Eating to Beat Type 2 Diabetes” and “The Essential Exercises for Type 2 Diabetes Prevention”.",0,0,0,0,N,N,0,N,0,0,0
+94,Each section provides examples and recommends behaviour change strategies to help the men decrease their risk of T2D.,0,0,0,0,N,N,0,N,0,0,0
+95,"Based on current guidelines for healthy eating and T2D management, the underlying dietary recommendation targets a macronutrient distribution (percentage of total energy intake, E%) of 45–60% carbohydrate; 20–35% fat; 10–20% protein (0.8 g·kg− 1 body weight per day).",0,0,0,0,N,N,0,N,0,0,0
+96,"Additional recommendations include limiting saturated fat intake (< 7% of total E%), including monounsaturated fat (> 10% of E%)  and polyunsaturated fat (< 10% of E%) , consuming lean proteins, limiting salt intake to 1500–2300 mg·day− 1, achieving a high fibre intake of 25–50 g·day− 1, and consuming a low glycaemic index (GI) diet.",0,0,0,0,N,N,0,N,0,0,0
+97,"Examples of foods that would assist in achieving these dietary targets (e.g., low GI, high fibre foods) are provided in the handbook.",0,0,0,0,N,N,0,N,0,0,0
+98,"In addition, dietary targets can be tracked using the Calorieking™ self-monitoring tool to track their dietary composition (macronutrients, fibre, sodium, etc.)",0,0,0,0,N,N,0,N,0,0,0
+99,"The ‘PULSE Exercise Support Book for Men’ and Gymstick™: based on current exercise guidelines for T2D treatment and prevention, participants are advised to do a minimum 210 min of exercise per week (or 30 min a day), comprising 150 min of aerobic physical activity per week (e.g., 5 × 30 min sessions) and at least 60 min (2 × 30 min) of resistance training (RT) per week.",0,0,0,0,N,N,0,N,0,0,0
+100,"Participants are asked to choose aerobic exercise(s) that they enjoy such as walking, jogging, swimming or cycling.",0,0,0,0,N,N,0,N,0,0,0
+101,"In order to facilitate RT in the home setting (unsupervised), participants are provided with a Gymstick™, a resistance band device with adjustable resistance loads and an accompanying RT programme covering the major muscle groups of the body (Table 2).",0,0,0,0,N,N,0,N,0,0,0
+102,"A range of dynamic and isometric exercises utilising the Gymstick™, as well as body weight exercises, are incorporated in the programme, with instructions and pictures for the activities.",0,0,0,0,N,N,0,N,0,0,0
+103,Participants are asked to complete a minimum of two of the three provided sessions per week in order to meet the exercise guidelines for T2D (approximately 30 min per session).,0,0,0,0,N,N,0,N,0,0,0
+104,The RT sessions are designed to be progressive throughout the intervention period by increasing the repetitions/duration of the exercises and the number of sets performed.,0,0,0,0,N,N,0,N,0,0,0
+105,"After week 12 (mid programme), participants are encouraged to design their own eight-exercise circuit to follow for the remainder of the intervention to provide the men with a greater level of autonomy.",0,0,0,0,N,N,0,N,0,0,0
+106,"Participants are advised to perform a 5-minute warm up and cool down, including a selection of post-workout stretching exercises.",0,0,0,0,N,N,0,N,0,0,0
+107,"For some exercises, specific guidelines are provided regarding the safe performance of the activity.",0,0,0,0,N,N,0,N,0,0,0
+108,Participants are asked to record their exercise sessions in a log book section of the ‘PULSE Exercise Support Book for Men’ and to return their support book to the investigators at each assessment for photocopying.,0,0,0,0,N,N,0,N,0,0,0
+109,Participants are instructed to perform exercises A–H (1 round).,0,0,0,0,N,N,0,N,0,0,0
+110,"During week 1, participants completed 2 rounds in total, with 30 s rest between the exercises and 2 min rest between rounds.",0,0,0,0,N,N,0,N,0,0,0
+111,Participants are instructed to select a resistance level (number of coils) for the Gymstick exercises so that they could just complete the indicated number of repetitions.,0,0,0,0,N,N,0,N,0,0,0
+112,"BW — bodyweight, GS — Gymstick, and reps – repetitions.",0,0,0,0,N,N,0,N,0,0,0
+113,"The SHED-IT Weight Loss Programme (Self-Help, Exercise and Diet using Internet Technology) philosophy is centred on making realistic and sustainable changes to eating and exercise behaviours that result in weight loss.",0,0,0,0,N,N,0,N,0,0,0
+114,The SHED-IT Weight Loss Programme is a key component of the PULSE Programme as weight loss was the main predictor of reduced diabetes incidence in the US DPP.,0,0,0,0,N,N,0,N,0,0,0
+115,The SHED-IT Weight Loss Programme has been evaluated in previous studies and the intervention components are described extensively elsewhere.,0,0,0,0,N,N,0,N,0,0,0
+116,"It should be noted that the original SHED-IT Weight Loss Programme intervention duration was 3 months, but has been extended to 6 months for the PULSE Programme intervention.",0,0,0,0,N,N,0,N,0,0,0
+117,i.The ‘SHED-IT Weight Loss DVD for Men’,0,0,0,0,N,N,0,N,0,0,0
+118,ii.The ‘SHED-IT Weight Loss Handbook for Men’,0,0,0,0,N,N,0,N,0,0,0
+119,iii.The ‘SHED-IT Weight Loss Log Book for Men’,0,0,0,0,N,N,0,N,0,0,0
+120,vi.A user guide for the Calorieking™ self-monitoring tool,0,0,0,0,N,N,0,N,0,0,0
+121,vii.The Calorieking™ ‘Calorie Fat and Carbohydrate Counter’ booklet.,0,0,0,0,N,N,0,N,0,0,0
+122,"Participants are advised to set their own weight loss goals or weight target, aiming for 0.5–1 kg weight loss per week or roughly 10 kg over the 6-month programme.",0,0,0,0,N,N,0,N,0,0,0
+123,A tape measure is provided to allow regular measurement of waist circumference and a pedometer is provided to track physical activity step counts.,0,0,0,0,N,N,0,N,0,0,0
+124,"Self-monitored weight, waist circumference and pedometer step counts are recorded each week in the ‘SHED-IT Weight Loss Log Book for Men’.",0,0,0,0,N,N,0,N,0,0,0
+125,Participants return this log book to the investigators at each assessment for photocopying.,0,0,0,0,N,N,0,N,0,0,0
+126,Participants are encouraged to self-monitor their dietary intake and physical activity using the Calorieking™ (www.calorieking.com.au) website in order to create a 2000 kilojoule (kJ) deficit on most days.,0,0,0,0,N,N,0,N,0,0,0
+127,Participants are provided with a Calorieking™ user guide developed by our research team.,0,0,0,0,N,N,0,N,0,0,0
+128,This was supplemented with the Calorieking™ ‘Calorie Fat and Carbohydrate Counter’ booklet.,0,0,0,0,N,N,0,N,0,0,0
+129,Participants are advised to use the food and exercise diaries at least 4 days per week and record their weight online once a week.,0,0,0,0,N,N,0,N,0,0,0
+130,Please note — the current trial did not provide individualised participant feedback during the intervention period.,0,0,0,0,N,N,0,N,0,0,0
+131,"The process followed is similar to a recent version of the SHED-IT Weight Loss Programme, but differs to an earlier version of the SHED-IT Weight Loss Programme, which provided individualised participant feedback to the online intervention group only.",0,0,0,0,N,N,0,N,0,0,0
+132,Theoretical framework for behaviour change,0,0,0,0,N,N,0,N,0,0,0
+133,"In order to successfully engage men in the process of lifestyle behaviour change, the PULSE Programme (and its constituent components) operationalises Bandura's Social Cognitive Theory (SCT).",0,0,0,0,N,N,0,N,0,0,0
+134,"SCT defines a framework of key constructs based on the determinants of behaviour, the mechanisms of action and the optimal strategies for effecting positive health behaviour change.",0,0,0,0,N,N,0,N,0,0,0
+135,"Perceived self-efficacy (i.e., the belief in ones own ability to successfully complete tasks and/or succeed in particular scenarios) is thought to be the most important construct of SCT and is suggested to directly effect health behaviour.",0,0,0,0,N,N,0,N,0,0,0
+136,"Other constructs include goal setting, outcome expectations (perceived physical, social and self-evaluative consequences of performing behaviour) and socio-structural factors (environmental facilitators/impediments and social support).",0,0,0,0,N,N,0,N,0,0,0
+137,The operationalisation of SCT for the PULSE Programme components are summarised in Table 3 using the taxonomy for behaviour change techniques.,0,0,0,0,N,N,0,N,0,0,0
+138,In addition to this the operationalisation of SCT in the SHED-IT Weight Loss Programme has been described previously.,0,0,0,0,N,N,0,N,0,0,0
+139,Operationalisation of the social cognitive theory within the PULSE Programme.,0,0,0,0,N,N,0,N,0,0,0
+140,The PULSE Programme was tailored for the target population by utilising surface and deep structure components.,0,0,0,0,N,N,0,N,0,0,0
+141,The same approaches used in the development of the SHED-IT Weight Loss Programme were used for the development of the novel components unique to the PULSE Programme.,0,0,0,0,N,N,0,N,0,0,0
+142,Surface structures increase the receptivity and acceptability of health messages by targeting superficial characteristics of the population.,0,0,0,0,N,N,0,N,0,0,0
+143,"The PULSE Programme materials included male-specific research findings, images of men, humour and male-oriented metaphors and anecdotes.",0,0,0,0,N,N,0,N,0,0,0
+144,"For example, in order to describe a diet containing low GI foods, we included a metaphor of using premium fuel in a car — “Low GI foods are like high-octane fuel, you'll get more kilometres and better performance from a tank full of low GI food compared with high GI foods”.",0,0,0,0,N,N,0,N,0,0,0
+145,"And to encourage the habit of eating breakfast, we related this to using a lawn mower — “Eating a good breakfast gives you the energy you require to power through the day.",0,0,0,0,N,N,0,N,0,0,0
+146,"It's like priming a lawn mower, you need an injection of fuel first before the motor can kick over and start working.” Deep structure components draw on the psychological, cultural and social characteristics of the target population to influence health behaviours.",0,0,0,0,N,N,0,N,0,0,0
+147,Deep structure components embedded into the PULSE Programme included the encouragement of individual choice in making changes to dietary and exercise behaviours; the promotion of exercise (particularly RT) as an activity that improves fitness and body composition and psychological well-being; the use of a frank and realistic approach; and a focus on the scientific-basis of the recommendations.,0,0,0,0,N,N,0,N,0,0,0
+148,Inclusion of home-based resistance training,0,0,0,0,N,N,0,N,0,0,0
+149,"Current recommendations for T2D prevention lifestyle programmes include maintaining a healthy weight, consuming a healthy diet, and participation in exercise.",0,0,0,0,N,N,0,N,0,0,0
+150,"Most T2D prevention programmes have recommended aerobic (cardio-respiratory) activities, with strong evidence supporting this approach.",0,0,0,0,N,N,0,N,0,0,0
+151,"More recently, resistance training (RT) has been included in exercise guidelines for T2D based on evidence established over the last decade, which demonstrates benefits from RT on glucose regulation and the maintenance of fat free mass during energy restriction for weight loss.",0,0,0,0,N,N,0,N,0,0,0
+152,"To date, there is very little evidence from high quality multicomponent RCTs that have evaluated the efficacy of dietary modification in combination with both aerobic exercise and RT.",0,0,0,0,N,N,0,N,0,0,0
+153,"In addition, there is little evidence regarding the feasibility and efficacy of home-based RT programmes for the treatment/prevention of T2D.",0,0,0,0,N,N,0,N,0,0,0
+154,The PULSE Programme incorporates a multicomponent behaviour change approach that includes a home-based unsupervised exercise programme (aerobic exercise and RT).,0,0,0,0,N,N,0,N,0,0,0
+155,"Participants randomised to the wait-list control group after baseline assessment are required to attend the 3 and 6 month assessment sessions, after which they are provided with the PULSE Programme and offered a further optional assessment after completing the PULSE Programme (12 months from baseline).",0,0,0,0,N,N,0,N,0,0,0
+156,This is a major strength in the design of our randomised controlled trial since it allows us to investigate the unique impact of the PULSE Programme intervention over time.,0,0,0,0,N,N,0,N,0,0,0
+157,"Following this procedure also ensures equitable treatment for all participants enrolled in the trial i.e., access to the lifestyle intervention rather than “usual” or “standard care”.",0,0,0,0,N,N,0,N,0,0,0
+158,"The data collected from the control group at 12 months (i.e., after completing the PULSE Programme) will not be included in the primary analysis.",0,0,0,0,N,N,0,N,0,0,0
+159,"Assessments are conducted at baseline, 3 months (mid-programme) and 6 months (immediate post-programme) in the Human Performance Laboratory at the University of Newcastle, Australia.",0,0,0,0,N,N,0,N,0,0,0
+160,"All individuals were contacted by phone call, mobile phone SMS or email in order to arrange a time for these assessment sessions.",0,0,0,0,N,N,0,N,0,0,0
+161,The primary endpoint of the study will be based on the 6-month (immediate post-test) assessment measures.,0,0,0,0,N,N,0,N,0,0,0
+162,A rolling recruitment strategy has been used and data collection commenced in September 2012.,0,0,0,0,N,N,0,N,0,0,0
+163,The same instruments are used for measurements at each time point.,0,0,0,0,N,N,0,N,0,0,0
+164,Assessors are trained prior to the assessments and follow a standardised protocol for all measures.,0,0,0,0,N,N,0,N,0,0,0
+165,Assessors are blinded to group allocation at all time-points and participants were blinded to group allocation until after their baseline assessment.,0,0,0,0,N,N,0,N,0,0,0
+166,"The primary outcome measure for the study is weight change (kg), as weight loss was the main predictor of reduced diabetes incidence in the US DPP.",0,0,0,0,N,N,0,N,0,0,0
+167,"Weight is measured in light clothing and without shoes on a calibrated digital scale to 0.01 kg (CH-150KP, A&D Mercury Pty Ltd., Seven Hills, NSW, Australia).",0,0,0,0,N,N,0,N,0,0,0
+168,"Weight is measured twice, with acceptable values within 0.1 kg.",0,0,0,0,N,N,0,N,0,0,0
+169,"If measurements are outside the acceptable range, a third measure is taken.",0,0,0,0,N,N,0,N,0,0,0
+170,The average of the two acceptable measures will be reported.,0,0,0,0,N,N,0,N,0,0,0
+171,"Height (cm) is measured to 0.1 cm using the stretch stature method (without shoes) on a stadiometer (Harpenden portable stadiometer with high speed Veeder-Root counter, Holtain Ltd., Pembrokeshire, United Kingdom).",0,0,0,0,N,N,0,N,0,0,0
+172,"Height is measured twice, with accepted values within 0.3 cm.",0,0,0,0,N,N,0,N,0,0,0
+173,A third measure is taken if measurements are outside the acceptable range.,0,0,0,0,N,N,0,N,0,0,0
+174,The average of the two acceptable measures will be reported.,0,0,0,0,N,N,0,N,0,0,0
+175,Height was measured at study entry only.,0,0,0,0,N,N,0,N,0,0,0
+176,Body mass index (BMI) will be calculated using the equation (weight [kg] / height [m2]).,0,0,0,0,N,N,0,N,0,0,0
+177,"Waist circumference (cm) is measured at two points: i) at the observable narrowest point between the lower costal border and iliac crest, and ii) level with the umbilicus.",0,0,0,0,N,N,0,N,0,0,0
+178,"If the participant does not have an observable narrow point, the midpoint between the lower costal border and iliac crest is used.",0,0,0,0,N,N,0,N,0,0,0
+179,Two measures are taken at each site; with acceptable values within 0.5 cm.,0,0,0,0,N,N,0,N,0,0,0
+180,Further measures are taken if measurements are outside the acceptable range.,0,0,0,0,N,N,0,N,0,0,0
+181,The average of the two acceptable measures will be reported.,0,0,0,0,N,N,0,N,0,0,0
+182,"In order to improve the reliability of waist circumference measurements, a non-extensible steel tape is used (KDSF10-02, KDS Corporation, Osaka, Japan) and measurements are performed by an assessor with Level 1 anthropometry qualifications from the International Society for the Advancement of Kinanthropometry.",0,0,0,0,N,N,0,N,0,0,0
+183,"Body composition is assessed using bioimpedance analysis (InBody720, Biospace Co., Ltd., Seoul, Korea) to calculate fat mass (kg), fat free mass (kg), body fat (%), visceral fat area (cm2) and skeletal muscle mass (kg).",0,0,0,0,N,N,0,N,0,0,0
+184,"The InBody720 is a multi-frequency, 8-point tactile electrode system.",0,0,0,0,N,N,0,N,0,0,0
+185,Body composition assessment using this device has been shown to be valid and reliable.,0,0,0,0,N,N,0,N,0,0,0
+186,"Blood pressure and resting heart rate are measured using a manual inflation digital sphygmomanometer (NISSEI/DS-105E, Nihon Seimitsu Sokki Co. Ltd., Gunma, Japan) and a standardised procedure.",0,0,0,0,N,N,0,N,0,0,0
+187,Participants are seated for 5 min before the first measurement and given rest periods of 2 min between measures.,0,0,0,0,N,N,0,N,0,0,0
+188,"Blood pressure is measured a minimum of three times, with acceptable values within the range of 10 mm Hg for systolic pressure, 5 mm Hg for diastolic pressure and 5 bpm for resting heart rate.",0,0,0,0,N,N,0,N,0,0,0
+189,"If the values are outside of these acceptable ranges, further measurements (up to a total of 5 measures) are obtained until three of the measures meet the criteria.",0,0,0,0,N,N,0,N,0,0,0
+190,The mean of the two lowest systolic pressures (that are within 10 mm Hg) and the diastolic pressures paired to them will be reported.,0,0,0,0,N,N,0,N,0,0,0
+191,The mean of the two lowest resting heart rates (that were within 5 bpm) will be reported.,0,0,0,0,N,N,0,N,0,0,0
+192,Blood samples are collected after an overnight fast (minimum 8 h) by Hunter Area Pathology Service (HAPS) staff using a standardised procedure.,0,0,0,0,N,N,0,N,0,0,0
+193,Analysis will be conducted using standard automated techniques by HAPS (National Association of Testing Authorities accredited pathology service).,0,0,0,0,N,N,0,N,0,0,0
+194,"Samples will be analysed for several blood biomarkers related to T2D and cardiovascular disease markers including glucose regulation (FPG [mmol·L− 1], HbA1C [%], insulin [mIU·L− 1]), lipid profile (cholesterol [mmol·L− 1], triglycerides [mmol·L− 1], LDL-cholesterol [mmol·L− 1], HDL-cholesterol [mmol·L− 1] and total/HDL ratio), an inflammatory marker (c-reactive protein [mg·L− 1]).",0,0,0,0,N,N,0,N,0,0,0
+195,The Homeostatic Model Assessment-2 (HOMA-IR 2) and Quantitative Insulin Sensitivity Check Index (QUICKI) indices will be calculated from the glucose and insulin values.,0,0,0,0,N,N,0,N,0,0,0
+196,"In addition to these measures, a number of liver function assays will be conducted given individuals with T2D commonly present with liver function abnormalities [60].",0,0,0,0,N,N,0,N,0,0,0
+197,"These tests include total protein [g·L− 1], albumin [g·L− 1], calculated globulin [g·L− 1], total bilirubin [μmol− 1], gamma-glutamyl transferase [U·L− 1], alkaline phosphatase [U·L− 1], alanine aminotransferase [U·L− 1] and aspartate aminotransferase [U·L− 1].",0,0,0,0,N,N,0,N,0,0,0
+198,"Samples will also be analysed for urate [mmol·L− 1], a clinical marker of gout, which is strongly associated with risk of T2D and cardiovascular disease.",0,0,0,0,N,N,0,N,0,0,0
+199,Extra blood samples are collected from participants at each assessment time-point for possible later analysis.,0,0,0,0,N,N,0,N,0,0,0
+200,"Changes in aerobic fitness are assessed using a validated sub-maximal treadmill test (Ebbeling protocol) to predict aerobic fitness (VO2max, mL·kg− 1·min− 1).",0,0,0,0,N,N,0,N,0,0,0
+201,"Briefly, participants commence the test on a treadmill (Powerjog Treadmill GM200, Expert Fitness UK Ltd., Mid Glamorgan, South Wales, United Kingdom) set to 4 km·h− 1 and 0% gradient.",0,0,0,0,N,N,0,N,0,0,0
+202,"The speed of the treadmill is increased by 1 km·h− 1 every 30 s until the participant reaches 55% of their predicted maximum heart rate (Polar FT1 heart rate monitor, Pursuit Performance Australia, Pty Ltd., Adelaide, SA, Australia).",0,0,0,0,N,N,0,N,0,0,0
+203,The participant then continues to exercise at this workload until 4 min has elapsed.,0,0,0,0,N,N,0,N,0,0,0
+204,At 4 min the treadmill gradient is raised to 5% and the participant continues to walk for a further 4 min.,0,0,0,0,N,N,0,N,0,0,0
+205,VO2max is then calculated using the equation provided by Ebbeling et al.,0,0,0,0,N,N,0,N,0,0,0
+206,Change in lower body muscular fitness is assessed using a weighted (10 kg plate) squat to box test (max repetitions to fatigue).,0,0,0,0,N,N,0,N,0,0,0
+207,The squat depth is standardised prior to the test by setting the box height so that knee angle is 90° when seated on the box.,0,0,0,0,N,N,0,N,0,0,0
+208,"During the test participants are required to touch the box, but are not permitted to sit or rest on the box between repetitions.",0,0,0,0,N,N,0,N,0,0,0
+209,"In order to reduce the effect of poor ankle range of motion on squat ability, participants stand (without shoes) on a 5° wedge, which elevates the heel and allows a greater range of motion through the ankle joint.",0,0,0,0,N,N,0,N,0,0,0
+210,"Prior to the test, participants are required to complete a familiarisation and warm-up procedure, completing 10 body weight repetitions, followed by a rest period of 30 s prior to the test.",0,0,0,0,N,N,0,N,0,0,0
+211,"The tempo of the tests is governed by a metronome set at 40 bpm i.e., 20 rpm.",0,0,0,0,N,N,0,N,0,0,0
+212,"Participants who fail to maintain the tempo, or who are displaying unsafe/poor form, are asked to stop.",0,0,0,0,N,N,0,N,0,0,0
+213,"The number of successful repetitions (i.e., in time and full range of motion) will be reported.",0,0,0,0,N,N,0,N,0,0,0
+214,Change in upper body muscular fitness is assessed using a seated 25 kg barbell shoulder press (max repetitions to fatigue).,0,0,0,0,N,N,0,N,0,0,0
+215,"Prior to the test, participants are required to complete a familiarisation and warm up procedure using a wooden dowel rod (10 repetitions), followed by a 10 kg barbell (5 repetitions) and are then allowed to rest for 1.5 min prior to the test.",0,0,0,0,N,N,0,N,0,0,0
+216,"The tempo of the tests is governed by a metronome set at 40 bpm i.e., 20 rpm .",0,0,0,0,N,N,0,N,0,0,0
+217,"Participants who fail to maintain the tempo, or who are displaying unsafe/poor form, are asked to stop.",0,0,0,0,N,N,0,N,0,0,0
+218,"The number of successful repetitions (i.e., in time and full range of motion) will be reported.",0,0,0,0,N,N,0,N,0,0,0
+219,"Physical activity (step count) is objectively measured using Yamax Digi-Walker SW200 pedometers (Yamax Corporation, Kumamoto City, Japan) as described previously [27].",0,0,0,0,N,N,0,N,0,0,0
+220,"Participants are required to wear the device for seven days after their baseline, 3 and 6-month assessments.",0,0,0,0,N,N,0,N,0,0,0
+221,"Participants are instructed on how to wear the device correctly, and requested to only remove the device while sleeping, when the device might get wet (e.g., showering or swimming) or if the device would get damaged (e.g., contact sports).",0,0,0,0,N,N,0,N,0,0,0
+222,Participants are instructed to keep to their normal routine during the seven-day period.,0,0,0,0,N,N,0,N,0,0,0
+223,A physical activity log sheet is provided and participants are asked to record the number of steps accumulated at the end of the day and to reset the device.,0,0,0,0,N,N,0,N,0,0,0
+224,"Participants are requested to note down additional activities (e.g., swimming, cycling and contact sports) on the physical activity log sheet along with the duration of the activity.",0,0,0,0,N,N,0,N,0,0,0
+225,Non-wear time is also recorded on the physical activity log sheet.,0,0,0,0,N,N,0,N,0,0,0
+226,Physical activity step counts will be included in the analysis if a minimum of four days is reported.,0,0,0,0,N,N,0,N,0,0,0
+227,The average of the reported values will be imputed for participants who have three or less days of missing data.,0,0,0,0,N,N,0,N,0,0,0
+228,The average step count per day will be reported.,0,0,0,0,N,N,0,N,0,0,0
+229,Self-report physical activity levels are assessed using a modified version of the validated Godin Leisure-Time Exercise Questionnaire.,0,0,0,0,N,N,0,N,0,0,0
+230,"Briefly, participants are asked to indicate how many times in the past month they engaged in light, moderate, and vigorous intensity physical activities, in bouts of at least 10 min.",0,0,0,0,N,N,0,N,0,0,0
+231,Participants are also asked to estimate the average duration of sessions within each category.,0,0,0,0,N,N,0,N,0,0,0
+232,"Frequency and duration responses are then multiplied to provide a measure of the total time spent in light, moderate and vigorous physical activity in the previous month.",0,0,0,0,N,N,0,N,0,0,0
+233,"Sedentary behaviour is assessed using the Sitting Time Questionnaire, which is a valid and reliable measure of sitting time.",0,0,0,0,N,N,0,N,0,0,0
+234,"Briefly, participants are asked to estimate the amount of time spent sitting per day in various settings (while travelling, at work, watching television, using a computer, leisure time) on both weekdays and weekends.",0,0,0,0,N,N,0,N,0,0,0
+235,"Dietary intake is assessed using the validated Australian Eating Survey (AES) in order to generate mean daily kJ intake and nutrient profile (including carbohydrate:fat:protein ratio, proportions of energy from saturated fat and alcohol and grams of fibre).",0,0,0,0,N,N,0,N,0,0,0
+236,The Australian recommended food score will also be calculated to provide an overall indication of diet quality.,0,0,0,0,N,N,0,N,0,0,0
+237,"The AES is a 120-item semi-quantitative food frequency questionnaire (FFQ), with 15 supplementary questions regarding age, vitamin supplement use, food and sedentary behaviours.",0,0,0,0,N,N,0,N,0,0,0
+238,"Portion sizes are calculated for individual food items from data purchased from the Australian Bureau of Statistics 1995 National Nutrition Survey, or using the “natural” serving size of specific food items (e.g., a slice of bread) where appropriate.",0,0,0,0,N,N,0,N,0,0,0
+239,Participants are asked to indicate the frequency of consumption of various food items or food types over the previous six months.,0,0,0,0,N,N,0,N,0,0,0
+240,"Frequency options vary depending on the item e.g., ‘Never’ up to ‘4 or more times per day’ for most food items and up to ‘7 or more glasses per day’ for some beverages.",0,0,0,0,N,N,0,N,0,0,0
+241,"The questionnaire groups food items based on common ‘food groups’ including main meals, fruit and vegetables, dairy foods, breads and cereals, drinks, sweets and snacks.",0,0,0,0,N,N,0,N,0,0,0
+242,Nineteen questions relate directly to intakes of vegetables and 11 for intakes of fruits.,0,0,0,0,N,N,0,N,0,0,0
+243,Seasonal variations of some fruits are accounted for in the nutrient calculations.,0,0,0,0,N,N,0,N,0,0,0
+244,"Nutrient intakes are computed using the Australian AusNut 1999 database (All Foods) Revision 17 and AusFoods (Brands) Revision 5 (Australian Government Publishing Service, Canberra).",0,0,0,0,N,N,0,N,0,0,0
+245,"Estimated mean individual daily intake for 20 macro- and micro-nutrients are calculated using FoodWorks (version 3.02.581, Xyris Software Australia, Highgate Hill, Queensland).",0,0,0,0,N,N,0,N,0,0,0
+246,"Portion size is assessed separately using the portion size section of the validated Dietary Questionnaire for Epidemiological Studies — version 2 (DQES V2), Cancer Council Victoria.",0,0,0,0,N,N,0,N,0,0,0
+247,"Portion size photographs of common foods (potatoes, vegetables, steak, and casserole) are used to determine whether, on average, a person eats median size serves (Portion Size Factor, PSF = 1), more than the median (PSF > 1), or less than the median (PSF < 1) serve sizes for main meals.",0,0,0,0,N,N,0,N,0,0,0
+248,"Alcohol consumption is measured using the 3-item Alcohol Use Disorders Identification Test (AUDIT-C), a valid and reliable measurement tool for determining heavy drinking, alcohol abuse or alcohol dependence.",0,0,0,0,N,N,0,N,0,0,0
+249,"General health and quality of life are assessed using the validated United Kingdom short form 12 (SF-12), which covers both the physical and mental domains.",0,0,0,0,N,N,0,N,0,0,0
+250,Demographic characteristics and additional self-report information,0,0,0,0,N,N,0,N,0,0,0
+251,Sociodemographic data were collected by questionnaire at baseline.,0,0,0,0,N,N,0,N,0,0,0
+252,"Items included date of birth, age, occupation, educational level, ethnic origin, primary language spoken, marital status, postal code, personal gross income and household gross income.",0,0,0,0,N,N,0,N,0,0,0
+253,Socioeconomic status (SES) was determined by postal code of residence using the “Index of Relative Socioeconomic Advantage and Disadvantage” from the Australian Bureau of Statistics census-based Socio-Economic Indexes for Areas (SEIFA).,0,0,0,0,N,N,0,N,0,0,0
+254,Additional self-report information was collected at each time-point including medication use and illness or injury over the past three months.,0,0,0,0,N,N,0,N,0,0,0
+255,Participants were also asked whether they had been diagnosed with prediabetes or T2D since their last assessment session.,0,0,0,0,N,N,0,N,0,0,0
+256,Process measures and feasibility assessment,0,0,0,0,N,N,0,N,0,0,0
+257,"Programme feasibility will be assessed by examining participant recruitment, retention, adherence and satisfaction.",0,0,0,0,N,N,0,N,0,0,0
+258,A programme evaluation questionnaire is administered at 6 months to examine the participant's perceptions of the PULSE Programme.,0,0,0,0,N,N,0,N,0,0,0
+259,"The questionnaire uses scales, individual items and open-ended questions to obtain detailed information about the programme, including participant's opinion of their allocated study group; their level of engagement and satisfaction with the overall programme; their engagement with individual components of the programme; their impressions of the intervention resources; and their success in implementing specific health behaviours that are promoted in the resources.",0,0,0,0,N,N,0,N,0,0,0
+260,"The participants are also asked to list the strengths and weaknesses of the programme, to give suggestions for improvement and to indicate how much they would be willing to pay for the PULSE Programme.",0,0,0,0,N,N,0,N,0,0,0
+261,A separate process evaluation is provided to the control group.,0,0,0,0,N,N,0,N,0,0,0
+262,Participants are asked to indicate their opinion of the allocated study group and whether they made any attempt to improve their health or lose weight during the control period.,0,0,0,0,N,N,0,N,0,0,0
+263,"Both groups of men are asked to provide information regarding the diagnosis of any medical conditions post-study entry and if there have been any changes in medication use, type or dose during the trial.",0,0,0,0,N,N,0,N,0,0,0
+264,Adherence to the PULSE Programme will be additionally examined by examination of log book entries in the ‘SHED-IT Weight Loss Log Book for Men’ and the ‘PULSE Exercise Support Book for Men’.,0,0,0,0,N,N,0,N,0,0,0
+265,These documents are photocopied after each assessment session and mailed back to the participant.,0,0,0,0,N,N,0,N,0,0,0
+266,Participants will be reimbursed $10 per assessment session to cover travel and parking costs.,0,0,0,0,N,N,0,N,0,0,0
+267,Over the course of the study this entitles each participant to a maximum of $30.,0,0,0,0,N,N,0,N,0,0,0
+268,"No additional payment or incentives are provided for completing the study or achieving milestones (e.g., weight loss goals) during the study.",0,0,0,0,N,N,0,N,0,0,0
+269,The sample size calculation was performed by a statistician independent to the research team.,0,0,0,0,N,N,0,N,0,0,0
+270,The calculation was based on the primary outcome of weight change at 6 months (primary time point).,0,0,0,0,N,N,0,N,0,0,0
+271,"Using data from a previous trial [9], we assumed a standard deviation of weight at baseline of 14 kg and the correlation between baseline weight and weight at 6 months to be 0.9.",0,0,0,0,N,N,0,N,0,0,0
+272,"Therefore, a total sample size of 74 (37 per group) at the analysis stage will give the study 80% power to find a difference in mean weight of 4 kg between groups at 6 months using a significance level of 0.05 for two sided tests.",0,0,0,0,N,N,0,N,0,0,0
+273,To allow for 20% loss to follow-up we were required to enrol a minimum of 94 participants in the trial.,0,0,0,0,N,N,0,N,0,0,0
+274,"This sample size was achieved (see CONSORT flow diagram, Fig.",0,0,0,0,N,N,0,N,0,0,0
+275,Randomisation and allocation procedure,0,0,0,0,N,N,0,N,0,0,0
+276,Participants were randomised at an individual level after their baseline assessment to the intervention or wait-list control group.,0,0,0,0,N,N,0,N,0,0,0
+277,"Allocation was stratified by age (< 50 or ≥ 50) and BMI category (kg·m− 2: 25–29.9; 30–34.9; 35–40), resulting in a total of six strata.",0,0,0,0,N,N,0,N,0,0,0
+278,"Following this stratification procedure creates a greater likelihood of achieving similar baseline characteristics for the intervention and control groups, particularly for the primary outcome of weight.",0,0,0,0,N,N,0,N,0,0,0
+279,"Furthermore, since T2D risk is associated with advancing age, stratifying by this factor will also assist in achieving similar characteristics between groups.",0,0,0,0,N,N,0,N,0,0,0
+280,These strata were determined based on the distributions of age and BMI in a previous study of overweight/obese men.,0,0,0,0,N,N,0,N,0,0,0
+281,The allocation sequence within each stratum was generated by a computer-based random number-producing algorithm in block lengths of six.,0,0,0,0,N,N,0,N,0,0,0
+282,The randomisation sequence within each of the six strata was unique.,0,0,0,0,N,N,0,N,0,0,0
+283,The randomisation sequence was generated by an investigator not involved in the allocation of participants and was stored on a computer that was not accessible by those assessing participants.,0,0,0,0,N,N,0,N,0,0,0
+284,Group allocations were concealed in opaque envelopes and the envelopes were numbered in consecutive order within each stratum to ensure blinding was maintained.,0,0,0,0,N,N,0,N,0,0,0
+285,A study investigator not involved in the assessment measures notified participants individually of their group assignment in a separate room.,0,0,0,0,N,N,0,N,0,0,0
+286,"The participant's age and BMI were used to determine their strata, then the next available envelope within that strata was selected.",0,0,0,0,N,N,0,N,0,0,0
+287,"Once the group allocation was revealed, the investigator recorded the participant's group allocation and then proceeded with a standardised explanation regarding the treatment condition.",0,0,0,0,N,N,0,N,0,0,0
+288,Participants allocated to the wait-list control group were informed about the conditions of their group and the requirements for further assessments.,0,0,0,0,N,N,0,N,0,0,0
+289,"Participants allocated to the intervention group were provided with an explanation of the intervention resources, as described in Section 2.3.1.",0,0,0,0,N,N,0,N,0,0,0
+290,"Individuals randomised into the trial were invited to return for an assessment session at the 3-month and 6-month time points by phone call, mobile phone SMS or email.",0,0,0,0,N,N,0,N,0,0,0
+291,"As outlined in Section 2.8, it is anticipated that some individuals will be lost to follow-up during the trial.",0,0,0,0,N,N,0,N,0,0,0
+292,Participants who initially failed to book in for an assessment session were contacted on multiple occasions via various contact methods (as above).,0,0,0,0,N,N,0,N,0,0,0
+293,Participants who failed to attend their assessment session were contacted to reschedule their appointment.,0,0,0,0,N,N,0,N,0,0,0
+294,It is important to note that participants were notified in the trial's information statement that they were free and able to withdraw at any stage of the trial without any repercussions.,0,0,0,0,N,N,0,N,0,0,0
+295,No additional incentives were provided to encourage participants to return for assessment sessions.,0,0,0,0,N,N,0,N,0,0,0
+296,"Data management, quality assurance and exclusion of bias",0,0,0,0,N,N,0,N,0,0,0
+297,The data collection team are blinded to group allocation at all assessment time points.,0,0,0,0,N,N,0,N,0,0,0
+298,"One member of the research team (EJA) is aware of each participant's group allocation and has undertaken all further contact where knowledge of group allocation is required or might be revealed (e.g., booking in participants for appointments, organising assessment packs).",0,0,0,0,N,N,0,N,0,0,0
+299,"All physical measures (anthropometry, blood pressure, fitness measures) will be double entered.",0,0,0,0,N,N,0,N,0,0,0
+300,All variables will be checked for missing values and plausibility checks will be performed to identify unrealistic values.,0,0,0,0,N,N,0,N,0,0,0
+301,Analyses will be performed using IBM SPSS version 21 or later.,1,0,1,1,N,N,1,N,1,0,0
+302,Data will be presented as mean ± SD or mean [95% confidence interval] for continuous variables and counts (percentages) for categorical variables.,1,0,1,1,N,N,1,N,1,0,0
+303,Demographic and baseline characteristics of the intervention and control groups will be reported for all measured variables.,0,0,0,0,N,N,0,N,0,0,0
+304,"Mean AUSDRISK score as well as the percentage of men who fell within the AUSDRISK risk level cut-points (i.e., 12–15, 16–19 and ≥ 20 points) will be reported.",0,0,0,0,N,N,0,N,0,0,0
+305,The prevalence of prediabetes at baseline will be reported based on the clinical cut-points used by the American Diabetes Association for FPG (≥ 5.6 mmol·L− 1) and/or HbA1C (≥ 5.7%).,0,0,0,0,N,N,0,N,0,0,0
+306,"Further to this, the prevalence of metabolic syndrome (MetS) at the baseline time point will also be reported according to the International Diabetes Federation MetS worldwide definition, which specifies that an individual must have central obesity (waist circumference ≥ 94 cm or BMI ≥ 30 kg·m− 2) and two of the following four criteria: raised triglycerides (≥ 1.7 mmol·L− 1 or specific treatment for lipid abnormality), reduced HDL-cholesterol (≤ 1.03 mmol·L− 1 or specific treatment for lipid abnormality), raised blood pressure (systolic ≥ 130 mm Hg, diastolic ≥ 85 mm Hg) and raised FPG (≥ 5.6 mmol·L− 1).",0,0,0,0,N,N,0,N,0,0,0
+307,"Generalised linear mixed models will be used to assess the primary outcome of weight and all other secondary outcomes for the impact of treatment (intervention vs. control), time (treated as categorical with levels at baseline, 3 and 6 months) and the treatment-by-time interaction, with these three terms forming the base model.",0,0,0,0,N,N,0,N,0,0,0
+308,This will ensure that the outcomes for participants who withdraw from the trial prior to the 3 or 6-month time points are retained in the analysis.,0,0,0,0,N,N,0,N,0,0,0
+309,This is consistent with an ‘intention-to-treat’ approach.,0,0,0,0,N,N,0,N,0,0,0
+310,Age and SES will also be examined to determine any significant interactions in the models.,0,0,0,0,N,N,0,N,0,0,0
+311,"If a covariate is significant, a term will be added to the model to adjust for the effects and two-way interactions with time and treatment will also be examined.",0,0,0,0,N,N,0,N,0,0,0
+312,If these interactions are significant they will also be adjusted for in the model.,0,0,0,0,N,N,0,N,0,0,0
+313,The coefficient and P-value for the treatment-by-time interaction term will be used to determine the efficacy of the intervention using a significance level of P = 0.05.,0,0,0,0,N,N,0,N,0,0,0
+314,All secondary analyses will be performed using a significance level of P = 0.05.,0,0,0,0,N,N,0,N,0,0,0
+315,"In addition to this, the prevalence of prediabetes at baseline and the incidence of prediabetes and T2D at the 3 and 6-month time points are important secondary outcomes relating to the efficacy of the PULSE intervention and T2D prevention.",0,0,0,0,N,N,0,N,0,0,0
+316,Prediabetes and T2D will be classified according to the clinical cut-points used by the American Diabetes Association: prediabetes (FPG ≥ 5.6 mmol·L− 1 and/or HbA1C ≥ 5.7%) and T2D (FPG ≥ 7.0 mmol·L− 1 and/or HbA1C ≥ 6.5%).,0,0,0,0,N,N,0,N,0,0,0
+317,A per protocol analysis will be conducted and include men who complied with the programme for at least 50% (12 weeks) of the 6 month (24 week) intervention.,1,0,1,1,N,N,1,N,1,0,0
+318,Compliance assessment will be based on self-reported log book entries for: (i) weekly weigh-ins (n > 12 entries); and (ii) achievement of physical activity target of 210 min per week (n > 12 successful weeks).,0,0,0,0,N,N,0,N,0,0,0
+319,"Results of the per-protocol group will be compared with non-compliers i.e., those who did not meet the above adherence recommendations.",0,0,0,0,N,N,0,N,0,0,0
+320,Additional exploratory analyses will be conducted to determine the characteristics of men who lost a clinically important amount of weight (> 5%) and the associated changes in secondary health outcomes.,0,0,0,0,N,N,0,N,0,0,0
+321,Analysis will also be conducted to determine the effect of the programme in men who were in the prediabetes range for FPG (> 5.6 mmol·L− 1) and HbA1C (> 5.7% at baseline).,0,0,0,0,N,N,0,N,0,0,0
+322,Characteristics of completers versus dropouts will be tested using independent t tests for continuous variables and chi-squared (χ2) tests for categorical variables.,0,0,0,0,N,N,0,N,0,0,0
+323,The significance level of P = 0.05 will be used for these comparisons.,0,0,0,0,N,N,0,N,0,0,0
+324,Intensive T2D prevention programmes have shown reductions in T2D incidence of up to 58% over 3 years using lifestyle interventions.,0,0,0,0,N,N,0,N,0,1,1
+325,"However, the challenge remains in the translation of these highly intensive programmes requiring face-to-face contact, trained staff and access to facilities, as they might not be practical, achieve sufficient reach or remain effective within communities or health care systems.",0,0,0,0,N,N,0,N,0,1,1
+326,The aim of the current study is to determine the feasibility and efficacy of a self-administered lifestyle intervention for T2D prevention targeting overweight/obese men at risk for T2D.,0,0,0,0,N,N,0,N,0,1,1
+327,"The PULSE Programme is a gender-tailored lifestyle intervention, which utilises a multicomponent health behaviour change approach (weight loss, dietary modification, aerobic exercise and resistance training).",0,0,0,0,N,N,0,N,0,1,1
+328,"It builds upon previous research from our group on the SHED-IT Weight Loss Programme that has successfully demonstrated clinically meaningful and statistically significant weight loss in men without regular face-to-face contact (between group difference intervention vs. control: 4.2 kg; 95% CI 2.5, 5.9 kg, Cohen's D = 0.96).",0,0,0,0,N,N,0,N,0,1,1
+329,The effects of the SHED-IT Weight Loss Programme on T2D or cardiovascular disease risk profile have not been evaluated.,0,0,0,0,N,N,0,N,0,0,0
+330,A significant strength of the PULSE Programme is the use of a multicomponent approach that includes RT.,0,0,0,0,N,N,0,N,0,0,0
+331,"A recent systematic review identified the limited research regarding the efficacy of multicomponent lifestyle interventions that include RT together with dietary modification + aerobic exercise, despite the inclusion RT in current guidelines for T2D treatment and prevention.",0,0,0,0,N,N,0,N,0,0,0
+332,"The same systemic review also concluded that evaluation of the exercise/physical activity intervention components was poor in multicomponent programmes, with most studies failing to include objective physical activity and fitness measures, particularly regarding measures of muscular fitness.",0,0,0,0,N,N,0,N,0,0,0
+333,The current study has employed a number of tests to objectively measure the effects on aerobic and muscular fitness in addition to objective physical activity measures.,0,0,0,0,N,N,0,N,0,0,0
+334,"Our study has several other strengths including: an RCT design with a wait-list control group (as opposed to ‘usual care’), a rigorous randomisation procedure to minimise bias, assessor blinding, and a detailed statistical analysis plan that will follow an intention-to-treat principle.",0,0,0,0,N,N,0,N,0,0,0
+335,"In addition to measuring weight, FPG and HbA1C, we will assess a comprehensive range of secondary outcomes in order to capture the wider physiological and behavioural impacts of the programme.",0,0,0,0,N,N,0,N,0,0,0
+336,"Significant strengths of the PULSE Programme intervention include the self-administered and gender-tailored approach, which addresses several evidence gaps in the field.",0,0,0,0,N,N,0,N,0,0,0
+337,"The choice of a minimal face-to-face intervention delivery mode also has potential advantages for the widespread dissemination of the programme, reducing patient–practitioner contact time and cost of transport and facility use.",0,0,0,0,N,N,0,N,0,0,0
+338,Our study has the potential to greatly inform future efforts in T2D prevention.,0,0,0,0,N,N,0,N,0,0,0
+339,Previous programmes for T2D prevention such as the US DPP and Finnish DPS remain a challenge to implement widely.,0,0,0,0,N,N,0,N,0,0,0
+340,The intensive nature of such interventions remains a significant barrier preventing widespread dissemination.,0,0,0,0,N,N,0,N,0,0,0
+341,"A self-administered lifestyle intervention with minimal face-to-face contact, as per the PULSE Programme in the current trial, has great potential for widespread dissemination into community and health care settings.",0,0,0,0,N,N,0,N,0,0,0
+342,"Additional features of the PULSE Programme including its gender-tailored approach and the inclusion of resistance training may also increase the appeal of the programme for men, which in turn might improve the efficacy of the programme.",0,0,0,0,N,N,0,N,0,0,0

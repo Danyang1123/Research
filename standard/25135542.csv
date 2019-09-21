@@ -1,0 +1,151 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To evaluate the efficacy of adding nepafenac 0.1% ophthalmic suspension to dexamethasone 0.1% eyedrops in controlling macular swelling and other manifestations of inflammation after uneventful cataract surgery.,0,0,0,0,0,0,0,0,0,0,0
+1,"Ophthalmology Department, Mölndal Hospital, Gothenburg, and St. Erik Eye Hospital, Stockholm, Sweden.",0,0,0,0,0,0,0,0,0,0,0
+2,Randomized double-masked clinical trial.,0,0,0,0,0,0,0,0,0,0,0
+3,Patients at low risk for postoperative inflammation were recruited and randomized to the nepafenac group or to the control group.,0,0,0,0,0,0,1,0,0,0,0
+4,Postoperative swelling of the macula was assessed with ocular coherence tomography.,0,0,0,0,0,0,1,0,0,0,0
+5,"Laser flare intensity, corrected distance visual acuity, ocular discomfort, and visual complaints were also recorded.",0,0,0,0,0,0,1,0,0,0,0
+6,The analysis of intent-to-treat population comprised 75 patients in the nepafenac group and 77 patients in the control group.,0,0,0,1,0,0,0,1,1,1,1
+7,"Compared with the control regimen, add-on nepafenac resulted in statistically significant reductions in the following parameters: change in macular volume at 3 weeks and 6 weeks ( P <.001), proportion of patients with more than 10 μm of swelling in the central macula at 3 weeks ( P <.0001) and 6 weeks ( P =.02), mean laser flare intensity at 1 day ( P =.029), pain during the first 24 hours postoperatively ( P< .0001), and ocular discomfort and photophobia during the first 3 postoperative weeks ( P =.0058 and P =.0052, respectively).",0,0,0,1,0,0,0,1,1,1,1
+8,"The combination of topical nepafenac and steroid treatment reduced subclinical macular swelling and inflammation as well as subjective complaints, indicating it is an efficient antiinflammatory regimen after cataract surgery.",0,0,0,0,0,0,0,0,0,0,0
+9,No author has a financial or proprietary interest in any material or method mentioned.,0,0,0,0,0,0,0,0,0,0,0
+10,Cystoid macular edema (CME) is not an uncommon complication after cataract surgery.,0,0,0,0,0,0,0,0,0,0,0
+11,It may cause significant temporary visual impairment that in the worst scenario may not resolve despite attempted treatment.,0,0,0,0,0,0,0,0,0,0,0
+12,The reaction is explained by an accumulation of extracellular intraretinal fluid in the outer plexiform and in the inner nuclear layers of the retina resulting from a breakdown of the blood–retinal barrier in response to a postoperative inflammation in the anterior chamber.,0,0,0,0,0,0,0,0,0,0,0
+13,Advances in cataract surgery techniques and the use of a new generation of nonsteroidal antiinflammatory drugs (NSAIDs) may have diminished the rate of CME.,0,0,0,0,0,0,0,0,0,0,0
+14,"Notwithstanding, optical coherence tomography (OCT) has shown that a benign and mild increase in macular thickness without an impact on visual acuity occurs early on, even after uneventful surgery in low-risk patients, and this swelling may last for months.",0,0,0,0,0,0,0,0,0,0,0
+15,"Until now, a gold-standard antiinflammatory treatment for patients having cataract surgery has not been established.",0,0,0,0,0,0,0,0,0,0,0
+16,"Although both topical steroids and NSAIDs are indicated for postoperative inflammation, there is no licensed product for the prevention of CME after cataract surgery except nepafenac, which has this labeling for patients with diabetic retinopathy.",0,0,0,0,0,0,0,0,0,0,0
+17,Nepafenac ophthalmic suspension 0.1% is a topical nonsteroidal antiinflammatory prodrug that has been approved for the inhibition of pain and inflammation precipitated by cataract surgery.,0,0,0,0,0,0,0,0,0,0,0
+18,"Nepafenac has a unique prodrug structure compared with other topical NSAID eyedrops, allowing a rapid penetration through the cornea to ultimately reach the posterior segment of the eye and, particularly, the macula.",0,0,0,0,0,0,0,0,0,0,0
+19,"Nepafenac converts in the aqueous humor to amfenac, a potent NSAID.",0,0,0,0,0,0,0,0,0,0,0
+20,"In line with what has been found for other topical NSAIDs, nepafenac appears to have an effect on diabetic and pseudophakic macular edema, as shown in observational and mostly uncontrolled studies.",0,0,0,0,0,0,0,0,0,0,0
+21,"It can be anticipated that if given prophylactically, nepafenac would reduce the incidence of CME after uneventful cataract surgery.",0,0,0,0,0,0,0,0,0,0,0
+22,The objective of this study was to evaluate whether adding nepafenac 0.1% ophthalmic suspension to a standard topical steroid treatment of dexamethasone 0.1% would confer a benefit in controlling subclinical macular swelling and other inflammatory manifestations after uneventful cataract surgery in a low-risk cohort of patients.,0,0,0,0,0,0,0,0,0,0,0
+23,"This prospective randomized double-masked controlled 2-center study recruited 160 patients between 45 and 85 years of age who were scheduled for cataract surgery under local anesthesia at the Ophthalmology Department, Mölndal Hospital, Gothenburg, and at St Erik Eye Hospital, Stockholm.",1,0,1,0,1,1,1,0,0,0,0
+24,"This study was approved by the Ethical Committee, Sahlgrenska University, Gothenburg, and the Medical Products Agency, Uppsala, Sweden.",1,0,1,0,1,1,1,0,0,0,0
+25,The trial was registered at the European Clinical Trials Database according to the standards set by the World Health Organization.,1,0,1,0,1,1,0,0,0,0,0
+26,A  All patients signed a document with written informed consent.,1,0,1,0,1,1,0,0,0,0,0
+27,"Patients with small pupils (<5.0 mm after pharmacologic dilation), dark brown irides, exfoliation syndrome, history of uveitis, glaucoma, macular degeneration, or any vision-impairing eye disorder except cataract were not eligible.",1,0,1,0,1,1,0,0,0,0,0
+28,"Diabetic patients, pregnant women, and patients using any topical or systemic antiinflammatory treatment or with hypersensitivity to any of the given study treatments were also excluded.",0,0,0,0,0,0,0,0,0,0,0
+29,The cataract had to be translucent enough to allow good-quality OCT scans of the macular area at baseline.,0,0,0,0,0,0,0,0,0,0,0
+30,"Eyes with intraoperative difficulties such as loose zonular fibers, extended operating time, or residual cortical material or with complications such as posterior capsule rupture and vitreous loss were excluded from the study after randomization.",0,0,0,0,0,0,0,0,0,0,0
+31,"In addition to the cataract surgery, the study involved 5 visits; 1 recruitment visit, 1 preoperative examination within 1 week of surgery, and postoperative examinations at 1 day, 3 weeks, and 6 weeks.",0,0,0,0,0,0,0,0,0,0,0
+32,The patients were randomized in a 1:1 fashion to 1 of 2 treatment groups.,0,1,0,0,0,0,0,0,0,0,0
+33,The study group received a combination therapy of nepafenac ophthalmic suspension 0.1% and dexamethasone 0.1%.,0,0,0,0,0,0,0,0,0,0,0
+34,The control group received dexamethasone 0.1% (Isopto-Maxidex) and a placebo (Tears Naturale II Polyquad).,0,0,0,0,0,0,0,0,0,0,0
+35,"All products used in this clinical trial were produced, labeled, packaged, and released by S.A. Alcon-Couvreur N.V. Puurs, Belgium.",0,0,0,0,0,0,0,0,0,0,0
+36,Nepafenac and placebo suspensions were supplied in identical bottles labeled with a protocol and a patient number so neither the investigators nor the patients were able to identify their contents.,0,0,0,0,0,0,0,0,0,0,0
+37,"The eyedrops were given 3 times a day for 3 weeks after surgery except the nepafenac and the placebo, which were started 2 days before surgery and were given 30 minutes right before surgery 3 times 5 minutes apart.",0,0,0,0,0,0,0,0,0,0,0
+38,"If CME appeared at any time during the treatment period or beyond the 3-week visit, topical treatment was given at the discretion of the surgeon.",0,0,0,0,0,0,0,0,0,0,0
+39,Primary outcome measures were the change in total macular volume 6 weeks after cataract surgery compared with baseline and the proportion of patients with macular swelling of at least 10 μm 6 weeks after surgery compared with baseline.,0,0,0,0,0,0,0,0,0,0,0
+40,"Secondary outcome measures were the change in total macular volume 3 weeks postoperatively compared with baseline; the proportion of patients with macular swelling of at least 10 μm 3 weeks postoperatively compared with baseline; visual acuity at 3 weeks and 6 weeks; anterior segment inflammation measured with a laser flare meter at 1 day, 3 weeks, and 6 weeks; ocular pain sensation during surgery and 24 hours and 3 weeks postoperatively; ocular discomfort and photophobia 1 day postoperatively and during the 3-week treatment course; and intraoperative pupil dilation measured with a caliper.",0,0,0,0,0,0,0,0,0,0,0
+41,"Adverse events were intraocular pressure (IOP) changes versus baseline measured at 1 day, 3 weeks, and 6 weeks and ocular or systemic symptoms and signs with a relationship to the study regimens during the 3 weeks after surgery.",0,0,0,0,0,0,0,0,0,0,0
+42,"One hour before surgery, pupils were dilated 3 times by topical instillation of a mixture of cyclopentolate hydrochloride 0.75% with phenylephrine hydrochloride 2.5% (APL).",0,0,0,0,0,0,0,0,0,0,0
+43,Tetracaine 1.0% drops (Meda Sverige AB) were used for local anesthesia.,0,0,0,0,0,0,0,0,0,0,0
+44,"After a paracentesis was created, 0.15 mL of a mixture of phenylephrine 1.5%, cyclopentolate 0.1%, and lidocaine hydrochloride 1.0% was injected into the anterior chamber for a mydriatic and a local anesthetic effect.",0,0,0,0,0,0,0,0,0,0,0
+45,"19  Adrenaline 0.3 mL (1 mg/mL) was added to 500 mL of a buffered salt irrigation solution (BSS, Alcon).",0,0,0,0,0,0,0,0,0,0,0
+46,Four surgeons performed the operations using a standard phaco stop-and-chop or divide-and-conquer nuclear fracturing technique.,0,0,0,0,0,0,0,0,0,0,0
+47,The Infiniti phacoemulsification machine with a torsional ultrasound delivery system (Alcon) was used in all cases.,0,0,0,0,0,0,0,0,0,0,0
+48,The energy of the phacoemulsification and the duration of the entire surgical procedure were recorded.,0,0,0,0,0,0,0,0,0,0,0
+49,"A foldable intraocular lens (Acrysof SN60AT, Alcon Laboratories, Inc.) was implanted in the capsular bag.",0,0,0,0,0,0,0,0,0,0,0
+50,"At the end of the operation, all patients received an injection of off-label moxifloxacin 0.2 mg (Vigamox) in the anterior chamber to prevent postoperative endophthalmitis.",0,0,0,0,0,0,0,0,0,0,0
+51,The surgeons performed the slitlamp examinations at the recruitment visit and 3 weeks postoperatively.,0,0,0,0,0,0,0,0,0,0,0
+52,"In addition, they performed an intraoperative evaluation of the hardness of the cataract and estimated the pupil diameter horizontally with a caliper before entering the anterior chamber and at the end of the surgical procedure.",0,0,0,0,0,0,0,0,0,0,0
+53,These measurements were made to the nearest half millimeter and were performed with the anterior chamber filled with a balanced salt solution.,0,0,0,0,0,0,0,0,0,0,0
+54,"All other measurements in this study were performed by the research nurse at baseline, 1 day, 3 weeks, and 6 weeks.",0,0,0,0,0,0,0,0,0,0,0
+55,Examinations were scheduled in the morning from 8 am to 12 am .,0,0,0,0,0,0,0,0,0,0,0
+56,Uncorrected distance visual acuity and corrected distance visual acuity (CDVA) were assessed with the Early Treatment Diabetic Retinopathy Study eye meter chart under standardized conditions.,0,0,0,0,0,0,0,0,0,0,0
+57,Values were converted to logMAR notation.,0,0,0,0,0,0,0,0,0,0,0
+58,The IOP was measured with a Goldmann applanation tonometer.,0,0,0,0,0,0,0,0,0,0,0
+59,"Macular thickness was assessed with the Stratus OCT system (software version 2.0, Carl Zeiss Meditec AG).",0,0,0,0,0,0,0,0,0,0,0
+60,Three series of 6 OCT scans were captured at baseline and 3 weeks and 6 weeks postoperatively.,0,0,0,0,0,0,0,0,0,0,0
+61,The best-quality map from each visit was selected for further analysis.,0,0,0,0,0,0,0,0,0,0,0
+62,"Data for retinal thickness, including total macular volume, the central macula, and 4 inner and 4 outer quadrants of the retina, were obtained for statistical analysis.",0,0,0,0,0,0,0,0,0,0,0
+63,"The anterior chamber inflammatory response was evaluated by aqueous protein detection with a laser flare–cell meter (FC-500, Kowa Co. Ltd.).",0,0,0,0,0,0,0,0,0,0,0
+64,"Ten to 15 minutes before each measurement, the pupils were dilated with topical application of a combination of cyclopentolate hydrochloride 0.75% and phenylephrine hydrochloride 2.5%.",0,0,0,0,0,0,0,0,0,0,0
+65,"Nine consecutive measurements, expressed in photons/ms, were taken; then, the mean of the 5 central values was calculated.",0,0,0,0,0,0,0,0,0,0,0
+66,"Patients were asked to use a 5-point scale (0 = none, 1 = barely noticeable, 2 = mild, 3 = moderate, and 4 = severe) to report the level of ocular pain during surgery, during the first 24 hours, and during the following 3 weeks after surgery.",0,0,0,0,0,0,0,0,0,0,0
+67,"Patients were also asked to record, in the same fashion, ocular discomfort and photophobia in the postoperative period.",0,0,0,0,0,0,0,0,0,0,0
+68,Subjective symptom scores were categorized for statistical evaluation as absent (score = 0) or present (score = 1 to 4) of the respective sensation.,0,0,0,0,0,0,0,0,0,0,0
+69,"Ocular adverse events were evaluated on a 3-point scale (0 = none, 1 = mild-moderate, and 2 = severe).",0,0,0,0,0,0,0,0,0,0,0
+70,General adverse events with a potential relationship to the study treatments were reported as present or absent.,0,0,0,0,0,0,0,0,0,0,0
+71,"With reference to prospective studies that showed that combined topical steroids and ketorolac versus steroids alone had a dampening effect on macular swelling after cataract surgery,  19 20  it was theorized that the present study regimen would achieve a similar benefit.",0,0,0,0,0,0,0,0,0,0,0
+72,It was calculated that at least 60 patients would be needed in each group to detect a statistically significant difference with an 80% power.,0,0,0,0,0,0,0,0,0,0,0
+73,"Presuming a dropout rate of approximately 15%, it was decided to recruit 80 patients into each arm.",0,0,0,0,0,0,0,0,0,0,0
+74,Primary statistical analyses were performed in the intent-to-treat population.,0,0,0,0,0,0,0,0,0,0,0
+75,"This population was defined as all screened, randomized, operated, and treated patients who completed at least the 3-week visit.",0,0,0,0,0,0,0,0,0,0,0
+76,Protocol deviations later in the course of the study were treated with the last observation carried forward principle.,0,0,0,0,0,0,0,0,0,0,0
+77,"Continuous variables were analyzed with independent as well as paired nonparametric tests, categorical variables were analyzed with the Fisher exact test, and correlations were determined with the Spearman test by an independent biostatistician using the SAS software (version 9.2, SAS Institute, Inc.).",0,0,0,0,0,0,0,0,0,0,0
+78,A P value less than 0.05 was considered significant.,0,0,0,0,0,0,0,0,0,0,0
+79,"Of the 160 patients recruited, 152 (75 patients on nepafenac and 77 on placebo) were included in the intent-to-treat subset.",0,0,0,1,0,0,0,1,1,1,1
+80,"Reasons for study withdrawal in the actively treated group were as follows: cortical remnants in the anterior chamber on the postoperative day (n = 1), loose zonular fibers intraoperatively requiring a placement of a capsule tension ring (n = 1), improper dosing of study medication (n = 1), use of non-allowed concomitant medicine (n = 1), and appearance of general health problems judged to be unrelated to the study treatments (n = 1).",0,0,0,1,0,0,0,1,1,1,1
+81,Three patients in the control group were excluded from the study for the following reasons: patient decision (n = 2) and lost to follow-up (n = 1).,0,0,0,1,0,0,0,1,1,1,1
+82,"The mean age in the nepafenac group was higher than that in the control group, although the difference fell short of being statistically significant ( P =.0558).",0,0,0,0,0,0,0,0,0,0,0
+83,"For this reason, the impact of age was tested in a logistic regression model analyzing 1 of the 2 main outcome measures.",0,0,0,0,0,0,0,0,0,0,0
+84,"The age effect, however, was found to be negligible (data not shown).",0,0,0,0,0,0,0,0,0,0,0
+85,Table 1 shows the patient characteristics.,0,0,0,0,0,0,0,0,0,0,0
+86,Table 2 shows surgical parameters and the classification of cataract; there were no statistically significant differences in these parameters between the 2 groups.,0,0,0,0,0,0,0,0,0,0,0
+87,Surgical parameters and classification of cataract.,0,0,0,0,0,0,0,0,0,0,0
+88,"The nepafenac group had less macular swelling than the control group, and the differences were statistically significant for primary and secondary outcome measures ( Tables 3 and 4 ).",0,0,0,0,0,0,0,0,0,0,0
+89,No CME developed in the nepafenac group; 2 cases were found in the placebo group ( P =.5099).,0,0,0,0,0,0,0,0,0,0,0
+90,"One of these patients developed clinically significant CME, and the other patient developed typical cystoid changes without vision symptoms on the OCT examination 3 weeks after surgery.",0,0,0,0,0,0,0,0,0,0,0
+91,They were given a round of combined nepafenac and dexamethasone 3 times a day at the surgeon's discretion after the study treatment phase and recovered completely by the 6-week follow-up.,0,0,0,0,0,0,0,0,0,0,0
+92,Another patient in the control group received prolonged dexamethasone treatment because of pronounced irritation in the eye at the 3-week examination.,0,0,0,0,0,0,0,0,0,0,0
+93,Total macular volume measurements and changes in volume 3 weeks and 6 weeks postoperatively compared with baseline values.,0,0,0,0,0,0,0,0,0,0,0
+94,Numbers and percentage of patients with macular swelling of more than 10 μm 3 weeks and 6 weeks postoperatively.,0,0,0,0,0,0,0,0,0,0,0
+95,"The CDVA improved significantly in both groups, from 0.23 to −0.012 logMAR (at 3 weeks) and to −0.06 logMAR (at 6 weeks) in the nepafenac group and from 0.24 to −0.03 logMAR (at 3 weeks) and to −0.05 logMAR (at 6 weeks) in the control group.",0,0,0,0,0,0,0,0,0,0,0
+96,"Differences between the 2 groups were not statistically significant preoperatively ( P =.8869) or postoperatively ( P =.1464 and P =.7314 at 3 weeks and 6 weeks, respectively).",0,0,0,0,0,0,0,0,0,0,0
+97,Aqueous flare increased significantly less in the nepafenac group 1 day postoperatively ( P =.0285); there was no statistically significant between-group difference at any other timepoint ( Figure 1 ).,0,0,0,0,0,0,0,0,0,0,0
+98,"No correlation was found between 1-day laser flare measurements and total macular volume values 3 weeks and 6 weeks after surgery ( P =.1168 and P =.3337, respectively).",0,0,0,0,0,0,0,0,0,0,0
+99,Anterior chamber flare values measured with a laser flare meter preoperatively and 1 day and 3 and 6 weeks postoperatively.,0,0,0,0,0,0,0,0,0,0,0
+100,"At 1 day, there were 5 extreme values in the control group; that is, 1056 photons/ms, 160 photons/ms, 104 photons/ms, 96 photons/ms, and 82 photons/ms (* = P <.05, statistically significant difference, Mann-Whitney U test; IR = interquartile range; Q = quartile).",0,0,0,0,0,0,0,0,0,0,0
+101,The median pupil size preoperatively was 7.00 mm (range 5.50 to 9.00 mm) in the nepafenac group and 7.00 mm (range 5.50 to 11.0 mm) in the placebo group ( P =.2260).,0,0,0,0,0,0,0,0,0,0,0
+102,"The median pupil size at the end of surgery was 7.50 mm (range 6.00 to 9.00 mm) and 8.00 mm (range 5.00 to 11.0 mm), respectively ( P =.2571).",0,0,0,0,0,0,0,0,0,0,0
+103,Statistically significantly more patients in the nepafenac group than in the control group reported being pain free during the day after surgery ( P <.0001); there was no significant difference between groups during surgery ( P =.1931) ( Figure 2 ).,0,0,0,0,0,0,0,0,0,0,0
+104,"Percentage of pain-free patients during the surgical procedure and 1 day after surgery (* = P <.05, statistically significant difference, Fisher exact test).",0,0,0,0,0,0,0,0,0,0,0
+105,"A higher percentage of patients in the nepafenac group than in the control group reported having no ocular discomfort or photophobia 1 day and 3 weeks postoperatively ( P <.0001 and P =.0058, respectively) ( Figures 3 and 4 ).",0,0,0,0,0,0,0,0,0,0,0
+106,"Percentage of ocular discomfort–free patients 1 day and 3 weeks after surgery (* = P <.05, statistically significant difference, Fisher exact test).",0,0,0,0,0,0,0,0,0,0,0
+107,"Percentage of photophobia-free patients 1 day and 3 weeks after surgery (* = P <.05, statistically significant difference, Fisher exact test).",0,0,0,0,0,0,0,0,0,0,0
+108,Mild to moderate punctuate epithelial defects of the cornea were found in both groups 3 weeks after treatment.,0,0,0,0,0,0,0,0,0,0,0
+109,Statistically significantly more patients in the nepafenac group than in the control group had corneal fluorescein staining (20 [26.7%] versus 8 [10.4%]) ( P =.0119).,0,0,0,0,0,0,0,0,0,0,0
+110,Headache was reported by 3 patients (4.0%) in the nepafenac group and 2 patients (2.6%) in the control group ( P =.9750).,0,0,0,0,0,0,0,0,0,0,0
+111,No other systemic or local untoward effects were recorded during 3 weeks of treatment in either study group.,0,0,0,0,0,0,0,0,0,0,0
+112,Both groups had a statistically significant reduction in IOP from baseline to the 6-week postoperative visit (both P <.0001).,0,0,0,0,0,0,0,0,0,0,0
+113,The mean IOP decreased from 15.5 mm Hg ± 3.0 (SD) to 13.8 ± 2.6 mm Hg in the nepafenac group and from 14.6 ± 2.6 mm Hg to 12.8 ± 2.9 mm Hg in the control group.,0,0,0,0,0,0,0,0,0,0,0
+114,Cystoid macular edema has an expected incidence of 1% to 2% or less after present-day uneventful cataract surgery when standard antiinflammatory regimens are used.,0,0,0,0,0,0,0,0,0,0,0
+115,"Thus, several hundreds of participants would have to be recruited to each treatment arm to determine the most efficient regimen for the prevention of clinically manifest CME.",0,0,0,0,0,0,0,0,0,0,0
+116,"With the advent of posterior segment OCT, a subclinical increase in foveal thickness can be easily detected.",0,0,0,0,0,0,0,0,0,0,0
+117,"Such an increase can be regarded as a precursor to, and thus a surrogate variable for, frank CME.",0,0,0,0,0,0,0,0,0,0,0
+118,"In the present study, 3 weeks of treatment with a combination of topical nepafenac and dexamethasone was found to be better than dexamethasone alone in controlling macular swelling up to 6 weeks after uneventful cataract surgery in low-risk patients.",0,0,0,0,0,0,0,0,0,0,0
+119,The swelling was discrete and did not translate into a difference in CDVA between the groups at the 6-week examination.,0,0,0,0,0,0,0,0,0,0,0
+120,"Nevertheless, 2 occurrences of OCT-confirmed CME were documented in the control group.",0,0,0,0,0,0,0,0,0,0,0
+121,Our results are at odds with those in an unmasked prospective study of a low-risk cataract population in which OCT data of the macula did not differ between those receiving prednisolone alone and those treated with prednisolone and added nepafenac for 4 weeks after surgery.,0,0,0,0,0,0,0,0,0,0,0
+122,"However, our results do concur with those in 2 other studies performed under different protocols, although both evaluated mainly patients at low risk.",0,0,0,0,0,0,0,0,0,0,0
+123,"In a retrospective open-label study, 4 weeks of nepafenac in combination with prednisolone eyedrops provided better protection against clinically manifest pseudophakic CME than 4 weeks of prednisolone alone.",0,0,0,0,0,0,0,0,0,0,0
+124,"In addition, a single-masked prospective trial with a standard regimen of dexamethasone for 10 days and an add-on arm with nepafenac for 6 weeks found less swelling of the macula with the latter regimen 2 and 6 weeks after uneventful cataract surgery.",0,0,0,0,0,0,0,0,0,0,0
+125,A recently published prospective double-masked study showing the superiority of nepafenac combined with steroids over steroids alone in preventing macular edema in diabetic patients with nonproliferative retinopathy having phacoemulsification lends further support to our findings.,0,0,0,0,0,0,0,0,0,0,0
+126,Other prospective controlled studies  with a design different than ours showed that NSAID eyedrops other than nepafenac given in addition to topical steroids curtailed increases in fovea thickness or mitigated CME after phacoemulsification.,0,0,0,0,0,0,0,0,0,0,0
+127,"Anterior chamber flare 1 day after surgery and the subjective parameters of pain, ocular discomfort, and photophobia during the first 3 postoperative weeks were better controlled with the combined regimen than with the control treatment in our study.",0,0,0,0,0,0,0,0,0,0,0
+128,"Results in 2 controlled studies confirm these properties of nepafenac; however, the studies evaluated nepafenac as a single treatment versus a placebo.",0,0,0,0,0,0,0,0,0,0,0
+129,Another quality of NSAID eyedrops is that they may reduce the miotic effect induced by surgery when they are administered with mydriatics before the operation.,0,0,0,0,0,0,0,0,0,0,0
+130,"However, in our study, pupil size was not different between the nepafenac group and the control group.",0,0,0,0,0,0,0,0,0,0,0
+131,"We believe that the intracameral injection of dilating and anesthetic agents given right after the paracentesis is created, along with the adrenaline added in the rinsing solution, may have masked the dilating effect of nepafenac.",0,0,0,0,0,0,0,0,0,0,0
+132,Punctuate corneal erosions were the only adverse events deemed to be treatment related in the present study.,0,0,0,0,0,0,0,0,0,0,0
+133,"They occurred in both groups, but significantly more often with nepafenac use (27% versus 10%).",0,0,0,0,0,0,0,0,0,0,0
+134,All erosions were mild to moderate in nature and did not translate into clinical symptoms because photophobia was significantly more pronounced in the control group.,0,0,0,0,0,0,0,0,0,0,0
+135,"Of previous studies of nepafenac, only 1 reported occasional punctuate keratitis; it was a randomized clinical study that recruited patients with diabetic retinopathy.",0,0,0,0,0,0,0,0,0,0,0
+136,There is also 1 case report of corneal melting associated with nepafenac treatment.,0,0,0,0,0,0,0,0,0,0,0
+137,"That case, however, had multiple risk factors that impaired the defense mechanisms of the cornea.",0,0,0,0,0,0,0,0,0,0,0
+138,"Still, the propensity of long-term topical NSAIDs to induce corneal erosions and even corneal melts calls for caution, and one should be mindful when prescribing nepafenac to patients who are at risk for developing corneal problems.",0,0,0,0,0,0,0,0,0,0,0
+139,"In summary, this study shows the beneficial effect of adding nepafenac to a standard regimen of topical dexamethasone to inhibit inflammation, with special reference to subclinical macular swelling, after cataract surgery in low-risk patients.",0,0,0,0,0,0,0,0,0,0,0
+140,"Further studies should explore the potential for this regimen in high-risk situations, such as in patients with pseudoexfoliation, uveitis, or perioperative capsule and iris complications.",0,0,0,0,0,0,0,0,0,0,0
+141,"As for low-risk situations, the present findings could be used in studies in which the protocol is reversed.",0,0,0,0,0,0,0,0,0,0,0
+142,"Given the evidence that nepafenac as a single treatment protects against angiographically proven CME far better than fluorometholone 0.1%, one could designate nepafenac as the standard and assess whether a combination with steroids would provide added value.",0,0,0,0,0,0,0,0,0,0,0
+143,The ultimate goal would be to define a standard of care for postoperative inflammation after cataract surgery.,0,0,0,0,0,0,0,0,0,0,0
+144,• A small and a subclinical increase in macular thickness appears after routine cataract surgery without accompanying visual impairment in patients with a low risk for CME.,0,0,0,0,0,0,0,0,0,0,0
+145,• Adding nepafenac to topical steroids inhibited subclinical macular swelling as well as other manifestations of inflammation in low-risk patients after uneventful cataract surgery.,0,0,0,0,0,0,0,0,0,0,0
+146,"Supported by Alcon Research Ltd , Fort Worth, Texas, USA, and S.A. Alcon-Couvreur N.V. , Puurs, Belgium, which produced and provided the masked eyedrop bottles.",0,0,0,0,0,0,0,0,0,0,0
+147,"Partially supported by Alcon, Inc. , Sweden.",0,0,0,0,0,0,0,0,0,0,0
+148,Financial support was also provided through the regional agreement on Medical training and Clinical research (ALF) between Stockholm County Council and Karolinska Institutet ( 20120623 ).,0,0,0,0,0,0,0,0,0,0,0
+149,The statistical analyses were supported by G. Andersson Foundation .,0,0,0,0,0,0,0,0,0,0,0

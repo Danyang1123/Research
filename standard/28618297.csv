@@ -1,0 +1,231 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Aphasia is a common consequence of stroke.,N,0,0,0,N,N,0,N,N,N,N
+1,"Despite receiving specialised training in communication, speech-language pathology students may lack confidence when communicating with People with Aphasia (PWA).",N,0,0,0,N,N,0,N,N,N,N
+2,This paper reports data from secondary outcome measures from a randomised controlled trial.,N,0,0,0,N,N,0,N,N,N,N
+3,The aim of the current study was to examine the effects of communication partner training on the communication skills of speech-language pathology students during conversations with PWA.,N,0,0,0,N,N,0,N,N,N,N
+4,Thirty-eight speech-language pathology students were randomly allocated to trained and untrained groups.,N,1,0,0,N,N,0,N,N,N,N
+5,"The first group received a lecture about communication strategies for communicating with PWA then participated in a conversation with PWA (Trained group), while the second group of students participated in a conversation with the PWA without receiving the lecture (Untrained group).",N,0,0,0,N,N,0,N,N,N,N
+6,"The conversations between the groups were analysed according to the Measure of skill in Supported Conversation (MSC) scales, Measure of Participation in Conversation (MPC) scales, types of strategies used in conversation, and the occurrence and repair of conversation breakdowns.",N,0,0,0,N,N,0,N,N,N,N
+7,"The trained group received significantly higher MSC Revealing Competence scores, used significantly more props, and introduced significantly more new ideas into the conversation than the untrained group.",N,0,0,0,N,N,0,N,N,N,N
+8,"The trained group also used more gesture and writing to facilitate the conversation, however, the difference was not significant.",N,0,0,0,N,N,0,N,N,N,N
+9,"There was no significant difference between the groups according to MSC Acknowledging Competence scores, MPC Interaction or Transaction scores, or in the number of interruptions, minor or major conversation breakdowns, or in the success of strategies initiated to repair the conversation breakdowns.",N,0,0,0,N,N,0,N,N,N,N
+10,Speech-language pathology students may benefit from participation in communication partner training programs.,N,0,0,0,N,N,0,N,N,N,N
+11,"Aphasia, an acquired language disorder, is a common consequence of stroke (Pedersen, Stig Jørgensen, Nakayama, Raaschou, & Olsen, 1995).",N,0,0,0,N,N,0,N,N,N,N
+12,"Given that the management of communication disorders is core practice in speech-language pathology, during their university training speech-language pathology students are required to rapidly develop effective interpersonal and clinical skills for interacting with People with Aphasia (PWA).",N,0,0,0,N,N,0,N,N,N,N
+13,"Despite receiving specialised training in communication, research has demonstrated that speech-language pathology students can lack confidence and experience anxiety when communicating with PWA.",N,0,0,0,N,N,0,N,N,N,N
+14,Jagoe and Roseingrave (2011) found that speech-language pathology students were highly apprehensive at the prospect of communicating with PWA during a service learning module involving pairs of students visiting a PWA.,N,0,0,0,N,N,0,N,N,N,N
+15,(2013) found that a cohort of 49 speech-language pathology students reported low levels of confidence and limited knowledge of strategies for communicating effectively with PWA.,N,0,0,0,N,N,0,N,N,N,N
+16,"The combined effect of a lack of confidence and strategies for practically applying communication skills can be magnified by an unfamiliar clinical environment, potentially creating anxiety for students and detrimentally shifting the focus away from learning valuable clinical reasoning skills (Finch et al., 2013).",N,0,0,0,N,N,0,N,N,N,N
+17,One potential approach to improve the confidence and knowledge of strategies for communicating with PWA is through Communication Partner Training (CPT).,N,0,0,0,N,N,0,N,N,N,N
+18,"CPT has been defined as: “An intervention directed at people other than the person with aphasia with the intent of improving the language, communication, participation, and/or wellbeing of the person with aphasia” (Simmons-Mackie, Raymer, Armstrong, Holland, & Cherney, 2010, p.1814).",N,0,0,0,N,N,0,N,N,N,N
+19,A systematic review by Simmons-Mackie et al.,N,0,0,0,N,N,0,N,N,N,N
+20,(2010) revealed that CPT can effectively improve the communication activities and/or participation of communication partners in conversations with PWA.,N,0,0,0,N,N,0,N,N,N,N
+21,"Twenty-five of the 31 studies included in the systematic review involved caregivers or family members, that is familiar people, as communication partners.",N,0,0,0,N,N,0,N,N,N,N
+22,"However, in everyday life, conversations are not usually restricted to only familiar conversation partners.",N,0,0,0,N,N,0,N,N,N,N
+23,This is particularly relevant for PWA who may interact regularly with a variety of health professionals as part of their stroke management.,N,0,0,0,N,N,0,N,N,N,N
+24,"Accordingly, over the last few years, there has been a move towards investigating the effects of CPT or other supported communication programs with unfamiliar conversation partners, such as health professionals and health professional students (Cameron et al., 2015; Horton, Lane, & Shiggins, 2016; Wilkinson, Sheldrick, O’Halloran, & Davenport, 2013).",N,0,0,0,N,N,0,N,N,N,N
+25,"In terms of research investigating the effects of CPT with unfamiliar communication partners, a randomised controlled trial by Legg, Young, and Bryer (2005) found that CPT improved the communication skills of sixth-year medical students when obtaining case histories from PWA.",N,0,0,0,N,N,0,N,N,N,N
+26,"Specifically, the CPT trained students’ abilities significantly improved with respect to exploring the patient’s issues, structuring the case history session, developing rapport, and acknowledging and revealing the communicative competence of the patient (Legg et al., 2005).",N,0,0,0,N,N,0,N,N,N,N
+27,"A more recent study by Saldert, Forsgren, and Hartelius (2016) examined the effects of a lecture and/or interactive workshop on medical students’ knowledge about communicating with people with speech and language disorders.",N,0,0,0,N,N,0,N,N,N,N
+28,"All students received a lecture about speech and language disorders, with a subset also participating in a workshop.",N,0,0,0,N,N,0,N,N,N,N
+29,The students’ self-ratings of confidence in knowledge about communicating with people with speech and language disorders were compared with speech-language pathologist ratings of their ability to select appropriate communication strategies.,N,0,0,0,N,N,0,N,N,N,N
+30,"The lecture and workshop increased the students’ confidence in their own knowledge about communication disorders, however, only workshop participants displayed a statistically significant increase in their ability to select appropriate communication strategies.",N,0,0,0,N,N,0,N,N,N,N
+31,"Interestingly, students’ self-rated confidence and the speech-language pathologists’ ratings of their ability to select appropriate communication strategies were not significantly correlated (Saldert et al., 2016).",N,0,0,0,N,N,0,N,N,N,N
+32,"In terms of students from other health disciplines, Cameron et al.",N,0,0,0,N,N,0,N,N,N,N
+33,"(2015) found that CPT, involving a theoretical lecture about aphasia followed by the opportunity to practise the communication skills in a supported, non-graded environment, significantly improved the confidence and knowledge of effective communication skills of occupational therapy and physiotherapy students.",N,0,0,0,N,N,0,N,N,N,N
+34,Whether or not this then equated to changes in communication strategy use during conversations with PWA is unknown.,N,0,0,0,N,N,0,N,N,N,N
+35,Increased confidence when communicating with PWA following CPT programs has also been reported with speech-language pathology students (Finch et al.,N,0,0,0,N,N,0,N,N,N,N
+36,"(submitted); Jagoe and Roseingrave, 2011, Wilkinson et al., 2013).",N,0,0,0,N,N,0,N,N,N,N
+37,Students in a study by Jagoe and Roseingrave (2011) reported heightened confidence and lessened anxiety after conversing with PWA during a reflective letter writing task as part of a service learning module.,N,0,0,0,N,N,0,N,N,N,N
+38,"A participatory research approach by McMenamin Tierney, and MacFarlane (2015), involving PWA and other key stakeholders (notably speech-language pathologists and students) as both research participants and co-researchers, found that students and PWA reported improved confidence levels and that the non-stressful, nonclinical environment facilitated conversations.",N,0,0,0,N,N,0,N,N,N,N
+39,"The CPT program involved pairs of third year speech-language pathology students visited people with aphasia 10 times over 14 weeks (McMenamin et al., 2015).",N,0,0,0,N,N,0,N,N,N,N
+40,"As communication support training programs should ideally be evaluated in an observational context (Parry & Brown, 2009), there is a need to investigate the effects of CPT on the interactions of speech-language pathology students with PWA to examine whether CPT programs produce a beneficial change in conversation behaviours.",N,0,0,0,N,N,0,N,N,N,N
+41,"While previous research has demonstrated that CPT can improve students’ and health professionals’ confidence and knowledge of effective communication strategies for communicating with PWA (Cameron et al., 2015; Finch et al.",N,0,0,0,N,N,0,N,N,N,N
+42,"(submitted); Jagoe and Roseingrave, 2011, Wilkinson et al., 2013), we do not know whether this also translates into more effective communication behaviours during conversation.",N,0,0,0,N,N,0,N,N,N,N
+43,"Therefore, the aim of the current study was to address this knowledge gap by comparing the communication behaviours of students trained in CPT with untrained students during conversations with the same PWA.",N,0,0,0,N,N,0,N,N,N,N
+44,"Specifically, the aim of the present study examine the effects of CPT on the communication behaviours of speech-language pathology students during conversations with PWA.",N,0,0,0,N,N,0,N,N,N,N
+45,The current study sought to determine whether there was a difference between the groups at a global participation and support level and then at a more microscopic level of conversational analysis.,N,0,0,0,N,N,0,N,N,N,N
+46,"It was hypothesised that the CPT trained group would obtain higher scores on communication participation and support measures, display greater use of conversation strategies, and experience fewer conversation breakdowns.",N,0,0,0,N,N,0,N,N,N,N
+47,"Further, it was hypothesised that if a conversation breakdown occurred, the trained group would use more successful repair strategies than the untrained group.",N,0,0,0,N,N,0,N,N,N,N
+48,Ethical clearance was obtained from the relevant hospital and university ethics committees.,N,0,0,0,N,N,0,N,N,N,N
+49,"To evaluate the effects of CPT on conversations between the speech-language pathology students and PWA, a two parallel arm randomised controlled trial with students randomly allocated to CPT and untrained groups design was employed (Australian New Zealand Clinical Trials Registry Trial ID: 12611000833965) (Finch et al.",N,0,0,0,N,N,0,N,N,N,N
+50,This paper reports data from secondary outcome measures.,N,0,0,0,N,N,0,N,N,N,N
+51,Demographic information by group is presented in Table 1.,N,0,0,0,N,N,0,N,N,N,N
+52,"The speech-language pathology students comprised 38 students (37 female, 1 male).",N,0,0,0,N,N,0,N,N,N,N
+53,The students were currently completing the second year (n = 25) of an undergraduate speech-language pathology program or the first year of a graduate entry masters speech-language pathology program (n = 13).,N,0,0,0,N,N,0,N,N,N,N
+54,"At the time of the current study, the undergraduate students had completed 24 units of a 64 unit course, while the graduate entry masters students had completed 16 units of a 40 unit course.",N,0,0,0,N,N,0,N,N,N,N
+55,"Students in both groups were specifically selected at this stage of their educational program, as they had received university lectures about aphasia but had not had substantial clinical contact with PWA.",N,0,0,0,N,N,0,N,N,N,N
+56,Students from other stages of the university speech-language pathology program (such as students who had not received lectures about aphasia as part of their coursework or those who had participated in clinical placements with PWA) were not included.,N,0,0,0,N,N,0,N,N,N,N
+57,Only seven students in total across the two groups reported contact with PWA prior to the study.,N,0,0,0,N,N,0,N,N,N,N
+58,"These limited interactions included one day of work experience (n = 2), reception work (n = 1), volunteer work (n = 2), a relative outside of the participant’s immediate family (n = 1), and a friend (n = 1).",N,0,0,0,N,N,0,N,N,N,N
+59,"There were no statistically significant differences between the groups on any of the demographic variables, including contact with PWA or stage of their university speech-language pathology program (all ps > .05).",N,0,0,0,N,N,0,N,N,N,N
+60,"Using a computer-generated random number allocation system (SM), the speech-language pathology students were allocated to two groups.",N,1,0,0,N,N,0,N,N,N,N
+61,"Group allocation was concealed in individual numbered opaque envelopes (SM, AC, EF) that were opened by participants and recorded by a member of the researcher team (AC) at the commencement of the training day.",N,0,0,0,N,N,0,N,N,N,N
+62,"The first group of students received a lecture about communication strategies for communicating effectively with PWA and then participated in a conversation with the PWA (trained group), while the second group of students participated in a conversation with the PWA without receiving the lecture about communication strategies (untrained group).",N,0,0,0,N,N,0,N,N,N,N
+63,No participants were lost or excluded following randomisation.,N,0,0,0,N,N,0,N,N,N,N
+64,"The PWA were recruited from an aphasia outpatient social group at a single, metropolitan hospital in Australia.",N,0,0,0,N,N,0,N,N,N,N
+65,"In total, 10 PWA (5 males, 5 females) participated in the study.",N,0,0,0,N,N,0,N,N,N,N
+66,The mean age was 61 years (SD = 10) and the mean time post-stroke was 48 months (SD = 15).,N,0,0,0,N,N,0,N,N,N,N
+67,All participants were diagnosed with aphasia by a speech-language pathologist prior to their inclusion in the study.,N,0,0,0,N,N,0,N,N,N,N
+68,The severity of the aphasia of the participants ranged from mild to moderate-severe.,N,0,0,0,N,N,0,N,N,N,N
+69,"As the PWA were not receiving speech pathology intervention at the time of the study, up to date specific assessment data was not available.",N,0,0,0,N,N,0,N,N,N,N
+70,The only other inclusion criteria included possessing adequate cognitive capacity and time availability to participate in both the training program and the conversations with the students.,N,0,0,0,N,N,0,N,N,N,N
+71,The intervention in the randomised controlled trial has been described in more detail in Finch et al.,N,0,0,0,N,N,0,N,N,N,N
+72,The CPT was conducted over a single morning in the speech-language pathology clinic rooms at The University of Queensland.,N,0,0,0,N,N,0,N,N,N,N
+73,Both the training and the measurement of outcomes occurred during a single morning.,N,0,0,0,N,N,0,N,N,N,N
+74,The trained students received the lecture at the same time that the untrained group participated in the conversations with the PWA.,N,0,0,0,N,N,0,N,N,N,N
+75,At the time of the conversations the untrained group was unaware that the trained students were receiving a lecture about communication strategies.,N,0,0,0,N,N,0,N,N,N,N
+76,The PWA were also not aware that half of the students would receive a lecture about communication strategies prior to participating in the conversations.,N,0,0,0,N,N,0,N,N,N,N
+77,The untrained student group was informed about the lecture after their conversations with the PWA.,N,0,0,0,N,N,0,N,N,N,N
+78,The trained and untrained students were never mixed together for the conversations.,N,0,0,0,N,N,0,N,N,N,N
+79,The lecture about strategies to communicate effectively with PWA was based on the training program developed by Connect – the communication disability network in the United Kingdom (2007).,N,0,0,0,N,N,0,N,N,N,N
+80,The lecture lasted for approximately 20 min and was delivered face-to-face by a speech pathologist using Microsoft PowerPoint® slides and video examples.,N,0,0,0,N,N,0,N,N,N,N
+81,"The lecture included information about what is a conversation, aphasia, impact of aphasia on conversations, and strategies to communicate effectively with PWA.",N,0,0,0,N,N,0,N,N,N,N
+82,"Prior to commencement of the study, all PWA participated in a training program (12 h over 6 weeks) about techniques to assist people to communicate with people with aphasia and communication strategies, based on Connect’s ‘Running A Conversation Partner Scheme’ program (Connect the communication disability network, 2011).",N,0,0,0,N,N,0,N,N,N,N
+83,The purpose of the training was to empower the PWA to share their knowledge and skills with other people to help improve the communicative environment for PWA.,N,0,0,0,N,N,0,N,N,N,N
+84,"The training program included information about aphasia, conversation, impact of aphasia on conversations, supported conversation, effective communication techniques, communicative competence, conversation breakdown repair, and giving feedback about conversation performance (Connect the communication disability network, 2011).",N,0,0,0,N,N,0,N,N,N,N
+85,The training program also included having a conversation with a health professional and providing feedback to the health professional about his/her communication skills.,N,0,0,0,N,N,0,N,N,N,N
+86,The purpose of this second stage was for the PWA to gain practical experience in giving feedback about conversation performance.,N,0,0,0,N,N,0,N,N,N,N
+87,"Within each group, the students were randomly divided into groups of 2–3 students for the conversations to minimise any potential anxiety.",N,0,0,0,N,N,0,N,N,N,N
+88,Within each study group (Trained or Untrained) there was one subgroup with three students.,N,0,0,0,N,N,0,N,N,N,N
+89,All other student groups had 2 students per group.,N,0,0,0,N,N,0,N,N,N,N
+90,The students participated in one conversation only with the PWA.,N,0,0,0,N,N,0,N,N,N,N
+91,The PWA were divided into groups of 1–2 people based on their aphasia severity such that individuals with more severe aphasia were partnered with individuals with milder aphasia.,N,0,0,0,N,N,0,N,N,N,N
+92,Each conversation was therefore a group conversation with 2–3 students conversing with 1–2 PWA.,N,0,0,0,N,N,0,N,N,N,N
+93,"In conversations where there were 2 PWA, each student was expected to communicate with both PWA.",N,0,0,0,N,N,0,N,N,N,N
+94,The conversations occurred in closed clinic rooms with Closed Circuit Television (CCTV) recording such that the students who were not part of the conversation were unable to observe the conversation that was occurring.,N,0,0,0,N,N,0,N,N,N,N
+95,The conversations were only observed by members of the research team via the CCTV set-up in a control room.,N,0,0,0,N,N,0,N,N,N,N
+96,The students were instructed to have a general conversation with the PWA.,N,0,0,0,N,N,0,N,N,N,N
+97,No requests were made for specific egocentric information or topic choices.,N,0,0,0,N,N,0,N,N,N,N
+98,The students and PWA were randomly allocated to clinic rooms so that the students were unable to choose the PWA with which they conversed.,N,0,0,0,N,N,0,N,N,N,N
+99,"As per Cunningham and Ward (2003), 15 min was selected as the target length of conversation to provide ample time for conversation.",N,0,0,0,N,N,0,N,N,N,N
+100,"During the conversations, the students and PWA were provided with props to stimulate conversation, including newspapers and maps.",N,0,0,0,N,N,0,N,N,N,N
+101,All conversations were videorecorded for subsequent transcription and analysis.,N,0,0,0,N,N,0,N,N,N,N
+102,"At the end of each conversation, the PWA provided verbal and visual feedback to the students on an aphasia-friendly form about their communication techniques and strategies used via the Connect feedback form from the Conversation Partner Toolkit, Tool 1.16 (Connect The Communication Disability Network, 2007).",N,0,0,0,N,N,0,N,N,N,N
+103,"The Feedback form provided some questions in an aphasia friendly format for an informal discussion about the conversation experience (e.g., Was the conversation comfortable and relaxed?",N,0,0,0,N,N,0,N,N,N,N
+104,Overall; how was the conversation for you?),N,0,0,0,N,N,0,N,N,N,N
+105,"(Connect The Communication Disability Network, 2007).",N,0,0,0,N,N,0,N,N,N,N
+106,The questions positively reinforced strategies used by the students and highlighted strategies which could be used in the future.,N,0,0,0,N,N,0,N,N,N,N
+107,The feedback was informal and provided as part of the learning experience so was not analysed.,N,0,0,0,N,N,0,N,N,N,N
+108,Following the conversation; the students in the untrained group were offered the opportunity to attend the lecture about communication strategies.,N,0,0,0,N,N,0,N,N,N,N
+109,Video data from the conversations was transcribed and jointly analysed by a group of three trained research assistants blinded to group allocation.,N,0,0,0,N,N,0,N,N,N,N
+110,"As the research assistants analysed the videos together using a group consensus approach rather than completing the ratings independently, no reliability estimates were available.",N,0,0,0,N,N,0,N,N,N,N
+111,"The transcribed conversations were analysed initially at a global level using the Measure of skill in Supported Conversation (MSC) and the Measure of Participation in Conversation (MPC) (Kagan et al., 2004).",N,0,0,0,N,N,0,N,N,N,N
+112,The MSC rates the skill of the conversation partner on two scales: Acknowledging Competence and Revealing Competence.,N,0,0,0,N,N,0,N,N,N,N
+113,The Acknowledging Competence score includes ensuring that the conversation is appropriate to the context and that the communication partner is sensitive to the PWA.,N,0,0,0,N,N,0,N,N,N,N
+114,"The Revealing Competence score includes ensuring that the PWA understands the conversation and has a method of participating in the conversation, and verifying what the PWA communicated.",N,0,0,0,N,N,0,N,N,N,N
+115,The MPC rates the participation of the PWA according to the PWA’s social connection with the communication partner (Interaction score) and the ability of the PWA to exchange information (Transaction score).,N,0,0,0,N,N,0,N,N,N,N
+116,The scales range from 0 (totally inadequate) to 4 (outstanding) with 0.5 intermediate scoring acceptable.,N,0,0,0,N,N,0,N,N,N,N
+117,"The MSC and MPC have been found to perform highly in terms of reliability and validity (Kagan et al., 2004).",N,0,0,0,N,N,0,N,N,N,N
+118,"It is important to note that the scales were designed to be complementary measures used as set to describe the conversation dyad between the conversation partner and the PWA, and that due to the collaborative nature of conversation, the measures are inherently linked (Kagan et al., 2004).",N,0,0,0,N,N,0,N,N,N,N
+119,"For more detail about the scales, please refer to Kagan et al.",N,0,0,0,N,N,0,N,N,N,N
+120,"(2004) cautioned that conversation should not be evaluated solely at a global level and that more detailed analyses in the form of conversation, pragmatics, or cognitive neuropsychological analyses should also be conducted.",N,0,0,0,N,N,0,N,N,N,N
+121,"Therefore, a second level of analysis was performed using conversational analysis of the transcriptions.",N,0,0,0,N,N,0,N,N,N,N
+122,"During the conversational analysis, multiple aspects of conversation were analysed including, non-verbal communicative behaviour, conversation breakdowns, introduction of new ideas into the conversation, and interruptions (Cunningham & Ward, 2003).",N,0,0,0,N,N,0,N,N,N,N
+123,"As per Cunningham and Ward (2003), non-verbal communicative behaviours were classified into the following groups: use of props, use of gesture, writing, drawing, touch, and other non-verbal behaviours.",N,0,0,0,N,N,0,N,N,N,N
+124,The frequency with which behaviours occurred under each category was recorded for subsequent analysis.,N,0,0,0,N,N,0,N,N,N,N
+125,The identification of non-verbal communicative behaviours using the approach described by Cunningham and Ward (2003) has been reported by the authors to have good inter-rater reliability based upon intraclass correlation coefficients.,N,0,0,0,N,N,0,N,N,N,N
+126,"Conversation breakdowns (i.e., blockages to the flow of the conversation) were classified as either major or minor.",N,0,0,0,N,N,0,N,N,N,N
+127,"Unsuccessful conversation repairs after a conversation breakdown were further analysed according to whether the repair strategy was successful or unsuccessful (Cunningham & Ward, 2003).",N,0,0,0,N,N,0,N,N,N,N
+128,"Intra-rater reliability for the conversation analysis outlined by Cunningham and Ward (2003) has been described by the authors as variable, with intraclass correlation coefficients ranging from poor to good for the 14 categories (Cunningham & Ward, 2003).",N,0,0,0,N,N,0,N,N,N,N
+129,Data analysis occurred by original assigned groups.,N,0,0,0,N,N,0,N,N,N,N
+130,"Following transcription, the data were analysed by the research assistants according to the MSC, MPC and conversational analysis features outlined above.",N,0,0,0,N,N,0,N,N,N,N
+131,Both the students and the PWA were analysed with scores assigned to each individual separately.,N,0,0,0,N,N,0,N,N,N,N
+132,The research assistants were provided with direct instruction and training regrading data analysis by a member of the research team (EF).,N,0,0,0,N,N,0,N,N,N,N
+133,This occurred during an initial training session over one afternoon.,N,0,0,0,N,N,0,N,N,N,N
+134,The research assistants then checked back with the team member (EF) during the data analysis process.,N,0,0,0,N,N,0,N,N,N,N
+135,"Once the analyses were completed, the research assistants discussed their analysis with a member of the research team (EF) for further checking.",N,0,0,0,N,N,0,N,N,N,N
+136,Data analysis was conducted using Microsoft Excel 2013 and IBM Statistical Software for the Social Sciences (SPSS) Version 22.,N,0,0,0,N,N,0,N,N,N,N
+137,"Due to the skewed nature of some of the data, non-parametric statistical analyses were employed.",N,0,0,0,N,N,0,N,N,N,N
+138,"A series of Mann-Whitney U Tests were used to analyse the difference between the trained and untrained students groups according to MSC Acknowledging Competence and Revealing Competence scores and the frequency of non-verbal behaviours, communication breakdowns and the success of repairs, number of new topics introduced, and number of interruptions.",N,0,0,0,N,N,0,N,N,N,N
+139,Wilcoxon Signed Rank Tests were used to analyse the difference in conversation participation by the PWA with the trained student group compared to the untrained student groups according to MPC Interaction and Transaction scores.,N,0,0,0,N,N,0,N,N,N,N
+140,Correlations using spearman’s rank order correlation were used to determine whether there were significant correlations between any of the variables for the students and PWA separately.,N,0,0,0,N,N,0,N,N,N,N
+141,A significance value of .01 was used for all analyses.,N,0,0,0,N,N,0,N,N,N,N
+142,"The trained group received significantly higher MSC Revealing Competence scores, used significantly more props during the conversations, and introduced significantly more new ideas into the conversation than the untrained group (See Table 2 and Fig.",N,0,0,0,N,N,0,N,N,N,N
+143,"The trained group also used more gesture and writing to facilitate the conversation, however, the differences were not significant.",N,0,0,0,N,N,0,N,N,N,N
+144,"The props used during the conversations included newspapers, pens and paper for writing and drawing, emotion pictures, and photographs.",N,0,0,0,N,N,0,N,N,N,N
+145,Additional props (such as maps and calendars) were also present in the rooms.,N,0,0,0,N,N,0,N,N,N,N
+146,"The conversation topics included: weather, plans for the weekend, stroke, rehabilitation, aphasia, mobile phones, the speech pathology program, hobbies, sport, animals, family members, and country of origin.",N,0,0,0,N,N,0,N,N,N,N
+147,"There was no significant difference between the groups according to MSC Acknowledging Competence scores, the number of interruptions, or number of minor or major conversation breakdowns.",N,0,0,0,N,N,0,N,N,N,N
+148,"Particularly in the case of interruptions, both groups were good at not interrupting so there was minimal room for a difference between the groups.",N,0,0,0,N,N,0,N,N,N,N
+149,There was also no significant difference between the groups with respect to the success of strategies initiated to repair the conversation breakdowns (See Table 2).,N,0,0,0,N,N,0,N,N,N,N
+150,No students in either group used drawing or touch.,N,0,0,0,N,N,0,N,N,N,N
+151,There was no significant difference in the participation of PWA in conversations with the trained or untrained groups according MPC Interaction or Transaction scores (both p > .01; See Table 3).,N,0,0,0,N,N,0,N,N,N,N
+152,Graphical representation of the comparison of conversation performance between trained and untrained students.,N,0,1,1,N,N,1,N,N,N,N
+153,Median MPC Interaction and Transaction scores for the PWA.,N,0,0,0,N,N,0,N,N,N,N
+154,Comparison between conversation performance of trained and untrained speech-language pathology students.,N,0,0,0,N,N,0,N,N,N,N
+155,"For the students, there was a statically significant large correlation between MSC Revealing Competence and MSC Acknowledging Competence scores (rho = .584, p < .001; See Table 4).",N,0,0,0,N,N,0,N,N,N,N
+156,"For the PWA, there was a statistically significant large correlation between MPC Interaction and MPC Transaction scores (rho = .644, p < .001; See Table 5).",N,0,0,0,N,N,0,N,N,N,N
+157,"The introduction of new ideas into the conversation was significantly correlated with MSC Revealing Competence (rho = .702, p < .001) and MPC Transaction (rho = .509, p = .003) scores (See Table 4, Table 5).",N,0,0,0,N,N,0,N,N,N,N
+158,"The use of gesture as a strategy was significantly correlated with MSC Acknowledging Competence (rho = .491, p = .002), and MSC Revealing Competence (rho = .742, p < .001).",N,0,0,0,N,N,0,N,N,N,N
+159,Correlations between variables for the students using Spearman's rho.,N,0,0,0,N,N,0,N,N,N,N
+160,Correlations between variables for the People With Aphasia using Spearman's rho.,N,0,0,0,N,N,0,N,N,N,N
+161,The aim of the current study was to examine the effects of CPT on the communication skills of speech-language pathology students during conversations with PWA.,N,0,0,0,N,N,0,N,N,N,N
+162,"Overall, we found that the students who participated in CPT prior to conversations with PWA received significantly higher MSC Revealing Competence scores, used significantly more props during conversation, and introduced significantly more ideas into the conversation compared to untrained students.",N,0,0,0,N,N,0,N,N,N,N
+163,"There were no significant differences between the groups on MSC Acknowledging Competence score, MPC Transaction or Interaction scores, number of interruptions, number of minor or major conversation breakdowns, or the success of strategies initiated to repair the conversation breakdowns.",N,0,0,0,N,N,0,N,N,N,N
+164,The results suggest that training was effective in improving interactions with PWA as indicated by the MSC Revealing Competence scores.,N,0,0,0,N,N,0,N,N,N,N
+165,"The MSC Revealing Competence score is based on areas such as ensuring that the person with aphasia understands the conversation, verifying what the person with aphasia has communicated, and ensuring that the person with aphasia has a method of participating in the conversation (Kagan et al., 2004).",N,0,0,0,N,N,0,N,N,N,N
+166,These were all topics addressed during the lecture component of the training program.,N,0,0,0,N,N,0,N,N,N,N
+167,The higher MSC Revealing Competence scores by the trained students compared to the untrained students suggests that the trained students were successfully applying the information and strategies gained during the lecture to real-life conversations with PWA.,N,0,0,0,N,N,0,N,N,N,N
+168,"Interestingly, in the present study, contrary to MSC Revealing Competence, there was no significant difference between the groups in terms of MSC Acknowledging Competence scores.",N,0,0,0,N,N,0,N,N,N,N
+169,"This scale involves ensuring that conversation is appropriate to the context and that the communication partner is sensitive to the person with aphasia (Kagan et al., 2004).",N,0,0,0,N,N,0,N,N,N,N
+170,"The lack of a difference between the two groups on this scale may have reflected the fact that all of the students had received theoretical information about aphasia as part of their routine coursework prior to the study, and were therefore all sensitive to the PWA.",N,0,0,0,N,N,0,N,N,N,N
+171,"Additionally, given that the context of the conversation was somewhat contrived for the purposes of the training program, it may have been difficult for the students to improve their competence in tailoring the conversation to be more appropriate to the context.",N,0,0,0,N,N,0,N,N,N,N
+172,The CPT did not significantly improve the participation of PWA in conversations with the trained students compared to the untrained students according to MPC Interaction and Transaction scores.,N,0,0,0,N,N,0,N,N,N,N
+173,"The MPC Interaction score reflected the social connection between the person with aphasia and their communication partner, while the MPC Transaction score reflected the ability of the PWA to exchange information (Kagan et al., 2004).",N,0,0,0,N,N,0,N,N,N,N
+174,It must be noted that the training program did not specifically target the person with aphasia; instead training was provided to the speech pathology students.,N,0,0,0,N,N,0,N,N,N,N
+175,"As a result, it was unlikely that changes would occur in MPS Transaction scores, which largely reflect the person with aphasia’s communication skills.",N,0,0,0,N,N,0,N,N,N,N
+176,"In contrast with the MPC Transaction scores, the MPC Interaction scores examined social connections and thus had more potential to be influenced by the skills and confidence of the students.",N,0,0,0,N,N,0,N,N,N,N
+177,"That said, a significant difference was not observed when the PWA were conversing with trained students compared to the untrained students.",N,0,0,0,N,N,0,N,N,N,N
+178,The trained students introduced significantly more new ideas into the conversations than the untrained students.,N,0,0,0,N,N,0,N,N,N,N
+179,It is possible that after receiving CPT the trained students felt more relaxed and more confident (as per Jagoe and Roseingrave (2011) and Wilkinson et al.,N,0,0,0,N,N,0,N,N,N,N
+180,"(2013)), and therefore, were more capable of focusing on the actual conversation and keeping the ideas flowing than the untrained students.",N,0,0,0,N,N,0,N,N,N,N
+181,"This finding may also reflect that the students had learnt strategies for introducing new topics, or had benefitted from examples of conversation topics role modelled in the training.",N,0,0,0,N,N,0,N,N,N,N
+182,This is reflected in the presence of a significant correlations between the frequent introduction of new ideas and higher MSC Acknowledging Competence and MPC Transaction scores.,N,0,0,0,N,N,0,N,N,N,N
+183,"The trained students in the present study used more strategies to facilitate communication than the untrained students, however, the difference between the groups was only significant for the number of props used.",N,0,0,0,N,N,0,N,N,N,N
+184,This occurred regardless of all the measured strategies being included in the formal lecture.,N,0,0,0,N,N,0,N,N,N,N
+185,The findings of the present study contrast with those of Cunningham and Ward (2003) who found that training dyads (a PWA and a relative/friend) produced a non-significant increase in the use of gesture in 3 out of 4 trained dyads.,N,0,0,0,N,N,0,N,N,N,N
+186,"The difference between the groups in the present study may have reflected the content of the formal lecture and/or the length of the training, as Cunningham and Ward (2003) involved weekly 1.5 h sessions for 5 weeks while the current study involved only a single morning training session.",N,0,0,0,N,N,0,N,N,N,N
+187,"Previous research has revealed that CPT with healthcare students can lead to self-reported increases in confidence communicating with PWA and increased recall of strategies for communicating effectively with PWA (Cameron et al., 2015, Jagoe and Roseingrave, 2011, McMenamin et al., 2015).",N,0,0,0,N,N,0,N,N,N,N
+188,The present study extended this body of research by revealing that participation in a CPT program can encourage speech-language pathology students to use effective communication behaviours during conversation with PWA.,N,0,0,0,N,N,0,N,N,N,N
+189,"Specifically, students who participated in CPT prior to conversations with PWA received significantly higher MSC Revealing Competence scores, used significantly more props during conversation, and introduced significantly more ideas into the conversation compared to untrained students.",N,0,0,0,N,N,0,N,N,N,N
+190,It is possible that these behaviours may have reflected an increased knowledge of communication strategies (stemming from the lecture component of the CPT) and a generalised higher sense of self-confidence about communicating with PWA than experienced by the untrained students who did not receive the CPT lecture before the conversation.,N,0,0,0,N,N,0,N,N,N,N
+191,"It is interesting, however, that there was not a uniformly greater use of all strategies by the trained group compared to the untrained group.",N,0,0,0,N,N,0,N,N,N,N
+192,"In the present study, the props used during the conversations included newspapers, pens and paper for writing and drawing, emotion pictures, and photographs.",N,0,0,0,N,N,0,N,N,N,N
+193,"The conversation topics included weather, plans for the weekend, stroke, rehabilitation, aphasia, mobile phones, the speech pathology program, hobbies, sport, animals, family members, and country of origin.",N,0,0,0,N,N,0,N,N,N,N
+194,"While it is possible that the students in the trained group just happened to select topics of conversation that lend themselves to prop use, we think that it is more likely that the increased use of props by the trained group reflected the lecture content, which discussed the use of props such as those used by the students.",N,0,0,0,N,N,0,N,N,N,N
+195,"It is interesting to note, however, that additional props (such as maps and calendars) were also present in the rooms, but were unused by both groups despite some of the conversation topics lending themselves to these props.",N,0,0,0,N,N,0,N,N,N,N
+196,It is possible that the students and PWA thought that the props were not required or that they simple forgot the props were present in the room.,N,0,0,0,N,N,0,N,N,N,N
+197,"Interestingly, in the present study there was no significant difference between the groups according to the number of interruptions or conversation breakdowns or in the success of strategies used to repair the conversation breakdowns.",N,0,0,0,N,N,0,N,N,N,N
+198,Cunningham and Ward (2003) also found no significant difference in the proportion of successful repair sequences.,N,0,0,0,N,N,0,N,N,N,N
+199,"The results of the present study suggested that while the training program led into an increase in the use of strategies to facilitate communication, a similar carryover effect was not observed in terms of conversation breakdowns or repairs.",N,0,0,0,N,N,0,N,N,N,N
+200,"We note, however, that in the case of interruptions, both groups were good at not interrupting so there was minimal room for a difference between the groups.",N,0,0,0,N,N,0,N,N,N,N
+201,"Correlation analyses revealed that there was a statically significant large correlation between MSC Revealing Competence and MSC Acknowledging Competence scores for the students, and a statistically significant large correlation between MPC Interaction and MPC Transaction scores for the PWA.",N,0,0,0,N,N,0,N,N,N,N
+202,These two correlations are not surprising as Kagan et al.,N,0,0,0,N,N,0,N,N,N,N
+203,(2004) designed the scales to reflect the interactions between the conversation partner and the PWA.,N,0,0,0,N,N,0,N,N,N,N
+204,"Given that conversation occurs as a partnership between two or more people, the scales were designed to be complementary measures used together to describe the conversation dyad (Kagan et al., 2004).",N,0,0,0,N,N,0,N,N,N,N
+205,"The correlation between the introduction of new ideas and MPC Transaction scores for the PWA (which reflected the ability of the PWA to exchange information) and MSC Revealing Competence scores for the students (which reflected the ability of the students to encourage the PWA to understand and express information, and verify information) suggested that there may have been a link between the behaviours of the PWA during the conversation and the skills of the students, and vice versa.",N,0,0,0,N,N,0,N,N,N,N
+206,"However, as this was not a uniform finding across all measures and all behaviours further exploration of this observation is required in future research.",N,0,0,0,N,N,0,N,N,N,N
+207,It is also possible that some of the students’ behaviours may have depended more on the characteristics of their PWA partner than on the CPT training.,N,0,0,0,N,N,0,N,N,N,N
+208,Limitations and future directions,N,0,1,1,N,N,1,N,N,N,N
+209,The same PWA participated in the conversations with both groups.,N,0,1,1,N,N,1,N,N,N,N
+210,"There may have been a possible order effect in that all conversations with the untrained group occurred first, followed by conversations with the trained group of students.",N,0,1,1,N,N,1,N,N,N,N
+211,However the PWA received training prior to involvement in the conversations and had participated in other student and health professional CPT programs.,N,0,1,1,N,N,1,N,N,N,N
+212,"Therefore, differences between the trained and untrained students’ experiences due to a practice effect for the PWA are likely to have been minimal.",N,0,0,0,N,N,0,N,N,N,N
+213,We acknowledge that the generalizability of the results may be limited by the restriction of the study to a single university site.,N,0,0,0,N,N,0,N,N,N,N
+214,We also recognise that the conversations occurred in university clinic room and therefore may not be reflective of conversations that occur in everyday settings.,N,0,0,0,N,N,0,N,N,N,N
+215,The study results may also be limited by the use of consensus ratings rather than individual ratings for analysis.,N,0,0,0,N,N,0,N,N,N,N
+216,"The study results may be further limited by the use of the approach described by Cunningham and Ward (2003), which was reported by the authors to have good intra-rater reliability for the identification of non-verbal communication behaviours, but variable intra-rater reliability for the conversation analysis.",N,0,0,0,N,N,0,N,N,N,N
+217,"The same PWA participated in the conversations with the trained and untrained students, and as a consequence the results of the PWA may potentially have been influenced by fatigue or practice effects.",N,0,0,0,N,N,0,N,N,N,N
+218,As there was no significant difference between the participation of the PWA in conversations with the trained or untrained students according to MPC Interaction and Transaction scores it is unlikely that fatigue or practice effects occurred.,N,0,0,0,N,N,0,N,N,N,N
+219,"Furthermore, the PWA were given breaks between the two groups to minimise the potential for either effect to occur.",N,0,0,0,N,N,0,N,N,N,N
+220,The lack of significant differences for some of the measures may have been at least partially attributable to a high degree of variability due to small group numbers.,N,0,0,0,N,N,0,N,N,N,N
+221,Another limitation of our study was that as the PWA were not receiving speech pathology intervention at the time of the study up to date specific assessment data was not available.,N,0,0,0,N,N,0,N,N,N,N
+222,"As the focus of the project was the impact of the CPT on the students rather than the PWA, we believe that this does not detrimentally influence the value of the study results.",N,0,0,0,N,N,0,N,N,N,N
+223,We acknowledge that the current study addresses the value of CPT using direct instruction only.,N,0,0,0,N,N,0,N,N,N,N
+224,"Future research could explore the optimal pedagogy for CPT (e.g., direct instruction versus hands-on practice).",N,0,0,0,N,N,0,N,N,N,N
+225,"Future research could also compare direct instruction with an active learning activity (e.g., comparing teaching strategies) to determine which teaching method supports greater improvement.",N,0,0,0,N,N,0,N,N,N,N
+226,This would enable educators and professionals to understand the most effective and time-sensitive method of providing CPT for PWA.,N,0,0,0,N,N,0,N,N,N,N
+227,The results of the present study add further weight to the suggestion that speech-language pathology students may benefit from participation in communication partner training programs.,N,0,0,0,N,N,0,N,N,N,N
+228,"In complement to previous research reporting that CPT programs increased the confidence of students when communication with PWA, the present study suggests that these benefits may translate into tangible improvements in conversational skills when communicating with PWA.",N,0,0,0,N,N,0,N,N,N,N
+229,Increasing the communication skills of speech-language pathology students when communicating with PWA may enable students to focus more on building clinical skills than on fundamental communication skills during clinical placements.,N,0,0,0,N,N,0,N,N,N,N

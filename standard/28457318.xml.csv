@@ -1,0 +1,102 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"The omega-3 index represents the red blood cell (RBC) content of two major long-chain n-3 polyunsaturated fatty acids (PUFAs), eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA).",0,0,0,0,0,0,0,0,0,0,0
+1,We sought to determine factors associated with a favorable response to fish oil treatment as well as to characterize changes in RBC PUFAs associated with fish oil supplementation.,0,0,0,0,0,0,0,0,0,0,0
+2,"This study was a secondary analysis of the OMEGA-PAD I Trial, a randomized, double-blinded, placebo-controlled trial investigating short-duration, high-dose n-3 PUFA oral supplementation on endothelial function and inflammation in subjects with peripheral arterial disease (PAD).",0,0,0,0,0,0,1,0,0,0,0
+3,Patients with mild to severe claudication received either 4.4g of fish oil providing 2.6g of EPA + 1.8g of DHA daily (n=40) or placebo capsules (n=40) for 1 month.,0,0,0,0,0,0,1,0,0,0,0
+4,The RBC fatty acid content was measured by gas chromatography and expressed as a percent of total fatty acids.,1,0,0,0,0,1,1,0,0,0,0
+5,The change in omega-3 index was calculated as the difference between pre- and post-supplementation in the fish oil and placebo groups.,0,0,0,0,0,0,1,0,0,0,0
+6,"Univariate analysis identified predictors of change in omega-3 index, with these variables included in our multivariable model.",0,0,0,0,0,0,1,0,0,0,0
+7,"In the fish oil group, there was an increase in the omega-3 index (5.1 ± 1.3% to 9.0 ± 1.8%; p&lt;0.0001), whereas there was no change in the control group.",0,0,0,1,0,0,0,1,1,1,1
+8,"Factors associated with a favorable response (i.e., greater than the median change of 4.06%) included a lower body mass index (BMI) and higher concentrations of low-density lipoproteins (LDL).",0,0,0,1,0,0,0,1,1,1,1
+9,"Other demographic/lifestyle factors such as age, race, or smoking status were unrelated to the response.",0,0,0,1,0,0,0,1,1,1,1
+10,Oral n-3 PUFA supplementation also decreased the n-6 PUFA content in RBCs.,1,0,0,1,0,1,0,1,1,1,1
+11,"Short-term, high-dose n-3 PUFA supplementation increases the omega-3 index to a greater extent in patients with a lower BMI and higher total and LDL cholesterol levels.",0,0,0,0,0,0,0,0,0,0,0
+12,"Peripheral arterial disease (PAD), a chronic inflammatory condition affecting the vasculature, continues to be associated with a high risk of cardiovascular events and mortality compared to coronary artery disease (CAD), despite the wide availability of medical and interventional therapies (<sup><a href=""#R1"">1</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+13,"Current nutritional guidelines from the American Heart Association and American College of Cardiology recommend a diet rich in oily fish for individuals with cardiovascular disease, including peripheral arterial disease (PAD) (<sup><a href=""#R2"">2</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+14,"Evidence demonstrates that n-3 PUFA play a role in reducing systemic inflammation (<sup><a href=""#R3"">3</a></sup>) and protecting against the development of atherosclerosis (<sup><a href=""#R4"">4</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+15,"A widely used biomarker of n-3 PUFA status is the omega-3 index, which represents the level of eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) in red blood cell (RBC) membranes (<sup><a href=""#R5"">5</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+16,"This marker is a well-documented surrogate of the EPA+DHA status of other tissues (<sup><a href=""#R6"">6</a></sup><sup>–</sup><sup><a href=""#R8"">8</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+17,"The omega-3 index is inversely associated with a high-risk CAD profile (<sup><a href=""#R9"">9</a></sup>) and inflammatory markers (<sup><a href=""#R10"">10</a></sup>), and has been proposed as an actual risk factor for death from CAD (<sup><a href=""#R5"">5</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+18,"Therefore, a relatively low membrane concentration of <span class=""italic"">n</span>-3 PUFA may contribute to the development and progression of PAD (<sup><a href=""#R11"">11</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+19,"We have previously reported that in patients with PAD, a higher omega-3 index was associated with older age, elevated body mass index (BMI), and prior fish oil supplementation, while a history of smoking correlated with a lower omega-3 index (<sup><a href=""#R12"">12</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+20,"We also demonstrated the ability of high-dose, short duration n-3 PUFA supplementation to increase the omega-3 index in patients with PAD (<sup><a href=""#R13"">13</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+21,Determining those factors involved in a robust response to n-3 PUFA supplementation could help guide treatment considerations in patients with PAD.,0,0,0,0,0,0,0,0,0,0,0
+22,"The goal of this analysis was, therefore, to identify factors associated with a favorable response to fish oil treatment.",0,0,0,0,0,0,0,0,0,0,0
+23,We also aimed to characterize changes in other RBC fatty acids with n-3 PUFA supplementation.,1,0,0,0,0,1,0,0,0,0,0
+24,"The methods of the OMEGA-PAD I (NCT01310270) Trial, a randomized, double-blinded, placebo-controlled trial designed to assess the impact of high-dose, short-term <span class=""italic"">n</span>-3 PUFA supplementation on endothelial function and inflammation in patients with symptomatic PAD, have been previously published (<sup><a href=""#R14"">14</a></sup>).",0,1,1,0,1,0,0,0,0,0,0
+25,"The current study is a secondary analysis utilizing data from that trial to investigate baseline omega-3 indices in PAD patients, absolute change in the omega-3 index after a one-month course of high-dose <span class=""italic"">n</span>-3 PUFA supplementation, and predictors of omega-3 index response.",0,0,1,0,1,0,0,0,0,0,0
+26,"Eighty patients with stable, mild or severe claudication (Rutherford Class 1 to 3) received either 4.4g of fish oil capsules consisting of 2.6g of EPA and 1.8g of DHA daily (n=40) or placebo capsules (n=40) for 1 month.",0,0,1,0,1,0,0,0,0,0,0
+27,"The placebo capsules were the same shape and color as the fish oil capsules, and the same quantity of capsules was taken daily by all participants in both cohorts.",0,0,1,0,1,0,0,0,0,0,0
+28,"The omega-3 index was analyzed according to the HS-Omega-3 index® methodology (<sup><a href=""#R15"">15</a></sup>).",0,0,1,0,1,0,0,0,0,0,0
+29,Baseline clinical and demographic characteristics of the intervention and placebo groups were compared using chi-square tests for categorical variables and unpaired t-tests for continuous variables.,0,0,0,0,0,0,0,0,0,0,0
+30,Changes in RBC PUFA composition from pre- to post-intervention were compared within and between intervention groups using paired t-tests for within-group comparisons and unpaired t-tests for between group comparisons.,0,0,0,0,0,0,0,0,0,0,0
+31,"Within only the intervention group, factors associated with a change in omega-3 were examined for two levels of response: 1) a difference greater than the median response, and 2) a difference greater than the 75<sup>th</sup> percentile response.",0,0,0,0,0,0,0,0,0,0,0
+32,We first used univariate logistic regression models to examine each characteristic for potential association with change in level of omega-3 index.,0,0,0,0,0,0,0,0,0,0,0
+33,We then constructed multivariable logistic regression models including predictors that were significant at the 0.05 level in univariate analysis and adjusted for age.,0,0,0,0,0,0,0,0,0,0,0
+34,The models were restricted to those subjects who were in the intervention group (n=40).,0,0,0,0,0,0,0,0,0,0,0
+35,"When predictors were highly correlated with one another, we chose to include the predictor which yielded the highest c-statistic contributed the most information.",0,0,0,0,0,0,0,0,0,0,0
+36,An alpha-level of 0.05 was used to determine significance.,0,0,0,0,0,0,0,0,0,0,0
+37,"All statistical analyses were performed using Stata/SE 13 (StataCorp, College Station, TX).",0,0,0,0,0,0,0,0,0,0,0
+38,"The baseline characteristics and clinical profiles of the two intervention groups have been previously published (<sup><a href=""#R13"">13</a></sup>) and are included in <a href=""#T1"">Table 1</a>.",0,0,0,1,0,0,0,1,1,1,1
+39,"The two groups were similar at baseline as all subjects were primarily male, Caucasian, and in their mid-sixties.",0,0,0,0,0,0,0,0,0,0,0
+40,"The majority of their cardiovascular and PAD risk factors were also similar, with a history of CAD being the only exception.",0,0,0,0,0,0,0,0,0,0,0
+41,The fish oil cohort had 33% of patients with known CAD compared to 55% of patients in the placebo cohort (p=0.04).,0,0,0,0,0,0,0,0,0,0,0
+42,"The baseline omega-3 index (<a href=""#F1"">Figure 1</a>) averaged 5%, with a right-tail skew seen in both cohorts.",0,0,0,0,0,0,0,0,0,0,0
+43,"Following one month of fish oil supplementation, the mean increase in the omega-3 index was 3.99 ± 1.4% (p&lt;0.0001) in the supplemented fish oil group, while no change was seen in the control group (+0.11 ± 0.91, p=0.49) (<a href=""#F2"">Figure 2</a>).",0,0,0,0,0,0,0,0,0,0,0
+44,"The increase in the n-3 PUFAs was accompanied by a decrease in the n-6 PUFAs, as well as cis-monosaturated fatty acids and trans fatty acids (<a href=""#T2"">Table 2</a>).",0,0,0,0,0,0,0,0,0,0,0
+45,"Table 3</a> identifies factors associated with a more (vs. less) robust response comparing those whose omega-3 index increased by more than the median response across all subjects (i.e., &gt;4.06%) to those whose increase was less than the median.",0,0,0,0,0,0,0,0,0,0,0
+46,"<a href=""#T3"">Table 3</a> also identifies factors associated with a more robust response comparing those whose omega-3 index increased by more than the 75<sup>th</sup> percentile to those whose increase fell below this level.",0,0,0,0,0,0,0,0,0,0,0
+47,"Baseline levels of total and low-density lipoprotein (LDL) cholesterol were directly associated with a more robust response, while BMI was inversely associated with such a response.",0,0,0,0,0,0,0,0,0,0,0
+48,"For every 10 mg/dL higher the level of total and LDL cholesterol, the likelihood of an above-median change in omega-3 index increased by 25%, while for every one-unit greater the BMI, the likelihood of an abovemedian change in omega-3 index decreased by almost 20%.",0,0,0,0,0,0,0,0,0,0,0
+49,"In multivariable analysis, LDL cholesterol (OR 1.28, 95% CI 1.02 to 1.60) remained independently associated with an increased likelihood of an above-median change in the omega-3 index, and BMI (OR 0.78, 95% CI 0.62 to 0.97) maintained an inverse relationship to an above-median response (<a href=""#T4"">Table 4</a>).",0,0,0,0,0,0,0,0,0,0,0
+50,"A Hosmer-Lemeshow goodness of fit test indicated a good fit for the model (p=0.35), which yielded a c-statistic (area under the ROC curve) of 0.83.",0,0,0,0,0,0,0,0,0,0,0
+51,"Although age was not significant in univariate analysis, we adjusted for age in the multivariable model.",0,0,0,0,0,0,0,0,0,0,0
+52,"Furthermore, omitting age also resulted in a slightly lower c-statistic (0.82).",0,0,0,0,0,0,0,0,0,0,0
+53,"In this study, compliance (defined by pill count) was not significantly associated with omega-3 index response.",0,0,0,0,0,0,0,0,0,0,0
+54,"A one month-long, high-dose fish oil intervention was found to increase the omega-3 index, increasing the total omega-3 fatty acids and decreasing the n-6 PUFA in the RBC membrane.",0,0,0,0,0,0,0,0,0,0,0
+55,A stronger response to n-3 PUFA was seen in those patients with lower BMI as well as those with higher LDL and total cholesterol.,0,0,0,0,0,0,0,0,0,0,0
+56,"PAD is associated with heightened systemic vascular inflammation (<sup><a href=""#R16"">16</a></sup>) and elevated risk of cardiovascular events and mortality (<sup><a href=""#R1"">1</a></sup><sup>, </sup><sup><a href=""#R17"">17</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+57,"Endothelial dysfunction is believed to be an important contributing mechanism to the progression of atherosclerosis (<sup><a href=""#R18"">18</a></sup><sup>–</sup><sup><a href=""#R20"">20</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+58,"n-3 PUFA supplementation has long been recognized to have beneficial effects on cardiovascular health, with current evidence suggesting that n-3 PUFA may improve both systemic inflammation and vascular function in patients with PAD (<sup><a href=""#R13"">13</a></sup><sup>, </sup><sup><a href=""#R21"">21</a></sup><sup>–</sup><sup><a href=""#R23"">23</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+59,"The omega-3 index is a validated biomarker of <span class=""italic"">n</span>-3 PUFA status based on data demonstrating that the EPA + DHA content in RBC membranes provides an accurate estimate of overall <span class=""italic"">n</span>-3 PUFA intake (<sup><a href=""#R24"">24</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+60,"n-3 PUFAs derived from fish oil have been found to yield beneficial effects on cardiovascular health (<sup><a href=""#R25"">25</a></sup><sup>, </sup><sup><a href=""#R26"">26</a></sup>), including decreasing mortality from cardiovascular causes, all-cause mortality, and non-fatal cardiovascular events (<sup><a href=""#R27"">27</a></sup><sup>–</sup><sup><a href=""#R30"">30</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+61,"Our previous work has shown that predictors of higher omega-3 index in patients with PAD were older age, elevated BMI and prior fish oil supplementation (<sup><a href=""#R12"">12</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+62,Here we investigated the predictors of a response to fish oil supplementation and found that a lower BMI and higher LDL cholesterol were the only independent predictors of a favorable response in the omega-3 index.,0,0,0,0,0,0,0,0,0,0,0
+63,"With respect to the effect seen in subjects with higher LDL levels, we believe this could be partially explained by increased circulating phosphotidylserine (PL)-esterified fatty acid levels.",0,0,0,0,0,0,0,0,0,0,0
+64,"With fish oil supplementation, EPA and DHA are first incorporated into plasma lipids, especially PL (<sup><a href=""#R31"">31</a></sup>), a large part of which are found in LDL.",0,0,0,0,0,0,0,0,0,0,0
+65,"Subsequently, RBC membrane PLs may exchange with plasma PL (<sup><a href=""#R32"">32</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+66,"Therefore, increased response of RBC n-3 PUFA with fish oil supplementation may be secondary to the presence of increased circulating LDL, which are the reservoir of EPA and DHA prior to membrane incorporation.",0,0,0,0,0,0,0,0,0,0,0
+67,The better response in omega-3 index seen in those individuals with a lower BMI could be explained by the fact that the dose per kg body weight is higher in individuals with lower body weights.,0,0,0,0,0,0,0,0,0,0,0
+68,"Therefore, clinical consideration could be given to providing a weight-based dosing schedule related to the patient’s BMI.",0,0,0,0,0,0,0,0,0,0,0
+69,The factors identified in this study as predictors of a robust response to n-3 PUFA supplementation could help guide treatment considerations in patients with PAD.,0,0,0,0,0,0,0,0,0,0,0
+70,"Guidelines from the American Heart Association recommend that individuals with cardiovascular disease incorporate fish into their diets and supplement daily with n-3 PUFA (<sup><a href=""#R33"">33</a></sup><sup>–</sup><sup><a href=""#R35"">35</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+71,"Furthermore, there is evidence that a low omega-3 index, which varies with n-3 PUFA content in the diet, is predictive of sudden death (<sup><a href=""#R36"">36</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+72,"Our previous work identified a subset of patients with PAD with claudication who may benefit from n-3 PUFA supplementation (<sup><a href=""#R13"">13</a></sup>).",0,0,0,0,0,0,0,0,0,0,0
+73,Screening with the omega-3 index may help identify a subgroup who may benefit from n-3 PUFA supplementation.,0,0,0,0,0,0,0,0,0,0,0
+74,"More robust studies are, however, needed to address this question.",0,0,0,0,0,0,0,0,0,0,0
+75,"Hence, although inclusion of the omega-3 index in our patients could provide important insight, we cannot make formal recommendations at this point.",0,0,0,0,0,0,0,0,0,0,0
+76,Limitations of this study include a relatively small sample size drawn from a fairly specialized population.,0,0,0,0,0,0,0,0,0,0,0
+77,"The cohort is primarily made up of Caucasian males, reflecting the patient population served by the San Francisco Veteran Affairs Medical Center; hence, this cohort may not be representative of the broader PAD population.",0,0,0,0,0,0,0,0,0,0,0
+78,"Because our cohort was comprised of 98% males, our findings cannot be generalized to women with PAD.",0,0,0,0,0,0,0,0,0,0,0
+79,"In addition, a history of smoking was almost universal in both groups (95% in the intervention group and 90% in the placebo group); because the two groups were essentially matched on this risk factor, we could not reliably examine its effect.",0,0,0,0,0,0,0,0,0,0,0
+80,"Although it is possible that persistent smoking during the trial may have blunted the effects of omega-3 index response, we did not capture data on whether or not participants were current smokers.",0,0,0,0,0,0,0,0,0,0,0
+81,Another limitation relates to compliance with omega-3 daily supplementation.,0,0,0,0,0,0,0,0,0,0,0
+82,"Pill count analysis suggests that compliance was good; however, it is possible that patients did not bring back their pills for the pill count, which would lead to falsely elevated compliance rates.",0,0,0,0,0,0,0,0,0,0,0
+83,"Finally, findings of this study need to be interpreted as hypothesis-generating in light of the lack of a priori power analyses.",0,0,0,0,0,0,0,0,0,0,0
+84,"High-dose, short-term fish oil supplementation increased the omega-3 index and reduced <span class=""italic"">n</span>-6 PUFA content in RBCs.",0,0,0,0,0,0,0,0,0,0,0
+85,Predictors of a more robust omega-3 index response included a lower BMI and a higher LDL cholesterol level.,0,0,0,0,0,0,0,0,0,0,0
+86,We will continue to investigate the implications of the omega-3 index and changes in n-3 PUFA and n-6 PUFA RBC membrane content in patients with PAD in a follow-up trial (OMEGA-PAD II; NCT01979874).,0,0,0,0,0,0,0,0,0,0,0
+87,"View larger version</a></span><span class=""fig-label"">Figure 1.",0,0,0,0,0,0,0,0,0,0,0
+88,"<span class=""title"">Baseline omega-3 index in patients with PAD</span></span>Histogram of omega-3 index at baseline in placebo group (A) and fish oil group (B).",0,0,0,0,0,0,0,0,0,0,0
+89,The histograms show a similarly right-tailed distribution in the two groups.,0,0,0,0,0,0,0,0,0,0,0
+90,"View larger version</a></span><span class=""fig-label"">Figure 2.",0,0,0,0,0,0,0,0,0,0,0
+91,"<span class=""title"">Change in omega-3 index</span></span>Following one month of fish oil supplementation, there was no change in the omega-3 index in the control group [4.8 ± 1.5% to 4.9 ± 1.4% (p=0.49)] (A).",0,0,0,0,0,0,0,0,0,0,0
+92,The mean omega-3 index increased significantly from 5.1 ± 1.3% to 9.0 ± 1.8% (p&lt;0.0001) in the supplemented fish oil group.,0,0,0,0,0,0,0,0,0,0,0
+93,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,0,0,0,0,0,0,0,0
+94,</span>Baseline Clinical Profile of the Study Population.,1,0,0,0,0,1,0,0,0,0,0
+95,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,0,0,0,0,0,0,0,0,0
+96,</span>Changes in red blood cell PUFA composition,1,0,0,0,0,1,0,0,0,0,0
+97,"See full table</a></span><span class=""fig-label"">Table 3.",0,0,0,0,0,0,0,0,0,0,0
+98,</span>Factors associated with a strong response in omega-3 index in a univariate analysis,0,0,0,0,0,0,0,0,0,0,0
+99,"See full table</a></span><span class=""fig-label"">Table 4.",0,0,0,0,0,0,0,0,0,0,0
+100,</span>Factors Associated with a Positive Response to n-3 PUFA in a Multivariable Analysis.,0,0,0,0,0,0,0,0,0,0,0

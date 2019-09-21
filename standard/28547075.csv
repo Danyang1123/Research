@@ -1,0 +1,165 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"Shoulder pain can be difficult to treat due to its complex anatomic structure, and different treatment methods can be used.",0,0,N,0,N,N,0,0,N,1,1
+1,We aimed to examine the efficacy of photobiomodulation therapy (PBMT) and suprascapular nerve (SSN)-pulsed radiofrequency (RF) therapy.,0,0,N,0,N,N,0,0,N,1,1
+2,"In this prospective, randomized, controlled, single-blind study, 59 patients with chronic shoulder pain due to impingement syndrome received PBMT (group H) or SSN-pulsed RF therapy (group P) in addition to exercise therapy for 14 sessions over 2 weeks.",0,0,N,0,N,N,0,0,N,1,1
+3,"Records were taken using visual analog scale (VAS), Shoulder Pain and Disability Index (SPADI), and Nottingham Health Profile (NHP) scoring systems for pretreatment (PRT), posttreatment (PST), and PST follow-up at months 1, 3, and 6.",0,0,N,0,N,N,0,0,N,1,1
+4,"There was no statistically significant difference in initial VAS score, SPADI, and NHP values between group H and group P (p > 0.05).",0,0,N,0,N,N,0,0,N,1,1
+5,"Compared to the values of PRT, PST, and PST at months 1, 3, and 6, VAS, SPADI, and NHP values were statistically significantly lower in both groups (p < 0.001).",0,0,N,0,N,N,0,0,N,0,0
+6,"There was no statistically significant difference at all measurement times in VAS, SPADI, and NHP between the two groups.",0,0,N,0,N,N,0,0,N,0,0
+7,"We established that PBMT and SSN-pulsed RF therapy are effective methods, in addition to exercise therapy, in patients with chronic shoulder pain.",0,0,N,0,N,N,0,0,N,0,0
+8,"PBMT seems to be advantageous compared to SSN-pulsed RF therapy, as it is a noninvasive method.",0,0,N,0,N,N,0,0,N,0,0
+9,Shoulder pain is one of the musculoskeletal system pains that becomes frequently chronic and is challenging to treat due to its complex structure .,0,0,N,0,N,N,0,0,N,0,0
+10,"Many diseases such as rotator cuff disease, impingement syndrome, tendinitis, and degenerative diseases may lead to chronic shoulder pain .",0,0,N,0,N,N,0,0,N,0,0
+11,"Treatment includes noninvasive treatment methods (nonsteroidal anti-inflammatory drugs (NSAIDs), physical therapy (PT) methods, exercise) and minimally invasive treatment methods, such as intra-articular steroid injections and suprascapular nerve (SSN) procedures (radiofrequency (RF), steroid injections, etc.)",0,0,N,0,N,N,0,0,N,0,0
+12,"PT applications include treatments such as photobiomodulation therapy (PBMT), manual therapy, ultrasound (US), and ESWT [7].",0,0,N,0,N,N,0,0,N,0,0
+13,The North American Association for Light Therapy and the World Association for Laser Therapy in the conference in September 2014 agreed that the term “laser” had a dismal lack of consistency and consensus on terminology.,0,0,N,0,N,N,0,0,N,0,0
+14,They decided to use the term “photobiomodulation therapy” instead of laser therapy.,0,0,N,0,N,N,0,0,N,0,0
+15,"They also defined the term photobiomodulation therapy as “A form of light therapy that utilizes non-ionizing forms of light sources, including lasers, LEDs, and broadband light, in the visible and infrared spectrum.",0,0,N,0,N,N,0,0,N,0,0
+16,"It is a nonthermal process involving endogenous chromophores eliciting photophysical (i.e., linear and nonlinear) and photochemical events at various scales.",0,0,N,0,N,N,0,0,N,0,0
+17,"This process results in beneficial therapeutic outcomes including but not limited to the alleviation of pain or inflammation, immunomodulation, and promotion of wound healing and tissue regeneration” .",0,0,N,0,N,N,0,0,N,0,0
+18,"Today, PBMT protocols are used as low-powered laser/light devices and high-powered laser/light devices .",0,0,N,0,N,N,0,0,N,0,0
+19,"Several publications have demonstrated that high-powered laser/light can affect a wider area and deeper tissues compared to low-powered laser/light [10, 11, 12, 13].",0,0,N,0,N,N,0,0,N,0,0
+20,"It has been established that high-powered laser/light, a more recent treatment option, has a therapeutic effect by increasing mitochondrial oxidative reaction, adenosine triphosphate, and DNA and RNA production and an analgesic effect by decreasing pain stimuli and increasing morphine-mimetic substances .",0,0,N,0,N,N,0,0,N,0,0
+21,"Although limited, the literature contains studies on low back pain, myofascial pain, neck pain, and shoulder pain regarding the efficacy of PBMT .",0,0,N,0,N,N,0,0,N,0,0
+22,The results of such studies are promising about the efficacy of PBMT .,0,0,N,0,N,N,0,0,N,0,0
+23,"As a minimally invasive treatment option, SSN procedures are applied as steroid injections, RF therapy, pulsed RF therapy, and neurolysis [5, 18].",0,0,N,0,N,N,0,0,N,0,0
+24,SSN is commonly exposed to invasive procedures for chronic shoulder pain because it carries sensory fibers from approximately 70% of the shoulder [19].,0,0,N,0,N,N,0,0,N,0,0
+25,"SSN arises from the upper trunk of the brachial plexus (C5–C6) and carries sensory fibers of the acromioclavicular region, capsule, and superior and posterior shoulders, and it supplies motor function to the supraspinatus and infraspinatus muscles.",0,0,N,0,N,N,0,0,N,0,0
+26,"From the treatment options, SSN-pulsed RF therapy, in turn, is a more recent treatment option.",0,0,N,0,N,N,0,0,N,0,0
+27,"The pulsed RF therapy, which is less neurodestructive compared to the conventional RF therapy, aims to decrease inflammatory mediators through an electromagnetic field and to create nerve injury primarily in sensorial C fibers and A-gamma and A-beta fibers .",0,0,N,0,N,N,0,0,N,0,0
+28,The purpose of this study is to compare the efficacies of two different treatment protocols (invasive and noninvasive) as both additional modalities to exercise therapy in patients with chronic shoulder pain.,0,0,N,0,N,N,0,0,N,0,0
+29,"The present study administered PBMT and SSN-pulsed RF therapy to patients with chronic shoulder pain due to impingement syndrome in addition to the PT method (exercise) and aimed to evaluate treatment efficacy using the Shoulder Pain and Disability Index (SPADI), VAS score, and Nottingham Health Profile (NHP) scoring system.",0,0,N,0,N,N,0,0,N,0,0
+30,"In this prospective, randomized, single-blind study, 85 patients with chronic shoulder pain due to impingement syndrome were evaluated for eligibility after approval by the local ethics committee.",0,0,N,0,N,N,0,0,N,0,0
+31,Inclusion criteria include being aged 30 to 75 and having shoulder pain for more than 3 months.,1,0,N,0,N,N,1,0,N,0,0
+32,"Exclusion criteria include (1) limited shoulder movements greater than 20%, (2) previous PT and injection therapy to the same shoulder region within 6 months, (3) malignancy, (4) presence of cervical radicular pain, (5) history of trauma or fracture, 6) previous surgical procedure and metal implant placement, and (7) presence of inflammatory rheumatic disease.",1,0,N,0,N,N,1,0,N,0,0
+33,"Among these 85 patients, 15 patients with exclusion criteria [received PT within the last 1 year (n = 5), received injection (n = 4), had >20% limitation (n = 3), did not agree to participate in the study (n = 3)] were excluded from the study (Fig.",1,0,N,0,N,N,1,0,N,0,0
+34,Flow diagram of recruitment and retention for photobiomodulation therapy (PBMT) and suprascapular nerve (SSN)-pulsed radiofrequency (PRF) for chronic shoulder pain,0,0,N,0,N,N,0,1,N,0,0
+35,The remaining 70 patients were reevaluated by the physician.,0,0,N,0,N,N,0,1,N,0,0
+36,"The study was explained verbally, and the study procedure was given in writing; the patients that agreed to participate in the study signed consent forms.",0,0,N,0,N,N,0,1,N,0,0
+37,It was explained to the patients that they should not receive any analgesic or additional treatment other than the treatments administered throughout the study.,0,0,N,0,N,N,0,1,N,0,0
+38,"The patients were classified by the investigator physician into two groups: PBMT (group H, n = 35) and pulsed RF therapy (group P, n = 35) using the random number table for randomization, and the respective therapies were organized.",0,1,N,0,N,N,0,1,N,0,0
+39,"After the randomization, the patient files (demographic characteristics and VAS, SPADI, and NHP scores) were completed by another physician who was blind of which treatment would be received by the patients.",0,0,N,0,N,N,0,0,N,0,0
+40,"The same physician conducted posttreatment (PST) and PST at 1-, 3-, and 6-month follow-ups, and the data were recorded.",0,0,N,0,N,N,0,0,N,0,0
+41,"Two patient groups received the following therapies for 14 days over 2 weeks: group H (exercise + PBMT, with a high-powered device) and group P (exercise + SSN-pulsed RF therapy).",0,0,N,0,N,N,0,0,N,0,0
+42,"ROM exercises and Codman’s exercises, in a level not to increase the severity of the pain of the patient, were given, and stretching and strengthening exercises, which were added following the fifth session, were taught to the patients under the supervision of an experienced physiotherapist.",0,0,N,0,N,N,0,0,N,0,0
+43,They performed these exercises twice a day with five repeats for each exercise at home.,0,0,N,0,N,N,0,0,N,0,0
+44,It was especially emphasized that they should do them regularly.,0,0,N,0,N,N,0,0,N,0,0
+45,"Patients were questioned whether they were doing their exercise when they came to the controls, and we determined that they were doing them regularly.",0,0,N,0,N,N,0,0,N,0,0
+46,"PBMT was performed using a BTL-6000 High Intensity Laser (BTL, Czech Republic).",0,0,N,0,N,N,0,0,N,0,0
+47,The device was a high-powered photobiomodulation with a Nd:YAG laser source with 12 W power and 1064 nm wavelength.,0,0,N,0,N,N,0,0,N,0,0
+48,"We applied the device on the most painful area of the shoulder (on the upper trapezius, acromioclavicular joint, or rotator cuff muscles) in two phases: phase I and phase II.",0,0,N,0,N,N,0,0,N,0,0
+49,"Phase I mode was given to the patients with pulsed mode at 1064 nm wavelength and 8 W power for 250 s with a frequency of 25 Hz, and the pulse duration time was less than 150 ms, so that it was 20 J/cm2 at a total dose of 500 J (area of 25 cm2).",0,0,N,0,N,N,0,0,N,0,0
+50,"First, phase I mode was applied for two sessions at 48-h intervals (a total of 4 days) for analgesia.",0,0,N,0,N,N,0,0,N,0,0
+51,"After phase I mode, sessions were completed, and phase II mode was given for five sessions again at 48-h intervals (a total of 10 days) for biostimulation effects of the device.",0,0,N,0,N,N,0,0,N,0,0
+52,"Phase II mode was applied at 1064 nm wavelength and 7 W power for 357 s with continuous mode, so that it was 100 J/cm2 at a total dose of 2500 J (area of 25 cm2).",0,0,N,0,N,N,0,0,N,0,0
+53,These doses were the manufacturer’s tuning values to which the device was adjusted automatically.,0,0,N,0,N,N,0,0,N,0,0
+54,"In both phase I and II modes, the application was made by using continuous circular movements and a standard headpiece endowed with fixed spacers which held the laser from the skin at 30 mm was used to provide the same distance to the skin.",0,0,N,0,N,N,0,0,N,0,0
+55,SSN-pulsed RF therapy was administered prior to the exercise program.,0,0,N,0,N,N,0,0,N,0,0
+56,All invasive procedures were performed by the same physician under operating room conditions as guided by C-arm fluoroscopy.,0,0,N,0,N,N,0,0,N,0,0
+57,"On the patient who was in prone position, the fluoroscopy was adjusted toward the lateral and cephalocaudal direction until the suprascapular notch was identified within sight.",0,0,N,0,N,N,0,0,N,0,0
+58,"After cleaning the access site, local anesthesia was administered to the cutaneous and subcutaneous tissue using 3 ml prilocaine, and sedation was performed using 2 mg midazolam.",0,0,N,0,N,N,0,0,N,0,0
+59,"A 22-G, 10-cm, 5-mm active-tip RF needle was guided to the suprascapular notch under fluoroscopy.",0,0,N,0,N,N,0,0,N,0,0
+60,"After the proper position was determined, the lesion site was confirmed using 3 ml of contrast agent.",0,0,N,0,N,N,0,0,N,0,0
+61,"Following the paresthesia response in the shoulder region to a 50-Hz, 1-ms, 0.5-V sensorial stimulus and appropriate muscular response to a 2-Hz, 1-ms, 1-V motor stimulus, the pulsed RF procedure was applied at 45 V, 200 ms, 42 °C for 240 s (4 min) (NeuroTherm, Middleton, MA, USA).",0,0,N,0,N,N,0,0,N,0,0
+62,No complications were observed in both groups.,0,0,N,0,N,N,0,0,N,0,0
+63,Outcome measures and follow-up,0,0,N,0,N,N,0,0,N,0,0
+64,"Patients were evaluated using pretreatment (PRT), PST, and PST at months 1, 3, and 6, and VAS, SPADI, and NHP scores.",0,0,N,0,N,N,0,0,N,0,0
+65,"VAS is a frequently used test worldwide, for which reliability and safety studies have been performed [22].",0,0,N,0,N,N,0,0,N,0,0
+66,SPADI was developed to measure shoulder discomfort.,0,0,N,0,N,N,0,0,N,0,0
+67,Its evaluation includes two parts: pain and disability.,0,0,N,0,N,N,0,0,N,0,0
+68,Part 1 includes five questions in the pain subgroup and measures the pain experienced by the patient over the previous week using VAS.,0,0,N,0,N,N,0,0,N,0,0
+69,"Part 2 is the disability subgroup that includes eight questions and measures the degree of difficulty (0 no difficulty, to 10, requires help) in the movements of the patient during the last week.",0,0,N,0,N,N,0,0,N,0,0
+70,"In SPADI, zero point refers to maximal well-being and 130 points refer to maximal sickness.",0,0,N,0,N,N,0,0,N,0,0
+71,"We evaluated each part of the SPADI [Shoulder Pain Index (SPI), Shoulder Disability Index (SDI), and total SPADI] separately.",0,0,N,0,N,N,0,0,N,0,0
+72,The validity of SPADI was demonstrated using the method of MacDermid et al.,0,0,N,0,N,N,0,0,N,0,0
+73,The Turkish version of the validity and reliability evaluation study for SPADI was implemented by Bicer and Ankarali in 2010 [24].,0,0,N,0,N,N,0,0,N,0,0
+74,"The NHP is a general health inquiry, which was developed to measure the physical, emotional, and social impacts of diseases on the individual.",0,0,N,0,N,N,0,0,N,0,0
+75,"It consists of 38 items in six sections: pain, physical activity, energy, sleep, social isolation, and emotional reaction.",0,0,N,0,N,N,0,0,N,0,0
+76,Each section is scored between 0 and 100.,0,0,N,0,N,N,0,0,N,0,0
+77,"Zero indicates the best health status, while 100 indicates the poorest health status [25].",0,0,N,0,N,N,0,0,N,0,0
+78,It is an easy-to-practice scale with an established validity and reliability.,0,0,N,0,N,N,0,0,N,0,0
+79,The Turkish version was administered to osteoarthritis patients by preparing a proper procedure [26].,0,0,N,0,N,N,0,0,N,0,0
+80,"During the treatment and follow-ups of 70 patients, one patient was excluded due to cholecystitis attack, five patients due to the requirement of medical treatment for severe pain for other musculoskeletal disorders, and five patients due to discontinuation of follow-up (Fig.",0,0,N,0,N,N,0,0,N,0,0
+81,Statistical analysis was conducted as group H (n = 29) and group P (n = 30).,0,0,N,0,N,N,0,0,N,0,0
+82,Data analysis was performed using the IBM SPSS 23.0 statistical software package.,0,0,N,0,N,N,0,0,N,0,0
+83,"Data were analyzed using descriptive statistical methods (frequency, percentage, mean, standard deviation, median, min–max) as well as the comparison of qualitative data.",0,0,N,0,N,N,0,0,N,0,0
+84,Chi-square (χ 2) test was used.,0,0,N,0,N,N,0,0,N,0,0
+85,Compliance with the normal distribution of data was assessed by the Kolmogorov–Smirnov test and the Shapiro-Wilk test (it was found that the data are not normally distributed).,0,0,N,0,N,N,0,0,N,0,0
+86,"In the study, the Mann-Whitney U test for comparison between groups and between the measurement times (intra-group) in the Friedman test was used for comparison.",0,0,N,0,N,N,0,0,N,0,0
+87,Tukey’s HSD tests were used to find where the difference originated from once a difference was found in the in-group comparisons.,0,0,N,0,N,N,0,0,N,0,0
+88,"Values with a probability (P) of α < 0.05 were accepted as significant, and a difference between the groups and higher values were accepted as insignificant and without any difference between the groups.",0,0,N,0,N,N,0,0,N,0,0
+89,"Fifty-nine patients were included in this study, 29 of whom were in group H and 30 in group P. There was no statistically significant difference in terms of age, gender, and affected side of the shoulder between the two groups (Table 1).",0,0,N,1,N,N,0,0,N,0,0
+90,Demographic characteristics of the patients [mean ± SD/median (min–max)],0,0,N,1,N,N,0,0,N,0,0
+91,"Between the groups, at all measurement times, VAS scores, and SPADI and NHP values, there was no statistically significant difference (p > 0.05) (Tables 2, 3, and 4).",0,0,N,1,N,N,0,0,N,0,0
+92,Comparison of VAS between groups and within groups [median (min–max)],0,0,N,1,N,N,0,0,N,0,0
+93,Comparison of SPADI between groups and within groups [median (min–max)],0,0,N,1,N,N,0,0,N,0,0
+94,Comparison of NHP total score between groups and within groups [median (min–max)],0,0,N,0,N,N,0,0,N,0,0
+95,"Between measurement times, in all groups in terms of VAS value, it was found that there was a statistically significant difference (p < 0.05).",0,0,N,0,N,N,0,0,N,0,0
+96,"In both groups, PRT VAS scores were found to be statistically significantly different from the other time points (p < 0.001) (Table 2).",0,0,N,0,N,N,0,0,N,0,0
+97,"Between measurement times, in all the groups in terms of SPADI values, it was found that there was a statistically significant difference (p < 0.05).",0,0,N,0,N,N,0,0,N,0,0
+98,"In both groups, PRT SPADI scores were found to be statistically significantly different from the other time points (p < 0.001) (Table 3).",0,0,N,0,N,N,0,0,N,0,0
+99,"Between measurement times, in all the groups in terms of NHP total values, a statistically significant difference (p < 0.05) was found (Table 4).",0,0,N,0,N,N,0,0,N,0,0
+100,"In both groups, it was found that there was a statistically significant difference between values of PRT, PST, and PST at 1, 3, and 6 months (p < 0.001).",0,0,N,0,N,N,0,0,N,0,0
+101,"In group H patients, the PRT NHP total value was the highest and, at 6 months, the measured values were found to be the lowest.",0,0,N,0,N,N,0,0,N,0,0
+102,"In group P patients, there was a statistically significant difference between measured values of PST and PST at 3 and 6 months (p < 0.001).",0,0,N,0,N,N,0,0,N,0,0
+103,"PRT NHP total scores were highest; at 3 months, measured values were found to be the lowest in group P patients (Table 4).",0,0,N,0,N,N,0,0,N,0,0
+104,"In this study, in which we applied PBMT and pulsed RF (PRF) therapy in addition to exercise in patients with chronic shoulder pain, we reached effective results in both groups.",0,0,N,0,N,N,0,0,N,0,0
+105,"However, neither treatment is superior.",0,0,N,0,N,N,0,0,N,0,0
+106,Exercise plays an important role in the rehabilitation of subacromial impingement syndrome .,0,0,N,0,N,N,0,0,N,0,0
+107,"The aim of the exercise program is to reduce pain, provide painless range of motion, strengthen shoulder muscles, and regulate muscle imbalances .",0,0,N,0,N,N,0,0,N,0,0
+108,"reviewed 16 studies and found strong evidence that exercise in the short term reduces pain and increases functioning, and moderate evidence that it increases functioning in the long term .",0,0,N,0,N,N,0,0,N,0,0
+109,There are also studies showing that PT modalities applied with exercise are more effective .,0,0,N,0,N,N,0,0,N,0,0
+110,We applied exercise as an adjunctive therapy in our study.,0,0,N,0,N,N,0,0,N,0,0
+111,"SSN-pulsed RF therapy, which is a minimally invasive method and used for chronic shoulder pain, is commonly used.",0,0,N,0,N,N,0,0,N,0,0
+112,The results of 3- and 6-month follow-ups in study groups without a control group have been presented in the literature.,0,0,N,0,N,N,0,0,N,0,0
+113,observed recovery in 45 (78.9%) patients and relief in 45 (73.7%) patients after a 6-month follow-up of their patients who received treatment for 480 s .,0,0,N,0,N,N,0,0,N,0,0
+114,Rohof administered SSN-pulsed RF therapy to 37 patients with a mean follow-up duration of 26.8 months and suggested that successful outcomes can be achieved .,0,0,N,0,N,N,0,0,N,0,0
+115,The results of three different studies with a lower number of patients are consistent with the results of Luleci et al.,0,0,N,0,N,N,0,0,N,0,0
+116,"Among these studies, a study by Liliang et al.",0,0,N,0,N,N,0,0,N,0,0
+117,", which was conducted with 11 shoulder pain patients, administered two times of 180-s treatment and reported 6-month follow-up results, and such results were consistent with the results of another study that was conducted with the same number of patients whom a 240-s treatment was administered .",0,0,N,0,N,N,0,0,N,0,0
+118,Both studies suggested that suprascapular nerve-pulsed RF therapy is an efficient treatment.,0,0,N,0,N,N,0,0,N,0,0
+119,"Gurbet et al., in turn, conducted a study with two patients, twice administered a 120-s treatment, and reported 3-month treatment results, which are consistent with those in the literature .",0,0,N,0,N,N,0,0,N,0,0
+120,"In the placebo-controlled study, the 6-month follow-up results revealed that VAS scores decreased from 6.3 to 2.9, while the mean SPADI decreased from 50.8 to 36.4 at the end of 6 months.",0,0,N,0,N,N,0,0,N,0,0
+121,"In the local anesthetic group, the VAS score was 5.5 at the end of 6 months.",0,0,N,0,N,N,0,0,N,0,0
+122,The study suggested that it is an effective treatment .,0,0,N,0,N,N,0,0,N,0,0
+123,"Another study, which added steroids to the pulsed RF therapy, established no effect of the added steroid on the treatment .",0,0,N,0,N,N,0,0,N,0,0
+124,PRF has been compared with PT applications and injection therapies in various studies .,0,0,N,0,N,N,0,0,N,0,0
+125,The first study by Korkmaz et al.,0,0,N,0,N,N,0,0,N,0,0
+126,administered exercise therapy to the patients who received TENS and SSN-PRF and did not find any statistically significant difference in the 3-month follow-up results between the two treatments.,0,0,N,0,N,N,0,0,N,0,0
+127,They established that both treatments are effective on shoulder pain [18].,0,0,N,0,N,N,0,0,N,0,0
+128,The second study used minimally invasive procedures for shoulder pain.,0,0,N,0,N,N,0,0,N,0,0
+129,"Patients receiving intra-articular steroids were compared with those receiving SSN-PRF, and it was suggested that the intra-articular procedure has better outcomes .",0,0,N,0,N,N,0,0,N,0,0
+130,"In the study that established that ultrasound-guided pulsed RF therapy is more effective when combined with physical therapy, a 180-s treatment was administered three times to the exercise + pulsed RF therapy group from two groups including 21 patients .",0,0,N,0,N,N,0,0,N,0,0
+131,We also administered pulsed RF therapy in combination with exercise therapy.,0,0,N,0,N,N,0,0,N,0,0
+132,"Our 6-month follow-up results revealed a statistically significantly decrease in VAS, SPADI, and NHP scores.",0,0,N,0,N,N,0,0,N,0,0
+133,Our results were consistent with those established in the studies conducted with a similar design .,0,0,N,0,N,N,0,0,N,0,0
+134,"Among these, the closest study was the study by Korkmaz et al., which administered a 240-s treatment and used exercise therapy as an additional treatment and reported that it is an effective treatment .",0,0,N,0,N,N,0,0,N,0,0
+135,"However, the opportunity to discuss is limited by the different application times (3 min, 6 min, 9 min, etc.)",0,0,N,0,N,N,0,0,N,0,0
+136,of pulsed RF therapy in the literature .,0,0,N,0,N,N,0,0,N,0,0
+137,"On the other hand, there is scarce literature on the efficacy and application field of the PBMT (high-powered laser/light), which is a more recent treatment option.",0,0,N,0,N,N,0,0,N,0,0
+138,"There are studies investigating its efficacy in treating diseases with shoulder pain, myofascial pain syndrome, lateral epicondylitis, low back pain, and knee pain .",0,0,N,0,N,N,0,0,N,0,0
+139,"A study that was conducted to evaluate PBMT (high-powered laser/light) efficacy in a patient with low back pain created PBMT, PBMT + exercise, and sham PBMT + exercise groups and presented the pretreatment, 1- and 3-month follow-up results.",0,0,N,0,N,N,0,0,N,0,0
+140,"The follow-up results revealed lower VAS, ROM, and Oswestry Disability Index scores in the PBMT + exercise group .",0,0,N,0,N,N,0,0,N,0,0
+141,attempted to determine the efficacy of the therapy in two different studies.,0,0,N,0,N,N,0,0,N,0,0
+142,The first study achieved more successful outcomes in the group of PBMT (high-powered laser/light) administered in combination with exercise among patients with myofascial pain syndrome .,0,0,N,0,N,N,0,0,N,0,0
+143,The second study presented better outcomes in the PBMT group in treating lateral epicondylitis .,0,0,N,0,N,N,0,0,N,0,0
+144,The literature contains limited studies regarding the use of PBMT (high-powered laser/light) in painful diseases of the shoulder.,0,0,N,0,N,N,0,0,N,0,0
+145,Two studies comparing its efficacy in patients diagnosed with frozen shoulder and in patients diagnosed with subacromial impingement were included in the discussion .,0,0,N,0,N,N,0,0,N,0,0
+146,The prospective randomized controlled trial (RCT) that used PBMT (high-powered laser/light) to treat patients diagnosed with frozen shoulder was conducted with 66 patients.,0,0,N,0,N,N,0,0,N,0,0
+147,"The study randomized patients into two groups as PBMT + exercise and NSAID + exercise and recorded pretreatment; week 3, 8, and 12 VAS; and VAS scores during joint movements.",0,0,N,0,N,N,0,0,N,0,0
+148,"Pretreatment VAS scores were 6.2 ± 1.7 in the PBMT + exercise group compared to 3.2 ± 1.7 at week 3 and 2.2 ± 2 at week 8, and the study reported that these values are statistically significantly lower compared to the other group.",0,0,N,0,N,N,0,0,N,0,0
+149,The authors concluded that the PBMT added to the exercise program is a noninvasive treatment that provides better pain management .,0,0,N,0,N,N,0,0,N,0,0
+150,The prospective RCT with features similar to the study discussed above compared the efficacy of PBMT (high-powered laser/light) and USG therapies.,0,0,N,0,N,N,0,0,N,0,0
+151,"The pretreatment VAS scores were 6.28 ± 1.8, and the posttreatment VAS scores were 3.86 ± 1.53, which were statistically significantly lower.",0,0,N,0,N,N,0,0,N,0,0
+152,The authors reported that PBMT can be recommended after the decrease in the initial VAS scores .,0,0,N,0,N,N,0,0,N,0,0
+153,"The VAS values established within the scope of our study are consistent with those of the studies in the literature, which used PBMT (high-powered laser/light) in patients with shoulder pain .",0,0,N,0,N,N,0,0,N,0,0
+154,"When other results of the study were examined, both SPADI and NHP values were statistically significantly lower in both groups at PST at month 1 and month 6 compared to the initial values (p < 0.001).",0,0,N,0,N,N,0,0,N,0,0
+155,"We believe the exercise program added to both treatment methods provided range of joint motion and preserved and reinforced muscle strength, which improved these results.",0,0,N,0,N,N,0,0,N,0,0
+156,The findings of this study suggest that PBMT and suprascapular nerve-pulsed RF application are effective in patients with chronic shoulder pain.,0,0,N,0,N,N,0,0,N,0,0
+157,We administered PBMT and SSN-pulsed RF therapy in addition to exercise therapy within the scope of this study.,0,0,N,0,N,N,0,0,N,0,0
+158,"The studies in the literature have established that the two treatment options are successful when added to physical therapy (exercise, etc.",0,0,N,0,N,N,0,0,N,0,0
+159,"), which is consistent with our results .",0,0,N,0,N,N,0,0,N,0,0
+160,We believe that our study is limited by the lack of a placebo group and the short follow-up duration.,0,0,N,0,N,N,0,0,N,0,0
+161,"Based on the results of this study, it was concluded that PBMT and SSN-pulsed RF therapy may serve as two different treatment options for chronic shoulder pain.",1,0,N,0,N,N,1,0,N,0,0
+162,"However, neither treatment is superior.",1,0,N,0,N,N,1,0,N,0,0
+163,"Further RCTs are required regarding PBMT; however, it can be the first choice as a treatment option in patients with shoulder pain as it is a noninvasive treatment.",0,0,N,0,N,N,0,0,N,0,0

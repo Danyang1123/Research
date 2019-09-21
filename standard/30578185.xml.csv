@@ -1,0 +1,234 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"Modern health care focuses on shared decision making (SDM) because of its positive effects on patient satisfaction, therapy compliance, and outcomes.",0,0,0,0,N,0,N,N,N,N,N
+1,"Patients’ knowledge about their illness and available treatment options, gained through medical education, is one of the key drivers for SDM.",0,0,0,0,N,0,N,N,N,N,N
+2,Current patient education relies heavily on medical consultation and is known to be ineffective.,0,0,0,0,N,0,N,N,N,N,N
+3,"This study aimed to determine whether providing patients with information in a subdivided, categorized, and interactive manner via an educational app for smartphone or tablet might increase the knowledge of their illness.",0,0,0,0,N,0,N,N,N,N,N
+4,A surgeon-blinded randomized controlled trial was conducted with 213 patients who were referred to 1 of the 6 Dutch hospitals by their general practitioner owing to knee complaints that were indicative of knee osteoarthritis.,1,0,1,0,N,0,N,N,N,N,N
+5,"An interactive app that, in addition to standard care, actively sends informative and pertinent content to patients about their illness on a daily basis by means of push notifications in the week before their consultation.",1,0,1,0,N,0,N,N,N,N,N
+6,The primary outcome was the level of perceived and actual knowledge that patients had about their knee complaints and the relevant treatment options after the intervention.,1,0,1,0,N,0,N,N,N,N,N
+7,"In total, 122 patients were enrolled in the control group and 91 in the intervention group.",1,0,1,1,N,0,N,N,N,N,N
+8,"After the intervention, the level of actual knowledge (measured on a 0-36 scale) was 52% higher in the app group (26.4 vs 17.4, <span class=""italic"">P</span>&lt;.001).",1,0,1,1,N,0,N,N,N,N,N
+9,"Moreover, within the app group, the level of perceived knowledge (measured on a 0-25 scale) increased by 22% during the week within the app group (from 13.5 to 16.5, <span class=""italic"">P</span>&lt;.001), compared with no gain in the control group.",0,0,0,1,N,0,N,N,N,N,N
+10,"Actively offering patients information in a subdivided (per day), categorized (per theme), and interactive (video and quiz questions) manner significantly increases the level of perceived knowledge and demonstrates a higher level of actual knowledge, compared with standard care educational practices.",0,0,0,0,N,0,N,N,N,N,N
+11,International Standard Randomized Controlled Trial Number ISRCTN98629372; http://www.isrctn.com/ISRCTN98629372 (Archived by WebCite at http://www.webcitation.org/73F5trZbb),0,0,0,0,N,0,N,N,N,N,N
+12,"Shared decision making (SDM) refers to the process that involves the participation of both the physician and patient to select the best suitable treatment, taking into account the clinical data and patients’ preferences and expectations [<a href=""#ref1"">1</a>].",0,0,0,0,N,0,N,N,N,N,N
+13,"Modern health care increasingly focuses on SDM because of its positive effects on patient satisfaction, therapy compliance, and outcomes [<a href=""#ref2"">2</a>,<a href=""#ref3"">3</a>].",0,0,0,0,N,0,N,N,N,N,N
+14,"One of the key drivers of SDM is the patients’ knowledge about the illness and treatment options available [<a href=""#ref4"">4</a>].",0,0,0,0,N,0,N,N,N,N,N
+15,"This knowledge is typically acquired through patient education, and that knowledge is currently primarily transmitted during medical consultations.",0,0,0,0,N,0,N,N,N,N,N
+16,"Unfortunately, previous studies have shown that patients scarcely remember doctors’ reports after their consultations and that their memory for medical information is substantially limited [<a href=""#ref5"">5</a>].",0,0,0,0,N,0,N,N,N,N,N
+17,"Indeed, recent research has indicated that, on average, approximately 40% to 80% of the information provided to patients by health care practitioners was immediately forgotten, and out of what the patients did recall, approximately half of the content was inaccurate [<a href=""#ref6"">6</a>].",0,0,0,0,N,0,N,N,N,N,N
+18,"Several factors, some of which are difficult to change, contribute to poor memory acquisition, including patient age [<a href=""#ref7"">7</a>-<a href=""#ref9"">9</a>], patient level of education [<a href=""#ref10"">10</a>-<a href=""#ref12"">12</a>], the fact that too much information is provided in too little time [<a href=""#ref13"">13</a>-<a href=""#ref15"">15</a>], and that is likely exasperated by doctors’ busy schedules and their difficult use of language and jargon [<a href=""#ref5"">5</a>,<a href=""#ref16"">16</a>,<a href=""#ref17"">17</a>].",0,0,0,0,N,0,N,N,N,N,N
+19,"On the other hand, there are numerous factors that can positively influence patient recall, for example, subdividing the delivery of information [<a href=""#ref11"">11</a>,<a href=""#ref13"">13</a>-<a href=""#ref15"">15</a>] and the explicit categorization of content [<a href=""#ref18"">18</a>].",0,0,0,0,N,0,N,N,N,N,N
+20,"Furthermore, the usage of questions and feedback to test (and reflect) patients’ knowledge [<a href=""#ref11"">11</a>,<a href=""#ref19"">19</a>] as well as the specific modality of information transmission contribute to patient recall of medical information.",0,0,0,0,N,0,N,N,N,N,N
+21,"Indeed, people tend to remember 20% auditory information, 40% of read information, and up to 80% of information acquired from interactive education [<a href=""#ref20"">20</a>-<a href=""#ref22"">22</a>].",0,0,0,0,N,0,N,N,N,N,N
+22,"Technology for health (electronic health [eHealth] or mobile health) plays an increasingly important facilitating role in educating patients [<a href=""#ref23"">23</a>].",0,0,0,0,N,0,N,N,N,N,N
+23,"The information is always available, consistent, and complete [<a href=""#ref24"">24</a>]; the doctor is always welcoming; patients can determine their own pace [<a href=""#ref25"">25</a>]; and the information can even be tailored to patients’ personal needs [<a href=""#ref26"">26</a>].",0,0,0,0,N,0,N,N,N,N,N
+24,"View larger version</a></span><span class=""fig-label"">Figure 1.",0,0,0,0,N,0,N,N,N,N,N
+25,</span>Examples of the interactive app.,0,0,0,0,N,0,N,N,N,N,N
+26,"From left to right: the interactive timeline, information about a certain topic, and quiz-like questions with feedback.",0,0,0,0,N,0,N,N,N,N,N
+27,"The goal of this study was to examine the effectiveness of using an interactive app (<a href=""#figure1"">Figure 1</a>) in patients who were referred to the hospital by their general practitioner (GP) owing to knee complaints that indicated osteoarthritis (OA).",0,0,0,0,N,0,N,N,N,N,N
+28,"Knee OA is a progressive condition that causes pain and functional limitations [<a href=""#ref27"">27</a>].",0,0,0,0,N,0,N,N,N,N,N
+29,"In the early phase of OA, it can be treated conservatively.",0,0,0,0,N,0,N,N,N,N,N
+30,"End-stage OA, however, is most effectively treated with joint replacement surgery [<a href=""#ref28"">28</a>].",0,0,0,0,N,0,N,N,N,N,N
+31,Knowledge about their condition and treatment options is important for these patients to make a well-considered decision between conservative or surgical treatment.,0,0,0,0,N,0,N,N,N,N,N
+32,"We hypothesize that compared with the above-mentioned standard practices of educating patients, the use of an interactive app would lead to a higher level of knowledge (perceived and actual) about their illness and treatment options.",0,0,0,0,N,0,N,N,N,N,N
+33,This is the primary outcome of our study.,0,0,0,0,N,0,N,N,N,N,N
+34,"With regard to the secondary outcomes, we hypothesize that there will be a relative increase in reported patient satisfaction concerning their level of knowledge and the amount of information available.",0,0,0,0,N,0,N,N,N,N,N
+35,"In addition, it is hypothesized that using the interactive app would positively influence patients’ general satisfaction with their consultation and their confidence in the treatment choice they made.",0,0,0,0,N,0,N,N,N,N,N
+36,All outcomes are measured by means of Web-based questionnaires.,0,0,0,0,N,0,N,N,N,N,N
+37,"A total of 6 hospitals (4 nonacademic teaching hospitals, 1 general hospital, and 1 specialized orthopedic clinic) were selected.",0,0,0,0,N,0,N,N,N,N,N
+38,"Between April and September 2017, patients with knee complaints due to OA were asked to participate in a surgeon-blinded randomized controlled trial.",0,0,0,0,N,0,N,N,N,N,N
+39,"In this study, the effectiveness of an interactive app on patients’ knowledge, satisfaction, and certainty about the treatment chosen was assessed.",0,0,0,0,N,0,N,N,N,N,N
+40,This was compared with standard education in a parallel group design with equal allocation ratio.,0,0,0,0,N,0,N,N,N,N,N
+41,No changes were made to the design after the study was commenced.,0,0,0,0,N,0,N,N,N,N,N
+42,Patients were asked to consider participating in the study after scheduling an appointment at one of the recruiting hospitals.,0,0,0,0,N,0,N,N,N,N,N
+43,Patients who were willing received an email with all the necessary study information required for informed consent.,0,0,0,0,N,0,N,N,N,N,N
+44,Patients were offered at least 2 days to reflect on the information.,0,0,0,0,N,0,N,N,N,N,N
+45,"In the case of any questions, patients were informed that they could contact the local research coordinator from each specific hospital by phone or email.",0,0,0,0,N,0,N,N,N,N,N
+46,Patients indicated their consent by signing an online informed consent form.,0,0,0,0,N,0,N,N,N,N,N
+47,Patients were also informed that their data would be kept confidential and protected.,0,0,0,0,N,0,N,N,N,N,N
+48,There were no indicators of substantial risk as a function of participating in this study.,0,0,0,0,N,0,N,N,N,N,N
+49,"The study was registered at ISRCTN, with reference number ISRCTN98629372.",0,0,0,0,N,0,N,N,N,N,N
+50,"Due to technical problems during the initial, prospective registration, the study was registered retrospectively.",0,0,0,0,N,0,N,N,N,N,N
+51,"Registration took place after the study was completed, on May 13, 2018.",0,0,0,0,N,0,N,N,N,N,N
+52,"The study was approved by the regional Medical Ethical Board of the Maxima Medisch Centrum (Eindhoven, The Netherlands), reference number N16.130, as well as at each of the participating sites.",0,0,0,0,N,0,N,N,N,N,N
+53,"In addition, we attest that we have obtained appropriate permissions and paid any required fees for use of copyright-protected materials.",0,0,0,0,N,0,N,N,N,N,N
+54,The eligibility of patients was assessed during their first contact with the hospital to schedule their appointment with the orthopedic surgeon.,0,0,0,0,N,0,N,N,N,N,N
+55,Patients had to be older than 40 years and referred by their GP because of knee complaints indicating OA.,0,0,0,0,N,0,N,N,N,N,N
+56,Participants were required to be fluent in Dutch and in the possession of an email address and a smartphone or tablet.,0,0,0,0,N,0,N,N,N,N,N
+57,"At least 10 days between scheduling the appointment and the hospital visit were required, to give patients in the app group the chance to experience the intervention.",0,0,0,0,N,0,N,N,N,N,N
+58,Patients who considered participation were controlled and randomly assigned by a computer to either a control or app group as soon as they were registered in the Web-based system by the hospital staff.,0,1,0,0,N,0,N,N,N,N,N
+59,Randomization was performed without block or stratification restrictions.,0,1,0,0,N,0,N,N,N,N,N
+60,"Participants were not informed of which group they were assigned to, although both groups received an email with all the information about the study.",0,0,0,0,N,0,N,N,N,N,N
+61,"From this email, patients who chose to participate in the study could directly give their Web-based informed consent and fill out the baseline questionnaire.",0,0,0,0,N,0,N,N,N,N,N
+62,Patients allocated to the app group received an additional email after completing the baseline questionnaire.,0,0,0,0,N,0,N,N,N,N,N
+63,"This email contained download instructions for the app, a Google Play and Apple App Store download link, and the patients’ personal code.",0,0,0,0,N,0,N,N,N,N,N
+64,"Thereafter, both groups simultaneously received the same questionnaires again on 2 separate occasions: 2 days before the arranged consultation and 1 day after the consultation.",0,0,0,0,N,0,N,N,N,N,N
+65,"Per questionnaire, a maximum of 2 email reminders was sent.",0,0,0,0,N,0,N,N,N,N,N
+66,"In this study, the Patient Journey App (Interactive Studios, Rosmalen, The Netherlands) was used as the intervention.",0,0,0,0,N,0,N,N,N,N,N
+67,"By using push notifications, we actively offered patients information about knee OA, (conservative and operative) treatment options, risks, rehabilitation, and expectancies in a subdivided (daily) and categorized (per theme) manner.",0,0,0,0,N,0,N,N,N,N,N
+68,"Information was presented on an interactive timeline using text, photos, and video content (<a href=""#figure1"">Figure 1</a>).",0,0,0,0,N,0,N,N,N,N,N
+69,"Interactive quiz-like questions were used to test their knowledge, providing direct feedback on the given answer.",0,0,0,0,N,0,N,N,N,N,N
+70,"The content for the app was compiled based on the input of 10 orthopedic surgeons from various hospitals, the Dutch option grid for knee OA [<a href=""#ref29"">29</a>], and information booklets from 3 participating hospitals.",0,0,0,0,N,0,N,N,N,N,N
+71,"The 5 most important topics, as agreed upon by the surgeons, were (1) knee anatomy and the origin of the complaints, (2) different types of conservative and operative treatments, (3) risks of surgery, (4) rehabilitation after total knee replacement, and (5) expectations after total knee replacement.",0,0,0,0,N,0,N,N,N,N,N
+72,These topics also formed the base for the questionnaires addressing perceived and actual knowledge.,0,0,0,0,N,0,N,N,N,N,N
+73,"Both the control group and the app group had access to standard education as offered by the hospitals, consisting of at least a website and an information event.",0,0,0,0,N,0,N,N,N,N,N
+74,"Only the app group received the app, protected with a personal code.",0,0,0,0,N,0,N,N,N,N,N
+75,Patients used the app in the 7 days before the first consultation with their orthopedic surgeon.,0,0,0,0,N,0,N,N,N,N,N
+76,"During the first 5 days, information concerning the 5 most important topics was provided, whereas on days 6 and 7, a summary as well as practical information on how to prepare for the consultation itself were provided.",0,0,0,0,N,0,N,N,N,N,N
+77,Patients received daily push notifications at 10:00 am.,0,0,0,0,N,0,N,N,N,N,N
+78,"During the study, no changes or revisions to the app took place.",0,0,0,0,N,0,N,N,N,N,N
+79,"Study outcomes were measured at 3 moments in time: baseline, 2 days before consultation, and 1 day after consultation (<a href=""#table1"">Table 1</a>).",0,0,0,0,N,0,N,N,N,N,N
+80,The baseline measurement commenced directly after patients were included in the study.,0,0,0,0,N,0,N,N,N,N,N
+81,"Due to the timing of the intervention, the first follow-up measurement was scheduled 2 days before the consultation—enabling patients to complete the questionnaires before their hospital visit.",0,0,0,0,N,0,N,N,N,N,N
+82,"To assure accurate recall of the consultation, the third measurement was scheduled 1 day after consultation.",0,0,0,0,N,0,N,N,N,N,N
+83,All measurements were performed by using patient-reported questionnaires.,0,0,0,0,N,0,N,N,N,N,N
+84,"Most questionnaires were developed especially for this study and can be found in <a href=""#app1"">Multimedia Appendix 1</a>.",0,0,0,0,N,0,N,N,N,N,N
+85,All self-developed questionnaires were validated by surgeons and researchers of all participating hospitals.,0,0,0,0,N,0,N,N,N,N,N
+86,No additional validation was performed in a patient population.,0,0,0,0,N,0,N,N,N,N,N
+87,The primary outcome measure was patient knowledge about the illness and the available treatment options.,0,0,0,0,N,0,N,N,N,N,N
+88,"We divided knowledge into 2 concepts: perceived knowledge (ie, how much do patients think they know) and actual knowledge (ie, how much do the patients actually know).",0,0,0,0,N,0,N,N,N,N,N
+89,The questionnaires were based on the aforementioned 5 most important topics for the first consultation.,0,0,0,0,N,0,N,N,N,N,N
+90,"In the perceived knowledge questionnaire, patients received 5 questions, with answers ranging from 1 (no knowledge at all) to 5 (best imaginable knowledge).",0,0,0,0,N,0,N,N,N,N,N
+91,The perceived knowledge questionnaire had a sum score ranging from 5 to 25.,0,0,0,0,N,0,N,N,N,N,N
+92,Perceived knowledge was measured at baseline and 2 days before the consultation.,0,0,0,0,N,0,N,N,N,N,N
+93,"The actual knowledge questionnaire required patients to answer 12 questions, each ranging from 0 (incorrect answer) to 3 points (correct answer).",0,0,0,0,N,0,N,N,N,N,N
+94,The absolute knowledge questionnaire had a sum score range from 0 to 36.,0,0,0,0,N,0,N,N,N,N,N
+95,"Actual knowledge was measured only once, 2 days before the consultation.",0,0,0,0,N,0,N,N,N,N,N
+96,"The actual knowledge questionnaire was administered only once, as answering it could prime patients, which could influence their performance at future participation.",0,0,0,0,N,0,N,N,N,N,N
+97,"As secondary outcomes, we assessed patients’ satisfaction with the provided information, satisfaction with their level of knowledge, and their need for more information.",0,0,0,0,N,0,N,N,N,N,N
+98,This questionnaire was developed for this trial.,0,0,0,0,N,0,N,N,N,N,N
+99,Numeric Rating Scale (NRS) scores were used to measure these outcomes.,0,0,0,0,N,0,N,N,N,N,N
+100,Questions concerning satisfaction had a range from 0 (not satisfied at all) to 10 (very satisfied).,0,0,0,0,N,0,N,N,N,N,N
+101,Questions concerning the need for more information had a range from 0 (no need at all) to 10 (very much in need of).,0,0,0,0,N,0,N,N,N,N,N
+102,Satisfaction and the need for more information were measured at baseline and 2 days before the consultation.,0,0,0,0,N,0,N,N,N,N,N
+103,"Furthermore, 1 day after the consultation, we measured overall satisfaction with the consultation with an NRS score from 0 (not satisfied at all) to 10 (very satisfied).",0,0,0,0,N,0,N,N,N,N,N
+104,"We also determined the level at which patients felt they had made a decision about their treatment together with their physician, with an NRS score ranging from 0 (strongly disagree) to 10 (strongly agree).",0,0,0,0,N,0,N,N,N,N,N
+105,"Furthermore, the following items were measured: the type of treatment chosen (conservative, operative, and I don’t know), how sure patients were about their choice (NRS, from 0 [not sure at all] to 10 [very sure]), and whether their complaints were, in the end, actually because of knee OA (yes, no, and I don’t know).",0,0,0,0,N,0,N,N,N,N,N
+106,All tertiary outcomes were measured 1 day after the consultation.,0,0,0,0,N,0,N,N,N,N,N
+107,This questionnaire was developed for this trial.,0,0,0,0,N,0,N,N,N,N,N
+108,"As a fourth outcome, we assessed patients’ mobile device proficiency.",0,0,0,0,N,0,N,N,N,N,N
+109,"To measure it, the Mobile Device Proficiency Questionnaire-16 [<a href=""#ref30"">30</a>] was used.",0,0,0,0,N,0,N,N,N,N,N
+110,"This questionnaire addresses 8 domains, ranging from “sending an email” and “downloading apps” to “privacy” and “update settings.” Each domain is assessed by 2 questions about completing a task, measured on a Likert scale from 1 (never tried) to 5 (very easily), resulting in a sum score ranging from 16 to 80.",0,0,0,0,N,0,N,N,N,N,N
+111,"As a Dutch version of this questionnaire was not available, it was translated from English to Dutch by 3 researchers independently.",0,0,0,0,N,0,N,N,N,N,N
+112,"After reaching a consensus about the Dutch translation, it was translated back into English by a certified translation agency.",0,0,0,0,N,0,N,N,N,N,N
+113,No major differences to the original version were identified.,0,0,0,0,N,0,N,N,N,N,N
+114,This measure was performed at baseline.,0,0,0,0,N,0,N,N,N,N,N
+115,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,0,N,0,N,N,N,N,N
+116,</span>Overview of outcomes per measurement.,0,0,0,0,N,0,N,N,N,N,N
+117,"A priori sample size calculation (alpha=.05, [1−beta]=.80) based on a reported difference of 11.7% in knowledge between orthopedic patients using a decision aid or not [<a href=""#ref31"">31</a>] resulted in a minimum requirement of 83 patients in each study arm.",0,0,0,0,N,0,N,N,N,N,N
+118,Our primary analysis was conducted using an intention-to-treat approach and therefore included all randomized patients.,0,0,0,0,N,0,N,N,N,N,N
+119,"Normally distributed continuous variables were presented as a mean value with the SD and statistically compared between the groups using independent Student <span class=""italic"">t</span> tests.",0,0,0,0,N,0,N,N,N,N,N
+120,Non-normally distributed variables were presented as a median value with the interquartile range and statistically compared between the groups using the Mann-Whitney U tests.,0,0,0,0,N,0,N,N,N,N,N
+121,Categorical variables were presented as number and percentage and compared between groups using chi-square tests.,0,0,0,0,N,0,N,N,N,N,N
+122,"Within-group differences were tested using paired Student <span class=""italic"">t</span> tests in the case of normally distributed data or Wilcoxon signed-rank tests in the case of nonparametric data.",0,0,0,0,N,0,N,N,N,N,N
+123,"<span class=""italic"">P</span> values of ≤.05 were assumed to indicate a significant difference.",0,0,0,0,N,0,N,N,N,N,N
+124,A “per protocol” analysis was performed for all primary and secondary outcomes to also examine to the robustness of our main results.,0,0,0,0,N,0,N,N,N,N,N
+125,"All data were analyzed using IBM SPSS Statistics for Macintosh, version 22.0, (Armonk, USA).",0,0,0,0,N,0,N,N,N,N,N
+126,"Between May and August 2017, a total of 307 patients considered participation in the study.",0,0,0,0,N,0,N,N,N,N,N
+127,"A total of 50 patients (16.2%, 50/307) withdrew from the study (for reasons unknown) without completing the baseline questionnaire, and 1 patient did not consent to participate.",0,0,0,0,N,0,N,N,N,N,N
+128,"Moreover, 11 patients (3.5%, 11/307) could not be contacted because of incorrect email addresses.",0,0,0,0,N,0,N,N,N,N,N
+129,"In addition, 32 patients (10.4%, 32/307) participated in the baseline questionnaire but did not respond to both follow-up questionnaires (<a href=""#figure2"">Figure 2</a>).",0,0,0,0,N,0,N,N,N,N,N
+130,Patients who missed the baseline measurement or both the follow-up questionnaires were registered as lost to follow-up.,0,0,0,0,N,0,N,N,N,N,N
+131,"Patients whose email address was incorrectly recorded, and therefore did not receive an invitation, were registered as “email address unknown or incorrect.” Neither of them were included in the analysis.",0,0,0,0,N,0,N,N,N,N,N
+132,"No significant differences were found between the baseline characteristics of the app group (45 male [49%], mean age=62.3 years, SD=8.3) and the control group (56 male [45%], mean age=61.8 years, SD=8.5).",0,0,0,0,N,0,N,N,N,N,N
+133,"In addition, no significant differences were observed with respect to level of education, pain, symptoms, functional outcome, perceived knowledge, satisfaction with available knowledge, and the need for additional information (<a href=""#table2"">Table 2</a>).",0,0,0,0,N,0,N,N,N,N,N
+134,"Two days before consultation, the app group had a 52% higher level of actual knowledge (app: mean 26.4 [SD 7.4], control: mean 17.4 [SD 6.8], <span class=""italic"">P</span>&lt;.001; <a href=""#figure3"">Figure 3</a> and <a href=""#table3"">Table 3</a>).",0,0,0,0,N,0,N,N,N,N,N
+135,"The level of perceived knowledge was 26% higher in the app group (app: mean 16.5 [SD 3.9], control: mean 13.0 [SD 4.1], <span class=""italic"">P</span>&lt;.001).",0,0,0,0,N,0,N,N,N,N,N
+136,"Comparison within groups revealed an increase in perceived knowledge in the app group (baseline: mean 13.1 [SD 4.6], 2 days before consultation: mean 16.5 [SD 3.9], <span class=""italic"">P</span>&lt;.001).",0,0,0,0,N,0,N,N,N,N,N
+137,"This was not the case in the control group (baseline: mean 13.5 [SD 4.1], 2 days before consultation: mean 13.6 [SD 4.2], <span class=""italic"">P</span>=.78; <a href=""#figure4"">Figure 4</a>).",0,0,0,0,N,0,N,N,N,N,N
+138,"Patients’ level of satisfaction with their knowledge was higher in the app group (app: mean 6.8 [SD 2.7], control: mean 5.4 [SD 2.5], <span class=""italic"">P</span>&lt;.001).",0,0,0,0,N,0,N,N,N,N,N
+139,"The level of satisfaction with the provided information was also higher in the app group (app: mean 7.0 [SD 2.3], control: mean 5.3 [SD 2.5], <span class=""italic"">P</span>&lt;.001).",0,0,0,0,N,0,N,N,N,N,N
+140,"The app group also had a lower need for additional information (app: median 7 [Q1-Q3 5-8], control: median 8 [Q1-Q3 6-9], <span class=""italic"">P</span>=.02).",0,0,0,0,N,0,N,N,N,N,N
+141,"Comparison within groups revealed an increase in patients’ satisfaction with their knowledge in the app group (baseline: mean 5.18 [SD 2.8], 2 days before consultation: mean 6.8 [SD 2.7], <span class=""italic"">P</span>&lt;.001).",0,0,0,0,N,0,N,N,N,N,N
+142,"This was not the case in the control group (baseline: mean 5.3 [SD 2.4], 2 days before consultation: mean 5.4 [SD 2.5], <span class=""italic"">P</span>=.57).",0,0,0,0,N,0,N,N,N,N,N
+143,"Comparison within groups also revealed an increase in patients’ satisfaction with the available information in the app group (baseline: mean 5.2 [SD 2.7], 2 days before consultation: mean 7.0 [SD 2.3], <span class=""italic"">P</span>&lt;.001).",0,0,0,0,N,0,N,N,N,N,N
+144,"This was not the case in the control group (baseline: mean 5.1 [SD 2.3], 2 days before consultation: mean 5.3 [SD 2.5], <span class=""italic"">P</span>=.56).",0,0,0,0,N,0,N,N,N,N,N
+145,"Overall satisfaction with the consultation with the orthopedic surgeon showed no difference between groups (app: median 9 [Q1-Q3 8-9], control: median 9 [Q1-Q3 7-9], <span class=""italic"">P</span>=.32).",0,0,0,1,N,0,N,N,N,N,N
+146,"The extent to which patients felt they chose their treatment together with the orthopedic surgeon also did not differ between groups (app: median 9 [Q1-Q3 7-9], control: median 8 [Q1-Q3 7-8], <span class=""italic"">P</span>=.25).",0,0,0,1,N,0,N,N,N,N,N
+147,"Patients in the app group were more confident about their choice of treatment (app: median 8 [Q1-Q3 7-10], control: median 8 [Q1-Q3 5-8], <span class=""italic"">P</span>=.04).",0,0,0,0,N,0,N,N,N,N,N
+148,"There was no difference between groups concerning the choice for conservative or operative treatment (<span class=""italic"">P</span>=.34).",0,0,0,0,N,0,N,N,N,N,N
+149,"In the control group, more patients were uncertain of their choice of treatment (22.3% vs 10.1%, <span class=""italic"">P</span>=.03).",0,0,0,0,N,0,N,N,N,N,N
+150,"In addition, the control group had significantly more patients that reported they had no idea whether their complaints were, in the end, caused by OA (26.3% vs 10.1%, <span class=""italic"">P</span>=.02).",0,0,0,0,N,0,N,N,N,N,N
+151,"View larger version</a></span><span class=""fig-label"">Figure 2.",0,0,0,0,N,0,N,N,N,N,N
+152,</span>Patient flow diagram.,0,0,0,0,N,0,N,N,N,N,N
+153,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,0,0,N,0,N,N,N,N,N
+154,</span>Patient characteristics.,0,0,0,0,N,0,N,N,N,N,N
+155,"View larger version</a></span><span class=""fig-label"">Figure 3.",0,0,0,0,N,0,N,N,N,N,N
+156,</span>Level of actual knowledge (2 days before consultation; error bars: 95% CI).,0,0,0,0,N,0,N,N,N,N,N
+157,"See full table</a></span><span class=""fig-label"">Table 3.",0,0,0,0,N,0,N,N,N,N,N
+158,</span>Actual knowledge questionnaire and distribution of the correct answers.,0,0,0,0,N,0,N,N,N,N,N
+159,"View larger version</a></span><span class=""fig-label"">Figure 4.",0,0,0,0,N,0,N,N,N,N,N
+160,</span>Level of perceived knowledge (baseline vs 2 days before the consultation; error bars: 95% CI).,0,0,0,0,N,0,N,N,N,N,N
+161,"See full table</a></span><span class=""fig-label"">Table 4.",0,0,0,0,N,0,N,N,N,N,N
+162,</span>Per protocol analysis of the main outcomes (2 days before consultation).,0,0,0,0,N,0,N,N,N,N,N
+163,"There was no difference in mobile device proficiency between groups at baseline (app: mean 59.3 [SD 19.73], control: mean 60.3 [SD 18.77]).",0,0,0,0,N,0,N,N,N,N,N
+164,"The items most frequently referred to as “never tried” were the transferring of data to and from a mobile device, scheduling appointments in their agenda, playing games, and listening to music.",0,0,0,0,N,0,N,N,N,N,N
+165,All the items necessary for the use of the educational app were rated “easily” or “very easily” by &gt;75% of patients.,0,0,0,0,N,0,N,N,N,N,N
+166,These items included using the device to find and start the app and using the keyboard.,0,0,0,0,N,0,N,N,N,N,N
+167,About 24% of the participants had never tried to search for an app in the App or Play Store.,0,0,0,0,N,0,N,N,N,N,N
+168,All presented results so far were analyzed using the intention-to-treat method.,0,0,0,0,N,0,N,N,N,N,N
+169,"Analysis based on the per protocol method also resulted in the main outcomes being in favor of the app group, albeit somewhat more pronounced (<a href=""#table4"">Table 4</a>).",0,0,0,0,N,0,N,N,N,N,N
+170,"In this study, we primarily investigated the possible effects of actively sending subdivided, categorized, and interactive information through an app on patients’ knowledge of knee complaints and their treatment options.",0,0,0,0,N,0,N,N,N,N,N
+171,"In addition, patient satisfaction with provided information, knowledge, and the consultation as well as patient self-reported confidence in treatment choice were measured.",0,0,0,0,N,0,N,N,N,N,N
+172,"In comparison with patients who received standard care, the level of actual knowledge was 52% higher in patients who used the app designed for this study.",0,0,0,0,N,0,N,N,N,N,N
+173,"This approach seems to be much more effective compared with the use of decision aids as described in the Cochrane 2017 systematic review, in which a total of 52 studies, calculating for 13,316 patients, were included, and knowledge increased by 13.27% [<a href=""#ref3"">3</a>].",0,0,0,0,N,0,N,N,N,N,N
+174,"Apart from actual knowledge, patients in the app group also experienced a significantly higher level of perceived knowledge about their illness and treatment options, whereas in the control group, there was hardly any change.",0,0,0,0,N,0,N,N,N,N,N
+175,"The app group rated their level of perceived knowledge as 16.5 out of 20 (ie, 8.3 on a 0-10 scale).",0,0,0,0,N,0,N,N,N,N,N
+176,"The control group rated their level of knowledge as 13.5 out of 20 (ie, 6.8 on a 0-10 scale).",0,0,0,0,N,0,N,N,N,N,N
+177,"Their level of actual knowledge, however, demonstrated that they sometimes had little to very little knowledge about the topics (see <a href=""#table3"">Table 3</a>).",0,0,0,0,N,0,N,N,N,N,N
+178,"This <span class=""italic"">overestimation</span> of one’s knowledge fosters their confidence of being capable of choosing the right treatment [<a href=""#ref33"">33</a>].",0,0,0,0,N,0,N,N,N,N,N
+179,"Choosing a treatment based on nonexistent or wrong information, however, is a known predictor for dissatisfaction [<a href=""#ref34"">34</a>-<a href=""#ref36"">36</a>].",0,0,0,0,N,0,N,N,N,N,N
+180,Patients in the app group not only had more knowledge but were also more satisfied with their knowledge and the information they received and were to a lesser extent in need of more information.,0,0,0,0,N,0,N,N,N,N,N
+181,"This is in line with earlier research, describing increased satisfaction when one is offered a decision aid [<a href=""#ref3"">3</a>].",0,0,0,0,N,0,N,N,N,N,N
+182,"Nonetheless, no differences were found between the groups in the way they experienced their consultation with their physician nor in the extent to which they felt they had made the choice for their treatment together with their physician.",0,0,0,0,N,0,N,N,N,N,N
+183,"On the basis of these results, one might question patients’ need for knowledge.",0,0,0,0,N,0,N,N,N,N,N
+184,"However, previous studies have demonstrated that when patients are more knowledgeable, they have less decisional conflict [<a href=""#ref3"">3</a>].",0,0,0,0,N,0,N,N,N,N,N
+185,This is arguably supported by our finding that patients in the app group were more confident about their chosen treatment.,0,0,0,0,N,0,N,N,N,N,N
+186,"Furthermore, in the days directly following the consultation, 90.2% of patients in the app group could remember the type of treatment chosen versus 78.3% in the control group (<span class=""italic"">P</span>=.02).",0,0,0,0,N,0,N,N,N,N,N
+187,"In addition, the number of patients who did not know whether their complaints were caused by OA was smaller in the app group (10.3%) than in the control group (26.7%; <span class=""italic"">P</span>=.01).",0,0,0,0,N,0,N,N,N,N,N
+188,"To try to explain the large difference in actual knowledge gain, we took a closer look at the Cochrane 2017 review.",0,0,0,0,N,0,N,N,N,N,N
+189,"This review updated the Cochrane 2014 review on the use of decision aids, to which 18 new studies were added.",0,0,0,0,N,0,N,N,N,N,N
+190,"We examined these 18 studies, assuming they would provide an up-to-date overview of the types of interventions used in recent years.",0,0,0,0,N,0,N,N,N,N,N
+191,"All newly added studies were conducted between 2012 and 2015, except for one that was conducted in 2006.",0,0,0,0,N,0,N,N,N,N,N
+192,"In these studies, booklets, DVDs, websites, one-on-one conversations, phone calls, and group sessions were used as decision aids.",0,0,0,0,N,0,N,N,N,N,N
+193,"Decision aids were made available during consultations, between consultations, or after consultations with doctors.",0,0,0,0,N,0,N,N,N,N,N
+194,Decision aids ranged from 1-page instructions to 2-hour information sessions online or on-site.,0,0,0,0,N,0,N,N,N,N,N
+195,"In contrast to these studies, we used an app for smartphone or tablet as an information carrier in our study.",0,0,0,0,N,0,N,N,N,N,N
+196,"One of the characteristics of these devices, especially smartphones, is that people often carry the device with them, lowering the barrier to use them.",0,0,0,0,N,0,N,N,N,N,N
+197,"Within the app, we used a combination of known mechanisms on information retention: small bits of information [<a href=""#ref11"">11</a>,<a href=""#ref13"">13</a>-<a href=""#ref15"">15</a>], information about specific themes [<a href=""#ref6"">6</a>], multiple modes of information [<a href=""#ref37"">37</a>], and quiz-like questions with instant feedback to test (and reflect) patients’ knowledge [<a href=""#ref11"">11</a>,<a href=""#ref19"">19</a>].",0,0,0,0,N,0,N,N,N,N,N
+198,None of the studies in the Cochrane review used this combination of mechanisms.,0,0,0,0,N,0,N,N,N,N,N
+199,"Type of information carrier was often the limiting factor for using different mechanisms, as you cannot, for instance, offer subdivided content on a piece of paper, small bits of information in a 2-hour group session, or multiple modes of information in a phone call.",0,0,0,0,N,0,N,N,N,N,N
+200,"Another important and distinctive factor that we believe contributed to the higher level of knowledge was the usage of (daily) push notifications—actively bringing information to patients, reminding them about the information in the app, and giving them the opportunity to directly access the information by clicking on the notification.",0,0,0,0,N,0,N,N,N,N,N
+201,"In our study, the median number of times patients viewed the information in the week before the consultation was 25 (Q1-Q3: 12-39).",0,0,0,0,N,0,N,N,N,N,N
+202,"Sending push notifications had a direct effect on usage of the app in terms of patients opening the app, viewing information, watching a video, or answering a quiz-like question.",0,0,0,0,N,0,N,N,N,N,N
+203,"To our knowledge, this is the first study that investigated patient education through an interactive app, while taking actual and perceived knowledge as well as satisfaction and confidence about treatment choice into account.",0,0,0,0,N,1,N,N,N,N,N
+204,"Second, the study covers a relevant topic in modern health care: eHealth.",0,0,0,0,N,1,N,N,N,N,N
+205,"The third strength is the design of the trial: multicenter (6 hospitals), randomized, controlled, and blinded for the treating physician.",0,0,0,0,N,1,N,N,N,N,N
+206,"Finally, the content for the app was composed by using multiple sources of information, including orthopedic surgeons and current guidelines.",0,0,0,0,N,1,N,N,N,N,N
+207,A limitation of our study is the fact that the level of actual knowledge was only measured once.,0,0,0,0,N,1,N,N,N,N,N
+208,"Therefore, we could not perform a within-group comparison to assign the higher level of actual knowledge to the intervention.",0,0,0,0,N,0,N,N,N,N,N
+209,"However, the randomization, the similarity of baseline characteristics between groups, and the significant increase in perceived knowledge only in the intervention group render it likely that the difference in actual knowledge between groups is because of the intervention.",0,0,0,0,N,0,N,N,N,N,N
+210,"Second, 22% of patients in the app group did not download the app, for unknown reasons.",0,0,0,0,N,0,N,N,N,N,N
+211,"Perhaps, the instructions were too complex or the patients had trouble with the initial download from the App or Play Store.",0,0,0,0,N,0,N,N,N,N,N
+212,This demonstrates the necessity to offer support to patients for the initial usage of interventions such as these.,0,0,0,0,N,0,N,N,N,N,N
+213,"Nevertheless, the level of adherence was high (70%).",0,0,0,0,N,0,N,N,N,N,N
+214,"Moreover, even without correcting for this, our results show a clear advantage in the level of knowledge in the app group.",0,0,0,0,N,0,N,N,N,N,N
+215,"This effect of the app became more pronounced when data were analyzed using the <span class=""italic"">per protocol</span> method.",0,0,0,0,N,0,N,N,N,N,N
+216,"Third, we only included patients in possession of an email address and a smartphone or tablet.",0,0,0,0,N,0,N,N,N,N,N
+217,These criteria could limit the generalizability of the results.,0,0,0,0,N,0,N,N,N,N,N
+218,"However, majority of the sample did use email (45-65 years: 92.9%; &gt;65 years: 62.2%) and have a smart device (45-65 years: 92.4%; &gt;65 years: 68.7%) [<a href=""#ref38"">38</a>], and this number will most probably only increase in the future.",0,0,0,0,N,0,N,N,N,N,N
+219,"The fourth limitation is the use of self-created questionnaires to measure perceived and actual knowledge, as validated questionnaires covering our <span class=""italic"">top 5</span> important topics do not exist.",0,0,0,0,N,0,N,N,N,N,N
+220,"To minimize this limitation, these questionnaires were developed in close cooperation with practicing clinicians and in line with Dutch guidelines and patient educational booklets.",0,0,0,0,N,0,N,N,N,N,N
+221,"Finally, we did not consider individual preferences of patients regarding education on treatment options, nor their desire, or the lack of it, to participate in SDM.",0,0,0,0,N,0,N,N,N,N,N
+222,"Earlier research has shown that some older people feel that “the doctor knows best” and that “their own knowledge is superfluous in the decision-making process” [<a href=""#ref4"">4</a>].",0,0,0,0,N,0,N,N,N,N,N
+223,"Modern health care is more and more focused on patient involvement, in which knowledge about ones’ illness and treatment options is a must.",0,0,0,0,N,0,N,N,N,N,N
+224,Our results show that educating patients by using an interactive app with timely information could play an important role in increasing knowledge—one of the key drivers for SDM.,0,0,0,0,N,0,N,N,N,N,N
+225,It could benefit the consultation with the physician as well as result in long-term satisfaction with the treatment chosen.This study focused on patients being referred to an orthopedic surgeon by their GP with complaints indicating knee OA.,0,0,0,0,N,0,N,N,N,N,N
+226,"We hypothesize, however, that neither the illness or the (phase of the) treatment limits the extent to which this type of intervention could be useful in improving patient education.",0,0,0,0,N,0,N,N,N,N,N
+227,Future research is needed to show the generalizability of using an app to actively offer patients subdivided and interactive information related to their specific illness or treatment.,0,0,0,0,N,0,N,N,N,N,N
+228,"Furthermore, the (long-term) effects of this intervention on the final choice patients made regarding their treatment and the effect to which they were satisfied with this choice need to be demonstrated.",0,0,0,0,N,0,N,N,N,N,N
+229,"We found that, in comparison with standard educational tools, using an app to actively educate patients with subdivided, categorized, and interactive content significantly increased their level of perceived knowledge.",0,0,0,0,N,0,N,N,N,N,N
+230,"Furthermore, a significantly higher level of actual knowledge was demonstrated in the intervention group.",0,0,0,0,N,0,N,N,N,N,N
+231,Patients in the app group were also more satisfied with the information they received and with their level of knowledge compared with the control group.,0,0,0,0,N,0,N,N,N,N,N
+232,"Even though the intervention did not have an effect on their appreciation of the consultation with the doctor, patients in the app group were more confident and aware about their choice of treatment.",0,0,0,0,N,0,N,N,N,N,N

@@ -1,0 +1,128 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Introduction: There is a need to establish a framework and exercise level for patients with early rheumatoid arthritis (RA).,0,0,0,0,0,0,0,N,0,0,N
+1,The aim of this study was to compare the effect of a partly supervised and a self-administered exercise programme for patients with early RA.,0,0,0,0,0,0,0,N,0,0,N
+2,"Methods: A total of 51 patients with early (≤ 5 years) RA were randomised to either a six-week supervised, progressive, high-intensity exercise programme followed by a six-week self-administered exercise programme or a 12-week self-administered exercise programme.",0,0,0,0,0,0,0,N,0,0,N
+3,Results: A total of 36 patients completed the study.,0,0,0,0,0,0,0,N,0,0,N
+4,"Following the 12 weeks of exercises, patients in the two groups had improved both their muscle strength and their physical fitness.",0,0,0,0,0,0,0,N,0,1,N
+5,"There was a significant difference in Disease Activity Score in 28 joints calculated with C-reactive protein between the two exercise groups, but no significant differences in physical fitness, pain perception, Health Assessment Questionnaire, Short Form 36 health survey questionnaire, Fear-Avoidance Beliefs Questionnaire, or in muscle strength, except from a significant difference in trunk extensors.",0,0,0,0,0,0,0,N,0,0,N
+6,The dropout was 40% in the supervised group versus 20% in the self-administered group.,0,0,0,0,0,0,0,N,0,0,N
+7,"Conclusion: A progressive, high-intensity exercise programme is feasible for patients with early RA, although we observed an elevated number of dropouts for reasons not related to the intervention.",0,0,0,0,0,0,0,N,0,0,N
+8,The partly supervised exercise programme with follow-up after 12 weeks does not seem to be more effective than the self-administered exercise programme.,0,0,0,0,0,0,0,N,0,0,N
+9,Rheumatoid arthritis (RA) is a chronic inflammatory disease of the peripheral joints impacting considerably on quality of life.,0,0,0,0,0,0,0,N,0,0,N
+10,RA causes disability and decreased muscle strength.,0,0,0,0,0,0,0,N,0,0,N
+11,Patients with RA are less active than their healthy peers and do not comply with recommendations on physical activity.,0,0,0,0,0,0,0,N,0,0,N
+12,"In early RA, patients often experience co-morbidities.",0,0,0,0,0,0,0,N,0,0,N
+13,Treat-to-target strategies have had a positive effect on disease activity and have halted joint damage.,0,0,0,0,0,0,0,N,0,0,N
+14,"Medical treatment is suggested in combination with physical activity to prevent loss of function, maintain well-being and to prevent co-morbidity.",0,0,0,0,0,0,0,N,0,0,N
+15,High-intensity exercises are safe and efficient for patients with RA and do not impact on disease activity or joint damage.,0,0,0,0,0,0,0,N,0,0,N
+16,Studies including patients with early RA (≤ 5 years) showed that moderate-intensity exercises affected muscle strength and functional ability.,0,0,0,0,0,0,0,N,0,0,N
+17,High-intensity exercises recommended 2-3 times a week for patients with RA have been defined as muscle strength training with an intensity level of 8-15 repetition maximum (RM) and as aerobic training with an intensity level of 60-80% of the maximum heart rate.,0,0,0,0,0,0,0,N,0,0,N
+18,"Though patients can improve their physical capacity and decrease perceived pain after high-intensity exercises, barriers such as pain, fatigue, anxiety and lack of specific exercise programmes have been described.",0,0,0,0,0,0,0,N,0,0,N
+19,A meta-analysis and a systematic review could not conclude whether exercises should be supervised or not.,0,0,0,0,0,0,0,N,0,0,N
+20,"However, more studies on physical training suggest that exercise programmes should be supervised to adjust for individual disease status.",0,0,0,0,0,0,0,N,0,0,N
+21,The aim of this study was to compare the effect of a partly supervised and a self-administered intensive exercise programme in patients with early RA.,0,0,0,0,0,0,0,N,0,0,N
+22,"The hypothesis was that partly supervised exercises are more effective in increasing muscle strength, improving physical fitness, reducing pain and improving functional ability than self-administered exercises are.",0,0,0,0,0,0,0,N,0,0,N
+23,"This study was a randomised, controlled study conducted from January 2012 to March 2013.",0,0,0,0,0,0,0,N,0,0,N
+24,Patients with early RA participated in 12 weeks of exercises and were randomised (1:1) to either partly supervised exercises or self-administered exercises.,1,1,0,0,0,0,0,N,0,0,N
+25,Randomisation was stratified according to age and sex and carried out individually by letting patients draw an envelope.,0,1,1,0,0,0,0,N,0,0,N
+26,The physiotherapist performing the tests was blinded to group allocation.,0,0,0,0,1,1,1,N,0,0,N
+27,"A total of 51 patients were recruited from the Department of Rheumatology, Aarhus University Hospital, Denmark, and assigned as presented in Figure 1.",0,0,0,0,0,0,0,N,0,0,N
+28,"Eligible patients met the criteria for RA according to the American College of Rheumatology (ACR) criteria or the ACR/The European League Against Rheumatism (EULAR) criteria, were diagnosed between 2008 and 2012, were older than 18 years, were able to participate in sessions twice a week during a six-week period, were able to use a bicycle, resided within a 20 km radius from the hospital and were able to understand and read Danish.",1,0,0,0,0,0,0,N,0,0,N
+29,"The exclusion criteria were a high disease activity according to the Disease Activity Score in 28 joints calculated with C-reactive protein (DAS28-CRP): > 5.1, myocardial infarction within the past six months, angina pectoris, hypertension at ≥ 180/≥ 110 mmHg or treated hypertension at 160-179/100-109 mmHg, treatment with beta-blockers or presence of symptoms of severe or very severe chronic obstructive pulmonary",1,0,0,0,0,0,0,N,0,0,N
+30,The study was approved by The Central Denmark Region’s Committees on Biomedical Research Ethics,0,0,0,0,0,0,0,N,0,0,N
+31,"Before randomisation, all patients were advised to be active according to the recommendations of the Danish Health and Medicines Authority.",0,0,1,0,0,0,0,N,0,0,N
+32,Patients randomised to partly supervised exercises underwent six weeks of supervised training with 30 minutes of physical fitness on an exercise bike.,0,0,0,1,0,0,0,N,0,0,N
+33,The intensity level was 15-16 on the Borg Rating of Perceived Exertion (RPE) scale.,0,0,0,0,0,0,0,N,0,0,N
+34,"Thirty minutes of muscle strength training (legs, shoulders, trunk extensors and flexors).",0,0,0,0,0,0,0,N,0,0,N
+35,The intensity level was 12 RM.,0,0,0,0,0,0,0,N,0,0,N
+36,Exercises were repeated three times.,0,0,0,0,0,0,0,N,0,0,N
+37,Bike training was used as warm-up before strength exercises.,0,0,0,0,0,0,0,N,0,0,N
+38,The strength exercises were circle training giving a rest period of approximately five minutes between each set.,0,0,0,0,0,0,0,N,0,0,N
+39,The same intensity level was kept through the 12 weeks.,0,0,0,0,0,0,0,N,0,0,N
+40,Intensity load was increased at least every two weeks and adjusted to the patients’ symptoms.,0,0,1,0,0,0,0,N,0,0,N
+41,The supervised sessions were held twice a week in groups of 2-4 patients; the same physiotherapist attended all exercise sessions.,0,0,0,0,0,0,0,N,0,0,N
+42,"After completing the six weeks of exercises, patients underwent physical tests.",0,0,0,1,0,0,0,N,0,0,N
+43,Patients were recommended to continue exercising in their local community.,0,0,0,0,0,0,0,N,0,0,N
+44,Patients assigned to self-administered exercises,0,0,0,0,0,0,0,N,0,0,N
+45,underwent 12 week of self-administered exercises in their local community.,0,0,0,0,0,0,0,N,0,0,N
+46,These patients were recommended to exercise at the same intensity level as the,0,0,0,0,0,0,0,N,1,0,N
+47,Baseline demographics and disease-related characteristics were obtained from medical records and physical assessments (Table 1).,0,0,0,1,0,0,0,N,0,0,N
+48,Physical tests were performed at baseline and at follow-up and three questionnaires were completed.,0,0,0,0,0,0,0,N,1,0,N
+49,The endpoints were changes from baseline to follow-up.,0,0,0,0,0,0,1,N,0,0,N
+50,The primary outcome was changes in,0,0,0,0,0,0,0,N,0,0,N
+51,muscle strength in the legs (kg).,0,0,0,0,0,0,0,N,0,0,N
+52,Muscle strength was measured in Cybex strength-training equipment (kg).,0,0,0,0,0,0,0,N,0,0,N
+53,"Tests were performed for leg muscles (Leg Press – Eagle Strength), arm/shoulder",0,0,0,0,0,0,0,N,0,0,N
+54,"muscles (VR1 Duals – Lat-Rows), trunk extensors and flexors (VR1 Duals – ab/back) with a 10-RM test.",0,0,0,0,0,0,0,N,0,0,N
+55,Physical fitness was measured with a submaximal cycle test (Astrand test) given in VO2max in ml/kg/min on a Monark exercise bike (928 ProVO2) .,0,0,0,0,0,0,0,N,0,0,N
+56,rested for 20-30 minutes before the test.,0,0,0,0,0,0,0,N,0,0,N
+57,Pain was reported as perception of overall pain on average within the past 48 hours.,0,0,0,0,0,0,0,N,0,0,N
+58,A numeric rating scale (NRS) of 0-10 was used; 0: “no pain” and 10: “worst imaginable pain”.,0,0,0,0,0,0,0,N,0,0,N
+59,DAS28-CRP was used as assessment of disease activity.,0,0,0,0,0,0,0,N,0,0,N
+60,"It is calculated based on four variables; swollen joint counts, tender joint counts, C-reactive protein (CRP) and patient global assessment.",0,0,0,0,0,0,0,N,0,0,N
+61,"The score provides a number between 0 and 10; the higher the score, the higher the disease activity.",0,0,0,0,0,0,0,N,0,0,N
+62,A Health Assessment Questionnaire (HAQ-DI) was used to describe the level of activities of daily living.,0,0,0,0,0,0,0,N,0,0,N
+63,"The questionnaire contains eight categories: dressing and grooming, arising, eating, walking, hygiene, reaching, gripping and other activities.",0,0,0,0,0,0,0,N,0,0,N
+64,The highest scores from the categories are added together and divided by eight to achieve the final score.,0,0,0,0,1,1,0,N,0,0,N
+65,More severe disability yields a higher score.,0,0,0,0,0,0,0,N,0,0,N
+66,The Short Form 36 Health Survey (SF36) was used to describe the patients’ health status.,0,0,0,0,1,1,1,N,0,0,N
+67,"The results on eight scales on functional ability, well-being and health status are summarised into the Physical Component Score (PCS) and the Mental Component Score (MCS);",0,0,0,0,0,0,0,N,0,0,N
+68,a number between 0 and 100 is given as the final score.,0,0,0,0,0,0,0,N,0,0,N
+69,"The higher the number, the better the patient’s health.",0,0,0,0,0,0,0,N,0,0,N
+70,Anxiety and fear avoidance in relation to physical activity were described by means of Fear Advoidance Belief Questionnaire (FABQ); the sub-scale on physical activity (FABQ-PA) was used; the word “back pain” was changed to RA.,0,0,0,0,0,0,0,N,0,0,N
+71,"The lower the score, the less anxiety and fear avoidance towards physical activity.",0,0,0,0,0,0,0,N,0,0,N
+72,The FABQ is applicable to other patients than patients with low back pain.,0,0,0,0,0,0,0,N,0,0,N
+73,Power analysis (power of 80%) of changes in leg press (kg) from baseline to follow-up resulted in a sample of 23 participants per exercise group at an anticipated dropout rate of 20%.,0,0,0,0,0,0,0,N,0,1,N
+74,All parameters were represented by medians and range.,0,0,0,1,0,0,0,N,0,0,N
+75,Between-group analyses were performed using a Wilcoxon rank sum test and the chi-squared test.,0,0,0,0,0,0,0,N,1,0,N
+76,Intention-to-treat analysis was performed on data from the questionnaires.,0,0,0,0,0,0,0,N,1,0,N
+77,"Spearman’s rank correlation analysis was made between changes in muscle strength in legs and in pain, between changes in physical fitness and in pain, between changes in muscle strength in legs and pain at baseline, between changes in DAS28-CRP and in muscle strength in legs and between changes in DAS28-CRP and in pain perception.",0,0,0,0,0,0,0,N,0,0,N
+78,Data on dropouts were analysed.,0,0,0,0,0,0,0,N,0,0,N
+79,Trial registration: The trial was registered with www.clinicaltrials.gov (NCT01553305).,0,0,0,0,0,0,0,N,0,0,N
+80,A total of 36 patients completed the study (Figure 1).,0,0,0,0,0,0,0,N,0,0,N
+81,Baseline characteristics are shown in Table 1.,0,0,0,1,0,0,0,N,0,0,N
+82,"There was a significant difference in muscle strength in trunk extensors (p = 0.0009) and DAS28-CRP (p = 0.006) from baseline to follow-up between the two groups, but not in any other outcomes.",0,0,0,0,0,0,0,N,0,1,N
+83,Results on changes between the two groups are shown in Table 2.,0,0,0,0,0,0,0,N,0,0,N
+84,"In the partly supervised group and the self-administered group, muscle strength in legs improved by 32% and 26%, respectively; physical fitness improved by 15% and 7%, pain perception changed by –44% and –9%, respectively.",0,0,0,0,0,0,0,N,0,0,N
+85,Table 2 shows the results on changes.,0,0,0,0,0,0,0,N,0,0,N
+86,"There was no significant correlation between changes in the two groups in either: 1) muscle strength in legs and pain, 2) muscle strength in legs and pain at baseline, 3) physical fitness and pain, 4) DAS28-CRP and muscle strength in legs or 5) DAS28-CRP and pain.",0,0,0,0,0,0,0,N,0,0,N
+87,The intensity of strength exercises was increased in all patients approximately every other week.,0,0,0,0,0,0,0,N,0,0,N
+88,An exercise was increased when patients were able to do more than 12 RM.,0,0,0,0,0,0,0,N,0,0,N
+89,"If patients experienced pain, exercises were adjusted by either reducing the exercise load, exercising the opposite extremity or the exercises in question were simply not done that day.",0,0,0,0,0,0,0,N,0,0,N
+90,Patients completed an average of 92.2% of the training sessions.,0,0,0,0,0,0,0,N,0,0,N
+91,"At baseline, the 15 patients who dropped out were not significantly different from the patients concluding the study on any of the outcomes.",0,0,0,0,0,0,0,N,0,0,N
+92,Fourteen of the 15 patients responded.,0,0,0,0,0,0,0,N,0,0,N
+93,None of the patients in either group indicated that exercises or pain in connection with exercises caused them to drop out.,0,0,0,0,0,0,0,N,0,0,N
+94,Increased pain to the chest and a herniated lumbar disc made it impossible for two patients to complete the supervised sessions.,0,0,1,0,0,0,0,N,0,0,N
+95,Medical journals were checked.,0,0,0,0,0,0,0,N,0,0,N
+96,The questionnaires were sent out to dropouts and their response rate was 60% (nine responders).,0,0,0,0,0,0,0,N,0,0,N
+97,Patients with early RA in remission and with low and moderate disease activity improved muscle strength in legs and improved their level of physical fitness after completing 12 weeks of progressive high-intensity exercises.,0,0,0,0,0,0,0,N,0,0,N
+98,"We found a significant difference in DAS28-CRP, but no significant differences between the two groups in terms of muscle strength, physical fitness, pain perception, HAQ-DI, Short Form 36 health survey questionnaire (SF36v2) or in FABQ from baseline to follow-up.",0,0,0,0,0,0,0,N,0,0,N
+99,A thorough instruction seems to be sufficient to guide patients to complete high-intensity exercises on their own.,0,0,0,0,0,0,0,N,0,0,N
+100,We found no differences in most physical and mental parameters between the supervised and the self-administered exercises; this could indicate that patients were able to follow instructions on intensity and progression.,0,0,0,0,0,0,0,N,0,0,N
+101,"On the other hand, there was a significant difference in trunk extensors and in DAS28-CRP score after 12 weeks between the two interventions in favour of the partly supervised exercises.",1,0,0,0,0,0,0,N,0,1,N
+102,supervised exercises with standard care have shown a positive effect on physical capacity and functional ability in those who participate in supervised interventions.,0,0,0,0,0,0,0,N,0,0,N
+103,The high-intensity level of both interventions and the progressive approach were feasible for patients with early RA who reported no increase pain and HAQ-DI.,0,0,0,0,0,0,0,N,0,0,N
+104,"Nevertheless, there was a high dropout rate in both exercise groups (40% versus 20%) compared with similar studies which report dropout rates below 20%.",0,0,0,0,0,0,0,N,0,0,N
+105,None of the patients in our study considered exercises a reason for their drop out.,0,0,0,0,0,0,0,N,0,0,N
+106,"Consequently, we have no reason to believe that high-intensity exercises result in adverse events such as long-term pain or disease activity in patients with early RA.",0,0,0,0,0,0,0,N,0,0,N
+107,These assumptions are in line with conclusions from other studies and the fact that patients in both groups improved their DAS28-CRP after 12 weeks.,0,0,0,0,0,0,0,N,1,1,N
+108,"Nevertheless, the transferability of our results to the individual patient should be interpreted with caution.",0,0,0,0,0,0,0,N,0,0,N
+109,"In this study, co-morbidities and the time perspective influenced non-compliance.",0,0,0,0,0,0,0,N,0,0,N
+110,This is in line with described co-morbidities and barriers to activity in patients with RA.,0,0,0,0,0,0,0,N,0,0,N
+111,Further investigation of the reasons for drop out is necessary to optimise interventions in patients with early RA.,0,0,1,0,0,0,0,N,0,0,N
+112,The study design and the blinding of the physiotherapist performing the tests added to the strength of the study.,0,0,0,0,1,1,1,N,0,0,N
+113,"Furthermore, the chosen high-intensity level proved to be feasible for patients with early RA without increased reported pain due to exercises, either in",0,0,0,0,0,0,0,N,0,0,N
+114,"We excluded patients with myocardial infarction, angina pectoris and severe hypertension.",0,0,0,0,0,0,0,N,0,0,N
+115,"These patient groups are normally recommended exercise; and since patients with RA often suffer from cardiovascular disease, excluding these patients must be considered when comparing our results to other patients with early RA.",0,0,0,0,0,0,0,N,0,0,N
+116,The high number of dropouts was a limitation.,0,0,0,0,1,1,1,N,0,0,N
+117,Results from this study are considered relevant in patients with early RA.,0,0,0,0,0,0,0,N,0,0,N
+118,Patients in remission and patients with a low or moderate disease activity should be advised to participate in high-intensive exercises as this may improve both physical and mental parameters.,0,0,0,0,0,0,0,N,0,0,N
+119,Whether or not intervention should be supervised or self-administered remains unclear.,0,0,0,0,0,0,0,N,0,0,N
+120,Both approaches were effective in our study.,0,0,0,0,0,0,0,N,0,0,N
+121,"Until we have more knowledge, we must rely on health professionals to determine whether or not to advise patients to participate in supervised or non-supervised exercises.",0,0,0,0,0,0,0,N,0,0,N
+122,Future research should establish how health professionals may help and motivate patients with early RA to become and remain physically active.,0,0,0,0,0,0,0,N,0,0,N
+123,"Particularly, the long-term adherence to exercise programmes needs to be clarified.",0,0,0,0,0,0,0,N,0,0,N
+124,We found that patients with early RA in remission and patients with a low or moderate disease activity can perform progressive high-intensity exercises.,1,0,0,0,0,0,0,N,0,0,N
+125,"Despite a high dropout rate, exercises do not seem to cause adverse events.",0,0,0,0,0,0,0,N,0,0,N
+126,Partly supervised exercises with follow-up after 12 weeks are not more effective than self-administered exercises.,0,0,0,0,0,0,0,N,0,0,N

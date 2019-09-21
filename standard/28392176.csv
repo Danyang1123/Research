@@ -1,0 +1,246 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To compare standard and frequent topical steroids for postsurgical macular edema (ME).,0,0,N,N,N,N,N,N,N,N,0
+1,"Subjects with postsurgical ME stratified into post–cataract surgery ME (PCSME) and post–other surgery ME (POSME) were randomized to ketorolac 4 times a day (qid) + 1% prednisolone acetate (PA) every hour while awake (q1hWA, Group 1) or qid (Group 2).",0,0,N,N,N,N,N,N,N,N,0
+2,"Mean change from baseline best-corrected visual acuity (BCVA) was determined at week 12, after which group 2 subjects with persistent edema were crossed over to PA q1hWA.",0,0,N,N,N,N,N,N,N,N,0
+3,Twenty-two subjects (13 PCSME and 9 POSME) were randomized to Group 1 and 20 (12 PCSME and 8 POSME) to Group 2.,0,0,N,N,N,N,N,N,N,N,1
+4,"At week 12, change from baseline BCVA (ETDRS letters) in Group 1 vs 2 was +11.6 vs +8.5 (P = .32) and for subgroups was +10.6 vs +7.8 (P = .23) for PCSME and +13.1 vs +9.4 (P = .47) for POSME.",0,0,N,N,N,N,N,N,N,N,1
+5,"Mean change from baseline central subfield thickness (CST, μm) at week 12 in Group 1 vs 2 was −100.8 vs −63.9 (P = .30).",0,0,N,N,N,N,N,N,N,N,1
+6,Mean change from baseline intraocular pressure was +2.6 vs +1.7 mm Hg (P = .52).,0,0,N,N,N,N,N,N,N,N,1
+7,"Eight subjects in Group 2 with residual ME at week 12 were switched to PA q1hWA and at week 24, the mean changes from week 12 BCVA and CST were +7.0 letters (P = .01) and −108.25 μm (P = .04).",0,0,N,N,N,N,N,N,N,N,1
+8,"Our data suggest that patients with postsurgical ME should initially be treated with ketorolac and PA qid, but if edema does not resolve after 12 weeks, a switch to ketorolac qid and PA q1hWA may provide benefit.",0,0,N,N,N,N,N,N,N,N,0
+9,New insights into the molecular pathogenesis of diabetic macular edema and macular edema attributable to retinal vein occlusion have been made over the past decade.,0,0,N,N,N,N,N,N,N,N,0
+10,Retinal hypoxia and the hypoxia-regulated gene product vascular endothelial growth factor (VEGF) play important roles in each.,0,0,N,N,N,N,N,N,N,N,0
+11,Large multicenter clinical trials have demonstrated substantial benefit in patients with these types of macular edema by intraocular injections of a VEGF antagonist.,0,0,N,N,N,N,N,N,N,N,0
+12,Intraocular injections of a VEGF antagonist is now standard care and has greatly improved patient outcomes.,0,0,N,N,N,N,N,N,N,N,0
+13,"Macular edema (ME) also occurs after intraocular surgery, and there has been little progress elucidating its molecular pathogenesis.",0,0,N,N,N,N,N,N,N,N,0
+14,"Cataract surgery combined with insertion of an intraocular lens (IOL) is the most commonly performed intraocular surgery, and thus it is not surprising that post–cataract surgery ME (PCSME) is the most common and most studied subgroup, but ME occurring after other types of ocular surgery, post–other surgery ME (POSME), is also an important cause of visual morbidity.",0,0,N,N,N,N,N,N,N,N,0
+15,"Inflammation attributable to the surgical procedure is felt to play a role, which is consistent with the observation of increased incidence in eyes with surgical complications and/or identifiable postoperative inflammation; however, ME often occurs after uncomplicated surgery in eyes with no identifiable inflammation.",0,0,N,N,N,N,N,N,N,N,0
+16,"The incidence of fluorescein leakage from retinal vessels after cataract surgery is high, but reported incidences vary considerably and are likely dependent on how hard investigators look, with highest percentages reported by performance of fluorescein angiograms at multiple time points after surgery.",0,0,N,N,N,N,N,N,N,N,0
+17,"Likewise, there is variability in the reported incidence of symptomatic ME, but 1 carefully executed prospective study determined that 24 of 350 patients (6.9%) developed PCSME reducing visual acuity to 20/40 or worse, confirmed by fluorescein angiography.",0,0,N,N,N,N,N,N,N,N,0
+18,"A recent structured data extraction from electronic medical records of 81,984 consecutive cataract surgeries found an incidence of 1.17% newly recorded PCSME cases requiring treatment within 90 days of surgery.",0,0,N,N,N,N,N,N,N,N,0
+19,"Studies have shown benefit for prophylaxis or treatment of PCSME with prostaglandin synthase inhibitors, and therefore the most commonly used treatment is a topical prostaglandin synthase inhibitor, such as ketorolac 4 times a day (qid).",0,0,N,N,N,N,N,N,N,N,0
+20,"Some of the earliest studies suggested possible benefits from steroids, and recently intraocular injections of triamcinolone acetonide or a dexamethasone implant have shown benefit.",0,0,N,N,N,N,N,N,N,N,0
+21,"Before proceeding to an intravitreous injection, a topical steroid, such as prednisolone acetate (PA) qid, is usually added to a topical prostaglandin synthase inhibitor.",0,0,N,N,N,N,N,N,N,N,0
+22,"Although there are no clinical trials in patients with PCSME demonstrating that ketorolac qid + PA qid is superior to ketorolac qid, the demonstrated benefit of intraocular steroids provides strong rationale for use of a topical steroid.",0,0,N,N,N,N,N,N,N,N,0
+23,"In fact, unless there is a contraindication to a topical steroid, it is reasonable to use combination therapy as the initial approach in patients with newly diagnosed PCSME.",0,0,N,N,N,N,N,N,N,N,0
+24,"Combining PA qid with ketorolac qid would seem to maximize convenience, but it is unknown whether more frequent administration of PA could provide greater benefit.",0,0,N,N,N,N,N,N,N,N,0
+25,The first goal of this study was to answer this question.,0,0,N,N,N,N,N,N,N,N,0
+26,"We also sought to answer this question for patients with POSME, for whom there is little information in the literature to guide therapy.",0,0,N,N,N,N,N,N,N,N,0
+27,Subjects were stratified into those with PCSME and those with POSME and were randomized to frequent topical steroids (Group 1 ketorolac qid + PA every hour while awake/at least 8 times a day [PA q1hWA]) or standard treatment (Group 2; ketorolac qid + PA qid) with a primary endpoint at 12 weeks.,0,0,N,N,N,N,N,N,N,N,0
+28,"A second experimental question was, can patients with persistent ME after 12 weeks of standard treatment benefit from increasing the frequency of topical steroids?",0,0,N,N,N,N,N,N,N,N,0
+29,"To address this question, Group 2 patients with persistent edema at week 12 who had no problem with intraocular pressure (IOP) were crossed over to ketorolac qid + PA q1hWA.",0,0,N,N,N,N,N,N,N,N,0
+30,A third objective was to attempt to taper medications after at least 2 visits with resolved edema and obtain follow-up for up to 48 weeks.,0,0,N,N,N,N,N,N,N,N,0
+31,Herein we report the results of the first 2 experimental questions.,0,0,N,N,N,N,N,N,N,N,0
+32,The TrEatMent of Post-surgical Macular Edema with Topical Steroids Trial (TEMPEST-1; ClinicalTrials.gov identifier: NCT01769352) was an investigator-initiated randomized trial designed to compare the effects of topical 1% PA q1hWA + topical 0.5% ketorolac qid with 1% PA qid plus 0.5% ketorolac qid in patients with postsurgical ME (PSME).,0,0,N,N,N,N,N,N,N,N,0
+33,Power calculations suggested that 42 patients with PSME would be needed to identify a difference from baseline best-corrected visual acuity (BCVA) between treatment groups of at least 3 letters with a 80% likelihood that the difference was not owing to chance.,0,0,N,N,N,N,N,N,N,N,0
+34,"Our working hypothesis was that PCSME and POSME respond similarly to treatment, and one of the objectives of the trial was to test that hypothesis.",0,0,N,N,N,N,N,N,N,N,0
+35,"Forty-two patients with PSME were enrolled at a single center (The Wilmer Eye Institute, Johns Hopkins Hospital), stratified into those with PCSME and those with POSME, and randomized to receive PA q1hWA + ketorolac qid (Group 1) or PA qid + ketorolac qid (Group 2).",0,0,N,N,N,N,N,N,N,N,0
+36,"Subjects in Group 1 were instructed to administer a drop of PA in the study eye every hour during the day and evening as much as possible, with an absolute minimum of 8 times.",0,0,N,N,N,N,N,N,N,N,0
+37,"The primary endpoint was 12 weeks, after which subjects in Group 2 with residual ME and no problems with IOP were switched to PA q1hWA + ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+38,Subjects were followed up at visits every 4 weeks over the course of 48 weeks.,0,0,N,N,N,N,N,N,N,N,0
+39,The study was approved by the Johns Hopkins University Institutional Review Board and conducted in accordance with the Declaration of Helsinki and the Health Insurance Portability and Accountability Act.,0,0,N,N,N,N,N,N,N,N,0
+40,All participating patients provided informed consent.,0,0,N,N,N,N,N,N,N,N,0
+41,Subject Eligibility and Exclusion Criteria,1,0,N,N,N,N,N,N,N,N,0
+42,"Eligible participants were at least 18 years of age, with decreased vision from PCSME or POSME.",0,0,N,N,N,N,N,N,N,N,0
+43,"The major eligibility criteria for the study eye included the presence of intraretinal fluid in or around the fovea, as demonstrated by Heidelberg Spectralis (Heidelberg Engineering, Inc., Heidelberg, Germany) spectral-domain optical coherence tomography (SD-OCT); leakage from perifoveal retinal vessels by fluorescein angiography (FA); BCVA in Snellen equivalent of 20/30 to 20/400; and a determination by the investigator that PSME was causing decreased vision in the study eye.",0,0,N,N,N,N,N,N,N,N,0
+44,"Exclusion criteria were as follows: (1) presence of retinal diseases known to cause ME, such as choroidal neovascularization, vein occlusion, and diabetic macular edema; (2) pre-existing diagnosis of glaucoma in the study eye; (3) other potential causes for decreased visual acuity (VA) other than ME; (4) inability to comply with the study or follow-up procedures; or (5) pregnancy.",0,0,N,N,N,N,N,N,N,N,0
+45,Patients with nonexudative age-related macular degeneration felt not to be affecting VA were eligible to participate in the study.,0,0,N,N,N,N,N,N,N,N,0
+46,Randomization and Study Procedures,0,1,N,N,N,N,N,N,N,N,0
+47,Eligible subjects were stratified into PCSME and POSME and randomized 1:1 to either Group 1 or Group 2 by the Retinal Imaging Research & Reading Center at The Wilmer Eye Institute using random permuted blocks within each of the strata.,0,1,N,N,N,N,N,N,N,N,0
+48,"The total duration of the study was 48 weeks, with study visits occurring every 4 weeks.",0,0,N,N,N,N,N,N,N,N,0
+49,VA examiners were masked with respect to treatment assignment.,0,0,N,N,N,N,N,N,N,N,0
+50,Patients and other investigators were not masked.,0,0,N,N,N,N,N,N,N,N,0
+51,"At each visit, BCVA was measured using the Early Treatment Diabetic Retinopathy Study (ETDRS) protocol, central subfield thickness (CST) was measured by SD-OCT, ocular examinations were performed, and adverse events and concomitant medications were assessed.",0,0,N,N,N,N,N,N,N,N,0
+52,"Paracentesis was performed if subjects consented at baseline, week 12, week 24, and week 48.",0,0,N,N,N,N,N,N,N,N,0
+53,All patients maintained treatment diaries to record each dose taken during the study.,0,0,N,N,N,N,N,N,N,N,0
+54,The primary outcome measure was mean change from baseline BCVA at week 12 for Group 1 vs that of Group 2.,0,0,N,N,N,N,N,N,N,N,0
+55,"Secondary outcome measures included mean changes from baseline CST and IOP at week 12 for Group 1 vs Group 2, mean changes from baseline or week 12 BCVA, CST, and IOP at week 48.",0,0,N,N,N,N,N,N,N,N,0
+56,Subjects in each group maintained their initial therapy from baseline to the primary endpoint at week 12.,0,0,N,N,N,N,N,N,N,N,0
+57,"At the week 12 visit, subjects in Group 1 who still had residual ME based on OCT were maintained on PA q1hWA plus ketorolac qid, while those in Group 2 with residual ME were escalated to PA q1hWA plus ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+58,"If the investigator determined that a subject in Group 2 experienced significant improvement in ME without complete resolution of intraretinal fluid in the fovea as seen on OCT, the subject was maintained on the Group 2 regimen.",0,0,N,N,N,N,N,N,N,N,0
+59,"If a subject experienced complete resolution of ME for at least 2 study visits after week 12, the subject was moved down 1 step in the treatment withdrawal sequence.",0,0,N,N,N,N,N,N,N,N,0
+60,The steps in treatment withdrawal were as follows: PA q1hWA + ketorolac qid → PA qid + ketorolac qid → PA 3 times a day (tid) + ketorolac qid → PA twice a day (bid) + ketorolac qid → PA once a day (qd) + ketorolac qid → ketorolac qid → ketorolac bid → ketorolac qd → no treatment.,0,0,N,N,N,N,N,N,N,N,0
+61,Subjects were only stepped down at each visit if there was continued absence of intraretinal fluid in the fovea.,0,0,N,N,N,N,N,N,N,N,0
+62,Subjects with unresolved ME unchanged from the previous visit were maintained on their current regimen if they were receiving PA q1hWA or escalated if they were not.,0,0,N,N,N,N,N,N,N,N,0
+63,Subjects who were deemed to be treatment failures despite receiving PA q1hWA + ketorolac qid for several study visits were exited from the study at the discretion of the investigator and given dexamethasone 0.7 mg intravitreal implant.,0,0,N,N,N,N,N,N,N,N,0
+64,Spectral-Doman Optical Coherence Tomography,0,0,N,N,N,N,N,N,N,N,0
+65,"SD-OCT scans were acquired at each visit using the following scan acquisition parameters: dense volume scan (20 × 20 degrees, roughly 6 × 6 mm) with 49 B-scans in horizontal orientation, minimum automatic real-time mean of 16, high speed.",0,0,N,N,N,N,N,N,N,N,0
+66,All scans following the day 1 visit were acquired with the TruTrack eye tracker using the progression scan function.,0,0,N,N,N,N,N,N,N,N,0
+67,"SD-OCT images were graded, with manual correction of algorithms and grid alignment if required, using the Heidelberg Eye Explorer 1.6.4.0, HRA/Spectralis Viewing Module 5.3.2.0 at the Johns Hopkins University, Retinal Imaging Research and Reading Center (Baltimore, Maryland, USA).",0,0,N,N,N,N,N,N,N,N,0
+68,"Statistical analyses comparing mean changes from baseline BCVA, CST, and IOP at week 12 in Group 1 vs Group 2 in total study sample and PCSME and POSME subgroups were performed using IBM SPSS v.23.0 (IBM Corp, Armonk, New York, USA).",0,0,N,N,N,N,N,N,N,N,0
+69,Variables with a normal distribution were compared with the Student t test and those with skewed distribution were compared with the Mann-Whitney test.,0,0,N,N,N,N,N,N,N,N,0
+70,A P value less than or equal to .05 was considered to be statistically significant.,0,0,N,N,N,N,N,N,N,N,0
+71,Baseline values were also compared with those at each subsequent time point within each group using the Wilcoxon signed rank test.,0,0,N,N,N,N,N,N,N,N,0
+72,"The differences between week 12 values and each subsequent time point were determined for Group 2 subjects with residual ME who escalated to PA q1hWA + ketorolac qid by the Wilcoxon signed rank test using Stata 14.1 software (College Station, Texas, USA).",0,0,N,N,N,N,N,N,N,N,0
+73,Subject Demographics and Baseline Characteristics,1,0,N,N,N,N,N,N,N,N,0
+74,"Twenty-five subjects with PCSME were enrolled, with 13 randomized to Group 1 and 12 randomized to Group 2.",0,0,N,N,N,N,N,N,N,N,0
+75,"Seventeen subjects with POSME were enrolled, 9 randomized to Group 1 and 8 randomized to Group 2.",0,0,N,N,N,N,N,N,N,N,0
+76,"The mean age for the entire group was 67.4 years, with no age imbalance between groups (Table).",0,0,N,N,N,N,N,N,N,N,0
+77,Sex and race were also balanced.,0,0,N,N,N,N,N,N,N,N,0
+78,"The mean number of past ocular surgeries was 1.8 for the entire study sample, and the groups were not significantly different.",0,0,N,N,N,N,N,N,N,N,0
+79,"Mean baseline BCVA in ETDRS letter score was 55.8 (20/80 Snellen equivalent) for the entire study sample, and although there were no significant imbalances there was a slight difference that was not statistically significant (P = .36) in Group 1 (55.7, 20/80) and Group 2 (60.9, 20/63) PCSME subjects, which was accompanied by a nonsignificant difference (P = .17) in mean CST (515.5 μm in Group 1 vs 447.6 μm in Group 2).",0,0,N,N,N,N,N,N,N,N,0
+80,"The most common surgery in POSME subjects was vitrectomy with dissection of epiretinal membrane (ERM) (n = 11, including 3 subjects with repair of retinal detachment prior to development of the ERM).",0,0,N,N,N,N,N,N,N,N,0
+81,"For the other 6 POSME subjects, 3 had repair of retinal detachment; 1 had Descemet stripping endothelial keratoplasty; 1 had repair of corneal laceration, lensectomy, vitrectomy, and removal of intraocular foreign body; and 1 had vitrectomy and repositioning of dislocated IOL with iris sutures.",0,0,N,N,N,N,N,N,N,N,0
+82,Patient Demographics and Baseline Characteristics,1,0,N,N,N,N,N,N,N,N,0
+83,Mean Change in Best-Corrected Visual Acuity Between Baseline and Week 12,0,0,N,N,N,N,N,N,N,N,0
+84,"All but 1 subject, who withdrew consent at week 8, remained in the study through the primary endpoint, and 1 subject missed the week 12 visit; for these 2 subjects week 8 values were carried forward to week 12.",0,0,N,N,N,N,N,N,N,N,0
+85,"Both Group 1 and Group 2 subjects in the total study sample showed improvement from baseline BCVA of about 7 letters at week 4, after which there was separation between the groups and at the week 12 primary endpoint the mean improvement in BCVA was 11.6 letters in Group 1 compared with 8.5 letters in Group 2 (P = .32; Figure 1, Top).",0,0,N,N,N,N,N,N,N,N,0
+86,"The curves appeared similar in the PCSME subgroup (Figure 1, Middle) and the POSME subgroup (Figure 1, Bottom), with mean improvements in BCVA greater in Group 1 by 2.8 and 3.7 letters, differences that were not statistically significant.",0,0,N,N,N,N,N,N,N,N,0
+87,Mean change from baseline best-corrected visual acuity (BCVA) through week 12 primary endpoint.,0,0,N,N,N,N,N,N,N,N,0
+88,"Mean (± standard error of the mean) change from baseline BCVA is shown for subjects treated with prednisolone acetate (PA) every hour while awake + ketorolac 4 times a day (Group 1) compared with those treated with PA and ketorolac 4 times a day (Group 2) at week 12 for the entire study sample (Top), subjects with post–cataract surgery macular edema (Middle), and subjects with post–other surgery macular edema (Bottom).",0,0,N,N,N,N,N,N,N,N,0
+89,Statistical comparisons were made by independent samples t-test for data sets with normal distribution and by the Mann-Whitney test for those with a skewed distribution.,0,0,N,N,N,N,N,N,N,N,0
+90,Mean Change in Central Subfield Thickness Between Baseline and Week 12,0,0,N,N,N,N,N,N,N,N,0
+91,"In the entire study population, the mean change in CST between baseline and week 4 was −105.7 μm for Group 1 and −36.3 μm for Group 2 (Figure 2, Top), but the separation narrowed over time and at 12 weeks was −100.8 μm vs −63.9 μm (P = .30).",0,0,N,N,N,N,N,N,N,N,0
+92,"In Group 1 of the PCSME subgroup, the rapidity of the reduction in mean CST was striking, 155.5 μm at week 4 with little change thereafter (Figure 2, Middle).",0,0,N,N,N,N,N,N,N,N,0
+93,"At week 12, the mean change in CST in Group 1 vs Group 2 was −152.7 μm vs −56.4 μm (P = .02), but it should be noted that the difference of 67.9 μm in mean CST at baseline in Group 1 vs Group 2 was a likely contributing factor.",0,0,N,N,N,N,N,N,N,N,0
+94,"In contrast, there was no similar separation in mean reduction in CST between Groups 1 and 2 in the POSME subgroup (Figure 2, Bottom), and in fact the trend was in the opposite direction at week 12 (−5.9 μm vs −75.0 μm, P = .24).",0,0,N,N,N,N,N,N,N,N,0
+95,Mean change from baseline central subfield thickness (CST) through week 12 primary endpoint.,0,0,N,N,N,N,N,N,N,N,0
+96,"Mean (± standard error of the mean) change from baseline CST measured by spectral-domain optical coherence tomography is shown for subjects treated with prednisolone acetate (PA) every hour while awake + ketorolac 4 times a day (Group 1) compared with those treated with PA and ketorolac 4 times a day (Group 2) at week 12 for the entire study sample (Top), subjects with post–cataract surgery macular edema (Middle), and subjects with post–other surgery macular edema (Bottom).",0,0,N,N,N,N,N,N,N,N,0
+97,Statistical comparisons were made by independent samples t-test for data sets with normal distribution and by the Mann-Whitney test for those with a skewed distribution.,0,0,N,N,N,N,N,N,N,N,0
+98,Changes in Intraocular Pressure,0,0,N,N,N,N,N,N,N,N,0
+99,"In the entire study sample and both subgroups, there was a small rise in mean IOP between baseline and week 12, with no statistically significant difference between Groups 1 and 2 (Figure 3).",0,0,N,N,N,N,N,N,N,N,0
+100,"Three of 20 Group 2 subjects (15%) developed an increase in IOP requiring an IOP-lowering drop while on PA qid, 2 at week 12 and 1 at week 16.",0,0,N,N,N,N,N,N,N,N,0
+101,"All 3 subjects had normalization of IOP on medication, which was stopped in 1 subject without increase in IOP and continued through the end of the trial in 2.",0,0,N,N,N,N,N,N,N,N,0
+102,"Four of 22 Group 1 subjects (18%) developed increased IOP requiring an IOP-lowering drop while on PA q1hWA at weeks 12, 16, 20, and 24.",0,0,N,N,N,N,N,N,N,N,0
+103,"Four Group 2 subjects who had normal IOP during 12 weeks on PA qid developed increased IOP requiring medication at 4, 16, 24, or 36 weeks after crossover to PA q1hWA.",0,0,N,N,N,N,N,N,N,N,0
+104,"Although dose escalation may have contributed to increased IOP in these subjects, the contribution of total duration of steroid treatment is unknown.",0,0,N,N,N,N,N,N,N,N,0
+105,"For the 8 subjects treated with PA q1hWA who developed increased IOP, the median treatment time when IOP elevation was detected was 22 weeks.",0,0,N,N,N,N,N,N,N,N,0
+106,"The response to treatment is unknown for the 1 subject who developed increased IOP on the final study visit, but the other 7 subjects had normalization of IOP from medication, often in combination with reduction in frequency of PA administration, and 6 of the 7 were still taking IOP-lowering drops at the end of the trial.",0,0,N,N,N,N,N,N,N,N,0
+107,Mean change from baseline intraocular pressure (IOP) through week 12 primary endpoint.,0,0,N,N,N,N,N,N,N,N,0
+108,"Mean (± standard error of the mean) change from baseline IOP is shown for subjects treated with prednisolone acetate (PA) every hour while awake + ketorolac 4 times a day (Group 1) compared with those treated with PA and ketorolac 4 times a day (Group 2) at week 12 for the entire study sample (Top), subjects with post–cataract surgery macular edema (Middle), and subjects with post–other surgery macular edema (Bottom).",0,0,N,N,N,N,N,N,N,N,0
+109,Statistical comparisons were made by independent samples t-test.,0,0,N,N,N,N,N,N,N,N,0
+110,Subjects filled out a treatment diary to document each time they administered medication and this was submitted and discussed at each visit.,0,0,N,N,N,N,N,N,N,N,0
+111,"Subjects in Group 1 were instructed to administer PA drops every hour while awake, with a minimum of 8 drops per day; and during discussions several of the first subjects enrolled in Group 1 noted that the biggest challenge to compliance was remembering to administer drops during a busy day, and to overcome this challenge they set their cell phone alarm to ring each hour, which made compliance easy.",0,0,N,N,N,N,N,N,N,N,0
+112,This information was relayed to all new subjects enrolled in the trial and became a standard technique.,1,0,N,N,N,N,N,N,N,N,0
+113,"There was 1 subject in each group who failed to fill out the diary despite prompting at each visit; the Group 1 subject was very likely compliant because at week 12 BCVA had improved by 28 letters and CST had decreased by 397 μm and the Group 2 subject was probably compliant because although BCVA had only improved by 4 letters at week 12, CST had improved by 224 μm.",0,0,N,N,N,N,N,N,N,N,0
+114,Analysis of treatment records for the remainder of subjects showed that the average number of administrations per day in Group 1 subjects was 10.3 and average daily compliance with instructions to administer at least 8 drops per day was 98.7%.,0,0,N,N,N,N,N,N,N,N,0
+115,"In Group 2, the average number of administrations per day was 3.9 and average daily compliance was 97.9%.",0,0,N,N,N,N,N,N,N,N,0
+116,Increased Frequency of Steroid Administration in Group 2 Subjects With Residual Edema at Week 12,0,0,N,N,N,N,N,N,N,N,0
+117,"The number of subjects who had edema resolution by weeks 4, 8, and 12 were 4, 6, and 13 in Group 1 and 3, 6, and 9 in Group 2.",0,0,N,N,N,N,N,N,N,N,0
+118,"At week 12 in PCSME subjects, there was resolution of edema in 11 of 13 (84.6%) Group 1 subjects and 7 of 12 (58.3%) Group 2 subjects (P = .20).",0,0,N,N,N,N,N,N,N,N,0
+119,"In POSME subjects at week 12, resolution of edema occurred in only 2 of 9 (22%) Group 1 subjects and 2 of 8 (25%) Group 2 subjects.",0,0,N,N,N,N,N,N,N,N,0
+120,"Per protocol, the unresolved Group 2 subjects at the week 12 primary endpoint who had not had increased IOP requiring medication were crossed over to PA q1hWA + ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+121,One of the Group 2 subjects with unresolved edema had experienced an increase in IOP requiring IOP-lowering drops on PA qid and was not eligible for crossover.,0,0,N,N,N,N,N,N,N,N,0
+122,"Of the 10 eligible subjects, 1 withdrew consent owing to travel difficulties and perceived burden of study visits and 1 missed the week 12 study visit.",0,0,N,N,N,N,N,N,N,N,0
+123,"In the 8 remaining subjects, there was a rapid improvement in mean BCVA with a difference of 7.0 letters between weeks 12 and 24 (P = .01, Figure 4, Top).",0,0,N,N,N,N,N,N,N,N,0
+124,"This was accompanied by a rapid reduction in mean CST that at week 24 was reduced by 108.3 μm from week 12 (P = .04, Figure 4, Middle).",0,0,N,N,N,N,N,N,N,N,0
+125,"There was no significant difference in mean IOP compared with week 12 at any time point, but 4 subjects developed increased IOP after the switch to PA q1hWA, requiring addition of an IOP-lowering drop and reduced frequency of PA. At week 24, subjects in whom edema had been eliminated for at least 2 consecutive visits began decreasing PA frequency, leading to some fluctuation from visit to visit, but overall gains were maintained through week 48, with a gain in BCVA of 8.0 letters (P = .03).",0,0,N,N,N,N,N,N,N,N,0
+126,"Mean change from week 12 best-corrected visual acuity (BCVA), central subfield thickness (CST), and intraocular pressure (IOP) after crossover from prednisolone acetate (PA) 4 times a day (qid) to every hour while awake (q1hWA).",0,0,N,N,N,N,N,N,N,N,0
+127,"Mean (± standard error of the mean) change from week 12 BCVA (Top), CST (Middle), or IOP (Bottom) is shown for Group 2 subjects who had residual macular edema at week 12 and crossed over from PA qid to PA q1hWA.",0,0,N,N,N,N,N,N,N,N,0
+128,*P < .05 for difference from week 12 by the Wilcoxon signed rank test.,0,0,N,N,N,N,N,N,N,N,0
+129,Additional insights can be gained by examining the course of individual Group 2 subjects before and after crossover.,0,0,N,N,N,N,N,N,N,N,0
+130,Figure 5 shows horizontal OCT scans through the fovea at each study visit for 1 PCSME subject (Left) and 1 POSME subject (Right).,0,0,N,N,N,N,N,N,N,N,0
+131,The first subject was an 82-year-old man first seen 2 years after cataract surgery and insertion of a posterior chamber IOL (PCIOL) elsewhere and who had VA of 20/200 with severe PCSME with the IOL dislocated into the anterior chamber.,0,0,N,N,N,N,N,N,N,N,0
+132,"Three weeks after an intravitreous injection of 4 mg of triamcinolone acetonide, VA was still 20/200 but ME was reduced and the lens was repositioned and sutured to the iris.",0,0,N,N,N,N,N,N,N,N,0
+133,"One month after surgery, there was severe ME and an intravitreous injection of 4 mg of triamcinolone acetonide was given.",0,0,N,N,N,N,N,N,N,N,0
+134,The patient returned after 2 months with severe ME and another intravitreous injection of 4 mg of triamcinolone acetonide was given.,0,0,N,N,N,N,N,N,N,N,0
+135,"Throughout all the treatment VA never improved beyond 20/200, and therefore the patient declined additional injections and was treated with ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+136,VA at 8 months was 20/250 with severe ME; the patient later enrolled in the TEMPEST-1 study and was randomized to Group 2.,0,0,N,N,N,N,N,N,N,N,0
+137,"There was very severe ME at baseline, which showed little change from treatment with PA qid + ketorolac qid through week 12, when the subject began taking PA q1hWA + ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+138,"Intraretinal fluid was substantially reduced at week 16 and eliminated by week 24 (Figure 5, Left).",0,0,N,N,N,N,N,N,N,N,0
+139,"At week 28, PA was reduced to qid and an IOP-lowering drop was started because IOP had increased to 33 mm Hg, and at week 32 there was recurrent intraretinal fluid.",0,0,N,N,N,N,N,N,N,N,0
+140,The dose of PA was increased to 5 times a day and the intraretinal fluid resolved.,0,0,N,N,N,N,N,N,N,N,0
+141,"After 2 months dosing frequency step-down was begun and at week 48 the subject was on PA tid + ketorolac qid, with no edema and an improvement in baseline BCVA of 6 letters.",0,0,N,N,N,N,N,N,N,N,0
+142,Horizontal optical coherence tomography scans through the fovea at each time point for 2 subjects who crossed over at week 12 to more frequent steroid administration.,0,0,N,N,N,N,N,N,N,N,0
+143,Scans are shown for every study visit for a post–cataract surgery macular edema (Left) and a post–other surgery macular edema (Right) Group 2 subject who crossed over from prednisolone acetate (PA) 4 times a day (qid) to PA every hour while awake (q1hWA) at week 12.,0,0,N,N,N,N,N,N,N,N,0
+144,"The central subfield thickness (CST) is shown in the upper left corner of each panel, the best-corrected visual acuity (BCVA) is shown in the upper right (Early Treatment Diabetic Retinopathy Study visual acuity score) or lower right (Snellen equivalent).",0,0,N,N,N,N,N,N,N,N,0
+145,The intraocular pressure (IOP) is shown in the lower left corner.,0,0,N,N,N,N,N,N,N,N,0
+146,"(Left) The first subject had very severe macular edema at baseline, which showed little change from treatment with PA qid + ketorolac qid through week 12, when the subject began taking PA q1hWA + ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+147,Intraretinal fluid was substantially reduced at week 16 and eliminated by week 24.,0,0,N,N,N,N,N,N,N,N,0
+148,"At week 28, PA was reduced to qid and an IOP-lowering drop was started because IOP had increased to 33, and at week 32 there was recurrent intraretinal fluid.",0,0,N,N,N,N,N,N,N,N,0
+149,The dose of PA was increased to 5 times a day and the intraretinal fluid resolved.,0,0,N,N,N,N,N,N,N,N,0
+150,"After 2 months dosing frequency step-down was begun and at week 48 the subject was on PA tid + ketorolac qid, with no edema and an improvement in baseline BCVA of 6 letters.",0,0,N,N,N,N,N,N,N,N,0
+151,(Right) The second subject had severe retinal thickening and intraretinal fluid and poor BCVA at baseline.,0,0,N,N,N,N,N,N,N,N,0
+152,"During 12 weeks of treatment with PA qid + ketorolac qid there was a 23-letter improvement in BCVA but only a modest improvement in CST, from 643 μm to 581 μm, and therefore the subject crossed over to PA q1hWA + ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+153,"At week 16 there was a striking reduction in CST to 404 μm, with appearance of a foveal pit and a 9-letter improvement in BCVA from week 12.",0,0,N,N,N,N,N,N,N,N,0
+154,Edema was essentially resolved at weeks 20 and 24 and therefore PA dosage was reduced to qid.,0,0,N,N,N,N,N,N,N,N,0
+155,"Four weeks later, at week 28, there was recurrent edema; PA dosage was increased to 6 times a day and edema resolved by week 40.",0,0,N,N,N,N,N,N,N,N,0
+156,5x/day = 5 times a day; 6x/day = 6 times a day; tid = three times a day.,0,0,N,N,N,N,N,N,N,N,0
+157,The second subject was a 50-year-old woman first seen 7 months after vitrectomy for rhegmatogeneous retinal detachment and 3 months after cataract surgery and placement of a PCIOL.,0,0,N,N,N,N,N,N,N,N,0
+158,"VA was 20/500 with severe retinal thickening from ERM, and vitrectomy with dissection of the ERM was done.",0,0,N,N,N,N,N,N,N,N,0
+159,"Postoperatively the patient was treated with PA qid, but severe ME persisted for 3 months, with VA 20/250, and the patient was enrolled in TEMPEST-1 and randomized to Group 2.",0,0,N,N,N,N,N,N,N,N,0
+160,"At baseline there was severe thickening and intraretinal fluid and poor BCVA (Figure 5, Right).",0,0,N,N,N,N,N,N,N,N,0
+161,"During 12 weeks of treatment with PA qid + ketorolac qid, there was a 23-letter improvement in BCVA, but only a modest improvement in CST, from 643 μm to 581 μm; therefore, the subject crossed over to PA q1hWA + ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+162,"At week 16 there was a striking reduction in CST, to 404 μm, with appearance of a foveal pit and a 9-letter improvement in BCVA from week 12.",0,0,N,N,N,N,N,N,N,N,0
+163,"Edema was essentially resolved at weeks 20 and 24, and therefore PA dosage was reduced to qid.",0,0,N,N,N,N,N,N,N,N,0
+164,"Four weeks later, at week 28, there was recurrent edema; PA dosage was increased to 6 times a day and edema resolved by week 40.",0,0,N,N,N,N,N,N,N,N,0
+165,"Sequential OCT scans are shown for 4 additional crossover subjects (Supplemental Figures 1–4, supplemental material available at AJO.com).",0,0,N,N,N,N,N,N,N,N,0
+166,A 78-year-old man had a history of ME after cataract/PCIOL followed 6 months later by rhegmatogeneous retinal detachment repaired by a scleral buckle.,0,0,N,N,N,N,N,N,N,N,0
+167,"Three months after the scleral buckle, VA was 20/80 with leakage from the perifoveal capillaries and severe ME; the patient was enrolled in TEMPEST-1 and randomized to Group 2.",0,0,N,N,N,N,N,N,N,N,0
+168,"At baseline, there was moderate thickening and cystoid spaces that worsened during 12 weeks of PA qid + ketorolac qid (Supplemental Figure 1).",0,0,N,N,N,N,N,N,N,N,0
+169,"The subject crossed over to PA q1hWA + ketorolac qid and at week 16 there was reduced CST and intraretinal fluid, but IOP had increased to 37 mm Hg.",0,0,N,N,N,N,N,N,N,N,0
+170,The subject was started on an IOP-lowering agent and PA was decreased to qid.,1,0,N,N,N,N,N,N,N,N,0
+171,After 4 weeks CST increased back to baseline.,0,0,N,N,N,N,N,N,N,N,0
+172,"The PA dosage was increased to 6 times a day, and edema gradually improved and was eliminated by week 36.",0,0,N,N,N,N,N,N,N,N,0
+173,A 72-year-old man presented with VA of 20/100 owing to severe ERM and had vitrectomy with dissection of ERM.,0,0,N,N,N,N,N,N,N,N,0
+174,"One month after surgery VA was 20/32, but over the span of 9 months VA decreased to 20/63 owing to ME, cataract, and recurrent ERM not involving the fovea.",0,0,N,N,N,N,N,N,N,N,0
+175,The patient had cataract surgery with implantation of a PCIOL.,0,0,N,N,N,N,N,N,N,N,0
+176,"Postoperatively, VA was 20/32 but there was gradual worsening of visual distortion owing to progression of ERM, and after 5 months vitrectomy with dissection of recurrent ERM was done.",0,0,N,N,N,N,N,N,N,N,0
+177,"Postoperatively, VA was 20/32 but decreased to 20/50 owing leakage from perifoveal capillaries and ME, and so the patient enrolled in TEMPEST-1 and was randomized to Group 2.",0,0,N,N,N,N,N,N,N,N,0
+178,At baseline there was severe thickening and intraretinal fluid (Supplemental Figure 2).,0,0,N,N,N,N,N,N,N,N,0
+179,"There was modest improvement in ME and good improvement in BCVA through week 8, followed by some decline in BCVA at week 12, when the subject was crossed over to PA q1hWA + ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+180,"There was rapid improvement, and at week 24 BCVA was improved by 18 letters from baseline and there was no identifiable intraretinal fluid.",0,0,N,N,N,N,N,N,N,N,0
+181,"The subject missed the week 28 visit and at week 32 there was recurrent edema owing to poor compliance; edema resolved by week 36, after which PA was reduced to qid.",0,0,N,N,N,N,N,N,N,N,0
+182,"There was an increase in IOP at week 48, managed by an IOP-lowering drug and reduction of PA to bid.",0,0,N,N,N,N,N,N,N,N,0
+183,A 72-year-old man presented with VA 20/100 owing to ERM and had vitrectomy with dissection of ERM.,0,0,N,N,N,N,N,N,N,N,0
+184,"One month after surgery, VA was 20/25 but decreased to 20/50 owing to leakage from perifoveal capillaries and ME; he enrolled in TEMPEST-1 and was randomized to Group 2.",0,0,N,N,N,N,N,N,N,N,0
+185,At baseline there was thickening and a cystoid space in the fovea (Supplemental Figure 3).,0,0,N,N,N,N,N,N,N,N,0
+186,"There was resolution of the cystoid space and a 15-letter improvement in BCVA at week 4, but BCVA worsened at week 12, at which time the subject was switched to PA q1hWA + ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+187,"There was improvement in thickening and BCVA at week 16 and a mild increase in IOP, managed with an IOP-lowering drop.",0,0,N,N,N,N,N,N,N,N,0
+188,"At week 24, ME was resolved and BCVA was improved from baseline by 28 letters.",0,0,N,N,N,N,N,N,N,N,0
+189,There was progression of cataract and cataract surgery/PCIOL was done after the week 44 visit.,0,0,N,N,N,N,N,N,N,N,0
+190,"A spike in IOP at week 36 was managed by reduction in PA from tid to bid, and a second spike at week 44 was managed by addition of a second IOP-lowering agent and steroid withdrawal.",0,0,N,N,N,N,N,N,N,N,0
+191,"At week 48, ME was resolved, with improvement from baseline BCVA of 35 letters.",0,0,N,N,N,N,N,N,N,N,0
+192,"A 59-year-old woman was referred with a history of 2 vitrectomies for ERM followed by cataract surgery/PCIOL, after which there was ME treated with multiple injections of dexamethasone implant and triamcinolone acetonide.",0,0,N,N,N,N,N,N,N,N,0
+193,There was persistent/recurrent ERM that was surgically removed.,0,0,N,N,N,N,N,N,N,N,0
+194,"Postoperatively, VA was 20/80 owing to ME with leakage from the perifoveal capillaries; the subject was enrolled in TEMPEST-1 and randomized to Group 2.",0,0,N,N,N,N,N,N,N,N,0
+195,At baseline there were cystoid spaces in the fovea with severe edema temporal to the fovea (Supplemental Figure 4).,0,0,N,N,N,N,N,N,N,N,0
+196,"There was improvement on PA qid + ketorolac qid, but owing to persistent ME at week 12 the subject was switched to PA q1hWA + ketorolac qid, and ME rapidly resolved.",0,0,N,N,N,N,N,N,N,N,0
+197,"There were intermittent mild recurrences of ME temporally, but the fovea remained edema free and BCVA was excellent.",0,0,N,N,N,N,N,N,N,N,0
+198,Three subjects who were deemed to be treatment failures despite receiving PA q1hWA + ketorolac qid for several study visits were exited from the study at the discretion of the investigator and were given dexamethasone 0.7 mg intravitreal implant.,0,0,N,N,N,N,N,N,N,N,0
+199,A future manuscript will describe 48-week outcomes for the entire study sample.,0,0,N,N,N,N,N,N,N,N,0
+200,"The occurrence of macular edema as a complication of cataract surgery was described by Irvine and its fluorescein-angiographic features were reported by Gass,and therefore it is often referred to as the Irvine-Gass syndrome.",0,0,N,N,N,N,N,N,N,N,0
+201,"Evidence of leakage from retinal vessels after cataract surgery is common, and although most patients with leakage are asymptomatic with good VA and the leakage spontaneously resolves, a substantial number of patients experience reduced vision that can be problematic.",0,0,N,N,N,N,N,N,N,N,0
+202,"A large retrospective database review indicated that within 90 days of cataract surgery, 1.19% of patients develop symptomatic PCSME requiring treatment, and thus it is a highly prevalent cause of vision loss.",0,0,N,N,N,N,N,N,N,N,0
+203,The incidence of POSME is unknown.,0,0,N,N,N,N,N,N,N,N,0
+204,"Although topical steroids are commonly used in combination with topical prostaglandin synthase inhibitors to treat PCSME and POSME, there is little evidence to guide how they should be used or whether they provide benefit.",0,0,N,N,N,N,N,N,N,N,0
+205,"In this study, we compared PA q1hWA + ketorolac qid (Group 1) with PA qid + ketorolac qid (Group 2) in subjects with PCSME or POSME.",0,0,N,N,N,N,N,N,N,N,0
+206,"In the total study population and both subgroups, the mean improvement from baseline at week 12 was about 3 letters greater in Group 1 vs Group 2, but these differences were not statistically significant.",0,0,N,N,N,N,N,N,N,N,0
+207,"The 12-week time point was selected because it was thought that it would be long enough to see a difference if one existed, but it may be that a longer treatment interval is needed, because Group 1 showed continued improvement between weeks 8 and 12, whereas Group 2 seemed to plateau.",0,0,N,N,N,N,N,N,N,N,0
+208,"Also, a significant difference may have been evident if the study population were larger.",0,0,N,N,N,N,N,N,N,N,0
+209,"There was a rapid reduction in mean CST from baseline in Group 1, which was primarily driven by the PCSME subgroup, in which there was a statistically significant reduction at all time points; however, an imbalance at baseline with mean CST greater in Group 1 may have contributed.",0,0,N,N,N,N,N,N,N,N,0
+210,"In the PCSME subgroup, edema was completely resolved at week 12 in more Group 1 (84.6%) than Group 2 (53.8%) subjects, but this difference was not statistically significant.",0,0,N,N,N,N,N,N,N,N,0
+211,"All of these trends point in the same direction and suggest that PA q1hWA may have a more rapid and somewhat greater edema-reducing effect than PA qid, but the difference is not large and was not statistically significant over the course of 12 weeks in this study sample of 42 subjects.",0,0,N,N,N,N,N,N,N,N,0
+212,"After the week 12 primary endpoint, 8 Group 2 subjects who had persistent edema crossed over to PA q1hWA + ketorolac qid and showed rapid and significant reduction in edema and improvement in BCVA.",0,0,N,N,N,N,N,N,N,N,0
+213,"In order to definitively prove that the switch to more frequent steroid administration was responsible for the improvement in BCVA after week 12, a larger study would be needed with re-randomization at week 12 to continued PA qid + ketorolac qid vs PA q1hWA + ketorolac qid; however, the rapid and dramatic improvement in mean BCVA and CST after crossover (Figure 4) combined with the plateau in mean CST and mean BCVA in Group 2 prior to crossover (Figures 1 and 2) are strongly suggestive.",0,0,N,N,N,N,N,N,N,N,0
+214,Benefit from the switch to more frequent PA administration is supported by examination of sequential horizontal OCT scans through the fovea in Group 2 subjects prior to and after crossover.,0,0,N,N,N,N,N,N,N,N,0
+215,"Figure 5 shows particularly dramatic examples of a subject with PCSME and another with POSME who had severe edema that was minimally reduced during 12 weeks of PA qid + ketorolac qid, resolved within 8 weeks of crossover to PA q1hWA +ketorolac qid, recurred when treatment was decreased to PA qid + ketorolac qid, and resolved again with more frequent PA application.",0,0,N,N,N,N,N,N,N,N,0
+216,This same pattern is seen in a POSME subject shown in Supplemental Figure 1 and a PCSME subject shown in Supplemental Figure 4.,0,0,N,N,N,N,N,N,N,N,0
+217,"Other subjects had improvement during 8 weeks of PA qid + ketorolac qid, followed by plateau or worsening between weeks 8 and 12, and then improvement and resolution of edema soon after crossover (Supplemental Figures 2 and 3).",0,0,N,N,N,N,N,N,N,N,0
+218,"The subject illustrated in Supplemental Figure 2 also showed recurrent edema when treatment was decreased from PA q1hWA + ketorolac qid to PA qid + ketorolac qid, and resolution after a second dosage escalation.",0,0,N,N,N,N,N,N,N,N,0
+219,"Thus, it appears that some subjects with PCSME or POSME who fail to have resolution of edema during 12 weeks of PA qid + ketorolac qid can have edema resolution and improvement in vision after switching to PA q1hWA + ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+220,This study is the first to provide data regarding treatment of POSME.,0,0,N,N,N,N,N,N,N,N,0
+221,"Although numbers are small, it appears that many patients with POSME benefit from combined treatment with PA and ketorolac.",0,0,N,N,N,N,N,N,N,N,0
+222,"Mean improvement in BCVA was similar to that seen in PCSME subjects during 12 weeks of treatment with PA q1hWA + ketorolac qid or PA qid + ketorolac qid, but only 2 of 9 subjects in Group 1 and 2 of 8 subjects in Group 2 had resolution of edema by week 12, much smaller percentages than those seen in PCSME subjects.",0,0,N,N,N,N,N,N,N,N,0
+223,"Four of the 6 Group 2 POSME subjects eligible for crossover at week 12 did so, and all 4 experienced edema resolution.",0,0,N,N,N,N,N,N,N,N,0
+224,"One subject withdrew consent and exited and the other patient missed the week 12 visit; this patient had persistent edema at subsequent visits and was crossed over at week 20, and edema was resolved at week 24.",0,0,N,N,N,N,N,N,N,N,0
+225,"Thus, POSME and PCSME subjects responded similarly in the current trial, except that there is the suggestion that on average, longer duration and/or more aggressive treatment may be needed to achieve edema resolution in POSME subjects.",0,0,N,N,N,N,N,N,N,N,0
+226,"During the initial 12 weeks of treatment, the number of subjects who had an increase in IOP requiring IOP-lowering drops was 1 in Group 1 and 2 in Group 2, and there was no difference between groups in mean change from baseline IOP.",0,0,N,N,N,N,N,N,N,N,0
+227,"Owing to the crossover design of the study, the duration of treatment with PA qid was generally much shorter than treatment with PA q1hWA or PA qid followed by PA q1hWA.",0,0,N,N,N,N,N,N,N,N,0
+228,"Because the median time for detection of increased IOP after starting PA q1hWA with or without prior PA qid was 22 weeks, it is difficult to distinguish the effect of dosing frequency from that of duration of treatment on development of increased IOP.",0,0,N,N,N,N,N,N,N,N,0
+229,"When increased IOP occurred with either dosing regimen, it was easily managed by IOP-lowering drops, often combined with reduction in frequency of PA dosing.",0,0,N,N,N,N,N,N,N,N,0
+230,"Therefore, although IOP monitoring is important, especially because long latent periods are common, IOP elevation is not an impediment to treatment with PA q1hWA even for prolonged periods of time.",0,0,N,N,N,N,N,N,N,N,0
+231,An interesting caveat to the long latent period before IOP elevation in patients treated with PA as frequently as q1hWA is that treatment with PA for periods of 16 weeks or less will not identify at least 50% of patients at risk for steroid-induced glaucoma and probably is not an ideal screening tool to identify patients who have minimal risk of problems with increased IOP after injection of fluocinolone acetate implants.,0,0,N,N,N,N,N,N,N,N,0
+232,"Difluprednate ophthalmic emulsion 0.05% (Sirion Therapeutics, Tampa, Florida, USA) is a relatively new topical steroid that, when administered qid, was found to equal efficacy to PA administered 8 times a day in the treatment of anterior uveitis, but it may be associated with more frequent and more severe increases in IOP.",0,0,N,N,N,N,N,N,N,N,0
+233,It would be worthwhile to compare difluprednate and PA in the treatment of POSME in future studies.,0,0,N,N,N,N,N,N,N,N,0
+234,"In summary, the current study failed to prove that PA q1hWA + ketorolac qid is superior to PA qid + ketorolac qid for treatment of PCSME or POSME over the course of 12 weeks.",0,0,N,N,N,N,N,N,N,N,0
+235,"All trends suggested that there may be greater benefit from more frequent steroid administration that might have been identified by a larger study sample or longer duration of treatment, but that possibility remains speculation.",0,0,N,N,N,N,N,N,N,N,0
+236,"Visual benefits were similar in POSME compared with PCSME; and for both subgroups, subjects who had residual edema after 12 weeks of PA qid + ketorolac qid had rapid improvement and resolution of edema after switching to PA q1hWA + ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+237,"After PA dose escalation, 4 of 8 subjects experienced increased IOP that was easily managed by IOP-lowering drops and reduction of PA administration.",0,0,N,N,N,N,N,N,N,N,0
+238,"Based on these results, we recommend that most patients with PCSME or POSME begin treatment with PA qid + ketorolac qid.",0,0,N,N,N,N,N,N,N,N,0
+239,"If edema resolution does not occur within 12 weeks, a switch to PA q1hWA + ketorolac qid is recommended.",0,0,N,N,N,N,N,N,N,N,0
+240,"Resolution of edema for at least 8 weeks should trigger gradual reduction in the frequency of topical steroid administration, with adjustments based upon edema recurrence.",0,0,N,N,N,N,N,N,N,N,0
+241,"This approach may offer some patients with recalcitrant PCSME or POSME an alternative to intraocular steroid injection(s), with a trade-off of more frequent follow-up.",0,0,N,N,N,N,N,N,N,N,0
+242,"As is always the case, it may be necessary to modify this approach in some patients.",0,0,N,N,N,N,N,N,N,N,0
+243,"PCSME or POSME is often discouraging, but some patients are more prone to discouragement in the absence of rapid improvement; a more rapid switch to PA q1hWA + ketorolac qid and/or intraocular steroids may be helpful in such patients.",0,0,N,N,N,N,N,N,N,N,0
+244,"Conversely, more judicious escalation combined with IOP-lowering agents may be necessary in steroid responders to balance control of edema with IOP control.",0,0,N,N,N,N,N,N,N,N,0

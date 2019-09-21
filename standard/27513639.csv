@@ -1,0 +1,218 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Background: Osteoarthritis (OA) of the knee is the most common form of joint disease.,0,0,0,1,N,N,0,0,0,0,0
+1,It is one of the major causes of impaired function that reduces quality of life in older people worldwide.,0,0,0,1,N,N,0,0,0,0,0
+2,Periosteal Stimulation Therapy (PST) with boosters in combination with home exercises may be a suitable treatment option for such patients.,0,0,0,1,N,N,0,0,0,0,0
+3,Objectives: To examine the effectiveness of PST with boosters in addition to a home-based exercise program as compared with Transcutaneous Electrical Nerve Stimulation (TENS) combined with the same home-based exercise program in the management of chronic pain and functional impairments associated with advanced knee OA.,0,0,0,1,N,N,0,0,0,0,0
+4,Design: The study was a randomized controlled trial.,0,0,0,1,N,N,0,0,0,0,0
+5,"Materials and Methods: Sixty patients with Kellgren-Lawrence grade 3 or 4 knee OA were randomized to receive PST or TENS once a week for 10 weeks, followed by boosters for 6 months in addition to a home exercise program.",0,0,0,0,N,N,0,0,0,0,0
+6,"Visual Analogue Scale (VAS) and the Knee Injury and Osteoarthritis Outcome Score (KOOS) subscales were assessed at baseline, after the last PST session, and 6 months later.",0,0,0,0,N,N,0,0,0,0,0
+7,"Results: Pain VAS and KOOS subscales were improved in both PST and TENS groups at 10 weeks and 6 months after intervention, with a statistically significant difference between the groups at both follow-up periods.",0,0,0,0,N,N,0,0,0,0,0
+8,Reduced pain VAS and increased KOOS subscales in the PST group were statistically significantly different from the TENS group during both follow-up periods.,0,0,0,0,N,N,0,0,0,0,0
+9,Conclusion: PST with boosters combined with a home exercise program was shown to be beneficial for improving subjective knee pain and functional performance of older patients with advanced knee OA.,0,0,0,0,N,N,0,0,0,0,0
+10,Knee osteoarthritis (OA) is the most common joint disease in middle-aged and older adults.,0,0,0,0,N,N,0,0,0,0,0
+11,"Knee OA patients present with a combination of inflammation, pain, stiffness, muscle atrophy, and deformity.",0,0,0,0,N,N,0,0,0,0,0
+12,"Pain is the predominant symptom of the knee OA, and is generally related to joint use and it is relieved by rest.",0,0,0,0,N,N,0,0,0,0,0
+13,"As OA progresses, pain may become more persistent and can occur also at rest and during the night.",0,0,0,0,N,N,0,0,0,0,0
+14,Older adults with advanced knee OA who have not responded to or have been unable to tolerate traditional analgesics may have few therapeutic alternatives.,0,0,0,0,N,N,0,0,0,0,0
+15,"Although surgery is effective for patients with advanced disease, older adults with multiple comorbidities may not be surgical candidates.3",0,0,0,0,N,N,0,0,0,0,0
+16,"Transcutaneous Electrical Nerve Stimulation (TENS) is a method of electrical stimulation, which primarily aims to provide a degree of symptomatic pain relief by exciting sensory nerves and thereby stimulating either the pain gate mechanism and/or the opioid system.",0,0,0,0,N,N,0,0,0,0,0
+17,Previous studies showed that TENS increases pressure and heat pain thresholds in people who are healthy  and reduces mechanical and heat hyperalgesia in arthritic animals.,0,0,0,0,N,N,0,0,0,0,0
+18,"However, a recent systematic review showed that TENS was not efficient for knee OA pain, in direct contrast to an earlier systematic review that concluded TENS was efficient for knee OA pain  and a meta-analysis showed a significant reduction in knee OA pain with TENS.",0,0,0,0,N,N,0,0,0,0,0
+19,"Older adults with advanced knee OA may rely on oral analgesics for pain management, such as acetaminophen, nonsteroidal anti-inflammatory drugs, and opioids.",0,0,0,0,N,N,0,0,0,0,0
+20,"Nonsteroidal anti-inflammatory drugs are often associated with serious adverse effects, including renal impairment, gastrointestinal bleeding, and cerebrovascular accidents.",0,0,0,0,N,N,0,0,0,0,0
+21,"The side effects of opioids include delirium, falls, and hip fractures.",0,0,0,0,N,N,0,0,0,0,0
+22,Intra-articular glucocorticoid injections provide transient relief of pain.,0,0,0,0,N,N,0,0,0,0,0
+23,Studies on glucosamine and intra-articular hyaluronic acid injections showed mixed results.,0,0,0,0,N,N,0,0,0,0,0
+24,"Older adults with multiple comorbidities may not be surgical candidates, and advanced age is a major predictor of mortality following joint replacement procedures.",0,0,0,0,N,N,0,0,0,0,0
+25,"Because of the limitations associated with conventional therapeutics, the use of complementary and alternative medicine interventions has increased steadily.",0,0,0,0,N,N,0,0,0,0,0
+26,"The efficacy of traditional Chinese acupuncture in the treatment of knee OA has been examined in many randomized controlled studies, but participants with advanced disease (ie, Kellgren-Lawrence grade 4) were largely excluded, the magnitude of pain reduction was very modest on the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain scale for the acupuncture group compared with the sham group, and no long-term follow-up was performed in those studies.",0,0,0,0,N,N,0,0,0,0,0
+27,Periosteal Stimulation Therapy (PST) is a technique that delivers high-frequency electric stimulation to periosteum using acupuncture needles.,0,0,0,0,N,N,0,0,0,0,0
+28,It is an aggressive localized treatment for deep pain problems such as OA and is thought to be more potent than traditional electroacupuncture.,0,0,0,0,N,N,0,0,0,0,0
+29,"It has been hypothesized that PST exerts its effect primarily by stimulating sympathetic fibers in proximity to the periosteum, which in turn stimulates a regional increase in blood flow, thereby modifies vascular sympathetic and segmental nerve responses.",0,0,0,0,N,N,0,0,0,0,0
+30,Electrical stimulation of acupuncture needles is associated with decreased levels of proinflammatory cytokine interleukin-6  and with the release of endogenous opioids that may have anti-inflammatory effects on peripheral receptors.,0,0,0,0,N,N,0,0,0,0,0
+31,"Increased release of endogenous opioids is thought to be the underlying neural mechanism of analgesic effect induced by acupuncture, certain modes of TENS, and exercises.",0,0,0,0,N,N,0,0,0,0,0
+32,"Although PST is typically administered using acupuncture needles, the technique and underlying principles of PST are distinct from those of traditional Chinese acupuncture.",0,0,0,0,N,N,0,0,0,0,0
+33,"Traditional Chinese acupuncture involves placing needles at precise points (that may be near or far from the site of pain) along channels called meridians and manipulating the needles until ""te chi"" is achieved (a sensation that the muscle is grabbing the needle), then stimulating the needles either manually or with electricity.",0,0,0,0,N,N,0,0,0,0,0
+34,"PST is easier to perform than traditional Chinese acupuncture because ""te chi"" is not required, fewer needles are used, and, because of its potency, fewer treatment sessions may be required to achieve an effect.",0,0,0,0,N,N,0,0,0,0,0
+35,Home-based exercise programs are some of the most suitable treatments for elderly people in the community.,0,0,0,0,N,N,0,0,0,0,0
+36,Physical therapy guidelines for knee OA are often recommended as a first-line conservative treatment.,0,0,0,0,N,N,0,0,0,0,0
+37,"The American Academy of Orthopedic Surgeons 2013 guidelines in the treatment of knee OA includes a strong recommendation for strengthening, low-impact aerobic exercises, neuromuscular education, and physical activity for those with symptomatic OA, whereas the American College of Rheumatology's 2012 recommendations regarding the management of knee OA included a strong recommendation for aerobic and/or resistance land-based exercise as well as aquatic exercise.",0,0,0,0,N,N,0,0,0,0,0
+38,"Similarly, the 2008 expert consensus guidelines from the Osteoarthritis Research Society International advocate regular aerobic, strengthening, and range of motion exercise for all patients with knee OA.",0,0,0,0,N,N,0,0,0,0,0
+39,"For older adults with chronic knee pain associated with advanced knee OA, pain reduction alone using either PST or TENS therapies seems to be insufficient to affect disability risk.",0,0,0,0,N,N,0,0,0,0,0
+40,"So, the prescription of a home-based exercise program that targets basic problems associated with chronic knee OA in conjunction with PST or TENS therapy was essential to be examined in this group of patients.",0,0,0,0,N,N,0,0,0,0,0
+41,"In the present study, the aim was to investigate the effects of PST in combination with a home-based exercise program on pain, functional capacity, and quality of life (QOL) in older adults with advanced knee OA in comparison with TENS therapy combined with the same home-based exercise program.",0,0,0,0,N,N,0,0,0,0,0
+42,"This study was approved by the ethical committee of Ain Shams University, and all patients signed an informed consent before their participation.",0,0,0,0,N,N,1,0,1,0,0
+43,"Sixty patients aged above 50 years with bilateral knee OA defined by the American College of Rheumatology classification criteria (pain for >25 d of the past 30 d and osteophytes on knee radiography) were recruited into the present study from the Physical Medicine and Rehabilitation Outpatient Clinic at Ain Shams University Hospitals, Faculty of Medicine, Ain Shams University.",0,0,0,0,N,N,1,0,1,0,0
+44,"Patient sampling was performed from available patients with knee OA, who were referred to the Physical Medicine and Rehabilitation Outpatient Clinic and had the conditions to enter the study and ready to participate.",0,0,0,0,N,N,1,0,1,0,0
+45,"Adults 50 years and above and chronic knee pain (ie, knee pain of moderate intensity or greater on most or all days for >=3 mo) as measured with a verbal descriptor scale (VDS).",0,0,0,0,N,N,0,0,0,0,0
+46,"The VDS is an ordered categorical scale, with each response option consisting of adjectives.",0,0,0,0,N,N,0,0,0,0,0
+47,"Different levels of pain, that is, ""no pain,"" ""mild pain,"" ""moderate pain,"" ""severe pain,"" ""extreme pain,"" and the ""most intense pain imaginable,"" form a 6-category VDS scale (VDS-6).",0,0,0,0,N,N,0,0,0,0,0
+48,"The adjectives are scored by assigning numbers (0 to 6) to each response option ; ambulatory with or without cane, and Kellgren-Lawrence grade 3 or 4 were required and evaluated by knee radiograph.",0,0,0,0,N,N,0,0,0,0,0
+49,"Those with cognitive impairment (Folstein Mini-Mental State Examination Score <24 adjusted for age and education), acute illness or pain, non-OA causes of knee pain (eg, rheumatoid arthritis and gout), a large knee effusion or severe mechanical knee instability, pain in the lower body more severe than knee pain, prior knee surgery, corticosteroid or hyaluronic acid injection within the previous 3 months, immunosuppressive or anticoagulant medications, and pacemaker were excluded.",0,0,0,0,N,N,0,0,0,0,0
+50,The patients were randomly assigned into 2 groups.,1,1,0,0,N,N,0,1,0,0,0
+51,Randomization was allocated by numbered envelope method.,0,1,0,0,N,N,0,0,0,0,0
+52,"The Group I received PST and Group II received TENS therapy once a week (30 min) for 10 weeks followed by boosters for 6 months, in addition to a home exercise program described for the patients in both groups.",0,0,0,0,N,N,0,0,0,0,0
+53,"In booster sessions, the patients received either PST in Group I or TENS therapy in Group II with the same procedures performed during the first 10 weeks.",0,0,0,0,N,N,0,0,0,0,0
+54,Then the patients received 2 sessions spaced by 2 weeks followed by 1 session/month for the next 5 months.,0,0,0,0,N,N,0,0,0,0,0
+55,The patients were instructed to continue with home exercises while receiving booster sessions.,0,0,0,0,N,N,0,0,0,0,0
+56,"The main outcome measures were assessed at baseline, after the 10-week intervention (post), and 6 months later by trained evaluators masked to participants' assigned treatment groups.",0,0,0,0,N,N,0,0,0,0,0
+57,"The Visual Analogue Scale (VAS), a self-reported measurement scale of pain intensity.",0,0,0,0,N,N,0,0,0,0,0
+58,"The scale consists of 1 horizontal line, 10 cm in length that is anchored with verbal descriptors of ""no pain"" and ""pain as bad as it could be.""",0,0,0,0,N,N,0,0,0,0,0
+59,"The far left end indicates ""No pain"" and the far right end indicates the ""Worst pain ever.""",0,0,0,0,N,N,0,0,0,0,0
+60,The patients were instructed to point to a position on the line between the faces to indicate how much pain they are currently feeling  (Fig.,0,0,0,0,N,N,0,0,0,0,0
+61,The Knee Injury and Osteoarthritis Outcome Score (KOOS).,0,0,0,0,N,N,0,0,0,0,0
+62,The KOOS was developed as an extension of the WOMAC index with the purpose of evaluating short-term and long-term symptoms and function in patients with knee injury and OA.,0,0,0,0,N,N,0,0,0,0,0
+63,The reason for developing 1-item instrument covering several types of knee injury and OA was that these structural damages often coincide within the patients.,0,0,0,0,N,N,0,0,0,0,0
+64,"The KOOS is self-administered taking approximately 10 minutes to fill out, and assesses 5 outcomes: Pain (9 items), Symptoms (7 items), Activities of Daily Living (ADL) (17 items), Sport and Recreation function (5 items), and knee-related QOL (4 items).",0,0,0,0,N,N,0,0,0,0,0
+65,"The KOOS proved to be a measure of sufficient reliability, validity, and responsiveness for surgery and physical therapy after reconstruction of anterior cruciate ligament.",0,0,0,0,N,N,0,0,0,0,0
+66,The KOOS meets basic criteria of outcome measures and can be used to evaluate treatment outcome.,0,0,0,0,N,N,0,0,0,0,0
+67,"Likert scale is used and all items have 5 possible answer options scored from 0 (no problems) to 4 (extreme problems), and each of the 5 scores is calculated as the sum of the items included.",0,0,0,0,N,N,0,0,0,0,0
+68,"Scores are transformed into a 0 to 100 scale, with zero representing extreme knee problems and 100 representing no knee problems as common in orthopedic assessment scales and generic measures.",0,0,0,0,N,N,0,0,0,0,0
+69,Scores between 0 and 100 represent the percentage of the total possible score achieved.,0,0,0,0,N,N,0,0,0,1,1
+70,An aggregate score is not calculated as it is regarded desirable to analyze and interpret the 5 dimensions separately.,0,0,0,0,N,N,0,0,0,0,0
+71,"As the KOOS questionnaire contains the full and original version of the WOMAC index and WOMAC scores can easily be calculated, the minimal perceptible clinical improvement (MPCI) of approximately 10 obtained for the WOMAC has been applied to KOOS in power analyses and when determining cutoffs for improvement and deterioration.",0,0,0,0,N,N,0,0,0,0,0
+72,The Patients Were Randomized to One of the Following 2 Groups,0,0,0,0,N,N,0,1,0,0,0
+73,The patients are seated on an armless chair.,0,0,0,0,N,N,0,0,0,1,1
+74,"Pain status of each knee was assessed at baseline, and knees were examined for any sign of inflammation.",0,0,0,0,N,N,0,0,0,0,0
+75,"The PST procedure started with aseptic skin preparation using povidone iodine 10% solution over both knees followed by insertion of 4 sterile, single-use (0.25x40 mm) acupuncture needles.",0,0,0,0,N,N,0,0,0,0,0
+76,"Instead of stimulating acupuncture points that line along meridians, the intent of PST is to stimulate the periosteum directly.",0,0,0,0,N,N,0,0,0,0,0
+77,"So, the 4 acupuncture needles were inserted into the following locations of the symptomatic knees until they just touched the bone: medial femoral condyle, lateral femoral condyle, medial condyle of tibia, and head of fibula.",0,0,0,0,N,N,0,0,0,0,0
+78,These needles were electrically stimulated with 100 Hz for 30 minutes using a KWD-808-II electroacupuncture unit.,0,0,0,0,N,N,0,0,0,0,0
+79,The waveform delivered by this unit is symmetrical biphasic (modified square wave).,0,0,0,0,N,N,0,0,0,0,0
+80,The intensity of the stimulus was adjusted so that it was clearly felt but was not painful.,0,0,0,0,N,N,0,0,0,0,0
+81,The stimulus intensity was adjusted periodically so that it was perceptible for the entire 30 minutes of PST.,0,0,0,0,N,N,0,0,0,0,0
+82,Two additional needles were inserted in the soft tissue on either side of the upper third of the tibial shaft and were stimulated with 100 Hz for 1 minute to control for treatment credibility (Fig.,0,0,0,0,N,N,0,0,0,0,0
+83,"A commercially available TENS unit (Pocket Model, LCS 180-A) was used to deliver high-frequency TENS (frequency 100 HZ, pulse width 200 [mu]s) for 30 minutes per session.",0,0,1,0,N,N,1,0,0,0,0
+84,TENS produced a strong but comfortable paresthesia within the painful area.,0,0,1,0,N,N,1,0,0,0,0
+85,The parameters chosen for TENS had been shown to be effective in reducing pain in previous studies that reported a significant difference in the reduction of pain when applying TENS current at high frequency: 100 Hz and pulse width 200 [mu]s. TENS was applied with 4 electrodes (5x5 cm) to bracket the knee with OA and to apply paresthesia encompassing the painful knee.,0,0,0,0,N,N,0,0,0,0,0
+86,"Two electrodes were placed above the knee, and 2 were placed below.",0,0,0,0,N,N,0,0,0,1,1
+87,The current was delivered across the joint through 2 channels.,0,0,0,0,N,N,0,0,0,0,0
+88,One channel was connected to an electrode above the knee medially and below the knee laterally; the second channel was connected to an electrode above the knee laterally and below the knee medially.,0,0,0,0,N,N,0,0,0,0,0
+89,Home Exercise Program (Applied to Both Groups),1,0,0,0,N,N,0,0,0,0,0
+90,The exercise program was developed by selecting elements from programs used by several authors.,0,0,0,0,N,N,0,0,0,0,0
+91,"The exercise program was designed to improve multiple components of dysfunction associated with knee OA, including muscle weakness, muscle fatigue, reduced locomotor function, and reduced balance.",0,0,0,0,N,N,0,0,0,0,0
+92,The Exercise Program Components,1,0,0,0,N,N,0,0,0,0,0
+93,"Muscle strengthening exercises:Isometric quadriceps exercise: The patients were requested to contract the quadriceps muscles for 10 seconds by pushing against a roll of towel with knees extended and ankles dorsiflexed while sitting on a flat floor, and then relax for 5 seconds.Isotonic quadriceps exercise: The patients were requested to extend the leg slowly, hold for 10 seconds, and then lower slowly with knee bent about 90 degrees when sitting on a chair.",0,0,0,0,N,N,0,0,0,0,0
+94,"These exercises were applied with weight as well starting with 0.5 kg and then increasing to a maximum of 5 kg.Straight leg-raise exercise: The patients were requested to lift the foot slowly about 10 cm off the surface, hold for 5 seconds, and then lower slowly with the knee extended and ankle dorsiflexed when lying supine on a flat surface.Isometric hamstring exercises: These exercises were performed in a way in which knees at whole extension were pressed on a towel placed under the ankles by applying maximum pushing for 10 seconds and rests of 30 seconds.Isotonic hamstring exercises: These exercises were performed at the prone position by applying weights on the ankles.",0,0,0,0,N,N,0,0,0,0,0
+95,Muscular endurance exercise:This involved the patient raised from a seated position to a position of approximately 45 degrees of knee flexion.,0,0,0,0,N,N,0,0,0,0,0
+96,The patient then held that position by maintaining isometric tension in the lower limb extensors for a period of 5 to 10 seconds.,0,0,0,0,N,N,0,0,0,0,0
+97,"Stretching exercises:An anterior thigh and hip stretch were obtained by gentle translation of the pelvis anteriorly, while standing.",0,0,0,0,N,N,0,0,0,0,0
+98,"The patient is asked to position affected leg behind and lean forward to get a stretch to hip flexors and rectus femoris of posteriorly placed leg, while stretching the calves and ankles.A posterior calf stretch was obtained by gently flexing the knees while standing, ensuring that heels remained in contact with the floor.A posterior stretch of the knee was obtained by contracting the quadriceps femoris group while standing, thus generating an extension moment to place tension on the posterior knee musculature, joint capsule, and ligaments.",0,0,0,0,N,N,0,0,0,0,0
+99,Standing balance exercise:The patient stands upon 1 leg (close to supporting surface).,0,0,0,0,N,N,0,0,0,0,0
+100,The number of times that balance was lost was recorded by the patients while they performed the exercise for 2 minutes.,0,0,0,0,N,N,0,0,0,0,0
+101,Balance was assessed by using the Berg Balance Scale (BBS) in addition to subjective evaluation.,0,0,0,0,N,N,0,0,0,0,0
+102,The BBS is a reliable clinical tool for assessment of functional mobility and gait-especially in ambulatory older adults.,0,0,0,0,N,N,0,0,0,0,0
+103,Standing balance exercises were excluded for the patients with BBS score <40.,0,0,0,0,N,N,0,0,0,0,0
+104,The exercises were instructed to be applied for 10 to 15 repetitions/day.,0,0,0,0,N,N,0,0,0,0,0
+105,This program was given with both visual demonstration and by written information materials.,0,0,0,0,N,N,0,0,0,0,0
+106,"To facilitate maximum improvement, the intensity of exercise programs was individualized to the patient.",0,0,0,0,N,N,0,0,0,0,0
+107,"The initial patients' assessment provided the baseline exercise ability, which was reassessed and increased every month.",0,0,0,0,N,N,0,0,0,0,0
+108,"At initial assessment, the number of repetitions that could be performed for each exercise in 1 minute was recorded.",0,0,0,0,N,N,0,0,0,0,0
+109,These values were considered to represent the baseline exercise ability.,0,0,0,0,N,N,0,0,0,0,0
+110,Sixty percent values were calculated and given to the patients as their individualized targets for home exercise.,0,0,0,0,N,N,0,0,0,0,0
+111,"Four weeks after initial assessment, the patients were reassessed by the same method.",0,0,0,0,N,N,0,1,0,0,0
+112,"These data were then used to calculate 70% values, which were then given to the patients as their individualized targets for the next 4 weeks.",0,0,0,0,N,N,0,0,0,0,0
+113,Four weeks after their second assessment the patients were reassessed for the final time and data from this visit were used to calculate 80% values.,0,0,0,0,N,N,0,0,0,0,0
+114,"These values formed the patient's targets for the home exercise program, which they were to continue indefinitely.",0,0,0,0,N,N,0,0,0,0,0
+115,In the event of an exacerbation of symptoms the home program was reduced to the original 60% values for a week and then returned to previous levels.,0,0,0,0,N,N,0,0,0,0,0
+116,"If the exacerbation was severe, exercise was suspended for 1 to 2 weeks to allow natural resolution of symptoms.",0,0,0,0,N,N,0,0,0,0,0
+117,"Exercise was then returned to 60% values for a week, and then returned to the levels before the exacerbation.",0,0,0,0,N,N,0,0,0,0,0
+118,"Adherence to the home exercise program was assessed on a 5-point scale (1 time/wk=almost never, 2 times/wk=occasional adherence, 3 times/wk=regular adherence, 4 times/wk=often adherence, >=5 times/wk=very often).",0,0,0,0,N,N,0,0,0,0,0
+119,"Statistical analysis was performed by SPSS program version 22 for Windows (IBM, New York, NY).",0,0,0,0,N,N,0,0,0,0,0
+120,"Baseline characteristics were compared between groups using the Mann-Whitney U test or the [chi]2 test depending on the type of data, with significance at P-value <0.05.",0,0,0,0,N,N,0,0,0,0,0
+121,"Pain VAS score and KOOS subscales were compared between groups at 10 weeks and 6 months from baseline using the independent t test, with significance at P-value <0.05.",0,0,0,0,N,N,0,0,0,0,0
+122,Decrease in VAS and increasing in KOOS subscales of both groups at 10 weeks and 6 months were calculated from baseline and compared using the Mann-Whitney U test.,0,0,0,0,N,N,0,0,0,0,0
+123,"ANOVA with repeated measures with a Green house-Geisser correction was done for VAS and KOOS subscales at baseline, 10 weeks, and 6 months postintervention in both groups.",0,0,0,0,N,N,0,0,0,0,0
+124,Responsiveness of KOOS subscales was evaluated by comparing the preintervention and postintervention results in both groups at 6 months.,0,0,1,0,N,N,0,0,0,0,0
+125,"The standardized response mean, that is, the mean change between baseline and 6 months postintervention divided by the SD of the mean change, and the effect size (ES), that is, the mean score change between baseline and 6 months postintervention divided by the SD of the preintervention values, were calculated using Cohen d ES.",0,0,1,0,N,N,0,0,0,0,0
+126,"In general, ESs of 0.2 are considered small, of 0.5 are considered moderate, and those of at least 0.8 are considered large.",0,0,1,0,N,N,0,0,0,0,0
+127,Demographic and personal characteristics of the patients in both groups are presented in Table 1.,1,0,0,0,N,N,0,0,0,0,0
+128,The groups did not differ significantly on any of these variables.,0,0,0,0,N,N,0,0,0,0,0
+129,"A repeated measures ANOVA with a Greenhouse-Geisser correction determined that mean VAS and KOOS subscales scores differed statistically significantly between time points (baseline, 10 wk, and 6 mo postintervention, P<0.005) except for QOL and sport subscales in the second group (TENS group), where ANOVA result was not significant.",0,0,0,0,N,N,0,0,0,0,0
+130,"Post hoc tests using the Bonferroni correction revealed statistically significant differences for mean VAS and KOOS subscales scores at 10 weeks and 6 months from baseline and between 10 weeks and 6 months mean scores (P=0.000) except for QOL and sport subscales in the second group, where ANOVA result was not significant (Table 5).",0,0,0,0,N,N,0,0,0,0,0
+131,"VAS reduced and KOOS subscales increased in both PST and TENS groups at both 10 weeks and 6 months after intervention, with a statistically significant difference of pain VAS and KOOS subscales between the groups at 10 weeks and 6 months (Table 2).",0,0,0,0,N,N,0,0,0,0,0
+132,"Reduced pain VAS and increased KOOS subscales in the PST group was more than in the TENS group during both follow-up periods, with a statistically significant difference at both 10 weeks and 6 months postintervention.",0,0,0,0,N,N,0,0,0,0,0
+133,"MPCI of 10 points was observed for all KOOS subscale scores, with the exception of the ADL subscale indicating significant patients' improvement (Table 3).",0,0,0,0,N,N,0,0,0,0,0
+134,"Regarding home program adherence, most of the patients in both groups (80% in PST group and 75%in TENS group) performed exercise ""very often"" in the period of first 3 months.",0,0,0,0,N,N,0,0,0,0,0
+135,"After 3 months, exercise adherence in both groups decreased (65% in PST group and 60% in the TENS group, performing exercises ""very often"") with no statistically significant difference of adherence between groups.",0,0,0,0,N,N,0,0,0,0,0
+136,There were no harmful effects of the interventions reported in either group.,0,0,0,0,N,N,0,0,0,0,0
+137,The responsiveness was high for all domains in the PST group with ES from 1.30 to 5.62 (Table 4).,0,0,0,0,N,N,0,0,0,0,0
+138,"However, in TENS group, ES was moderate for pain score (0.6), small for ADL score (0.49), and large in symptoms, sport, and QOL scores (>0.8).",0,0,0,0,N,N,0,0,0,0,0
+139,The sport and recreation function and knee-related QOL subscales were the most responsive in both groups (Table 4).,0,0,0,0,N,N,0,0,0,0,0
+140,OA of the knee is the most common type of arthritis and the major cause of chronic musculoskeletal pain and mobility disability in older adults.,0,0,0,0,N,N,0,0,1,0,0
+141,"The principal contributors to disability are believed to include pain, reduced range of joint movement, and muscle weakness.",0,0,0,0,N,N,0,0,1,0,0
+142,Progression of disease symptoms can be retarded by physical and occupational therapy and exercise programs.,0,0,0,0,N,N,0,0,0,0,0
+143,"Physical therapy guidelines for knee OA have been shown to improve function, strength, walking speed, and self-efficacy and to reduce pain and the risk of other chronic conditions.However, in older adults with chronic advanced knee OA, it may be difficult to attend regularly to physical therapy sessions 2 to 3 times weekly due to chronic knee pain and age-related comorbidities.",0,0,0,0,N,N,0,0,0,0,0
+144,"Our patients were divided into equal groups, receiving either PST or TENS sessions (1 session/wk for 10 wk) followed by booster doses for 6 months (2 booster sessions spaced by 2 wk, and then 5 booster sessions spaced by 1 mo) in addition to home-based exercises.",0,0,0,0,N,N,0,0,0,0,0
+145,"Our results showed that PST is safe and effective in reducing pain, facilitating the application of home exercises, and improving QOL in older adults with advanced knee OA.",0,0,0,0,N,N,0,0,0,0,0
+146,"Compared with TENS plus exercise, PST in combination with exercises showed a greater effect in reducing pain and OA symptoms, improving ADL and sport activities, and increasing knee-related QOL as shown by significant improvement of VAS and KOOS score subscales at both 10 weeks and 6 months postintervention.",0,0,0,0,N,N,0,0,0,0,0
+147,KOOS subscale change scores observed in our study is indicative of clinically meaningful improvement based on prior research reporting KOOS psychometric properties.,0,0,0,0,N,N,0,0,0,0,0
+148,"The mechanism of action of PST has not been established, although preliminary evidence points to the contribution of anti-inflammatory effects.",0,0,0,0,N,N,0,0,0,0,0
+149,"Electroacupuncture excites A[beta]-fibers and part of Ab-fibers, which induces an analgesic effect.",0,0,0,0,N,N,0,0,0,0,0
+150,Acupuncture signals ascend mainly through the spinal ventrolateral funiculus to the brain.,0,0,0,0,N,N,0,0,0,0,0
+151,"Many brain nuclei composed of a complicated network are involved in processing acupuncture analgesia, including the nucleus raphe magnus, periaqueductal grey, locus coeruleus, arcuate nucleus, preoptic area, nucleus submedius, habenular nucleus, caudate nucleus, septal area, amygdale, etc.",0,0,0,0,N,N,0,0,0,0,0
+152,"The analgesic effect of TENS and electroacupuncture analgesia with needles in 4 layers, skin, fascia, muscle, and periosteum, was studied by Ishimaru et al.",0,0,0,0,N,N,0,0,0,0,0
+153,"Acupuncture needles were inserted to a depth of 30 mm and connected to an electrical device (100 Hz, 1 ms, intensity at below pain tolerance).",0,0,0,0,N,N,0,0,0,0,0
+154,"TENS increased pain threshold at skin and fascia, whereas electroacupuncture with insulated needles increased pain threshold on muscle and periosteum.",0,0,0,0,N,N,0,0,0,0,0
+155,These results suggest that the depth of analgesic effect is related to the depth of stimulation.,0,0,0,0,N,N,0,0,0,0,0
+156,Deep muscle pain and joint pain may be more effectively managed with electroacupuncture using needles rather than with TENS as shown in our results.,0,0,0,0,N,N,0,0,0,0,0
+157,Weiner et al  studied PST therapy (once/wk for 6 wk) in older adults with advanced knee OA.,0,0,0,0,N,N,0,0,0,0,0
+158,"WOMAC index and Short Physical Performance Battery  were assessed at baseline, after the last PST sessions, and 3 months later.",0,0,0,0,N,N,0,0,0,0,0
+159,Pain severity was also assessed monthly using the Multidimensional Pain Inventory.,0,0,0,0,N,N,0,0,0,0,0
+160,"Pain was reduced significantly more in the PST group than in the control group at 6 weeks and 1 month later, but by 2 months, pain levels had regressed to preintervention levels.",0,0,0,0,N,N,0,0,0,0,0
+161,The WOMAC function scale showed significant improvement at 6 weeks but not at follow-up (3 mo later).,0,0,0,0,N,N,0,1,0,0,0
+162,No significant group differences were found for the Short Physical Performance Battery.,0,0,0,0,N,N,0,0,0,0,0
+163,The limited short-term efficacy of PST for reduction of pain in the study of Weiner et al  seems to be due to lack of booster doses of PST and neglecting the role of combining physical therapy exercises in reducing pain and disability in older adults with chronic knee OA.,0,0,0,0,N,N,0,0,0,0,0
+164,Weiner and colleagues evaluated the sustained efficacy of PST and boosters for treating chronic pain associated with advanced knee OA.,0,0,0,0,N,N,0,0,0,0,0
+165,"Participants were randomized to (1) PST booster group (once a week for 10 wk) followed by boosters for 6 months (once every 2 wk 2 times, then once a month).",0,0,0,0,N,N,0,0,0,0,0
+166,"(2) Control PST group (ie, periosteal needles and brief electrical stimulation of control points) once a week for 10 weeks.",0,0,0,0,N,N,0,0,0,0,0
+167,"(3) PST group (PST for 10 wk, followed by control PST boosters for 6 mo).The PST and PST booster group had similar improvement in the WOMAC index pain score compared with controls at 10 weeks, but significantly more improvement at 9 months.",0,0,0,0,N,N,0,0,0,0,0
+168,The current study evaluates the effectiveness of PST with boosters as compared with TENS therapy in the rehabilitation of older adults with advanced knee OA if given with the same home exercise program over 9 months' duration.,0,0,0,0,N,N,0,0,0,0,0
+169,Whereas Weiner and colleagues studied the effectiveness of PST in older adults with advanced knee OA as compared with PST controls (PST once/wk for 6 wk) with no booster sessions and the patients were evaluated at the last session and 3 months later.,0,0,0,0,N,N,0,0,0,0,0
+170,"Furthermore, Weiner and colleagues studied the effectiveness of PST in older adults with advanced knee OA as compared with PST controls (PST given once a week for 10 wk) followed by boosters for 6 months (once every 2 wk 2 times, then once a month).",0,0,0,0,N,N,0,0,0,0,0
+171,"Whereas our study is different as it compares PST to TENS, Weiner and colleagues' studies compare the PST control group.",0,0,0,0,N,N,0,0,0,0,0
+172,"However, the current study and Weiner and colleagues proved the effectiveness of PST in the management of the patients with advanced knee OA.",0,0,0,0,N,N,0,0,0,0,0
+173,Palmer and colleagues studied the effects of TENS for knee OA when combined with a group education and exercise program.,0,0,0,0,N,N,0,0,0,0,0
+174,"Participants were randomized to 3 arms: Active TENS and exercise group, sham TENS and exercise group, and exercise-alone group.",0,0,0,0,N,N,0,0,0,0,0
+175,All patients entered an evidence-based 6-week group education and exercise program.,1,0,0,0,N,N,0,0,0,0,0
+176,"Blinded assessment took place at baseline and 3, 6, 12, and 24 weeks.",0,0,0,0,N,N,0,0,0,0,0
+177,The primary outcome was the WOMAC function subscale at 6 weeks.,0,0,0,0,N,N,0,0,0,0,0
+178,"Secondary outcomes included WOMAC pain, stiffness, and total scores, extensor muscle torque, global assessment of change, exercise adherence, and exercise self-efficacy.",0,0,0,0,N,N,0,0,0,0,0
+179,"All outcomes improved over time (P<0.05), but there were no differences between trial groups (P>0.05).",0,0,0,0,N,N,0,0,0,0,0
+180,"There were no additional benefits of TENS, failing to support its use as a treatment adjunct within this context.",0,0,0,0,N,N,0,0,0,0,0
+181,"For older adults with chronic knee pain associated with advanced knee OA, pain reduction alone seems to be insufficient to affect disability risk.",0,0,0,0,N,N,0,0,0,0,0
+182,"So, the prescription of home-based exercises that target basic problems associated with chronic knee OA in conjunction with PST or TENS therapy was essential in further reducing pain, improving function, and reducing disability risk in our patients.",0,0,0,0,N,N,0,0,0,0,0
+183,"It has been suggested that as knee pain reduces the strength in the surrounding muscles by 5% to 15%, those with knee pain are trapped in a ""vicious circle"" of pain, which results in increased muscle weakness.",0,0,0,0,N,N,0,0,0,0,0
+184,The evidence suggests that exercises can interrupt this cycle by reducing pain levels for those with knee OA.,0,0,0,0,N,N,0,0,0,0,0
+185,"In various studies, home exercise programs, when performed regularly, were reported to have positive effects on muscle strength and functional capacity in knee OA patients.",0,0,0,0,N,N,0,0,0,0,0
+186,"Adherence to exercise program in our patients was ""very often"" in the first 3 months of intervention and then declined in both groups.",0,0,0,0,N,N,0,0,0,0,0
+187,About 20% of the patients in PST group and 25% of the patients in the TENS group were determined not to perform home exercise program regularly.,0,0,0,0,N,N,0,0,0,0,0
+188,The most significant culprit of home exercise program is the lack of the patient's compliance with exercise.,0,0,0,0,N,N,0,0,0,0,0
+189,"To maximize compliance, at first, the patients should be taught as to the benefits of the exercises, accurate and safe exercise techniques should be applied, and the patients should be followed up from time to time to find out whether exercises are appropriately performed.",0,0,0,0,N,N,0,0,0,0,0
+190,"In our study, we used the KOOS subscales as primary outcome measures.",0,0,0,0,N,N,0,0,0,0,0
+191,The MPCI of 10 points was applied to each subscale of the KOOS except for the ADL subscale.,0,0,0,0,N,N,0,0,0,0,0
+192,"Although KOOS has a MPCI of 10 points, the results of our study showed a number of KOOS domains that exceed the MPCI (Table 3).",0,0,0,0,N,N,0,0,0,0,0
+193,"Therefore, we have both statistical and clinical significance.",0,0,0,0,N,N,0,0,0,0,0
+194,The most sensitive and responsive subscales were sport and recreation function and knee-related QOL.,0,0,0,0,N,N,0,0,0,1,1
+195,"This finding is in agreement with Roos et al, who found these subscales to be the most responsive for surgery and physical therapy after reconstruction of the anterior cruciate ligament.",0,0,0,0,N,N,0,0,0,0,0
+196,Decreased function and mobility are known complications of painful knee OA.,0,0,0,0,N,N,0,0,0,0,0
+197,"Theoretically, if a patient's pain can be decreased, better movement and function can be achieved.",0,0,0,0,N,N,0,0,0,0,0
+198,This was validated in the current study that the patients receiving PST had significant improvements in VAS and KOOS subscales.,0,0,0,0,N,N,0,0,0,0,0
+199,"The findings in our study indicate that cost-effective PST and easily applicable home exercise program with no side effects increase functional level, decrease the severity of pain, and improve QOL.",0,0,0,0,N,N,0,0,0,0,0
+200,"Considering adverse drug interactions, cost-effectiveness, and the mortality and morbidity of surgeries, health care professionals who care for older adults with advanced knee OA should consider PST and a home exercise program, while designing treatment modalities.",0,0,0,0,N,N,0,0,0,0,0
+201,Several limitations of this study must be taken into account when interpreting the results.,0,0,0,0,N,N,0,0,0,0,0
+202,"First, the lack of objective measures of function or strength capacity following the exercise intervention, making it difficult to know whether the exercise intervention had a similar or differential effect between groups.",0,0,0,0,N,N,0,0,0,0,0
+203,We anticipate that future prospective studies using objective measures following exercise program will give more consistent data about the role of exercise intervention.,0,0,0,0,N,N,0,0,0,0,0
+204,"Second, the lack of control groups is an important limitation.",0,0,0,0,N,N,0,0,0,1,1
+205,"Thus, we do not know the effect of PST and TENS interventions above and beyond the exercise.",0,0,0,0,N,N,0,0,0,0,0
+206,"Also, without a sham intervention for the PST, it is difficult to determine the effect of PST above and beyond placebo effects.",0,0,0,0,N,N,0,0,0,0,0
+207,Another limitation is the small sample size.,0,0,0,0,N,N,0,0,0,0,0
+208,"So, there was a chance of a type 1 error when comparing clinical outcomes.",0,0,0,0,N,N,0,0,0,0,0
+209,"Power analysis and sample-size calculation in trials should be always considered at the beginning of the research study; however, this analysis has not been performed which is the third limitation of our study.",0,0,0,0,N,N,0,0,0,0,0
+210,"Although the small sample size is a limitation of the present study, we could find a significant difference in outcome scores between both patient groups showing more effectiveness of PST.",0,0,0,0,N,N,0,0,0,0,0
+211,Additional larger studies are needed to further examine the efficacy of PST.,0,0,0,0,N,N,0,0,0,0,0
+212,"Whether alternate needle placement, different electrical frequencies, or addition of class-based exercises would have resulted in greater pain reduction and functional improvement in older adults with advanced knee OA cannot be determined from the present study.",0,0,0,0,N,N,0,0,0,0,0
+213,These aspects should be examined in future trials.,0,0,0,0,N,N,0,0,0,0,0
+214,"PST in combination with home-based exercises are safe and more effective than TENS therapy in reducing pain, improving functional abilities and QOL of older adults with advanced knee OA.",0,0,0,0,N,N,0,0,0,0,0
+215,PST could potentially provide a new treatment option for patients with advanced knee OA.,0,0,0,0,N,N,0,1,0,0,0
+216,The KOOS proved to be a measure of sufficient responsiveness for monitoring postrehabilitation improvement in patients with advanced knee OA.,0,0,0,0,N,N,0,0,0,0,0

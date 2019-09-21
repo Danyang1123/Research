@@ -1,0 +1,156 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"To assess efficacy and safety of oxaceprol, a hydroxyproline derivative with putative mechanism of action different from traditional nonsteroidal anti-inflammatory drugs, in symptomatic knee osteoarthritis, in comparison to tramadol.",0,0,0,0,0,0,0,N,0,0,N
+1,"A parallel group, double-blind, randomized controlled trial was conducted with ambulatory patients over 50 years age suffering from knee osteoarthritis causing pain of at least moderate intensity.",0,0,0,0,0,0,0,N,0,0,N
+2,Patients were randomized to receive either oxaceprol 200 mg thrice daily or tramadol 50 mg thrice daily for 12 weeks.,0,0,0,0,0,0,0,N,0,0,N
+3,"The primary efficacy variable was symptom relief as assessed by Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) version 3.1 for pain, stiffness, and physical function.",0,0,0,0,0,0,0,N,0,0,N
+4,"Responder rate (50% pain relief), patient's Clinical Global Impression (CGI), and rescue medication use were other outcomes measured.",0,0,0,0,0,0,0,N,0,0,N
+5,"Vital signs, routine blood counts, tests of hepatorenal function and treatment-emergent adverse events were recorded for safety assessment.",0,0,0,0,0,0,0,N,0,0,N
+6,"From 91 patients recruited, 43 on oxaceprol and 36 on tramadol were evaluable.",0,0,0,0,0,0,0,N,0,0,N
+7,The WOMAC scores declined significantly from baseline in each arm but remained comparable between groups throughout the 12-week study period.,0,0,0,0,0,0,0,N,0,0,N
+8,The CGI ratings and 50% responder rates were also comparable at the final visit.,0,0,0,0,0,0,0,N,0,0,N
+9,Differences in dose up-titration and rescue medication requirements were statistically nonsignificant.,0,0,0,0,0,0,0,N,0,0,N
+10,So also were the adverse event counts.,0,0,0,0,0,0,0,N,0,0,N
+11,Compliance was satisfactory in both groups.,0,0,0,0,0,0,0,N,0,0,N
+12,"Efficacy and tolerability of oxaceprol were comparable to tramadol, and the drug can be considered as an alternative to low-potency opioids in the management of knee osteoarthritis.",0,0,0,0,0,0,0,N,0,0,N
+13,"Osteoarthritis is a degenerative disease of synovial joints that affects cartilage and bone of both large and small joints and progressively interferes with the ability to work and depending on the joints involved, the activities of daily living.",0,0,0,0,0,0,0,N,0,0,N
+14,"The primary symptoms are pain and stiffness of the affected joints, secondarily leading to joint dysfunction, deformities, and muscular weakness.",0,0,0,0,0,0,0,N,0,0,N
+15,It is the most common form of arthritis with approximately 250 million people worldwide conservatively estimated to be suffering from osteoarthritis of the knee alone.,0,0,0,0,0,0,0,N,0,0,N
+16,"[<a href=""#ref1"">1</a>] In Asia, it is estimated to be the fourth leading cause of disability.",0,0,0,0,0,0,0,N,0,0,N
+17,"[<a href=""#ref2"">2</a>] The prevalence of osteoarthritis in Indian population is about 4% in urban and 6% in rural areas.",0,0,0,0,0,0,0,N,0,0,N
+18,"[<a href=""#ref3"">3</a><a href=""#ref4"">4</a>] Previously thought to be a normal consequence of aging, it is now realized that osteoarthritis results from a complex interplay of multiple other factors such as genetic predisposition, mechanical forces, local inflammation, and cellular and biochemical processes.",0,0,0,0,0,0,0,N,0,0,N
+19,"[<a href=""#ref5"">5</a>]",0,0,0,0,0,0,0,N,0,0,N
+20,There are as yet no clinically proven therapies to halt osteoarthritis onset or progression.,0,0,0,0,0,0,0,N,0,0,N
+21,"The traditional pharmacological approach is mostly limited to symptomatic management of pain using analgesics, starting with paracetamol and then moving on to nonsteroidal anti-inflammatory drugs (NSAIDs), less potent opioids like tramadol and finally to potent opioids such as oxycodone or hydromorphone.",0,0,0,0,0,0,0,N,0,0,N
+22,Topical application of diclofenac or capsaicin and intra-articular injections of corticosteroids and sodium hyaluronate are other options though the efficacy of some of them (like injection of hyaluronic acid into the symptomatic knee joint) is controversial.,0,0,0,0,0,0,0,N,0,0,N
+23,"[<a href=""#ref6"">6</a>] If the impact of osteoarthritis symptoms on quality of life is significant and conservative management is ineffective, surgical approaches such as osteotomy, resurfacing, or joint replacement can be considered, depending on the joints affected, and the patient's lifestyle.",0,0,0,0,0,0,0,N,0,0,N
+24,"However, osteoarthritis being a widespread disease and joint surgery being a later option available at only a few specialized centers, the quest for new drugs for osteoarthritis must continue.",0,0,0,0,0,0,0,N,0,0,N
+25,The search for a truly disease modifying anti-osteoarthritis drug remains elusive.,0,0,0,0,0,0,0,N,0,0,N
+26,"Oxaceprol, a derivative of hydroxyproline ([4R]-1-acetyl-4-hydroxy-L-proline), has been used for the treatment of degenerative joint disease, especially in Europe.",0,0,0,0,0,0,0,N,0,0,N
+27,It acts by inhibition of leukocyte migration into the joints thus inhibiting an early step of the inflammatory cascade and representing a novel class of anti-inflammatory agents with the mechanism of action distinct from cyclooxygenase inhibitors.,0,0,0,0,0,0,0,N,0,0,N
+28,"[<a href=""#ref7"">7</a><a href=""#ref8"">8</a>] Some <span class=""italic"">in vitro</span> and animal studies suggest that it promotes collagen synthesis by increasing uptake of glucosamine and proline in chondrocytes and enhanced incorporation of proline into the macromolecular structure of cartilage matrix.",0,0,0,0,0,0,0,N,0,0,N
+29,"[<a href=""#ref9"">9</a><a href=""#ref10"">10</a>] By this mechanism, it helps to maintain joint integrity.",0,0,0,0,0,0,0,N,0,0,N
+30,Analgesic efficacy and relatively better tolerability of oxaceprol has been shown in clinical trials in European countries.,0,0,0,0,0,0,0,N,0,0,N
+31,"[<a href=""#ref11"">11</a><a href=""#ref12"">12</a><a href=""#ref13"">13</a>]",0,0,0,0,0,0,0,N,0,0,N
+32,Oxaceprol has been recently introduced into India.,0,0,0,0,0,0,0,N,0,0,N
+33,"We, therefore, thought it worthwhile to compare the efficacy and tolerability of oxaceprol, in comparison to the relatively weak opioid tramadol, in the treatment of symptomatic knee osteoarthritis.",0,0,0,0,0,0,0,N,0,0,N
+34,"The study was conducted as a parallel group, double-blind, randomized controlled trial (RCT) at the rheumatology outpatient department of a tertiary care teaching hospital in Kolkata.",1,0,1,0,1,1,1,N,0,0,N
+35,"Approval was obtained from the Institutional Ethics Committee, and the study was duly registered with Clinical Trials Registry, India (Registration No.",1,0,1,0,1,1,1,N,0,0,N
+36,CTRI/2014/08/004821).,1,0,1,0,1,1,1,N,0,0,N
+37,Only patients providing written informed consent were recruited.,1,0,1,0,1,1,1,N,0,0,N
+38,"Ninety-one ambulatory patients over 50 years of age, with knee joint pain intensity of at least 35 mm on a 100 mm visual analog scale (VAS) present for at least preceding 3 months and with confirmed degenerative changes in knee skiagram, were recruited between February 2014 and August 2014.",1,0,1,0,1,1,1,N,0,0,N
+39,"If joint involvement was bilateral, the worse off knee was considered.",0,0,0,0,0,0,0,N,0,0,N
+40,"Those patients with morning stiffness of over 30 min, secondary osteoarthritis, prior intra-articular injection of hyaluronic acid/steroid in the study knee at any time in the past 3 months, knee injury or diagnostic arthroscopy of signal knee within 6 months preceding enrollment or advanced osteoarthritis (defined as deformed joint, joint space &lt;2 mm or disease necessitating knee surgery) and any serious concomitant disease were excluded.",0,0,0,0,0,0,0,N,0,0,N
+41,"Participants were randomized to one of the two study groups, in 1:1 ratio, in five blocks of 20 each, using computer generated random number list.",0,1,0,0,0,0,0,N,0,0,N
+42,"Following a washout period of at least 7 days for existing analgesic therapy, they took either oxaceprol 200 mg capsule or tramadol 50 mg capsule, thrice daily after food, for 12 weeks.",0,0,0,0,0,0,0,N,0,0,N
+43,There was an option to escalate dose in either group to two capsules thrice daily if the response was unsatisfactory as indicated by inadequate pain relief or regular use of rescue analgesic.,0,0,0,0,0,0,0,N,0,0,N
+44,"Both study drugs were donated, on request, by M/s Lupin Limited, Mumbai, and were supplied as identical-appearing capsules packaged in airtight, screw cap containers suitable labeled as trial medication.",0,0,0,0,0,0,0,N,0,0,N
+45,The drugs were coded A or B.,0,0,0,0,0,0,0,N,0,0,N
+46,Capsule identity was not revealed to the patients or attending investigators.,0,0,0,0,0,0,0,N,0,0,N
+47,"Allocation concealment was achieved using the serially numbered, opaque, sealed envelope technique.",0,0,0,0,0,0,0,N,0,0,N
+48,The randomization list and the code breaking authority were retained by a senior pharmacologist not directly interacting with the participants.,0,0,0,0,0,0,0,N,0,0,N
+49,"Patients were followed up at 4 and 8 weeks from the start of the treatment, with the final study visit being at 12 weeks.",0,0,0,0,0,0,0,N,0,0,N
+50,Paracetamol 1000 mg up to 3 doses daily was permitted as rescue medication.,0,0,0,0,0,0,0,N,0,0,N
+51,Compliance was assessed by measuring the number of capsules returned at the next study visit.,0,0,0,0,0,0,0,N,0,0,N
+52,"It was deemed to be excellent if not more than 10% of scheduled doses were missed, good if not more than 20% were missed, fair if not more than 30% were missed, and poor for any situation worse than fair.",0,0,0,0,0,0,0,N,0,0,N
+53,"The primary efficacy variable for this study was symptom relief as assessed by Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) version 3.1 for pain, stiffness, and physical function, measured on 100 mm VAS scale (0 denoting no sign/symptom and 100 worst possible sign/symptom).",0,0,0,0,0,0,0,N,0,0,N
+54,Responder rate was calculated on the basis of reduction in pain score by at least 50% from baseline.,0,0,0,0,0,0,0,N,0,0,N
+55,"Patient's Clinical Global Impression (CGI) was recorded on a 5 point Likert scale as much worsened, worsened, no change, improved and much improved.",0,0,0,0,0,0,0,N,0,0,N
+56,The quantum of rescue medication used during the study period was also recorded.,0,0,0,0,0,0,0,N,0,0,N
+57,"Individuals underwent standard laboratory investigations (complete blood count, fasting plasma glucose, routine liver function tests, and serum creatinine) at baseline and study end for safety assessment.",0,0,0,0,0,0,0,N,0,0,N
+58,"Vital signs were recorded at each study visit and all treatment-emergent adverse events, either reported spontaneously by individuals or noted by the attending investigator, were recorded.",0,0,0,0,0,0,0,N,0,0,N
+59,A structured manual case report form was used for data capture.,0,0,0,0,0,0,0,N,0,0,N
+60,We evaluated 35 patients in each group.,0,0,0,0,0,0,0,N,0,0,N
+61,"This sample size was calculated to detect a difference of 30 in pain component of WOMAC score between groups with 80% power and 0.05 probability of Type 1 error, assuming a standard deviation of 45 and two-sided testing.",0,0,0,0,0,0,0,N,0,0,N
+62,"Allowing for a 20% dropout rate, this translated to a recruitment target of 44 individuals, rounded off to 45 individuals, per group or 90 individuals overall.",0,0,0,0,0,0,0,N,0,0,N
+63,"Sample size calculation was done using nMaster 2.0 (Department of Biostatistics, Christian Medical College; 2011, Vellore, Tamil Nadu, India) software.",0,0,0,0,0,0,0,N,0,0,N
+64,"We analyzed efficacy on modified intention-to-treat basis, including subjects who reported for at least one follow-up visit.",0,0,0,0,0,0,0,N,0,0,N
+65,"However, all subjects were included for adverse event analysis.",0,0,0,0,0,0,0,N,0,0,N
+66,The null hypothesis was that test drug (oxaceprol) is not different from the active comparator (tramadol) in the treatment of symptomatic knee osteoarthritis.,0,0,0,0,0,0,0,N,0,0,N
+67,"Comparison of WOMAC scores, which were normally distributed, between groups were by Student's independent samples t test, while repeated measures analysis of variance was employed for assessing significant change over time within group with Tukey's test for <span class=""italic"">post hoc</span> comparisons between any two time points.",0,0,0,0,0,0,0,N,0,0,N
+68,Skewed numerical variables were compared between groups by Mann–Whitney U-test.,0,0,0,0,0,0,0,N,0,0,N
+69,Fisher's exact test or chi-square test was used to compare categorical data between groups.,0,0,0,0,0,0,0,N,0,0,N
+70,"All analyses were two-tailed, and we considered <span class=""italic"">P</span> &lt; 0.05 as statistically significant.",0,0,0,0,0,0,0,N,0,0,N
+71,"Statistica version 6 (Tulsa, Oklahoma: StatSoft Inc., 2001) and SPSS Statistics version 22 (IBM, Chicago, IL, USA, 2014) software were used for the statistical analysis.",0,0,0,0,0,0,0,N,0,0,N
+72,"Of the 91 patients enrolled in this study, 8 did not return even for the first follow-up visit, and 4 withdrew due to adverse drug reactions (ADRs) after starting medication.",0,0,0,1,0,0,0,N,1,1,N
+73,"Thus, 79 patients (86.81%) provided data evaluable for efficacy –43 in oxaceprol and 36 in tramadol arm.",0,0,0,1,0,0,0,N,1,1,N
+74,"<a href=""#F1"">Figure 1</a> depicts the flow of study participants.",0,0,0,1,0,0,0,N,1,1,N
+75,"View larger version</a></span><span class=""fig-label"">Figure 1.",0,0,0,1,0,0,0,N,1,1,N
+76,</span>Flow of study participants,0,0,0,1,0,0,0,N,1,1,N
+77,"Baseline profile of the individuals is summarized in <a href=""#T1"">Table 1</a>.",0,0,0,0,0,0,0,N,0,0,N
+78,"Evidently, the majority of patients were females in their fifties, and the WOMAC scores for pain, stiffness and physical function were comparable between the groups.",0,0,0,0,0,0,0,N,0,0,N
+79,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,0,0,0,0,N,0,0,N
+80,</span>Baseline clinical profile of the study subjects,0,0,0,0,0,0,0,N,0,0,N
+81,Table 2</a> depicts the serial change in all the WOMAC components in the two groups– the scores declined significantly from baseline in each group but remained comparable between groups throughout the 12-week study.,0,0,0,0,0,0,0,N,0,0,N
+82,"<a href=""#F2"">Figure 2</a> shows the comparison of CGI ratings at the final visit.",0,0,0,0,0,0,0,N,0,0,N
+83,"Although 38 (88.37%) patients from oxaceprol group and 23 (63.89%) from tramadol group rated CGI as improved to much improved in the 5-point Likert scale at the final visit, the difference was not statistically significant (<span class=""italic"">P</span> = 0.080).",0,0,0,0,0,0,0,N,0,0,N
+84,"The 50% responder rate at final visit was modest at 16 subjects (37.21%) in oxaceprol and 8 (22.22%) in tramadol (<span class=""italic"">P</span> = 0.219) arms.",0,0,0,0,0,0,0,N,0,0,N
+85,"Dose up-titration was required for 6 subjects (13.95%) on oxaceprol and 7 (19.44%) on tramadol, this difference again being statistically nonsignificant (<span class=""italic"">P</span> = 0.555).",0,0,0,0,0,0,0,N,0,0,N
+86,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,0,0,0,0,0,N,0,0,N
+87,</span>Western Ontario and McMaster Universities Osteoarthritis Index score changes in the study groups,0,0,0,0,0,0,0,N,0,0,N
+88,"View larger version</a></span><span class=""fig-label"">Figure 2.",0,0,0,0,0,0,0,N,0,0,N
+89,</span>Patient's Clinical Global Impression rating at final study visit.,0,0,0,0,0,0,0,N,0,0,N
+90,Bar heights denote counts.,0,0,0,0,0,0,0,N,0,0,N
+91,"The difference in distribution is not significant statistically (<span class=""italic"">P</span> = 0.080)",0,0,0,0,0,0,0,N,0,0,N
+92,Figure 3</a> depicts the mean number of rescue medication doses used throughout the study period in each group.,0,0,0,0,0,0,0,N,0,0,N
+93,"It was also comparable (<span class=""italic"">P</span> = 0.175) between the study groups.",0,0,0,0,0,0,0,N,0,0,N
+94,"View larger version</a></span><span class=""fig-label"">Figure 3.",0,0,0,0,0,0,0,N,0,0,N
+95,</span>Rescue medication requirement over the whole study period in the study arms.,0,0,0,0,0,0,0,N,0,0,N
+96,Bar heights correspond to mean while error bars denote standard deviation.,0,0,0,0,0,0,0,N,0,0,N
+97,"The difference is not significant statistically (<span class=""italic"">P</span> = 0.175)",0,0,0,0,0,0,0,N,0,0,N
+98,Adverse events were reported for 18 patients out of the 91 initially recruited – 10 subjects had multiple complaints.,0,0,0,0,0,0,0,N,0,0,N
+99,"However, there were no significant changes in weight, pulse rate, blood pressure and laboratory safety parameters.",0,0,0,0,0,0,0,N,0,0,N
+100,Treatment-emergent events encountered numbered 6 in the oxaceprol arm (commonest dizziness in 2 instances) and 22 in the tramadol arm (the most common nausea and dizziness in 6 instances each).,0,0,0,0,0,0,0,N,0,0,N
+101,There were 3 reports of mild maculopapular rash with tramadol and 1 with oxaceprol.,0,0,0,0,0,0,0,N,0,0,N
+102,"None of the adverse events were severe in nature, but 4 subjects withdrew consent owing to this reason after the start of treatment, all belonging to tramadol arm.",0,0,0,0,0,0,0,N,0,0,N
+103,There were no hospitalizations owing to adverse events.,0,0,0,0,0,0,0,N,0,0,N
+104,"Compliance was good to excellent in over 80% subjects in both study arms (<span class=""italic"">P</span> = 0.985).",0,0,0,0,0,0,0,N,0,0,N
+105,"Osteoarthritis, the most common cause of arthralgia in adults, is predominantly associated with loss of joint cartilage.",0,0,0,0,0,0,0,N,0,0,N
+106,"NSAIDs can provide effective pain relief, but their extended use carries the risk of serious ADRs.",0,0,0,0,0,0,0,N,0,0,N
+107,"Repeated efforts to develop agents that can protect synovial cartilage from erosion or stimulate cartilage repair have not met with major success so far and the few drugs that are marketed as chondroprotective agents, such as diacerein or glucosamine, have modest efficacy at best, relieving symptoms but not really arresting joint space narrowing.",0,0,0,0,0,0,0,N,0,0,N
+108,"[<a href=""#ref14"">14</a>] Therefore, it is important to explore new agents for symptom relief and joint protection.",0,0,0,0,0,0,0,N,0,0,N
+109,Oxaceprol was introduced about 30 years ago and is used widely in France and Germany for the management of osteoarthritis.,0,0,0,0,0,0,0,N,0,0,N
+110,"Bauer <span class=""italic"">et al</span>.",0,0,0,0,0,0,0,N,0,0,N
+111,"[<a href=""#ref11"">11</a>] compared oxaceprol (200 mg thrice daily) with diclofenac (25 mg thrice daily) over 3 weeks in a multicenter, randomized, double-blind, study in Germany.",0,0,0,0,0,0,0,N,0,0,N
+112,"Joint function, evaluated by Lequesne's indices, improved clinically in both treatment arms.",0,0,0,0,0,0,0,N,0,0,N
+113,"In both groups VAS score for pain was reduced nearly 50%, joint mobility improved nearly 60% and pain-free walking period more than doubled.",0,0,0,0,0,0,0,N,0,0,N
+114,Differences between groups were not significant.,0,0,0,0,0,0,0,N,0,0,N
+115,The incidence of ADRs was similar in both groups but oxaceprol induced milder symptoms.,0,0,0,0,0,0,0,N,0,0,N
+116,"In another double-blind RCT, Herrmann <span class=""italic"">et al</span>.",0,0,0,0,0,0,0,N,0,0,N
+117,"[<a href=""#ref12"">12</a>] compared oxaceprol 400 mg thrice daily with diclofenac 50 mg thrice daily over 3 weeks in knee and hip osteoarthritis.",0,0,0,0,0,0,0,N,0,0,N
+118,"Again, the drugs were comparable with respect to Lequesne's indices, joint mobility, VAS scores for pain and pain-free walking time, but oxaceprol was better tolerated.",0,0,0,0,0,0,0,N,0,0,N
+119,"Since the placebo component can be strong in the response to osteoarthritis treatment, Krüger <span class=""italic"">et al</span>.",0,0,0,0,0,0,0,N,0,0,N
+120,"[<a href=""#ref13"">13</a>] conducted placebo-controlled trial of oxaceprol 400 mg thrice daily in painful and radiologically confirmed knee or hip osteoarthritis.",0,0,0,0,0,0,0,N,0,0,N
+121,"The primary endpoint was pain following exercise, and at the end of the 3-week treatment period, oxaceprol showed clear superiority over placebo in this regard.",0,0,0,0,0,0,0,N,0,0,N
+122,The safety and tolerability showed no statistically significant difference between oxaceprol and placebo.,0,0,0,0,0,0,0,N,0,0,N
+123,"Oxaceprol is yet to achieve widespread use in India, and its effect has not been studied in head-to-head comparison with tramadol.",0,0,0,0,0,0,0,N,0,0,N
+124,The latter is a relatively weak μ-opioid receptor agonist that is used as an analgesic in a variety of indications.,0,0,0,0,0,0,0,N,0,0,N
+125,"There is good evidence that in osteoarthritis, tramadol taken for up to 3 months may decrease pain, reduce stiffness, and improve function and overall well-being.",0,0,0,0,0,0,0,N,0,0,N
+126,"[<a href=""#ref15"">15</a><a href=""#ref16"">16</a>] Although tramadol may cause ADRs such as nausea, vomiting, dizziness, and constipation, these are dose limiting in only a small proportion of patients and tramadol is devoid of the serious reactions and the abuse potential of potent opioids.",0,0,0,0,0,0,0,N,0,0,N
+127,"Although comparisons of oxaceprol with NSAIDs are also limited, we selected tramadol because it is being increasingly used for osteoarthritis management in India and unlike NSAIDs are not likely to cause gastrointestinal, renal or bleeding problems on extended use.",0,0,0,0,0,0,0,N,0,0,N
+128,Our results show that the efficacy and tolerability of oxaceprol are comparable to tramadol.,0,0,0,0,0,0,0,N,0,0,N
+129,"Unlike the other studies cited, treatment period, in this case, was longer at 12 weeks, suggesting that the benefits of oxaceprol are not transient but persist with therapy.",0,0,0,0,0,0,0,N,0,0,N
+130,"The drugs were equivalent in improving pain, stiffness and physical function components of WOMAC at all follow-up visits.",0,0,0,0,0,0,0,N,0,0,N
+131,The CGI scores were also comparable.,0,0,0,0,0,0,0,N,0,0,N
+132,These outcome measures were chosen in line with the current standards for osteoarthritis clinical studies.,0,0,0,0,0,0,0,N,0,0,N
+133,"Adverse events were fewer in the oxaceprol group, though the event counts did not differ statistically.",0,0,0,0,0,0,0,N,0,0,N
+134,The tolerability is reflected in the satisfactory adherence rate.,0,0,0,0,0,0,0,N,0,0,N
+135,The present study has its share of limitations.,0,0,0,0,0,0,0,N,0,0,N
+136,"Osteoarthritis is a chronic disease and study duration of 12 weeks, though extended compared to earlier studies, is not enough to establish long-term safety and efficacy.",0,0,0,0,0,0,0,N,0,0,N
+137,We are unable to comment on drug efficacy in advanced osteoarthritis as these patients were excluded from the study and whether benefits will be sustained after drug withdrawal as we did not follow-up subjects beyond 12 weeks.,0,0,0,0,0,0,0,N,0,0,N
+138,It is also important to note that the study was powered to pick up a difference in 30 on VAS scale in WOMAC pain score component between the groups.,0,0,0,0,0,0,0,N,0,0,N
+139,"This margin was chosen based on the principles followed in an earlier pivotal study[<a href=""#ref13"">13</a>] but was less ambitious than the 10 mm margin used in that study.",0,0,0,0,0,0,0,N,0,0,N
+140,There were observed differences but these being smaller than 30 were not picked up as statistically significant.,0,0,0,0,0,0,0,N,0,0,N
+141,"We designed the study conventionally and not as an inferiority trial, and therefore, there will be some reservation statistically over our conclusion.",0,0,0,0,0,0,0,N,0,0,N
+142,"Finally, this study has looked at symptom relief and functional improvement but not at the impact on disease progression, which is the reason why we did not utilize any radiological grading of disease severity.",0,0,0,0,0,0,0,N,0,0,N
+143,"Despite the limitations, we can conclude that the efficacy and tolerability of oxaceprol were comparable to that of tramadol and the drug can be considered as an alternative to low-potency opioids in the management of knee osteoarthritis.",0,0,0,0,0,0,0,N,0,0,N
+144,Further studies are required to explore clinical utility in osteoarthritis at other locations and potential chondroprotective action.,0,0,0,0,0,0,0,N,0,0,N
+145,Nil.,0,0,0,0,0,0,0,N,0,0,N
+146,There are no conflicts of interest.,0,0,0,0,0,0,0,N,0,0,N
+147,"Articles from Indian Journal of Pharmacology are provided here courtesy of <span class=""bold"">Wolters Kluwer -- Medknow Publications",0,0,0,0,0,0,0,N,0,0,N
+148,PMC Copyright Notice,0,0,0,0,0,0,0,N,0,0,N
+149,"The articles available from the PMC site are protected by copyright, even though access is free.",0,0,0,0,0,0,0,N,0,0,N
+150,Copyright is held by the respective authors or publishers who provide these articles to PMC.,0,0,0,0,0,0,0,N,0,0,N
+151,Users of PMC are responsible for complying with the terms and conditions defined by the copyright holder.,0,0,0,0,0,0,0,N,0,0,N
+152,"Users should assume that standard copyright protection applies to articles in PMC, unless an article contains an explicit license statement that gives a user additional reuse or redistribution rights.",0,0,0,0,0,0,0,N,0,0,N
+153,PMC does not allow automated/bulk downloading of articles that have standard copyright protection.,0,0,0,0,0,0,0,N,0,0,N
+154,"See the copyright notice on the PMC site, <a href=""https://www.ncbi.nlm.nih.gov/pmc/about/copyright/"">https://www.ncbi.nlm.nih.gov/pmc/about/copyright/</a>, for further details and specific exceptions.",0,0,0,0,0,0,0,N,0,0,N

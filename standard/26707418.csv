@@ -1,0 +1,173 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To determine the effectiveness of argon laser peripheral iridoplasty (ALPI) in primary angle closure (PAC) and primary angle-closure glaucoma (PACG).,0,0,0,0,N,N,N,0,0,0,0
+1,Eighty PAC or PACG subjects who underwent laser iridotomy (LI) and had at least 180° of persistent appositional angle closure and intraocular pressure (IOP) of more than 21 mmHg were enrolled.,0,0,0,0,N,N,N,0,0,0,0
+2,"Subjects were randomized to receive either 360° ALPI (Visulas 532s; Carl Zeiss Meditec, Jena, Germany) or medical therapy (Travoprost 0.004%; Alcon-Couvreur, Puurs, Antwerp, Belgium).",1,0,0,1,N,N,N,0,0,0,0
+3,Repeat ALPI was performed if the IOP reduction was less than 20% from baseline along with inadequate angle widening at the month 1 or month 3 visit.,1,0,0,1,N,N,N,0,0,0,0
+4,Intraocular pressure was controlled with systematic addition of medications when required.,1,0,0,1,N,N,N,0,0,0,0
+5,The primary outcome measure was success rates after ALPI at 1 year.,0,0,0,0,N,N,N,0,0,0,0
+6,"Complete success was defined as an IOP of 21 mmHg or less without medication, and qualified success was defined as an IOP of 21 mmHg or less with medication.",0,0,0,0,N,N,N,0,0,0,0
+7,Failure was defined as an IOP more than 21 mmHg despite additional medications or requiring glaucoma surgery.,0,0,0,0,N,N,N,0,0,0,0
+8,Forty subjects (51 eyes) were randomized to ALPI and 40 subjects (55 eyes) were randomized to medical therapy.,0,0,0,0,N,N,N,0,0,0,1
+9,"Complete success (IOP ≤21 mmHg without medication) was achieved in 35.0% eyes of the ALPI group compared with 85.0% of eyes in the prostaglandin analog (PGA) group (P < 0.001), and qualified success (IOP ≤21 mmHg with medication) was achieved in 35.0% and 7.5%, respectively (P = 0.003).",0,0,0,0,N,N,N,0,0,0,1
+10,"The IOP decreased by 4.9 mmHg (95% confidence interval [CI], 3.5–6.3 mmHg) in the ALPI group (P < 0.001) and by 6.1 mmHg (95% CI, 5.1–7.1 mmHg) in the medication group (P < 0.001).",0,0,0,0,N,N,N,0,0,0,1
+11,A failure rate of 30.0% was noted in the ALPI group compared with 7.5% in the medication group (P = 0.01).,0,0,0,0,N,N,N,0,0,0,1
+12,No treatment-related complications were recorded in either group.,0,0,1,0,N,N,N,0,0,0,1
+13,"After 1 year, ALPI was associated with higher failure rates and lower IOP reduction compared with PGA therapy in eyes with persistent appositional angle closure and raised IOP after LI.",0,0,0,0,N,N,N,0,0,0,0
+14,ALPIargon laser peripheral iridoplastyAS OCTanterior segment optical coherence tomographyCIconfidence intervalIOPintraocular pressureLIlaser iridotomyPACprimary angle closurePACGprimary angle-closure glaucomaPASperipheral anterior synechiaePGAprostaglandin analog,0,0,0,0,N,N,N,0,0,0,0
+15,The pathophysiologic features and mechanisms underlying primary angle-closure glaucoma (PACG) are complex.,0,0,0,0,N,N,N,0,0,0,0
+16,"Although pupil block is the main mechanism underlying PACG, mechanisms other than pupil block may coexist.",0,0,0,0,N,N,N,0,0,0,0
+17,"A significant proportion of eyes with PACG have persistent angle closure despite a patent laser iridotomy (LI), and this pattern seems to be more prevalent among Asian subjects.",0,0,0,0,N,N,N,0,0,0,0
+18,"Studies have also shown that LI alone did not prevent most eyes (94%) with PACG from demonstrating a clinically significant increase in intraocular pressure (IOP) on follow-up.Most of those who demonstrate an increase in IOP after LI did so within the first 6 months, and nearly 54.0% of cases eventually required filtering surgery.Some of the factors other than pupil block that contribute to persistent angle closure and uncontrolled IOP after LI are plateau iris configuration and thick peripheral irides.",0,0,0,0,N,N,N,0,0,0,0
+19,One of the potential ways to widen the angle recess in these eyes with persistent angle closure after LI is to perform an argon laser peripheral iridoplasty (ALPI).,0,0,0,0,N,N,N,0,0,0,0
+20,Ritch et al proposed ALPI to be a safe and effective procedure with a satisfactory long-term success rate.,0,0,0,0,N,N,N,0,0,0,0
+21,Their inference was derived from a retrospective case series involving 23 eyes of 14 patients with a mean follow-up of 78.9 months.,0,0,0,0,N,N,N,0,0,0,0
+22,They found that the angle remained open after ALPI in all patients and that 3 eyes required a repeat laser procedure.,0,0,0,0,N,N,N,0,0,0,0
+23,Reports from a few other nonrandomized studies also support the therapeutic efficacy of ALPI in angle closure.,0,0,0,0,N,N,N,0,0,0,0
+24,"Sun et al, in a recent randomized controlled trial involving eyes with primary angle closure (PAC) or PACG, evaluated the outcome of LI alone versus LI combined with ALPI.",0,0,0,0,N,N,N,0,0,0,0
+25,They reported a similar magnitude of IOP reduction in both groups.,0,0,0,0,N,N,N,0,0,0,0
+26,"However, one of the major limitations of that study was that eyes in the ALPI arm received iridoplasty regardless of the effect of LI.",0,0,0,0,N,N,N,0,0,0,0
+27,The recent Cochrane review summarized that there was a need for further evidence to determine the specific role of ALPI in subjects with residual angle closure.,0,0,0,0,N,N,N,0,0,0,0
+28,The aim of this study was to evaluate the therapeutic efficacy of ALPI compared with prostaglandin analog (PGA) therapy in eyes with persistent angle closure and increased IOP after LI.,0,0,0,0,N,N,N,0,0,0,0
+29,"The study was a randomized controlled trial involving 2 tertiary care centers in Singapore (the Singapore National Eye Centre and the Department of Ophthalmology, National University Hospital, National University Health System).",1,0,0,1,N,N,N,0,0,0,0
+30,"The trial was registered with ClinicalTrials.gov (identifier, NCT00980473), was conducted in accordance with the principles of the Declaration of Helsinki, and had the approval of the ethics committees of the participating hospitals.",1,0,0,1,N,N,N,0,0,0,0
+31,Subjects were recruited between October 2007 and March 2012.,0,0,0,0,N,N,N,0,0,0,0
+32,Written informed consent was obtained from all participants.,0,0,0,0,N,N,N,0,0,0,0
+33,"The study population consisted of subjects 40 years of age or older diagnosed with PAC or PACG (defined below) before undergoing LI, and in whom the angles remained appositionally closed (defined as the inability to visualize the posterior pigmented trabecular meshwork for 180° or more on gonioscopy in the primary gaze position) after LI and the untreated IOP remained elevated persistently (22–30 mmHg) 1 month after LI.",0,0,0,0,N,N,N,0,0,0,0
+34,"Primary angle-closure glaucoma was defined as the presence of glaucomatous optic neuropathy (defined as a vertical cup-to-disc ratio of >0.7, neuroretinal rim narrowing, or both) with associated visual field defect on automated perimetry (Swedish interactive threshold algorithm standard 24-2 program; HFA II-750i; Carl Zeiss Meditec, Dublin, CA) defined if the following were found: (1) glaucoma hemifield test results outside normal limits; (2) a cluster of 3 or more nonedge, contiguous points on the pattern deviation plot, not crossing the horizontal meridian with a probability of less than 5% of being present in age-matched normals (one of which was <1%); and (3) pattern standard deviation less than 0.05.",0,0,0,0,N,N,N,0,0,0,0
+35,These were repeatable on 2 separate occasions in association with a closed angle before LI (at least 180° of angle in which the posterior trabecular meshwork was not visible on gonioscopy).,0,0,0,0,N,N,N,0,0,0,0
+36,"Eyes with PAC had the same gonioscopic features along with peripheral anterior synechiae (PAS), IOP more than 21 mmHg, or both, but without glaucomatous optic neuropathy.",0,0,0,0,N,N,N,0,0,0,0
+37,Peripheral anterior synechiae were defined as abnormal adhesions of the iris to the angle that are at least one half clock hour in width and extend at least to the anterior trabecular meshwork or higher on indentation gonioscopy.,0,0,0,0,N,N,N,0,0,0,0
+38,"Exclusion criteria were eyes with IOP more than 30 mmHg; history of a previous acute PAC; secondary causes of angle closure such as subluxed lens, uveitis, trauma, or neovascular glaucoma; vertical cup-to-disc ratio of 0.9 or more, or visual field constriction involving the central 10° of the visual field; visual acuity less than 20/40 resulting from cataract; or previous intraocular surgery, laser trabeculoplasty, refractive surgery, or ALPI.",0,0,0,0,N,N,N,0,0,0,0
+39,Eyes with more than 6 clock hours of PAS and a corneal endothelial cell count of less than 1000 cells/mm2 also were excluded.,0,0,0,0,N,N,N,0,0,0,0
+40,"At baseline, a detailed demographic and medical history was collected using a questionnaire, and all subjects underwent a standardized examination that included assessment of best-corrected visual acuity, slit-lamp examination, IOP measurement by Goldmann applanation tonometry, gonioscopy using a Sussman 4-mirror lens (Ocular Instruments, Inc., Bellevue, WA) followed by a dilated evaluation of the fundus with a 78-diopter lens.",0,0,0,0,N,N,N,0,0,0,0
+41,Intraocular pressure was measured at every visit using the same slit lamp and tonometer.,0,0,0,0,N,N,N,0,0,0,0
+42,"Three consecutive readings were obtained, and the scale of the tonometer was concealed from the examiner.",0,0,0,0,N,N,N,0,0,0,0
+43,The IOP values were documented by an assistant and the mean was computed.,0,0,0,0,N,N,N,0,0,0,0
+44,Occludability on gonioscopy was assessed using dim ambient and slit-lamp illumination with the patient looking straight ahead; care was taken to ensure that the slit beam did not encroach on the pupillary area during this phase.,0,0,0,0,N,N,N,0,0,0,0
+45,"Next, the slit-beam height and illumination were increased and the patient was instructed to look in the direction of the mirror to confirm iridotrabecular contact.",0,0,0,0,N,N,N,0,0,0,0
+46,Indentation gonioscopy subsequently was performed to confirm the extent of synechiae.,0,0,0,0,N,N,N,0,0,0,0
+47,"Additional investigations included angle imaging using anterior segment (AS) optical coherence tomography (OCT; Visante; Carl Zeiss Meditec) and ultrasound biomicroscopy (Paradigm Medical Industries, Salt Lake City, UT); furthermore, serial automated perimetry (Swedish interactive threshold algorithm standard 24-2 program; HFA II-750i; Carl Zeiss Meditec), central corneal thickness measurement, Lens Opacification Grading System III assessment,and corneal endothelial cell counts also were performed.",0,0,0,0,N,N,N,0,0,0,0
+48,"Anterior segment OCT images were analyzed using the Zhongshan Angle Assessment Program (Guangzhou, China) to assess for quantitative changes in parameters of angle opening distance at 500 and 750 μm anterior to the scleral spur, trabecular–iris space area 750 μm from the scleral spur, angle recess area 750 μm from the scleral spur, and iris thickness 750 and 2000 μm from the scleral spur.",0,0,0,0,N,N,N,0,0,0,0
+49,"Ultrasound biomicroscopy images were analyzed to assess for plateau iris configuration based on a predefined criteria, details of which have been published before.",0,0,0,0,N,N,N,0,0,0,0
+50,"Randomization, Re-treatment, Treatment Modification, and Follow-up",0,0,1,0,N,N,N,0,0,0,0
+51,The block randomization method was designed by an independent clinical executive.,0,1,1,0,N,N,N,0,0,0,0
+52,Subjects were randomized based on preallocated codes placed in sealed envelopes that were opened during the randomization visit by a trial coordinator.,0,1,0,0,N,N,N,0,0,0,0
+53,"Based on the code, each subject was randomized to receive either ALPI or PGA therapy (travoprost 0.004%; Alcon-Couvreur, Puurs, Belgium).",0,1,0,0,N,N,N,0,0,0,0
+54,Patients requiring bilateral therapy had the same intervention in both eyes.,0,0,0,0,N,N,N,0,0,0,0
+55,"All eyes requiring ALPI were pretreated with brimonidine tartrate (Alphagan-P 0.15%; Allergan, Inc., Irvine, CA) and pilocarpine (Isopto Carpine 2.0%; Alcon-Couvreur) before the procedure.",0,0,0,0,N,N,N,0,0,0,0
+56,"Argon laser peripheral iridoplasty (Visulas 532s; Carl Zeiss Meditec, Germany) was performed under topical anesthesia using an Abraham lens (Ocular Instruments, Inc.) with a spot size that initially was set at 500 μm, with power (150–400 mW) and duration (0.4–0.5 seconds) titrated based on response.",0,0,0,0,N,N,N,0,0,0,0
+57,"Burns were aimed at the iris root, and the end point was to obtain a visible contracture of iris tissue with minimal bubble formation and pigment release.",0,0,0,0,N,N,N,0,0,0,0
+58,"Approximately 24 burns were placed over 360° with a 2-burn space width, and care was taken to ensure that areas of large radial vessels were avoided (Fig 1).",0,0,0,0,N,N,N,0,0,0,0
+59,"Intraocular pressure was checked 60 minutes after the procedure, and all IOP spikes of 5 mmHg or more were treated with 250 mg oral acetazolamide if not contraindicated.",0,0,0,0,N,N,N,0,0,0,0
+60,"A 2-week course of topical steroids 4 times daily (Predforte; Allergan Pharmaceuticals Ireland, Westport, Ireland) was prescribed for the treated eye.",0,0,0,0,N,N,N,0,0,0,0
+61,Subjects with less than 20% reduction of IOP from baseline and persistent angle crowding at the month 1 or 3 visit were scheduled for ALPI re-treatment.,0,0,0,0,N,N,N,0,0,0,0
+62,Slit-lamp photograph obtained at 6 months depicting the well-delineated areas of peripheral iris atrophy (arrows) in an eye that had undergone argon laser peripheral iridoplasty.,0,0,0,0,N,N,N,1,0,1,0
+63,Subjects requiring ALPI were treated on a modified laser protocol with a reduced spot size of 200 μm and a response-related titration of power (100–300 mW) and duration (0.5–0.7 msec).,0,0,0,0,N,N,N,1,0,1,0
+64,"Treatment modification was permitted when IOP was uncontrolled (defined as IOP >21 mmHg) 4 weeks after re-treatment with ALPI, or at any follow-up visit in the group receiving PGA therapy.",0,0,0,0,N,N,N,1,0,1,0
+65,"Provided there were no contraindications, the additional treatments for both groups were administered in the following order: topical travoprost (ALPI arm) at night, timolol 0.5% twice daily, and dorzolamide 2% thrice daily.",0,0,0,0,N,N,N,1,0,1,0
+66,The schedules of visits and evaluations are documented in Table 1.,0,0,0,0,N,N,N,0,1,0,0
+67,Trial follow-up of the last enrolled subject was completed in March 2013.,0,0,0,0,N,N,N,0,0,0,0
+68,Schedule of Examinations and Follow-up of Study Subjects,0,0,1,0,N,N,N,1,1,1,0
+69,The primary outcome measure was success rates after ALPI.,0,0,0,0,N,N,N,0,0,0,0
+70,"Success and failure were classified as follows: subjects with an IOP less than 21 mmHg and without any additional IOP-lowering medications at 1 year were categorized as complete successes, and those with an IOP less than 21 mmHg who required IOP-lowering medication were categorized as qualified successes.",0,0,0,0,N,N,N,0,0,0,0
+71,Overall success was a combination of complete and qualified success.,0,0,0,0,N,N,N,0,1,0,0
+72,Failure was defined as an IOP more than 21 mmHg after medications (and repeat ALPI in the ALPI group) or requiring glaucoma surgery.,0,0,0,0,N,N,N,0,0,0,0
+73,Secondary outcomes were the absolute and percentage change in IOP at 1 year compared with baseline and quantitative change in angle morphologic features on AS OCT.,0,0,0,0,N,N,N,0,0,0,0
+74,"The occurrence of adverse events related to drugs and events such as IOP spikes, persistent uveitis, mydriasis, and corneal decompensation specifically were documented.",0,0,0,0,N,N,N,0,0,0,0
+75,Sample Size Calculations and Data Analysis,0,0,0,0,N,N,N,0,1,0,0
+76,Our primary outcome was the percentage of patients achieving complete success versus those requiring further intervention in terms of additional medical or surgical treatment (qualified success and failure).,0,0,0,0,N,N,N,0,0,0,0
+77,"In our initial proposal, we had estimated a difference of 20% between the 2 groups in terms of the requirement of further intervention.",0,0,0,0,N,N,N,0,0,0,0
+78,"With a 2-sided test using an α level of 0.05 and a power of 80%, the original sample size was 100 subjects per arm.",0,0,0,0,N,N,N,0,0,0,0
+79,Our preliminary results on an interim analysis of the first 40 patients suggested a difference of 60% between the 2 arms in terms of additional intervention and a 15% difference in terms of IOP reduction.,0,0,0,0,N,N,N,0,0,0,0
+80,"Based on the above data, which indicated a greater number of additional interventions in the laser arm, and because of safety concerns, we recomputed the sample size targeting a modest difference in additional intervention of 30%.",0,0,0,0,N,N,N,0,0,0,0
+81,"A repeat sample size calculation to show a difference of 30% yielded a sample of 40 subjects in each arm, with a power of 80% and a target α level of 0.05.",0,0,0,0,N,N,N,0,0,0,0
+82,This revised sample size was approved by the institutional review board.,0,0,0,0,N,N,N,0,1,0,0
+83,"Statistical analysis was performed using the statistical package SPSS Statistics for Windows version 19.0 (IBM Corp., Armonk, NY).",0,0,0,0,N,N,N,0,0,0,0
+84,"Data from 1 eye per subject were included in the final analysis, and in subjects in whom both eyes were treated, data from the right eye were used.",0,0,0,0,N,N,N,0,0,0,0
+85,"The analysis was based on intent-to-treat analysis, and the last observation carried forward method was adopted for subjects with missing data.",0,0,0,0,N,N,N,0,0,0,0
+86,The within-group differences between average baseline IOP and IOP at 1 year after ALPI or PGA treatment were compared using the paired t test for continuous variables.,0,0,0,0,N,N,N,0,0,0,0
+87,The independent t test was used to compare between the groups.,0,0,0,0,N,N,N,0,0,0,0
+88,"For comparison of mean IOP change between the groups, an analysis of covariance adjusting for baseline IOP was used.",0,0,0,0,N,N,N,0,0,0,0
+89,Categorical variables were compared using the chi-square or Fisher exact test as appropriate.,0,0,0,0,N,N,N,0,0,0,0
+90,A P value less than 0.05 was considered statistically significant.,0,0,0,0,N,N,N,0,0,0,0
+91,Regression analysis was conducted to determine factors associated with failure of ALPI.,0,0,0,0,N,N,N,0,0,0,0
+92,"Stata Statistical Software version 11 (StataCorp LP, College Station, TX) was used to analyze a recurring event, and Kaplan-Meier survival analysis was used to determine survival at 1 year.",0,0,0,0,N,N,N,0,0,0,0
+93,"The screening, recruitment, and flow of randomization of subjects are detailed in Figure 2.",0,0,0,0,N,N,N,0,0,0,0
+94,"Of the 80 subjects recruited to the study, 40 subjects (51 eyes) were randomized to ALPI and 40 subjects (55 eyes) were randomized to medical therapy.",0,0,0,0,N,N,N,0,0,0,0
+95,One eye per subject was included for each arm (right eyes in subjects who received bilateral intervention) in the final intent-to-treat analysis.,0,0,0,0,N,N,N,0,0,0,0
+96,"Flowchart showing screening, recruitment, and randomization in the trial.",0,0,0,0,N,N,N,0,0,0,0
+97,ALPI = argon laser peripheral iridoplasty; IOP = intraocular pressure; PGA = prostaglandin analog.,0,0,0,0,N,N,N,0,0,0,0
+98,"At baseline (Table 2), a higher baseline MD (−5.3 vs. −2.4 dB) was noted in the ALPI group (P = 0.01).",0,0,0,0,N,N,N,0,0,0,0
+99,"All other parameters, including biometric and quantitative angle measurements (Table 3), were found to be similar between the groups.",0,0,0,0,N,N,N,0,0,0,0
+100,There were no differences noted in the extent of appositional closure (P = 0.26) between the 2 groups.,0,0,0,0,N,N,N,0,0,0,0
+101,Baseline Patient Characteristics,0,0,0,0,N,N,N,0,0,0,0
+102,Baseline Biometric Data and Anterior Segment Optical Coherence Tomography Angle Parameters,0,0,0,0,N,N,N,0,0,0,0
+103,"At 1 year, complete success was achieved in 35.0% of eyes in the ALPI group (Table 4), compared with 85.0% of eyes in the PGA group (P < 0.001), and success after additional medication (qualified success) was achieved in 35.0% in the ALPI group compared with 7.5% in the PGA group (P = 0.003).",0,0,0,0,N,N,N,0,0,0,0
+104,Overall success rates of 92.5% in the PGA group and 70.0% in ALPI group were achieved (P = 0.01).,0,0,0,0,N,N,N,0,0,0,0
+105,The success and failure rates evaluated at a cutoff IOP of 18 mmHg demonstrated a higher failure rate in the ALPI group (67.5% vs. 40.0%; P = 0.01).,0,0,0,0,N,N,N,0,0,0,0
+106,"Intraocular pressure decreased by 4.9 mmHg (95% confidence interval [CI], 3.5–6.3 mmHg; Table 5) in the ALPI group (P < 0.001) and by 6.1 mmHg (95% CI, 5.1–7.1 mmHg) in the medication group (P < 0.001).",0,0,0,0,N,N,N,0,0,0,0
+107,"The percentage reduction in IOP was 19.3% versus 25.5% (P = 0.04), respectively.",0,0,0,0,N,N,N,0,0,0,0
+108,"The proportion of eyes that achieved 20.0% or more IOP reduction stood at 52.5% and 80.0% for the ALPI and PGA groups, respectively (P = 0.009).",0,0,0,0,N,N,N,0,0,0,0
+109,A failure rate of 30.0% was noted in the ALPI group compared with 7.5% in the medication group (P = 0.01).,0,0,0,0,N,N,N,0,0,0,0
+110,There was a significant increase in mean angle width from baseline to 1 year in ALPI eyes (1.6 vs. 2.0; P = 0.001).,0,0,0,0,N,N,N,0,0,0,0
+111,"However, eyes treated with ALPI had progression of PAS (from 1.7 to 2.6 clock hours; P = 0.004) at 1 year compared with no significant change in the PGA arm (from 1.8 to 1.6 clock hours; P = 0.16).",0,0,0,0,N,N,N,0,0,0,0
+112,"Quantitative angle parameters as measured with the Zhongshan Angle Assessment Program in ALPI eyes using AS OCT images showed a significant increase in dimensions of angle opening distance 500 and 750 μm anterior to the scleral spur, trabecular–iris space area 750 μm from the scleral spur, and angle recess area 750 μm from the scleral spur (P < 0.001 for all) from baseline to 1 year.",0,0,0,0,N,N,N,0,0,0,0
+113,"Iris thickness at 750 and 2000 μm from the scleral spur showed no change (P = 0.43 and P = 0.34, respectively).",0,0,0,0,N,N,N,0,0,0,0
+114,Two eyes (5.0%) that underwent ALPI showed an IOP spike of more than 5.0 mmHg after laser treatment.,0,0,0,0,N,N,N,0,0,0,0
+115,"The IOP was controlled with short-term medical therapy, and 1 subject exited the ALPI group and required glaucoma surgery for inadequate IOP control.",0,0,0,0,N,N,N,0,0,0,0
+116,Higher rates of additional medication were required in the ALPI group (0.55 vs. 0.13; P < 0.001).,0,0,0,0,N,N,N,0,0,0,0
+117,"There was no change in mean endothelial cell count from baseline in the ALPI arm, and adverse events such as persistent uveitis or persistent mydriasis were not found in eyes that underwent ALPI.",0,0,0,0,N,N,N,0,0,0,0
+118,Kaplan-Meier analysis (Fig 3) revealed a survival rate of 75.0% of subjects in the ALPI group compared with 97.5% in the PGA groups at 6 months (P = 0.003).,0,0,0,0,N,N,N,0,0,0,0
+119,"At year 1, the corresponding survival rates were 59.6% and 87.7% in the ALPI and PGA groups, respectively (P = 0.003).",0,0,0,0,N,N,N,0,0,0,0
+120,Kaplan-Meier plots showing a survival rate of 75.0% among subjects in the argon laser peripheral iridoplasty (ALPI) group compared with 97.5% in the prostaglandin analog (PGA) therapy group at 6 months (P = 0.003).,0,0,0,0,N,N,N,0,0,0,0
+121,"At year 1, the corresponding survival rates were 59.6% and 87.7% in the ALPI and PGA groups, respectively (P = 0.003).",0,0,0,0,N,N,N,0,0,0,0
+122,Regression analysis was carried out to identify factors contributing to complete success after ALPI.,0,0,0,0,N,N,N,0,0,0,0
+123,Baseline IOP (β = −1.1; P = 0.01) was the only significant factor associated with success at 1 year (Table 6).,0,0,0,0,N,N,N,0,0,0,0
+124,The presence of plateau iris configuration (as defined on ultrasound biomicroscopy) did not affect success rates (β = −1.04; P = 0.49).,0,0,0,0,N,N,N,0,0,0,0
+125,Factors Associated with Success after Argon Laser Peripheral Iridoplasty,0,0,0,0,N,N,N,0,0,0,0
+126,Our study provides novel insights with regard to the efficacy of ALPI in PAC and PACG with persistent appositional closure and elevated IOP after LI.,0,0,0,0,N,N,N,0,0,0,0
+127,The outcome at 1 year suggests a lower therapeutic effectiveness of ALPI compared with medications in terms of lowering IOP.,0,0,0,0,N,N,N,0,0,0,0
+128,The rates of complete success (IOP ≤21 mmHg) achieved by ALPI were 50.0% lower than the rates achieved with PGA therapy.,0,0,0,0,N,N,N,0,0,0,0
+129,"Furthermore, the failure rates were higher (30.0% vs. 7.5%) and the IOP reduction was lower (19.0% vs. 25.0%) with ALPI compared with PGA therapy.",0,0,0,0,N,N,N,0,0,0,0
+130,These outcomes combined with a low survival rate of 59.0% 1 year after ALPI suggest a limited efficacy of ALPI as a long-term therapeutic procedure.,0,0,0,0,N,N,N,0,0,0,0
+131,"Ritch et al, in their long-term follow-up of eyes with plateau iris syndrome, reported a widened angle recess but no change in IOP from baseline to final follow-up at 79 months.",0,0,0,0,N,N,N,0,0,0,0
+132,Sun et al reported a mean IOP reduction of 7.8±15.2 mmHg in their combined simultaneous iridotomy and iridoplasty arm.,0,0,0,0,N,N,N,0,0,0,0
+133,"However, 47.0% subjects in their study required additional medications and 27.0% eventually required surgery.",0,0,0,0,N,N,N,0,0,0,0
+134,The data from these 3 studies clearly indicate that ALPI lacks the desired effectiveness to control IOP over the long term in eyes with chronic angle closure.,0,0,0,0,N,N,N,0,0,0,0
+135,"The ALPI arm had complete success rates of only 35.0%, and these were almost 50.0% lower than those resulting from PGA treatment.",0,0,0,0,N,N,N,0,0,0,0
+136,The reasons for this limited effectiveness of ALPI could be varied.,0,0,0,0,N,N,N,0,0,0,0
+137,"Our analysis showed that the angles did widen after ALPI, but this may have been inadequate.",0,0,0,0,N,N,N,0,0,0,0
+138,"Of the 40 eyes, angle widening from grade 0, 1, or 2 to grade 3 (posterior trabecular meshwork or scleral spur) was achieved in only approximately 35.0% of quadrants despite re-treatment.",0,0,0,0,N,N,N,0,0,0,0
+139,"Although the AS OCT quantitative data were significant numerically in terms of overall widening of the angle from baseline, this did not translate into the desired Shaffer anatomic grade of at least 3 (posterior trabecular meshwork or scleral spur).",0,0,0,0,N,N,N,0,0,0,0
+140,"This inadequate response could be the result of a thicker iris root in Asian eyes with angle closure or the presence of plateau iris configuration, which could have rendered ALPI less effective.Among our subjects, 27% were classified as having plateau iris based on predefined ultrasound biomicroscopy criteria.",0,0,0,0,N,N,N,0,0,0,0
+141,A multivariate regression analysis did not specifically implicate plateau iris configuration to be associated directly with failure.,0,0,0,0,N,N,N,0,0,0,0
+142,"However, it would be hard to arrive at any conclusions because the study was not designed specifically to address this issue.",0,0,0,0,N,N,N,0,0,0,0
+143,Larger numbers and studies of non-Asian subjects would provide insights regarding the implications of these factors in other populations.,0,0,0,0,N,N,N,0,0,0,0
+144,A further reason accounting for the inefficacy of the ALPI could be a dysfunctional trabecular meshwork.,0,0,0,0,N,N,N,0,0,0,0
+145,"Chronic iridotrabecular contact could lead to loss of trabecular architecture and could render the meshwork dysfunctional, as substantiated in a study by Sihota et al.",0,0,0,0,N,N,N,0,0,0,0
+146,They also reported that the ultrastructural trabecular meshwork changes could exist even in areas without PAS.,0,0,0,0,N,N,N,0,0,0,0
+147,"This essentially means that ALPI may not always translate into effective IOP reduction, despite morphologic widening of the angle.",0,0,0,0,N,N,N,0,0,0,0
+148,"Finally, it has to be acknowledged that the true effect of iridoplasty on IOP reduction in eyes where iridotrabecular contact is 180° is likely to be minimal.",0,0,0,0,N,N,N,0,0,0,0
+149,"However, the bias associated with this factor specifically was examined, and it seems to be limited, because we found that 87.0% of the eyes recruited in our study had iridotrabecular contact extending beyond 180°.",0,0,0,0,N,N,N,0,0,0,0
+150,A primary concern with regard to ALPI is long-term complications.,0,0,0,0,N,N,N,0,0,0,0
+151,This study did not find any detrimental effect on the endothelial cell count or central corneal thickness at 1 year.,0,0,0,0,N,N,N,0,0,0,0
+152,"Corneal decompensation has been documented late after LI, which involves laser exposure at only a single site.",0,0,0,0,N,N,N,0,0,0,0
+153,Ritch et al reported ALPI to be safe over a 6-year period.,0,0,0,0,N,N,N,0,0,0,0
+154,"The sample size in their study was rather small, and because ALPI involves multiple site exposures with lower laser energy, we have to acknowledge the possible risk of late corneal decompensation.",0,0,0,0,N,N,N,0,0,0,0
+155,"Interestingly, our study showed a slight increase in the extent of PAS in the ALPI arm, which was unexpected, because one of the aims of ALPI is to help widen angle recess and to reduce PAS formation.",0,0,0,0,N,N,N,0,0,0,0
+156,"This also contradicts the findings of Sun et al, who reported a reduced rate of PAS formation after ALPI.",0,0,0,0,N,N,N,0,0,0,0
+157,"However, as acknowledged by them, their inferences were inconclusive because of the nonindentation technique used for assessment of PAS extent in their study.",0,0,0,0,N,N,N,0,0,0,0
+158,"One possible reason for increased PAS at 1 year in our study subjects is the ineffectiveness of ALPI to widen the angle adequately in eyes with persistent iridotrabecular contact, possibly combined with low-grade inflammation induced by laser treatment.",0,0,0,0,N,N,N,0,0,0,0
+159,"Other complications such as IOP spikes were minimal, and only 1 subject required a trabeculectomy during the study period.",0,0,0,0,N,N,N,0,0,0,0
+160,"We did not encounter other potential complications of ALPI, such as persistent uveitis or Urrets-Zavalia syndrome.",0,0,0,0,N,N,N,0,0,0,0
+161,Some of the limitations of our study were that IOP estimations in study subjects were single-visit readings and could not be masked because of the visibility of iridoplasty scars.,0,0,0,0,N,N,N,0,0,0,0
+162,The ideal scenario would have been diurnal IOP measurements at baseline and final follow-up visits.,0,0,1,0,N,N,N,0,0,0,0
+163,"However, because of practical limitations and patient inconvenience, this protocol could not be adopted.",0,0,0,0,N,N,N,0,0,0,0
+164,The study was not designed to evaluate the response of ALPI in diagnostic subtypes of angle closure.,0,0,0,0,N,N,N,0,0,0,0
+165,"Eyes with PAC may have responded differently compared with eyes with PACG, which are at the advanced end of the angle-closure disease spectrum.",0,0,0,0,N,N,N,0,0,0,0
+166,"It has to be acknowledged that although the diagnostic distributions of angle-closure subtypes were similar in both arms of the study and the multivariate analysis suggested that the final outcomes of iridoplasty were not influenced by this aspect, the study had limited power to evaluate this variable.",0,0,0,0,N,N,N,0,0,0,0
+167,"Furthermore, masked assessment of trial patients was not possible because of the visibility of iridoplasty scars, and this could have induced bias in some of our findings, such as the assessment of extent of PAS.",0,0,0,0,N,N,N,0,0,0,0
+168,The sample size had to be modified midway through the study because of safety concerns arising from poor response to the ALPI intervention.,0,0,0,0,N,N,N,0,0,0,0
+169,"Finally, the study involved Asian subjects who were predominantly Chinese.",0,0,0,0,N,N,N,0,0,0,0
+170,"The mechanisms of angle closure associated with this population may be distinct, and it may not be possible to extrapolate the results directly to all populations.",0,0,0,0,N,N,N,0,0,0,0
+171,"In conclusion, ALPI as a therapeutic method in PAC and PACG, with residual angle closure and increased IOP after LI, was found to be less effective in reducing IOP compared with PGA therapy.",0,0,0,0,N,N,N,0,0,0,0

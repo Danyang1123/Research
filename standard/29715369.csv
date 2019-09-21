@@ -1,0 +1,123 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Purpose: To evaluate the clinical effects of using fixed (four times daily [QID]) versus as-needed (PRN) dosing of an artificial tear product (polyethylene glycol/propylene glycol [PEG/PG]; Systane Ultra) in individuals with dry eye disease.,0,0,N,0,N,N,0,0,N,0,0
+1,"Methods: In this prospective, multicenter, observer-masked, active-control, parallel-group trial, participants were randomized (1:2 allocation) to receive 1 drop of PEG/PG QID (n = 34) or PRN (n = 63) for 28 days.",0,1,N,0,N,N,0,0,N,0,0
+2,The primary endpoint was change from baseline in the total ocular surface staining (TOSS) score (according to the Oxford scale) at day 28.,1,0,N,0,N,N,1,0,N,1,0
+3,"Results: At day 28, the change from baseline in least squares mean (LSM) TOSS scores for QID and PRN groups were −1.19 and −0.94, respectively (treatment difference [TD]: −0.26; 95% confidence interval [CI]: −∞ to 0.21; P = 0.184); superiority of QID versus PRN dosing was not established, as the upper limit of one-sided 95% CI for TD was not <0 (prespecified limit).",0,0,N,0,N,N,0,0,N,1,1
+4,"At day 28, for QID and PRN groups, the LSM change from baseline in Impact of Dry Eye on Everyday Life (IDEEL) scores was symptom-bother, −7.0 and −2.94 (TD: −4.06, P = 0.037); treatment effectiveness, 2.43 and 0.16 (TD: 2.28, P = 0.278); and treatment-related inconvenience, −11.56 and −2.77 (TD: −8.8, P = 0.996), respectively.",0,0,N,0,N,N,0,0,N,0,0
+5,Incidence of adverse events was low (≤3.2%) in both the groups; no serious adverse events were reported.,0,0,N,0,N,N,0,0,N,0,1
+6,Conclusions: QID dosing of PEG/PG was not superior to PRN dosing in terms of ocular staining.,0,0,N,0,N,N,0,0,N,0,0
+7,"The IDEEL symptom-bother score favored QID dosing, suggesting that regular use of artificial tears may provide better symptomatic relief than PRN use.",0,0,N,0,N,N,0,0,N,0,0
+8,"(ClinicalTrials.gov number, NCT02446015.)",0,0,N,0,N,N,0,0,N,0,0
+9,"Dry eye disease (DED), which is among the most commonly encountered ocular morbidities, is a multifactorial condition characterized by disruptions to tear film homeostasis that can lead to damage of the ocular surface.",0,0,N,0,N,N,0,0,N,0,0
+10,"As DED is a symptomatic condition and there is currently no cure for the disease, treatment goals are often aimed at providing symptomatic relief.",0,0,N,0,N,N,0,0,N,0,0
+11,"Artificial tears, which are a mainstay in the treatment of DED, are considered to act by replenishing the aqueous layer of the tear film and/or restoring and supporting the lipid layer to stabilize the tear film.",0,0,N,0,N,N,0,0,N,0,0
+12,"Systane Ultra (Alcon Research, Ltd., Fort Worth, Texas, USA, a division of Novartis) is an artificial tear containing polyethylene glycol (PEG) and propylene glycol (PG) with demonstrated efficacy in the management of DED.",0,0,N,0,N,N,0,0,N,0,0
+13,"PEG and PG are demulcent/viscosity agents that protect the ocular surface epithelium, increase the residence time of artificial lubricants, and provide extended periods of ocular comfort.",0,0,N,0,N,N,0,0,N,0,0
+14,Artificial tears are generally prescribed to DED patients by clinicians on an as-needed basis (pro re nata [PRN]).,0,0,N,0,N,N,0,0,N,0,0
+15,"Since DED is a chronic condition, a fixed-dose regimen for artificial tears may provide more consistent tear film support than would infrequent dosing.",0,0,N,0,N,N,0,0,N,0,0
+16,"However, whether fixed dosing versus PRN dosing of artificial tears affects ocular surface health or patient outcomes in the management of DED has not been previously investigated to our knowledge.",0,0,N,0,N,N,0,0,N,0,0
+17,The objective of this phase 4 clinical trial was to evaluate the clinical effects of using fixed (four times daily [QID]) versus PRN dosing of the PEG/PG–containing artificial tears over a 28-day intervention period in individuals with DED.,0,0,N,0,N,N,0,0,N,0,0
+18,"This was a 6-week, phase 4, prospective, multicenter, observer-masked, active-control, parallel-group clinical trial (NCT02446015) conducted across eight centers in the United States and Australia, from June 2015 to June 2016.",0,0,N,0,N,N,0,0,N,0,0
+19,The study consisted of a 2-week “run-in” phase and a 4-week “treatment” phase.,0,0,N,0,N,N,0,0,N,0,0
+20,"During the 2-week run-in phase, participants were directed to instill 1 drop of PEG/PG artificial tears PRN daily in each eye (Fig.",0,0,N,0,N,N,0,0,N,0,0
+21,"Participants who met the eligibility criteria were then randomized (1:2 allocation ratio) to receive 1 drop PEG/PG artificial tears, either QID or PRN, for 28 days.",0,0,N,0,N,N,0,1,N,0,0
+22,*Four patients in the PRN group did not receive treatment as they were randomized in error.,0,0,N,0,N,N,0,1,N,0,0
+23,Ninety-five patients completed the study.,0,0,N,0,N,N,0,0,N,0,0
+24,Two patients discontinued the study: one from the PRN group due to adverse event and the other from the QID group withdrew consent.,0,0,N,1,N,N,0,0,N,0,0
+25,†All patients instilled PEG/PG artificial tears PRN.,0,0,N,0,N,N,0,0,N,0,0
+26,"**One drop of PEG/PG artificial tears was to be instilled, either QID or PRN.",0,0,N,0,N,N,0,0,N,0,0
+27,"PEG, polyethylene glycol; PG, propylene glycol; PRN, pro re nata (as needed); QID, 4 times daily.",0,0,N,0,N,N,0,0,N,0,0
+28,"Participants were randomized using an electronic data-capture system, which provided a patient randomization number and kit number.",0,0,N,0,N,N,0,0,N,0,0
+29,Unmasked site personnel dispensed the appropriate artificial tear kit(s).,0,0,N,0,N,N,0,0,N,0,0
+30,Identical cartons were used for the dosing regimens of PEG/PG and were labeled with the protocol number and kit number so that the masked personnel were unable to determine the dosing regimens based on the kit's appearance.,0,0,N,0,N,N,0,0,N,0,0
+31,"Participants were asked to record in an electronic diary, on a daily basis, the number of eye drop administrations and which eye was dosed with PEG/PG artificial tears.",0,0,N,0,N,N,1,0,N,0,0
+32,Treatment compliance was measured by evaluating the dosing diary log of the participants.,0,0,N,0,N,N,0,0,N,0,0
+33,The study received approval from the independent ethics committee or institutional review board at each study center and was conducted in accordance with the Declaration of Helsinki and International Conference on Harmonization Good Clinical Practice guidelines.,0,0,N,0,N,N,0,0,N,0,0
+34,Participants provided written informed consent to participate in the study.,0,0,N,0,N,N,0,0,N,0,0
+35,"Participants were of either sex, aged ≥18 years and with a diagnosis of DED, having a total ocular staining (TOSS) score of ≥4 to ≤9 on the 15-point Oxford scale7 and an Impact of Dry Eye on Everyday Life (IDEEL) symptom-bother (SB) score8 between 16 and 65 at screening and baseline visits; using benzalkonium chloride (BAK)–free artificial tears on an as-needed basis, once or more a week, for ≥3 months prior to the screening visit; having one or more 8-hour waking periods per week during the run-in phase without using the provided artificial tears; and using the provided artificial tears once or more a week during the run-in phase.",1,0,N,0,N,N,0,0,N,0,0
+36,The exclusion criteria were (1) use of artificial tears on a daily basis in either eye for ≥1 week prior to the screening visit; (2) use of artificial tears in either eye >4 times a day within 1 year prior to the screening visit or any day during the run-in-phase; (3) a change in TOSS score of ≥3 or IDEEL SB score of ≥10 between the screening and baseline visits (end of run-in phase) in either eye; (4) use of any topical ocular medication preserved with BAK in either eye within 3 months prior to the screening visit; and (5) having a best-corrected visual acuity (BCVA) of 55 or lower in both eyes as measured by the Early Treatment Diabetic Retinopathy Study (ETDRS) chart at screening.,0,0,N,0,N,N,0,0,N,0,0
+37,Detailed exclusion criteria are provided in Supplementary Material A.,0,0,N,0,N,N,0,0,N,0,0
+38,The primary endpoint was the mean change from baseline in TOSS score at day 28.,0,0,N,0,N,N,0,0,N,0,0
+39,The secondary endpoints were change from baseline in IDEEL SB score at day 28 and change from baseline in IDEEL treatment satisfaction (TS) scores (treatment effectiveness and treatment-related inconvenience) at day 28.,0,0,N,0,N,N,0,0,N,0,0
+40,The exploratory endpoints are described in Supplementary Material B.,0,0,N,0,N,N,0,0,N,0,0
+41,"Efficacy assessments were carried out by masked assessors at screening, baseline and day 28 (or early exit).",0,0,N,0,N,N,1,0,N,0,0
+42,"TOSS score was calculated by summing the temporal conjunctival, nasal conjunctival, and corneal-staining scores, which were graded according to the Oxford scale.",0,0,N,0,N,N,1,0,N,0,0
+43,"The sodium fluorescein conjunctival and corneal staining were assessed by the masked examiner (same examiner at all visits, wherever possible) at the same slit-lamp biomicroscope, using a cobalt blue exciter and yellow-barrier filter.",0,0,N,0,N,N,0,0,N,0,0
+44,The Oxford grading was performed within 2 minutes of instilling sodium fluorescein into the eye.,0,0,N,0,N,N,0,0,N,0,0
+45,"The Oxford grading scheme consisted of charts with panels A through E, representing ocular surface staining in order of increasing severity.",0,0,N,0,N,N,0,0,N,0,0
+46,"For each panel, staining scores range from 0 to 5.",0,0,N,0,N,N,0,0,N,0,0
+47,Staining was graded by comparing the panels and the appearances of staining on the exposed corneal and interpalpebral conjunctiva.,0,0,N,0,N,N,0,0,N,0,0
+48,The total exposed interpalpebral conjunctiva and cornea score was the sum of each panel score (0 to 15).,0,0,N,0,N,N,0,0,N,0,0
+49,IDEEL SB scores and IDEEL TS scores were calculated based on the responses provided by the patient on IDEEL SB and IDEEL TS questionnaires.,0,0,N,0,N,N,1,0,N,0,0
+50,"The IDEEL SB questionnaire was used to assess symptoms experienced due to DED, and the IDEEL TS questionnaire was used to assess general satisfaction of treatment use.",0,0,N,0,N,N,0,0,N,0,0
+51,"Adverse events (AEs), whether or not considered related to the treatment, were captured throughout the study.",0,0,N,0,N,N,0,0,N,0,0
+52,"BCVA was assessed in both eyes at screening and at day 28, or early exit, using an ETDRS visual acuity chart at 3 m (10 feet [reflectance chart]) or at 4 m (13 feet [reflectance chart or translucent chart]).",0,0,N,0,N,N,0,0,N,0,0
+53,"Ocular signs (aqueous flare, aqueous cells, lens, and status of lens) were assessed in both eyes using slit-lamp biomicroscopy by the masked examiner before measurement of intraocular pressure or instillation of any staining agent.",0,0,N,0,N,N,0,0,N,0,0
+54,Clinically relevant changes from baseline were documented as AEs.,0,0,N,0,N,N,0,0,N,0,0
+55,Approximately 110 individuals were to be screened to achieve at least 90 evaluable participants (30 participants in the QID treatment group and 60 participants in the PRN treatment group).,0,0,N,0,N,N,0,0,N,0,0
+56,"This sample size had ≥87% power to detect a difference in means of 0.5, assuming a common standard deviation (SD) of 0.8 in a two-group t-test at 0.05 level of significance (one-sided).",0,0,N,0,N,N,0,0,N,0,0
+57,A linear model that included terms for baseline TOSS score and treatment was used to analyze the change from baseline at day 28 in primary and secondary endpoints.,0,0,N,0,N,N,0,0,N,0,0
+58,Superiority of QID dosing to PRN dosing was to be established if the upper limit of the 95% one-sided confidence interval (CI) for the difference (QID−PRN) in the change from baseline for a TOSS score at day 28 was <0.,0,0,N,0,N,N,0,0,N,0,0
+59,"For the secondary endpoints—(1) IDEEL SB score at day 28, (2) IDEEL TS treatment effectiveness score at day 28, and (3) IDEEL TS treatment inconvenience score at day 28—superiority was to be established if the one-sided P-value was <0.05.",0,0,N,0,N,N,0,0,N,0,0
+60,A fixed-sequential testing strategy was adopted to maintain the overall type 1 error rate at the 5% level of significance (one-sided).,0,0,N,0,N,N,0,0,N,0,0
+61,"If the primary objective was significant, then testing for the secondary endpoints was done in the prespecified sequential order.",0,0,N,0,N,N,0,0,N,0,0
+62,Safety variables were summarized descriptively.,0,0,N,0,N,N,0,0,N,0,0
+63,"Efficacy was analyzed in the intent-to-treat (ITT) set, which included all randomized participants who received one dose or more of the randomized investigational product.",0,0,N,0,N,N,0,0,N,0,0
+64,The safety analysis set included all patients exposed to the investigational product following randomization.,0,0,N,0,N,N,0,0,N,0,0
+65,"In all, 101 participants were randomized and 97 received treatment during the study.",0,0,N,0,N,N,0,1,N,0,0
+66,Four participants were randomized in error and did not receive any treatment.,0,0,N,0,N,N,0,1,N,0,0
+67,"A total of 95 participants completed the study, one participant in the QID group withdrew consent, and one participant in PRN group discontinued the study due to an AE.",0,0,N,0,N,N,0,1,N,0,0
+68,All 97 participants were included in the ITT and safety analysis set.,0,0,N,0,N,N,0,0,N,0,0
+69,Baseline and Demographic Characteristics,0,0,N,0,N,N,0,0,N,0,0
+70,The mean ± SD age of the study population was 50.4 ± 17.7 years; 79.4% were female and the majority of patients were white.,0,0,N,0,N,N,0,0,N,0,0
+71,"Overall, the baseline and demographic characteristics were similar between the QID and PRN groups (Table).",0,0,N,0,N,N,0,0,N,0,0
+72,The percentage of participants with moderate IDEEL SB severity was numerically higher in the PRN group than in the QID group (79.4% vs. 70.6%).,0,0,N,0,N,N,0,0,N,0,0
+73,Demographic and Baseline Characteristics,0,0,N,0,N,N,0,0,N,0,0
+74,"At baseline, the TOSS (mean ± SD) score was 5.1 ± 1.3 and 5.0 ± 1.1 in the QID and PRN groups, respectively (Table).",0,0,N,1,N,N,0,0,N,0,0
+75,"At day 28, the least squares mean (LSM) change in TOSS score (± standard error [SE]) from baseline was −1.19 ± 0.26 in the QID group and −0.94 ± 0.24 in the PRN group.",0,0,N,1,N,N,0,0,N,0,1
+76,Although the treatment difference was numerically in favor of QID treatment (−0.26; 95% CI: −∞ to 0.21; P = 0.184) (Fig.,0,0,N,0,N,N,0,0,N,0,0
+77,"2), superiority of QID over PRN dosing was not demonstrated because the upper limit of the one-sided 95% CI was not less than zero.",0,0,N,0,N,N,0,0,N,1,1
+78,Change in mean TOSS scores from baseline at day 28 (ITT set).,0,0,N,0,N,N,0,0,N,0,0
+79,ITT set included all randomized patients who received ≥1 dose of the randomized investigational product.,0,0,N,0,N,N,0,0,N,0,0
+80,"CI, confidence interval; ITT, intent-to-treat; LSM, least squares mean; PRN, pro re nata (as needed); QID, 4 times daily; SE, standard error; TOSS, total ocular surface staining.",0,0,N,0,N,N,0,0,N,0,0
+81,"At day 28, the change from baseline in the IDEEL SB score (LSM ± SE) was higher in the QID group (−7.0 ± 2.01) than in the PRN group (−2.94 ± 1.85), with a treatment difference (−4.06 ± 2.25, P = 0.037) in favor of the QID group (Fig.",0,0,N,0,N,N,0,0,N,0,0
+82,"At day 28, the IDEEL score for treatment effectiveness showed a marginal improvement from baseline in both treatment groups.",0,0,N,0,N,N,0,0,N,0,0
+83,"However, the treatment difference (LSM ± SE) between the QID and PRN groups for the IDEEL treatment effectiveness score was not statistically significant (2.28 ± 3.84, P = 0.278).",0,0,N,0,N,N,0,0,N,0,1
+84,A smaller mean (LSM ± SE) change from baseline in the IDEEL treatment inconvenience score was observed for the PRN group (−2.77 ± 2.67) than for the QID group (−11.56 ± 2.94) at day 28; the treatment difference (LSM ± SE) between the QID and PRN group for the IDEEL treatment inconvenience score was −8.80 ± 3.21 (lower limit of one-sided 95% CI = −14.14; P = 0.996) (Fig.,0,0,N,0,N,N,0,0,N,0,0
+85,The exploratory endpoints and results are provided in Supplementary File B.,0,0,N,0,N,N,0,0,N,0,0
+86,"(A) Symptom-bother, (B) Treatment inconvenience, and (C) Treatment effectiveness scores from baseline to day 28 in QID and PRN Groups (ITT set).",0,0,N,0,N,N,0,0,N,0,0
+87,"CI, confidence interval; IDEEL, Impact of Dry Eye on Everyday Life; ITT, Intent-to-Treat; LSM, least squares mean; PRN, pro re nata (as needed); QID, 4 times daily; SE, standard error.",0,0,N,0,N,N,0,0,N,0,0
+88,"The mean ± SD average number of administrations per day for the QID and PRN group was 3.4 ± 0.72 and 1.4 ± 0.75, respectively, as recorded from the daily patient electronic diary data.",0,0,N,1,N,N,0,0,N,1,0
+89,Most participants (79%) in the PRN group administered between 0 and 2 doses per day.,0,0,N,0,N,N,0,0,N,0,0
+90,"AEs were reported in 2.9% and 3.2% of participants in the QID and the PRN groups, respectively; none of the AEs were considered related to the PEG/PG artificial tear treatment.",0,0,N,1,N,N,0,0,N,0,0
+91,No deaths or serious AEs were reported during the study.,0,0,N,0,N,N,0,0,N,0,0
+92,One nontreatment-related ocular AE (ulcerative keratitis) in the PRN group resulted in the discontinuation of one participant.,0,0,N,0,N,N,0,0,N,0,0
+93,"There were no significant changes in BCVA, slit-lamp examination parameters, or intraocular pressure in either study group, over the duration of the study.",0,0,N,0,N,N,0,0,N,0,0
+94,This clinical trial is the first to investigate the use of regular fixed (QID) dosing versus PRN dosing of an artificial tear product in the management of DED.,0,0,N,0,N,N,0,0,N,0,0
+95,This is an important factor for clinicians to consider when providing recommendations regarding artificial tear product use to DED patients and is thus of major clinical significance.,0,0,N,0,N,N,0,0,N,0,0
+96,"We find that QID dosing of PEG/PG artificial tears is not superior to PRN dosing with respect to the reduction in ocular surface staining and improvement in treatment effectiveness, based on the mean TOSS score and mean IDEEL treatment effectiveness score changes, respectively, from baseline at day 28.",0,0,N,0,N,N,0,0,N,0,0
+97,"In contrast, the IDEEL SB score favored QID dosing, suggesting that regular, periodic administration of artificial tears may provide better symptomatic relief than PRN dosing.",0,0,N,0,N,N,0,0,N,0,0
+98,"This is an important observation, since DED patients tend to seek treatment primarily because of ocular discomfort, and treatment goals are mainly driven toward achieving symptomatic improvement.",0,0,N,0,N,N,0,0,N,0,0
+99,"However, as the trial primary endpoint was not met, results of all secondary efficacy endpoints are considered descriptive, based on the fixed-sequence testing strategy.",0,0,N,0,N,N,0,0,N,0,0
+100,"A higher level of participant-reported inconvenience with QID dosing (as evaluated from the IDEEL questionnaires), compared with PRN dosing, was likely related to the need to dose at scheduled periods throughout the day; the need to complete diary entries for each dose in order to track daily artificial tear administrations also may have contributed to patients reporting a higher inconvenience with the QID treatment compared with the PRN dosing.",0,0,N,0,N,N,0,0,N,0,0
+101,The high error bars in treatment effectiveness scores for both the regimens may be attributed to the variability in the response to the IDEEL treatment effectiveness assessment.,0,0,N,0,N,N,0,0,N,1,0
+102,Exploratory analysis based on average number of artificial tear drops administered per day did not show any significant difference in the evaluated outcomes.,0,0,N,0,N,N,0,0,N,0,0
+103,"Though the mean and median decrease in TOSS score was slightly higher in subjects receiving >3 drops per day, no definitive conclusions can be drawn due to the small sample size (n = 2) in this group.",0,0,N,0,N,N,0,0,N,0,0
+104,"Chronic medical conditions, in general, typically require long-term treatment with maintenance doses of drugs for disease stabilization.",0,0,N,0,N,N,0,0,N,0,0
+105,"Past studies and World Health Organization guidelines on the management of chronic pain suggest enhanced symptomatic relief with regular, rather than PRN, dosing.",0,0,N,0,N,N,0,0,N,0,0
+106,"As DED is also a chronic condition, it has been suggested that regular dosing of artificial tears may achieve better symptomatic relief in patients and improve their quality of life.",0,0,N,0,N,N,0,0,N,0,0
+107,"In the present study, we report a significant improvement in SB score with QID dosing, as evaluated using IDEEL questionnaires.",0,0,N,0,N,N,0,0,N,0,0
+108,Use of similar quality-of-life questionnaires should be considered in future studies involving patients with DED.,0,0,N,0,N,N,0,0,N,0,0
+109,"The PEG/PG artificial tear product used in this study used PEG/PG as demulcents, along with hydroxypropyl guar (HP-guar), which acts as a gelling agent, and the salts sorbitol and borate.",0,0,N,0,N,N,0,0,N,0,0
+110,"In the HP-guar technology, borate and sorbitol interact to form a loosely cross-linked matrix that prolongs retention of PEG and PG on the ocular surface, with the intent of allowing prolonged lubrication and protection of the ocular surface from further damage while surface epithelial cells undergo repair and renewal.",0,0,N,0,N,N,0,0,N,0,0
+111,Studies have demonstrated the potential benefits of PEG/PG lubricant artificial tears in improving clinical measures related to ocular surface staining and tear film instability in patients with DED.,0,0,N,0,N,N,0,0,N,0,0
+112,"Improvement in quality of life; in TS, as assessed in terms of ocular comfort; and in DED symptoms have also been reported.",1,0,N,0,N,N,0,0,N,0,0
+113,"Thus, proactive use of these artificial tears appears to assist with maintaining a healthy ocular surface and potentially preventing exacerbations of DED symptoms.",1,0,N,0,N,N,0,0,N,0,0
+114,Both the QID and PRN regimens were well tolerated; no new findings were reported that altered the known safety profile of PEG/PG artificial tears.,0,0,N,0,N,N,0,0,N,0,0
+115,"Limitations of the study are its relatively short duration (previous studies have shown benefits with regular dosing, two or three times per day, over a period of 2 months19), the exclusion of individuals with severe DED, and the use of a one-fixed-dose regimen (QID).",0,0,N,0,N,N,0,0,N,0,0
+116,"Additionally, as the study included participants with mild DED, any differences between the regimens may have been more difficult to detect, given that the TOSS scoring used whole increment intervals.",0,0,N,0,N,N,0,0,N,0,0
+117,This study evaluated the overall dry eye population that would use an artificial tear product.,0,0,N,0,N,N,0,0,N,0,0
+118,Effect of artificial tears on specific dry eye subtypes can be considered in future studies.,0,0,N,0,N,N,0,0,N,0,0
+119,"While there was a numerical treatment difference in the improvement of TOSS scores after 4 weeks of treatment in favor of the QID dosing of PEG/PG artificial tears over PRN dosing, the difference was not statistically significant.",0,0,N,0,N,N,0,0,N,0,0
+120,Better symptomatic relief with QID than with PRN dosing suggests improved management of DED symptoms with regular dosing.,0,0,N,0,N,N,0,0,N,0,0
+121,Further evaluation of fixed dosing may be helpful to determine the best dosing regimen for long-term symptomatic relief of DED.,1,0,N,0,N,N,0,0,N,0,0

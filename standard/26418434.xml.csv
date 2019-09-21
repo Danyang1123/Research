@@ -1,0 +1,127 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+5,Dry Eye Signs and Symptoms Persist During Systemic Neutralization of IL-1β by Canakinumab or IL-17A by Secukinumab,0,0,0,0,0,0,0,0,N,0,0
+6,"Cynthia L. Grosskreutz, MD, PhD<sup>*</sup>, Hans-Ulrich Hockey, MSc<sup>†</sup>, Denise Serra, BSc<sup>*</sup>, Thaddeus P. Dryja, MD<sup>‡</sup><div class=""aff"" id=""aff1""><span class=""label"">*</span>.",0,0,0,0,0,0,0,0,N,0,0
+7,"Translational Medicine, Novartis Institutes for Biomedical Research, Cambridge, MA;</div><div class=""aff"" id=""aff2""><span class=""label"">†</span>.",0,0,0,0,0,0,0,0,N,0,0
+8,"Biometrics Matters Ltd, Hamilton, New Zealand; and</div><div class=""aff"" id=""aff3""><span class=""label"">‡</span>.",0,0,0,0,0,0,0,0,N,0,0
+9,"Ophthalmology Research, Novartis Institutes for Biomedical Research, Cambridge, MA.",0,0,0,0,0,0,0,0,N,0,0
+10,"Reprints: Thaddeus P. Dryja, MD, Global Head, Ophthalmology Research, Novartis Institutes for BioMedical Research, 500 Technology Square, Cambridge, MA 02139 (e-mail: thaddeus.dryja@novartis.com).",0,0,0,0,0,0,0,0,N,0,0
+11,"Copyright</a> © 2015 Wolters Kluwer Health, Inc. All rights reserved.",0,0,0,0,0,0,0,0,N,0,0
+12,DOI: 10.1097/ICO.0000000000000627,0,0,0,0,0,0,0,0,N,0,0
+13,Published online: 29 September 2015,0,0,0,0,0,0,0,0,N,0,0
+14,Published in print: December 2015,0,0,0,0,0,0,0,0,N,0,0
+15,"To evaluate whether inhibition of the proinflammatory cytokines IL-1β or IL-17A by canakinumab or secukinumab, respectively, influence the signs and symptoms of dry eye.",0,0,0,0,0,0,0,0,N,0,0
+16,"In a randomized, double-masked, placebo-controlled, outpatient clinical trial, 72 patients with moderate to severe dry eye were randomly assigned in a 1:1:1 ratio to treatment with a single intravenous dose of canakinumab, of secukinumab, or of placebo.",1,0,1,0,1,1,1,0,N,0,0
+17,"Signs and symptoms of dry eye were evaluated on the treatment day and 1 week, 4 weeks, and 8 weeks after treatment.",1,0,1,0,1,1,1,0,N,0,0
+18,The prespecified primary efficacy endpoint was corneal staining in the study eye 4 weeks after treatment.,1,0,1,0,1,1,1,0,N,0,0
+19,"Secondary endpoints included tear production (Schirmer test), tear film breakup time, conjunctival redness, the ocular surface disease index (OSDI), the frequency of a desire for a topical ocular lubricant, and visual acuity.",1,0,1,0,1,1,1,0,N,0,0
+20,"Of the 71 patients included in the analysis of safety, the rate of adverse events was similar between treatment groups.",0,0,0,0,0,0,0,0,N,0,0
+21,"The course of corneal staining scores from baseline to 4 weeks, respectively, were for canakinumab 1.46 to 1.33 (<span class=""italic"">P</span> = 0.62 compared with placebo), for secukinumab 1.46 to 1.23 (<span class=""italic"">P</span> = 0.22), and for placebo 1.68 to 1.42.",0,0,0,0,0,0,0,0,N,0,0
+22,There were no changes in the other measures of efficacy beyond what was within the range expected for stochastic day-to-day variation.,0,0,0,0,0,0,0,0,N,0,0
+23,The results suggest that the inhibition of IL-1β or IL-17A obtained by systemic administration of neutralizing drugs does not influence the severity of dry eye.,0,0,0,0,0,0,0,0,N,0,0
+24,"There is evidence suggesting that inflammatory cytokines play a role in the pathogenesis of dry eye.<a href=""#R1"">1</a> For example, the cytokines IL-1, IL-6, TNFα, IFNγ, and IL-17A (or the mRNA encoding them) are elevated in the tears or conjunctiva of patients with dry eyes.<a href=""#R2"">2</a>–<a href=""#R5"">5</a> Inhibition of proinflammatory cytokines reduces the severity of dry eye in animal models.<a href=""#R6"">6</a> IL-1β and IL-17A are 2 inflammatory cytokines proposed to be key players in the pathogenesis of dry eye.",0,0,0,0,0,0,0,0,N,0,0
+25,"One conjecture to explain the cytokines' hypothetical role in dry eye is that desiccation of the ocular surface provokes an IL-1β-mediated afferent immune response in local lymph nodes, which in turn elicits an IL-17A-mediated efferent response in the ocular surface and lacrimal glands.<a href=""#R7"">7</a> The efferent response undermines the eye's ability to maintain a healthy tear film and ocular surface, thereby causing further desiccation and an inflammatory, positive feedback loop.",0,0,0,0,0,0,0,0,N,0,0
+26,"Canakinumab and secukinumab are human monoclonal antibodies that neutralize IL-1β and IL-17A, respectively.",0,0,0,0,0,0,0,0,N,0,0
+27,Both drugs have demonstrated efficacy in humans with diseases mediated by the respective cytokines.,0,0,0,0,0,0,0,0,N,0,0
+28,"For example, canakinumab effectively treats diseases in the category termed cryopyrin-associated periodic syndrome (CAPS) and systemic juvenile idiopathic arthritis in which IL-1β is excessively expressed.<a href=""#R8"">8</a>,<a href=""#R9"">9</a> Secukinumab reduces the severity of psoriasis, a skin disease that is mediated in part by IL-17A.<a href=""#R10"">10</a> We used both antibodies in a clinical trial to test whether either would ameliorate the signs or symptoms of dry eye.",0,0,0,0,0,0,0,0,N,0,0
+29,This study conformed to the Declaration of Helsinki and was approved by the institutional review board that oversees the site where it was conducted.,0,0,0,0,0,0,0,0,N,0,0
+30,It was publicly disclosed in ClinicalTrials.gov with the identifier NCT01250171.,0,0,0,0,0,0,0,0,N,0,0
+31,"A summary of results that overlaps with what is presented in this article can be found at <a href=""http://https://clinicaltrials.gov/"">https://clinicaltrials.gov</a> (study NCT01250171).",0,0,0,0,0,0,0,0,N,0,0
+32,Male and female patients aged 18 to 85 years were recruited for this trial from November 2010 to September 2011 in New England.,0,0,0,0,0,0,0,0,N,0,0
+33,"Patients were eligible for this study if they had moderate to severe dry eye including all of the following features in at least 1 eye: (1) dry areas on the corneal surface determined by a fluorescein staining score of 3 or more in at least 1 eye and a score of at least 2 in at least 1 zone of that eye; (2) a tear film breakup time (TBUT) &lt;7 seconds; (3) reduced basal tear production as determined with a Schirmer test without anesthesia (from 0 to 10 mm wetting over 5 minutes in at least 1 eye); (4) conjunctival redness of at least 1 on a scale of 0 to 4; and (5) an ocular surface disease index (OSDI) of moderate to severe.<a href=""#R11"">11</a>–<a href=""#R15"">15</a> If only 1 eye met all the inclusion criteria, it was designated as the study eye; if both eyes met the criteria, the worse eye was selected as the study eye.",0,0,0,0,0,0,0,0,N,0,0
+34,"With regard to the OSDI, the protocol had no threshold score defining “moderate” or “severe.” The examining clinician made the judgment about severity based on the sum of all scores and the number of questions answered, as per the OSDI directions.<a href=""#R11"">11",0,0,0,0,0,0,0,0,N,0,0
+35,"Key exclusion criteria were a body weight above 120 kg, use of topical cyclosporine within 60 days before screening, and exposure to any immunosuppressant drug within 3 months before randomization.",0,0,0,0,0,0,0,0,N,0,0
+36,"Patients with Sjӧgren syndrome, graft-versus-host disease, a history of a thermal or chemical burn ocular injury, or Stevens–Johnson syndrome were excluded because the mechanisms by which they produce dry eye may be different from those causing the more common forms of dry eye, as the goal for this trial was to evaluate cytokine inhibition in the more common forms of dry eye.",0,0,0,0,0,0,0,0,N,0,0
+37,"Also excluded from the study were patients who wore contact lenses, who had previous corneal refractive surgery in either eye, or who had punctal occlusion within the previous 6 months.",0,0,0,0,0,0,0,0,N,0,0
+38,No periocular cosmetics were allowed during the course of the study.,0,0,0,0,0,0,0,0,N,0,0
+39,A more detailed list of inclusion and exclusion criteria can be found at ClinicalTrials.gov.,0,0,0,0,0,0,0,0,N,0,0
+40,Seventy-two patients were enrolled and randomized into 3 treatment arms at an intended 1:1:1 ratio.,0,0,0,0,0,0,0,0,N,0,0
+41,Both patients and physicians and staff evaluating them were unaware of the treatment assignments.,0,0,0,0,0,0,0,0,N,0,0
+42,"Patients in one group received a single intravenous dose of canakinumab on day 1; patients in another group received a single intravenous dose of secukinumab, and patients in the third group received an intravenous dose of placebo (5% dextrose).",0,0,0,0,0,0,0,0,N,0,0
+43,Doses of the antibodies were 10 mg/kg of body weight in a volume of 240 mL and infused intravenously over 2 hours.,0,0,0,0,0,0,0,0,N,0,0
+44,"Outcome measures were planned for the baseline visit before the dose of study drug and 1 week, 4 weeks, and 8 weeks after the dose.",0,0,0,0,0,0,0,0,N,0,0
+45,The prespecified primary outcome was the change in the corneal staining scale score (mean of 5 corneal areas per eye; lower scores are better) of the study eye at 4 weeks compared with baseline.,0,0,0,0,0,0,0,0,N,0,0
+46,"Prespecified secondary outcomes were (1) change in basal tear production as measured with the Schirmer test, (2) change in the OSDI,<a href=""#R11"">11</a> (3) change in the TBUT, (4) conjunctival hyperemia (graded on a scale of 0–4), and (5) change in the visual acuity measured with Early Treatment of Diabetic Retinopathy Study (ETDRS) charts.<a href=""#R14"">14</a>,<a href=""#R16"">16</a> In addition, patients were instructed to stop taking any artificial tear eye drops during the trial.",0,0,0,0,0,0,0,0,N,0,0
+47,"The sixth and final prespecified secondary outcome was the frequency of patients' desire to use artificial tears, as recorded in a diary.",0,0,0,0,0,0,0,0,N,0,0
+48,"Another set of exploratory endpoints involved placing patients for 90 minutes in a dry environment (humidity &lt; 5%).<a href=""#R17"">17</a>,<a href=""#R18"">18</a> Assessments of corneal staining, tear production, OSDI, TBUT, conjunctival redness, and visual acuity were measured before and after the dry environment at the baseline, 1-week, 4-week, and 8-week visits.",0,0,0,0,0,0,0,0,N,0,0
+49,The primary endpoint (corneal staining score at 4 weeks) was specified as being before exposure to the dry environment.,0,0,0,0,0,0,0,0,N,0,0
+50,Secondary endpoints were evaluated both before and after the dry environment exposure.,0,0,0,0,0,0,0,0,N,0,0
+51,"Blood samples to measure drug levels were drawn immediately before the dose and 2 hours, 4 hours, 7 days, 28 days, and 56 days after the dose.",0,0,0,0,0,0,0,0,N,0,0
+52,"In every patient, the concentrations of the drug were consistent with the known pharmacokinetics of the respective drug.<a href=""#R8"">8</a>,<a href=""#R19"">19",0,0,0,0,0,0,0,0,N,0,0
+53,Statistical Methods and Rationale for the Sample Size,0,0,0,0,0,0,0,0,N,0,0
+54,"The NEI corneal staining scale (NEI-CSS) score was averaged across 5 areas of the cornea in the study eye, and it was assumed to be normally distributed as verified in simulations.",0,0,0,0,0,0,0,0,N,0,0
+55,The study was designed to detect a 30% difference in the change from baseline in the NEI-CSS of active treatment vs. placebo.,0,0,0,0,0,0,0,0,N,0,0
+56,"The power for the 1-sided <span class=""italic"">t</span> test on a 10% alpha level was derived assuming a mean average NEI-CSS score of 1.4 after placebo treatment and of 1.0 after active treatment giving a treatment difference of 0.4 at week 4.",0,0,0,0,0,0,0,0,N,0,0
+57,"The SD of the difference was assumed to be 0.6 based on the SD reported by Tauber et al.<a href=""#R20"">20</a> The goal was for 24 patients to be enrolled in each of the 3 arms, with the intention of at least 20 in each arm completing the study.",0,0,0,0,0,0,0,0,N,0,0
+58,"If the data from 20 completers in each group were available, the power to detect a 30% difference in the NEI-CSS score was calculated as 94%.",0,0,0,0,0,0,0,0,N,0,0
+59,"For the Schirmer test, TBUT, and OSDI, the change from baseline was evaluated.",0,0,0,0,0,0,0,0,N,0,0
+60,The normality assumption was questionable for all secondary outcome variables.,0,0,0,0,0,0,0,0,N,0,0
+61,"Using Wilcoxon–Mann–Whitney tests, for a treatment difference of 35% to 40%, the power to detect a significant treatment difference in the change from baseline was over 80% for each of these 3 variables.",0,0,0,0,0,0,0,0,N,0,0
+62,"The desire for topical lubricant use was recorded on days 1, 8, 15, 22, 29, 36, 43, 50, and 57 (day 1 = the day of the dose).",0,0,0,0,0,0,0,0,N,0,0
+63,"On each day, how often the desire occurred was recorded as 0 times, 1 to 5 times, 6 to 10 times, 11 to 15 times, 16 to 20 times, 20 to 25 times, and 25 or more times, to be summarized per treatment as counts and percentages in each category.",0,0,0,0,0,0,0,0,N,0,0
+64,The percentage was calculated as relative to the number of patients with any data reported on that day in the respective treatment group.,0,0,0,0,0,0,0,0,N,0,0
+65,Seventy-two patients were randomized.,1,1,1,1,1,1,1,1,N,1,1
+66,"One patient was not given drug and was excluded from all analyses, leaving 71 patients who were dosed.",0,0,0,1,0,0,0,1,N,1,1
+67,"One dosed patient was mistakenly given the wrong study medication (secukinumab instead of canakinumab) and another patient, who was randomized to canakinumab, received only a partial dose.",0,0,0,1,0,0,0,1,N,1,1
+68,The results of these 2 patients were excluded from evaluations of efficacy but included in evaluations of safety.,0,0,0,1,0,0,0,1,N,1,1
+69,"Patients in the treatment arms were similar in age and other demographic characteristics (Table <a href=""#T1"">1</a>).",0,0,0,1,0,0,0,1,N,1,1
+70,"At baseline, there were no major discrepancies in the severity of dry eye between the treatment arms, based on the dry eye features that were monitored in this study.",0,0,0,0,0,0,0,0,N,0,0
+71,"See full table</a></span><span class=""fig-label"">TABLE 1.",0,0,0,0,0,0,0,0,N,0,0
+72,</span>Demographic Characteristics,0,0,0,0,0,0,0,0,N,0,0
+73,"All adverse events were mild or moderate in severity (Table <a href=""#T2"">2</a>).",0,0,0,0,0,0,0,0,N,0,0
+74,Adverse events in the category “infections and infestations” were most numerous and were at a similar rate across the treatment groups.,0,0,0,0,0,0,0,0,N,0,0
+75,"See full table</a></span><span class=""fig-label"">TABLE 2.",0,0,0,0,0,0,0,0,N,0,0
+76,</span>Incidence of Adverse Events by Primary System Organ Class,0,0,0,0,0,0,0,0,N,0,0
+77,A greater incidence of “eye disorder” adverse events was noted in the canakinumab treatment group (one event in each of 3/22 patients) and the secukinumab treatment group (5/25 patients had a total of 6 events) compared with the placebo group (no events in 24 patients).,0,0,0,0,0,0,0,0,N,0,0
+78,"With the exception of conjunctivitis of moderate severity, the “eye disorder” events (retinal hemorrhage, conjunctival hemorrhage, conjunctivitis, macular degeneration, itchy eyes, eye pain, and eyelid disorder) were considered mild and did not require medication.",0,0,0,0,0,0,0,0,N,0,0
+79,None was suspected by the respective treating physicians to be treatment related.,0,0,0,0,0,0,0,0,N,0,0
+80,"With the exception of 1 secukinumab-treated patient, no patient had more than one “eye disorder” adverse event.",0,0,0,0,0,0,0,0,N,0,0
+81,The exceptional secukinumab-treated patient had both itchy eyes and ocular discomfort 7 days after the dose.,0,0,0,0,0,0,0,0,N,0,0
+82,There was 1 serious adverse event.,0,0,0,0,0,0,0,0,N,0,0
+83,"During the follow-up period 20 weeks after receiving the dose of secukinumab, a patient developed acute diverticulitis of moderate severity that required hospitalization.",0,0,0,0,0,0,0,0,N,0,0
+84,The treating clinician considered the event to be unrelated to the study drug.,0,0,0,0,0,0,0,0,N,0,0
+85,"Twenty-eight days after treatment, there was no substantial difference in the primary outcome measure (the change in the corneal staining score) between patients treated with canakinumab, secukinumab, or placebo (Table <a href=""#T3"">3</a>).",0,0,0,0,0,0,0,0,N,0,0
+86,"Specifically, patients who received canakinumab had their mean corneal staining score fall by 0.1 ± 0.5 (<span class=""italic"">P</span> = 0.62 compared with the placebo), the mean score of patients who received secukinumab fell by 0.2 ± 0.4 (<span class=""italic"">P</span> = 0.22), and the mean score of patients who received saline fell by 0.3 ± 0.5.",0,0,0,0,0,0,0,0,N,0,0
+87,Ocular evaluations at days 7 and 56 similarly indicated no substantial effects of the drugs (Fig.,0,0,0,0,0,0,0,0,N,0,0
+88,"<a href=""#F1"">1</a>).",0,0,0,0,0,0,0,0,N,0,0
+89,"See full table</a></span><span class=""fig-label"">TABLE 3.",0,0,0,0,0,0,0,0,N,0,0
+90,</span>Efficacy at 4 Weeks,0,0,0,0,0,0,0,0,N,0,0
+91,"View larger version</a></span><span class=""fig-label"">FIGURE 1.",0,0,0,0,0,0,0,0,N,0,0
+92,"</span>Course of cornea staining for each of the 3 treatment groups (placebo, canakinumab, and secukinumab) at 7, 28, and 56 days after the dose.",0,0,0,0,0,0,0,0,N,0,0
+93,The error bars denote 1 SD from the means.,0,0,0,0,0,0,0,0,N,0,0
+94,"Similarly, there were no substantial effects observed in most of the secondary outcomes 28 days after the dose of the study drug or placebo (Table <a href=""#T3"">3</a>).",0,0,0,0,0,0,0,0,N,0,0
+95,"The daily frequency of a desire for artificial tears was similarly distributed across treatment groups (Table <a href=""#T4"">4</a>).",0,0,0,0,0,0,0,0,N,0,0
+96,"There was a numerical increase in conjunctival redness in patients taking canakinumab (<span class=""italic"">P</span> = 0.04 compared with the placebo, not corrected for multiple comparisons).",0,0,0,0,0,0,0,0,N,0,0
+97,"However, the difference compared with the placebo was due more to the reduction in redness in the placebo group (redness reduced by 0.3 units) rather than worsening of redness in the canakinumab group (redness increased by only 0.1 units).",0,0,0,0,0,0,0,0,N,0,0
+98,"Also, the magnitude of the worsening was smaller than what has been reported for normal diurnal fluctuations (approximately 0.4 units).<a href=""#R21"">21",0,0,0,0,0,0,0,0,N,0,0
+99,"See full table</a></span><span class=""fig-label"">TABLE 4.",0,0,0,0,0,0,0,0,N,0,0
+100,</span>Frequency of the Desire for Lubricating Eye Drops,0,0,0,0,0,0,0,0,N,0,0
+101,No substantial drug-related effects on secondary outcomes were apparent 7 days and 58 days after the dose (see ClinicalTrials.gov).,0,0,0,0,0,0,0,0,N,0,0
+102,"Finally, there was no apparent effect of the study drugs on the patients' responses to the controlled adverse environment at any day it was evaluated (data not shown).",0,0,0,0,0,0,0,0,N,0,0
+103,The results of this clinical trial indicate that systemic inhibition of IL-1β or IL-17A does not have any effect on the signs or symptoms of dry eye.,0,0,0,0,0,0,0,0,N,0,0
+104,There are various explanations for these results.,0,0,0,0,0,0,0,0,N,0,0
+105,"First, it is possible that the drugs did not achieve sufficient concentrations in the conjunctiva to neutralize their respective cytokines.",0,0,0,0,0,0,0,0,N,0,0
+106,"However, when canakinumab is given systemically to patients with CAPS, the conjunctival inflammation, which is a feature of this disease, subsides.<a href=""#R22"">22</a> In Muckle–Wells syndrome (a form of CAPS), conjunctival inflammation also responds to systemically administered anakinra, a biological drug that competitively blocks the receptor for IL-1α and IL-1β (IL1R1).<a href=""#R23"">23</a> Similarly, in a mouse model of dry eye, systemic neutralization of IL-17A with an antibody improved the ocular surface epithelial barrier function and reduced the expression of matrix metalloproteinases.<a href=""#R5"">5</a> Furthermore, the doses used in this trial (10 mg/kg) are above or at the upper end of the range of doses that are efficacious in the other diseases treated with them.",0,0,0,0,0,0,0,0,N,0,0
+107,"The pharmacokinetics of both canakinumab (with a half-life of 21–31 days)<a href=""#R24"">24</a>,<a href=""#R25"">25</a> and secukinumab (with a half-life of 22–31 days)<a href=""#R19"">19</a> are such that drug levels are systemically still at least 25% of the maximum concentration (C<sub>max</sub>) 4 weeks after a single dose.",0,0,0,0,0,0,0,0,N,0,0
+108,Another possible explanation is that dry eyes recover slowly after the inflammatory cytokines IL-1β or IL-17A are reduced and that efficacy might be seen with longer follow-up.,0,0,0,0,0,0,0,0,N,0,0
+109,"For example, psoriatic lesions continue to subside after the first month after initiation of secukinumab therapy,<a href=""#R26"">26</a> and one might speculate that the response of dry eyes to a reduction in inflammatory cytokines takes longer than 4 weeks.",0,0,0,0,0,0,0,0,N,0,0
+110,"However, the patients with dry eye in this study had an additional follow-up visit 8 weeks after the dose, and the outcomes measured at that visit were similar to what was observed at 4 weeks; namely, no efficacy was seen (Fig.",0,0,0,0,0,0,0,0,N,0,0
+111,"<a href=""#F1"">1</a>; see also ClinicalTrials.gov).",0,0,0,0,0,0,0,0,N,0,0
+112,The alternative speculation that the effect might be short-lived is unlikely because efficacy was also not seen 1 week after the dose (Fig.,0,0,0,0,0,0,0,0,N,0,0
+113,"<a href=""#F1"">1</a>; see also ClinicalTrials.gov, study NCT01250171).",0,0,0,0,0,0,0,0,N,0,0
+114,"The systemically administered placebo enabled the study to be double-blind and avoided problems inherent in the use of a topical (ie, artificial tear or vehicle) comparator.",0,0,0,0,0,0,0,0,N,0,0
+115,The patients in our trial were instructed to stop all topical drops.,0,0,0,0,0,0,0,0,N,0,0
+116,None of the clinical measures changed in the placebo group to a clinically significant degree.,0,0,0,0,0,0,0,0,N,0,0
+117,The small improvements that were observed were comparable in magnitude to those found in vehicle control groups in some other dry eye clinical trials.,0,0,0,0,0,0,0,0,N,0,0
+118,"For example, average corneal staining scores in the placebo group in our trial were 1.7 at baseline, and they decreased 0.3 units by week 4 (Table <a href=""#T3"">3</a>).",0,0,0,0,0,0,0,0,N,0,0
+119,"In comparison, in a trial of topical cyclosporine, the score in the vehicle control group was approximately 2.7 at baseline, and it decreased by 0.5 to 0.6 units<a href=""#R27"">27</a>; in a trial of topical anakinra, the mean score in the vehicle control group was 1.7 at baseline and decreased by 0.3 units.<a href=""#R28"">28</a> The similar reductions in control arms with or without vehicle control drops suggest that some or all of the effect is due to regression to the mean.",0,0,0,0,0,0,0,0,N,0,0
+120,"Amparo et al<a href=""#R28"">28</a> reported a clinical trial of anakinra (a competitive inhibitor of the receptor IL1R1 that would block signaling by both IL-1α and IL-1β) administered as eye drops to patients with dry eye.",0,0,0,0,0,0,0,0,N,0,0
+121,"Patients were treated with topical anakinra formulated at concentrations of 5%, 2.5%, or 0% (vehicle).",0,0,0,0,0,0,0,0,N,0,0
+122,"Compared with the baseline values, there was a numerical improvement in the corneal staining score in all 3 groups after 6 weeks and 12 weeks of treatment.",0,0,0,0,0,0,0,0,N,0,0
+123,"The improvements compared with baseline in the 2.5% group were the most striking (<span class=""italic"">P</span> values of 0.01 at 6 weeks and &lt;0.001 at 12 weeks), and the 2.5% group fared better than the 5% group.",0,0,0,0,0,0,0,0,N,0,0
+124,"However, in comparison with the 0% (placebo) group, the improvements were insignificant (<span class=""italic"">P</span> values ranging from 0.12 to 0.88), which suggests that much of the efficacy might be due to the vehicle or due to a placebo effect.",0,0,0,0,0,0,0,0,N,0,0
+125,"It is unclear why local neutralization of the IL1R1 receptor, which would presumably exist in the cornea and conjunctiva only for a short time after each eye drop, would be more efficacious than the systemic continuous suppression of IL-1β provided by the high intravenous dose given in our study.",0,0,0,0,0,0,0,0,N,0,0
+126,"Although there have been more than 100 reports of clinical trials testing a variety of agents for patients with dry eye, according to a review, only 1 study reported a clearly negative result as ours did.<a href=""#R29"">29</a> That trial tested an anti-TNFα antibody (etanercept) given systemically to patients with Sjӧgren syndrome.<a href=""#R30"">30</a> Like our study, that trial involved a systemically administered inhibitor of a proinflammatory cytokine.",0,0,0,0,0,0,0,0,N,0,0
+127,"Also, like our study, there were minimal effects observed in the placebo control group.",0,0,0,0,0,0,0,0,N,0,0
+128,The absence of an apparent effect of canakinumab and secukinumab on dry eye may indicate that IL-1β and IL-17A do not play a major role in the disease.,0,0,0,0,0,0,0,0,N,0,0
+129,"Other biochemical pathways or other cytokines might be more important in the pathophysiology of moderate or severe dry eye, or perhaps the simultaneous neutralization of more than 1 cytokine is necessary for a therapeutic effect.",0,0,0,0,0,0,0,0,N,0,0
+130,Another possibility is that inflammatory pathways might be important only in patients with immune-mediated ocular surface disease (such as Sjӧgren syndrome); such patients were not included in this study.,0,0,0,0,0,0,0,0,N,0,0

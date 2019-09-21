@@ -1,0 +1,251 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"Although aspirin therapy is used widely in older adults for prevention of cardiovascular disease, its impact on the incidence, progression and severity of age-related macular degeneration (AMD) is uncertain.",0,0,0,N,0,0,N,N,N,1,N
+1,The effect of low-dose aspirin on the course of AMD will be evaluated in this clinical trial.,0,0,0,N,0,0,N,N,N,1,N
+2,"A sub-study of the ‘ASPirin in Reducing Events in the Elderly’ (ASPREE) trial, ASPREE-AMD is a 5-year follow-up double-blind, placebo-controlled, randomized trial of the effect of 100 mg daily aspirin on the course of AMD in 5000 subjects aged 70 years or older, with normal cognitive function and without cardiovascular disease at baseline.",0,0,1,N,1,1,N,N,N,1,N
+3,"Non-mydriatic fundus photography will be performed at baseline, 3-year and 5-year follow-up to determine AMD status.",0,0,1,N,1,1,N,N,N,1,N
+4,The incidence and progression of AMD.,0,0,0,N,0,0,N,N,N,0,N
+5,"Exploratory analyses will determine whether aspirin affects the risk of retinal hemorrhage in late AMD, and whether other factors, such as genotype, systemic disease, inflammatory biomarkers, influence the effect of aspirin on AMD.",0,0,0,N,0,0,N,N,N,0,N
+6,The study findings will be of significant clinical and public interest due to a potential to identify a possible low cost therapy for preventing AMD worldwide and to determine risk/benefit balance of the aspirin usage by the AMD-affected elderly.,0,0,1,N,1,1,N,N,N,0,N
+7,"The ASPREE-AMD study provides a unique opportunity to determine the effect of aspirin on AMD incidence and progression, by adding retinal imaging to an ongoing, large-scale primary prevention randomized clinical trial.",0,0,1,N,1,1,N,N,N,0,N
+8,1</span>.,0,0,1,N,1,1,N,N,N,0,N
+9,Introduction,0,0,0,N,0,0,N,N,N,0,N
+10,"Age-related macular degeneration (AMD) is a major cause of visual impairment and legal blindness amongst the elderly in developed countries <a href=""#bib1"">[1]</a>, <a href=""#bib2"">[2]</a>, <a href=""#bib3"">[3]</a>, <a href=""#bib4"">[4]</a>.",0,0,0,N,0,0,N,N,N,0,N
+11,"Visual impairment from AMD leads to a loss of quality of life, with increased rates of depression, injury, social isolation and institutionalization.",0,0,0,N,0,0,N,N,N,0,N
+12,"AMD is strongly associated with age, to the extent that more than 10% of adults aged over 80 are living with advanced AMD.",0,0,0,N,0,0,N,N,N,0,N
+13,"Increasing life expectancy was estimated to double the number of people with this late-onset disease over the next two decades, with a substantial impact on quality of life and the costs of care <a href=""#bib5"">[5]</a>, <a href=""#bib6"">[6]</a>, <a href=""#bib7"">[7]</a>.",0,0,0,N,0,0,N,N,N,0,N
+14,The late forms of AMD lead to central vision loss as a result of neovascular (nAMD) complications or atrophic changes (geographic atrophy) in the retina.,0,0,0,N,0,0,N,N,N,0,N
+15,"Anti-vascular endothelial growth factor (anti-VEGF) therapy has significantly improved the outcomes for nAMD, but there remains no proven treatment to specifically slow progression of geographic atrophy (GA).",0,0,0,N,0,0,N,N,N,0,N
+16,There is also no specific treatment that prevents progression from early or intermediate AMD to late AMD.,0,0,0,N,0,0,N,N,N,0,N
+17,"Current recommendations, which are of limited efficacy, are centred upon the use of supplements, lifestyle and dietary advice <a href=""#bib8"">[8]</a>, <a href=""#bib9"">[9]</a>, <a href=""#bib10"">[10]</a>, <a href=""#bib11"">[11]</a>.",0,0,0,N,0,0,N,N,N,0,N
+18,"As populations age, there is an imperative to delay the onset and progression of disability and chronic disease.",0,0,0,N,0,0,N,N,N,0,N
+19,"Identifying an effective preventive agent for AMD, or one that can slow its progression, would have significant beneficial effects on quality of life as well as healthcare costs.",0,0,0,N,0,0,N,N,N,0,N
+20,2</span>.,0,0,0,N,0,0,N,N,N,0,N
+21,Rationale for the ASPREE-AMD study: a potential for aspirin to prevent or slow the AMD process,0,0,0,N,0,0,N,N,N,0,N
+22,"Inflammatory processes have been implicated in the pathogenesis of AMD and its progression and AMD is considered by many to be a chronic, systemic inflammatory disease <a href=""#bib12"">[12]</a>, <a href=""#bib13"">[13]</a>, <a href=""#bib14"">[14]</a>, <a href=""#bib15"">[15]</a>, <a href=""#bib16"">[16]</a> As such it is plausible that aspirin, via its anti-inflammatory actions, may play a role in both the prevention and slowing of progression to vision loss through low grade inflammatory process.",0,0,0,N,0,0,N,N,N,0,N
+23,This was the rationale for two previous sub-studies in large primary prevention trials of low dose aspirin that evaluated self-reported AMD incidence as a secondary outcome.,0,0,0,N,0,0,N,N,N,0,N
+24,"In these trials, alternate-daily aspirin versus placebo was administered in a population of 22,071 US physicians aged 40–84 years, with 5 years of follow-up <a href=""#bib17"">[17]</a> and in a population of 39,876 women aged over 45 years, with 10 years of follow-up <a href=""#bib18"">[18]</a>.",0,0,0,N,0,0,N,N,N,0,N
+25,Both studies reported a similar effect size of low dose aspirin in reducing the relative risk of visually significant AMD by more than 20%.,0,0,0,N,0,0,N,N,N,0,N
+26,"The studies used self-reported diagnoses, confirmed with medical record data, in order to reduce random misclassification.",0,0,0,N,0,0,N,N,N,0,N
+27,"While both studies are suggestive of a beneficial effect of aspirin with respect to AMD, the reliance on self-reported diagnosis and the low significance of the results due to the low number of incident cases in the relatively young study populations limit the weight that can be given to this evidence.",0,0,0,N,0,0,N,N,N,0,N
+28,"Results from observational studies with respect to aspirin's influence on AMD incidence and prevalence have been inconsistent, ranging from the generally positive (‘harmful’) associations with AMD prevalence or incidence, with emphasis on the increased frequency of sub-retinal or vitreous hemorrhages <a href=""#bib19"">[19]</a>, <a href=""#bib20"">[20]</a>, <a href=""#bib21"">[21]</a>, <a href=""#bib22"">[22]</a>, <a href=""#bib23"">[23]</a>, <a href=""#bib24"">[24]</a>, to no association <a href=""#bib25"">[25]</a>, <a href=""#bib26"">[26]</a>, <a href=""#bib27"">[27]</a>, <a href=""#bib28"">[28]</a>, <a href=""#bib29"">[29]</a>, <a href=""#bib30"">[30]</a>, <a href=""#bib31"">[31]</a>, <a href=""#bib32"">[32]</a>, to negative (‘protective’) association <a href=""#bib33"">[33]</a>, <a href=""#bib34"">[34]</a>.",0,0,0,N,0,0,N,N,N,0,N
+29,"(<a href=""#tbl1"">Table 1</a>).",0,0,0,N,0,0,N,N,N,0,N
+30,"Thus, the overall risk/benefit balances of aspirin in relation to incidence and prevalence of AMD are yet to be fully explored.",0,0,0,N,0,0,N,N,N,0,N
+31,"In addition, if aspirin were to increase the risk of retinal or vitreous hemorrhage, this finding would have important implications when considering aspirin for widespread use in primary prevention.",0,0,0,N,0,0,N,N,N,0,N
+32,"A growing need for a sufficiently powered randomized controlled trial to resolve the relationship between aspirin use and AMD was highlighted in several recent reviews and meta-analyses <a href=""#bib23"">[23]</a>, <a href=""#bib35"">[35]</a>, <a href=""#bib36"">[36]</a>, <a href=""#bib37"">[37]</a>, <a href=""#bib38"">[38]</a>, <a href=""#bib39"">[39]</a>, <a href=""#bib40"">[40]</a>, <a href=""#bib41"">[41]</a>, <a href=""#bib42"">[42]</a>, <a href=""#bib43"">[43]</a>.",0,0,0,N,0,0,N,N,N,0,N
+33,"The NIH-funded large randomized controlled trial - <span class=""underline"">ASP</span>irin in <span class=""underline"">R</span>educing <span class=""underline"">E</span>vents in the <span class=""underline"">E</span>lderly (ASPREE) - designed to address the role of aspirin in primary prevention on disability- and dementia-free survival in older adults, provides the opportunity for a sizable sub-study to address this need <a href=""#bib44"">[44]</a>.",0,0,0,N,0,0,N,N,N,0,N
+34,"Taking into account the likelihood that a number of actions of aspirin (anti-inflammatory, anti-platelet, <span class=""italic"">etc</span>.)",0,0,0,N,0,0,N,N,N,0,N
+35,"are likely to be seen with 100 mg daily in ASPREE, its effect could be multifaceted.",0,0,0,N,0,0,N,N,N,0,N
+36,"Thus, along with the tested possible preventive effect by suppressing the inflammatory process at earlier stages of AMD, aspirin's antiplatelet property might appear to be exacerbating the late AMD processes.",0,0,0,N,0,0,N,N,N,0,N
+37,This phenomenon will be closely looked into.,0,0,0,N,0,0,N,N,N,0,N
+38,"Adding fundus photography to examine a sub-set of ASPREE participants, the ASPREE-AMD sub-study will determine the effect of low-dose aspirin on the course of AMD.",0,0,0,N,0,0,N,N,N,0,N
+39,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,N,0,0,N,N,N,0,N
+40,</span>Studies of the association between regular aspirin intake and the course of age-related macular degeneration (AMD).,0,0,0,N,0,0,N,N,N,0,N
+41,3</span>.,0,0,0,N,0,0,N,N,N,0,N
+42,Material and methods,0,0,0,N,0,0,N,N,N,0,N
+43,3.1</span>.,0,0,0,N,0,0,N,N,N,0,N
+44,Study design,0,0,0,N,0,0,N,N,N,0,N
+45,"This study is a 5-year follow-up, double-blind, randomized placebo-controlled trial of daily 100 mg aspirin versus placebo on the incidence and progression of AMD, in a population of healthy Australians aged 70 years or older.",0,1,0,N,0,0,N,N,N,0,N
+46,ASPREE-AMD is a sub-study of the principal ASPREE trial.,0,0,0,N,0,0,N,N,N,0,N
+47,3.1.1</span>.,0,0,0,N,0,0,N,N,N,0,N
+48,Ethics statement,0,0,0,N,0,0,N,N,N,0,N
+49,"The ASPREE-AMD study has been approved by the Human Research and Ethics Committee of Monash University, undertaken according to the Helsinki Declaration for research on humans and registered with the Australian New Zealand Clinical Trial Registry: ACTRN 12613000755730.",0,0,0,N,0,0,N,N,N,0,N
+50,"The principal ASPREE study is registered with the International Standardized Randomized Controlled Trials Register, ASPirin in Reducing Events in the Elderly, Number: ISRCTN83772183 and <a href=""http://clinicaltrials.gov"">clinicaltrials.gov</a>, Number NCT01038583.",0,0,0,N,0,0,N,N,N,0,N
+51,ASPREE participants consented separately to retinal photography.,0,0,0,N,0,0,N,N,N,0,N
+52,"Participants in two other sub-studies of ASPREE, which together include more than 900 ASPREE participants with retinal photographs taken with the same cameras at baseline and after 3 years of treatment with study medication, will also be included in the ASPREE-AMD sub-study.",0,0,0,N,0,0,N,N,N,0,N
+53,These two sub-studies are:,0,0,0,N,0,0,N,N,N,0,N
+54,"(1)</span> ENVISion (Aspirin for the prevention of cognitive decline in the <span class=""underline"">E</span>lderly: a <span class=""underline"">N</span>euro-<span class=""underline"">V</span>ascular <span class=""underline"">I</span>maging <span class=""underline"">S</span>tudy - a two-centre, randomized, double-blind, placebo controlled trial of the effects of daily 100 mg enteric-coated aspirin on the rate of increase of magnetic resonance imaging (MRI)-based white matter hyperintensities (WMH) and silent brain infarctions (SBI), ACTRN12609000613202) <a href=""#bib45"">[45]</a>;",0,0,0,N,0,0,N,N,N,0,N
+55,"(2)</span> SNORE-ASA (<span class=""underline"">S</span>tudy of <span class=""underline"">N</span>eurocognitive <span class=""underline"">O</span>utcomes, <span class=""underline"">R</span>adiological and retinal <span class=""underline"">E</span>ffects of Aspirin in Sleep Apnoea - a multi-centre, randomized, double-blind, placebo controlled trial of the effects of daily 100 mg enteric-coated aspirin on cognitive outcomes in the setting of sleep apnoea, in healthy older adults aged 70 and over, ACTRN 12612000891820).",0,0,0,N,0,0,N,N,N,0,N
+56,The year 5 follow-up photography for these participants will be conducted as part of the ASPREE-AMD study.,0,0,0,N,0,0,N,N,N,0,N
+57,3.1.2</span>.,0,0,0,N,0,0,N,N,N,0,N
+58,The principal ASPREE trial,0,0,0,N,0,0,N,N,N,0,N
+59,"ASPREE is a multi-centre, randomized, double-blinded, placebo-controlled trial of daily 100 mg enteric-coated aspirin in 19,000+ healthy community dwelling older adults in Australia and the US.",0,0,0,N,0,0,N,N,N,0,N
+60,"Age eligibility is 65 years and over for African Americans and Hispanics in the USA, and 70 years and over for all others, including all in the ASPREE-AMD, ENVISion and SNORE-ASA trials <a href=""#bib44"">[44]</a>.",0,0,0,N,0,0,N,N,N,0,N
+61,"ASPREE will determine whether 100 mg aspirin daily extends disability- and dementia-free survival in the elderly, and it is a primary prevention study.",0,0,0,N,0,0,N,N,N,0,N
+62,"The ASPREE study methods have been described in detail elsewhere <a href=""#bib44"">[44]</a>.",0,0,0,N,0,0,N,N,N,0,N
+63,"In brief, the majority of ASPREE Australian participants have been recruited through partnerships with general practitioner co-investigators.",0,0,0,N,0,0,N,N,N,0,N
+64,A minority has been recruited directly from the community.,0,0,0,N,0,0,N,N,N,0,N
+65,The primary endpoint of ASPREE is a composite of death or dementia (adjudicated according to the DSM-IV criteria) or persistent loss of one of the basic activities of daily living.,0,0,0,N,0,0,N,N,N,0,N
+66,"Pre-specified secondary endpoints include death, cardiovascular and cerebrovascular disease, cancer, cognitive impairment, depression, physical disability and clinically significant bleeding.",0,0,0,N,0,0,N,N,N,0,N
+67,"Clinical endpoints are adjudicated by independent committees provided with de-identified clinical information about the event <a href=""#bib44"">[44]</a>.",0,0,0,N,0,0,N,N,N,0,N
+68,"<span class=""bold"">Inclusion criteria</span> include men and women who were able to give informed consent and able to attend a study visit for an estimated period of five years.",0,0,0,N,0,0,N,N,N,0,N
+69,"<span class=""bold"">Exclusion criteria</span> include a past history of cardiovascular event or established cardiovascular disease (including stroke, transient ischemic attack, myocardial infarction, unstable angina, coronary artery reperfusion procedures and bypass grafting, abdominal aortic aneurysm, cardiac failure), atrial fibrillation, dementia or score of &lt;78 on Modified Mini-Mental State (3MS) examination, disability as defined by severe difficulty or inability to perform any of the 6 Katz Activities of Daily Living (ADLs) <a href=""#bib46"">[46]</a>, a condition with a high current or recurrent risk of bleeding, anaemia, a condition likely to cause death within 5 years, current use of other antiplatelet or antithrombotic medication, current use of aspirin for secondary prevention, and uncontrolled hypertension.",0,0,0,N,0,0,N,N,N,0,N
+70,Participants meeting initial ASPREE eligibility at a screening study visit underwent a four-week placebo run-in phase and those with compliance equal or greater than 80% were randomized.,0,0,0,N,0,0,N,N,N,0,N
+71,Randomization of study drug followed a block randomization procedure and was stratified by site and age (65–79 and ≥80 years).,0,1,0,N,0,0,N,N,N,0,N
+72,An independent statistician generated the randomization list using the STATA ‘ralloc’ procedure.,0,0,0,N,0,0,N,N,N,0,N
+73,"Participants were randomized to receive either 100 mg of enteric-coated aspirin or enteric-coated placebo, which are identical in appearance, in a ratio of 1:1.",0,0,0,N,0,0,N,N,N,0,N
+74,A 12-month supply of study medication was dispensed at trial entry and thereafter at each annual visit.,0,0,0,N,0,0,N,N,N,0,N
+75,"Study participants, investigators and general practitioner co-investigators remain masked to treatment allocation.",0,0,0,N,0,0,N,N,N,0,N
+76,"All ASPREE participants have face-to-face study visits annually, with quarterly telephone contact in between visits.",0,0,0,N,0,0,N,N,N,0,N
+77,"The 6-month phone call ascertains additional information relevant to study endpoints, including persistence of functional impairment.",0,0,0,N,0,0,N,N,N,0,N
+78,"Annual ASPREE data collected and assessments conducted include: demographics, cognitive function, physical function, quality of life, blood pressure, cardiovascular biomarkers, health behaviours and lifestyle (<a href=""#tbl2"">Table 2</a>).",0,0,0,N,0,0,N,N,N,0,N
+79,Compliance with study medication is checked by annual pill count.,0,0,0,N,0,0,N,N,N,0,N
+80,Clinical endpoints of the study are being adjudicated and confirmed.,0,0,0,N,0,0,N,N,N,0,N
+81,"The ASPREE study began in 2010 and completed recruitment in December 2014, with 16,703 participants in Australia and 2411 in the USA, and will conclude in 2017/2018.",0,0,0,N,0,0,N,N,N,0,N
+82,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,0,N,0,0,N,N,N,0,N
+83,</span>Schedule of the ASPREE-AMD study and relevant components of the ASPREE trial.,0,0,0,N,0,0,N,N,N,0,N
+84,3.1.3</span>.,0,0,0,N,0,0,N,N,N,0,N
+85,The ASPREE-AMD trial,0,0,0,N,0,0,N,N,N,0,N
+86,"The ASPREE-AMD trial involves the acquisition of digital retinal images of both eyes at baseline, 3 and 5 years in ASPREE participants after randomization to aspirin or placebo.",0,0,0,N,0,0,N,N,N,0,N
+87,All Inclusion criteria</span> for the parent ASPREE study applied to this project.,0,0,0,N,0,0,N,N,N,0,N
+88,All consecutive randomized ASPREE participants at each centre who also gave informed consent for retinal photography and were able to attend a retinal photography visit were deemed eligible for entry into the ASPREE-AMD sub-study.,0,0,0,N,0,0,N,N,N,0,N
+89,"All Exclusion criteria</span> for the parent ASPREE study also applied, with the additional criterion of the examiner being unable to view the macula without pharmaceutical dilation to take a retinal image (mainly due to either ocular media opacity or small and rigid pupil).",0,0,0,N,0,0,N,N,N,0,N
+90,"Participants with bilateral late AMD at baseline were still enrolled, but will be excluded from the analysis of AMD incidence or progression.",0,0,0,N,0,0,N,N,N,0,N
+91,These participants will be followed up for assessment of the potential worsening of the condition due to possible new or recurrent hemorrhage.,0,0,0,N,0,0,N,N,N,0,N
+92,3.1.4</span>.,0,0,0,N,0,0,N,N,N,0,N
+93,Retinal photography,0,0,0,N,0,0,N,N,N,0,N
+94,"Two digital, 45°, non-stereoscopic, colour retinal photographs of each eye, with one image centred on the fovea and one on the optic disc, are taken on one of nine non-mydriatic fundus cameras (Canon Inc., Tokyo, Japan), using Digital Health Care software (UK).",0,0,0,N,0,0,N,N,N,0,N
+95,"Non-mydriatic digital retinal imaging has been proven to be a reliable method of AMD detection <a href=""#bib47"">[47]</a>, <a href=""#bib48"">[48]</a>, <a href=""#bib49"">[49]</a>.",0,0,0,N,0,0,N,N,N,0,N
+96,"These fundus cameras are either (1) located permanently at four ASPREE study stationary centers in three Australian states, or (2) installed permanently in the specifically designed three high-roofed clinic vehicles (Mercedes vans) operated from the Melbourne site to engage participants from remote regional and rural areas in the study, or (3) shipped on the regular basis in the flight cases from Melbourne to the most distant areas, with trained research staff travelling to and assembling the cameras at the pre-organized sites.",0,0,0,N,0,0,N,N,N,0,N
+97,The use of several mobile photographic units allowed involvement of rural and regional Australian population in this research.,0,0,0,N,0,0,N,N,N,0,N
+98,Photographs are taken without pharmacological pupil dilation.,0,0,0,N,0,0,N,N,N,0,N
+99,"The right eye is photographed first, with sufficient time (up to 5 min) allowed between the following photo shots for the pupils to recover from flash-induced constriction.",0,0,0,N,0,0,N,N,N,0,N
+100,Staff members were trained to assess image quality and re-capture if images are unsatisfactory.,0,0,0,N,0,0,N,N,N,0,N
+101,The images and participant identifiers are backed up on the portable hard discs and bulk-exported from each camera on a monthly basis.,0,0,0,N,0,0,N,N,N,0,N
+102,"Prior to uploading the images to the ASPREE database, the batches of the exported images are converted into JPEG format and labelled (each image) with the participants' data entered into the computers linked to the fundus cameras, using for both procedures a custom-written script for automated bulk processing.",0,0,0,N,0,0,N,N,N,0,N
+103,"Four pre-specified identifiers (participant ID, acrostic that consists of the combination of the shortened last and first names, date of imaging and DHC code) are used to match images with the ASPREE database records of the participants during bulk uploading of the images.",0,0,0,N,0,0,N,N,N,0,N
+104,"The batches of images are initially screened for signs of clinically significant pathology requiring medical attention and if needed, the notification letters, automatically generated via the ASPREE database, are sent to the participants and their general practitioner.",0,0,0,N,0,0,N,N,N,0,N
+105,De-identified images are transferred to the ASPREE-AMD retinal image database housed on a secure server for detailed grading.,0,0,0,N,0,0,N,N,N,0,N
+106,"Images are graded for AMD according to the Beckman classification by two independent, masked experienced graders <a href=""#bib50"">[50]</a>.",0,0,0,N,0,0,N,N,N,0,N
+107,"Grading process closely follows the timing of image acquisition, aiming to complete the grading soon after completion of image collection.",0,0,0,N,0,0,N,N,N,0,N
+108,"During side by side grading, the temporal sequence of photos will not be masked.",0,0,0,N,0,0,N,N,N,0,N
+109,"In this study, the image labels include the date of photography as one of the identifiers important for data validation.",0,0,0,N,0,0,N,N,N,0,N
+110,"Deleting the dates and relabelling the images would increase risk of errors, mostly due to the large scale of the study.",0,0,0,N,0,0,N,N,N,0,N
+111,"However, the graders will at all times be independent of each other and masked to the allocation of study medications.",0,0,0,N,0,0,N,N,N,0,N
+112,"The graders assess quality of the image (for focus and field placement), as well as the presence, size and location of the AMD-related lesions within a 6000 μm circular grid calibrated for size on the optic disc and centred on the fovea <a href=""#bib47"">[47]</a>.",0,0,0,N,0,0,N,N,N,0,N
+113,Grading is checked periodically for inter-grader agreement and intra-grader repeatability on random selections of images.,0,0,0,N,0,0,N,N,N,0,N
+114,Incident pathology or cases of progression will be confirmed via side-by-side comparison of baseline and follow-up images from the same participant and adjudicated by an ophthalmologist (RG) when required.,0,0,0,N,0,0,N,N,N,0,N
+115,"After assessment of the baseline and follow-up retinal images for incidence, progression and severity of AMD, the effect of aspirin on the course of AMD will be analysed.",0,0,0,N,0,0,N,N,N,0,N
+116,3.1.5</span>.,0,0,0,N,0,0,N,N,N,0,N
+117,Adverse events,0,0,0,N,0,0,N,N,N,0,N
+118,All adverse events and serious adverse events are reported according to good clinical practice guidelines and handled by the principal ASPREE study.,0,0,0,N,0,0,N,N,N,0,N
+119,"An independent Data and Safety Monitoring Board (DSMB), established by the National Institute on Aging, monitors all ASPREE activities on a 6 monthly basis.",0,0,0,N,0,0,N,N,N,0,N
+120,Clinically significant retinal pathology at baseline or follow-up is reported back to the participant's primary care physician and to the participant.,0,0,0,N,0,0,N,N,N,0,N
+121,"Participants with any bleeding disorder, including retinal hemorrhage, may be taken off study medication.",0,0,0,N,0,0,N,N,N,0,N
+122,3.1.6</span>.,0,0,0,N,0,0,N,N,N,0,N
+123,Acquisition of additional information on adverse events and anti-VEGF treatment,0,0,0,N,0,0,N,N,N,0,N
+124,"In the last decade, intravitreal anti-VEGF therapy for choroidal nAMD has been implemented in Australia.",0,0,0,N,0,0,N,N,N,0,N
+125,"Once treated with anti-VEGF, signs of nAMD may not be visible on colour fundus images.",0,0,0,N,0,0,N,N,N,0,N
+126,"Therefore, to improve the accuracy of diagnosis and correctly identify those who are receiving treatment with intravitreal ranibizumab and aflibercept between ASPREE-AMD baseline and follow-up time points, additional information will be obtained from two sources to ensure the development of nAMD is captured: participant self-reported adverse events validated through medical records and the National Medicare data on intravitreal ranibizumab and aflibercept prescriptions being approved for nAMD treatment during the study period.",0,0,0,N,0,0,N,N,N,0,N
+127,"These data will not capture those participants who are being treated with bevacizumab, an off label drug used for nAMD.",0,0,0,N,0,0,N,N,N,0,N
+128,"As ranibizumab and aflibercept are fully subsidized through the pharmaceutical benefits scheme (PBS) in Australia for treatment of subfoveal nAMD, treatment with bevacizumab is likely to be uncommon.",0,0,0,N,0,0,N,N,N,0,N
+129,"As anti-VEGF treatment via the PBS is used now for other retinal conditions as well, the diagnosis of AMD will be validated via medical records and the collected data on adverse events.",0,0,0,N,0,0,N,N,N,0,N
+130,"The data on anti-VEGF medications for nAMD will be collected for all ASPREE participants (not just those in ASPREE-AMD), as consent for their retrospective information to be obtained from Medicare is included in the ASPREE protocol, and this will provide an additional opportunity to conduct analysis on the effect of aspirin on the incidence of nAMD on a sample which will be considerably larger than the sample photographed as part of ASPREE-AMD.",0,0,0,N,0,0,N,N,N,0,N
+131,3.1.7</span>.,0,0,0,N,0,0,N,N,N,0,N
+132,Definitions of AMD,0,0,0,N,0,0,N,N,N,0,N
+133,"The following Beckman risk categories of AMD will be used in the analysis <a href=""#bib50"">[50]</a>:",0,0,0,N,0,0,N,N,N,0,N
+134,•</span>.,0,0,0,N,0,0,N,N,N,0,N
+135,No apparent aging change: no drusen and no AMD pigmentation abnormalities,0,0,0,N,0,0,N,N,N,0,N
+136,•</span>.,0,0,0,N,0,0,N,N,N,0,N
+137,Normal aging changes: only drupelets (small drusen &lt;63 μm) and no AMD pigmentation abnormalities,0,0,0,N,0,0,N,N,N,0,N
+138,•</span>.,0,0,0,N,0,0,N,N,N,0,N
+139,Early AMD: Medium drusen (≥63 μm - &lt;125 μm) with no AMD pigmentation abnormalities,0,0,0,N,0,0,N,N,N,0,N
+140,•</span>.,0,0,0,N,0,0,N,N,N,0,N
+141,Intermediate AMD: Medium drusen (≥63 μm - &lt;125 μm) with AMD pigmentation abnormalities or large drusen (≥125 μm),0,0,0,N,0,0,N,N,N,0,N
+142,•</span>.,0,0,0,N,0,0,N,N,N,0,N
+143,Advanced AMD: neovascular AMD (nAMD) or geographic atrophy,0,0,0,N,0,0,N,N,N,0,N
+144,3.1.8</span>.,0,0,0,N,0,0,N,N,N,0,N
+145,Primary outcome measures,0,0,0,N,0,0,N,N,N,0,N
+146,1) Incident AMD.</span> Any case that progresses from bilateral ‘normal’ or ‘normal aging change’ to any grade of AMD in at least one eye will be classified as incident AMD.,0,0,0,N,0,0,N,N,N,0,N
+147,2) Progression of AMD.</span> An increase in the AMD severity status from early or intermediate AMD in either eye will be classified as AMD progression.,0,0,0,N,0,0,N,N,N,0,N
+148,Regression of AMD stage will also be documented.,0,0,0,N,0,0,N,N,N,0,N
+149,3.1.9</span>.,0,0,0,N,0,0,N,N,N,0,N
+150,Future genetic and inflammatory biomarker analyses,0,0,0,N,0,0,N,N,N,0,N
+151,"Another sub-study of the principal ASPREE study, the ASPREE Healthy Ageing Biobank (<a href=""http://www.aspree.org"">www.aspree.org</a>), in parallel with ASPREE-AMD, collects, processes and stores components of blood and urine samples at baseline and at year 3 in the trial, with serum, EDTA plasma, sodium citrate plasma, red blood cells and buffy coat aliquots stored for future biomarker and genotyping analysis.",0,0,0,N,0,0,N,N,N,0,N
+152,"Association studies will be conducted in relation to potential biomarker variables (inflammatory markers, AMD-related genetic polymorphisms) and AMD incidence and progression, as well as their possible influence on the effect of aspirin on the primary outcomes.",0,0,0,N,0,0,N,N,N,0,N
+153,3.2</span>.,0,0,0,N,0,0,N,N,N,0,N
+154,Statistical analysis,0,0,0,N,0,0,N,N,N,0,N
+155,3.2.1</span>.,0,0,0,N,0,0,N,N,N,0,N
+156,Sample size and study power,0,0,0,N,0,0,N,N,N,0,N
+157,"No single population-based study provided all relevant information that we required for sample size calculations, hence we used data from several studies.",0,0,0,N,0,0,N,N,N,0,N
+158,"Prevalence estimates:</span> we used the results from the cross-sectional European Eye Study, conducted on participants of similar ethnic origin and similar age (65 years or older), and also used digital images of the retina <a href=""#bib51"">[51]</a>.",0,0,0,N,0,0,N,N,N,0,N
+159,"The study found that approximately half of the participants had no AMD, about one third had medium drusen (early AMD) and about 15% had large drusen (intermediate AMD).",0,0,0,N,0,0,N,N,N,0,N
+160,"From an expected sample of 5000 ASPREE-AMD participants with gradable images at baseline, excluding an estimated 2% with existing ‘late AMD’ at baseline and allowing for a 4% per annum attrition, the cohort will have 3995 participants at 5-year follow-up.",0,0,0,N,0,0,N,N,N,0,N
+161,"Incidence estimates:</span> Based on the age-specific data (70–79 and 80+ years) from the population-based longitudinal Melbourne Visual Impairment Project (VIP), also conducted in Victoria, Australia, among an estimated 1998 participants with no AMD at baseline (estimated to be 50% of 3995 followed-up participants), the expected 5-year incidence of early and intermediate AMD (combined) is approximately 20% <a href=""#bib52"">[52]</a>.",0,0,0,N,0,0,N,N,N,0,N
+162,Progression estimates:,0,0,0,N,0,0,N,N,N,0,N
+163,"(i)</span> Among an estimated 1398 participants with early AMD (medium size drusen) at baseline (35% of 3995 participants), we expect 35% to have 5-year progression to intermediate AMD.",0,0,0,N,0,0,N,N,N,0,N
+164,"For this estimate we used the only available data - the AREDS study finding that medium sized drusen (63–125 μm) progress in five years to large drusen (≥125 μm) at the rate of 20% if drusen are in one eye only and at the rate of 50% if drusen are in both eyes <a href=""#bib50"">[50]</a>.",0,0,0,N,0,0,N,N,N,0,N
+165,"As there is no data on the proportion of unilateral and bilateral drusen in a population aged 70 years or older, we took an average of 35%.",0,0,0,N,0,0,N,N,N,0,N
+166,"(ii)</span> Among an estimated 1998 participants with either early AMD or intermediate AMD at baseline, we expect at least 4% to progress to late AMD, based on the published late AMD incidence rates amongst people 70 years or older in two longitudinal studies, the Melbourne VIP and Blue Mountains Eye Study (BMES), both conducted in the Australian population <a href=""#bib52"">[52]</a>, <a href=""#bib53"">[53]</a>.",0,0,0,N,0,0,N,N,N,0,N
+167,"Based on these estimates, our study will provide 80% power with two-sided alpha of 0.05 to detect: (1) 24% reduction of early/intermediate AMD incidence, (2) 20% reduction of progression from early to intermediate stage of disease and (3) 53% reduction of progression from early or intermediate stage to late stage.",0,0,0,N,0,0,N,N,N,0,N
+168,"The detectable 5-year changes between the placebo and aspirin treatment groups in incidence and progression of AMD are provided in <a href=""#tbl3"">Table 3</a>.",0,0,0,N,0,0,N,N,N,0,N
+169,"Competing risks of death and debilitating diseases that might cause differential survivorship in study arms will be considered in the analysis <a href=""#bib54"">[54]</a>, <a href=""#bib55"">[55]</a>.",0,0,0,N,0,0,N,N,N,0,N
+170,"See full table</a></span><span class=""fig-label"">Table 3.",0,0,0,N,0,0,N,N,N,0,N
+171,</span>Detectable risk reduction (%) in 3995 participants with gradable images free of late AMD at baseline in cumulative 5-year incidence or progression of AMD.,0,0,0,N,0,0,N,N,N,0,N
+172,"Our power calculation describes percent reductions that can be detected with 80% power based on the observed effects, which are innately weaker than the “true” effect that could exist if everyone remained on their randomized treatment.",0,0,0,N,0,0,N,N,N,0,N
+173,"Therefore, a naturally occurring incomplete compliance has been incorporated in the estimates.",0,0,0,N,0,0,N,N,N,0,N
+174,"The reasons for non-compliance include the development of a non-fatal, non-disabling cardiovascular or cerebrovascular event necessitating aspirin therapy.",0,0,0,N,0,0,N,N,N,0,N
+175,"Thus, the ASPREE protocol specifies an expectation that 5% per annum of placebo-group participants will initiate aspirin use and similarly that 5% of aspirin-group participants will cease taking study medication and not commence open-label aspirin use.",0,0,0,N,0,0,N,N,N,0,N
+176,3.2.2</span>.,0,0,0,N,0,0,N,N,N,0,N
+177,Statistical analysis plan,0,0,0,N,0,0,N,N,N,0,N
+178,"The primary analyses will be conducted using the intention-to-treat principle, <span class=""italic"">i.e.</span> according to the group to which participants were randomized and without reference to their actual compliance with assigned treatment.",0,0,0,N,0,0,N,N,N,0,N
+179,"We will use the grading data from the participants with baseline and 5-year images and apply log-binomial regression models to directly compare event rates between treatment groups, to assess the effect of aspirin on the outcomes: AMD incidence and progression.",0,0,0,N,0,0,N,N,N,0,N
+180,"Each model will be applied to the relevant eligible participant subset (see <a href=""#tbl3"">Table 3</a> for expected numbers) and the models will include a binary covariate to indicate randomization to aspirin or placebo; the parameter for this covariate can be translated as the estimated rate ratio for aspirin.",0,0,0,N,0,0,N,N,N,0,N
+181,"Secondary analyses will apply the same models but with adjustment for age, sex and smoking status at baseline, and further analyses will also adjust for any variables predictive of AMD progression and found to be different between the two groups at baseline.",0,0,0,N,0,0,N,N,N,0,N
+182,An exploratory analysis will be undertaken to determine whether aspirin is associated with increased risk of retinal hemorrhages.,0,0,0,N,0,0,N,N,N,0,N
+183,"Given the large sample size, we anticipate that randomization will adequately balance baseline characteristics of participants between the two treatment groups.",0,0,0,N,0,0,N,N,N,0,N
+184,"However, the use of aspirin may affect survivorship itself, which plays a major role in AMD statistics.",0,0,0,N,0,0,N,N,N,0,N
+185,"Therefore, if the follow-up loss of retinal data due to death and disability is found to be unbalanced between the study arms, it will be included in the statistical model as a competing risk <a href=""#bib55"">[55]</a>.",0,0,0,N,0,0,N,N,N,0,N
+186,"To assess sensitivity to participant dropout, the analyses will be repeated within a multiple imputation process, in which the imputation model will include 3-year image information, baseline characteristics and 5-year outcomes.",0,0,0,N,0,0,N,N,N,0,N
+187,"Additionally, an analysis will be undertaken using baseline, 3-year and 5-year information from each participant in mixed effect models that are extensions of the log-binomial regression models with the inclusion of a random effect for participant to allow for intra-person correlation in outcome over time.",0,0,0,N,0,0,N,N,N,0,N
+188,A ‘per protocol’ analysis will also be conducted for each outcome using the recorded data on study drug compliance and commencement of open-label aspirin use during follow-up with the aim of estimating complier-averaged causal effects of aspirin.,0,0,0,N,0,0,N,N,N,0,N
+189,The results of both Intention-To-Treat and “per protocol” analyses will be reported.,0,0,0,N,0,0,N,N,N,0,N
+190,3.2.3</span>.,0,0,0,N,0,0,N,N,N,0,N
+191,Pre-specified sub-group analyses,0,0,0,N,0,0,N,N,N,0,N
+192,Subgroup analyses will use interaction terms involving the randomization covariate to examine whether variations in systemic diseases and inflammatory biomarker status influence the effect of aspirin on AMD.,0,0,0,N,0,0,N,N,N,0,N
+193,Pre-specified subgroup analyses will be undertaken by age and smoking status:,0,0,0,N,0,0,N,N,N,0,N
+194,"a)</span> Age below and above study median: The balance of the AMD-related risks and benefits due to aspirin may differ between age groups as a result of different rates of mortality, cardiovascular risk, cognitive decline, other disability and risk of adverse effects.",0,0,0,N,0,0,N,N,N,0,N
+195,b)</span> Smoking: Current versus Never or Former smokers.,0,0,0,N,0,0,N,N,N,0,N
+196,Smoking is a major well-proven external risk factor for AMD.,0,0,0,N,0,0,N,N,N,0,N
+197,The effect of aspirin may be different in smokers and non-smokers.,0,0,0,N,0,0,N,N,N,0,N
+198,Reporting of aspirin effects will be stratified by any covariate found to hold an interaction with the randomization variable.,0,0,0,N,0,0,N,N,N,0,N
+199,We will also look in the future at common genetic variants associated with AMD and determine if the effect of aspirin was influenced by the genotype.,0,0,0,N,0,0,N,N,N,0,N
+200,4</span>.,0,0,0,N,0,0,N,N,N,0,N
+201,Discussion,0,0,0,N,0,0,N,N,N,0,N
+202,"In addition to its anti-inflammatory, antipyretic and analgesic qualities, aspirin, as a drug proven for the secondary prevention of occlusive cardiovascular events, has become the world's most widely used pharmaceutical drug, particularly by older adults.",0,0,0,N,0,0,N,N,N,0,N
+203,AMD is the most common cause of vision impairment in people over the age of 50 years in our community and it has profound effects on vision and quality of life.,0,0,0,N,0,0,N,N,N,0,N
+204,The ASPREE-AMD randomized clinical trial provides a unique opportunity to examine whether long-term low-dose aspirin influences the incidence or progression of AMD.,0,0,0,N,0,0,N,N,N,0,N
+205,"Aspirin is established for the management of acute cardiovascular diseases (CVD) and their secondary prevention <a href=""#bib56"">[56]</a>, <a href=""#bib57"">[57]</a>, <a href=""#bib58"">[58]</a>, <a href=""#bib59"">[59]</a>.",0,0,0,N,0,0,N,N,N,0,N
+206,"The role of aspirin in primary prevention of CVD is less defined and is currently under further investigation <a href=""#bib44"">[44]</a>, <a href=""#bib54"">[54]</a>, <a href=""#bib60"">[60]</a>, <a href=""#bib61"">[61]</a>, <a href=""#bib62"">[62]</a>, <a href=""#bib63"">[63]</a>, <a href=""#bib64"">[64]</a>.",0,0,0,N,0,0,N,N,N,0,N
+207,"Nevertheless, it is widely used by older adults, with 20%–50% of older persons in the USA, without cardiovascular disease, being regular users of aspirin <a href=""#bib65"">[65]</a>, <a href=""#bib66"">[66]</a>.",0,0,0,N,0,0,N,N,N,0,N
+208,"The role of low dose aspirin in cancer prevention and management is also under investigation <a href=""#bib65"">[65]</a>, <a href=""#bib67"">[67]</a>, <a href=""#bib68"">[68]</a>, <a href=""#bib69"">[69]</a>, <a href=""#bib70"">[70]</a>.",0,0,0,N,0,0,N,N,N,0,N
+209,"A number of studies have been undertaken to establish the association of aspirin with the incidence and progression of AMD, but the results have been inconsistent.",0,0,0,N,0,0,N,N,N,0,N
+210,"Self-reported data from two large randomized controlled trials suggest a beneficial effect of aspirin on AMD <a href=""#bib17"">[17]</a>, <a href=""#bib18"">[18]</a>.",0,0,0,N,0,0,N,N,N,0,N
+211,"Recently, considerable publicity was given to the results of cross-sectional and cohort studies, which reported that aspirin exacerbated the AMD process and contributed to blindness <a href=""#bib20"">[20]</a>, <a href=""#bib21"">[21]</a>, <a href=""#bib22"">[22]</a>.",0,0,0,N,0,0,N,N,N,0,N
+212,"In the latest report from the Blue Mountains Eye Study (BMES), the 15-year cumulative nAMD incidence was 9.3% in aspirin users and 3.7% in nonusers.",0,0,0,N,0,0,N,N,N,0,N
+213,Users were defined as those who took aspirin (doses were not recorded) once or more per week in the year before the baseline.,0,0,0,N,0,0,N,N,N,0,N
+214,"Adjusted for age, sex, smoking, history of cardiovascular disease, systolic blood pressure, and body mass index, nAMD was associated with regular use of aspirin (OR 2.46; 95% CI, 1.25–4.83).",0,0,0,N,0,0,N,N,N,0,N
+215,"In this study, aspirin use was not updated at follow-up examinations and the systemic survival bias could have affected the results, as 46% participants from the original BMES cohort were not available for the 15-year follow-up.",0,0,0,N,0,0,N,N,N,0,N
+216,Aspirin users may have had prolonged survival rates allowing them to develop AMD.,0,0,0,N,0,0,N,N,N,0,N
+217,Competing risks of death were not adjusted for in the BMES study.,0,0,0,N,0,0,N,N,N,0,N
+218,"Thus, the risk/benefit profile of aspirin use with respect to AMD remains unanswered.",0,0,0,N,0,0,N,N,N,0,N
+219,"These issues are important given that aspirin is already the world's most widely used therapeutic agent, being taken regularly by more than 100 million individuals <a href=""#bib71"">[71]</a>.",0,0,0,N,0,0,N,N,N,0,N
+220,"The principal ASPREE trial will be informative on the use of aspirin in primary prevention of death, physical and cognitive disability in an elderly population, whilst ASPREE-AMD will clarify whether aspirin is efficacious as a primary prevention for AMD and useful in slowing its progression.",0,0,0,N,0,0,N,N,N,0,N
+221,"Additionally, it will allow the question regarding a possible increased risk of retinal hemorrhage associated with nAMD to be addressed.",0,0,0,N,0,0,N,N,N,0,N
+222,"The ASPREE-AMD study differs from other studies in that it is a randomized controlled trial, with photo-documented detailed AMD assessment and a large sample size in the at-risk, relatively healthy, participants aged 70 years or older.",0,0,0,N,0,0,N,N,N,0,N
+223,"The strong detailed records of the exposure data, which include checking the routine of pill taking at every 3-monthly phone calls and counting untaken pills in the returned containers, add weight to the study merit.",0,0,0,N,0,0,N,N,N,0,N
+224,"As part of ASPREE, other health outcomes will be captured, which can be used when interpreting the ASPREE-AMD results.",0,0,0,N,0,0,N,N,N,0,N
+225,"A weakness of this study is the reliance upon only non-stereoscopic colour fundus photography to diagnose AMD, without the added benefit of multimodal imaging, such as optical coherence tomography, auto-fluorescence and infrared imaging that would allow for more thorough phenotyping.",0,0,0,N,0,0,N,N,N,0,N
+226,"In particular, our ability to detect reticular pseudo-drusen, a risk factor for progression to late AMD, is limited.<a href=""#bib72"">[72]</a>, <a href=""#bib73"">[73]</a>, <a href=""#bib74"">[74]</a> However, the randomization should ensure equal distribution of this limitation across both groups.",0,0,0,N,0,0,N,N,N,0,N
+227,"Another weakness of reliance upon colour imaging is that nAMD may not be detectable on colour images due to the use of anti-VEGF treatment, which can lead to underestimation of the number of nAMD cases.",0,0,0,N,0,0,N,N,N,0,N
+228,"This will be mitigated by including information collected through registered adverse events in ASPREE, validated through medical records, and also from linking the ASPREE-AMD data to Australian Federal Government Medicare electronic records on the use of the anti-VEGF intravitreal injections.",0,0,0,N,0,0,N,N,N,0,N
+229,5</span>.,0,0,0,N,0,0,N,N,N,0,N
+230,Conclusion,0,0,0,N,0,0,N,N,N,0,N
+231,The results of the study are likely to be of substantial clinical significance and public health importance due to a potential for the ASPREE-AMD sub-study to identify a possible low cost therapy for the prevention or slowing progression of AMD worldwide.,0,0,0,N,0,0,N,N,N,0,N
+232,"The large size of the trial will also provide information that may indicate sub-groups of people who could benefit more, or less, than the overall population.",0,0,0,N,0,0,N,N,N,0,N
+233,"Similarly, the trial will establish how the presence of various common co-morbidities influences the risk/benefit of aspirin.",0,0,0,N,0,0,N,N,N,0,N
+234,"Funding</span>: The principal ASPREE study has been supported by the National Health and Medical Research Council, Australia (NHMRC) [grant #334047], the National Institutes of Health (NIH) through the National Institute on Aging [grant #RO1-AG029824], the Victorian Cancer Agency (Victorian Government, Australia) and Monash University.",1,0,0,N,0,0,N,N,N,1,N
+235,Bayer Schering Pharma provided aspirin and matching placebo.,1,0,0,N,0,0,N,N,N,0,N
+236,"The ASPREE-AMD study has been supported by the NHMRC [grant #1051625], the NIH through the National Eye Institute [grant #RO1- 1R01EY026890 – 01], the Phyllis Connor Memorial Trust and Eric Ormond Baker Charitable Trust.",1,0,0,N,0,0,N,N,N,0,N
+237,CERA receives Operational Infrastructure Support from the Victorian Government.,1,0,0,N,0,0,N,N,N,0,N
+238,RG is supported by the NHMRC Research Fellowship (#1103013).,1,0,0,N,0,0,N,N,N,0,N
+239,"The funders had no role in study design, data collection, decision to publish or preparation of this manuscript.",0,0,0,N,0,0,N,N,N,0,N
+240,Other acknowledgements</span>: The investigators acknowledge the work of all ASPREE retinal photographers and field research staff members who conduct study visits and collect data from ASPREE participants.,0,0,0,N,0,0,N,N,N,0,N
+241,The investigators also acknowledge the valued contribution of the ASPREE participants and the support from their general practitioners.,0,0,0,N,0,0,N,N,N,0,N
+242,"Articles from Contemporary Clinical Trials Communications are provided here courtesy of <span class=""bold"">Elsevier",0,0,0,N,0,0,N,N,N,0,N
+243,PMC Copyright Notice,0,0,0,N,0,0,N,N,N,0,N
+244,"The articles available from the PMC site are protected by copyright, even though access is free.",0,0,0,N,0,0,N,N,N,0,N
+245,Copyright is held by the respective authors or publishers who provide these articles to PMC.,0,0,0,N,0,0,N,N,N,0,N
+246,Users of PMC are responsible for complying with the terms and conditions defined by the copyright holder.,0,0,0,N,0,0,N,N,N,0,N
+247,"Users should assume that standard copyright protection applies to articles in PMC, unless an article contains an explicit license statement that gives a user additional reuse or redistribution rights.",0,0,0,N,0,0,N,N,N,0,N
+248,PMC does not allow automated/bulk downloading of articles that have standard copyright protection.,0,0,0,N,0,0,N,N,N,0,N
+249,"See the copyright notice on the PMC site, <a href=""https://www.ncbi.nlm.nih.gov/pmc/about/copyright/"">https://www.ncbi.nlm.nih.gov/pmc/about/copyright/</a>, for further details and specific exceptions.",0,0,0,N,0,0,N,N,N,0,N

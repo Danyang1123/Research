@@ -1,0 +1,206 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Primary angle-closure glaucoma is a leading cause of irreversible blindness worldwide.,0,0,0,0,N,N,0,0,0,0,0
+1,"In early-stage disease, intraocular pressure is raised without visual loss.",0,0,0,0,N,N,0,0,0,0,0
+2,"Because the crystalline lens has a major mechanistic role, lens extraction might be a useful initial treatment.",0,0,0,0,N,N,0,0,0,0,0
+3,"From Jan 8, 2009, to Dec 28, 2011, we enrolled patients from 30 hospital eye services in five countries.",0,0,1,0,N,N,0,0,0,0,0
+4,Randomisation was done by a web-based application.,0,0,1,0,N,N,0,0,0,0,0
+5,Patients were assigned to undergo clear-lens extraction or receive standard care with laser peripheral iridotomy and topical medical treatment.,0,0,1,0,N,N,0,0,0,0,0
+6,"Eligible patients were aged 50 years or older, did not have cataracts, and had newly diagnosed primary angle closure with intraocular pressure 30 mm Hg or greater or primary angle-closure glaucoma.",1,0,1,0,N,N,0,0,0,1,0
+7,"The co-primary endpoints were patient-reported health status, intraocular pressure, and incremental cost-effectiveness ratio per quality-adjusted life-year gained 36 months after treatment.",0,0,1,0,N,N,0,0,0,0,0
+8,Analysis was by intention to treat.,0,0,0,0,N,N,0,0,1,0,0
+9,"This study is registered, number ISRCTN44464607.",0,0,0,0,N,N,0,0,0,0,0
+10,"Of 419 participants enrolled, 155 had primary angle closure and 263 primary angle-closure glaucoma.",1,0,0,0,N,N,0,0,0,0,0
+11,"208 were assigned to clear-lens extraction and 211 to standard care, of whom 351 (84%) had complete data on health status and 366 (87%) on intraocular pressure.",0,0,0,0,N,N,0,0,0,0,0
+12,"The mean health status score (0·87 [SD 0·12]), assessed with the European Quality of Life-5 Dimensions questionnaire, was 0·052 higher (95% CI 0·015–0·088, p=0·005) and mean intraocular pressure (16·6 [SD 3·5] mm Hg) 1·18 mm Hg lower (95% CI –1·99 to –0·38, p=0·004) after clear-lens extraction than after standard care.",0,0,0,0,N,N,0,0,0,0,0
+13,The incremental cost-effectiveness ratio was £14 284 for initial lens extraction versus standard care.,0,0,0,0,N,N,0,0,0,0,0
+14,Irreversible loss of vision occurred in one participant who underwent clear-lens extraction and three who received standard care.,0,0,0,0,N,N,0,0,0,0,0
+15,No patients had serious adverse events.,0,0,0,0,N,N,0,0,0,0,0
+16,"Clear-lens extraction showed greater efficacy and was more cost-effective than laser peripheral iridotomy, and should be considered as an option for first-line treatment.",0,0,0,0,N,N,0,0,0,0,0
+17,"WHO ranks glaucoma as the leading cause of irreversible blindness, and prevalence is expected to increase substantially: compared with 20 million people who have primary angle-closure glaucoma now, by 2040, 34 million people will be affected, of whom 5·3 million will be blind.",0,0,0,0,N,N,0,0,0,0,0
+18,The prevalence of primary angle-closure glaucoma is highest in people of east Asian origin.Blindness is costly to individuals and society.,0,0,0,0,N,N,0,0,0,0,0
+19,"Although most people with glaucoma do not become blind, many have substantially impaired quality of life due to restricted peripheral vision and the need for long-term treatment.",0,0,0,0,N,N,0,0,0,0,0
+20,"Glaucoma has two subtypes, open angle and angle closure, in which the drainage pathway (trabecular meshwork at the anterior chamber angle) is blocked or not, respectively.",0,0,0,0,N,N,0,0,0,0,0
+21,"Although primary open-angle glaucoma is more common, primary angle-closure glaucoma is more severe and more likely to result in irreversible blindness if not properly treated.",0,0,0,0,N,N,0,0,0,0,0
+22,Early and effective interventions are important.,0,0,0,0,N,N,0,0,0,0,0
+23,"In the early stage of the disease, primary angle closure is accompanied by high intraocular pressure but no visual loss.",0,0,0,0,N,N,0,0,0,0,0
+24,"The standard of care for primary angle closure and primary angle-closure glaucoma is laser peripheral iridotomy to open the drainage pathways and medical management with eye drops to reduce intraocular pressure.If the disease remains uncontrolled, surgery, often trabeculectomy, is indicated, which is associated with potentially serious complications.",0,0,0,0,N,N,0,0,0,0,0
+25,"Surgical lens extraction, as used in managing age-related cataract, is an alternative approach for the management of primary angle-closure glaucoma.",0,0,0,0,N,N,0,0,0,0,0
+26,"Age-related growth of the lens plays a major part in the mechanisms leading to primary angle-closure glaucoma, and lens extraction is used routinely in patients with coexisting cataract.",0,0,0,0,N,N,0,0,0,0,0
+27,"However, the efficacy and safety of this treatment in people with primary angle-closure glaucoma without cataract has not been fully assessed.",0,0,0,0,N,N,0,0,0,0,0
+28,"If lens extraction could control the condition, the need for medications and subsequent glaucoma surgery should be reduced.",0,0,0,0,N,N,0,0,0,0,0
+29,"Furthermore, clear-lens extraction could help to maintain good visual acuity and improve quality of life by correcting hypermetropic refractive error, which frequently affects these patients, and reduce the need for wearing spectacles.",0,0,0,0,N,N,0,0,0,0,0
+30,"Weighing against initial clear-lens extraction, though, are the potential risks of severe complications associated with intraocular surgery.",0,0,0,0,N,N,0,0,0,0,0
+31,We identified a Cochrane systematic review that had not found any relevant randomised controlled trials.,0,0,0,0,N,N,0,0,0,0,0
+32,"We also searched the National Research Register, Current Controlled Trials, ClinicalTrials.gov, the WHO International Clinical Trial Registry, MEDLINE, Embase, the Science Citation Index, Biosis, CENTRAL, and Scopus In Press with the following terms: “glaucoma”, “angle-closure”, “PACG”, “phacoemulsification”, “lens extraction”, and “lens removal” for papers published from inception until June 30, 2007.",0,0,0,0,N,N,0,0,0,0,0
+33,"We updated our searches during the trial, with the last being done in January, 2016.",0,0,0,0,N,N,0,0,0,0,0
+34,We found no trials assessing early (clear) lens extraction as the primary treatment for chronic primary angle-closure glaucoma.,1,0,0,0,N,N,0,0,0,0,0
+35,"We identified clinical trials that had assessed interventions for primary angle-closure glaucoma, but they studied different populations (eg, patients with cataract or after acute attacks of angle closure), lens extraction after other treatments had failed to control the disease, or both.",0,0,0,0,N,N,0,0,0,0,0
+36,This large multicentre randomised controlled trial provides evidence supporting the use of initial clear-lens extraction as a first-line intervention for primary angle-closure glaucoma and primary angle closure with high intraocular pressure.,0,0,0,0,N,N,0,0,0,0,0
+37,Implications of all the available evidence,0,0,0,0,N,N,0,0,0,0,0
+38,Laser peripheral iridotomy as the initial treatment for angle-closure glaucoma should be reconsidered.,0,0,0,0,N,N,0,0,0,0,0
+39,"This study provides robust evidence that initial clear-lens extraction is associated with better clinical and patient-reported outcomes, and that this approach is likely to be cost-effective in a publicly funded health system.",0,0,0,0,N,N,0,0,0,0,0
+40,"We did a multicentre, randomised, controlled trial to assess the efficacy, safety, and cost-effectiveness of clear-lens extraction compared with laser peripheral iridotomy and topical medical treatment as first-line therapy in people with newly diagnosed primary angle closure with raised intraocular pressure or primary angle-closure glaucoma (ie, those at the highest risk of visual loss).",0,0,0,0,N,N,0,0,0,0,0
+41,"We tested the hypothesis that initial clear-lens extraction would be associated with better quality of life, lower intraocular pressure, and less need for glaucoma surgery at 36 months than standard care.",0,0,0,0,N,N,0,0,0,0,0
+42,The protocol of the study has been published.,0,0,0,0,N,N,0,0,0,0,0
+43,"We did this multicentre, comparative effectiveness, randomised, controlled trial in 30 hospital eye services in five countries: Australia (one hospital), mainland China (one), Hong Kong (two), Malaysia (two), Singapore (two), and the UK (22).",0,0,0,0,N,N,0,0,0,0,0
+44,"We recruited patients who were phakic, aged 50 years or older (to limit the effect of loss of accommodation associated with clear-lens extraction), and had newly diagnosed primary angle closure with intraocular pressure 30 mm Hg or greater or primary angle-closure glaucoma.",1,0,0,0,N,N,0,0,0,0,0
+45,"Primary angle closure was defined as iridotrabecular contact, either appositional or synechial, of at least 180° on gonioscopy, and primary angle-closure glaucoma as reproducible glaucomatous visual field defects, glaucomatous optic neuropathy, or both, and intraocular pressure greater than 21 mm Hg on at least one occasion.",0,0,0,0,N,N,0,0,0,0,0
+46,"Patients with symptomatic cataract, advanced glaucoma (mean deviation worse than –15 dB or cup-to-disc ratio ≥0·9), or previous acute angle-closure attack or who had undergone previous laser or ocular surgery were excluded.",0,0,0,0,N,N,0,0,0,0,0
+47,An ophthalmologist identified eligible patients and those informed about the study were noted in a log book.,0,0,0,0,N,N,0,0,0,0,0
+48,People willing to participate completed clinical measurements and study questionnaires at baseline.,0,0,0,0,N,N,0,0,0,0,0
+49,The study adhered to the tenets of the Declaration of Helsinki and was approved by local institutional review boards.,0,0,0,0,N,N,0,0,0,0,0
+50,Study participants provided written informed consent.,0,0,0,0,N,N,0,0,0,0,0
+51,An independent data monitoring committee and an independent trial steering committee provided oversight.,0,0,0,0,N,N,0,0,0,0,0
+52,"The randomisation schedule was created with a web-based application at the Centre for Healthcare Randomised Trials, University of Aberdeen, Aberdeen, UK.",0,1,0,0,N,N,0,0,0,0,0
+53,"The randomisation algorithm used sex, centre, ethnic origin (Chinese or non-Chinese), diagnosis, and one or both eyes suitable for treatment as minimisation covariates.",0,1,0,0,N,N,0,0,0,0,0
+54,"Outcomes assessors were masked when possible, as described later.",0,0,0,0,N,N,1,0,0,0,0
+55,Patients were assigned in equal proportions to treatment with clear-lens extraction or laser peripheral iridotomy and topical medical treatment (standard care).,0,0,0,0,N,N,0,0,0,0,0
+56,Enrolment and randomisation was done by the local ophthalmologists.,0,0,0,0,N,N,0,0,0,0,0
+57,Topical medications started at the time of diagnosis were continued and the interventions were performed within 60 days of randomisation.,0,0,0,0,N,N,0,0,0,0,0
+58,"If both of a patient's eyes were suitable for treatment, they were treated in the same way but data for the eye with more severe disease was used in the analysis of eye-level outcomes.",0,0,0,0,N,N,0,0,0,0,0
+59,"If only one eye was suitable for treatment, the other was managed according to the clinical judgment of the ophthalmologist.",0,0,0,0,N,N,0,0,0,0,0
+60,Participants assigned to clear-lens extraction underwent phacoemulsification with a monofocal intraocular lens implant.,0,0,0,0,N,N,0,0,0,0,0
+61,Temporary treatment with eye drops was allowed while patients were awaiting surgery.,0,0,0,0,N,N,0,0,0,0,0
+62,Synechiolysis was allowed according to local practice.,0,0,0,0,N,N,0,0,0,0,0
+63,Fully qualified ophthalmologists who had completed general training in ophthalmology and specialist training in glaucoma did the surgeries.,0,0,0,0,N,N,0,0,0,0,0
+64,Laser iridoplasty was allowed after standard care if angle closure persisted.,0,0,0,0,N,N,0,0,0,0,0
+65,A target intraocular pressure of 15–20 mm Hg was set at baseline dependent on the degree of optic nerve damage.,0,0,0,0,N,N,0,0,0,0,0
+66,"Topical medical therapy could be escalated (ie, by increasing the number of medications) to achieve this target.",0,0,0,0,N,N,0,0,0,0,0
+67,"If maximum medical therapy did not control the intraocular pressure, the ophthalmologist could offer and choose the type of glaucoma surgery.",0,0,0,0,N,N,0,0,0,0,0
+68,"The need for glaucoma surgery was classified as a treatment failure, but participants remained in the trial.",0,0,0,0,N,N,0,0,0,0,0
+69,"Patients assigned to standard care could undergo lens extraction during the study period only when indicated clinically for reduced vision (ie, cataract surgery) or if the treating ophthalmologist judged that lens extraction could help control the intraocular pressure.",0,0,0,0,N,N,0,0,0,0,0
+70,"We measured health status with the European Quality of Life-5 Dimensions (EQ-5D) questionnaire, which assesses five dimensions of health (mobility, self-care, usual activity, pain or discomfort, and anxiety or depression) at three levels (no problems, some problems, extreme problems).",0,0,0,0,N,N,0,0,0,0,0
+71,"Each of the 243 health states that may be described by the instrument can be assigned a single preference-based utility score, which we calculated with the UK general population tariff for time trade-off.",0,0,0,0,N,N,0,0,0,0,0
+72,"The questionnaires were self-reported by patients, who were aware of treatment allocation.",0,0,0,0,N,N,0,0,0,0,0
+73,Intraocular pressure was taken to be the average of two readings by Goldmann tonometry.,0,0,0,0,N,N,0,0,0,0,0
+74,"Two observers at each site, following a masking protocol, were involved in the measurements.",0,0,0,0,N,N,0,0,0,0,0
+75,"One observer randomly set the starting force and recorded the pressure values obtained by the other observer, who interacted directly with the patient but did not look at the results on the measurement dial.",0,0,0,0,N,N,0,0,0,0,0
+76,"Outcomes were assessed at baseline and 6, 12, 24, and 36 months after randomisation.",0,0,0,0,N,N,1,0,0,0,0
+77,We captured data on use of UK National Health Service (NHS) resources with the use of case report forms.,0,0,0,0,N,N,0,0,0,0,0
+78,"Results of all eye procedures and outpatient follow-up assessments and use of all medications for UK patients were recorded and patients were asked to complete questionnaires during primary care, community nurse, and optometrist visits.",0,0,0,0,N,N,0,0,0,0,0
+79,The results were combined with national unit cost data for the financial year 2012–13 to estimate total costs per participant to 36 months.,0,0,0,0,N,N,0,0,0,0,0
+80,"Total quality-adjusted life-years (QALYs) were calculated for each participant on the basis of their EQ-5D utility scores at baseline and at 6, 12, 24, and 36 months, and we assumed that change in health state use between timepoints would be linear.",0,0,0,0,N,N,0,0,0,0,0
+81,Full details of the economic analysis and modelling to extrapolate cost-effectiveness over longer time periods will be published elsewhere.,0,0,0,0,N,N,0,0,0,0,0
+82,"To assess the effects of vision problems on vision-targeted functioning and health-related quality of life, we used the National Eye Institute Visual Function Questionnaire-25 (NEI-VFQ-25).",0,0,0,0,N,N,0,0,0,0,0
+83,"This questionnaire has 11 subscales and one general health rating question, from which a composite score is generated.",0,0,0,0,N,N,0,0,0,0,0
+84,"Additionally, we used the Glaucoma Utility Index, which provides a descriptive profile in six dimensions: central and near vision, lighting and glare, mobility, activities of daily living, eye discomfort, and other effects of glaucoma and its treatment, each with four levels.",0,0,0,0,N,N,0,0,0,0,0
+85,Best-corrected visual acuity was tested with the Early Treatment Diabetic Retinopathy Study (ETDRS) charts and extension of angle closure was determined by gonioscopy.,0,0,0,0,N,N,0,0,0,0,0
+86,"To test the visual field, we used a standard automated perimetry test (Humphrey SITA 24-2 test).",0,0,0,0,N,N,0,0,0,0,0
+87,"Participants did two tests at baseline and one at 6, 12, 24, and 36 months.",0,0,0,0,N,N,0,0,0,0,0
+88,"Individual disease progression was defined as a worsening of one or more stages according to the Glaucoma Staging System-2, and was decided by graders unaware of participants’ treatment allocations.",0,0,0,0,N,N,0,0,0,0,0
+89,Visual field tests were deemed to be unreliable when false-positive errors were greater than 15%.,0,0,0,0,N,N,0,0,1,0,0
+90,"Any expected or unexpected complications during treatment or at any time during follow-up were recorded on case-report forms and submitted to the data monitoring committee, including loss of best-corrected visual acuity of more than ten ETDRS letters.",0,0,0,0,N,N,0,0,0,0,0
+91,"Serious adverse events were reported in accordance with the guidance from the National Research Ethics Service, which is a subdivision of the National Patient Safety Agency.",0,0,0,0,N,N,0,0,0,0,0
+92,"We calculated that with 170 participants in each group, the study would have 90% power at 5% significance level to detect a difference in mean EQ-5D score of 0·35 SD, which represents an absolute change in score of 0·05 and is likely to be clinically important.",0,0,0,0,N,N,0,1,0,1,0
+93,We estimated that the SD for intraocular pressure at 36 months would be 5 mm Hg and similar in the two randomised groups.We therefore calculated that the study would have 90% power at a 5% level of significance to detect a mean difference of 1·75 mm Hg.,0,0,0,0,N,N,0,1,0,0,0
+94,"Additionally, with the assumption that a maximum of 40% of patients would need glaucoma surgery, the power to detect a difference of 15% in the need for glaucoma surgery would be 80%.",0,0,0,0,N,N,0,1,0,1,0
+95,"Thus, allowing for 15% loss to follow-up at 36 months, we aimed to recruit 400 patients.",0,0,0,0,N,N,0,0,0,0,0
+96,All the main analyses were based on intention to treat (ITT) and were done at the end of the trial.,0,0,0,0,N,N,0,0,1,0,0
+97,Significance was set at 5% in the main analysis and 1% in the subgroup analyses.,0,0,0,0,N,N,0,0,0,0,0
+98,"To assess the primary outcomes, we used a repeated measures mixed effects model to analyse the EQ-5D scores and intraocular pressure,based on the follow-up data obtained at 6, 12, 24, and 36 months.",0,0,0,0,N,N,0,0,0,0,0
+99,Participants with observations from at least one of these timepoints were included in the analyses.,0,0,0,0,N,N,0,0,0,0,0
+100,Baseline EQ-5D scores and intraocular pressure values were used as explanatory variables.,0,0,0,0,N,N,0,0,0,0,0
+101,"The model included fixed effects for sex, ethnic origin, diagnosis, whether glaucoma was present in one or both eyes, and intervention.",0,0,0,0,N,N,0,0,0,0,0
+102,Dummy variables for the timepoint were included to enable investigation of the effects of the interventions at each timepoint.,0,0,0,0,N,N,0,0,0,0,0
+103,Random effects were included for centre and individual.,0,0,0,0,N,N,1,0,0,0,0
+104,The model was extended for subgroup analyses by fitting a dummy variable for each respective subgroup.,0,0,0,0,N,N,0,0,0,0,0
+105,"These dummy variables were used to create further interaction terms to represent the effect of clear-lens extraction in the subgroups at each of the timepoints, expressed as odds ratios and 95% CIs.",0,0,0,0,N,N,0,0,0,0,0
+106,The secondary continuous and binary outcomes were analysed with appropriate generalised linear models.,0,0,0,0,N,N,0,0,0,0,0
+107,The unit of analysis for the clinical outcomes was the treated eye (the worse eye if both were suitable for treatment).,0,0,0,0,N,N,0,0,0,0,0
+108,"For quality of life measures, the unit of analysis was the participant, with bilateral disease included as a fixed effect covariate.",0,0,0,0,N,N,0,0,0,0,0
+109,To account for missing answers in questionnaires we followed the authors’ recommendations.,0,0,0,0,N,N,0,0,0,0,0
+110,"These allow a score to be generated if there are missing questions in the NEI-VFQ-25, whereas for EQ-5D and the glaucoma-specific disability questionnaire, no score is assigned.",0,0,0,0,N,N,0,0,0,0,0
+111,"Planned subgroup analyses used the minimisation variables ethnic origin (Chinese or non-Chinese), diagnosis (primary angle closure or primary angle-closure glaucoma), and unilateral or bilateral disease.",0,0,0,0,N,N,0,0,0,0,0
+112,We added an unplanned subgroup analysis after baseline visual acuity data were assessed to explore the possible difference in the primary outcome between patients with excellent and slightly decreased visual acuity (≥85 ETDRS letters vs <85 ETDRS letters).,0,0,0,0,N,N,0,0,0,0,0
+113,The in-trial cost-effectiveness data were obtained with seemingly unrelated regression adjustment for baseline cost and EQ-5D score.,0,0,0,0,N,N,0,0,0,0,0
+114,We compared mean costs and effects to estimate the incremental cost-effectiveness ratio (ICER) for clear-lens extraction versus standard care.,0,0,0,0,N,N,0,0,0,0,1
+115,"Non-parametric bootstrapping was used to generate 95% CIs for the estimated differences in mean costs and QALYs, and to ascertain the probability of the ICER for the clear-lens extraction approach being cost-effective at different ceiling ratios.",0,0,0,0,N,N,0,0,0,0,0
+116,"In accordance with the guidance of the National Institute for Health and Care Excellence, we report these probabilities at ceiling ratios of £20 000 and £30 000 per QALY gained to represent decision makers’ maximum willingness to pay per QALY gained.",0,0,0,0,N,N,0,0,0,0,0
+117,All analyses were also repeated with a multiple imputation dataset (n=20) generated with the use of chained equations to deal with missing cost and utility data.,0,0,0,0,N,N,0,0,0,0,0
+118,Analyses were done with Stata version 12.,0,0,0,0,N,N,0,0,0,0,0
+119,"This study is registered with the ISRCTN registry, number ISRCTN44464607.",0,0,0,0,N,N,0,0,0,0,0
+120,"The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",0,0,0,0,N,N,0,0,0,0,0
+121,The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit for publication.,0,0,0,0,N,N,0,0,0,0,0
+122,"Of 805 patients assessed, 250 did not meet the inclusion criteria and 136 declined to participate, meaning that 419 individuals were recruited between Jan 8, 2009, and Dec 28, 2011.",0,0,0,1,N,N,0,0,0,0,0
+123,208 were assigned to undergo clear-lens extraction and 211 to receive standard care (figure 1).,0,0,0,1,N,N,0,0,0,0,1
+124,155 (37%) participants had primary angle closure and 263 (67%) had primary angle-closure glaucoma.,0,0,0,1,N,N,0,0,0,0,0
+125,128 (31%) participants were of Chinese and 291 (69%) were of non-Chinese ethnicity.,0,0,0,1,N,N,0,0,0,0,0
+126,In 152 (36%) participants both eyes were suitable for treatment.,0,0,0,1,N,N,0,0,0,0,0
+127,One participant randomly assigned to clear-lens extraction was classified as a crossover.,0,0,0,0,N,N,0,0,0,0,0
+128,"409 (98%) of patients were included in the intention-to-treat analysis (figure 1), with the final visit being held in December, 2014.",0,0,0,0,N,N,0,0,1,0,0
+129,Baseline characteristics were similar in the two treatment groups (table 1).,0,0,0,0,N,N,0,0,0,0,0
+130,"Among participants who underwent clear-lens extraction, 18 (9%) had viscosynechiolysis associated with the surgical procedure.",0,0,0,0,N,N,0,0,0,0,0
+131,"In the standard care group, ten (5%) underwent laser iridoplasty.",0,0,0,0,N,N,0,0,0,0,0
+132,EQ-5D scores and intraocular pressure at 36 months significantly favoured the clear-lens extraction group (table 2).,0,0,0,0,N,N,0,0,0,0,0
+133,The economic analysis was based on 179 of 285 participants recruited in UK centres for whom complete cost and QALY data were available.,0,0,0,0,N,N,0,0,0,0,0
+134,"Of these, 93 were assigned to undergo clear-lens extraction and 86 to receive standard care.",0,0,0,0,N,N,0,0,1,0,1
+135,"Mean adjusted NHS costs were higher with initial clear-lens extraction than with standard care (£2467 vs £1486), resulting in a mean incremental cost of £981 (95% CI 612–1317).",0,0,0,0,N,N,0,0,0,0,0
+136,"The corresponding mean QALYs were also higher in the clear-lens extraction group (2·602 vs 2·533), resulting in a mean incremental QALY gain of 0·069 (–0·017 to 0·159).",0,0,0,0,N,N,0,0,0,0,0
+137,"The ICER, therefore, was £14 284 per QALY gained for clear-lens extraction versus standard care.",0,0,0,0,N,N,0,0,0,0,0
+138,"At the ceiling ratios of £20 000 and £30 000 per QALY gained, the probabilities of cost-effectiveness were 0·671 and 0·776, respectively.",0,0,0,0,N,N,0,0,0,0,0
+139,"The analysis based on multiple imputation data gave an estimated incremental cost of £844 (95% CI 551–1124) for initial clear-lens extraction (£2411 vs £1567 for standard care), for an incremental QALY gain of 0·100 (2·542 vs 2·442, 95% CI 0·016–0·193).",0,0,0,0,N,N,0,0,0,0,0
+140,"The estimated ICER after this analysis was £8430, and the probability of clear-lens extraction being cost-effective was 0·885 at a ceiling ratio of £20 000 per QALY and 0·940 at the ceiling ratio of £30 000 per QALY.",0,0,0,0,N,N,0,0,0,0,0
+141,Patient-reported and clinical primary endpoints,0,0,0,0,N,N,0,0,0,0,0
+142,"NEI-VFQ-25 and Glaucoma Utility Index scores at 36 months were significantly higher in the clear-lens extraction group than in the standard care group (both p<0·0001, table 3).",0,0,0,0,N,N,0,0,0,0,0
+143,Significantly fewer participants in the clear-lens extraction group needed any treatment to control intraocular pressure (p<0·0001) and fewer needed glaucoma medications than patients who received standard care (table 3).,0,0,0,0,N,N,0,0,0,0,0
+144,The most common type of medication used was prostaglandin analogue (41 [20%] patients in the clear-lens extraction group and 105 [50%] in the standard care group) then β blockers (14 [7%] and 54 [26%]).,0,0,0,0,N,N,0,0,0,0,0
+145,"Degrees of appositional and synechial angle closure were not reported in most participants, but the available data suggest that neither differed significantly between groups (odds ratio 0·78, 95% CI 0·187–3·250 and 0·565, 0·257–1·242, respectively).",0,0,0,0,N,N,0,0,0,0,0
+146,"Visual field severity at 36 months was similar in the two treatment groups (table 3) and had worsened in 24 participants in the clear-lens extraction group and 30 individuals in the laser iridotomy group (odds ratio 0·77, 95% CI 0·392–1·511).",0,0,0,0,N,N,0,0,0,0,0
+147,Patient-reported and clinical secondary endpoints,0,0,0,0,N,N,0,0,0,0,0
+148,There were no serious adverse events (table 4).,0,0,0,0,N,N,0,0,0,0,0
+149,75 patients (25 in the clear-lens extraction group and 50 in the standard care group) had at least one complication.,0,0,0,0,N,N,0,0,0,0,0
+150,Posterior capsule rupture was seen after two clear-lens extractions (1%).,0,0,0,0,N,N,0,0,0,0,0
+151,No severe complications were reported as a direct consequence of laser iridotomy.,0,0,0,0,N,N,1,0,0,0,0
+152,Irreversible loss of vision of more than ten ETDRS letters was seen in one participant in the clear-lens extraction group and three in the standard care group.,0,0,0,0,N,N,0,0,0,0,0
+153,"Intolerance of medications was reported less frequently in the clear-lens extraction group than in the standard group (three vs ten participants, difference 3·3%, 95% CI 0·004–6·6, p=0·049).",0,0,0,0,N,N,0,0,0,0,0
+154,"Further intraocular surgery was needed to manage complications of the primary or additional interventions in three patients (zonulo-hyaloido-vitrectomy for malignant glaucoma, repositioning of a subluxated intraocular lens, and injection of antibody against VEGF for macular oedema) in the clear-lens extraction group and one participant (pars plana vitrectomy for dislocated lens) in the standard care group.",0,0,0,0,N,N,0,0,0,0,0
+155,"Also in the latter group, 12 (6%) patients underwent surgery for clinically relevant cataracts.",0,0,0,0,N,N,0,0,0,0,0
+156,One patient in the clear-lens extraction group developed transient corneal oedema and another suffered malignant glaucoma.,0,0,0,0,N,N,0,0,0,0,0
+157,Central corneal thickness did not differ between groups.,0,0,0,0,N,N,0,0,0,0,0
+158,One patient in the clear-lens extraction group developed an acute angle-closure attack before the operation and was treated with laser peripheral iridotomy (crossover).,0,0,0,0,N,N,0,0,0,0,0
+159,Mean differences in subgroup outcomes between clear-lens extraction and standard care,0,0,0,0,N,N,0,1,0,0,1
+160,(A) Quality of life scores on the European Quality of Life-5 Dimensions questionnaire.,0,0,0,0,N,N,0,1,0,0,0
+161,Red dotted vertical line indicates overall difference between clear-lens extraction and standard care.,0,0,0,0,N,N,0,0,0,0,1
+162,PACG=primary angle-closure glaucoma.,0,0,0,0,N,N,0,0,0,0,0
+163,ETDRS=Early Treatment Diabetic Retinopathy Study chart.,0,0,0,0,N,N,0,0,0,0,0
+164,"In this multicentre international randomised controlled trial, initial treatment with clear-lens extraction was superior to laser peripheral iridotomy plus topical medical treatment for participants with primary angle closure and primary angle-closure glaucoma.",0,0,0,0,N,N,0,0,0,0,0
+165,"The relevance of the changes reported by patients is hard to quantify, but overall health status, visual impairment and disability, and glaucoma-specific disability were all improved even though the patients did not have cataracts.",0,0,0,0,N,N,0,0,0,0,0
+166,"Multiple factors probably contributed to the differences between groups in the patient-related outcomes, including reduced need for glaucoma medications and surgery after intervention, improvement of visual function (eg, contrast sensitivity) after eliminating mild age-related changes in lens transparency, and by correction of refractive error, which resulted in good visual acuity without the need for spectacles.",0,0,0,0,N,N,0,0,0,0,0
+167,Visual acuity was better in the clear-lens extraction group than in the standard care group by three ETDRS letters.,0,0,0,0,N,N,0,0,0,0,0
+168,"While this magnitude of change is unlikely to be clinically important, it points to the overall improvement in visual function associated with clear-lens extraction.",0,0,0,0,N,N,0,0,0,0,0
+169,"Intraocular pressure was better with clear-lens extraction than with standard care, with the mean pressure being around 1 mm Hg lower in the clear-lens extraction group at 3 years.",0,0,0,0,N,N,0,0,0,1,0
+170,"Although this difference is small and by itself is unlikely to be clinically relevant, only 21% of participants in the clear-lens extraction group received any further treatment to control intraocular pressure, compared with 61% who received at least one glaucoma drop in the laser peripheral iridotomy group.",0,0,0,0,N,N,0,0,0,0,0
+171,The study protocol stipulated a target intraocular pressure and allowed clinicians to escalate treatment if and when needed to achieve this.,0,0,0,0,N,N,0,0,0,0,0
+172,"Thus, large differences in mean intraocular pressure were not expected.",0,0,0,0,N,N,0,0,0,0,0
+173,The superior clinical efficacy of initial clear-lens extraction is supported by the reduced need for further glaucoma surgery in this group than in the standard care group (one vs 24 operations).,0,0,0,0,N,N,0,0,0,0,0
+174,The resulting reduction in intraocular pressure associated with the glaucoma surgery probably blunted the difference in the efficacy of lowering of intraocular pressure between the two treatment groups.,0,0,0,0,N,N,0,0,0,0,0
+175,A small proportion of patients assigned standard care had cataract surgery for vision complaints and might also have benefited from lowering of intraocular pressure after this surgery.,0,0,0,0,N,N,0,0,0,0,0
+176,"Glaucoma severity, as measured with visual field testing, did not differ between the two groups, but the study was not powered specifically to detect this difference.",0,0,0,0,N,N,0,0,0,1,0
+177,"The number of individuals with deterioration in visual field (24 individuals in the clear-lens extraction group and 31 participants in the standard care group) also did not differ significantly (odds ratio 0·77, 95% CI 0·38–1·55).",0,0,0,0,N,N,0,0,0,0,0
+178,Outcomes did not differ when assessed in any of the subgroups.,0,0,0,0,N,N,1,0,0,0,0
+179,"We excluded patients with severe primary angle-close glaucoma and, therefore, our findings might not be applicable to patients with advanced disease.",0,0,0,0,N,N,0,0,0,0,0
+180,"Similarly, we only included patients with primary angle closure if intraocular pressure was high.",0,0,0,0,N,N,0,0,0,0,0
+181,"Whether patients with primary angle closure and intraocular pressure less than 30 mm Hg would benefit equally from clear-lens extraction is, therefore, unclear.",0,0,0,0,N,N,0,0,0,0,0
+182,"We added a subgroup analysis of the effect of excellent versus slightly decreased visual acuity, but found no difference between groups (figure 2).",0,0,0,0,N,N,0,0,0,0,0
+183,"Clear-lens extraction might be associated with severe intraoperative and postoperative complications.7, 30 Two participants had posterior capsule rupture, which is a known complication of clear-lens extraction surgery and is associated with increased risk of poor visual outcomes.",0,0,0,0,N,N,0,0,0,0,0
+184,"However, the frequency of this complication was low and was similar to that in large series of cataract surgery.30 One participant developed malignant glaucoma and another transient corneal oedema.",0,0,0,0,N,N,0,0,0,0,0
+185,"The net effect of these surgical complications was small because the number of participants with irreversible loss of vision of more than ten ETDRS letters was similar in the two treatment groups; however, the risk of severe complications after clear-lens extraction must be taken into account from the perspective of individual patients.",0,0,0,0,N,N,0,0,0,0,0
+186,"The low frequency of complications associated with clear-lens extraction might have been related to the skills of the treating surgeons, who had completed general and specialist training in ophthalmology and glaucoma, and might not be similar if surgery were performed by less experienced surgeons.",0,0,0,0,N,N,0,0,0,0,0
+187,The number of participants needing further surgery to manage complications at any timepoint was similar in the two groups.,0,0,0,0,N,N,0,0,0,0,0
+188,"Furthermore, 12 individuals originally assigned to laser peripheral iridotomy needed cataract surgery for visual reasons, which suggests that many people treated with this approach will be at risk of future cataract extraction.",0,0,0,0,N,N,0,0,0,0,0
+189,The lack of difference between groups for central corneal thickness also supported the relative safety of clear-lens extraction as first-line treatment.,0,0,0,0,N,N,0,0,0,0,0
+190,Within-trial cost-effectiveness data showed that clear-lens extraction was associated with increased mean cost to the NHS and increased mean QALYs at 3 years.,0,0,0,0,N,N,0,0,0,0,0
+191,"At a ceiling willingness-to-pay ratio of £20 000 per QALY gained, the probability of early clear-lens extraction being cost-effective is 67% based on complete case data, or 89% based on the multiple imputation analysis.",0,0,0,0,N,N,0,0,0,0,0
+192,"The latter analysis suggested that patients with missing economic data were predicted to have poorer outcomes for quality of life than those with complete data, particularly in the standard care group (as well as higher costs in this group), leading to a slightly more favourable ICER for early clear-lens extraction.",0,0,0,0,N,N,0,0,0,0,0
+193,"The incremental cost associated with early clear-lens extraction is driven by increased initial procedure costs (£1229 vs £181), but these are partly offset over follow-up by cost savings associated with reduced need for subsequent procedures and medications.",0,0,0,0,N,N,0,0,0,0,0
+194,"The cost-effectiveness of clear-lens extraction might, therefore, improve further in the long term if this trend continues.",0,0,0,0,N,N,0,0,0,0,0
+195,"This trial has several strengths, including its pragmatic design, the large sample with low attrition, the involvement of centres in the UK and Asia, the randomisation process, and masking of the clinical assessments of intraocular pressure, visual acuity, and visual fields, which kept the potential risk of bias to a minimum.",0,0,0,0,N,N,0,0,0,0,0
+196,This study also had some limitations.,0,0,0,0,N,N,0,0,0,0,0
+197,"The surgical treatments could not be masked from participants, nor could the clinical outcome assessments for gonioscopy or complications.",0,0,0,0,N,N,0,0,0,0,0
+198,A large proportion of gonioscopic data was not reported.,0,0,0,0,N,N,0,0,0,0,0
+199,"Definitions of complications, such as inflammation and spikes in intraocular pressure, were not standardised.",0,0,0,0,N,N,0,0,0,0,0
+200,"There might have been a difference between Chinese and non-Chinese populations that we did not detect and, therefore, the generalisability of our results to Asian populations should be explored further.",0,0,0,0,N,N,0,0,0,0,0
+201,"Although one good-quality trial might not be enough to change policy, the consistent superiority of clear-lens extraction in terms of patient-reported and clinical benefits and the absence of serious safety issues provide strong support for considering this approach as the first-line treatment for individuals with primary angle-closure disease.",0,0,0,0,N,N,0,0,0,0,0
+202,The results are consistent with those in previously published case series.,0,0,0,0,N,N,0,0,0,0,0
+203,"Longer-term follow-up of visual function and visual field progression could be useful, owing to the slow progression of this disease when treated.",0,0,0,0,N,N,0,0,0,0,0
+204,"Overall, our results indicate that clear-lens extraction should be considered the initial treatment for primary angle-closure glaucoma and primary angle closure with increased intraocular pressure.",1,0,0,0,N,N,0,0,0,0,0

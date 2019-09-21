@@ -1,0 +1,137 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Purpose: The purpose of this study was to determine the risk of a steroid pressure response from inhaled corticosteroids.,0,0,0,0,0,0,0,0,N,0,0
+1,"Patients and Methods: This randomized, double-masked, placebo-controlled trial included 22 adults with well-controlled open-angle glaucoma or ocular hypertension.",0,0,0,0,0,0,0,0,N,0,0
+2,Consenting participants were randomized to a 6-week course of twice-daily fluticasone propionate 250-[mu]g metered-dose inhaler or saline placebo metered-dose inhaler.,0,0,0,0,0,0,0,0,N,0,0
+3,Biweekly clinic visits included masked Goldmann applanation tonometry and assessment to identify adverse effects.,0,0,0,0,0,0,0,0,N,0,0
+4,Primary outcome was mean intraocular pressure (IOP) at week 6.,0,0,0,0,0,0,0,0,N,0,0
+5,"Secondary outcomes included IOP elevation of >20% at 2 consecutive visits, adherence, side effects, and logMAR visual acuity.",0,0,0,0,0,0,0,0,N,0,0
+6,Results: A total of 10 patients in each arm completed the study.,0,0,0,0,0,0,0,0,N,0,0
+7,"There were no statistically significant differences in IOP between groups at baseline (14.3+/-3.0 and 15.6+/-3.6 mm Hg in steroid and placebo groups, respectively, P=0.39) or at week 6 (14.7+/-2.4 and 14.8+/-3.8 mm Hg in steroid and placebo groups, respectively, P=0.92).",0,0,0,0,0,0,0,0,N,0,0
+8,Adherence was >80% for all participants.,0,0,0,0,0,0,0,0,N,0,0
+9,There were no statistically significant differences between groups in any secondary measures.,0,0,0,0,0,0,0,0,N,0,0
+10,One patient in the steroid group met the secondary end point of >20% elevation in IOP (IOP increased from baseline of 9 to 11 mm Hg at weeks 2 and 4).,0,0,0,0,0,0,0,0,N,0,0
+11,Conclusions: We found no clinically significant increase in mean IOP in patients with well-controlled open-angle glaucoma and ocular hypertension after 6 weeks of twice-daily inhaled fluticasone propionate compared with inhaled placebo.,0,0,0,0,0,0,0,0,N,0,0
+12,No participants exceeded their individualized target IOP.,0,0,0,0,0,0,0,0,N,0,0
+13,There were no differences in secondary outcomes.,0,0,0,0,0,0,0,0,N,0,0
+14,"Elevated intraocular pressure (IOP) is the major causal risk factor for glaucoma, the leading cause of irreversible blindness worldwide.",0,0,0,0,0,0,0,0,N,0,0
+15,"In approximately one third of the general population and 95% of patients with primary open-angle glaucoma (POAG), topical corticosteroid eye drops administered for at least 2 weeks will cause a 6 to 15 mm Hg elevation in IOP, known as a ""steroid response.""",0,0,0,0,0,0,0,0,N,0,0
+16,Inhaled corticosteroids (ICS) represent the foundational treatment for patients with persistent asthma and are a useful adjunct for patients with chronic obstructive pulmonary disease (COPD).,0,0,0,0,0,0,0,0,N,0,0
+17,"Asthma, the most common chronic respiratory condition in Canada, affects approximately 10% of the population.8 In all, 3% of Canadians aged 35 to 79 years report a diagnosis of COPD.",0,0,0,0,0,0,0,0,N,0,0
+18,"Systemic absorption of ICS has been quantified, and at least some ocular side effects have been established.",0,0,0,0,0,0,0,0,N,0,0
+19,"Cumming et al, in an observational study, showed a dose-response relationship between ICS use and the risk of cataract formation.",0,0,0,0,0,0,0,0,N,0,0
+20,"A pharmacoepidemiologic study has suggested that even low-dose ICS use increases the risk of cataract formation in the elderly, although no such effect was seen with nasal corticosteroids.",0,0,0,0,0,0,0,0,N,0,0
+21,Other clinically relevant ocular side effects remain poorly defined.,0,0,0,0,0,0,0,0,N,0,0
+22,There are case reports of glaucoma attributed to ICS.,0,0,0,0,0,0,0,0,N,0,0
+23,"However, large population-based cross-sectional studies have failed to arrive at a consensus regarding any increased glaucoma risk secondary to ICS use.In 2013, our group published a randomized controlled trial of 19 patients with stable POAG and ocular hypertension (OHT), which revealed no clinically significant IOP elevation after the use of beclomethasone nasal spray for 6 weeks.",0,0,0,0,0,0,0,0,N,0,0
+24,No prospective study has been conducted to determine whether patients at highest risk are likely to demonstrate a steroid response from ICS.,0,0,0,0,0,0,0,0,N,0,0
+25,"We report the results of the first double-masked, placebo-controlled trial in which patients with well-controlled OHT and POAG randomized to 6-week use of twice-daily fluticasone propionate 250-[mu]g metered-dose inhaler (MDI) versus inhaled placebo MDI were monitored for IOP elevation.",0,0,0,0,0,0,0,0,N,0,0
+26,"This was a randomized, double-masked, placebo-controlled trial.",0,0,0,0,0,0,0,0,N,0,0
+27,The study was approved by the University Health Network Research Ethics Board and registered with the United States National Institutes of Health (clinicaltrials.gov identifier NCT02338362).,0,0,0,0,0,0,0,0,N,0,0
+28,The research described herein adhered to the tenets of the Declaration of Helsinki.,0,0,0,0,0,0,0,0,N,0,0
+29,Patients scheduled to attend clinics of 2 glaucoma subspecialists (Y.M.B.,0,0,0,0,0,0,0,0,N,0,0
+30,"in a university-based tertiary care center in Toronto, Canada (Toronto Western Hospital) were screened for eligibility.",0,0,0,0,0,0,0,0,N,0,0
+31,Enrollment continued until 10 participants in each group completed all 4 study visits.,0,0,0,0,0,0,0,0,N,0,0
+32,Charts of patients aged 18 to 85 years were screened for eligibility the week before scheduled clinic appointments.,0,0,0,0,0,0,0,0,N,0,0
+33,"Informed consent was obtained for participants who met the following inclusion criteria: (1) bilateral mild-to-moderate POAG, pseudoexfoliation glaucoma, pigmentary glaucoma or OHT, defined by a vertical cup-to-disc ratio <0.85 and a mean deviation >-12.00 dB on static automated perimetry and (2) well-controlled disease in both eyes.",0,0,0,0,0,0,0,0,N,0,0
+34,"Control was defined by 6 months of IOP<21 mm Hg and meeting individualized targets, with no documented progression by functional (visual field) and structural (clinical examination of optic disc and optical coherence tomography of the retinal nerve fiber layer) criteria.",0,0,0,0,0,0,0,0,N,0,0
+35,The eye with the poorer mean deviation on visual field testing was included in the analyses.,0,0,0,0,0,0,0,0,N,0,0
+36,"The exclusion criteria were as follows: the use of any steroid medication within the prior 6 weeks, incisional surgery in the study eye (including laser refractive procedures), no light perception vision in either eye, unwilling or unable to provide written consent for participation, unwilling to accept randomization, or unable to attend scheduled follow-up visits.",0,0,0,0,0,0,0,0,N,0,0
+37,"After a baseline ophthalmic assessment, each participant met with the clinical coordinator who randomized participants according to a schedule created using a random number generator.",0,0,0,0,0,0,0,0,N,0,0
+38,The coordinator was neither an assessor of clinical data nor involved in data analysis and interpretation of results.,0,0,0,0,0,0,0,0,N,0,0
+39,The allocation code was concealed until completion of the trial.,0,0,0,0,0,0,0,0,N,0,0
+40,"Placebo MDIs contained built-in counters that displayed the number of inhaled doses left in the device and were not identical to the treatment inhalers, which did not contain counters.",0,0,0,0,0,0,0,0,N,0,0
+41,"MDIs were taped to conceal identifying script, and participants were directed to preserve allocation concealment by preventing investigators from viewing the MDI and avoiding discussion with study personnel regarding MDI attributes such as appearance or inhalant taste.",0,0,0,0,0,0,0,0,N,0,0
+42,"After randomization, a Certified Respiratory Educator, accredited by the Canadian Network for Respiratory Care, conducted a standardized MDI training program with each participant.",0,0,0,0,0,0,0,1,N,1,1
+43,"Participants were then provided an MDI, based on allocation.",0,0,0,0,0,0,0,1,N,1,1
+44,The educator instructed participants to take 1 puff every 12 hours from the day of randomization until the end of the study and to track the time of each dose in a standardized study diary.,0,0,0,0,0,0,0,1,N,1,1
+45,"Visits were conducted at 2, 4, and 6 weeks following randomization, and they were scheduled within 1 hour of the time of day of the baseline visit.",0,0,0,0,0,0,0,1,N,1,1
+46,"The primary end point was IOP at the 6-week visit, and the safety end point was IOP elevation >20% from baseline at 2 consecutive visits.",0,0,0,0,0,0,0,0,N,0,0
+47,A single investigator (E.B.M.),0,0,0,0,0,0,0,0,N,0,0
+48,conducted assessments using the same examination equipment at all visits for each participant.,0,0,0,0,0,0,0,0,N,0,0
+49,"Assessment included the following: standard interview regarding side effects and compliance, measurement of monocular best-corrected distance visual acuity, slit-lamp assessment, and IOP measurement by masked Goldmann applanation tonometry.",0,0,0,0,0,0,0,0,N,0,0
+50,Masking was achieved using a second observer who recorded the IOP values and scrambled the initial dial position before each reading.,0,0,0,0,0,0,0,0,N,0,0
+51,The mean of 2 measurements falling within 1 mm Hg was recorded.,0,0,0,0,0,0,0,0,N,0,0
+52,Adherence was determined using study diaries and verified using the counter incorporated into the placebo MDIs.,0,0,0,0,0,0,0,0,N,0,0
+53,Last observations were carried forward for eyes that met the safety end point.,0,0,0,0,0,0,0,0,N,0,0
+54,The primary outcome measure was IOP.,1,0,1,1,1,1,1,0,N,0,0
+55,"Secondary outcome measures included IOP elevation of >20% at 2 consecutive visits (safety end point), adherence, side effects, and logMAR visual acuity.",1,0,1,1,1,1,1,0,N,0,0
+56,"For participants meeting the safety end point, IOP was reassessed 2 weeks after discontinuation of the MDI.",1,0,1,1,1,1,1,0,N,0,0
+57,Ocular hypotensive therapy was instituted or augmented to maintain IOP below target.,1,0,1,1,1,1,1,0,N,0,0
+58,"The sample size was calculated based on the assumption that the study was concerned only with an elevation in IOP caused by steroid administration (ie, 1 sided).",0,0,0,0,0,0,0,0,N,0,0
+59,"It was determined that for a power of 80%, 8 patients would be required in each arm, to detect a difference of 3.2 mm Hg with a SD of 2.5 mm Hg.",0,0,0,0,0,0,0,0,N,0,0
+60,"This difference (3.2 mm Hg) represented a 20% increase from a baseline of 16 mm Hg, to align with the safety end point.",0,0,0,0,0,0,0,0,N,0,0
+61,Data between groups were statistically compared using the Student t test for continuous data and Fisher exact test for categorical data.,0,0,0,0,0,0,0,0,N,0,0
+62,The relationship between self-reported adherence and inhaler use logged by the built-in counters was measured using the Pearson correlation coefficient.,0,0,0,0,0,0,0,0,N,0,0
+63,Changes in IOP between study visits were statistically assessed using profile analysis with unstructured covariance to account for the correlation of repeated IOP readings from the same individuals.,0,0,0,0,0,0,0,0,N,0,0
+64,A P-value <0.05 was considered to be statistically significant.,0,0,0,0,0,0,0,0,N,0,0
+65,"SAS 9.3 (SAS Institute, Cary, NC) software package was used.",0,0,0,0,0,0,0,0,N,0,0
+66,"A total of 1960 medical records of glaucoma patients with scheduled clinic appointments were screened for eligibility between August 1, 2014 and November 7, 2014 (Fig.",1,0,1,1,1,1,1,1,N,1,1
+67,"In all, 98 eligible patients were identified, 22 consented to participate and 20 completed the study with an even distribution between the study arms.",0,0,0,0,0,0,0,0,N,0,0
+68,A total of 11 patients were randomized to each group.,0,1,0,0,0,0,0,0,N,0,0
+69,One participant in each group was withdrawn after randomization and before the first study visit.,0,0,0,0,0,0,0,0,N,0,0
+70,"One participant was concerned regarding the effect of participation on an insurance policy, and the other participant withdrew after presenting with a spontaneous rhegmatogenous retinal detachment.",0,0,0,0,0,0,0,0,N,0,0
+71,One participant was diagnosed with bronchitis 11 days before the final visit and was treated with steroid MDI by the family physician.,0,0,0,0,0,0,0,0,N,0,0
+72,"This participant continued to use the study MDI along with the prescribed MDI, and data were analyzed according to the original (placebo) assignment.",0,0,0,0,0,0,0,0,N,0,0
+73,There were no statistically significant differences between the groups at baseline (Table 1).,0,0,0,0,0,0,0,0,N,0,0
+74,Figure 2 details the IOP results.,0,0,0,0,0,0,0,0,N,0,0
+75,Mean IOP was not statistically different between the 2 groups at any time.,0,0,0,0,0,0,0,0,N,0,0
+76,"At the 6-week visit, the mean IOP was 14.7+/-2.4 mm Hg in the steroid group and 14.8+/-3.8 mm Hg in the placebo group (P=0.92).",0,0,0,0,0,0,0,0,N,0,0
+77,One participant in the steroid group (P=1.00) met the secondary end point of >20% elevation in IOP (IOP increased from 9 to 11 mm Hg at weeks 2 and 4).,0,0,0,0,0,0,0,0,N,0,0
+78,Neither group had a statistically significant change in IOP from baseline to week 6.,0,0,0,0,0,0,0,0,N,0,0
+79,"There were no changes in ocular hypotensive treatment during follow-up, and no IOP measurements exceeded patients' individualized targets.",0,0,0,0,0,0,0,0,N,0,0
+80,Figure 3 compares the frequency of IOP change from baseline and illustrates that IOP for the majority (>70%) of visits was within the predicted SD (+/-2.5 mm Hg) of baseline for both the steroid and placebo groups.,0,0,0,0,0,0,0,0,N,0,0
+81,"The mean number of self-reported inhaled doses was 80.7+/-6.2, with 84 doses representing the median for complete compliance.",0,0,0,0,0,0,0,0,N,0,0
+82,"All participants reported >80% adherence, with no statistically significant difference between groups: steroid 93.6+/-7.1% versus placebo 96.1+/-4.4% (P=0.37).",0,0,0,0,0,0,0,0,N,0,0
+83,"Data from the built-in counters in the placebo MDIs correlated significantly with self-reported data from study diaries (Pearson correlation coefficient 0.908, P=0.002).",0,0,0,0,0,0,0,0,N,0,0
+84,"A total of 2 placebo MDIs were excluded from this analysis: one because of additional uses for participant training, and the second because of the extremely high number of doses dispensed (~60 more than the required number).",0,0,0,0,0,0,0,0,N,0,0
+85,"There were no statistically significant differences in logMAR visual acuity at baseline (0.19+/-0.13 and 0.18+/-0.09, P=0.81) or at week 6 (0.15+/-0.12 and 0.15+/-0.08, P=0.90) in the treatment and placebo groups, respectively.",0,0,0,0,0,0,0,0,N,0,0
+86,There were no observed changes in lens opacity compared with baseline in either group.,0,0,0,0,0,0,0,0,N,0,0
+87,"Side-effect profiles were similar between groups: 1 patient in each group reported throat discomfort, 1 patient in the steroid group reported headache, and 1 patient in the placebo group reported difficulty sleeping.",0,0,0,0,0,0,0,0,N,0,0
+88,The SD for IOP data ranged from 2.4 in the steroid group to 3.8 in the placebo group at week 6.,0,0,0,0,0,0,0,0,N,0,0
+89,"With an [alpha]-error of 5%, power calculation, using [sigma]=3.8 mm Hg, resulted in 59% power to detect the difference of 3.2 mm Hg.",0,0,0,0,0,0,0,0,N,0,0
+90,This 3.2 mm Hg difference was selected a priori to align with the secondary end point of >=20% IOP increase from baseline.,0,0,0,0,0,0,0,0,N,0,0
+91,Post hoc analysis indicates that the study was powered at 86% to detect a difference of >=6 mm Hg if >=6 (60%) participants in the treatment arm exhibited a steroid response.,0,0,0,0,0,0,0,0,N,0,0
+92,"Given the high prevalence of airway disease (up to 10% of Canadians) and glaucoma (3.54% in adults aged 40 to 80 y),1 these diseases often coexist, making it important to understand the potential complications of treatment for one disease on the other.",0,0,0,0,0,0,0,0,N,0,0
+93,"For example, topical [beta]-blockers are commonly used in the treatment of glaucoma, but they should be avoided in patients with bronchospastic disease.",0,0,0,0,0,0,0,0,N,0,0
+94,"The use of ICS for airway disease has become the standard of care because of a substantially improved therapeutic index, compared with oral corticosteroids.",0,0,0,0,0,0,0,0,N,0,0
+95,Directly administered steroids are well known to increase IOP.,0,0,0,0,0,0,0,0,N,0,0
+96,"Fewer than 4 weeks duration of topical ocular corticosteroid drops administered to patients with POAG or OHT will cause an IOP rise >=6 to 10 mm Hg, known as a ""steroid response,"" in up to 95% of treated eyes.",0,0,0,0,0,0,0,0,N,0,0
+97,"Despite this knowledge, to date there are no prospective randomized controlled studies to evaluate the effect of ICS on IOP in patients at high risk of a steroid response, and the degree to which ICS may affect IOP remains controversial.",0,0,0,0,0,0,0,0,N,0,0
+98,A total of 4 case reports  suggest a link between ICS use and IOP elevation with incident glaucomatous nerve damage.,0,0,0,0,0,0,0,0,N,0,0
+99,A prospective study of 183 pulmonary disease patients without glaucoma showed no IOP rise >4 mm Hg after 12 weeks of ICS use.,0,0,0,0,0,0,0,0,N,0,0
+100,Several retrospective and cross-sectional studies have failed to reach consensus regarding the glaucoma risk of ICS.,0,0,0,0,0,0,0,0,N,0,0
+101,"In a large case-control study using a comprehensive provincial health insurance database, Garbe et al  reported an increased risk of glaucoma (odds ratio=1.44; 95% confidence interval, 1.01-2.06) in those prescribed higher ICS doses for >=3 months.",0,0,0,0,0,0,0,0,N,0,0
+102,"Interviews of 3654 participants in the Blue Mountains Eye Study revealed an association (odds ratio=2.6; 95% confidence interval, 1.2-5.8) between ICS use and the presence of glaucoma or OHT among those with a family history of glaucoma.",0,0,0,0,0,0,0,0,N,0,0
+103,"In contrast, an analysis of pooled data from 4 prospective randomized, controlled trials evaluating 12 to 20 weeks of inhaled budesonide in 1255 asthmatic patients found no treatment effect on IOP, including a subset analysis of those at the highest dose, 800 [mu]g bid.Notably, 30% of these patients were aged younger than 18 years.",0,0,0,0,0,0,0,0,N,0,0
+104,"Gonzalez et al  extracted data from a health care database to examine a large cohort of elderly patients, over 65 years of age, who were treated for airway disease.",0,0,0,0,0,0,0,0,N,0,0
+105,"The group reported no increased risk from high-dose ICS in 2291 cases of newly treated glaucoma compared with 13,445 controls.",0,0,0,0,0,0,0,0,N,0,0
+106,"Corticosteroid use was recorded in the Rotterdam Study, a population-based cohort study examining patients aged 55 years or older for 4 to 15 years.",0,0,0,0,0,0,0,0,N,0,0
+107,"Among 108 cases of incident open-angle glaucoma (OAG), there was no associated risk from the use of inhaled steroid or any other class of steroid.",0,0,0,0,0,0,0,0,N,0,0
+108,We previously reported no evidence of IOP elevation after 6 weeks of beclomethasone nasal spray in 19 patients with stable OHT and POAG.,0,0,0,0,0,0,0,0,N,0,0
+109,"We present the first prospective, randomized, placebo-controlled trial evaluating IOP following ICS in patients with well-controlled OAG and OHT.",0,0,0,0,0,0,0,0,N,0,0
+110,We report no clinically significant IOP effect after 6 weeks of inhaled fluticasone.,0,0,0,0,0,0,0,0,N,0,0
+111,An IOP elevation >20% from baseline (9 mm Hg) to weeks 2 and 4 (11 mm Hg) did occur in 1 participant in the treatment group.,0,0,0,0,0,0,0,0,N,0,0
+112,"The baseline IOP was atypically low (>6 mm Hg lower than prior clinic IOP measurements), consistent with an erroneous pressure measurement in this case.",0,0,0,0,0,0,0,0,N,0,0
+113,"The IOP change was not clinically significant, suggesting factors other than a steroid response.",0,0,0,0,0,0,0,0,N,0,0
+114,One limitation of this study was the IOP distribution in this small sample.,0,0,0,0,0,0,0,0,N,0,0
+115,"With a greater-than-expected SD, the analysis was, in retrospect, underpowered to detect a difference of <=3.2 mm Hg between groups.",0,0,0,0,0,0,0,0,N,0,0
+116,"Notably, the documented steroid response to topically administered corticosteroid in patients with POAG and OHT is 6 to 15 mm Hg, and IOP increases ranged from 7 to 21 mm Hg in case reports linking incident glaucoma to ICS use.",0,0,0,0,0,0,0,0,N,0,0
+117,A post hoc power calculation showed that this study was well powered to detect a moderate steroid response of 6 mm Hg in a low fraction (60%) of the treatment group.,0,0,0,0,0,0,0,0,N,0,0
+118,"It remains possible, however, that rare individuals may be sensitive enough to respond to ICS; our sample could have missed such statistical outliers.",0,0,0,0,0,0,0,0,N,0,0
+119,"The short treatment duration reported here is a limitation to the generalizability of these results, as management of airway disease often requires long-term therapy.",0,0,0,0,0,0,0,0,N,0,0
+120,"One case-control study examining the risk of glaucoma diagnosis with ICS use did find long duration (>=3 mo) of ICS as a risk factor ; however, this result was not replicated by 2 other groups who examined the same relationship to duration of therapy.",0,0,0,0,0,0,0,0,N,0,0
+121,We believe that a 6-week exposure was adequate to reveal a difference between study arms.,0,0,0,0,0,0,0,0,N,0,0
+122,The response to topical steroid requires <4 weeks in the majority of POAG patients.,0,0,0,0,0,0,0,0,N,0,0
+123,"Moreover, systemic levels of fluticasone propionate are not expected to increase over time.",0,0,0,0,0,0,0,0,N,0,0
+124,"On the basis of a half-life of 5 to 7 hours in normal individuals, inhaled fluticasone propionate should reach steady-state concentration in plasma 3 to 4 days after initiation of therapy.",0,0,0,0,0,0,0,0,N,0,0
+125,Fluticasone propionate is the most systemically potent and most commonly prescribed individual ICS treatment in Canada.,0,0,0,0,0,0,0,0,N,0,0
+126,"The studied dose (250 [mu]g twice daily) was below the maximum recommended dose for adults with very severe asthma (1000 [mu]g twice daily), and it was selected as representative of a typical dose for moderate disease.",0,0,0,0,0,0,0,0,N,0,0
+127,"A rationale for the lower dosage in our study of glaucoma patients without lung disease is that volunteers with healthy airways who received inhaled fluticasone achieve significantly greater plasma concentration and suppression of plasma cortisol, compared with patients with asthma  or COPD.",0,0,0,0,0,0,0,0,N,0,0
+128,The difference is attributed to airflow obstruction and ventilation-perfusion mismatch in the diseased state.,0,0,0,0,0,0,0,0,N,0,0
+129,A major strength of this study is independence from industry support or oversight.,0,0,0,0,0,0,0,0,N,0,0
+130,"In addition, despite the small sample size, groups were balanced for important variables that may have affected the outcome measures.",0,0,0,0,0,0,0,0,N,0,0
+131,The study design provided a unique opportunity to minimize sources of bias and to maximize the sensitivity to detect a steroid response to ICS in well-controlled OAG and OHT.,0,0,0,0,0,0,0,0,N,0,0
+132,"In conclusion, our primary finding was that patients with glaucoma taking 500 [mu]g of inhaled fluticasone propionate daily for 6 weeks showed no clinically significant steroid-induced IOP response.",0,0,0,0,0,0,0,0,N,0,0
+133,"This may be reassuring, but in acknowledgment of study limitations and the potential for irreversible vision loss from an undetected steroid response, we hope that this report serves as a reminder to physicians who prescribe corticosteroids of the relationship between steroids and glaucoma, which may be underappreciated among nonophthalmologists.",0,0,0,0,0,0,0,0,N,0,0
+134,We suggest that patients with a history of glaucoma be instructed to seek visual care for measurement of IOP at least 6 weeks after initiation of ICS therapy.,0,0,0,0,0,0,0,0,N,0,0
+135,"Furthermore, ophthalmologists managing glaucoma patients with airway disease should not only remain vigilant for a steroid response but should also consider the available evidence before recommending against ICS therapy, a mainstay and potentially life-saving treatment for common respiratory conditions.",0,0,0,0,0,0,0,0,N,0,0

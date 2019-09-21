@@ -1,0 +1,139 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"With accumulating knowledge on osteoarthritis development, the next step is to focus on possibilities for primary prevention.",0,0,0,0,0,0,0,0,0,0,0
+1,"In a 2 × 2 factorial design, the effects of a diet-and-exercise program and of oral glucosamine sulfate (double blind and placebo-controlled) on the incidence of knee osteoarthritis were evaluated in a high-risk group of 407 middle-aged women with a body mass index ≥ 27 kg/m 2 without clinical signs of knee osteoarthritis at baseline (ISRCTN 42823086).",0,0,0,0,0,0,0,0,0,0,0
+2,"Primary outcome was the incidence of knee osteoarthritis, defined as Kellgren & Lawrence grade ≥ 2, joint space narrowing of ≥ 1.0 mm, or clinical knee osteoarthritis (clinical and radiographic American College of Rheumatology criteria) after 2.5 years.",0,0,0,0,0,0,0,0,0,0,0
+3,"After 2.5 years, only 10% of all subjects were lost to follow-up, and 17% of all knees showed incident knee osteoarthritis.",0,0,0,0,0,0,0,1,0,0,0
+4,"Accounting for the significant interaction between the interventions, no significant main effect of either intervention was found.",0,0,0,0,0,0,0,0,0,0,0
+5,"Independently, both interventions alone showed indications of reduced knee osteoarthritis incidence (odds ratio [OR] 0.69; 95% CI, 0.39-1.21 for the diet-and-exercise program and OR 0.60; 95% CI, 0.31-1.12 for the glucosamine intervention).",0,0,0,0,0,0,0,0,0,0,0
+6,"These effects were neutralized in subjects receiving both interventions (OR 0.97; 95% CI, 0.55-1.71).",0,0,0,0,0,0,0,0,0,0,0
+7,No significant main effects of the diet-and-exercise program and of glucosamine sulfate were found on incident knee osteoarthritis.,0,0,0,0,0,0,0,0,0,0,0
+8,"Nevertheless, this trial provides valuable insights for future trial design for preventive osteoarthritis studies.",0,0,0,0,0,0,0,0,0,0,0
+9,• A pragmatic lifestyle intervention significantly reduced body weight of middle-aged overweight and obese women during the first year.,0,0,0,0,0,0,0,0,0,0,0
+10,• Neither a pragmatic lifestyle intervention aimed to reduce body weight nor an oral glucosamine sulfate intervention prevented incident knee osteoarthritis in middle-aged overweight and obese females after 30 months.,0,0,0,0,0,0,0,0,0,0,0
+11,• Willingness to participate in a preventive trial is high among middle-aged overweight and obese women without knee symptoms.,0,0,0,0,0,0,0,0,0,0,0
+12,"According to the World Health Organization, more than 10% of people aged 60 years and over suffer from osteoarthritis worldwide.",0,0,0,0,0,0,0,0,0,0,0
+13,Thereby it is the most common joint disease in this age range.,0,0,0,0,0,0,0,0,0,0,0
+14,"Over the last decades, numerous longitudinal studies on risk factors for onset of osteoarthritis have been performed.",0,0,0,0,0,0,0,0,0,0,0
+15,"These studies have led to the identification of a wide variety of risk factors, mainly focusing on knee osteoarthritis.",0,0,0,0,0,0,0,0,0,0,0
+16,"With this accumulated knowledge, primary prevention should be considered.",0,0,0,0,0,0,0,0,0,0,0
+17,Several studies indicate that weight loss in overweight or obese individuals could prevent knee osteoarthritis.,0,0,0,0,0,0,0,0,0,0,0
+18,"In an observational cohort, it was calculated that if women with a body mass index (BMI) ≥ 25 kg/m 2 would reduce their BMI by 2 units (∼ 5 kg), the risk for developing knee osteoarthritis would be reduced substantially (odds ratio [OR] 0.41).",0,0,0,0,0,0,0,0,0,0,0
+19,The direct effects of weight reduction (primary prevention) on subsequent knee osteoarthritis development have never been studied.,0,0,0,0,0,0,0,0,0,0,0
+20,"Glucosamine has been studied for the treatment of osteoarthritis patients, but no efficacy has been proven in studies with adequate allocation concealment or in investigator-led studies.",0,0,0,0,0,0,0,0,0,0,0
+21,"Literature suggests larger effects of glucosamine over placebo when used in an early phase of the disease,  and especially in the knee joint.",0,0,0,0,0,0,0,0,0,0,0
+22,Glucosamine has never been tested for its preventive effects.,0,0,0,0,0,0,0,0,0,0,0
+23,"Because all forms of oral glucosamine have been shown to produce no side effects over placebo, even after long-term use, investigation of the preventive effect of glucosamine on incident knee osteoarthritis seems safe and worthwhile.",0,0,0,0,0,0,0,0,0,0,0
+24,"The objective of the present study was to evaluate the effect of a tailored diet-and-exercise program, aimed to reduce weight, and of oral crystalline glucosamine sulfate on incidence of knee osteoarthritis in a high-risk group of overweight women between 50 and 60 years of age, free of clinical knee osteoarthritis at baseline.",0,0,0,0,0,0,0,0,0,0,0
+25,"The PROOF study (PRevention of knee Osteoarthritis in Overweight Females, ISRCTN 42823086) was approved by the Medical Ethics Committee of Erasmus MC University Medical Centre in 2005.",0,0,0,0,0,0,0,0,0,0,0
+26,The manuscript has been written according to the CONSORT Statement guidelines.,0,0,0,0,0,0,0,0,0,0,0
+27,Additional extensive method sections are provided in the Appendix .,0,0,0,0,0,0,0,0,0,0,0
+28,"Women aged 50 to 60 years, with a BMI ≥ 27 kg/m 2 , free of knee osteoarthritis (clinical American College of Rheumatology [ACR] criteria   ), not treated for knee complaints or using walking aids, free of magnetic resonance imaging (MRI) contraindications, without rheumatic diseases, with mastery of the Dutch language, and not using glucosamine, were recruited through their general practitioner ( Appendix ).",1,0,0,0,0,0,0,0,0,0,0
+29,All women eligible and willing to participate were invited for baseline measurements (July 2006-May 2009).,1,0,0,0,1,1,1,0,0,0,0
+30,"At baseline and after 2.5-year follow-up, body weight and height were measured and both hands were examined for Heberden nodes.",0,0,0,0,0,0,0,1,0,0,0
+31,Semi-flexed posterior-anterior knee radiographs were taken at baseline and follow-up according to the metatarsophalangeal protocol  and scored using the Kellgren & Lawrence (K&L) criteria.,0,0,0,0,0,0,0,0,0,0,0
+32,Minimal joint space width was measured by visual reading for each tibiofemoral compartment.,0,0,0,0,0,0,0,0,0,0,0
+33,Medial knee alignment angle was assessed for all knees  ( Appendix ).,0,0,0,0,0,0,0,0,0,1,1
+34,"At baseline and every 6 months, participants filled in questions on the number of days with knee pain, activity level (Short QUestionnaire to ASsess Health-enhancing physical activity [SQUASH]), co-interventions, and quality of life (EuroQol).",0,0,0,0,0,0,0,0,0,0,0
+35,"At baseline, 12 months, and 30 months, knee complaints, Knee injury and Osteoarthritis Outcome Score (KOOS) questionnaire, menopausal status, and comorbidities were additionally assessed.",1,0,0,0,0,0,0,0,0,0,0
+36,"After informed consent procedure according to the declaration of Helsinki and subsequent baseline measurements, subjects were randomized using consecutive case numbers.",0,0,0,0,0,0,0,0,0,0,0
+37,"For the diet-and-exercise program, subjects were randomized 1:1 using block randomization with block size 20.",0,1,1,0,1,1,1,0,0,0,0
+38,A research assistant not involved in the trial provided a sealed envelope that was opened by the subject in the presence of the researcher.,0,0,1,0,0,0,0,0,0,0,0
+39,"Also, allocation to glucosamine or placebo (double-blind) was done one-on-one using a blocked randomization list with block size 20 (see below).",0,1,1,0,0,0,0,0,0,0,0
+40,"Every 6 months, a home visit was planned to measure body weight, check the questionnaire for missing data, provide the participant with a new batch of study drugs, and retrieve the remainder of the previous batch for objective compliance calculation.",0,0,0,0,0,0,0,0,0,0,0
+41,A detailed description of the diet-and-exercise program is given elsewhere.,0,0,0,0,0,0,0,0,0,1,1
+42,"In short, subjects in the intervention group were referred to a local dietician who set goals regarding nutritional habits and physical activity patterns in agreement with the participant, using Motivational Interviewing techniques.",0,0,0,0,0,0,0,0,0,0,0
+43,"Thereafter, a tailor-made strategy and an individual plan were composed to achieve these goals.",0,0,0,0,0,0,0,0,0,0,0
+44,"Additionally, subjects were invited to join a weekly 1-hour physical exercise class (12-15 participants) for 20 weeks, supervised by a local physical therapist.",0,0,0,0,1,1,1,0,0,0,0
+45,"A variety of low-impact sports and exercises, such as Nordic walking, aqua jogging, and dancing, were offered in order for participants to regain pleasure in physical activity and find activities for long-term continuation.",0,0,0,0,0,0,0,0,0,0,0
+46,The control group was not offered an intervention.,0,0,0,0,0,0,0,0,0,0,0
+47,Crystalline Glucosamine Sulfate vs Placebo,0,0,0,0,0,0,0,0,0,0,0
+48,"When designing this trial, high dropout rates in the control group of the diet-and-exercise program were feared.",0,0,0,0,0,0,0,0,0,0,0
+49,"To prevent this, the glucosamine sulfate vs placebo intervention was introduced to provide all subjects with an intervention and hopefully avoid high dropout rates.",0,0,0,0,0,0,0,0,0,0,0
+50,Subjects and research staff were blinded for allocation throughout the study.,0,0,0,0,1,1,1,0,0,0,0
+51,"All study drugs were provided in identical packaging by Rottapharm Madaus, who was not involved in study design, data collection, or statistical analyses.",0,0,0,0,0,0,0,0,0,0,0
+52,Subjects were asked to consume one sachet (1500 mg powder) per day for the total follow-up period.,0,0,0,0,0,0,0,0,0,0,0
+53,"Predefined primary outcome was the difference between groups on the incidence of knee osteoarthritis, defined as incidence of either K&L ≥ 2, clinical knee osteoarthritis (clinical and radiographic ACR criteria ), or joint space narrowing of ≥ 1.0 mm in the medial or lateral compartment.",0,0,0,0,0,0,0,0,0,0,0
+54,"Secondary outcomes were quality of life, Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain and WOMAC function scores (calculated from KOOS, ranging from 0 to 100, with 0 being no pain/no functional limitations), weight loss, occurrence of osteoarthritis MRI features, and increase in bone and cartilage degeneration markers.",0,0,0,0,0,0,0,0,0,0,0
+55,"Given the complexity of the MRI and degeneration marker evaluations, those outcomes will not be presented here.",0,0,0,0,0,0,0,0,0,0,0
+56,The study was powered to show an incidence reduction from 20% in the diet-and-exercise program control group and in the placebo group to 10% in the diet-and-exercise program intervention and the glucosamine group ( Appendix ).,0,0,0,0,0,0,0,0,0,0,0
+57,No interaction between the interventions was assumed.,0,0,0,0,0,0,0,0,0,0,0
+58,"Based on our previous 2-year osteoarthritis trial, we accounted for 10% lost to follow-up.",0,0,0,0,0,0,0,0,0,0,0
+59,"Therefore, 2 groups of 200 subjects would be appropriate (one-sided testing, alpha = 0.05, beta = 0.80).",0,0,0,0,0,0,0,0,0,0,0
+60,Intention-to-treat (ITT) analyses on all available data of all knees of all randomized participants served as primary analyses.,0,0,0,0,0,0,0,0,1,0,0
+61,"The interaction between both interventions was determined using generalized estimating equations (GEE), adjusted for confounding variables.",0,0,0,0,0,0,0,0,0,0,0
+62,"Next, the effects of the diet-and-exercise program and the glucosamine vs placebo intervention were determined using GEE, adjusted for confounding variables.",0,0,1,0,0,0,0,0,0,0,0
+63,"In case of a significant interaction between the interventions, these analyses will be performed over 4 groups, with subjects in the diet-and-exercise program control group receiving placebo as reference ( Appendix ).",0,0,0,0,0,0,0,0,0,0,0
+64,"For the predefined per-protocol (PP) analyses, the ITT analyses were rerun, between those subjects compliant to the diet-and-exercise program (≥ 6 dietary consultations and ≥ 7 exercise classes) and those randomized to the control group and, separately, in those with an objective compliance calculation ≥ 75%.",0,0,0,0,0,0,0,0,0,0,0
+65,"A sensitivity analysis excluding all knees fulfilling one of the criteria of the primary outcome at baseline was performed, and all analyses were repeated on subject level.",0,0,0,0,0,0,0,0,0,0,0
+66,"All analyses were performed using PASW statistics version 20.0 (SPSS Inc, Chicago, IL).",0,0,0,0,0,0,0,0,0,0,0
+67,"Available secondary outcomes were analyzed using a linear mixed model estimated by restricted maximum likelihood (SAS 9.2, SAS Institute Inc, Cary, NC).",0,0,0,0,0,0,0,0,0,0,0
+68,A P -value < .05 was defined as statistically significant for all analyses.,0,0,0,0,0,0,0,0,0,0,0
+69,Randomization code for glucosamine vs placebo intervention was broken after all analyses were completed.,0,0,0,0,0,0,0,0,0,0,0
+70,"In total, 6691 women were contacted by 50 general practitioners.",0,0,0,0,0,0,0,0,0,0,0
+71,"Eventually, 407 women were invited for baseline measurements and were randomized (24.8% to the diet-and-exercise program intervention/placebo group and 25.1% to each of the other groups, see Figure ).",0,0,0,0,0,0,0,0,0,0,0
+72,Mean age was 55.7 ± 3.2 years and mean BMI was 32.4 ± 4.3 kg/m 2 ( Table 1 ).,0,0,0,0,0,0,0,0,0,0,0
+73,"After 2.5 years, 41 women (10.1%) were lost to follow-up.",0,0,0,0,0,0,0,1,0,0,0
+74,"Of these, 36 women were unwilling; 2 withdrew because of side effects; one was unattainable; 2 died in the course of the study.",0,0,0,0,0,0,0,1,0,0,0
+75,One woman died shortly after the study ended (all deaths not related to study drugs).,0,0,0,0,0,0,0,1,0,0,0
+76,Distribution and Mean (SD) of Prognostic Variables Among the Randomized Intervention Arms at Baseline,0,0,0,1,0,0,0,0,0,0,0
+77,Joint space narrowing (intraclass correlation 0.67-0.76) was found medially in 5% and laterally in 6% of all knees.,0,0,0,1,0,0,0,0,0,0,0
+78,Incidence of K&L grade ≥ 2 was found in 4% of all knees (kappa 0.6).,0,0,0,1,0,0,0,0,0,0,0
+79,Six percent of all knees showed incident clinical osteoarthritis.,0,0,0,1,0,0,0,0,0,0,0
+80,"Combined into the primary outcome, 135 knees (17%) showed incident knee osteoarthritis (in 28% of all women).",0,0,0,1,0,0,0,0,0,0,0
+81,"Despite the fact that all included subjects were free of clinical knee osteoarthritis at initial screening, 3.9% of all knees fulfilled the ACR criteria at baseline and 6.6% showed K&L grade 2 after detailed assessment of the radiographs.",0,0,0,0,0,0,0,0,0,0,0
+82,"Multivariately, only K&L grade was associated with the primary outcome.",0,0,0,0,0,0,0,0,0,0,0
+83,The ITT analyses showed a significant interaction ( P = .04).,0,0,0,0,0,0,0,0,0,0,0
+84,"Hence, the effects of one intervention depended on the allocation of the other intervention and 4 groups had to be analyzed separately ( Table 2 ).",1,0,0,0,0,0,0,0,0,0,0
+85,Odds Ratios from Intention-to-treat Analyses for the Four Randomized Groups on Incidence of Knee OA,0,0,0,0,0,0,0,0,1,0,0
+86,Twenty-eight percent of the 203 women randomized to the diet-and-exercise program were compliant (equally distributed over placebo and glucosamine groups).,0,0,0,0,0,0,0,0,0,0,0
+87,Compliant women had a mean weight reduction of 1.4 ± 5.2 kg at follow-up vs 0.0 ± 6.7 kg in the control group.,0,0,0,0,0,0,0,0,0,0,0
+88,"At 6 and 12 months, the number of participants fulfilling the predefined target of 5 kg or 5% weight reduction was significantly higher in the intervention group (14% vs 6% at 6 months, P = .01; 17% vs 10% at 12 months, P = .04).",0,0,0,0,0,0,0,0,0,0,0
+89,"Eventually, 63 women (15%) met this target at 30 months.",0,0,0,0,0,0,0,0,0,0,0
+90,Detailed effects of the diet-and-exercise program can be found elsewhere.,0,0,0,0,0,0,0,0,0,1,1
+91,PP analyses showed a significant interaction with the glucosamine vs placebo intervention ( P = .01).,0,0,1,0,0,0,0,0,0,0,0
+92,"Incidence of knee osteoarthritis was found in 19%, 13%, 9%, and 23% of the knees of subjects randomized to the control group with placebo, with glucosamine, subjects compliant to the diet-and-exercise program with placebo, and those with glucosamine, respectively ( Table 3 ).",0,0,0,0,0,0,0,0,0,0,0
+93,Odds Ratios from Per-protocol Analyses on Incidence of Knee OA,0,0,0,0,0,0,0,0,1,0,0
+94,Oral Glucosamine Sulfate vs Placebo,0,0,0,0,0,0,0,0,0,0,0
+95,"A total of 291 adverse events were reported by a total of 118 women, equally divided between the glucosamine and placebo groups (chi-squared test: P = .23).",0,0,0,0,0,0,0,0,0,0,0
+96,All reported serious adverse events (26 by 25 women) were classified as not related to the study drug and also equally divided between groups (chi-squared test: P = .26).,0,0,0,0,0,0,0,0,0,0,0
+97,"After study ending, 17% of the women in the placebo group and 15% of the women in the glucosamine group were convinced they had received glucosamine.",0,0,0,0,0,0,0,0,0,0,0
+98,The majority of all women (52% in the placebo group and 46% in the glucosamine group) were convinced they received placebo (chi-squared test: P = .24).,0,0,0,0,0,0,0,0,0,0,0
+99,None of the involved researchers or participants were unblinded during the trial.,0,0,0,0,1,1,1,0,0,0,0
+100,"In total, 250 women were compliant (66% of the placebo group, 57% of the glucosamine group).",0,0,0,0,0,0,0,0,0,0,0
+101,PP analyses showed no interaction between both interventions ( P = .17).,0,0,0,0,0,0,0,0,0,0,0
+102,"Incidence of knee osteoarthritis occurred in 20% of the knees of the women compliant to the placebo (21% in the control group and 18% in the diet-and-exercise program intervention group), and in 21% (17% in control group and 24% in the diet-and-exercise program intervention group) of the knees of women compliant to glucosamine (adjusted OR 0.99 [95% CI, 0.61-1.63]).",0,0,0,0,0,0,0,0,0,0,0
+103,Secondary outcomes are represented in Appendix Figures 1-4 (available online).,0,0,0,0,0,0,0,0,0,1,1
+104,There was a statistically significant difference only between the diet-and-exercise program intervention and control group on actual weight loss ( P = .04).,0,0,0,0,0,0,0,0,0,0,0
+105,Detailed analyses showed a significant difference in weight loss at 6 months ( P < .01) and 12 months ( P = .01).,0,0,0,0,0,0,0,0,0,0,0
+106,"Also in PP analyses, only the effect of the diet-and-exercise program on actual weight loss was statistically significant in favor of the intervention group ( P = .01), with statistically significant differences in weight loss at 6 months ( P < .01), 12 months ( P < .01), 18 months ( P = .02), and 24 months ( P = .04).",0,0,0,0,0,0,0,0,0,0,0
+107,"When excluding all knees fulfilling one of the items of the primary outcome at baseline, the interaction between both interventions was borderline significant in the ITT analyses ( P = .10) and statistically significant in the PP analysis for the diet-and-exercise program ( P = .03) ( Appendix Tables 1 and 2 , available online).",0,0,0,0,0,0,0,0,0,0,0
+108,"In the sensitivity analyses at subject level, the interaction between both interventions was also borderline significant in ITT analyses ( P = .12) and statistically significant in PP analyses for the diet-and-exercise program ( P < .01) ( Appendix Tables 3 and 4 , available online).",0,0,0,0,0,0,0,0,0,0,0
+109,This study presents the first-ever preventive randomized trial on osteoarthritis worldwide.,0,0,0,0,0,0,0,0,0,0,0
+110,The diet-and-exercise program and the glucosamine sulfate intervention showed no significant main effects on the incidence of knee osteoarthritis after 2.5 years.,0,0,0,0,0,0,0,0,1,0,0
+111,"However, due to the unexpected significant interaction, these analyses were slightly underpowered.",0,0,0,0,0,0,0,0,0,0,0
+112,"The fact that the interaction became even stronger in subjects compliant to the diet-and-exercise program was found in sensitivity analyses, and at subject level, indicates a true interaction between the interventions.",0,0,0,0,0,0,0,0,0,0,0
+113,This preventive randomized trial focused on subjects with high risk of developing knee osteoarthritis and used a combined outcome measure to make a trial in such a slowly progressing disease feasible over a relative short time period.,0,0,0,0,0,0,0,0,0,0,0
+114,"This combination of radiographic and clinical measures of knee osteoarthritis into the primary outcome improves the ability to determine the preventive effects of the studied interventions, although one misses the detailed insight in the development of the disease.",0,0,0,0,0,0,0,0,0,0,0
+115,"Explorative evaluation of the separate items of the primary outcome confirmed the pattern found in the main analyses, but longer follow-up is needed to statistically test these outcomes separately given the naturally slow disease development.",0,0,0,0,0,0,0,0,0,0,0
+116,"Although we found no significant main effects of the diet-and-exercise program and the glucosamine vs placebo intervention on primary outcomes, the interaction between the interventions did show several interesting results.",0,0,0,0,0,0,0,0,0,0,0
+117,"Where glucosamine sulfate reduced osteoarthritis incidence numbers in the group not undergoing the diet-and-exercise program (13% vs 19%; adjusted OR 0.59 [95% CI, 0.31-1.12]), osteoarthritis incidence was increased in the glucosamine sulfate group within the diet-and-exercise program intervention group (20% vs 15%; adjusted OR 1.44 [95% CI, 0.83-2.48]).",0,0,0,0,0,0,0,0,0,0,0
+118,"On the other hand, the diet-and-exercise program reduced the incidence numbers within the placebo group (15% vs 19%; adjusted OR 0.69 [95% CI, 0.39-1.21]), but showed an increased OR within the glucosamine sulfate group (20% vs. 13%; adjusted OR 1.63 [95% CI, 0.89-3.01]).",0,0,0,0,0,0,0,0,0,0,0
+119,"Taking only subjects compliant with the diet-and-exercise program into account, the effects became even stronger (9% vs. 19%; adjusted OR 0.35 [95% CI, 0.11-1.10] within the placebo group and 23% vs 13%; adjusted OR 2.17 [95% CI, 0.95-4.96] within the glucosamine sulfate group).",0,0,0,0,0,0,0,0,0,0,0
+120,"Although tested in subjects with established knee osteoarthritis, results from Messier et al might give some suggestion for the mechanism behind this interaction.",1,0,0,0,0,0,0,0,0,0,0
+121,"Messier and co-workers found that after a 6-month exercise period, subjects randomized to a combination of glucosamine/chondroitin decreased in knee flexion strength, whereas subjects receiving placebo significantly improved their strength.",0,0,0,0,0,0,0,0,0,0,0
+122,These results suggest that glucosamine might interfere with processes of repair and growth after physical exercise.,0,0,0,0,0,0,0,0,0,0,0
+123,"On the other hand, a 12-week training program combined with glucosamine sulfate did not show a difference in knee extension strength over the placebo group in knee osteoarthritis patients.",0,0,0,0,0,0,0,0,0,0,0
+124,"The more sensitive and explorative measures of the MRI and biomarkers, which are being assessed within the present study, might provide more detailed information on the underlying mechanism.",0,0,0,0,0,0,0,0,0,0,0
+125,"For implementation reasons, a very pragmatic design was chosen for the diet-and-exercise program.",0,0,0,0,0,0,0,0,0,0,0
+126,"Nevertheless, the intervention had a significant effect on the actual weight loss during the first year of follow-up, and activity levels were higher in the intervention group throughout the total follow-up period.",0,0,0,0,0,0,0,0,0,0,0
+127,"Thus, despite the relatively low compliance figures, similar to other physical exercise and diet interventions in overweight and obese individuals,  and a short duration, the current diet-and-exercise program succeeded in a low-level change in lifestyle, also in the ITT population.",0,0,0,0,0,0,0,0,0,0,0
+128,"Contrary to daily practice, the control group was relatively active.",0,0,0,0,0,0,0,0,0,0,0
+129,Nearly 90% of all subjects reported a preference for the intervention group at baseline.,0,0,0,0,0,0,0,0,0,0,0
+130,"For ethical reasons, the control group was not actively refrained from any interventions on weight loss.",0,0,0,0,0,0,0,0,0,0,0
+131,"After 2.5 years, 18% of all women randomized to the control group fulfilled the criterion of losing 5 kg or 5% of baseline body weight.",0,0,0,0,0,0,0,0,0,0,0
+132,"Therefore, the effects of the diet-and-exercise program found on incident knee osteoarthritis may have been underestimated.",0,0,0,0,0,0,0,0,0,0,0
+133,"In conclusion, we showed no significant main effects of the diet-and-exercise program or the glucosamine vs placebo intervention on incidence of knee osteoarthritis over 2.5 years.",0,0,0,0,0,0,0,0,1,0,0
+134,"These analyses, however, were hampered by an unexpected significant interaction between the 2 interventions.",0,0,0,0,0,0,0,0,0,0,0
+135,"The current trial provides many new insights in the possibilities for prevention of knee osteoarthritis within a high-risk group of middle-aged, overweight women.",0,0,0,0,0,0,0,0,0,0,0
+136,The low dropout rate of 10% strengthens results of this first attempt to prevent osteoarthritis in subjects at high risk.,0,0,0,0,0,0,0,0,0,1,1
+137,The indications for preventive effects of the 2 interventions separately and their interaction needs further elaboration.,0,0,0,0,0,0,0,0,0,0,0

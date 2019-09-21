@@ -1,0 +1,223 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Corneal cross-linking is widely used to treat keratoconus.,0,0,0,0,0,0,0,0,0,0,0
+1,"However, to date, only limited data from randomized trials support its efficacy.",0,0,0,0,0,0,0,0,0,0,0
+2,"The efficacy and safety of corneal cross-linking for halting progression of keratoconus were investigated in a prospective, randomized, blinded, placebo controlled, multicentre trial.",1,1,1,0,1,1,1,0,0,0,0
+3,Twenty-nine keratoconus patients were randomized in three trial centres.,1,1,1,0,1,1,1,0,0,0,0
+4,The mean age at inclusion was 28 years.,1,0,1,0,1,1,1,0,0,0,0
+5,Longitudinal changes in corneal refraction were assessed by linear regression.,1,0,1,0,1,1,1,0,0,0,0
+6,"The best corrected visual acuity, surface defects and corneal inflammation were also assessed.",1,0,1,0,1,1,1,0,0,0,0
+7,These data were analysed with a multifactorial linear regression model.,0,0,0,0,0,0,0,0,0,0,0
+8,A total of 15 eyes were randomized to the treatment and 14 to the control group.,0,0,0,1,0,0,0,1,0,1,1
+9,Follow-up averaged 1098 days.,0,0,0,1,0,0,0,1,0,1,1
+10,Corneal refractive power decreased on average (+/−standard deviation) by 0.35 +/− 0.58 dioptres/year in the treatment group.,0,0,0,1,0,0,0,1,0,1,1
+11,The controls showed an increase of 0.11 +/− 0.61 dioptres/year.,0,0,0,1,0,0,0,1,0,1,1
+12,"This difference was statistically significant (<span class=""italic"">p</span> = 0.02).",0,0,0,1,0,0,0,1,0,1,1
+13,Our data suggest that corneal cross-linking is an effective treatment for some patients to halt the progression of keratoconus.,0,0,0,0,0,0,0,0,0,0,0
+14,"However, some of the treated patients still progressed, whereas some untreated controls improved.",0,0,0,0,0,0,0,0,0,0,0
+15,"Therefore, further investigations are necessary to decide which patients require treatment and which do not.",0,0,0,0,0,0,0,0,0,0,0
+16,"NCT00626717</a>, Date of registration: February 20, 2008.",0,0,0,0,0,0,0,0,0,0,0
+17,"Keratoconus is a progressive corneal disease that leads to alterations in the overall shape of the cornea and eventual thinning and scarring, with subsequent decreases in vision [<a href=""#CR1"">1</a>].",0,0,0,0,0,0,0,0,0,0,0
+18,"The genetic and environmental contributions to the pathogenesis of keratoconus remain controversial [<a href=""#CR2"">2</a>, <a href=""#CR3"">3</a>].",0,0,0,0,0,0,0,0,0,0,0
+19,"For example, associations with genetic disorders like Down’s syndrome [<a href=""#CR4"">4</a>] and influences of atopic dermatitis and eye rubbing have been described [<a href=""#CR5"">5</a>].",0,0,0,0,0,0,0,0,0,0,0
+20,"Keratoconus usually starts during adolescence and progresses until the third or fourth decade of life [<a href=""#CR6"">6</a>, <a href=""#CR7"">7</a>].",0,0,0,0,0,0,0,0,0,0,0
+21,"The CLEK (Collaborative Longitudinal Evaluation of Keratoconus) Study [<a href=""#CR8"">8</a>] showed a mean change in flatter keratometry readings of 1.6 dioptres in the natural course of keratoconus progression over an eight year period, where higher rates of progression occurred in younger than in older patients.",0,0,0,0,0,0,0,0,0,0,0
+22,"Furthermore, an increase of more than 3 dioptres in spherical equivalent was observed in 24.1 % of patients with risk factors for high progression, such as young age and poor high-contrast visual acuity [<a href=""#CR8"">8</a>].",0,0,0,0,0,0,0,0,0,0,0
+23,The intention of the corneal cross-linking (CXL) procedure using riboflavin is to halt the progression of keratoconus.,0,0,0,0,0,0,0,0,0,0,0
+24,The induction of covalent molecular cross-links in corneal tissue using riboflavin and UVA-Radiation was first described by Spoerl et al.,0,0,0,0,0,0,0,0,0,0,0
+25,"in porcine corneas in 1998 [<a href=""#CR9"">9</a>].",0,0,0,0,0,0,0,0,0,0,0
+26,"In vitro experiments have since shown that CXL leads to changes in the thermo-mechanical behaviour of the cornea [<a href=""#CR10"">10</a>], the collagen fibre diameter [<a href=""#CR11"">11</a>, <a href=""#CR12"">12</a>], the resistance to enzymatic digestion [<a href=""#CR13"">13</a>] and the corneal thickness [<a href=""#CR14"">14</a>].",0,0,0,0,0,0,0,0,0,0,0
+27,"In addition, apoptosis and loss of keratocytes have been observed [<a href=""#CR15"">15</a>].",0,0,0,0,0,0,0,0,0,0,0
+28,"The method was clinically introduced in 2003 with a non-randomized pilot study in 22 patients [<a href=""#CR16"">16</a>].",0,0,0,0,0,0,0,0,0,0,0
+29,"In this prospective pilot study, Wollensak et al.",0,0,0,0,0,0,0,0,0,0,0
+30,"reported a halt in the progression in all treated eyes [<a href=""#CR16"">16</a>].",0,0,0,0,0,0,0,0,0,0,0
+31,"Since then, many more non-randomized studies, case series or cohort studies [<a href=""#CR17"">17</a>–<a href=""#CR23"">23</a>] have demonstrated similar results, with the largest trial being that of Raiskup-Wolf et al., which included 241 eyes [<a href=""#CR18"">18</a>].",0,0,0,0,0,0,0,0,0,0,0
+32,Four promising randomized controlled trials of corneal cross-linking were performed in the past.,0,0,0,0,0,0,0,0,0,0,0
+33,Wittig-Silva et al.,0,0,0,0,0,0,0,0,0,0,0
+34,"first published interim results of an Australian trial in 2008 which showed a stabilization of all treated eyes [<a href=""#CR24"">24</a>].",0,0,0,0,0,0,0,0,0,0,0
+35,"The final results with 46 patients in the treatment group and 48 patients in the control group demonstrated an improvement in maximal keratometric power (Kmax) and visual acuity in the treated patients, while the untreated patients showed further keratoconus progression [<a href=""#CR25"">25</a>].",0,0,0,0,0,0,0,0,0,0,0
+36,A second randomized controlled trial performed by Hersh et al.,0,0,0,0,0,0,0,0,0,0,0
+37,"included eyes with keratoconus and post-lasik ectasia [<a href=""#CR26"">26</a>], as well as a sham treatment group that received corneal cross-linking after three months.",0,0,0,0,0,0,0,0,0,0,0
+38,All patients were aware of their randomly assigned groups.,0,0,0,0,0,0,0,0,0,0,0
+39,"An improvement in uncorrected and corrected visual acuity, as well as the topographic measurements was reported in the treatment group.",0,0,0,0,0,0,0,0,0,0,0
+40,"After one-year follow-up, an overall improvement in corneal shape was observed [<a href=""#CR27"">27</a>].",0,0,0,0,0,0,0,0,0,0,0
+41,"A third randomized controlled study, conducted by O’Brart in 24 patients, demonstrated an improvement in in corrected visual acuity, Orbscan simulated and keratometry simulated astigmatism [<a href=""#CR28"">28</a>].",0,0,0,0,0,0,0,0,0,0,0
+42,The control group consisted of the fellow eyes.,0,0,0,0,0,0,0,0,0,0,0
+43,Sharma et al.,0,0,0,0,0,0,0,0,0,0,0
+44,performed the fourth study—a prospective randomized controlled trial in an Asian population with a total of 43 patients.,0,0,0,0,0,0,0,0,0,0,0
+45,"A decrease was observed in the maximum and minimum keratometry in the cross-linking group in this study [<a href=""#CR29"">29</a>].",0,0,0,0,0,0,0,0,0,0,0
+46,The safety of cross-linking has also been assessed in various trials.,0,0,0,0,0,0,0,0,0,0,0
+47,"The removal of the epithelium can lead to the occurrence of bacterial keratitis [<a href=""#CR30"">30</a>], corneal melting [<a href=""#CR31"">31</a>], haze [<a href=""#CR32"">32</a>], corneal endothelial loss [<a href=""#CR33"">33</a>] and even calcific band keratopathy [<a href=""#CR34"">34</a>].",0,0,0,0,0,0,0,0,0,0,0
+48,A study by Greenstein et al.,0,0,0,0,0,0,0,0,0,0,0
+49,"described an increase in haze up to three months after treatment, followed by a decrease up to month 12 [<a href=""#CR32"">32</a>].",0,0,0,0,0,0,0,0,0,0,0
+50,Koller et al.,0,0,0,0,0,0,0,0,0,0,0
+51,"described an overall complication rate of 2.9 % in a prospective trial and identified risk factors such as patient age of more than 35 years and a visual acuity better than 20/25 [<a href=""#CR35"">35</a>].",0,0,0,0,0,0,0,0,0,0,0
+52,"The efficacy and safety of corneal cross-linking has been suggested by different authors, but clear proof of a therapeutic effect is not available through a placebo-controlled study with an independent control group [<a href=""#CR36"">36</a>].",0,0,0,0,0,0,0,0,0,0,0
+53,"Therefore, we investigated the efficacy of corneal cross-linking with riboflavin in halting the progression of keratoconus by conducting a placebo-controlled, randomized, blinded, multicentric clinical trial that included an independent control group.",0,0,0,0,0,0,0,0,0,0,0
+54,"This study was performed at three university eye hospitals—in Freiburg, Munich and Würzburg—and was registered at cliniclatrials.gov (NCT00626717).",0,0,0,0,0,0,0,0,0,0,0
+55,"Ethics Committee approval was obtained at Albert-Ludwigs-University of Freiburg, Ludwig-Maximilians-University, Munich and University Hospital Würzburg.",0,0,0,0,0,0,0,0,0,0,0
+56,"Written informed consent was obtained from the patient, or in case of minors, from the parent or legal guardian.",0,0,0,0,0,0,0,0,0,0,0
+57,Research adhered to the tenets of the Declaration of Helsinki.,0,0,0,0,0,0,0,0,0,0,0
+58,"The inclusion criteria for this study were keratoconus at an early stage, defined as correction of refractive error possible with spectacles or contact lenses.",0,0,0,0,0,0,0,0,0,0,0
+59,The progression had to be either proven by measurement of the corneal topography (an increase of more than 1 dioptre in Kmax within one year) or by a clinically significant change in refraction.,0,0,0,0,0,0,0,0,0,0,0
+60,The change in refraction was defined as a change in spectacle correction or change in contact lens parameters.,0,0,0,0,0,0,0,0,0,0,0
+61,"Exclusion criteria were patient age under 12 years, corneal thickness below 450 μm, further pre-existing ocular diseases, prior ocular surgery, pregnancy and allergy to riboflavin.",0,0,0,0,0,0,0,0,0,0,0
+62,Written informed consent was obtained prior to participation.,0,0,0,0,0,0,0,0,0,0,0
+63,"The initial examination included best corrected visual acuity, slit lamp examination and ophthalmoscopy and assessment of corneal topography with the Orbscan II system (Bausch &amp; Lomb) at the Freiburg centre or with the Pentacam (OCULUS Optikgeräte GmbH) at the Munich and Würzburg centres.",0,0,0,0,0,0,0,0,0,0,0
+64,"The change in keratometric corneal refraction was the primary evaluation and every measurement on each patient was done using the same topography system; consequently, we only assessed the longitudinal changes.",0,0,0,0,0,0,0,0,0,0,0
+65,Systematic errors due to the keratometry measurements by different systems are therefore unlikely.,0,0,0,0,0,0,0,0,0,0,0
+66,Computerized randomization was performed at the coordinating centre in Freiburg.,0,0,0,0,0,0,0,0,0,0,0
+67,Randomization was stratified by centre and the randomizations were submitted via fax.,0,0,0,0,0,0,0,0,0,0,0
+68,The patients were either randomized to the treatment or the placebo group.,0,0,0,0,0,0,0,0,0,0,0
+69,"On the same day, the worse eye was treated either with a standard CXL protocol [<a href=""#CR16"">16</a>] or with a sham procedure.",0,0,0,0,0,0,0,0,0,0,0
+70,"The worse eye was defined as the eye with a greater progression, or steeper K-values in case of equal progression in both eyes.",0,0,0,0,0,0,0,0,0,0,0
+71,"The CXL was performed according to an established protocol, as follows: corneal epithelial removal, 0.1 % riboflavin eye drops (MedioCROSS H Riboflavin &gt; 0,1 %, Medio-Haus Medizinprodukte GmbH, Kiel) every two minutes for 30 min, and UVA 370 nm at 3 mW/cm<sup>2</sup> for 30 min with continued application of 0.1 % riboflavin eye drops every two minutes.",0,0,0,0,0,0,0,0,0,0,0
+72,"The sham procedure consisted of application of fluorescein eye drops every two minutes for 30 min, radiation with visible blue light for 30 min and no epithelial removal.",0,0,0,0,0,0,0,0,0,0,0
+73,"Postoperative slit-lamp examinations were scheduled at days 1, 3, 5 and 7 after the intervention.",0,0,0,0,0,0,0,0,0,0,0
+74,"Examinations included best corrected visual acuity and slit lamp examination, as well as ophthalmoscopy and corneal topography.",0,0,0,0,0,0,0,0,0,0,0
+75,Topography assessment was repeated three times each visit and the averaged K-values were entered into the case report forms.,0,0,0,0,0,0,0,0,0,0,0
+76,"Examination was performed on days 14, 30 and 90 as well as months 6, 9, 12, 18, 24 and 36 post intervention.",0,0,0,0,0,0,0,0,0,0,0
+77,The controls were easily identifiable during the first 4 visits since the epithelium was not removed.,0,0,0,0,0,0,0,0,0,0,0
+78,"Therefore, a second examiner, who had not participated in the treatment or the first examinations, took over follow-up examinations from the 5<sup>th</sup> visit on to achieve a blinding of the examiner.",0,0,0,0,0,0,0,0,0,0,0
+79,The patients were informed about possible symptoms of dry eye and pain due to epithelial removal.,0,0,0,0,0,0,0,0,0,0,0
+80,"However, patients were not informed about the connection of these symptoms with the placebo or CXL treatment.",0,0,0,0,0,0,0,0,0,0,0
+81,The patients therefore were not fully aware of their assignment to the placebo or CXL group.,0,0,0,0,0,0,0,0,0,0,0
+82,The use of contact lenses was not restricted.,0,0,0,0,0,0,0,0,0,0,0
+83,The primary end-point was progression of keratoconus.,0,0,0,0,0,0,0,0,1,0,0
+84,An increase of 1 dioptre per year in patients younger than 20 years and an increase of 0.2 dioptres per year in the complete cohort was considered as progression according to the data of the natural course of the disease from the CLEK Study.,0,0,0,0,0,0,0,0,1,0,0
+85,This was measured by the longitudinal change in keratometric corneal refraction (maximum simulated K-readings) and calculated by linear regression over the steeper K-readings plotted against follow-up time for each patient.,0,0,0,0,0,0,0,0,1,0,0
+86,"Sample size was calculated to ensure detection of a halting of the spontaneous progression rate from the CLEK study [<a href=""#CR37"">37</a>].",0,0,0,0,0,0,0,0,1,0,0
+87,"According to the CLEK study, we assumed a progression risk of 30 % within two years.",0,0,0,0,0,0,0,0,1,0,0
+88,A one-year recruiting time and minimum follow up of two years were expected.,0,0,0,0,0,0,0,0,0,0,0
+89,"A two-sample <span class=""italic"">t</span>-test power calculation estimated a statistical power of 80 % with a total sample size of 65 patients per group.",0,0,0,0,0,0,0,0,0,0,0
+90,"Unfortunately, this was not achieved, since most candidates were either non-progressive or reluctant to undergo randomization.",0,0,0,0,0,0,0,0,0,0,0
+91,"Therefore, we closed the trial after recruitment of 30 patients.",0,0,0,0,0,0,0,0,0,0,0
+92,"As secondary endpoints, we also assessed the minimal simulated K-readings, the central corneal thickness, worsening of best corrected visual acuity and the occurrence of further adverse events.",0,0,0,0,0,0,0,0,0,0,0
+93,The trial was originally analysed according to the intention-to-treat principle.,0,0,0,0,0,0,0,0,0,0,0
+94,"Because we did not stratify randomization for age in the protocol, we opted for a multiple linear regression model with group assignment and age at inclusion to control for these potential confounders.",0,0,0,0,0,0,0,0,0,0,0
+95,The consort chart is depicted in Fig.,0,0,0,0,0,0,0,0,0,0,0
+96,"<a href=""#Fig1"">1</a>.",0,0,0,0,0,0,0,0,0,0,0
+97,"One patient had to be excluded prior to randomization since the inclusion criteria were not fulfilled, leaving 29 patients available for analysis.",0,0,0,0,0,0,0,0,0,0,0
+98,"Of these, 15 patients had documented progression of keratoconus; the remaining 14 patients had reported visual deterioration or worsening of spectacle refraction.",0,0,0,0,0,0,0,0,0,0,0
+99,The mean age at inclusion was 28 years (median range: 17 to 53).,0,0,0,0,0,0,0,0,0,0,0
+100,"In total, 15 patients were randomized to the treatment and 14 to the control group.",0,0,0,0,0,0,0,0,0,0,0
+101,Follow-up averaged 1098 (quartiles 802 to 1131) days.,0,0,0,0,0,0,0,0,0,0,0
+102,"Baseline and follow-up characteristics of the treatment and control group are summarized in Table <a href=""#Tab1"">1</a>.",0,0,0,0,0,0,0,0,0,0,0
+103,"Three patients had an incomplete follow-up and did not participate in further examinations after one year; one of these three belonged to the treatment arm, the other two to the placebo group.",0,0,0,0,0,0,0,0,0,0,0
+104,"View larger version</a></span><span class=""fig-label"">Fig.",0,0,0,0,0,0,0,0,0,0,0
+105,1,0,0,0,0,0,0,0,0,0,0,0
+106,</span>Consort flow-chart.,0,0,0,0,0,0,0,0,0,0,0
+107,Three patients had an incomplete follow-up of one year.,0,0,0,0,0,0,0,0,0,0,0
+108,The data were included in the analysis.,0,0,0,0,0,0,0,0,0,0,0
+109,"One patient belonged to the treatment arm, the other two to the placebo group",0,0,0,0,0,0,0,0,0,0,0
+110,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,0,0,0,0,0,0,0,0
+111,</span>Baseline characteristics of the placebo and treatment (CXL) groups,0,0,0,0,0,0,0,0,0,0,0
+112,Four patients in the treatment group showed a slight steepening of their corneal topography.,0,0,0,0,0,0,0,0,0,0,0
+113,Eleven patients showed a slight flattening or remained stable.,0,0,0,0,0,0,0,0,0,0,0
+114,"In the control group, eight patients showed steepening and six patients showed flattening of the simulated maximum K-reading (Table <a href=""#Tab1"">1</a>, Fig.",0,0,0,0,0,0,0,0,0,0,0
+115,"<a href=""#Fig2"">2</a>).",0,0,0,0,0,0,0,0,0,0,0
+116,In the treatment group the corneal refractive power (Kmax) decreased in mean (+/−standard deviation) by 0.35 +/− 0.58 dioptres per year.,0,0,0,0,0,0,0,0,0,0,0
+117,The control-group showed an increase of 0.11 +/− 0.61 dioptres per year (Fig.,0,0,0,0,0,0,0,0,0,0,0
+118,"<a href=""#Fig2"">2</a>).",0,0,0,0,0,0,0,0,0,0,0
+119,"This difference was statistically significant (<span class=""italic"">p</span> = 0.02) in the multiple linear regression model.",0,0,0,0,0,0,0,0,0,0,0
+120,"Considering our definition of progression, two patients in the placebo group and one patient in the treatment group showed a clinically significant progression.",0,0,0,0,0,0,0,0,0,0,0
+121,The corneal refractive power showed an increase of 1.5 dioptres per year in a 38-year-old patient.,0,0,0,0,0,0,0,0,0,0,0
+122,"View larger version</a></span><span class=""fig-label"">Fig.",0,0,0,0,0,0,0,0,0,0,0
+123,2,0,0,0,0,0,0,0,0,0,0,0
+124,</span>Corneal refractive power for each patient over the time of the follow-up,0,0,0,0,0,0,0,0,0,0,0
+125,The preoperative central corneal thickness was 468 +/− 25.36 μm in the control group and 466 +/− 27.76 μm in the treatment group.,0,0,0,0,0,0,0,0,0,0,0
+126,"Three years after the intervention, the control group corneal thickness was 467 +/− 23.95 μm and the treatment group thickness was 449 +/−71.96 μm; this difference was not statistically significant.",0,0,0,0,0,0,0,0,0,0,0
+127,"All secondary endpoints are summarized in Table <a href=""#Tab2"">2</a>.",0,0,0,0,0,0,0,0,0,0,0
+128,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,0,0,0,0,0,0,0,0,0
+129,"</span>Secondary endpoints: corneal thickness, maximal and minimal simulated K-readings and visual acuity in the placebo and treatment (CXL) group at the end of the trial",0,0,0,0,0,0,0,0,0,0,0
+130,None of the patients sustained bacterial keratitis or subepithelial infiltrates or had to undergo any kind of surgery after the intervention.,0,0,0,0,0,0,0,0,0,0,0
+131,"During the complete follow-up period, eight patients experienced a significant worsening of the best corrected visual acuity: four in the control group and four in the treatment group (Table <a href=""#Tab3"">3</a>).",0,0,0,0,0,0,0,0,0,0,0
+132,Chi-square test showed no statistical difference.,0,0,0,0,0,0,0,0,0,0,0
+133,"See full table</a></span><span class=""fig-label"">Table 3.",0,0,0,0,0,0,0,0,0,0,0
+134,</span>Adverse events in both groups.,0,0,0,0,0,0,0,0,0,0,0
+135,The treatment (CXL) group showed significantly more haze and corneal erosion during the follow-up period.,0,0,0,0,0,0,0,0,0,0,0
+136,"After 3 years, all but 3 eyes showed a complete resolution of the haze",0,0,0,0,0,0,0,0,0,0,0
+137,All eyes in the treatment group had postoperative epithelial defects due to the epithelial removal during surgery.,0,0,0,0,0,0,0,0,0,0,0
+138,"In the placebo group, three eyes developed epithelial defects after the intervention probably due to drying of the ocular surface despite intensive eye drop application during the process.",0,0,0,0,0,0,0,0,0,0,0
+139,"The treatment group showed significantly more haze (15 of 15 patients) than was observed in the control group (four of 15 patients, p &lt; 0.001, Table <a href=""#Tab1"">1</a>).",0,0,0,0,0,0,0,0,0,0,0
+140,"After three years, all but three eyes showed a complete resolution of the haze (Table <a href=""#Tab3"">3</a>).",0,0,0,0,0,0,0,0,0,0,0
+141,"A limitation of our study is its sample size, which was considerably smaller than planned.",0,0,0,0,0,0,0,0,0,0,0
+142,The patients were increasingly unwilling to be randomized against sham procedures.,0,0,0,0,0,0,0,0,0,0,0
+143,We eventually had to terminate the recruitment period after recruitment stalled.,0,0,0,0,0,0,0,0,0,0,0
+144,"For this reason, our study includes only 30 patients and not the anticipated number of 120.",0,0,0,0,0,0,0,0,0,0,0
+145,"However, we strongly believe that our results are of interest because equally-sized unbiased data can no longer be collected these days.",0,0,0,0,0,0,0,0,0,0,0
+146,"This is one of the first randomized, double-blind, placebo-controlled multicentre clinical trials to investigate the efficacy of riboflavin CXL to halt keratoconus progression.",0,0,0,0,0,0,0,0,0,0,0
+147,The control group underwent a sham procedure and did not comprise the fellow eyes of the treated patients.,0,0,0,0,0,0,0,0,0,0,0
+148,"This is especially important since keratoconus is an asymmetric disease [<a href=""#CR38"">38</a>].",0,0,0,0,0,0,0,0,0,0,0
+149,The study reported by O’Brart et al.,0,0,0,0,0,0,0,0,0,0,0
+150,"used a control group without sham treatment, consisting of the fellow eye of the 24 study patients.",0,0,0,0,0,0,0,0,0,0,0
+151,Randomization was performed to account for asymmetric progression.,0,0,0,0,0,0,0,0,0,0,0
+152,"Only three eyes of 24 in the control group showed a slight deterioration in the investigated parameters and the majority of the untreated eyes remained stable [<a href=""#CR28"">28</a>].",0,0,0,0,0,0,0,0,0,0,0
+153,"Intra-individual controls, without sham treatment or blinding, were also used by Wittig-Silva et al.",0,0,0,0,0,0,0,0,0,0,0
+154,"[<a href=""#CR24"">24</a>, <a href=""#CR25"">25</a>], whose data showed stabilization of all treated eyes compared to progression in the fellow eyes.",0,0,0,0,0,0,0,0,0,0,0
+155,The trial by Hersh et al.,0,0,0,0,0,0,0,0,0,0,0
+156,included a control group that underwent a sham procedure.,0,0,0,0,0,0,0,0,0,0,0
+157,The patients were aware of their assigned group.,0,0,0,0,0,0,0,0,0,0,0
+158,Keratoconus in this group remained stable and no significant changes were noted in any of the investigated corneal indices or in best corrected visual acuity.,0,0,0,0,0,0,0,0,0,0,0
+159,"However, a crossover to the treatment group was performed three months after placebo treatment [<a href=""#CR26"">26</a>].",0,0,0,0,0,0,0,0,0,0,0
+160,This group also showed no significant changes in corneal indices or best corrected visual acuity at the time of conversion.,0,0,0,0,0,0,0,0,0,0,0
+161,A trial by Sharma et al.,0,0,0,0,0,0,0,0,0,0,0
+162,included a control group with a sham procedure.,0,0,0,0,0,0,0,0,0,0,0
+163,Epithelial debridement was also performed in the sham group.,0,0,0,0,0,0,0,0,0,0,0
+164,"Similar to our study, this trial showed a significant decrease in Kmax in the cross-linking group.",0,0,0,0,0,0,0,0,0,0,0
+165,"Additional confocal analysis of the epithelial healing and the regeneration of the sub epithelial plexus was performed in this study [<a href=""#CR29"">29</a>].",0,0,0,0,0,0,0,0,0,0,0
+166,Blinding the patients in the present study was challenging due to its design.,0,0,0,0,0,0,0,0,0,0,0
+167,Patients of the CXL arm were more likely to suffer from postoperative pain in comparison to the controls.,0,0,0,0,0,0,0,0,0,0,0
+168,"To address this, we educated all patients that postoperative pain can occur but not at a 100 % rate.",0,0,0,0,0,0,0,0,0,0,0
+169,"Nevertheless, we cannot fully rule out that some patients were possibly aware of their treatment arm.",0,0,0,0,0,0,0,0,0,0,0
+170,"Our opinion, however, is that this did not introduce any systematic bias.",0,0,0,0,0,0,0,0,0,0,0
+171,"Despite its low power, the study also confirms that CXL can significantly alter the steepening of the topographic K-readings in keratoconus patients, since the overall maximum K-reading decreased by 0.35 +/− 0.58 dioptres per year.",0,0,0,0,0,0,0,0,0,0,0
+172,"This finding was adjusted for age, a well-known risk factor for progression of keratoconus.",0,0,0,0,0,0,0,0,0,0,0
+173,"However, four of the 15 patients in the treatment group showed an increase in Kmax from 0.02 to 0.32 dioptres per year.",0,0,0,0,0,0,0,0,0,0,0
+174,The age of these patients ranged from 19 to 38 years.,0,0,0,0,0,0,0,0,0,0,0
+175,Six of 14 patients in the control group showed no steepening of any kind in their corneal topographies.,0,0,0,0,0,0,0,0,0,0,0
+176,"Moreover, the remaining eight patients in this group all suffered only from a mild to moderate steepening of the topographic K-readings, so that only two of the controls finally fulfilled our criteria for the progression of keratoconus.",0,0,0,0,0,0,0,0,0,0,0
+177,"Incidentally, one of these two patients had the highest slope and by far the highest simulated maximum K-reading of more than 65 dioptres.",0,0,0,0,0,0,0,0,0,0,0
+178,"Since this patient was assigned to the control group, this might represent a bias in our study.",0,0,0,0,0,0,0,0,0,0,0
+179,"However, omission of this patient from the statistical analysis still reveals a significant difference between both groups (data not shown).",0,0,0,0,0,0,0,0,0,0,0
+180,"In the treatment group, four patients showed a slight steepening of their corneal topographies.",0,0,0,0,0,0,0,0,0,0,0
+181,One of these patients fulfilled our criteria for the progression of keratoconus.,0,0,0,0,0,0,0,0,0,0,0
+182,"The reason why only a few of the control patients maintained progression during the course of the trial might be that, according to the protocol, the progression required for inclusion did not have to be proven by keratometry.",0,0,0,0,0,0,0,0,0,0,0
+183,"Another possible explanation is that the noise of the tomography system that may render the detection signs of progression impossible, especially in patients with higher K-values or irregularities of the surface [<a href=""#CR25"">25</a>, <a href=""#CR39"">39</a>–<a href=""#CR41"">41</a>] or after use of contact lenses.",0,0,0,0,0,0,0,0,0,0,0
+184,We sought to counteract this potential error by repeating the measurements on each visit.,0,0,0,0,0,0,0,0,0,0,0
+185,"Nevertheless, a small inaccuracy of the keratometric K-readings cannot be fully ruled out.",0,0,0,0,0,0,0,0,0,0,0
+186,"The recent consensus states that the progression of keratoconus is best evaluated with additional thickness and posterior keratometric data [<a href=""#CR42"">42</a>]; however, this had not been established at the time of preparation of the study protocol.",0,0,0,0,0,0,0,0,0,0,0
+187,Some of the patients may have had a progression rate that was lower than estimated.,0,0,0,0,0,0,0,0,0,0,0
+188,This limitation of our study may be due to the fact that the patients did not require a proven keratometric progression for enrolment in the trial.,0,0,0,0,0,0,0,0,0,0,0
+189,Not all enrolled patients had documented objective progression.,0,0,0,0,0,0,0,0,0,0,0
+190,We therefore characterized this subgroup to rule out confounding from this factor.,0,0,0,0,0,0,0,0,0,0,0
+191,"Fifteen patients were enrolled with objective documented progression, whereas 14 patients only had subjective worsening.",0,0,0,0,0,0,0,0,0,0,0
+192,"Of those 14 patients, eight were in the treatment and six were in the placebo group.",0,0,0,0,0,0,0,0,0,0,0
+193,"The difference in slope of Kmax was not statistically significant (<span class=""italic"">p</span> = 0.47) between the patients with objective progression before recruitment (−0.22 +/− 0.57 dioptres per year) and the patients with subjective worsening (−0.03 +/−0.67 dioptres per year).",0,0,0,0,0,0,0,0,0,0,0
+194,We added this possible confounder to the multiple linear regression model.,0,0,0,0,0,0,0,0,0,0,0
+195,"This factor missed statistical significance (<span class=""italic"">p</span> = 0.39) and the treatment effect remained statistically significant (<span class=""italic"">p</span> = 0.02).",0,0,0,0,0,0,0,0,0,0,0
+196,"The patient age may also account for the low progression rate observed in the study, especially since nine patients were above 30 years of age.",0,0,0,0,0,0,0,0,0,0,0
+197,"This age group has been shown to have only subtle changes in keratometry [<a href=""#CR37"">37</a>].",0,0,0,0,0,0,0,0,0,0,0
+198,"However, this was also true for the treatment group as a principle of randomization.",0,0,0,0,0,0,0,0,0,0,0
+199,"The low rate of progression is incidentally concordant with the CLEK Study and other CXL trials [<a href=""#CR24"">24</a>, <a href=""#CR26"">26</a>, <a href=""#CR28"">28</a>, <a href=""#CR32"">32</a>].",0,0,0,0,0,0,0,0,0,0,0
+200,"Nevertheless, our study found a slight, but statistically significant, superiority of CXL over placebo treatment regarding the change in corneal topography.",0,0,0,0,0,0,0,0,0,0,0
+201,"This agrees with the findings of the other prospective trials [<a href=""#CR24"">24</a>, <a href=""#CR26"">26</a>, <a href=""#CR27"">27</a>].",0,0,0,0,0,0,0,0,0,0,0
+202,The absence of progression in many untreated patients emphasises the need for careful selection of suitable patients in order to prevent overtreatment.,0,0,0,0,0,0,0,0,0,0,0
+203,"Since three patients were lost to follow-up, a higher incidence of progression cannot be fully ruled out.",0,0,0,0,0,0,0,0,0,0,0
+204,The change in visual acuity did not show a statistically significant difference between the control and treatment group.,0,0,0,0,0,0,0,0,0,0,0
+205,"Even though the cross-linking group experienced more haze, this obviously did not impair the visual acuity of the patients, as also found by Greenstein et al.",0,0,0,0,0,0,0,0,0,0,0
+206,"[<a href=""#CR32"">32</a>].",0,0,0,0,0,0,0,0,0,0,0
+207,"The occurrence of haze after corneal cross-linking has been described by several authors [<a href=""#CR32"">32</a>, <a href=""#CR34"">34</a>].",0,0,0,0,0,0,0,0,0,0,0
+208,The decrease in haze over a period of several months to years is also confirmed.,0,0,0,0,0,0,0,0,0,0,0
+209,"Three patients had remaining haze three years after corneal cross-linking, but none of these patients suffered any visual loss in comparison to their vision before treatment.",0,0,0,0,0,0,0,0,0,0,0
+210,The absence of other more severe complications shows that corneal cross-linking is a safe therapeutic option for keratoconus.,0,0,0,0,0,0,0,0,0,0,0
+211,Our randomized trial confirms a beneficial effect of CXL with riboflavin and UVA radiation as a treatment for progressive keratoconus that halts the changes in corneal topography.,0,0,0,0,0,0,0,0,0,0,0
+212,"We also found that some patients show no worsening or progression of any kind, even without treatment, and we observed a slight steepening in maximum K-readings despite CXL.",0,0,0,0,0,0,0,0,0,0,0
+213,The number of patients needing treatment may therefore be higher than expected.,0,0,0,0,0,0,0,0,0,0,0
+214,Some patients might receive an overtreatment if corneal cross-linking was performed and CXL seems to be less effective in some patients than in others.,0,0,0,0,0,0,0,0,0,0,0
+215,"Therefore, in the future, we need to determine the clinical parameters that will allow for a distinction of keratoconus patients who will benefit from the treatment and the ones who will not.",0,0,0,0,0,0,0,0,0,0,0
+216,CLEK,0,0,0,0,0,0,0,0,0,0,0
+217,Collaborative Longitudinal Evaluation of Keratoconus,0,0,0,0,0,0,0,0,0,0,0
+218,CXL,0,0,0,0,0,0,0,0,0,0,0
+219,Riboflavin corneal cross-linking,0,0,0,0,0,0,0,0,0,0,0
+220,Kmax,0,0,0,0,0,0,0,0,0,0,0
+221,Maximal keratometric power,0,0,0,0,0,0,0,0,0,0,0

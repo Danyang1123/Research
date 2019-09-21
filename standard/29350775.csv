@@ -1,0 +1,230 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,We evaluated whether transcranial direct current stimulation (tDCS) is able to enhance dysphagia rehabilitation following stroke.,0,0,N,0,0,N,0,0,0,0,0
+1,"Besides relating clinical effects with neuroplastic changes in cortical swallowing processing, we aimed to identify factors influencing treatment success.",0,0,N,0,0,N,0,0,0,0,0
+2,"In this double‐blind, randomized study, 60 acute dysphagic stroke patients received contralesional anodal (1mA, 20 minutes) or sham tDCS on 4 consecutive days.",0,0,N,0,0,N,0,0,0,0,0
+3,Swallowing function was thoroughly assessed before and after the intervention using the validated Fiberoptic Endoscopic Dysphagia Severity Scale (FEDSS) and clinical assessment.,0,0,N,0,0,N,1,0,0,0,0
+4,"In 10 patients, swallowing‐related brain activation was recorded applying magnetoencephalography before and after the intervention.",0,0,N,0,0,N,0,0,0,0,0
+5,Voxel‐based statistical lesion pattern analysis was also performed.,0,0,N,0,0,N,0,0,0,0,0
+6,"Study groups did not differ according to demographic data, stroke characteristics, or baseline dysphagia severity.",0,0,N,0,0,N,0,0,0,0,0
+7,"Patients treated with tDCS showed greater improvement in FEDSS than the sham group (1.3 vs 0.4 points, mean difference = 0.9, 95% confidence interval [CI] = 0.4–1.4, p < 0.0005).",0,0,N,0,0,N,0,0,0,0,0
+8,Functional recovery was accompanied by a significant increase of activation (p < 0.05) in the contralesional swallowing network after real but not sham tDCS.,0,0,N,0,0,N,0,0,0,0,0
+9,"Regarding predictors of treatment success, for every hour earlier that treatment was initiated, there was greater improvement on the FEDSS (adjusted odds ratio = 0.99, 95% CI = 0.98–1.00, p < 0.05) in multivariate analysis.",0,0,N,0,0,N,0,0,0,0,0
+10,Stroke location in the right insula and operculum was indicative of worse response to tDCS (p < 0.05).,0,0,N,0,0,N,0,0,0,0,0
+11,"Application of tDCS over the contralesional swallowing motor cortex supports swallowing network reorganization, thereby leading to faster rehabilitation of acute poststroke dysphagia.",0,0,N,0,0,N,0,0,0,0,0
+12,Early treatment initiation seems beneficial.,0,0,N,0,0,N,0,0,0,0,0
+13,tDCS may be less effective in right‐hemispheric insulo‐opercular stroke.,0,0,N,0,0,N,0,0,0,0,0
+14,Swallowing is a complex sensorimotor function requiring appropriate interaction within a bilateral and widely distributed neuronal network.,0,0,N,0,0,N,0,0,0,0,0
+15,"Oropharyngeal dysphagia (OD) is a frequent (20–81%) complaint following stroke, which causes severe complications such as dehydration, malnutrition, and aspiration pneumonia.",0,0,N,0,0,N,0,0,0,0,0
+16,"Despite considerable efforts in dysphagia care, conventional rehabilitation practices lack robust evidence to improve swallowing function or to decrease associated complications.",0,0,N,0,0,N,0,0,0,0,0
+17,Spontaneous recovery of poststroke OD has been related to compensatory changes in swallow‐relevant areas of the undamaged hemisphere with enhanced cortical excitability and enlarged motor representation as surrogate of cortical plasticity.,0,0,N,0,0,N,0,0,0,0,0
+18,"Given this natural ability of the brain to reorganize, there is increasing interest in the therapeutic potential of neuromodulation to treat OD.",0,0,N,0,0,N,1,0,1,0,0
+19,Transcranial direct current stimulation (tDCS) promotes brain plasticity by tonic stimulation with weak direct currents.,0,0,N,0,0,N,0,0,0,0,0
+20,Jefferson et al provided the first evidence that anodal tDCS is able to excite the pharyngeal motor cortex.,0,0,N,0,0,N,0,0,0,0,0
+21,"In a double‐blind, sham‐controlled, magnetoencephalography (MEG) study, we previously demonstrated that anodal tDCS applied over the swallowing motor cortex of either hemisphere increases bilateral swallow‐related cortical activation in a frequency‐specific manner.",0,0,N,0,0,N,0,0,0,0,0
+22,Excitability changes were associated with behavioral gains during complex swallow tasks in healthy individuals.,0,0,N,0,0,N,0,0,0,0,0
+23,"In a clinical pilot study on 14 (sub‐)acute dysphagic stroke patients, application of contralesional tDCS (anodal, 2mA, 30 minutes, 5 days) combined with swallowing exercise resulted in greater improvement on the Dysphagia Outcome and Severity Scale (DOSS) than sham stimulation paired with swallowing training.",0,0,N,0,0,N,0,0,0,0,0
+24,"In a postacute stroke study (N = 16), ipsilesional tDCS (anodal, 2mA, 20 minutes, 10 days) failed to have an immediate effect.",0,0,N,0,0,N,0,0,0,0,0
+25,"After 3 months, results on the Functional Dysphagia Scale were in favor of the treatment group.",0,0,N,0,0,N,0,0,0,0,0
+26,"Applying the same stimulation parameters to chronic stroke patients (N = 20), Shigematsu et al demonstrated that DOSS improved immediately and differences between groups persisted after 1 month.",0,0,N,0,0,N,0,0,0,0,0
+27,"Despite promising results, major limitations have been identified in the majority of studies conducted so far, including the use of subjective clinical outcome measures, patient variability with substantial heterogeneity of lesion location, and small sample size, making it difficult to assess whether the reported effects are statistically sufficiently powered.",0,0,N,0,0,N,0,0,0,0,0
+28,Low numbers also precluded identification of factors influencing treatment response.,0,0,N,0,0,N,0,0,0,0,0
+29,"Moreover, it is unclear whether stimulation should be provided as an intervention on its own or in parallel with conventional exercises.",0,0,N,0,0,N,0,0,0,0,0
+30,"To contribute robust evidence to the value of tDCS in dysphagia rehabilitation and overcome some limitations of previous studies, we evaluated the efficacy of a pathophysiologically reasonable tDCS protocol to improve stroke‐related OD, conducting a randomized controlled trial (RCT) in a sufficiently large patient sample with objective clinical outcome measures alongside functional neuroimaging.",0,0,N,0,0,N,0,0,0,0,0
+31,"We also aimed to identify predictors of treatment success, which we hypothesized to be patient‐related (age, lesion location/size, stroke and OD severity) and/or treatment‐related (timing, tDCS + training vs tDCS alone).",0,0,N,0,0,N,0,0,0,0,0
+32,"Between June 2012 and December 2014, patients from our stroke unit at the University Hospital Münster were recruited.",0,0,N,0,0,N,0,0,0,0,0
+33,"According to our in‐house guidelines, every patient received a standardized swallowing assessment, and those who failed were referred to fiberoptic endoscopic evaluation of swallowing (FEES).",0,0,N,0,0,N,0,0,0,0,0
+34,"Patients older than 18 years were eligible to be included in the study >24 hours from stroke onset if diagnosed with dysphagia due to acute ischemic stroke, confirmed by brain imaging.",0,0,N,0,0,N,0,0,0,0,0
+35,There were no restrictions regarding size and site of infarction as long as there was no hemorrhagic transformation or significant brain edema.,0,0,N,0,0,N,0,0,0,0,0
+36,"No further strict restrictions, for example, regarding stroke severity as measured by the National Institutes of Health Stroke Scale (NIH‐SS) or type of acute stroke treatment, were made to recruit a patient sample as representative as possible that would later enable us to assess patient‐related factors that may influence treatment response.",0,0,N,0,0,N,0,0,0,0,0
+37,"Exclusion criteria were preexisting swallowing difficulties unrelated to stroke, history of seizures, previous or current need for skull surgery, metallic implants of any kind, presence of a tracheal cannula, unstable medical condition, and inability to stay alert and give informed consent.",0,0,N,0,0,N,0,0,0,0,0
+38,All swallowing examinations within this study were conducted by a team of 2 of a pool of 4 experienced investigators.,0,0,N,0,0,N,0,0,0,0,0
+39,"FEES was performed by a trained neurologist together with a speech language pathologist blinded to the patient's study group allocation in accordance with our protocol for dysphagia assessment in acute stroke, which had previously been developed and validated and is recommended for use on German stroke units.",0,0,N,0,0,N,0,0,0,0,0
+40,"In brief, the secretion status is evaluated first.",0,0,N,0,0,N,0,0,0,0,0
+41,"After that, the patient is successively given standard volumes of puree consistency, liquids, and soft solid food.",0,0,N,0,0,N,0,0,0,0,0
+42,"According to the risk of penetration or aspiration of saliva and the different food consistencies observed in the endoscopic examination, stroke‐related dysphagia is classified on the 6‐point Fiberoptic Endoscopic Dysphagia Severity Scale (FEDSS) with 1 scoring best and 6 being worst.",0,0,N,0,0,N,0,0,0,0,0
+43,"Moreover, feeding status was rated using the clinical Dysphagia Severity Rating Scale (DSRS; ranging from 0 [normal fluids, normal diet, and eating independently] to 12 [no oral fluids, no oral feeding]), the Functional Oral Intake Scale (FOIS; ranging from 1 [nothing by mouth] to 7 [total oral diet with no restrictions]), and the “dysphagia limit” test, indicating the amount of water that can be swallowed without piecemeal deglutition or clinical signs of aspiration.",0,0,N,0,0,N,0,0,0,0,0
+44,"To minimize patient risk, dysphagia limit was not tested in patients for whom it was regarded unsafe to swallow even minor amounts of water.",0,0,N,0,0,N,0,0,0,0,0
+45,"Stimulation was delivered by a battery‐driven constant current stimulator (NeuroConn, Ilmenau, Germany) through a pair of conductive‐rubber electrodes in saline‐soaked sponges.",0,0,N,0,0,N,0,0,0,0,0
+46,"As previously described, we positioned the center of the anode (5 × 7cm) approximately 3.5cm lateral and 1cm anterior to the vertex with its long axis parallel to the central sulcus to cover the center of the motor cortical swallowing network.",0,0,N,0,0,N,0,0,0,0,0
+47,"Because dysphagia recovery following stroke relates to neuroplastic changes in the intact hemisphere, this was chosen in cortical stroke patients, whereas the right hemisphere was selected in case of brainstem stroke.",0,0,N,0,0,N,0,0,0,0,0
+48,The rationale behind the latter was that right hemispheric lateralization of swallowing activation was found during early recovery from brainstem stroke.,0,0,N,0,0,N,0,0,0,0,0
+49,The reference electrode had a larger size of 10 × 10cm to diminish its functional effect and was placed over the contralateral orbit.,0,0,N,0,0,N,0,0,0,0,0
+50,"Anodal tDCS was performed at 1mA for 20 minutes, once daily on 4 consecutive days.",0,0,N,0,0,N,0,0,0,0,0
+51,These stimulation parameters had previously shown the optimal effect on pharyngeal motor cortex excitability and proved to be effective in our preceding MEG study on healthy individuals.,0,0,N,0,0,N,0,0,0,0,0
+52,"In the sham condition, stimulation lasted for only 30 seconds with the electrodes left in place for a further 20 minutes.",0,0,N,0,0,N,0,0,0,0,0
+53,"In any case, current was gradually ramped up and down over 30 seconds at the beginning and end of stimulation.",0,0,N,0,0,N,0,0,0,0,0
+54,This procedure mimics the transient skin sensation of real tDCS without producing any sustainable effects.,0,0,N,0,0,N,0,0,0,0,0
+55,It is known to provide a reliable sham condition in naive subjects.,0,0,N,0,0,N,0,0,0,0,0
+56,"If the patient's condition allowed, swallowing exercises (dry swallows, effortful swallows, administration of fluids or pudding, depending on the patient's swallowing abilities) were performed during stimulation.",0,0,N,0,0,N,0,0,0,0,0
+57,Patients not able to perform any swallowing exercises were asked to stay relaxed with their eyes open.,0,0,N,0,0,N,0,0,0,0,0
+58,Whether swallowing training was performed during tDCS was documented.,0,0,N,0,0,N,0,0,0,0,0
+59,Study Outline and Outcome Parameters,0,0,N,0,0,N,0,0,0,0,0
+60,Dysphagic patients fulfilling the inclusion criteria were randomly assigned 1:1 to receive either tDCS or sham stimulation using computer‐assisted randomization.,0,1,N,0,0,N,0,1,0,0,0
+61,They received baseline evaluation of swallowing function as described above.,0,0,N,0,0,N,0,1,0,0,0
+62,"Patients able to participate in a MEG measurement (ie, in a stable medical condition without necessity of any monitoring or continuous medical care, able to sit upright for 15 minutes without relevant moving, and allowed to swallow minor amounts of water during the MEG paradigm) received baseline MEG measurement.",0,0,N,0,0,N,0,0,0,0,0
+63,"Immediately afterward, the study intervention was started.",0,0,N,0,0,N,0,0,0,0,0
+64,"After completion of the 4‐day study intervention phase, patients were reevaluated by clinical assessment, FEES, and MEG within 72 hours.",1,0,N,0,0,N,0,0,1,1,0
+65,Primary endpoint was improvement on the FEDSS after 4 consecutive days of stimulation.,0,0,N,0,0,N,0,0,0,0,0
+66,Secondary endpoints were DSRS and dysphagia limit after the intervention phase.,0,0,N,0,0,N,0,0,0,0,0
+67,"As a follow‐up, final FEDSS, and FOIS scores prior to discharge were documented.",0,0,N,0,0,N,0,0,0,0,0
+68,Further clinical outcome parameters were pneumonia rate until discharge (diagnosed by the treating physician not involved in the study) and length of stay (LOS) on the stroke unit and in total.,0,0,N,0,0,N,0,0,0,0,0
+69,Activation changes in the swallowing network as measured with MEG served as neurophysiological outcome parameter.,0,0,N,0,0,N,0,0,0,0,0
+70,"Moreover, the NIH‐SS subscore of the contralesional arm was assessed to detect potential unintended stimulation effects, because the upper limb motor area is close to the target area stimulated by tDCS.",0,0,N,0,0,N,0,0,0,0,0
+71,"We also kept records on age, sex, NIH‐SS on admission, stroke symptoms, gross lesion site, and stroke etiology.",0,0,N,0,0,N,0,0,0,0,0
+72,"Data on acute stroke treatment (ie, thrombolytic therapy or mechanical recanalization with necessity of orotracheal intubation), duration of ventilation, and time from stroke onset until study inclusion were obtained from every patient.",0,0,N,0,0,N,0,0,0,0,0
+73,Voxel‐based stroke lesion mapping was performed as described below.,0,0,N,0,0,N,0,0,0,0,0
+74,Subjects were unaware of the type of treatment they received.,0,0,N,0,1,N,0,0,0,0,0
+75,"Investigators performing swallowing assessment, medical technical staff involved in MEG data acquisition, and the researchers performing nonautomated steps in anatomical and functional imaging data preprocessing and analysis were also blinded to the intervention type.",0,0,N,0,0,N,0,0,0,0,0
+76,Standard medical and dysphagia care was continued in each case.,0,0,N,0,0,N,0,0,0,0,0
+77,Informed consent was obtained from all patients.,0,0,N,0,0,N,0,0,0,0,0
+78,The nature of the study was approved by the local ethics committee at the University of Münster.,0,0,N,0,0,N,0,1,0,0,0
+79,The study was registered as an RCT (ClinicalTrials.,0,0,N,0,0,N,0,0,0,0,0
+80,Patient recruitment was stopped once the target sample size was reached.,1,0,N,0,0,N,0,0,0,0,0
+81,"From clinical experience, we expected a natural recovery rate of ≥1 FEDSS point during the duration of the intervention in 40% of patients.",0,0,N,0,0,N,0,0,0,0,0
+82,"Based on related research available at the time of study initiation (for recent review and summary see Pisegna et al and Lefaucheur), we assumed tDCS to double this rate to 80%.",0,0,N,0,0,N,0,0,0,0,0
+83,"In a sample size calculation, N = 23 patients would yield a power of 80% to detect a statistically significant difference (alpha = 0.05, 2‐sided) for a 40% increase in the proportion of patients improving ≥1 point on the FEDSS between the tDCS and sham groups.",0,0,N,0,0,N,0,0,0,0,0
+84,Numbers were rounded up to 30 per study arm.,0,0,N,0,0,N,0,0,0,0,0
+85,Statistical Analysis of Demographic and Clinical Parameters,0,0,N,0,0,N,0,0,0,0,0
+86,Descriptive statistics were used to quantify baseline characteristics and patient outcomes.,0,0,N,1,0,N,0,0,0,0,0
+87,Significance of improvement of the primary outcome parameter (FEDSS) within each group was assessed using the Wilcoxon signed‐rank test.,0,0,N,0,0,N,0,0,0,0,0
+88,"For comparison between groups, normally distributed continuous variables were compared with the Student t test.",0,0,N,0,0,N,0,0,0,0,0
+89,The Mann–Whitney U test was used as an analogue nonparametric test.,0,0,N,0,0,N,0,0,0,0,0
+90,Categorical variables were tested by the Pearson chi‐square test or Fisher exact test in case of contingency tables containing <5 cases.,0,0,N,0,0,N,0,0,0,0,0
+91,"Using the Mann–Whitney U test statistic, η2 was calculated as a measure of intervention effect size for the primary outcome parameter.",0,0,N,0,0,N,0,0,0,0,0
+92,"To identify factors associated with treatment response in the stimulation group, uni‐ and multivariate ordinal regression models were applied for analyzing the relationship between improvement of dysphagia scores and age, baseline dysphagia and stroke severity (FEDSS and NIH‐SS, respectively), lesion volume, time from stroke onset until treatment initiation, and additional swallowing training.",0,0,N,0,0,N,0,0,0,0,0
+93,"The analyses were carried out using SPSS Statistics 23.0 (IBM, Armonk, NY).",0,0,N,0,0,N,0,0,0,0,0
+94,Voxel‐based stroke lesion analysis of participants' brain imaging (computed tomography or magnetic resonance imaging) was performed (1) to confirm comparability of lesion distribution between study groups and (2) to identify lesions associated with no response to treatment (tDCS cohort) and lower likelihood of natural recovery (sham cohort).,0,0,N,0,0,N,0,0,0,0,0
+95,"As previously presented by our group, binary lesion masks were obtained from each patient's brain scan applying semiautomatic segmentation (Analyze 10.0; AnalyzeDirect, Overland Park, KS) and were afterward registered to standard space (FSL 5.0; FMRIB Software Library, Oxford, UK).",0,0,N,0,0,N,0,0,0,0,0
+96,The voxelwise frequency of infarct in each group was determined and displayed in a standardized brain map for comparison of lesion distribution between study groups.,0,0,N,0,0,N,0,0,0,0,0
+97,Normalized total lesion volumes (in milliliters) were determined.,0,0,N,0,0,N,0,0,0,0,0
+98,Percentage of lesioned volume of each of 137 atlas‐based brain regions was calculated.,0,0,N,0,0,N,0,0,0,0,0
+99,Regions with ≥ 10% lesion proportion were included in further analyses.,0,0,N,0,0,N,0,0,0,0,0
+100,"Region‐specific infarct‐related log‐transformed odds ratios (log OR) were calculated and compared within the tDCS and sham groups with respect to missing treatment response and bad spontaneous recovery, both indicated by lack of improvement in the primary outcome parameter (FEDSS).",0,0,N,0,0,N,0,0,0,0,0
+101,"Statistical significance (p < 0.05) was assessed applying a nonparametric test statistic29; in brief, 1 million random samples were drawn by selecting 2 groups with group sizes equal to those improved and not improved on the FEDSS, respectively.",0,0,N,0,0,N,0,0,0,0,0
+102,Random region‐specific log ORs for no‐improvement/improvement if infarct present/absent were calculated for each sample.,0,0,N,0,0,N,0,0,0,0,0
+103,"For each region, the distribution of random log ORs about 0 was compared to the observed log ORs to test whether the observed difference from 0 was larger than expected by sampling variability alone (<2.5th or > 97.5th percentile).",0,0,N,0,0,N,0,0,0,0,0
+104,Region‐specific log OR maps of significant areas were generated to identify lesions associated with no response to treatment and lower likelihood of natural recovery.,0,0,N,0,0,N,0,0,0,0,0
+105,Acquisition and Analysis of MEG Data,0,0,N,0,0,N,0,0,0,0,0
+106,"MEG data acquisition, preprocessing and statistical analysis was performed according to a standard pipeline established in previous studies.",0,0,N,0,0,N,0,0,0,0,0
+107,"MEG data were collected using a 275‐channel SQUID sensor array (Omega 275; CTF Systems, Coquitlam, BC, Canada) with a sample frequency of 600 Hz and a 150 Hz low‐pass filter.",0,0,N,0,0,N,0,0,0,0,0
+108,"During the 15‐minute measurement, patients were in an upright position and instructed to swallow volitionally without external cueing.",1,0,N,0,0,N,0,0,0,0,0
+109,Water was continuously infused into the oral cavity via a plastic tube with a flow of 10ml/min.,0,0,N,0,0,N,0,0,0,0,0
+110,"For event‐related MEG data analysis, swallows were identified by surface electromyographic recordings from submental muscles.",0,0,N,0,0,N,0,0,0,0,0
+111,"Subsequent MEG data processing and statistical analysis were carried out with custom‐made MATLAB (MathWorks, Natick, MA) scripts based on FieldTrip (http://www.ru.nl/fcdonders/fieldtrip) 31 as described in detail elsewhere.",0,0,N,0,0,N,0,0,0,0,0
+112,"In brief, MEG data were filtered within theta (4–8 Hz), alpha (8– 13 Hz), beta (13–30 Hz), low gamma, (30–60 Hz), and high gamma (60–80 Hz) frequency bands.",0,0,N,0,0,N,0,0,0,0,0
+113,Source localization of each subject's swallowing‐associated cortical activation was done in all frequency bands for pre‐ and post intervention measurements applying a linearly constrained minimum variance beamformer technique.,0,0,N,0,0,N,0,0,0,0,0
+114,Beamforming is capable of analyzing induced brain activity such as the event‐related desynchronization (ERD) of cortical rhythms that occurs during sensorimotor tasks.,0,0,N,0,0,N,0,0,0,0,0
+115,Each subjects' volumetric source estimates were spatially normalized to a template Montreal Neurological Institute (MNI) brain (T1) using SPM8 (http://www.fil.ion.ucl.ac.uk/spm).,0,0,N,0,0,N,0,0,0,0,0
+116,"Prior to group analysis, sides were flipped so that each subject's lesioned hemisphere data were mapped to the left and stimulated hemisphere data to the right brain volume.",0,0,N,0,0,N,0,0,1,0,0
+117,Grand averages of normalized and realigned source activation maps were separately computed for pre‐ and post intervention data across all subjects within each group.,0,0,N,0,0,N,0,0,0,0,0
+118,"To identify source locations that were significantly modulated by the intervention (p < 0.05), a cluster‐based nonparametric randomization approach built into FieldTrip was applied.",0,0,N,0,0,N,1,0,0,0,0
+119,"As tongue movement during swallowing is known to produce a strong source reconstruction artifact located at the base of the brain and the inferior temporal lobes, statistical analysis was restricted to a predefined cortical region of interest consisting of the frontal and parietal lobe, and the insula, thereby including those brain regions that have consistently been found to be associated with swallowing in prior neuroimaging studies and can reliably be localized with MEG.",0,0,N,0,0,N,0,0,0,0,0
+120,"Ninety‐three patients were assessed for eligibility; 28 fulfilled exclusion criteria, and 5 refused participation.",0,0,N,0,0,N,0,0,0,0,0
+121,Sixty patients were randomized.,0,0,N,0,0,N,0,0,0,0,0
+122,One dropped out because of recurrent stroke not related to the study intervention.,0,0,N,0,0,N,0,0,0,0,0
+123,"All other patients (n = 59) were treated as intended, completed the study, and were included in data analysis.",0,0,N,0,0,N,0,0,1,0,0
+124,"In a subgroup of 10 patients, MEG could be recorded.",0,0,N,0,0,N,0,0,0,0,0
+125,"tDCS was well tolerated, without complications.",0,0,N,0,0,N,0,0,0,0,0
+126,Study groups did not differ in demographic and stroke characteristics (Table 1).,0,0,N,0,0,N,0,0,0,0,0
+127,"Lesion size and location were comparable between groups (see Table 1, Fig 1).",0,0,N,0,0,N,0,0,0,0,0
+128,"Most importantly, time to study inclusion and the proportion of patients receiving swallowing training during stimulation were very similar.",0,0,N,0,0,N,0,0,0,0,0
+129,Baseline dysphagia scores did not differ.,0,0,N,0,0,N,0,0,0,0,0
+130,"For ease of comparison, they are listed in Table 2 together with post intervention measures.",0,0,N,0,0,N,0,0,0,1,0
+131,Stroke lesion distribution map with voxelwise color‐coded lesion frequency for the transcranial direct current stimulation (tDCS) and sham control groups.,0,0,N,0,0,N,0,0,0,0,0
+132,Baseline Characteristics of the Stimulation and Control Groups,0,0,N,1,0,N,0,0,0,0,1
+133,FEDSS improved significantly from baseline to post intervention evaluation (tDCS group: p < 0.001 and sham group: p = 0.027) and from then to discharge evaluation within both groups (tDCS group: p = 0.034 and sham group: p < 0.001).,0,0,N,0,0,N,0,0,0,0,0
+134,"However, comparing the degree of improvement between groups, tDCS induced significantly greater improvement than sham stimulation (p < 0.0005, η2 = 0.208) after 4 days of intervention (see Table 2).",0,0,N,0,0,N,0,0,0,1,0
+135,"After that, further restoration of swallowing function occurred to a similar extent in both groups (p = 0.378).",0,0,N,0,0,N,0,0,0,0,0
+136,"Including the 1 patient who dropped out in an intention‐to‐treat analysis as a “failure” for an improvement of ≥1 FEDSS point after the intervention phase revealed a significantly greater proportion of patients from the tDCS group (83.3%, n = 25) reaching this primary endpoint as compared to the sham group (36.7%, n = 11; p < 0.0005).",0,0,N,0,0,N,0,0,0,0,0
+137,Baseline Functional Parameters and Clinical Outcome,0,0,N,0,0,N,0,0,0,0,1
+138,"The tDCS group showed considerably greater improvement also in all secondary swallowing outcomes (DSRS, FOIS, dysphagia limit), whereas pneumonia incidence (although 15% lower in the tDCS group) and LOS were not statistically different between groups.",0,0,N,0,0,N,0,0,0,0,1
+139,No tDCS effects on the NIH‐SS score of the contralesional arm were observed.,0,0,N,0,0,N,0,0,0,0,1
+140,Details are provided in Table 2.,0,0,N,0,0,N,0,0,0,0,1
+141,All patients who underwent MEG measurements (n = 5 per group) suffered from partial anterior circulation stroke and were able to perform swallowing training during tDCS.,0,0,N,0,0,N,0,0,0,0,0
+142,Source distribution of groupwise averaged swallowing‐associated ERD in cortical oscillatory activity at baseline and post intervention is presented in Figure 2.,0,0,N,1,1,N,0,0,0,0,0
+143,"Activation was predominantly localized in the bilateral pericentral cortex, conforming to primary and secondary sensorimotor areas, and was centered in the alpha and beta frequency range with expansion into adjacent frequency bands.",0,0,N,0,0,N,0,0,0,0,0
+144,"In keeping with clinical improvement in both groups, an increase in swallowing network activation after the intervention phase is displayed in both cases.",0,0,N,0,0,N,0,0,0,1,0
+145,"However, also similar to clinical results, this increase of ERD (13–30Hz) compared to baseline was statistically significant only after real but not sham tDCS (p < 0.05, Fig 3).",0,0,N,0,0,N,0,0,0,0,0
+146,"Apart from bilateral supplementary motor areas, changes were restricted to the stimulated hemisphere.",0,0,N,0,0,N,0,0,0,0,0
+147,"Areas with significant activation increase were: primary and secondary sensorimotor cortex, supramarginal gyrus (peak location, MNI coordinates 43, −27, 35), dorsolateral prefrontal cortex, and posterior cingulate.",0,0,N,0,0,N,0,0,0,0,0
+148,"No significant effects occurred outside beta, and no regions with activation power decrease were found.",0,0,N,0,0,N,0,0,0,0,0
+149,"Source distribution of group mean swallowing‐associated activation per frequency range pre‐ and post intervention (top view, n = 5 per group).",0,0,N,0,0,N,0,0,0,0,0
+150,Note that patients' lesioned hemispheres were aligned to the left hemisphere (see bottom right corner for orientation) for group display and further analysis.,0,0,N,0,1,N,0,0,0,0,0
+151,The color bar indicates power changes relative to the resting stage.,0,0,N,0,0,N,0,0,0,0,0
+152,Negative values denote event‐related desynchronization of oscillatory activity.,0,0,N,0,0,N,0,0,0,0,0
+153,tDCS = transcranial direct current stimulation.,0,0,N,0,0,N,0,0,0,0,0
+154,Areas with significant increase of swallow‐related event‐related desynchronization in the beta frequency range after real transcranial direct current stimulation (p < 0.05).,0,0,N,0,0,N,0,0,0,0,0
+155,"Superimposed onto the magnetic resonance imaging slices are the t values for the difference in source power pre‐ and post intervention, masked with the p values obtained from the cluster‐based randomization procedure.",0,0,N,0,0,N,0,0,0,0,0
+156,Note that patients' lesioned hemispheres were aligned to the left (see bottom right corner) for statistical analysis and display.,0,0,N,0,1,N,0,0,0,0,0
+157,Indicators of Treatment Success,0,0,N,0,0,N,0,0,0,0,0
+158,"When looking for variables associated with treatment response in the tDCS group (Table 3), we found that age, dysphagia and stroke severity, lesion volume, and swallowing training during tDCS (for detailed values see also Table 4) were not related to the degree of dysphagia recovery in univariate analysis.",0,0,N,0,0,N,0,0,0,0,0
+159,"However, for every hour earlier that treatment was initiated, there was a significant effect toward greater improvement on the DSRS.",0,0,N,0,0,N,0,0,0,0,0
+160,"This effect remained significant in a multivariate analysis including the other factors (adjusted OR = 0.99, 95% confidence interval [CI] = 0.98–1.00, p = 0.037).",0,0,N,0,0,N,0,0,0,0,0
+161,"Similarly, multivariate analyses showed significant effects of shorter time to treatment also on FEDSS (adjusted OR = 0.99, 95% CI = 0.98–1.00, p = 0.026) and increase of dysphagia limit (adjusted OR = 0.9, 95% CI = 0.98–1.00, p = 0.020).",0,0,N,0,0,N,0,0,0,0,0
+162,"Moreover, multivariate analysis indicated a significant association of baseline swallowing function (adjusted OR = 2.21, 95% CI = 1.04–4.70, p = 0.039) with degree of change in FEDSS, and of additional swallowing training with the extent of improvement in FOIS (adjusted OR = 7.01, 95% CI = 1.03–47.78, p = 0.047).",0,0,N,0,0,N,0,0,0,0,0
+163,Indicators of Treatment Success in the Stimulation Group,0,0,N,0,0,N,0,0,0,0,0
+164,Effect of Additional Swallowing Training in the Stimulation Group,0,0,N,0,0,N,0,0,0,0,0
+165,Lesion locations significantly associated with negative treatment response in the tDCS group and poor spontaneous recovery in the sham group are displayed in Figure 4.,0,0,N,0,0,N,0,0,1,0,0
+166,"Affection of the right‐hemispheric opercular cortex, superior longitudinal fasciculus, and insula had the highest probability of nonresponse to tDCS (log OR > 1), whereas left‐hemispheric putamen, superior longitudinal fasciculus, and opercular stroke was associated with greater likelihood of FEDSS improvement (log OR < −0.5).",0,0,N,0,0,N,0,0,0,0,0
+167,"Similarly, lesions in the left frontal operculum and adjacent inferior frontal gyrus showed lower likelihood of bad recovery (log OR < −0.5) in the sham group, whereas no strong positive associations (log OR > 1) were found with absence of FEDSS improvement.",0,0,N,0,0,N,0,0,0,0,0
+168,"Lesion location map with color‐coded log‐transformed odds ratio (log odds ratio [OR], p < 0.05) for negative response to transcranial direct current stimulation (tDCS) in the stimulation group (top) and bad spontaneous recovery of swallowing function in the sham group (bottom).",0,0,N,0,0,N,0,0,0,0,0
+169,Log OR > 0 indicates worse and log OR < 0 indicates better dysphagia improvement (as assessed with Fiberoptic Endoscopic Dysphagia Severity Scale) if an infarct is present in this area compared to all other lesion locations.,0,0,N,0,0,N,0,0,0,0,0
+170,This is the largest RCT conducted so far on the application of tDCS in acute stroke‐related OD.,0,0,N,0,0,N,0,0,0,0,0
+171,"Applying objective instrumental diagnostics in parallel with functional neuroimaging, we demonstrated significantly greater improvement in swallowing function following tDCS compared to sham intervention.",0,0,N,0,0,N,0,0,0,0,0
+172,Recovery was driven by enhanced contralesional swallowing network activation.,0,0,N,0,0,N,0,0,0,0,0
+173,"Although early treatment initiation seems beneficial regarding degree of improvement, dysphagia due to right‐hemispheric insulo‐opercular stroke was identified as being least responsive to tDCS.",0,0,N,0,0,N,0,0,0,0,0
+174,Clinical Value of Observed Effects,0,0,N,0,0,N,0,0,0,0,0
+175,"For a novel treatment to be considered clinically useful, the extent of the functional improvement has to be clinically meaningful and long‐lasting, and the benefits should outweigh its side effects.",0,0,N,1,0,N,0,0,0,0,0
+176,"As to the first, tDCS increased the proportion of patients improving >1 FEDSS point from 37% in the sham group to 83%.",0,0,N,0,0,N,0,1,0,1,0
+177,"Statistically, η2 > 0.14 is generally accepted as large effect size.",0,0,N,0,0,N,0,0,0,0,0
+178,"In clinical terms, a 1‐point increase in the 6‐point scale makes the difference between, for example, nil per os (score 5) and return to initial oral feeding (score 4), or parenteral fluid supplementation (score 3) versus oral fluid intake (score 2).",0,0,N,0,0,N,0,0,0,0,0
+179,"Regarding secondary outcome parameters, pneumonia rate was 15% lower in treated patients, and the difference might become significant with a larger sample size.",0,0,N,1,0,N,0,0,0,0,0
+180,"At present, even established treatment strategies fail to reduce pulmonary infections or LOS.",0,0,N,0,0,N,0,0,0,0,0
+181,"Concerning the duration of the treatment effect, achieved results were maintained until discharge.",0,0,N,0,0,N,0,0,0,0,0
+182,Significantly greater improvement immediately after the tDCS intervention phase followed by parallel recovery of both study groups later on suggests that tDCS acts like a booster of natural recovery.,0,0,N,0,0,N,1,0,0,0,0
+183,"Third, in line with safety reports, tDCS showed no adverse effects.",0,0,N,0,0,N,0,0,0,0,0
+184,Concerns that enhancement of the swallowing motor cortex would be at the cost of residual motor function in the paretic arm were not affirmed.,0,0,N,0,0,N,0,0,0,0,0
+185,"This was feared because findings suggest that—unlike bilaterally represented swallowing function—rehabilitation of paretic limb function relies predominantly on cortical reorganization within the lesioned hemisphere.6 According to interhemispheric competition models in acute stroke, there is increased transcallosal inhibition from intact limb motor cortex onto the lesioned side, thereby hindering motor recovery.",0,0,N,0,0,N,0,0,0,0,0
+186,"Upregulation of excitability in the intact hemisphere by anodal tDCS might therefore in theory hold the potential to worsen motor performance in the contralesional arm, but this was not observed in our study.",0,0,N,0,0,N,0,0,0,0,0
+187,"However, the NIH‐SS is only a gross measure of limb function, and more sophisticated evaluation should be performed in future investigations.",0,0,N,0,0,N,0,0,0,0,0
+188,The crudeness of this measurement tool may also explain why a relevant spontaneous improvement of upper extremity NIH‐SS score was neither observed in the tDCS group nor found in the sham group within the short period of the study.,0,0,N,0,0,N,0,0,0,0,0
+189,The swallowing‐associated activation pattern and frequencies were consistent with former MEG studies on elderly persons and stroke patients.,0,0,N,0,0,N,0,0,0,0,0
+190,"tDCS‐induced ERD increase in swallow‐relevant cortical areas was also observed in our preceding study on healthy swallowing, but contrary to that, changes in stroke patients were mainly restricted to the stimulated (unaffected) hemisphere and occurred in beta range instead of theta.",0,0,N,0,0,N,0,0,0,0,0
+191,The first may be because there is less intact tissue left to modulate in the lesioned hemisphere.,0,0,N,0,0,N,0,0,0,0,0
+192,"Moreover, given that the intact hemisphere drives dysphagia recovery, this natural process may simply have been enhanced by tDCS.",0,0,N,0,0,N,0,0,0,0,0
+193,Present knowledge about tDCS effects on task‐related brain oscillation changes is scarce.,0,0,N,0,0,N,0,0,0,0,0
+194,"Healthy subjects had to be challenged with more complex swallow tasks to disclose the functional gain induced by tDCS, and theta activation is known to increase as a function of task complexity.",0,0,N,0,0,N,0,0,0,0,0
+195,"However, modulation of beta rhythms has especially been linked to motor function.",0,0,N,0,0,N,0,0,0,0,0
+196,The observed beta ERD increase following tDCS therefore seems physiologically reasonable.,0,0,N,0,0,N,0,0,0,0,0
+197,"Patient age, stroke severity, and lesion volume have been reported to influence spontaneous functional recovery in stroke patients but were not observed regarding tDCS‐induced swallowing improvement in our study.",0,0,N,0,0,N,0,0,0,0,0
+198,"In line with this, a relevant age dependency for tDCS efficacy has not been described so far.",0,0,N,0,0,N,0,0,0,0,0
+199,"tDCS may therefore constitute a therapeutic option for a broad range of stroke patients—unless they suffer from stroke in those regions identified as being irresponsive to tDCS, predominantly the right‐hemispheric insula and opercular region.",0,0,N,0,0,N,0,0,0,0,0
+200,Swallowing is known to display interhemispheric asymmetry.,0,0,N,0,0,N,0,0,0,0,0
+201,These areas were found to be activated with right‐hemispheric lateralization during swallowing in several neuroimaging studies.,0,0,N,0,0,N,0,0,0,0,0
+202,"They are involved in sensory processing of oropharyngeal stimuli and likely coordinate the temporal sequence of oropharyngeal movements, ensuring continuous adaption of the motor swallowing program based on afferent information.",0,0,N,0,0,N,0,0,0,0,0
+203,Combined infarctions of the frontal operculum and insular cortex cause long‐lasting risk of aspiration.,0,0,N,0,0,N,0,0,0,0,0
+204,"Similarly, in 2 FEES‐based stroke lesion–symptom mapping studies, the right‐hemispheric opercular region, together with the primary sensorimotor cortex, was among those areas showing the strongest association with presence of dysphagia in general, and delayed swallow reflex and pharyngeal residue specifically.",0,0,N,0,0,N,0,0,0,0,0
+205,Left‐hemispheric opercular lesions were related to greater likelihood of treatment response and spontaneous recovery in our study.,0,0,N,0,0,N,0,0,0,0,0
+206,"Based on evidence from previous imaging studies and the assumption that tDCS merely enhances spontaneous cortical reorganization, one may therefore conclude that stroke lesions in crucial swallowing network hubs evoking the most severe and long‐lasting dysphagia also respond the worst to neuromodulatory treatment.",0,0,N,0,0,N,0,0,0,0,0
+207,It is still a matter of investigation whether there is a restricted time window for neuroplasticity in which neurostimulation should be applied after stroke.,0,0,N,0,0,N,0,0,0,0,0
+208,"Excessively early modulation was feared to worsen clinical outcomes, and stimulation had also shown less potential in the advanced chronic stage.",0,0,N,0,0,N,0,0,0,0,0
+209,"We can contribute for dysphagia rehabilitation that earlier stimulation was correlated with greater swallowing improvement within the time window empirically chosen in our study (acute stage, but > 24 hours poststroke).",0,0,N,0,0,N,0,0,0,0,0
+210,Kumar et al included patients within a similar time frame and also obtained positive results.,0,0,N,0,0,N,0,0,0,0,0
+211,"In an RCT evaluating electrical pharyngeal stimulation (another neurostimulation technique for dysphagia rehabilitation) in severely affected tracheotomized stroke patients, earlier treatment initiation was also associated with a higher rate of decannulation success.",0,0,N,0,0,N,0,0,0,0,0
+212,"Suggesting that tDCS may act as a learning enhancer, maximum behavioral gains are mostly found when stimulation is coupled with relevant behavioral experience.",0,0,N,0,0,N,0,0,0,0,0
+213,"However, in the present study, a positive effect of tDCS combined with swallowing exercises as opposed to tDCS alone was only found on 1 secondary outcome parameter (improvement on the FOIS until discharge).",0,0,N,0,0,N,0,0,0,0,0
+214,"Although effects of tDCS on resting brain dynamics have been described, we believe this is a result of a methodological weakness in our study.",0,0,N,0,0,N,0,0,0,0,0
+215,"Similar to Shigematsu et al, every patient received the level of swallowing exercises he or she was able to perform, which precluded strict standardization.",0,0,N,0,0,N,0,0,0,0,0
+216,"Naturally, baseline swallowing function was significantly lower in patients not able to perform any training.",0,0,N,0,0,N,0,0,0,0,0
+217,"Because at least for FEDSS, baseline swallowing impairment was related to tDCS treatment success when adjusting for other influence variables, severity of dysphagia may constitute a confounding factor that needs to be addressed in larger trials.",0,0,N,0,0,N,0,0,0,0,0
+218,"In the present study, we aimed at recruiting a representative dysphagic patient population.",0,0,N,0,0,N,0,0,0,0,0
+219,Defining the ability to perform intense swallowing training as an inclusion criterion would have meant excluding those patients that needed treatment most.,1,0,N,0,0,N,0,0,0,0,0
+220,Present Limitations and Future Directions,0,0,N,0,0,N,0,0,0,0,0
+221,"In addition to the limitations already mentioned, our sample size was still too small to systematically compare stimulation protocols and target regions as demanded by Sehm.",1,0,N,0,0,N,0,0,0,0,0
+222,"Based on the available evidence at the time the study was launched, we decided on anodal stimulation of the unaffected hemisphere.",0,0,N,0,0,N,0,1,0,0,0
+223,"Afterward, only stimulation of the intact side resulted in a significant pooled effect size in meta‐analyses on noninvasive brain stimulation for stroke‐related dysphagia.",0,0,N,0,0,N,0,0,0,0,0
+224,It would have been interesting to collect long‐term follow‐up data to see whether neuromodulation exhibited synergistic effects over time as suggested by one meta‐analysis.,0,0,N,0,0,N,0,0,0,0,0
+225,"As the proportion of brainstem stroke patients is naturally smaller, we could not perform subgroup analyses or MEG measurements and the brainstem was excluded from the voxel‐based analysis because lesion proportion was below the cutoff.",0,0,N,0,0,N,0,0,0,0,0
+226,"It deserves further investigation, whether direct damage to the brainstem swallowing center results in different plasticity mechanisms, as suggested by Teismann et al.",0,0,N,0,1,N,1,0,0,0,0
+227,"In conclusion, tDCS appears to be a safe and beneficial therapeutic option for patients with OD during the early phase of stroke.",0,0,N,0,0,N,0,0,0,0,0
+228,Definition of optimal stimulation protocols and patient selection criteria are crucial issues yet to be resolved.,0,0,N,0,0,N,0,0,0,0,0

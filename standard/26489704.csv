@@ -1,0 +1,155 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Objectives To study clinical and radiographic outcomes after withdrawing 1 year's adalimumab induction therapy for early rheumatoid arthritis (eRA) added to a methotrexate and intra-articular triamcinolone hexacetonide treat-to-target strategy (NCT00660647).,0,0,0,0,0,0,0,0,0,0,0
+1,Methods Disease-modifying antirheumatic drug (DMARD)-naive patients with eRA started methotrexate (20 mg/week) and intra-articular triamcinolone (20 mg/ml) for 2 years.,0,0,0,0,0,0,0,0,0,0,0
+2,"In addition, they were randomised to receive placebo adalimumab (DMARD group, n=91) or adalimumab (40 mg/every other week) (DMARD+adalimumab group, n=89) during the first year.",0,1,0,0,0,0,0,0,0,0,0
+3,Sulfasalazine and hydroxychloroquine were added if disease activity persisted after 3 months.,0,0,0,0,0,0,0,0,0,0,0
+4,"During year 2, synthetic DMARDs continued.",0,0,0,0,0,0,0,0,0,0,0
+5,Adalimumab was (re)initiated if active disease reoccurred.,0,0,0,0,0,0,0,0,0,0,0
+6,"Clinical response, remission, disability, quality of life and radiographic changes were assessed.",0,0,0,0,0,0,0,0,0,0,0
+7,"Results One year after adalimumab withdrawal, treatment profiles and clinical responses did not differ between groups.",0,0,0,0,0,0,0,0,0,0,0
+8,"In the DMARD/DMARD+adalimumab groups, the median 2-year methotrexate dose was 20/20 mg/week (p=0.45), triple DMARD therapy had been initiated in 33/27 patients (p=0.49), adalimumab was (re)initiated in 12/12 patients and cumulative triamcinolone dose was 160/120 mg (p=0.15).",0,0,0,0,0,0,0,0,0,0,0
+9,"The treatment target (disease activity score, 4 variables, C-reactive protein (DAS28CRP) ≤3.2 or DAS28>3.2 without swollen joints) was achieved at all visits in ≥85% of patients in year 2; remission rates were DAS28CRP<2.6:69%/66%; Clinical Disease Activity Index ≤2.8:55%/57%; Simplified Disease Activity Index <3.3:54%/49%; American College of Rheumatology/European League against Rheumatism (28 joints):44%/45% (p=0.66–1.00).",0,0,0,0,0,0,0,0,0,0,0
+10,Radiographic progression (Δtotal Sharp score/year) was similar 1.31/0.53 (p=0.12).,0,0,0,0,0,0,0,0,0,0,0
+11,Erosive progression (Δerosion score (ES)/year) was year 1:0.57/0.06 (p=0.02); year 2:0.38/0.05 (p=0.005).,0,0,0,0,0,0,0,0,0,0,0
+12,Proportion of patients without erosive progression (ΔES≤0) was year 1: 59%/76% (p=0.03); year 2:64%/79% (p=0.04).,0,0,0,0,0,0,0,0,0,0,0
+13,Conclusions An aggressive triamcinolone and synthetic DMARD treat-to-target strategy in eRA provided excellent 2-year clinical and radiographic disease control independent of adalimumab induction therapy.,0,0,0,0,0,0,0,0,0,0,0
+14,ES progression was slightly less during and following adalimumab induction therapy.,0,0,0,0,0,0,0,0,0,0,0
+15,"Prompt and intensive treatment of patients with newly diagnosed rheumatoid arthritis (RA) that aims for low-disease activity or remission represents a major progress in the management of this disabling disease.However, the optimal treatment strategy has still not been settled, particularly with regard to mono versus combination therapy and the roles of glucocorticoids or biologics.",0,0,0,0,0,0,0,0,0,0,0
+16,"In the CIclosporine, MEthotrexate and intraarticular STeroid in early Rheumatoid Arthritis (CIMESTRA) study, we reported that early and aggressive intervention with methotrexate combined with intra-articular glucocorticoid injections into swollen joints effectively controlled disease activity and halted radiographic progression over 5 years of follow-up in patients with early RA.",0,0,0,0,0,0,0,0,0,0,0
+17,"In the first year of the OPtimized treatment algorithm in Early RA (OPERA) trial, we investigated whether these clinical benefits could be further improved by adding adalimumab for 12 months as an ‘induction therapy’.",0,0,0,0,0,0,0,0,0,0,0
+18,"More than 75% of the patients treated with methotrexate and intra-articular triamcinolone hexacetonide achieved low disease activity (disease activity score, 4 variables, C-reactive protein (DAS28CRP)-based) <3.2).",0,0,0,0,0,0,0,0,0,0,0
+19,"One year of adalimumab added to methotrexate and intra-articular triamcinolone as first-line treatment did not increase the proportion of patients who reached the treatment target (DAS28CRP<3.2), but improved DAS28CRP, remission rates, function and quality of life.",0,0,0,0,0,0,0,0,0,0,0
+20,"In the present study, adalimumab was withdrawn at the end of year 1, and our aim was to investigate whether the clinical improvement observed in year 1 could be maintained in year 2, using a step-up strategy with synthetic and (if needed) biological disease-modifying antirheumatic drugs (DMARDs), and to study the effect of adalimumab induction therapy on radiographic progression.",0,0,0,0,0,0,0,0,0,0,0
+21,"From 2007 to 2009, 180 DMARD-naive and steroid-naive adult patients were included.",1,0,0,0,1,1,1,0,0,0,0
+22,"Patients had RA (American College of Rheumatology (ACR) 1987 revised criteria), disease duration (from first persistently swollen joint) <6 months and DAS28CRP >3.2.",1,0,0,0,1,1,1,0,0,0,0
+23,Details have been published previously.,1,0,0,0,1,1,1,0,0,0,0
+24,Study design and data collection,1,0,0,0,1,1,1,0,0,0,0
+25,"The OPERA study was an investigator-initiated, randomised, double-blinded, placebo-controlled, two-armed, parallel-group, multicentre 1-year trial with an open 1-year extension.",1,1,0,0,1,1,1,0,0,0,0
+26,"Details of the treatment during year 1 have been presented previously.In brief, the DMARD+adalimumab group received oral methotrexate 20 mg/week (or the highest tolerated dose) and adalimumab 40 mg subcutaneously every other week.",0,0,0,0,0,0,0,0,0,0,0
+27,The DMARD group received methotrexate and placebo adalimumab.,0,0,0,0,0,0,0,0,0,0,0
+28,"In both groups, any swollen joint was injected with triamcinolone hexacetonide (20 mg/mL, 0.5–2 mL/joint, maximum four joints or 4 mL/visit).",0,0,0,0,0,0,0,0,0,0,0
+29,"Triple therapy (at or after the third month) and, at the discretion of the treating physician, optional open-label biologics (after 3 months with synthetic triple DMARD therapy) were added if unacceptable disease activity persisted (DAS28CRP≥3.2 and ≥1 swollen joint).",0,0,0,0,0,0,0,0,0,0,0
+30,"The blinded treatment (adalimumab or placebo adalimumab) was withdrawn after year 1 without breaking the code, while synthetic DMARD therapy continued.",0,0,0,0,0,0,0,0,0,0,0
+31,"During year 2, patients on methotrexate monotherapy with subsequent unacceptable disease activity (see above) were started on sulfasalazine and hydroxychloroquine.",0,0,0,0,0,0,0,0,0,0,0
+32,Any swollen joint was injected with triamcinolone hexacetonide.,0,0,0,0,0,0,0,0,0,0,0
+33,"If disease activity persisted despite triple therapy for 4 months, adalimumab 40 mg subcutaneously every second week was (re)initiated.",0,0,0,0,0,0,0,0,0,0,0
+34,"During year 2, the patients had scheduled study visits after 12, 16, 20 and 24 months.",0,0,0,0,0,0,0,0,0,0,0
+35,"In addition, study nurses made monthly phone calls and scheduled extra visits in case of disease activity or adverse events.",0,0,0,0,0,0,0,0,0,0,0
+36,All patients received folic acid (5–10 mg/week).,0,0,0,0,0,0,0,0,0,0,0
+37,Alendronic acid and calcium+vitamin D were given in accordance with national guidelines.,0,0,0,0,0,0,0,0,0,0,0
+38,Mild analgesics (acetaminophen) were allowed.,0,0,0,0,0,0,0,0,0,0,0
+39,Patient-reported outcomes were collected by way of touch screens in the waiting room.,0,0,0,0,0,0,0,0,0,0,0
+40,"Swollen and tender joint counts (40 joints), global score (visual analogue scale), adverse events, medications and joint injections were performed and recorded by the treating physician.",0,0,0,0,0,0,0,0,0,0,0
+41,CRP was measured in serum using CRP Quick-Read (Orion Diagnostica: range 8–160 mg/L).,0,0,0,0,0,0,0,0,0,0,0
+42,"Conventional radiographs of the hands and wrists (posteroanterior view) and forefeet (anteroposterior view) were obtained at baseline, 6 months, 1 year and 2 years.",0,0,0,0,0,0,0,0,0,0,0
+43,"X-rays were scored (Sharp/van der Heijde method) by one trained reader (LMØ), who was blinded to all patient data and image chronology.",0,0,0,0,0,0,0,0,0,0,0
+44,"Based on re-evaluation of X-rays from 18 patients, representing high and low progression rates, the intraobserver intraclass correlation coefficient (one-way random effects model) for total Sharp score (TSS) change was 0.88 (0.72 to 0.95) (95% CI), while smallest detectable change (SDC) (0–2 years) was 1.83 TSS units.",0,0,0,0,0,0,0,0,0,0,0
+45,Primary and secondary outcomes after 2 years,0,0,0,0,0,0,0,0,0,0,0
+46,"The primary outcome was inflammatory control (ie, proportion of patients who achieved DAS28CRP <3.2 after 2 years) and radiographic control (ie, proportion of patients without progression of radiographic damage in hands/wrists and forefeet (joint spacing narrowing (JSN), joint erosions (ES) and TSS) from baseline to 2 years.",0,0,0,0,0,0,0,0,0,0,0
+47,"Secondary clinical outcomes included DAS28CRP, and the proportions of patients in remission according to DAS28CRP (<2.6), Clinical Disease Activity Index (≤2.8), Simplified Disease Activity Index (<3.3) and ACR/European League against Rheumatism (EULAR) Boolean.",0,0,0,0,0,0,0,0,0,0,0
+48,"Disability was assessed by Health Assessment Questionnaire (HAQ), and quality of life by European Quality of Life-5 Dimensions (EQ-5D-5L),Short Form 12-item Survey SF-12v2 Health Survey physical and mental component scores.",0,0,0,0,0,0,0,0,0,0,0
+49,"Secondary radiographic outcomes included the proportion of patients who had developed evidence of structural damage (JSN≥1, ES≥1, TSS≥1), the yearly progression rate (ΔJSN, ΔES and ΔTSS) and the percentage of patients with change in TSS≥SDC=1.83.",0,0,0,0,0,0,0,0,0,0,0
+50,The cumulative dose of triamcinolone and the number and type of serious adverse events were recorded.,0,0,0,0,0,0,0,0,0,0,0
+51,Power calculations have been described previously.,0,0,0,0,0,0,0,0,0,0,0
+52,Intent-to-treat analysis (ITT) is reported.,0,0,0,0,0,0,0,0,0,0,0
+53,All patients who received at least one injection with adalimumab or placebo-adalimumab were included in the ITT analysis.,0,0,0,0,0,0,0,0,0,0,0
+54,"If the ITT visit was missing, the previous visit was carried forward for patients who were withdrawn from the trial before the visit at year 2.",0,0,0,0,0,0,0,0,0,0,0
+55,"For patients who were withdrawn from the trial before the visits at years 1 and 2, respectively, radiographic scores at these visits were calculated by means of linear extrapolation from the 6 months and year 1 visits, respectively.",0,0,0,0,0,0,0,0,0,0,0
+56,"Non-responder imputation of the patients who withdrew from the study, ITT analysis without linear extrapolation or last observation carried forward and completers’ analysis were also performed and gave similar results.",0,0,0,0,0,0,0,0,0,0,0
+57,"Data are presented as medians (5th/95th percentile ranges), unless otherwise stated.",0,0,0,0,0,0,0,0,0,0,0
+58,Comparisons between groups were made using Fisher's exact test (dichotomous responses) and Mann–Whitney U test (non-dichotomous responses).,0,0,0,0,0,0,0,0,0,0,0
+59,Data were stored in the DANBIO database.,0,0,0,0,0,0,0,0,0,0,0
+60,Data management and statistical analysis were done using the R software package V.3.1.2 (2014-10-31).,0,0,0,0,0,0,0,0,0,0,0
+61,Baseline characteristics did not differ between the treatment groups.,0,0,0,0,0,0,0,0,0,0,0
+62,"The patients had short disease duration (<3 months), high disease activity (DAS28CRP score: 5.5/5.6) and moderate functional impairment (HAQ: 1.00/1.13) (median, DMARD group/DMARD+adalimumab group); ≥70% were seropositive (table 1).",0,0,0,0,0,0,0,0,0,0,0
+63,Clinical findings in patients with early rheumatoid arthritis treated according to a conventional synthetic DMARD-based treat-to-target strategy with or without biological DMARD induction therapy,0,0,0,0,0,0,0,0,0,0,0
+64,The 2-year study period was completed by 156 patients (87%) and 168 (94%) had a year 2 ITT visit.,0,0,0,0,0,0,0,0,0,0,0
+65,"Five patients (pregnancy wish: 4, need for NSAID due to coxarthrosis: 1) dropped out during the second year (figure 1).",0,0,0,0,0,0,0,0,0,0,0
+66,These patients were followed up in accordance with ITT principles and synovitis suppression remained the overarching treatment goal.,0,0,0,0,0,0,0,0,0,0,0
+67,OPtimized treatment algorithm in early RA flow chart.,0,0,0,0,0,0,0,0,0,0,0
+68,Treatment during the second year,0,0,0,0,0,0,0,0,0,0,0
+69,There were no differences between the groups in the number of planned (336/344) and extra visits (41/51) (p=0.45).,0,0,0,0,0,0,0,0,0,0,0
+70,Median (5th/95th percentile ranges) methotrexate dosage was 20(10–20)/20(7.75–20) mg/week in year 2 (p=0.46).,0,0,0,0,0,0,0,0,0,0,0
+71,The mean (SD) dose was 18.0(4.0)/17.7(3.7) mg/week.,0,0,0,0,0,0,0,0,0,0,0
+72,Triple synthetic DMARD therapy was introduced in 33 patients (36%) in the DMARD group and 27 (30%) in the DMARD+adalimumab group (p=0.49).,0,0,0,0,0,0,0,0,0,0,0
+73,No differences were seen in the year 2 cumulated use of triple synthetic DMARD therapy.,0,0,0,0,0,0,0,0,0,0,0
+74,"During year 2, adalimumab was (re)initiated in 12 patients in each group.",0,0,0,0,0,0,0,0,0,0,0
+75,"Two patients in the DMARD group and three in the DMARD+adalimumab group who were withdrawn from the year 1 study due to severe disease activity and treated with open label biologics (etanercept (n=3), infliximab (1), tocilizumab (1)) were followed ITT on unchanged treatment during year 2.",0,0,0,0,0,0,0,0,0,0,0
+76,A total of 1710 intra-articular injections were given during the entire study.,0,0,0,0,0,0,0,0,0,0,0
+77,The 2-year cumulated dose of triamcinolone was 160(40–455)/120(40–487) mg (p=0.15).,0,0,0,0,0,0,0,0,0,0,0
+78,The mean (SD) dose was 182(135)/181(153) mg. Triamcinolone was predominantly given in year 1.,0,0,0,0,0,0,0,0,0,0,0
+79,"The cumulative dose in year 2 was median (5th/95th percentile ranges): 0(0–140)/0(0–154) mg, mean (SD): 22(48)/32(73) mg (p=0.19).",0,0,0,0,0,0,0,0,0,0,0
+80,There was no difference in the number of patients who received triamcinolone injections during year 2 (figure 2).,0,0,0,0,0,0,0,0,0,0,0
+81,"Among the patients who were excluded during year 1 and who were followed ITT, four patients (one in the DMARD group and three in the DMARD+adalimumab group) were, for some time during year 2, treated with low-dose oral prednisolone.",0,0,0,0,0,0,0,0,0,0,0
+82,Intra-articular triamcinolone dose in the 2-year OPtimized treatment algorithm in early RA trial.,0,0,0,0,0,0,0,0,0,0,0
+83,DMARD: Conventional synthetic DMARD without adalimumab induction therapy.,0,0,0,0,0,0,0,0,0,0,0
+84,DMARD+ADA: Conventional synthetic DMARD with adalimumab induction therapy.,0,0,0,0,0,0,0,0,0,0,0
+85,The amount of triamcinolone (mg) injected at each visit during the 2 year study.,0,0,0,0,0,0,0,0,0,0,0
+86,Injections given at extra visits were registered in following scheduled visit.,0,0,0,0,0,0,0,0,0,0,0
+87,"Shown are medians (thick black line), 25 and 75 centiles (box), and 5 and 95 centile estimates (whiskers).",0,0,0,0,0,0,0,0,0,0,0
+88,The number of patients with available data at each visit is shown at the bottom.,0,0,0,0,0,0,0,0,0,0,0
+89,level: P values for differences between two treatment groups by χ2 – test.,0,0,0,0,0,0,0,0,0,0,0
+90,"The target (DAS28CRP≤3.2 or DAS28>3.2 without swollen joints) was achieved at all visits in ≥85% of patients in year 2; that is, although intra-articular injections were given in case of swollen joints, additional DMARD treatment was administered in <15% of the visits.",0,0,0,0,0,0,0,0,0,0,0
+91,"There were no differences between the treatment groups regarding disease activity, disability, quality of life, clinical response or remission rate after 2 years (table 1).",0,0,0,0,0,0,0,0,0,0,0
+92,"After withdrawal of the blinded treatment, we observed an improvement in DAS28CRP in the DMARD group (year 1: 2.35 (1.7–4.2), year 2: 2.0 (1.7–3.9) (p=0.06)), with unaltered disease control in the DMARD+adalimumab group (year 1: 2.0 (1.7–4.3), year 2: 2.0 (1.7–4.3) (p=0.63)).",0,0,0,0,0,0,0,0,0,0,0
+93,"At baseline, there were no significant differences between the DMARD group and the DMARD+adalimumab group.",0,0,0,0,0,0,0,0,0,0,0
+94,Radiographic changes (TSS≥1) were seen in 72%/80% and erosions (ES≥1) in 52%/54% of the patients at baseline (table 2).,0,0,0,0,0,0,0,0,0,0,0
+95,Median TSS was 4.48/4.28 (table 2).,0,0,0,0,0,0,0,0,0,0,0
+96,"Radiographic damage in hands/wrists and forefeet in early rheumatoid arthritis treated according to a conventional synthetic DMARD-based treat-to-target strategy, with or without biological DMARD induction therapy (intention-to-treat analysis with linear extrapolation)",0,0,0,0,0,0,0,0,0,0,0
+97,"The proportion of patients with radiographic changes (TSS, ES, JSN) after 6 months, 1 year and 2 years did not differ between the groups.",0,0,0,0,0,0,0,0,0,0,0
+98,"After 2 years, ES tended to be higher in the DMARD group (p=0.06) (table 2).",0,0,0,0,0,0,0,0,0,0,0
+99,The proportion of patients with evidence of structural damage increased during the study period in the DMARD/DMARD+adalimumab groups.,0,0,0,0,0,0,0,0,0,0,0
+100,"JSN≥1: 8%/6% (p=0.69), ES≥1: 14%/1% (p=0.06) and TSS≥1: 7%/4% (p=0.52).",0,0,0,0,0,0,0,0,0,0,0
+101,The shift from non-erosive (ES=0) to erosive disease (ES≥1) was seen in the first year of the study with no further increase in the proportion of patients with erosive disease in the second year (table 2).,0,0,0,0,0,0,0,0,0,0,0
+102,Comparative data for completers and ITT without linear extrapolation are presented in online supplementary tables S1 and S2.,0,0,0,0,0,0,0,0,0,0,0
+103,"Radiographic progression was limited in the DMARD/DMARD+adalimumab groups with an annual progression rate during the study of 1.31/0.53 TSS units/year, respectively.",0,0,0,0,0,0,0,0,0,0,0
+104,"Compared with the DMARD+adalimumab group, the erosive progression, ΔES, was significantly higher in the DMARD group during year 1 (p=0.02) and year 2 (p=0.005) (table 3 and figure 3).",0,0,0,0,0,0,0,0,0,0,0
+105,"Similarly, the progression in joint space narrowing was faster in the DMARD group in the first six months (p=0.03).",0,0,0,0,0,0,0,0,0,0,0
+106,"Accordingly, the overall progression (ΔTSS) was significantly higher in the DMARD group during year 1 (p<0.01), but not during year 2, and not for the entire study period.",0,0,0,0,0,0,0,0,0,0,0
+107,Radiographic changes in hands/wrists and forefeet in early rheumatoid arthritis treated according to a conventional synthetic DMARD-based treat-to-target strategy with or without biological DMARD induction therapy (intention-to-treat analysis with linear extrapolation),0,0,0,0,0,0,0,0,0,0,0
+108,Radiographic progression (change in erosion score) in hands/wrists and forefeet in early rheumatoid arthritis treated according to a conventional synthetic disease modifying antirheumatic drug (DMARD) based treat-to-target strategy with (▴) or without (♦) biological DMARD induction therapy.,0,0,0,0,0,0,0,0,0,0,0
+109,DMARD: Conventional synthetic DMARD without adalimumab induction therapy.,0,0,0,0,0,0,0,0,0,0,0
+110,DMARD+ADA: Conventional synthetic DMARD with adalimumab induction therapy.,0,0,0,0,0,0,0,0,0,0,0
+111,"For patients who were withdrawn from the trial before year 1 and 2, values for these visits were calculated by means of linear extrapolation from 6 months and 1 year visits.",0,0,0,0,0,0,0,0,0,0,0
+112,"Radiographic control (ΔTSS≤0) was similar in the two groups (table 3), but the percentage of patients without erosive progression (ΔES≤1) was higher in the DMARD+adalimumab group in the first six months (p=0.04), the first year (p=0.03), as well as the second year (p=0.03).",0,0,0,0,0,0,0,0,0,0,0
+113,New erosions were seen in 45% in the DMARD group and 28% in the DMARD+adalimumab group.,0,0,0,0,0,0,0,0,0,0,0
+114,Comparative data for completers and ITT without linear extrapolation are presented in online supplementary tables S3 and S4.,0,0,0,0,0,0,0,0,0,0,0
+115,"The percentage of patients with rapid radiographic progression, defined as the change in TSS≥SDC=1.83, was seen in 37%/33% of the patients (p=0.67).",0,0,0,0,0,0,0,0,0,0,0
+116,"During year 2, we observed 11 serious adverse events in the DMARD group: bronchopneumonia (n=3), postoperative infectious tenosynovitis (1), hip fracture (1) coxarthrosis (1), hypertension (1), stasis dermatitis (1), gallbladder polyps (1), epistaxis (1) and asymptomatic microscopic haematuria (1) and four serious adverse events in the DMARD+adalimumab group: tuberculosis (mycobacterium Kansasii) (1), colovesical fistula secondary to diverticulitis (1), extensor tendon rupture following two steroid joint injections (1) and non-ST-Segment Elevation Myocardial Infarction (STEMI) heart attack (1).",0,0,0,1,0,0,0,1,1,1,1
+117,One patient followed ITT at year 1 and previously reported with a small cell lung carcinoma7 died during year 2.,0,0,0,1,0,0,0,1,1,1,1
+118,We did not observe any new malignancies during year 2.,0,0,0,1,0,0,0,1,1,1,1
+119,This study of patients with early RA shows that the treatment and clinical responses 1 year after termination of adalimumab induction on top of an intensive conventional synthetic DMARD-only treat-to-target protocol did not differ between the two treatment arms.,0,0,1,1,0,0,0,1,1,1,1
+120,"Radiographic control without progression in TSS was similar in the two groups, while erosive progression was slightly, but significantly, less following initial induction with adalimumab.",0,0,1,1,0,0,0,1,1,1,1
+121,The initial differences in clinical response between the two treatment groups in year 1 disappeared after termination of the adalimumab induction treatment.,0,0,1,0,0,0,0,0,0,0,0
+122,This was due to further improvement in the synthetic DMARD group and maintained response in the DMARD+adalimumab group during year 2.,0,0,1,0,0,0,0,0,0,0,0
+123,"There were no significant differences regarding the use of methotrexate, triple therapy, biologics or intra-articular glucocorticoids after 2 years.",0,0,1,0,0,0,0,0,0,0,0
+124,The current study confirms that treatment with methotrexate at an appropriate dosage (20 mg/week) combined with intra-articular glucocorticoids into swollen joints and early initiation of triple therapy is highly efficacious in achieving and maintaining patients with early RA in clinical remission.,0,0,0,0,0,0,0,0,0,0,0
+125,"At each scheduled visit during year 2, >85% of the patients in both groups achieved the treatment target (DAS28CRP≤3.2 or DAS28CRP>3.2 and 0 swollen joints); that is, additional DMARD treatment was administered in <15% of the visits.",0,0,0,0,0,0,0,0,0,0,0
+126,"The need for intra-articular injections was modest after the initial visits, similar in the two groups and very low during year 2.",0,0,0,0,0,0,0,0,0,0,0
+127,"This finding accords with data from the CIMESTRA study, in which intra-articular glucocorticoid injections were associated with a rapid onset, long-lasting and safe synovitis suppression.",0,0,0,0,0,0,0,0,0,0,0
+128,"Although there were no differences in treatment or clinical response during year 2, the radiographic control (as assessed by erosion score) was slightly, but significantly, better in the DMARD+adalimumab group, both in the first and second years of the study, in comparison with the synthetic DMARD group.",0,0,0,0,0,0,0,0,0,0,0
+129,"The changes in TSS and JSN were similar in the two groups, and the progression rates were very modest in both groups.",0,0,0,0,0,0,0,0,0,0,0
+130,"A recent study based on clinical trials and aimed at estimating the level of disability caused by radiographic damage estimated that, for every 10 TSS units’ increase, the HAQ will increase by 0.1 units.",0,0,0,0,0,0,0,0,0,0,0
+131,"Accordingly, the present numerically small radiographic progression did not translate into further loss of physical function at 2-year follow-up.",0,0,0,0,0,0,0,0,0,0,0
+132,"In the present study, the proportion of patients with erosive disease (ES≥1) increased by 14% in the DMARD group compared with only 1% in the DMARD+adalimumab group during the first year.",0,0,0,0,0,0,0,0,0,0,0
+133,The number needed to treat with adalimumab induction therapy to avoid that one extra patient developing new erosions over 2 years (Δ ES≥1) was 6 (95% CI 3.2 to 30.5).,0,0,0,0,0,0,0,0,0,0,0
+134,This should also be taken into account in deciding the optimal initial treatment of early RA.,0,0,0,0,0,0,0,0,0,0,0
+135,"Thus, a more comprehensive perception of the potential long-term clinical and imaging benefits of adalimumab induction, compared with intensive synthetic DMARD treatment alone, requires longer-term systematic care, including serial data recordings.",0,0,0,0,0,0,0,0,0,0,0
+136,"Our study showed that the minority of patients with early RA (up to 15%), in which biological treatment was necessary to achieve inflammatory control of the disease during year 2, was independent of adalimumab induction therapy.",0,0,0,0,0,0,0,0,0,0,0
+137,The better secondary radiographic outcome (erosion scores) in the DMARD+adalimumab group did not diminish over time.,0,0,0,0,0,0,0,0,0,0,0
+138,These findings stress the need for identifying early biomarkers and other predictors of treatment response to synthetic and biological DMARDs in early RA.,0,0,0,0,0,0,0,0,0,0,0
+139,"The safety profiles were good, with limited comorbidity.",0,0,0,0,0,0,0,0,0,0,0
+140,Extensor tendon rupture seen in one patient (out of a total of 1710 injections) was most likely a result of persistent inflammation.,0,0,0,0,0,0,0,0,0,0,0
+141,"We have reported that intra-articular steroid injections as part of an aggressive synthetic DMARD treat-to-target strategy in early RA is well tolerated (with no tendon ruptures after 2166 injections), but we cannot exclude the possibility that ultrasound guiding of injections could further minimise the risk of intra-articular injections.",0,0,0,0,0,0,0,0,0,0,0
+142,One patient developed a hip fracture.,0,0,0,0,0,0,0,0,0,0,0
+143,"We have demonstrated that intra-articular steroid injections added to synthetic DMARD treatment cause minimal loss of hip and lumbar bone mineral density, which can be prevented by treatment with alendronate in patients with osteopenia.",0,0,0,0,0,0,0,0,0,0,0
+144,The study has strengths and weaknesses.,0,0,0,0,0,0,0,0,0,0,0
+145,"The double-blinded, placebo-controlled, prospective design with a high completion rate is a significant strength.",0,0,0,0,0,0,0,0,0,0,0
+146,The proportion of patients achieving the primary clinical end point (DAS28CRP ≤3.2) after 2 years was in accordance with our assumptions in the power calculation.,0,0,0,0,0,0,0,0,0,0,0
+147,"However, less patients achieved the primary radiographic end point (no radiographic progression after 1 and 2 years), reducing the statistical power of this analysis.",0,0,0,0,0,0,0,0,0,0,0
+148,"In 2007, when the study was initiated DAS28CRP≤3.and no swollen joints was a reasonable target for the treatment of RA.",0,0,0,0,0,0,0,0,0,0,0
+149,Later recommendations (2010) suggest that in early RA ACR/EULAR remission15 could be an achievable goal.,0,0,0,0,0,0,0,0,0,0,0
+150,"The blinded treatment was withdrawn in all patients after 12 months, which may be considered a weakness of the design.",0,0,0,0,0,0,0,0,0,0,0
+151,"However, this design was deliberately chosen to study whether induction therapy with adalimumab reduced the fraction of patients who needed biological treatment in the following year, which it did not.",0,0,0,0,0,0,0,0,0,0,0
+152,"In conclusion, the aggressive intra-articular triamcinolone and synthetic DMARD treat-to-target strategy in early RA provided excellent 2-year clinical and radiographic disease control, independent of adalimumab induction therapy.",0,0,0,0,0,0,0,0,0,0,0
+153,ES progression was slightly less during and following adalimumab induction therapy.,0,0,0,0,0,0,0,0,0,0,0

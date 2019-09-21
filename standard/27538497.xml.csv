@@ -1,0 +1,193 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"To investigate the alleviation effect of <span class=""italic"">Vaccinium uliginosum</span> extract (DA9301) on tablet computer-induced asthenopia.",0,0,0,0,0,0,0,0,0,0,0
+1,"This was a randomized, placebo-controlled, double-blind and parallel study (Trial registration number: 2013–95).",1,0,1,1,1,1,1,0,0,0,0
+2,"A total 60 volunteers were randomized into DA9301 (<span class=""italic"">n</span> = 30) and control (<span class=""italic"">n</span> = 30) groups.",1,1,1,1,1,1,1,0,0,0,0
+3,The DA9301 group received DA9301 oral pill (1000 mg/day) for 4 weeks and the control group received placebo.,1,0,1,1,1,1,1,0,0,0,0
+4,Asthenopia was evaluated by administering a questionnaire containing 10 questions (responses were scored on a scales of 0–6; total score: 60) regarding ocular symptoms before (baseline) and 4 weeks after receiving pills (DA9301 or placebo).,1,0,1,1,1,1,1,0,0,0,0
+5,"The participants completed the questionnaire before and after tablet computer (iPad Air, Apple Inc.) watching at each visit.",1,0,1,1,1,1,1,0,0,0,0
+6,The change in total asthenopia score (TAS) was calculated and compared between the groups,0,0,0,0,0,0,0,0,0,0,0
+7,TAS increased significantly after tablet computer watching at baseline in DA9301 group.,0,0,0,0,0,0,0,1,1,1,1
+8,"(from 20.35 to 23.88; <span class=""italic"">p</span> = 0.031) However, after receiving DA9301 for 4 weeks, TAS remained stable after tablet computer watching.",0,0,0,0,0,0,0,1,1,1,1
+9,"In the control group, TAS changes induced by tablet computer watching were not significant both at baseline and at 4 weeks after receiving placebo.",0,0,0,0,0,0,0,1,1,1,1
+10,"Further analysis revealed the scores for “tired eyes” (<span class=""italic"">p</span> = 0.001), “sore/aching eyes” (<span class=""italic"">p</span> = 0.038), “irritated eyes” (<span class=""italic"">p</span> = 0.010), “watery eyes” (<span class=""italic"">p</span> = 0.005), “dry eyes” (<span class=""italic"">p</span> = 0.003), “eye strain” (<span class=""italic"">p</span> = 0.006), “blurred vision” (<span class=""italic"">p</span> = 0.034), and “visual discomfort” (<span class=""italic"">p</span> = 0.018) significantly improved in the DA9301 group.",0,0,0,0,0,0,0,1,1,1,1
+11,We found that oral intake of DA9301 (1000 mg/day for 4 weeks) was effective in alleviating asthenopia symptoms induced by tablet computer watching.,0,0,0,0,0,0,0,0,0,0,0
+12,"The study is registered at <a href=""http://www.clinicaltrials.gov"">www.clinicaltrials.gov</a> (registration number: NCT02641470, date of registration December 30, 2015).",0,0,0,0,0,0,0,0,0,0,0
+13,"Asthenopia or eye strain is defined as nonspecific symptoms of an eye when it is tired from intensive work [<a href=""#CR1"">1</a>].",0,0,0,0,0,0,0,0,0,0,0
+14,"The symptoms of asthenopia are diverse and include fatigue, pain, blurred vision and headache.",0,0,0,0,0,0,0,0,0,0,0
+15,"Several extrinsic and intrinsic factors have been known to cause asthenopia [<a href=""#CR1"">1</a>, <a href=""#CR2"">2</a>].",0,0,0,0,0,0,0,0,0,0,0
+16,"The common causes of asthenopia are, but not limited to, reading, computer work, dry eye, presbyopia and uncorrected refractive errors.",0,0,0,0,0,0,0,0,0,0,0
+17,"In addition, asthenopia is one of the important subjective symptoms for the diagnosis of dry eye syndrome [<a href=""#CR3"">3</a>].",0,0,0,0,0,0,0,0,0,0,0
+18,"Asthenopia induced by computer screen watching is known as computer vision syndrome (CVS) [<a href=""#CR4"">4</a>, <a href=""#CR5"">5</a>].",0,0,0,0,0,0,0,0,0,0,0
+19,"Symptoms that constitute CVS include ocular, visual and musculoskeletal discomfort.",0,0,0,0,0,0,0,0,0,0,0
+20,"Wide-spread use of mobile devices including smart phones and tablet computers has raised great concerns about the potential ocular side effects caused by long-term use of these devices [<a href=""#CR6"">6</a>–<a href=""#CR8"">8</a>].",0,0,0,0,0,0,0,0,0,0,0
+21,"Continuous watching of computer screen is closely related to decreased blink rate and increased accommodation and convergence activities, which can lead to eye dryness and asthenopia [<a href=""#CR9"">9</a>, <a href=""#CR10"">10</a>].",0,0,0,0,0,0,0,0,0,0,0
+22,"In addition, recently available mobile devices adopt light emitting diode (LED) display terminals.",0,0,0,0,0,0,0,0,0,0,0
+23,"Although LED can provide higher resolution images, a short wavelength of light, especially blue range light, emitted from LED can damage retinal cells [<a href=""#CR11"">11</a>, <a href=""#CR12"">12</a>].",0,0,0,0,0,0,0,0,0,0,0
+24,"Therefore, these all changes occurring during computer monitor watching can manifest as complex symptoms of CVS.",0,0,0,0,0,0,0,0,0,0,0
+25,Vaccinium uliginosum</span> is a flowering plant native to low-temperature regions of the Northern Hemisphere.,0,0,0,0,0,0,0,0,0,0,0
+26,"It is found in the Alps, the Pyrenees, the Caucasus in Europe as well as in Mongolia, China, Japan and Korea [<a href=""#CR13"">13</a>].",0,0,0,0,0,0,0,0,0,0,0
+27,"The extract of <span class=""italic"">Vaccinium uliginosum</span> fruit contains abundant antioxidant compounds such as anthocyanins and flavonoids [<a href=""#CR14"">14</a>, <a href=""#CR15"">15</a>].",0,0,0,0,0,0,0,0,0,0,0
+28,"Antioxidants supplementation has been known as effective in alleviating dry eye symptoms [<a href=""#CR16"">16</a>–<a href=""#CR18"">18</a>].",0,0,0,0,0,0,0,0,0,0,0
+29,"In addition, the extract of <span class=""italic"">Vaccinium uliginosum</span> demonstrated protective effect of retinal cells in light-induced retinal damage [<a href=""#CR19"">19</a>].",0,0,0,0,0,0,0,0,0,0,0
+30,"Considering its antioxidative constituents and previous evidences of retinal protection, we hypothesize that the extract of <span class=""italic"">Vaccinium uliginosum</span> will be useful in treating various ocular pathologies including computer vision syndrome.",0,0,0,0,0,0,0,0,0,0,0
+31,"We performed a randomized, placebo-controlled study in healthy subjects and investigated the protective effect of <span class=""italic"">Vaccinium uliginosum</span> extract (DA-9301) on tablet computer-induced asthenopia.",0,0,0,0,0,0,0,0,0,0,0
+32,"This is a randomized, placebo-controlled, double-blind, parallel design study.",0,0,0,0,0,0,0,0,0,0,0
+33,"The study was conducted at Clinical Research Center located in Ilsan Hospital, Dongguk University, Goyang, South Korea and followed the tenets of the Declaration of Helsinki and was approved by the institutional review board (IRB) of Ilsan Hospital, Dongguk University (IRB approval number: 2013–95).",0,0,0,0,0,0,0,0,0,0,0
+34,The study is registered at www.clinicaltrials.gov (registration number: NCT 02641470).,0,0,0,0,0,0,0,0,0,0,0
+35,Written informed consents were obtained from participants before their enrollment.,0,0,0,0,0,0,0,0,0,0,0
+36,"The screening for the first volunteer was started on February, 2014 and the whole study was ended on May, 2014.",0,0,0,0,0,0,0,0,0,0,0
+37,Sixty two volunteers were screened and 60 eligible volunteers were randomized.,0,1,0,0,0,0,0,0,0,0,0
+38,The inclusion criteria were healthy subject aged 20–65 years with more than 2 h of daily use of a smart phone or computer including a tablet and television.,0,0,0,0,0,0,0,0,0,0,0
+39,"Exclusion criteria are listed in Table <a href=""#Tab1"">1</a>.",0,0,0,0,0,0,0,0,0,0,0
+40,"After passing the screening test (two subjects were excluded as screening failure), 60 subjects were randomized to study (DA9301) and control groups in double blinded manner at a ratio of 1:1.",0,0,0,0,0,0,0,0,0,0,0
+41,The randomization codes were generated using a block algorithm by a statistician and the seed number for the algorithm was the date that the codes were created.,0,1,0,0,0,0,0,0,0,0,0
+42,"The study group received DA9301 pills (1000 mg/day) for 4 weeks and the control group received placebo (same shape, size, and color as those of the DA9301 pill).",0,0,0,0,0,0,0,0,0,0,0
+43,"(Figure <a href=""#Fig1"">1</a>) Now the study group is referred as DA9301 throughout the manuscript.",0,0,0,0,0,0,0,0,0,0,0
+44,Compliance was measured both by reviewing the drug intake diary and by counting remnant pills at the final visit.,0,0,0,0,0,0,0,0,0,0,0
+45,"If the compliance failed to reach 80 %, the participants were excluded.",0,0,0,0,0,0,0,0,0,0,0
+46,"In addition, any participants who took forbidden systemic medications such as antihistamines, anticholinergics, thyroid hormones, anti-thyroid drugs and <span class=""italic"">Ginko biloba</span> extracts were excluded.",0,0,0,0,0,0,0,0,0,0,0
+47,"These medications were forbidden because they may affect ocular surface condition during the study period [<a href=""#CR20"">20</a>–<a href=""#CR23"">23</a>].",0,0,0,0,0,0,0,0,0,0,0
+48,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,0,0,0,0,0,0,0,0
+49,</span>Exclusion criteria,0,0,0,0,0,0,0,0,0,0,0
+50,"View larger version</a></span><span class=""fig-label"">Fig.",0,0,0,0,0,0,0,0,0,0,0
+52,</span>Schematic design of the study,0,0,0,0,0,0,0,0,0,0,0
+53,Preparation of Vaccinium ulginosum extract (DA9301),0,0,0,0,0,0,0,0,0,0,0
+54,"The fruits of <span class=""italic"">Vaccinium uliginosum</span> was washed and extracted with water at 60 ~ 70 °C, and the extracts were subsequently went through diatomaceous earth filtration.",0,0,0,0,0,0,0,0,0,0,0
+55,"The filtered extracts were concentrated and sterilized at 50 °C, 60 ~ 65brix.",0,0,0,0,0,0,0,0,0,0,0
+56,Diluent (Maltodextrin) was added to the extracts and sterilized again at 80 ~ 95 °C for 10 min for two times.,0,0,0,0,0,0,0,0,0,0,0
+57,And it was spray-dried.,0,0,0,0,0,0,0,0,0,0,0
+58,The marker compound of Vaccinium uliginosum is total polyphenols.,0,0,0,0,0,0,0,0,0,0,0
+59,"Its content is approximately 9.1 mg/g, acceptable within a range (80 % to 120 %).",0,0,0,0,0,0,0,0,0,0,0
+60,"The DA9301 pill was prepared by mixing DA9301 (500 mg), lactose (56.63 mg) and crystal cellulose.",0,0,0,0,0,0,0,0,0,0,0
+61,The placebo pill only contained lactose (556.63 mg).,0,0,0,0,0,0,0,0,0,0,0
+62,"The shape, size, and color of both the DA9301 and placebo pills were the same.",0,0,0,0,0,0,0,0,0,0,0
+63,"Ophthalmic screening for participants included slit lamp microscopy, non-contact intraocular pressure measurement, fundus photography, corrected distance visual acuity, Schirmer’s test, and tear-film break-up time.",0,0,0,0,0,0,0,0,0,0,0
+64,"Participants in the DA9301 and control groups were asked to watch a table computer screen (iPad Air, Apple Inc., Cupertino, CA) for 1 h at a viewing distance of 40 cm at baseline and 4-week visits.",0,0,0,0,0,0,0,0,0,0,0
+65,Participants watched a movie or played a computer game on the tablet computer.,0,0,0,0,0,0,0,0,0,0,0
+66,Those with presbyopia were allowed to use reading glasses for their comfort.,0,0,0,0,0,0,0,0,0,0,0
+67,"For exact comparisons, subjects who watched a movie or played a game at baseline visit were asked to repeat the task at 4 week visit.",0,0,0,0,0,0,0,0,0,0,0
+68,"Tablet computer screen stimulation was performed in the same room during all the study period to consistently maintain the humidity, temperature and illumination; the humidity and temperature were checked on every study day.",0,0,0,0,0,0,0,0,0,0,0
+69,Asthenopia was evaluated by using a modified questionnaire proposed by Ames et al.,0,0,0,0,0,0,0,0,0,0,0
+70,"(Table <a href=""#Tab2"">2</a>) [<a href=""#CR24"">24</a>].",0,0,0,0,0,0,0,0,0,0,0
+71,"These questionnaires contained 10 questions related to asthenopia that needed to be responded to using a scale of 0–6, with 0 defined as none and 6 as most severe.",0,0,0,0,0,0,0,0,0,0,0
+72,Most severe asthenopia corresponded to a score of 60.,0,0,0,0,0,0,0,0,0,0,0
+73,All subjects completed the questionnaire before and immediately after tablet computer use.,0,0,0,0,0,0,0,0,0,0,0
+74,"The severity of asthenopia may change depending on daily body condition including diurnal variation and environmental factors such as illumination, humidity and room temperature [<a href=""#CR2"">2</a>, <a href=""#CR25"">25</a>].",0,0,0,0,0,0,0,0,0,0,0
+75,"Therefore, to compare the effect of tablet computer watching, the asthenopia scores before and immediately after tablet computer watching (induced asthenopia) were calculated and score change was compared between the DA9301 and control groups.",0,0,0,0,0,0,0,0,0,0,0
+76,"For objective measurement of ocular dryness and visual deterioration, tear film break-up time and total high order wavefront aberration (Wavescan, VISX/Advanced Medical Optics, Santa Clara, CA) were measured in the right eyes before and after tablet computer watching.",0,0,0,0,0,0,0,0,0,0,0
+77,The measurements were made triplicate and the mean values were used for the analysis.,0,0,0,0,0,0,0,0,0,0,0
+78,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,0,0,0,0,0,0,0,0,0
+79,</span>Asthenopia questionnaire form modified from the original version proposed by Ames et al.,0,0,0,0,0,0,0,0,0,0,0
+80,Participants presented the last 3 days diet before the 4 week visit.,0,0,0,0,0,0,0,0,0,0,0
+81,Nutritional components within diet were analyzed by using computer aided nutritional analysis program (CAN) pro v4.0 devised by Korean Nutrition Society.,0,0,0,0,0,0,0,0,0,0,0
+82,"Vitamins C and E, beta-carotene and selenium were selected as potential antioxidant nutrients and their uptake was compared between DA 9301 and placebo groups.",0,0,0,0,0,0,0,0,0,0,0
+83,A total of 50 patients (25 patients in each group) were needed to achieve 80 % power and to detect a difference of 0.72 in the total score of asthenopia questionnaire.,0,0,0,0,0,0,0,0,0,0,0
+84,"To allow for 15 % drop-out rate, we randomly assigned 30 participants to each group (study vs. control).",0,0,0,0,0,0,0,0,0,0,0
+85,"Statistical analysis was performed using SAS® (Version 9.3, SAS Institute, Cary, NC).",0,0,0,0,0,0,0,0,0,0,0
+86,An assessment of normality of data was assessed by using Shapiro-Wilk test.,0,0,0,0,0,0,0,0,0,0,0
+87,"The comparisons between the study groups were performed with the use of Student’s <span class=""italic"">t</span>-test (or Wilcoxon’s rank sum test) and paired <span class=""italic"">t</span>-test (or Wilcoxon’s signed rank test) for continuous data and the chi-square test or Fisher’s exact test for categorical data.",0,0,0,0,0,0,0,0,0,0,0
+88,Twenty-nine participants in the DA9301 group and 30 participants in the placebo group completed the final visit evaluation.,0,0,0,0,0,0,0,1,1,1,1
+89,"Treatment compliance was 96.75 ± 5.06 % in the DA9301 group and 95.92 ± 6.60 % in the placebo group (<span class=""italic"">p</span> = 0.309, Wilcoxon’s rank sum test).",0,0,0,0,0,0,0,0,0,0,0
+90,One participant in each group was excluded owing to poor compliance.,0,0,0,0,0,0,0,0,0,0,0
+91,Two participants in the DA9301 group and five participants in the placebo group were excluded owing to the use of prohibited medicines during the study period.,0,0,0,0,0,0,0,0,0,0,0
+92,Data from 26 participants in the DA9301 group and 24 participants in the placebo group were used for the final analyses (Fig.,0,0,0,0,0,0,0,0,0,0,0
+93,"<a href=""#Fig2"">2</a>).",0,0,0,0,0,0,0,0,0,0,0
+94,"View larger version</a></span><span class=""fig-label"">Fig.",0,0,0,0,0,0,0,0,0,0,0
+95,2,0,0,0,0,0,0,0,0,0,0,0
+96,</span>Flowchart (CONSORT) of the participants throughout the study.,0,0,0,0,0,0,0,0,0,0,0
+97,N: number,0,0,0,0,0,0,0,0,0,0,0
+98,"Comparison of demographic characteristics between the two groups showed no significant differences in any parameter except body weight (Table <a href=""#Tab3"">3</a>).",0,0,0,0,0,0,0,0,0,0,0
+99,"See full table</a></span><span class=""fig-label"">Table 3.",0,0,0,0,0,0,0,0,0,0,0
+100,</span>Comparison of demographic characteristics between the DA9301 and placebo groups,0,0,0,0,0,0,0,0,0,0,0
+101,Total asthenopia score (TAS) change induced by tablet computer watching was determined both at the baseline and the final visits.,0,0,0,0,0,0,0,0,0,0,0
+102,"Table <a href=""#Tab4"">4</a> presents the changes of TAS by tablet computer watching at the baseline and the final visits.",0,0,0,0,0,0,0,0,0,0,0
+103,"Watching tablet computer at the baseline visit increased TAS by 3.54 and 1.04 in the DA9301 and placebo groups, respectively.",0,0,0,0,0,0,0,0,0,0,0
+104,"The change of TAS in the DA9301 group was statistically significant, while that of placebo group was not significant.",0,0,0,0,0,0,0,0,0,0,0
+105,"It is noteworthy that the mean TAS change at the final visit showed a mean TAS increase of 0.46 and 2.42 in the DA9301 and placebo groups, respectively and this difference was significant (<span class=""italic"">p</span> = 0.039, DA9301 baseline visit vs. DA9301 final visit; <span class=""italic"">p</span> = 0.020, DA9301 vs. placebo).",0,0,0,0,0,0,0,0,0,0,0
+106,"See full table</a></span><span class=""fig-label"">Table 4.",0,0,0,0,0,0,0,0,0,0,0
+107,</span>Change in total score of asthenopia questionnaire after tablet computer watching was compared,0,0,0,0,0,0,0,0,0,0,0
+108,We further analyzed each questionnaire of TAS to determine the effect of DA9301.,0,0,0,0,0,0,0,0,0,0,0
+109,"In the DA9301 group, the score changes for 8 of the 10 questions suggested significant improvement and these include questions pertaining to “tired eyes” (<span class=""italic"">p</span> = 0.001), “sore/aching eyes” (<span class=""italic"">p</span> = 0.038), “irritated eyes’”(<span class=""italic"">p</span> = 0.010), “watery eyes” (<span class=""italic"">p</span> = 0.005), “dry eyes” (<span class=""italic"">p</span> = 0.003), “eye strain” (<span class=""italic"">p</span> = 0.006), “blurred vision” (<span class=""italic"">p</span> = 0.035), and “visual discomfort” (<span class=""italic"">p</span> = 0.018).",0,0,0,0,0,0,0,0,0,0,0
+110,"(Table <a href=""#Tab5"">5</a>) The placebo group showed improved scores only for “tired eyes” (<span class=""italic"">p</span> = 0.002) and “irritated eyes” (<span class=""italic"">p</span> = 0.033).",0,0,0,0,0,0,0,0,0,0,0
+111,"It is noteworthy that the score improvement for “dry eyes” showed significant difference when comparing the DA9301 and placebo groups possibly indicating a more prominent DA9301 effect on “‘dry eyes” (<span class=""italic"">p</span> = 0.024) (Table <a href=""#Tab5"">5</a>).",0,0,0,0,0,0,0,0,0,0,0
+112,"See full table</a></span><span class=""fig-label"">Table 5.",0,0,0,0,0,0,0,0,0,0,0
+113,</span>The change of score for each asthenopia question after tablet computer watching was compared between baseline and final visits,0,0,0,0,0,0,0,0,0,0,0
+114,"There was no significant change of tear film break-up time and total high order wavefront aberration when comparing before and after tablet computer watching in both groups (Tables <a href=""#Tab6"">6</a> and <a href=""#Tab7"">7</a>).",0,0,0,0,0,0,0,0,0,0,0
+115,"See full table</a></span><span class=""fig-label"">Table 6.",0,0,0,0,0,0,0,0,0,0,0
+116,</span>Change of tear film break-up time (seconds) before and after tablet computer watching was compared,0,0,0,0,0,0,0,0,0,0,0
+117,"See full table</a></span><span class=""fig-label"">Table 7.",0,0,0,0,0,0,0,0,0,0,0
+118,</span>Change of total high order wavefront aberration (μm) before and after tablet computer watching was compared,0,0,0,0,0,0,0,0,0,0,0
+119,There were no significant ocular and systemic complications related to this study in both DA9301 and control groups.,0,0,0,0,0,0,0,0,0,0,0
+120,"Dietary antioxidant consumption between two groups showed no significant difference (Table <a href=""#Tab8"">8</a>).",0,0,0,0,0,0,0,0,0,0,0
+121,"See full table</a></span><span class=""fig-label"">Table 8.",0,0,0,0,0,0,0,0,0,0,0
+122,</span>Comparison of dietary antioxidant components between DA9301 and placebo group during the last three days before the 4-week visit,0,0,0,0,0,0,0,0,0,0,0
+123,Recent advances in smart mobile devices have increased the popularity of smart phones and tablet computers among the general population.,0,0,0,0,0,0,0,0,0,0,0
+124,"With the wide-spread use of smart mobile devices, smart device addiction has become serious health problem worldwide [<a href=""#CR6"">6</a>, <a href=""#CR26"">26</a>].",0,0,0,0,0,0,0,0,0,0,0
+125,Continuous accommodation is necessary to focus on the display of smart mobile devices for an extended period.,0,0,0,0,0,0,0,0,0,0,0
+126,"The fatigue induced by video monitors, such as LCD and LED monitors, has been previously referred as computer vision syndrome (CVS) [<a href=""#CR4"">4</a>, <a href=""#CR5"">5</a>, <a href=""#CR27"">27</a>, <a href=""#CR28"">28</a>].",0,0,0,0,0,0,0,0,0,0,0
+127,"About 64–90 % of computer users develop CVS [<a href=""#CR4"">4</a>].",0,0,0,0,0,0,0,0,0,0,0
+128,"It has been reported that blink rate during computer work significantly decreases and negatively correlates with eye discomfort score [<a href=""#CR10"">10</a>].",0,0,0,0,0,0,0,0,0,0,0
+129,"Another study revealed that computer work for more than 4 h significantly increased eye discomfort [<a href=""#CR29"">29</a>].",0,0,0,0,0,0,0,0,0,0,0
+130,"In addition, electronic book readers with LCD monitor cause marked visual fatigue [<a href=""#CR30"">30</a>].",0,0,0,0,0,0,0,0,0,0,0
+131,Our results have demonstrated the aggravation of CVS upon viewing monitors such as those of mobile devices.,0,0,0,0,0,0,0,0,0,0,0
+132,"A recent study demonstrated that the preferred distance for viewing a mobile device (36.2 cm) is shorter than the typical distance for reading books (40 cm) and this requires more accommodation and convergence [<a href=""#CR31"">31</a>].",0,0,0,0,0,0,0,0,0,0,0
+133,"The cumulative effect of continuous accommodation and convergence can manifest as various ocular, visual and musculoskeletal symptoms which are collectively called as asthenopia.",0,0,0,0,0,0,0,0,0,0,0
+134,Various methods of treatment have been suggested to manage CVS.,0,0,0,0,0,0,0,0,0,0,0
+135,"These include correction of residual refractive errors, instillation of artificial tears, combination of specific body posture, breathing and mental control, visual ergonomics and Ayurveda medicine [<a href=""#CR28"">28</a>, <a href=""#CR32"">32</a>–<a href=""#CR34"">34</a>].",0,0,0,0,0,0,0,0,0,0,0
+136,There are anecdotal reports about the effectiveness of these treatment modalities.,0,0,0,0,0,0,0,0,0,0,0
+137,Specific pharmacologic intervention to alleviate asthenopia induced by CVS has been investigated previously.,0,0,0,0,0,0,0,0,0,0,0
+138,"Omega-3 fatty acid was reported to decrease visual discomfort in CVS by decreasing tear evaporation and improving dry eye symptoms [<a href=""#CR35"">35</a>].",0,0,0,0,0,0,0,0,0,0,0
+139,"Topical brief application of polyphenol on eyes alleviated eye fatigue after computer work [<a href=""#CR36"">36</a>].",0,0,0,0,0,0,0,0,0,0,0
+140,"It is also important to maintain baseline efforts such as taking regular break, proper refractive correction, and treating underlying ocular surface disease to prevent CVS.",0,0,0,0,0,0,0,0,0,0,0
+141,"In this study, we found that oral intake of DA9301 for 4 weeks significantly alleviated visual discomfort induced by tablet computer work.",0,0,0,0,0,0,0,0,0,0,0
+142,The exact mechanism of the action of DA9301 needs further investigation.,0,0,0,0,0,0,0,0,0,0,0
+143,"However, as mentioned earlier, DA9301 contains antioxidant ingredients such as anthocyanins and flavonoids [<a href=""#CR31"">31</a>].",0,0,0,0,0,0,0,0,0,0,0
+144,"It has been recently reported that <span class=""italic"">Vaccinium uliginosum</span> extract prevented the blue light-induced human retinal pigment epithelial cell death by inhibiting photo-oxidation of N-retinyl-N-retinylidene ethanolamine [<a href=""#CR37"">37</a>].",0,0,0,0,0,0,0,0,0,0,0
+145,"Extract of <span class=""italic"">V.",0,0,0,0,0,0,0,0,0,0,0
+146,"uliginosum</span> partially preserved the outer nuclear layer of retina after light damage [<a href=""#CR19"">19</a>].",0,0,0,0,0,0,0,0,0,0,0
+147,"Another study reported the positive effect of <span class=""italic"">V.",0,0,0,0,0,0,0,0,0,0,0
+148,"uliginosum</span> extract on improving learning and memory impairment in murine Alzheimer’s disease model [<a href=""#CR38"">38</a>].",0,0,0,0,0,0,0,0,0,0,0
+149,"The symptoms of dry eye disease and asthenopia partially overlap [<a href=""#CR3"">3</a>].",0,0,0,0,0,0,0,0,0,0,0
+150,"Previous studies have demonstrated the beneficial effect of antioxidants in alleviating dry eye disease [<a href=""#CR16"">16</a>–<a href=""#CR18"">18</a>].",0,0,0,0,0,0,0,0,0,0,0
+151,We hypothesize that a similar mechanism might be involved in the DA9301-induced alleviation of asthenopia in our study.,0,0,0,0,0,0,0,0,0,0,0
+152,There are several limitations of this study.,0,0,0,0,0,0,0,0,0,0,0
+153,"First, we used questionnaires to evaluate the effect of DA9301.",0,0,0,0,0,0,0,0,0,0,0
+154,The responses to the questionnaire are somewhat subjective and could be affected by responders’ daily physical and mental condition.,0,0,0,0,0,0,0,0,0,0,0
+155,It would be better to adopt an objective measurement of asthenopia.,0,0,0,0,0,0,0,0,0,0,0
+156,"It is noteworthy that a new questionnaire to assess computer vision symptom was recently developed and now is under validation [<a href=""#CR39"">39</a>].",0,0,0,0,0,0,0,0,0,0,0
+157,"However, to the best of our knowledge, there is no established objective method to quantify asthenopia, although tear film break-up time and wavefront aberration were used as an possible objective method in our study.",0,0,0,0,0,0,0,0,0,0,0
+158,"Second, the tablet computer stimulus employed in our study is shorter (1 h) than that in a typical CVS model (several hours of intensive computer work).",0,0,0,0,0,0,0,0,0,0,0
+159,This could explain the relatively mild TAS increase observed in our study.,0,0,0,0,0,0,0,0,0,0,0
+160,More prolonged and intense computer work could aggravate TAS.,0,0,0,0,0,0,0,0,0,0,0
+161,Another limitation of this study is the lack of eye exercises screening of the participants.,0,0,0,0,0,0,0,0,0,0,0
+162,"Recently, awareness regarding the eye disorders is on the rise and many people are doing regular eye exercises which can have significant impact on the study.",0,0,0,0,0,0,0,0,0,0,0
+163,"In addition, although DA9301 was found to significantly alleviate asthenopia induced by table computer watching, a reverse trial of DA9301 and placebo (applying DA9301 in placebo group and vice versa) after a washout period may significantly enhance the strength of our result.",0,0,0,0,0,0,0,0,0,0,0
+164,Oral intake of DA9301 was effective in alleviating CVS induced by a tablet computer and this could be attributed to its strong antioxidant potential.,0,0,0,0,0,0,0,0,0,0,0
+165,Further investigation of the mechanisms underlying the effect of DA9301 is warranted.,0,0,0,0,0,0,0,0,0,0,0
+166,"The authors appreciate Dong-A ST Co., Ltd. for its generous support of DA9301.",0,0,0,0,0,0,0,0,0,0,0
+167,"This study was partially supported by a grant of the Korea Health Technology R&amp;D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health &amp; Welfare, Republic of Korea (Grant number: HI-15C1653).",0,0,0,0,0,0,0,0,0,0,0
+168,"This study was partially supported by a grant of the Korea Health Technology R&amp;D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health &amp; Welfare, Republic of Korea (Grant number: HI-15C1653).",0,0,0,0,0,0,0,0,0,0,0
+169,"The study is registered at <a href=""http://www.clinicaltrials.gov"">www.clinicaltrials.gov</a> (registration number: NCT 02641470).",0,0,0,0,0,0,0,0,0,0,0
+170,"The data that support the findings of this study are available from Clinical Research Center located in Ilsan Hospital, Dongguk University, Goyang, South Korea but restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly available.",0,0,0,0,0,0,0,0,0,0,0
+171,"Data are however available from the authors upon reasonable request and with permission of Clinical Research Center located in Ilsan Hospital, Dongguk University, Goyang, South Korea.",0,0,0,0,0,0,0,0,0,0,0
+172,"CYP: design of the study, interpretation of data, drafting the manuscript, revising manuscript, give final approval for the version to be published.",0,0,0,0,0,0,0,0,0,0,0
+173,"NG: design of the study, interpretation of data, drafting the manuscript, revising manuscript.",0,0,0,0,0,0,0,0,0,0,0
+174,"CYL: design of the study, analysis and interpretation of data, drafting the manuscript.",0,0,0,0,0,0,0,0,0,0,0
+175,"JHO: design of the study, acquisition of data, revising manuscript.",0,0,0,0,0,0,0,0,0,0,0
+176,"MC: design of the study, acquisition of data, revising manuscript.",0,0,0,0,0,0,0,0,0,0,0
+177,"MK: design of the study, acquisition of data, drafting the manuscript.",0,0,0,0,0,0,0,0,0,0,0
+178,"MYR: design of the study, interpretation of data, drafting the manuscript.",0,0,0,0,0,0,0,0,0,0,0
+179,All authors read and approved the final manuscript.,0,0,0,0,0,0,0,0,0,0,0
+180,The authors declare that they have no competing interest.,0,0,0,0,0,0,0,0,0,0,0
+181,Not applicable.,0,0,0,0,0,0,0,0,0,0,0
+182,"The manuscript does not include details, images, or videos relating to individual participants.",0,0,0,0,0,0,0,0,0,0,0
+183,Informed consent to participate in this study was obtained from all participants as stated in the manuscript.,0,0,0,0,0,0,0,0,0,0,0
+184,"This study followed the tenets of the Declaration of Helsinki and was approved by the institutional review board (IRB) of Ilsan Hospital, Dongguk University (IRB approval number: 2013–95).",0,0,0,0,0,0,0,0,0,0,0
+185,"Articles from BMC Complementary and Alternative Medicine are provided here courtesy of <span class=""bold"">BioMed Central",0,0,0,0,0,0,0,0,0,0,0
+186,PMC Copyright Notice,0,0,0,0,0,0,0,0,0,0,0
+187,"The articles available from the PMC site are protected by copyright, even though access is free.",0,0,0,0,0,0,0,0,0,0,0
+188,Copyright is held by the respective authors or publishers who provide these articles to PMC.,0,0,0,0,0,0,0,0,0,0,0
+189,Users of PMC are responsible for complying with the terms and conditions defined by the copyright holder.,0,0,0,0,0,0,0,0,0,0,0
+190,"Users should assume that standard copyright protection applies to articles in PMC, unless an article contains an explicit license statement that gives a user additional reuse or redistribution rights.",0,0,0,0,0,0,0,0,0,0,0
+191,PMC does not allow automated/bulk downloading of articles that have standard copyright protection.,0,0,0,0,0,0,0,0,0,0,0
+192,"See the copyright notice on the PMC site, <a href=""https://www.ncbi.nlm.nih.gov/pmc/about/copyright/"">https://www.ncbi.nlm.nih.gov/pmc/about/copyright/</a>, for further details and specific exceptions.",0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,156 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"To evaluate feasibility, safety, and efficacy of day-and-night hybrid closed-loop insulin delivery in adolescents with type 1 diabetes under free-living conditions without remote monitoring or supervision.",0,0,0,0,0,0,0,0,0,0,0
+1,"In an open-label, randomized, free-living, crossover study design, 12 adolescents receiving insulin pump therapy (mean [±SD] age 15.4 ± 2.6 years; HbA<sub>1c</sub> 8.3 ± 0.9%; duration of diabetes 8.2 ± 3.4 years) underwent two 7-day periods of sensor-augmented insulin pump therapy or hybrid closed-loop insulin delivery without supervision or remote monitoring.",1,0,1,0,0,0,0,0,0,0,0
+2,"During the closed-loop insulin delivery, a model predictive algorithm automatically directed insulin delivery between meals and overnight; prandial boluses were administered by participants using a bolus calculator.",1,0,1,0,0,0,0,0,0,0,0
+3,"The proportion of time when the sensor glucose level was in the target range (3.9–10 mmol/L) was increased during closed-loop insulin delivery compared with sensor-augmented pump therapy (72 vs. 53%, <span class=""italic"">P</span> &lt; 0.001; primary end point), the mean glucose concentration was lowered (8.7 vs. 10.1 mmol/L, <span class=""italic"">P</span> = 0.028), and the time spent above the target level was reduced (<span class=""italic"">P</span> = 0.005) without changing the total daily insulin amount (<span class=""italic"">P</span> = 0.55).",0,0,0,1,0,0,0,0,0,1,1
+4,The time spent in the hypoglycemic range was low and comparable between interventions.,0,0,0,1,0,0,0,0,0,1,1
+5,Unsupervised day-and-night hybrid closed-loop insulin delivery at home is feasible and safe in young people with type 1 diabetes.,0,0,0,0,0,0,0,0,0,0,0
+6,"Compared with sensor-augmented insulin pump therapy, closed-loop insulin delivery may improve glucose control without increasing the risk of hypoglycemia in adolescents with suboptimally controlled type 1 diabetes.",0,0,0,0,0,0,0,0,0,0,0
+7,"Childhood-onset type 1 diabetes is associated with significant morbidity and reduced life expectancy resulting from dysglycemia-related acute and chronic complications (<a href=""#B1"">1</a>,<a href=""#B2"">2</a>).",1,0,1,0,0,0,0,0,0,0,0
+8,"Adolescence is a particularly vulnerable period for the onset and priming of cardiovascular and renal complications (<a href=""#B3"">3</a>,<a href=""#B4"">4</a>), whereas the majority of young people with type 1 diabetes do not meet treatment targets (<a href=""#B5"">5</a>,<a href=""#B6"">6</a>).",1,0,1,0,0,0,0,0,0,0,0
+9,"Diabetes management in adolescence is complicated by psychological and physiological changes accompanying puberty (<a href=""#B7"">7</a>).",1,0,1,0,0,0,0,0,0,0,0
+10,"Apart from hypoglycemia (<a href=""#B8"">8</a>), reduced compliance with therapy is a major obstacle to achieving tight glucose control (<a href=""#B9"">9</a>).",0,0,0,0,0,0,0,0,0,0,0
+11,"Diabetic ketoacidosis is more common (<a href=""#B10"">10</a>,<a href=""#B11"">11</a>), omission of or delayed insulin boluses with meals or snacks is widespread (<a href=""#B9"">9</a>,<a href=""#B12"">12</a>), and discontinuation of insulin pump therapy is highest among adolescents (<a href=""#B13"">13</a>).",0,0,0,0,0,0,0,0,0,0,0
+12,"Sensor-augmented insulin pump therapy (<a href=""#B14"">14</a>) and threshold-suspend features may alleviate the burden of hypoglycemia and improve outcomes (<a href=""#B15"">15</a>,<a href=""#B16"">16</a>), but acceptance and use of continuous glucose monitoring systems is notably reduced among teenagers (<a href=""#B14"">14</a>,<a href=""#B17"">17</a>).",0,0,0,0,0,0,0,0,0,0,0
+13,"The artificial pancreas or closed-loop systems differ from conventional pump therapy and threshold-suspend approaches through the use of a control algorithm that autonomously and continually increases and decreases subcutaneous insulin delivery based on real-time sensor glucose levels (<a href=""#B18"">18</a>).",0,0,0,0,0,0,0,0,0,0,0
+14,"Results from studies under controlled laboratory settings (<a href=""#B19"">19</a>–<a href=""#B23"">23</a>) and investigations of closed-loop in transitional outpatient settings, incorporating remote monitoring and supervision by research staff in hotels (<a href=""#B24"">24</a>) or at diabetes camps (<a href=""#B25"">25</a>,<a href=""#B26"">26</a>), have demonstrated improved glucose control and reduction of hypoglycemia (<a href=""#B25"">25</a>–<a href=""#B28"">28</a>).",0,0,0,0,0,0,0,0,0,0,0
+15,"At-home studies (<a href=""#B29"">29</a>–<a href=""#B32"">32</a>) of 3 weeks to 3 months of application of overnight close-loop insulin delivery have been performed in adolescents and adults.",0,0,0,0,0,0,0,0,0,0,0
+16,"However, home studies (<a href=""#B32"">32</a>,<a href=""#B33"">33</a>) of unsupervised day-and-night closed-loop application have been restricted to adults only.",0,0,0,0,0,0,0,0,0,0,0
+17,There has been no previous evaluation of unsupervised day-and-night closed-loop insulin delivery in free-living settings in adolescents 10–18 years of age.,0,0,0,0,0,0,0,0,0,0,0
+18,"Here, we present the results of a 7-day-long, day-and-night closed-loop home trial in adolescents with type 1 diabetes under free-living conditions.",0,0,0,0,0,0,0,0,0,0,0
+19,"We hypothesized that day-and-night use of hybrid closed-loop insulin delivery without remote monitoring is feasible, safe, and could improve glycemic control compared with sensor-augmented pump therapy in this population.",0,0,0,0,0,0,0,0,0,0,0
+20,"Prior to study initialization, approval was sought and received from the local independent research ethics committee and the U.K. regulatory authority (Medicines &amp; Health products Regulatory Agency).",0,0,0,0,0,0,0,0,0,0,0
+21,An independent Data Safety and Monitoring Board oversaw the study and was informed of all unanticipated adverse events that occurred during the study.,0,0,0,0,0,0,0,0,0,0,0
+22,"Study participants were recruited between August 2014 and October 2014 through the pediatric diabetes clinic at Addenbrooke’s Hospital, Cambridge, U.K. Key inclusion criteria were age 10–18 years, diagnosis of type 1 diabetes, treatment with insulin pump therapy for at least 3 months, willingness to perform at least four fingerstick glucose measurements per day, and HbA<sub>1c</sub> level ≤11% (97 mmol/mol).",0,0,0,0,0,0,0,0,0,0,0
+23,"Exclusion criteria included established nephropathy, neuropathy, or proliferative retinopathy; total daily insulin dose of ≥2.0 units/kg or &lt;10 units/day; concurrent illness or medications likely to interfere with interpretation of study results; significant hypoglycemia unawareness, as judged by the clinical investigators; recurrent incidents of severe hypoglycemia, as defined by the International Society for Pediatric and Adolescent Diabetes guidelines, during the previous 6 months; more than one episode of diabetic ketoacidosis within 12 months prior to study enrollment; pregnancy; and breast feeding.",0,0,0,0,0,0,0,0,0,0,0
+24,Participants ≥16 years of age and parents or guardians of participants &lt;16 years of age signed informed consent; written assent was obtained from minors.,0,0,0,0,0,0,0,0,0,0,0
+25,"The study adopted an open-label, prospective, single-center, randomized crossover design contrasting automated closed-loop insulin delivery and sensor-augmented pump therapy over 7 days (<a href=""http://care.diabetesjournals.org/lookup/suppl/doi:10.2337/dc15-2078/-/DC1"">Supplementary Fig.",0,0,0,0,0,0,0,0,0,0,0
+26,1</a>).,0,0,0,0,0,0,0,0,0,0,0
+27,"The study was performed under free-living home conditions without remote monitoring or supervision by research staff, and participants performed their usual activities of daily living.",0,0,0,0,0,0,0,0,0,0,0
+28,"The participants were free to consume any meals of their choice, and no restrictions were imposed on traveling or moderate exercise.",0,0,0,0,0,0,0,0,0,0,0
+29,All participants had access to a 24-h telephone helpline to contact the study team in the event of study-related issues.,0,0,0,0,0,0,0,0,0,0,0
+30,Blood samples for the measurement of baseline HbA<sub>1c</sub> and nonhypoglycemia C-peptide levels were obtained at study enrollment.,0,0,0,0,1,1,1,0,0,0,0
+31,"At the start of the run-in phase, participants were trained on the use of the study insulin pump (DANA Diabecare R; Sooil, Seoul, South Korea) and study real-time continuous glucose monitoring device (FreeStyle Navigator II; Abbott Diabetes Care, Alameda, CA).",0,0,0,0,1,1,1,0,0,0,0
+32,"The study insulin pump was programmed with the participant’s usual basal settings, usual insulin-to-carbohydrate ratios and correction factors, and delivered a rapid-acting insulin analog (insulin aspart; Novo Nordisk, Bagsvaerd, Denmark; or insulin lispro; Eli Lilly, Indianapolis, IN).",0,0,0,0,1,1,1,0,0,0,0
+33,Participants were advised to use the bolus calculator for all meals during the entire study.,0,0,0,0,1,1,1,0,0,0,0
+34,"Ability and competency to use the study devices was formally assessed, and additional training was provided as required.",0,0,0,0,1,1,1,0,0,0,0
+35,"Over a 1- to 2-week run-in phase, participants were required to use the study pump and collect at least 5 days worth of sensor glucose to pass the compliance assessment.",0,0,0,0,0,0,0,0,0,0,0
+36,Data obtained during the run-in phase were used for therapy optimization as per usual clinical practice.,0,0,0,0,0,0,0,0,0,0,0
+37,"After the run-in period, participants underwent two 7-day periods, in random order, during which glucose was controlled either by sensor-augmented insulin pump therapy or hybrid closed-loop insulin delivery.",0,0,0,0,0,0,0,0,0,0,0
+38,"The two treatment interventions were separated by a 1- to 4-week washout period, during which the participants could continue using the study insulin pump applying their standard pump settings.",0,0,0,0,0,0,0,0,0,0,0
+39,Continuous glucose monitoring was discontinued during the washout period.,0,0,0,0,0,0,0,0,0,0,0
+40,"The participants had the same number of planned contacts with the study team during the two study periods, and used the study pump and the study real-time continuous glucose monitoring device during both study periods.",0,0,0,0,0,0,0,0,0,0,0
+41,"Randomization assignment was unblinded, but allocation between treatment sequences was concealed to the study staff until after randomization, which occurred the day prior to the first intervention.",0,1,0,0,0,0,0,0,0,0,0
+42,Random permuted blocks were used for treatment sequence allocation.,0,1,0,0,0,0,0,0,0,0,0
+43,"On the first day of the closed-loop insulin delivery period, a 2- to 3-h training session was provided by the investigators at the clinical research facility, including initiation and discontinuation of the closed-loop system, switching between closed-loop and usual pump therapy, meal bolus procedure, and the use of study devices during exercise.",0,0,0,0,0,0,0,0,0,0,0
+44,Prandial boluses were advised to be delivered before the meals using the standard bolus calculator of the pump.,0,0,0,0,0,0,0,0,0,0,0
+45,Competency on the use of closed-loop system was assessed prior to discharge.,0,0,0,0,0,0,0,0,0,0,0
+46,"After the training session, participants continued the study intervention for the next 7 days under free-living conditions in their home and school environment.",0,0,0,0,0,0,0,0,0,0,0
+47,"Automated closed-loop insulin delivery was continued during exercise of mild to moderate intensity, and exercise was announced to the algorithm.",0,0,0,0,0,0,0,0,0,0,0
+48,"Participants were advised to discontinue closed-loop insulin delivery and follow their usual insulin pump therapy for certain activities, such as periods of strenuous exercise, diving, or contact sports.",0,0,0,0,0,0,0,0,0,0,0
+49,Participants were advised to calibrate the continuous glucose monitoring device according to the manufacturer instructions and to use the built-in glucometer for all fingerstick measurements; they were free to make decisions on alarm thresholds for the continuous glucose monitoring device.,0,0,0,0,0,0,0,0,0,0,0
+50,Participants followed their standard clinic guidelines for hypoglycemia and hyperglycemia treatment.,0,0,0,0,0,0,0,0,0,0,0
+51,"The FlorenceD2A closed-loop system (University of Cambridge, Cambridge, U.K.) (<a href=""#B34"">34</a>) comprised a model predictive control algorithm (version 0.3.30, University of Cambridge) residing on a smartphone (Nexus 4; LG, South Korea), which communicated wirelessly with a continuous glucose monitoring receiver through a purpose-made translator unit (TriTeq, Hungerford, U.K.) (<a href=""http://care.diabetesjournals.org/lookup/suppl/doi:10.2337/dc15-2078/-/DC1"">Supplementary Fig.",0,0,0,0,0,0,0,0,0,0,0
+52,2</a>).,0,0,0,0,0,0,0,0,0,0,0
+53,"Every 12 min, the control algorithm calculated a new insulin infusion rate, which was automatically set on the study insulin pump.",0,0,0,0,0,0,0,0,0,0,0
+54,"The calculations used a compartment model of glucose kinetics (<a href=""#B35"">35</a>) describing the effect of rapid-acting insulin analogs and the carbohydrate content of meals on glucose levels.",0,0,0,0,0,0,0,0,0,0,0
+55,"In this trial, a hybrid closed-loop approach was applied, in which participants additionally administered prandial insulin for all meals using the standard bolus calculator.",0,0,0,0,0,0,0,0,0,0,0
+56,The control algorithm was initialized using preprogrammed basal insulin doses downloaded from the study pump.,0,0,0,0,0,0,0,0,0,0,0
+57,"Additionally, information about the participant’s weight and total daily insulin dose were entered at setup.",0,0,0,0,0,0,0,0,0,0,0
+58,"During closed-loop operation, the algorithm adapted itself to the particular participant.",0,0,0,0,0,0,0,0,0,0,0
+59,"The treat-to-target control algorithm aimed to achieve glucose levels between 5.8 and 7.3 mmol/L, and adjusted the actual level depending on fasting versus postprandial status and the accuracy of model-based glucose predictions.",0,0,0,0,0,0,0,0,0,0,0
+60,"Though devices were advised to be kept in the vicinity of each other, a wireless transmission range of several meters allowed for flexibility in terms of device wear; and appropriate cases, clips, and pouches were provided.",0,0,0,0,0,0,0,0,0,0,0
+61,"The continuous glucose monitoring receiver provided hypoglycemia and hyperglycemia alarms, the insulin pump provided standard alarms, and the smartphone alerted the user about aspects related to closed-loop operation such as when closed-loop insulin delivery started or stopped.",0,0,0,0,0,0,0,0,0,0,0
+62,Participants performed a calibration check before breakfast and before the evening meal.,0,0,0,0,0,0,0,0,0,0,0
+63,"If the sensor glucose level was above the fingerstick glucose level by &gt;3.0 mmol/L, the continuous glucose monitoring device was manually recalibrated.",0,0,0,0,0,0,0,0,0,0,0
+64,There was no recalibration for the sensor under reading.,0,0,0,0,0,0,0,0,0,0,0
+65,"These instructions resulted from an in silico evaluation of hypoglycemia and hyperglycemia risk (<a href=""#B36"">36</a>) using the validated Cambridge simulator (<a href=""#B37"">37</a>).",0,0,0,0,0,0,0,0,0,0,0
+66,"If sensor glucose became unavailable or if there was another failure, preprogrammed insulin delivery automatically restarted within 30–60 min.",0,0,0,0,0,0,0,0,0,0,0
+67,"This limited the risk of insulin underdelivery and overdelivery (<a href=""#B36"">36</a>).",0,0,0,0,0,0,0,0,0,0,0
+68,Safety rules limited the maximum insulin infusion and suspended insulin delivery if the glucose level was ≤4.3 mmol/L or when sensor glucose was rapidly decreasing.,0,0,0,0,0,0,0,0,0,0,0
+69,"HbA<sub>1c</sub> level was measured using ion exchange high-performance liquid chromatography (G8 HPLC Analyzer; Tosoh Bioscience Inc., CA; interassay coefficients of variation (CVs): 1.3% at 31.2 mmol/mol, 0.8% at 80.5 mmol/mol).",0,0,0,0,0,0,0,1,1,0,0
+70,"C-peptide measurements were performed using chemiluminescence immunoassay (IV2–004; Invitron Ltd, Monmouth U.K.; interassay variation: 7.8, 4.3, and 6.7% at 268, 990, and 1,862 pmol/L, respectively).",0,0,0,0,0,0,0,0,0,0,0
+71,Analytical sensitivity for the C-peptide assay was 5.0 pmol/L.,0,0,0,0,0,0,0,0,0,0,0
+72,The primary outcome was the proportion of time when glucose was in the target range (3.9–10.0 mmol/L) during the 7-day study periods.,0,0,0,0,0,0,0,0,0,0,0
+73,"Secondary outcomes included mean sensor glucose levels, glucose variability, and time spent below and above the target glucose level.",0,0,0,0,0,0,0,0,0,0,0
+74,"Outcomes were calculated during day-and-night, daytime, and overnight periods; daytime was classified as being between 8:00 <span class=""sc"">a.m</span>.",0,0,0,0,0,0,0,0,0,0,0
+75,"and midnight, and nighttime was classified as being between midnight and 8:00 <span class=""sc"">a.m</span>.",0,0,0,0,0,0,0,0,0,0,0
+76,Glucose variability was assessed by the SD and the CV of sensor glucose levels.,0,0,0,0,0,0,0,0,0,0,0
+77,Hypoglycemia burden was assessed by calculating the glucose sensor area under the curve (AUC) of &lt;3.5 mmol/L.,0,0,0,0,0,0,0,0,0,0,0
+78,The statistical analysis plan was agreed on by investigators in advance.,0,0,0,0,0,0,0,0,0,0,0
+79,All analyses were undertaken on an intention-to-treat basis.,0,0,0,0,0,0,0,0,0,0,0
+80,Efficacy and safety data from all randomized participants with and without protocol violation were included in the analyses.,0,0,0,0,0,0,0,0,0,0,0
+81,The respective values obtained during the 7-day randomized interventions contrasting the closed-loop system against the sensor-augmented pump therapy were compared using a least-squares regression model.,0,0,0,0,0,0,0,0,0,0,0
+82,Sensor glucose outcomes were adjusted for baseline glucose level and period effect; insulin outcomes were adjusted for period effect.,0,0,0,0,0,0,0,0,0,0,0
+83,Rank normal transformation analyses were used for highly skewed end points.,0,0,0,0,0,0,0,0,0,0,0
+84,Outcomes were presented as the mean ± SD for normally distributed values or as the median (interquartile range) for non-normally distributed values.,0,0,0,0,0,0,0,0,0,0,0
+85,"Secondary outcomes for daytime and nighttime periods were excluded from calculating <span class=""italic"">P</span> values to limit multiple comparisons.",0,0,0,0,0,0,0,0,0,0,0
+86,"Outcomes were calculated using GStat software (University of Cambridge, version 2.2).",0,0,0,0,0,0,0,0,0,0,0
+87,"Analysis was done using SAS version 9.4 (SAS Institute, Cary, NC).",0,0,0,0,0,0,0,0,0,0,0
+88,A 5% significance level was considered statistically significant.,0,0,0,0,0,0,0,0,0,0,0
+89,"All <span class=""italic"">P</span> values are two-sided.",0,0,0,0,0,0,0,0,0,0,0
+90,Fourteen subjects were screened.,0,0,0,0,0,0,0,0,0,0,0
+91,"<a href=""http://care.diabetesjournals.org/lookup/suppl/doi:10.2337/dc15-2078/-/DC1"">Supplementary Fig.",0,0,0,0,0,0,0,0,0,0,0
+92,3</a> shows the flow of participants through the study.,0,0,0,0,0,0,0,0,0,0,0
+93,"One participant did not meet the inclusion/exclusion criteria, and another voluntarily withdrew consent and did not complete the run-in phase.",0,0,0,0,0,0,0,0,0,0,0
+94,"Twelve eligible participants were randomized, completed the study, and provided data for analyses (8 males, 4 females; age 15.4 ± 2.6 years; diabetes duration 8.2 ± 3.4 years; HbA<sub>1c</sub> level 8.3 ± 0.9% [68 ± 10 mmol/mol]; insulin pump therapy duration 5.6 ± 2.9 years; total daily insulin dose 0.84 ± 0.22 units/kg/day) (<a href=""http://care.diabetesjournals.org/lookup/suppl/doi:10.2337/dc15-2078/-/DC1"">Supplementary Table 1</a>).",0,0,0,0,0,0,0,0,0,0,0
+95,"The primary end point, the proportion of time that the sensor glucose level was in the target glucose range of 3.9–10.0 mmol/L, significantly increased during closed-loop (<span class=""italic"">P</span> &lt; 0.001, <a href=""#T1"">Table 1</a>).",0,0,0,0,0,0,0,0,0,0,0
+96,"Twenty-four hour sensor glucose and insulin delivery profiles are shown in <a href=""#F1"">Fig.",0,0,0,0,0,0,0,0,0,0,0
+97,1</a>.,0,0,0,0,0,0,0,0,0,0,0
+98,"Closed-loop insulin delivery significantly reduced the mean glucose level (<span class=""italic"">P</span> = 0.028) and the time spent above target glucose level (<span class=""italic"">P</span> = 0.005) without increasing the time spent in hypoglycemia (<a href=""#T1"">Table 1</a> and <a href=""#F2"">Fig.",0,0,0,0,0,0,0,0,0,0,0
+99,2</a>).,0,0,0,0,0,0,0,0,0,0,0
+100,The proportion of time when the sensor glucose level was in the hypoglycemic range (&lt;3.9 and 2.8 mmol/L) and the AUC when the sensor glucose level was &lt;3.5 mmol/L were low and comparable during the study periods.,0,0,0,0,0,0,0,0,0,0,0
+101,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,0,0,0,0,0,0,0,0
+102,</span>Comparison of glucose control and insulin delivery during closed-loop and control period,0,0,0,0,0,0,0,0,0,0,0
+103,"View larger version</a></span><span class=""fig-label"">Figure 1.",0,0,0,0,0,0,0,0,0,0,0
+104,</span>Median (interquartile range) of sensor glucose (top panel) and insulin delivery (bottom panel) levels during closed-loop insulin delivery (solid red line and red-shaded area) and control period (dashed black line and gray-shaded area) from midnight to midnight.,0,0,0,0,0,0,0,0,0,0,0
+105,The glucose range 3.9–10.0 mmol/L is denoted by horizontal dashed lines (top panel).,0,0,0,0,0,0,0,0,0,0,0
+106,"View larger version</a></span><span class=""fig-label"">Figure 2.",0,0,0,0,0,0,0,0,0,0,0
+107,</span>Individual values of mean sensor glucose levels during day-and-night closed-loop study.,0,0,0,0,0,0,0,0,0,0,0
+108,The size of the bubble indicates the proportion of time spent with low glucose levels &lt;2.8 mmol/L.,0,0,0,0,0,0,0,0,0,0,0
+109,There was no difference in glucose variability between study periods as measured by the SD and CV of sensor glucose.,0,0,0,0,0,0,0,0,0,0,0
+110,"Increased time when the glucose level was in the target range and reduced mean glucose level were achieved by closed-loop through the increased variability of basal insulin delivery, but without increasing the total daily insulin dose (<span class=""italic"">P</span> = 0.55).",0,0,0,0,0,0,0,0,0,0,0
+111,"Higher total basal insulin delivery during closed-loop insulin delivery (<span class=""italic"">P</span> = 0.001) was offset by a trend toward lower bolus delivery (<span class=""italic"">P</span> = 0.06), presumably due to lower glucose levels resulting in reduced correction boluses (<a href=""#T1"">Table 1</a>).",0,0,0,0,0,0,0,0,0,0,0
+112,Daytime and Overnight Glucose Control and Insulin Delivery,0,0,0,0,0,0,0,0,0,0,0
+113,"Secondary outcomes calculated for daytime and overnight periods are shown in <a href=""http://care.diabetesjournals.org/lookup/suppl/doi:10.2337/dc15-2078/-/DC1"">Supplementary Table 2</a>.",0,0,0,0,0,0,0,0,0,0,0
+114,Daytime and overnight outcomes were similar to outcomes over day-and-night.,0,0,0,0,0,0,0,0,0,0,0
+115,The proportion of time when the sensor glucose level was in the daytime target range (3.9–10.0 mmol/L) and overnight target range (3.9–8.0 mmol/L) tended to be higher during closed-loop insulin delivery compared with control (daytime 66% [55–68%] vs. 49% [46–51%]; overnight: 63% [49–78%] vs. 40% (30–48%]).,0,0,0,0,0,0,0,0,0,0,0
+116,The daytime mean glucose levels (9.4 ± 1.2 vs. 10.3 ± 1.4 mmol/L) and overnight mean glucose levels (7.8 ± 1.8 vs. 9.7 ± 1.8 mmol/L) tended to be lower during closed-loop insulin delivery without a difference in total daytime and overnight insulin amount.,0,0,0,0,0,0,0,0,0,0,0
+117,No serious adverse events or severe hypoglycemic episodes were observed during either study period.,0,0,0,1,0,0,0,0,0,1,1
+118,"Two participants measured mild to moderate elevated blood ketone levels (&gt;2.0 mmol/L), which were associated with hyperglycemia, one participant during closed-loop insulin delivery and one participant in the control period.",0,0,0,1,0,0,0,0,0,1,1
+119,These events were attributed to infusion set failures and were all self-managed.,0,0,0,1,0,0,0,0,0,1,1
+120,Closed-loop insulin delivery was operational a median of &gt;91% of the time (interquartile range 75–96% of the time).,0,0,0,0,0,0,0,1,1,0,0
+121,The median availability of sensor glucose was 98% (interquartile range 93–100%) during closed-loop insulin delivery and 97% (interquartile range 92–100%) during the control period.,0,0,0,0,0,0,0,1,1,0,0
+122,"On average, closed-loop insulin delivery was interrupted 1.1 times/subject/day (0.6–1.5 times/subject/day).",0,0,0,0,0,0,0,1,1,0,0
+123,"Apart from two occasions requiring reset of the closed-loop system by the research staff, the participants were able to resolve issues on their own, such as restarting the closed-loop system after the loss of pump connectivity or sensor data unavailability.",0,0,0,0,0,0,0,1,1,0,0
+124,"To our knowledge, this is the first trial investigating day-and-night application of closed-loop insulin delivery under free-living conditions in adolescents with type 1 diabetes.",0,0,0,0,0,0,0,0,0,0,0
+125,The results of the current study demonstrate the feasibility of unsupervised free-living home use of 24/7 hybrid closed-loop insulin delivery in this challenging population.,0,0,0,0,0,0,0,0,0,0,0
+126,The closed-loop system increased the time when the glucose level was in the target range while reducing the mean glucose level.,0,0,0,0,0,0,0,0,0,0,0
+127,These improvements were achieved without increasing the risk of hypoglycemia and without increasing the total daily insulin dose.,0,0,0,0,0,0,0,0,0,0,0
+128,The occurrence of hypoglycemia exposure in the current study was low.,0,0,0,0,0,0,0,0,0,0,0
+129,"Compared with previously published day-and-night adult outpatient studies using single-hormone (<a href=""#B32"">32</a>,<a href=""#B33"">33</a>) or dual-hormone approaches with glucagon coadministration (<a href=""#B27"">27</a>), participants in the current study spent less time at glucose levels &lt;3.9 mmol/L during the control period.",0,0,0,0,0,0,0,0,0,0,0
+130,"During the closed-loop study arm, our results matched the findings observed in adults (<a href=""#T2"">Table 2</a>).",0,0,0,0,0,0,0,0,0,0,0
+131,"In our adolescent cohort, the 24/7 hybrid closed-loop insulin delivery system managed to keep the time in hypoglycemia at a low level, while significant reductions in hypoglycemia risk using closed-loop delivery in outpatient settings were observed in more hypoglycemia-prone populations (<a href=""#B27"">27</a>,<a href=""#B32"">32</a>,<a href=""#B33"">33</a>).",0,0,0,0,0,0,0,0,0,0,0
+132,"We instructed study participants to perform a twice-daily calibration check and to recalibrate the sensor when large over-reading occurred but not when under-reading, occurred, to reduce the risk of sensor error–induced hypoglycemia, which is of particular concern during closed-loop insulin delivery.",0,0,0,0,0,0,0,0,0,0,0
+133,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,0,0,0,0,0,0,0,0,0
+134,</span>Comparison of percentage of time spent with glucose levels &lt;3.9 mmol/L during day-and-night closed-loop studies in outpatient settings,0,0,0,0,0,0,0,0,0,0,0
+135,"The advent of novel technologies such as threshold-suspend insulin pump therapy (<a href=""#B15"">15</a>) and, more recently, predictive low-glucose suspend (<a href=""#B16"">16</a>) may reduce the risk of hypoglycemia.",0,0,0,0,0,0,0,0,0,0,0
+136,"However, these approaches are not designed to increase insulin delivery and do not address the issue of hyperglycemia, which poses major challenges in diabetes management of adolescents.",0,0,0,0,0,0,0,0,0,0,0
+137,"The important advantage of a closed-loop system is highly responsive graduated modulation of insulin delivery both below and above the preset pump regimen, allowing for improvements in time spent with target glucose values and the reduction of mean glucose without increased hypoglycemia.",0,0,0,0,0,0,0,0,0,0,0
+138,Closed-loop insulin delivery use and sensor wear were high in our cohort.,0,0,0,0,0,0,0,0,0,0,0
+139,This may be attributed to the relatively short intervention period and the motivational bias of study participants.,0,0,0,0,0,0,0,0,0,0,0
+140,"These findings are in line with previous observations (<a href=""#B31"">31</a>) regarding overnight closed-loop insulin delivery home application over longer intervention periods in adolescents.",0,0,0,0,0,0,0,0,0,0,0
+141,"In terms of psychosocial impact and acceptance, overnight closed-loop technology was well accepted in this age group, with overall benefits outweighing practical challenges, such as technical difficulties, intrusiveness of alarms, and size of the devices (<a href=""#B38"">38</a>).",0,0,0,0,0,0,0,0,0,0,0
+142,"Given high closed-loop insulin delivery system use in adolescents, the positive perception of this technology and its benefits in terms of glycemic control demonstrated by the current study, closed-loop insulin delivery represents a promising tool to address glycemic deterioration that is commonly seen in adolescence (<a href=""#B7"">7</a>,<a href=""#B39"">39</a>).",0,0,0,0,0,0,0,0,0,0,0
+143,"The strengths of our study include the integration of closed-loop insulin delivery into normal life, including use at school, and during weekends and holidays.",0,0,0,0,0,0,0,0,0,0,0
+144,The study was performed without remote monitoring or close supervision.,0,0,0,0,0,0,0,0,0,0,0
+145,"No restrictions were imposed on dietary intake, moderate physical activity, or travel.",0,0,0,0,0,0,0,0,0,0,0
+146,The comparator was “state-of-the-art” sensor-augmented insulin pump therapy.,0,0,0,0,0,0,0,0,0,0,0
+147,A crossover design had the benefit of each participant acting as his/her own control.,0,0,0,0,0,0,0,0,0,0,0
+148,"Weaknesses include the small sample size, the relatively short study duration, and restricted use of the closed-loop system during strenuous exercise.",0,0,0,0,0,0,0,0,0,0,0
+149,The current closed-loop prototype system requires participants to wear and carry multiple devices.,0,0,0,0,0,0,0,0,0,0,0
+150,"Further integration of devices may reduce this burden and enhance the usability of closed-loop systems, particularly during physical activity.",0,0,0,0,0,0,0,0,0,0,0
+151,A more adaptive control algorithm might further enhance daytime benefits.,0,0,0,0,0,0,0,0,0,0,0
+152,"In conclusion, we have demonstrated that day-and-night hybrid closed-loop insulin delivery can be used safely in adolescents at home without supervision.",0,0,0,0,0,0,0,0,0,0,0
+153,Its benefits include an increased time when glucose is in the target range and a reduced mean glucose level.,0,0,0,0,0,0,0,0,0,0,0
+154,Larger and longer studies are warranted.,0,0,0,0,0,0,0,0,0,0,0

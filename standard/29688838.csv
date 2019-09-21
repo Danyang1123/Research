@@ -1,0 +1,174 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Intense Pulsed Light Applied Directly on Eyelids Combined with Meibomian Gland Expression to Treat Meibomian Gland Dysfunction,0,0,0,0,0,0,0,0,N,0,0
+1,Objective: To determine the efficacy and safety of intense pulsed light (IPL) applied directly on the eyelids and meibomian gland expression (MGX) in treating meibomian gland dysfunction (MGD).,0,0,0,0,0,0,0,0,N,0,0
+2,Background: IPL application on the periocular skin effectively improves meibomian gland secretion and tear film break-up time (TBUT) in patients with MGD/dry eye.,0,0,0,0,0,0,0,0,N,0,0
+3,"Methods: This prospective, randomized, double-masked, controlled study involved 44 patients.",0,0,0,0,0,0,0,0,N,0,0
+4,One eye was randomly selected for IPL treatment; the other served as a control.,0,0,0,0,0,0,0,0,N,0,0
+5,"Study eyes received three IPL treatments at 4-week intervals; IPL was applied directly on the eyelids, and the eye was protected with a Jaeger lid plate.",0,0,0,0,1,0,0,0,N,0,0
+6,Control eyes received sham IPL treatments.,0,0,0,0,0,0,0,0,N,0,0
+7,Both eyes received MGX and artificial tears.,0,0,0,0,0,0,0,0,N,0,0
+8,"Meibomian gland yielding secretion score (MGYSS), TBUT, Standard Patient Evaluation of Eye Dryness (SPEED), cornea fluorescein staining (CFS), meibography, best corrected visual acuity (BCVA), intraocular pressure (IOP), and fundus examination were performed.",0,0,0,0,0,0,0,0,N,0,0
+9,"Results: Compared to the baseline, MGYSS, TBUT, and SPEED and CFS scores improved in the study eyes, while only SPEED and CFS scores improved in the control eyes (p < 0.001 for all).",0,0,0,0,0,0,0,0,N,0,0
+10,"Changes in MGYSS and TBUT were higher in the study eyes than in the control eyes (p < 0.05), but changes in SPEED and CFS scores were similar (p > 0.05).",0,0,0,0,0,0,0,0,N,0,0
+11,BCVA and IOP improved in both the study and control eyes (p < 0.05).,0,0,0,0,0,0,0,0,N,0,0
+12,Five patients experienced mild pain and burning during IPL treatment.,0,0,0,0,0,0,0,0,N,0,0
+13,One patient suffered partial eyelash loss.,0,0,0,0,0,0,0,0,N,0,0
+14,Conclusions: IPL combined with MGX safely and effectively treated MGD.,0,0,0,0,0,0,0,0,N,0,0
+15,"Meibomian gland dysfunction (MGD) is a chronic, diffuse abnormality of the meibomian glands characterized by terminal duct obstruction and/or qualitative/quantitative changes in glandular secretion.1 This results in the alteration of the tear film, eye irritation, clinically apparent inflammation of the eyelid margin, and ocular surface diseases.The prevalence of MGD varies widely and is much higher in Asia than elsewhere.",0,0,0,0,0,0,0,0,N,0,0
+16,"Among senior citizens, MGD prevalence ranges from 46.2% to 69.3% among Asians, while it is only 3.5–21.9% among Caucasians of a similar age.",0,0,0,0,0,0,0,0,N,0,0
+17,"Common therapies for MGD include lid hygiene, lid warm compresses or heat application, meibomian gland expression (MGX), artificial tears, topical and systemic antibiotics, and anti-inflammatory agents.9 However, these treatments provide limited relief and are generally unsatisfactory.",0,0,0,0,0,0,0,0,N,0,0
+18,"Intense pulsed light (IPL) is a widely used dermatological treatment for conditions such as facial telangiectasia, facial rosacea, pigmented lesions, and excessive hair growth.",0,0,0,0,0,0,0,0,N,0,0
+19,"In 2003, Toyos observed an improvement in the signs and symptoms of MGD in patients who received IPL treatment for facial rosacea.",0,0,0,0,0,0,0,0,N,0,0
+20,"Over the past decade, he has developed an IPL treatment protocol for MGD/dry eye.",0,0,0,0,0,0,0,0,N,0,0
+21,"In recent years, other ophthalmologists have studied the efficacy and safety of IPL treatment of MGD/dry eye.",0,0,0,0,0,0,0,0,N,0,0
+22,"Several retrospective studies have shown that IPL treatment relieves dry eye symptoms, improves meibomian gland secretion, and lengthens tear film break-up time (TBUT) in patients with MGD/dry eye.",0,0,0,0,0,0,0,0,N,0,0
+23,"conducted a prospective, randomized, double-masked clinical study of IPL treatment for MGD, and demonstrated its efficacy and safety.",0,0,0,0,0,0,0,0,N,0,0
+24,In previous studies positive treatment outcomes were obtained even though IPL was applied on the cheeks adjacent to the inferior periocular skin.,0,0,0,0,0,0,0,0,N,0,0
+25,"We hypothesized that IPL application directly on the eyelids, under proper protection, will result in even better outcomes.",0,0,0,0,0,0,0,0,N,0,0
+26,"Moreover, thus far, all published research on the IPL treatment of MGD has been conducted in the Caucasian population.",0,0,0,0,0,0,0,0,N,0,0
+27,"Skin characteristics such as color and thickness differ between Asians and Caucasians, which may affect IPL treatment outcomes among Asian MGD patients.",0,0,0,0,0,0,0,0,N,0,0
+28,"To date, the efficacy and safety of IPL treatment in Asian MGD patients have not been described.",0,0,0,0,0,0,0,0,N,0,0
+29,"In this study, we determined the efficacy and safety of IPL treatment combined with MGX in Asian patients with MGD.",0,0,0,0,0,0,0,0,N,0,0
+30,"In contrast to previous studies, IPL was applied directly on the upper and lower eyelids under the protection of a Jaeger lid plate.",0,0,0,0,0,0,0,0,N,0,0
+31,"This prospective, randomized, double-masked, controlled study was approved by the Ethics Committee of Peking University First Hospital (no.",0,0,0,0,0,0,0,0,N,0,0
+32,The clinical trial was registered in the Chinese Clinical Trial Registry (registration no.,0,0,0,0,0,0,0,0,N,0,0
+33,The study was conducted following the tenets of the Declaration of Helsinki.,0,0,0,0,0,0,0,0,N,0,0
+34,Written consent was obtained from all participants before their inclusion into the trial.,0,0,0,0,0,0,0,0,N,0,0
+35,We selected consecutive MGD patients who were treated at the Ophthalmology Department of Peking University First Hospital between March and July 2016.,1,0,0,0,0,0,0,0,N,0,0
+36,"The inclusion criteria were as follows: (1) age above 18 years, (2) obstruction of MG orifices observed under slit lamp examination, (3) meibomian gland yielding secretion score (MGYSS)19 of lower eyelid of no more than 12, (4) Standard Patient Evaluation of Eye Dryness (SPEED) questionnaire score20 of at least 6 in both eyes, and (5) Fitzpatrick skin types 1–4 according to sun sensitivity and appearance of the skin.21 The exclusion criteria included the following: (1) any intraocular inflammation, ocular surgery, or ocular trauma in the past 6 months, (2) ocular infection or allergy, (3) any eyelid structural abnormality, (4) any systematic diseases that may lead to dry eye disease, (5) tanning in the past 4 weeks, (6) skin cancer or pigmented lesion in the treatment zone, (7) pregnancy or lactation.",1,0,0,0,0,0,0,0,N,0,0
+37,"Screening for the study included the following procedures, in the order given: SPEED questionnaire, Snellen best corrected visual acuity (BCVA) measurement, intraocular pressure (IOP) measurement, silt lamp biomicroscopy, TBUT measurement, cornea fluorescein staining (CFS) assessment, meibomian gland assessment and infrared meibography, and fundus examination.",0,0,0,0,0,0,0,0,N,0,0
+38,The Schirmer test is not included in the diagnostic criteria for MGD nor was it included as an outcome measure in this study.,0,0,0,0,0,0,0,0,N,0,0
+39,Patients who satisfied the selection criteria and signed the informed consent form were enrolled in the study.,0,0,0,0,0,0,0,0,N,0,0
+40,"Before the first treatment session, one of the two eyes was randomly assigned as the study eye according to a computer-generated randomization chart.",0,1,0,0,0,0,0,0,N,0,0
+41,"We chose the first number in the chart as a starting point, and then counted along the row.",0,0,0,0,0,0,0,0,N,0,0
+42,"Odd numbers meant that the right eye was the study eye, while even numbers meant that the left was the study eye.",0,0,0,1,0,0,0,0,N,0,0
+43,The fellow eye was assigned as the control eye.,0,0,0,0,0,0,0,0,N,0,0
+44,"Each patient underwent three treatment sessions (T1, T2, and T3) performed at 4-week (± 1 day) intervals.",0,0,0,0,0,0,0,0,N,0,0
+45,"To minimize bias, clinicians who performed the screening or follow-up assessments were not involved in the treatment procedures.",0,0,1,0,0,1,1,0,N,0,0
+46,A camera flash light was used to imitate IPL flashes during both IPL/sham IPL applications.,0,0,0,0,1,0,0,0,N,0,0
+47,"Thus, the patients were masked to which eye was treated.",0,0,0,0,0,0,0,0,N,0,0
+48,Table 1 summarizes the schedule of examinations and treatments performed for each patient.,0,0,0,0,0,0,0,0,N,0,0
+49,"BCVA, best corrected visual acuity; CFS, cornea fluorescein staining; IOP, intraocular pressure; SPEED, standard patient evaluation of eye dryness; TBUT, tear film break-up time; ×, the examination was performed.",0,0,0,0,0,0,0,0,N,0,0
+50,"We used the M22 IPL system with optimal pulse technology (Lumenis Ltd., Yokneam, Israel), which has a xenon lamp that emits IPL at 515–1200 nm and a 560-nm filter.",0,0,0,0,0,0,0,0,N,0,0
+51,"The optimal pulse technology makes IPL pulses more stable and highly repeatable, so treatment with M22 is more effective and safer than treatments with traditional IPL systems.",0,0,0,0,0,0,0,0,N,0,0
+52,"After removing dirt and extra oil from the face and eyelids with a cosmetic face wash, the upper and lower eyelids were numbed with a topical anesthetic (compound lidocaine cream; Ziguang Pharmaceutical Co. Ltd., Beijing, China).",0,0,0,0,0,0,0,0,N,0,0
+53,"After 30 min, the cream was washed off, and the skin was dried.",0,0,0,0,0,0,0,0,N,0,0
+54,"A drop of 0.4% oxybuprocaine hydrochloride (Benoxil, Santen Pharmaceutical Co. Ltd., Osaka, Japan) was then administered onto the conjunctival sac.",0,0,0,0,0,0,0,0,N,0,0
+55,This last step was repeated after 5 min.,0,0,0,0,0,0,0,0,N,0,0
+56,"Immediately before IPL application, a layer of ultrasound gel was applied on the area to be treated.",0,0,0,0,0,0,0,0,N,0,0
+57,"The cornea and sclera were fully occluded by placing a Jaeger lid plate (with 18 mm and 22 mm curved wide blades, Suzhou Mingren Medical Equipment Co. Ltd., Suzhou, China) on the conjunctival sac, next to the palpebral conjunctiva on the opposite side of treatment zones (Fig.",0,0,0,0,0,0,0,0,N,0,0
+58,The blade moved with IPL pluses during treatment to ensure that cornea and sclera were not exposed directly to IPL fluence.,0,0,0,0,0,0,0,0,N,0,0
+59,"For IPL treatment of the study eye, the fluence was set to 14–16 J/cm2 (depending on the Fitzpatrick skin type, Table 2).",0,0,0,0,0,0,0,0,N,0,0
+60,A dermatologist then applied a series of 12 overlapping IPL pulses around the periocular areas on the upper and lower eyelids (Fig.,0,0,0,0,0,0,0,0,N,0,0
+61,The distance between the IPL pulses and the eyelid margin was 2–3 mm.,0,0,0,0,0,0,0,0,N,0,0
+62,"The fluence was then set to 0 J/cm2, and the same protection method and IPL treatment procedure were repeated for the control eye.",0,0,0,0,1,0,0,0,N,0,0
+63,Protection of the cornea and sclera with the Jaeger lid plate placed in the conjunctival sac during IPL treatment.,0,0,0,0,0,0,0,0,N,0,0
+64,The Jaeger lid plate is 10 cm long with 18-mm and 22-mm curved wide blades.,0,0,0,0,0,0,0,0,N,0,0
+65,IPL treatment zone including six overlapping periocular areas (8 × 15 mm each) on each eyelid.,0,0,0,0,0,0,0,0,N,0,0
+66,Fitzpatrick Skin Types and Fluence Level,0,0,0,0,0,0,0,0,N,0,0
+67,"After removal of the ultrasound gel, an ophthalmologist performed MGX with the forceps-shaped Arita meibomian gland compressor (Katena Products, Inc., Denville, NJ).",0,0,0,0,0,0,0,0,N,0,0
+68,The ophthalmologist applied force on opposite sides of the compressor to empty meibum from the upper and lower eyelids of both eyes.,0,0,0,0,0,0,0,0,N,0,0
+69,"For the entire duration of the study, patients were instructed to use artificial tears (Systane Lubricant Eye Drops; Alcon, Fort Worth, TX) three times a day, in both eyes.",0,0,0,0,0,0,0,0,N,0,0
+70,The primary outcome measure was the MGYSS.,0,0,0,0,0,0,0,0,N,0,0
+71,"This score reflects meibomian gland function and was measured using a meibomian gland evaluator (MGE; Tear Science, Inc., Morrisville, NC) according to the Lane protocol.Fifteen glands each on the upper and lower eyelids were evaluated.",0,0,0,0,0,0,0,0,N,0,0
+72,"For each gland, the secretion was graded as follows: 0, no secretion; 1, inspissated/toothpaste consistency; 2, cloudy liquid secretion; and 3, clear liquid secretion.",0,0,0,0,0,0,0,0,N,0,0
+73,"The MGYSS was the sum of the grades for all 15 glands, and ranged from 0 to 45.",0,0,0,0,0,0,0,0,N,0,0
+74,"The score for the upper eyelid was termed the u-MGYSS, and that for the lower eyelid was termed l-MGYSS.",0,0,0,0,0,0,0,0,N,0,0
+75,"The secondary outcome measures included SPEED score, TBUT, CFS score, and meibography findings.",0,0,0,0,0,0,0,0,N,0,0
+76,The SPEED questionnaire was used to evaluate the severity and frequency of dry eye symptoms.,0,0,0,0,0,0,0,0,N,0,0
+77,"TBUT was measured using moist fluorescein sodium strips (Jingming New Technological Development Co. Ltd., Tianjin, China).",0,0,0,0,0,0,0,0,N,0,0
+78,"After the fluorescein was instilled into the conjunctival sac, the patient was asked to blink several times.",0,0,0,0,0,0,0,0,N,0,0
+79,"Then, the tear film was observed using biomicroscopy under a cobalt blue filter.",0,0,0,0,0,0,0,0,N,0,0
+80,The average TBUT of three repeated measurements was recorded for each eye.,0,0,0,0,0,0,0,0,N,0,0
+81,"Following the TBUT measurements, CFS assessment was performed.",0,0,0,0,0,0,0,0,N,0,0
+82,The cornea was divided into four quadrants.,0,0,0,0,0,0,0,0,N,0,0
+83,"Each quadrant was graded on a scale of 0–3 as follows: 0, no punctate staining; 1, 1–30 punctate lesions; 2, >30 punctate lesions but no confluent lesions; and 3, confluent lesions or ulcer.",0,0,0,0,0,0,0,0,N,0,0
+84,The total CFS score of all four quadrants ranged from 0 to 12.,0,0,0,0,0,0,0,0,N,0,0
+85,Meibography was performed using the method described by Arita et al.,0,0,0,0,0,0,0,0,N,0,0
+86,"Each eyelid was turned over and observed under a slit lamp equipped with an infrared filter (Topcon Corp., Tokyo, Japan).",0,0,0,0,0,0,0,0,N,0,0
+87,"In each eyelid, the extent of meibomian gland loss was scored as follows (meiboscore): 0, no loss; 1, less than one-third; 2, between one- and two-thirds; and 3, more than two-thirds.",0,0,0,0,0,0,0,0,N,0,0
+88,"The Snellen BCVA, IOP, slit lamp biomicroscopy, and fundus examinations were performed to evaluate treatment safety.",0,0,0,0,0,0,0,0,N,0,0
+89,Adverse events were either reported by the patients or observed by clinicians according to the schedule of examinations (Table 1).,0,0,0,0,0,0,0,0,N,0,0
+90,"The type, severity, and relationships of any adverse events to the device or procedure were recorded.",0,0,0,0,0,0,0,0,N,0,0
+91,"All statistical analyses were performed using SPSS 20.0 (IBM Corporation, Armonk, NY).",0,0,0,0,0,0,0,0,N,0,0
+92,Descriptive statistics are presented as means ± standard deviations.,0,0,0,0,0,0,0,0,N,0,0
+93,"Outcome measures before and after treatment were analyzed using the Friedman two-way analysis of variance, with the pairwise Wilcoxon test for post hoc testing.",0,0,0,0,0,0,0,0,N,0,0
+94,Differences between the treated and control eyes were analyzed with the pairwise Wilcoxon test.,0,0,0,0,0,0,0,0,N,0,0
+95,Snellen visual acuities were converted to logMAR equivalents.,0,0,0,0,0,0,0,0,N,0,0
+96,The LogMAR BCVA and IOP were analyzed with two-tailed paired t-tests.,0,0,0,0,0,0,0,0,N,0,0
+97,Statistical significance was set at the α = 0.05 level.,0,0,0,0,0,0,0,0,N,0,0
+98,"A total of 46 patients were enrolled in the study, of whom 44 patients, including 12 men (27%) and 32 women (73%), completed the study.",0,0,0,0,0,0,0,1,N,0,0
+99,"Two patients quit the study due to reasons not related to the study, and were not included in the analysis.",0,0,1,0,0,1,1,1,N,0,0
+100,"The average patient age was 46.3 ± 16.9 years (range, 23–86 years).",0,0,0,0,0,0,0,0,N,0,0
+101,The results for the primary outcome measure MGYSS are presented in Fig.,0,0,0,0,0,0,0,0,N,0,0
+102,"The MYGSS of both the lower and upper eyelids gradually increased in the study eyes (p < 0.001 for both eyelids, Friedman two-way analysis of variance; Fig.",0,0,0,0,0,0,0,0,N,1,0
+103,"3) but did not change in the control eyes (p = 0.231 and p = 0.088 for the lower and upper eyelids, respectively).",0,0,0,0,0,0,0,0,N,0,0
+104,"On day 28 after each treatment session, the changes in MGYSSs of the lower and upper eyelids were significantly higher in the study eyes than in the control eyes, (p < 0.05 for all, except lower eyelids at T1, Table 3, pairwise Wilcoxon test, rate of MGYSS changes showed in parentheses).",0,0,0,0,0,0,0,0,N,1,0
+105,"Longitudinal analysis of MGYSS, TBUT, SPEED scores, and CFS scores in the study and control eyes.",0,0,0,0,0,0,0,0,N,0,0
+106,"(Friedman two-way analysis of variance, pairwise Wilcoxon for post hoc testing, *p < 0.05, **p < 0.01, ***p < 0.001 compared to the baseline).",0,0,0,0,0,0,0,0,N,0,0
+107,"CFS, cornea fluorescein staining; MGYSS, meibomian gland yielding secretion score; SPEED, standard patient evaluation of eye dryness; TBUT, tear film break-up time.",1,0,0,0,0,0,0,0,N,0,0
+108,Changes of Treatment Measures in Study and Control Eye at Each Visit,0,0,0,0,0,0,0,0,N,0,0
+109,"The TBUT, SPEED scores, and CFS scores are presented in Fig.",0,0,0,0,0,0,0,0,N,0,0
+110,"The TBUT gradually increased over the course of treatment in the study eyes (p < 0.001, Friedman two-way analysis of variance; Fig.",0,0,0,0,0,0,0,0,N,0,0
+111,3) but did not significantly change in the control eyes (p = 0.272).,0,0,0,0,0,0,0,0,N,0,0
+112,"On day 28 after each treatment session, the change in TBUT was significantly higher in the study eyes than in the control eyes (p < 0.01, pairwise Wilcoxon test; Table 3, rate of TBUT changes shown in parentheses).",0,0,0,0,0,0,0,0,N,0,0
+113,"SPEED and CFS scores significantly decreased with treatment in both the study and control eyes (p < 0.001, Friedman two-way analysis of variance; Fig.",0,0,0,0,0,0,0,0,N,0,0
+114,"3), and neither score significantly differed between the study and control eyes (pairwise Wilcoxon test; Table 3, rate of SPEED and CFS changes shown in parentheses).",0,0,0,0,0,0,0,0,N,1,0
+115,"The meiboscores in the study eyes (1.43 ± 0.59, upper eyelid; 1.48 ± 0.76, lower eyelid) and the control eyes (1.43 ± 0.66, upper eyelid; 1.55 ± 0.76, lower eyelid) remained unchanged at the end of the study compared to the baseline.",0,0,0,0,0,0,0,0,N,0,0
+116,"According to Holladay's method, Snellen visual acuities were converted to logMAR equivalents.",0,0,0,0,0,0,0,0,N,0,0
+117,"At the baseline, the logMAR equivalent BCVA in the study and control eyes was 0.12 ± 0.26 and 0.11 ± 0.15, respectively.",0,0,0,0,0,0,0,0,N,0,1
+118,"By the end of the study (day 28 after the third treatment session), the logMAR equivalent BCVA in both the study eyes (0.07 ± 0.27) and the control eyes (0.07 ± 0.15) significantly improved (p = 0.003 and p = 0.01, respectively; paired t-test).",0,0,0,0,0,0,0,0,N,0,0
+119,"At the baseline, the IOP was 14.95 ± 2.75 mm Hg in the study eyes and 15.27 ± 2.82 mm Hg in the control eyes.",0,0,0,1,0,0,0,0,N,0,0
+120,"On day 28 after the third treatment session, the IOP significantly decreased in both the study eyes (13.86 ± 2.60 mm Hg, p = 0.001; paired t-test) and the control eyes (14.36 ± 2.60 mm Hg, p = 0.007, paired t-test).",0,0,0,0,0,0,0,0,N,0,1
+121,"Of the 44 study patients, 5 complained of mild pain and burning during the IPL treatment, and mild redness of the eyelids was observed in their study eyes immediately after the IPL treatment.",0,0,0,0,0,0,0,0,N,0,0
+122,"However, none of these patients dropped out of the study because of the discomfort.",0,0,0,0,0,0,0,0,N,0,0
+123,"After the application of cold compresses for 5 min, the discomfort was relieved in all five patients.",0,0,0,0,0,0,0,0,N,0,0
+124,No irreversible eyelid skin injury occurred.,0,0,0,0,0,0,0,0,N,0,0
+125,"Due to the clinician's IPL performance, one patient suffered a partial loss of eyelashes after the IPL treatment and did not fully recover until 3 months after the end of the study (Fig.",0,0,0,0,0,0,0,0,N,0,0
+126,"No intraocular inflammation, iris transillumination defects, or ocular surface or fundus injuries were observed.",0,0,0,0,0,0,0,0,N,0,0
+127,Partial loss of eyelashes due to IPL treatment 3 months after the end of the study.,0,0,0,0,0,0,0,0,N,0,0
+128,"This article is the first prospective, randomized, double-masked, controlled study of IPL treatment applied directly on the eyelids for MGD.",0,0,0,0,0,0,0,0,N,0,0
+129,"Our results showed that combined IPL treatment and MGX was significantly better than MGX alone in terms of the improvement in meibomian gland secretion function, TBUT, dry eye symptoms, and ocular surface condition.",0,0,0,0,0,0,0,0,N,0,0
+130,used IPL treatment on the facial skin next to the lower eyelids in MGD patients.,0,0,0,0,0,0,0,0,N,0,0
+131,"By the third treatment (day 45), the lipid layer grade and noninvasive TBUT had significantly improved in the IPL-treated eyes compared to the baseline and control eyes.",0,0,0,0,0,0,0,0,N,0,1
+132,"In our study, the treated eyes showed an improvement in MGYSS and TBUT on the 28th day after the first treatment session, compared to the baseline and control eyes.",0,0,0,0,0,0,0,0,N,0,0
+133,"Moreover, these parameters continued to improve over the course of the treatment until the end of the study.",0,0,0,0,0,0,0,0,N,0,0
+134,"In the study eyes, we noticed that even though glands loss was similar in the upper and lower eyelids (1.43 ± 0.59 vs. 1.48 ± 0.76), the improvement in gland secretion function was significantly greater in the lower eyelids than in the upper eyelids (356.5% vs. 88.2% at the end of the study).",0,0,0,0,0,0,0,0,N,0,0
+135,"proposed the tear gradient theory, according to which tear evaporation leads to a rise in solute concentration, especially the concentration of proinflammatory proteins in the tear meniscus.",0,0,0,0,0,0,0,0,N,0,0
+136,"The resultant protein accumulation damages the meibomian gland orifices, leading to decreased secretion and MGD.",0,0,0,0,0,0,0,0,N,0,0
+137,We have previously showed decreased inflammatory factors in the tear film after IPL treatment in MGD patients.,0,0,0,0,0,0,0,0,N,0,0
+138,"Due to gravity and eyelid movement, the tear meniscus in the upper eyelid is smaller than that in the lower eyelids, and consequently, contains fewer inflammatory factors.",0,0,0,0,0,0,0,0,N,0,0
+139,"Thus, we hypothesized that IPL treatment may be more effective for the lower eyelids by reducing the accumulation of inflammatory molecules.",0,0,0,0,0,0,0,0,N,0,0
+140,"SPEED and CFS scores improved in both the treated and control eyes, without any significant differences between the treated and control eyes.",0,0,0,0,0,0,0,0,N,0,0
+141,This may be attributable to MGX and artificial tears treatment in both eyes.,0,0,0,0,0,0,0,0,N,0,0
+142,Similar results have been reported by Craig et al.,0,0,0,0,0,0,0,0,N,0,0
+143,"This may imply a complicated relationship between symptoms and signs, which needs to be further researched.",0,0,0,0,0,0,0,0,N,0,0
+144,Research on the effect of IPL treatment on the meibomian glands is still limited.,0,0,0,0,0,0,0,0,N,0,0
+145,"Possible mechanisms of action underlying the effects of IPL treatment in MGD include the thermal effect of IPL facilitating meibomian gland secretion by softening meibum, ablation of telangiectasia decreasing inflammatory factors released around the glands, and reduction of bacteria and other microorganisms on the eyelids.The meibomian gland is a sebaceous gland.",0,0,0,0,0,0,0,0,N,0,0
+146,Several studies on IPL treatment of acne vulgaris have reported that IPL reduces inflammatory infiltrates around the glands and the surface area of sebaceous glands.,0,0,0,0,0,0,0,0,N,0,0
+147,Liu et al.found that inflammatory factors were reduced in the tears of MGD patients after IPL treatment.,0,0,0,0,0,0,0,0,N,0,0
+148,The above results indicate that the anti-inflammatory effect of IPL treatment on sebaceous or meibomian glands may be one of the possible mechanisms of action of this treatment.,0,0,0,0,0,0,0,0,N,0,0
+149,"In 2003, Toyos observed that IPL treatment could relieve dry eye symptoms in MGD/dry eye patients with facial rosacea.",0,0,0,0,0,0,0,0,N,0,0
+150,"Since then, several studies have shown that IPL treatment is effective and safe for MGD/dry eye, especially in refractory cases.In previous studies, due to safety concerns, the IPL treatment zone was located on the facial skin adjacent to the lower eyelid and not directly on the eyelids.",0,0,0,0,0,0,0,0,N,0,0
+151,"To ensure treatment safety, we used the Jaeger lid plate as a shield during IPL therapy.",0,0,0,0,0,0,0,0,N,0,0
+152,"No severe adverse events due to the use of the Jaeger lid plate, such as corneal or conjunctival injury, anterior chamber inflammation, or fundus injury, were observed during the study.",0,0,0,0,0,0,0,0,N,0,0
+153,Only five patients complained of burning and pain during IPL treatment and showed mild skin redness in the treatment zone.,0,0,1,0,0,1,1,0,N,0,0
+154,This may have been related to the high treatment energy we used in the study.,0,0,0,0,0,0,0,0,N,0,0
+155,"At the end of the study, BCVA was significantly improved in both the study and control eyes, as compared to the baseline.",0,0,0,1,0,0,0,1,N,0,0
+156,We believe that this result is attributable to the more stable tear film and the repair of the corneal epithelium.,0,0,0,0,0,0,0,0,N,0,0
+157,"Unstable tear film and epithelial defects introduce irregularities in the corneal surface, which impair vision.",0,0,0,0,0,0,0,0,N,0,0
+158,"Thus, it is possible for IPL treatment to increase visual acuity, since corneal scattering was improved as a result of improvements in epithelial defects and tear film stability.",0,0,0,0,0,0,0,0,N,0,0
+159,The IOP in both the study and control eyes was significantly decreased by approximately 1 mmHg.,0,0,0,0,0,0,0,0,N,0,0
+160,reported that dry eye patients blink twice as much as normal controls.,0,0,0,0,0,0,0,0,N,0,0
+161,"In our study, intraocular pressure was measured using an air-puff tonometer.",0,0,0,0,0,0,0,0,N,0,0
+162,The results of air-puff tonometers can be affected by eyelid blinking.,0,0,0,0,0,0,0,0,N,0,0
+163,"After the dry eye syndrome was corrected, patients may have blinked less when they were told to stare at the tonometer probe.",0,0,0,0,0,0,0,0,N,0,0
+164,This better compliance may have led to decreased bias caused by half-opened eyelids.,0,0,0,0,0,0,0,0,N,0,0
+165,"In future studies, we recommend that the Goldmann applanation tonometer be used to avoid this bias.",0,0,0,0,0,0,0,0,N,0,0
+166,There are certain limitations to our study.,0,0,0,0,0,0,0,0,N,0,0
+167,"The majority of our patients were women, which may affect the representativeness of our findings.",0,0,0,0,0,0,0,0,N,0,0
+168,"We chose a relatively fixed treatment energy (14–16 J/cm2), which might have influenced the treatment outcomes.",0,0,0,0,0,0,0,0,N,0,0
+169,"In subsequent studies, researchers should enlarge the sample size, lengthen the observation period, adjust the IPL parameters/protocol to maximize treatment benefit, and explore the mechanisms underlying the effects of IPL treatment for MGD.",0,0,0,0,0,0,0,0,N,0,0
+170,"OCT images of the iris, angle, and ciliary body should be studied to confirm the safety of IPL on these structures.",0,0,0,0,0,0,0,0,N,0,0
+171,"In summary, three sessions of IPL treatments applied directly on the eyelids combined with MGX are effective and safe for MGD treatment by improving meibomian gland secretion function and increasing TBUT.",0,0,0,0,0,0,0,0,N,0,0
+172,Our results may provide a solid foundation for future studies on IPL treatment for MGD/dry eye in the Asian population.,0,0,0,0,0,0,0,0,N,0,0

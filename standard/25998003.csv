@@ -1,0 +1,126 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"To compare retention rates of Super Flex (Eagle Vision, Memphis, Tennessee, USA; Softplug-Oasis Medical Inc, Glendora, California, USA) vs Parasol (Odyssey Medical, Memphis, Tennessee, USA; Beaver Visitec International, Waltham, Massachusetts, USA) punctal plugs.",0,0,N,0,0,0,N,0,0,0,N
+1,"Randomized, double-masked, interventional controlled clinical trial.",0,0,N,0,0,0,N,0,0,0,N
+2,"Institutional study at Hotel Dieu Hospital (Queen's University) of 50 eyes, from patients with moderate to severe dry eye.",0,0,N,0,0,0,N,0,0,0,N
+3,Each eye from eligible patients was separately randomized to receive Super Flex or Parasol punctal plugs.,0,0,N,0,0,0,N,1,1,0,N
+4,The main outcome measure was plug retention at 6 months.,0,0,N,0,0,0,N,0,0,0,N
+5,"Secondary outcome measures included objective tests of Schirmer I (mm), tear meniscus height (mm), tear break-up time (s), inferior fluorescein corneal staining (National Eye Institute [NEI] scale), and average lissamine green conjunctival staining (NEI scale).",0,0,N,0,0,0,N,0,0,0,N
+6,Punctal plug retention was significantly different at 6 months (P = .011).,0,0,N,0,0,0,N,0,0,0,N
+7,Sixty-eight percent of Parasol plugs were retained compared to 32% of Super Flex plugs.,0,0,N,0,0,0,N,0,0,1,N
+8,Parasol plugs required less frequent artificial tear use at 6 months (P = .024).,0,0,N,0,0,0,N,0,0,0,N
+9,"There was a statistically significant improvement in all secondary outcome measures (Schirmer, tear meniscus height, tear break-up time, fluorescein corneal staining) at 6 months within plug groups except conjunctival staining.",0,0,N,0,0,0,N,0,0,0,N
+10,There were no additional significant differences between groups and no plug complications reported.,0,0,N,0,0,0,N,0,0,0,N
+11,"Punctal plugs improve symptoms of moderate to severe dry eye; however, retention rates differ significantly.",0,0,N,0,0,0,N,0,0,0,N
+12,These data will allow us to guide patient decision making for the safe and effective treatment of punctal plugs for moderate to severe dry eye.,0,0,N,0,0,0,N,0,0,0,N
+13,The symptoms of ocular surface dryness are some of the most common patient concerns in ophthalmology practices.,0,0,N,0,0,0,N,0,0,0,N
+14,"Not only are symptoms painful and irritating, but dry eye can also affect visual acuity and quality-of-life measures.",0,0,N,0,0,0,N,0,0,0,N
+15,Punctal plug insertion is a safe and easy office procedure for the treatment of moderate to severe dry eye.,0,0,N,0,0,0,N,0,0,0,N
+16,Punctal plugs help to maintain aqueous and artificial tears on the ocular surface to reduce both the subjective and objective symptoms of dry eye.,0,0,N,0,0,0,N,0,0,0,N
+17,Patients often require the insertion of 2–4 plugs and may pay out of pocket for this procedure.,0,0,N,0,0,0,N,1,0,0,N
+18,"Despite their success in reducing the symptoms of dry eye, spontaneous plug loss is a frequent complication.",0,0,N,0,0,0,N,0,0,0,N
+19,Reportedly this occurs between 20% and 70% of the time and many different designs and materials have been tried to increase retention rate.,0,0,N,0,0,0,N,0,0,0,N
+20,"In an effort to minimize plug loss a new plug design, Parasol punctal occluder (Parasol; Odyssey Medical, Memphis, Tennessee, USA; Beaver Visitec International, Waltham, Massachusetts, USA), was designed.",0,0,N,0,0,0,N,0,0,0,N
+21,"This design contains a hollow nose, which collapses on insertion and expands within the puncta, thereby limiting the rate of spontaneous loss, promoting a 92% retention rate.",0,0,N,0,0,0,N,0,0,0,N
+22,No independent studies to date have confirmed this claim.,0,0,N,0,0,0,N,0,0,0,N
+23,"Thus, the purpose of the study is to compare the retention rate of the commonly used Super Flex (Eagle Vision, Memphis, Tennessee, USA; Softplug-Oasis Medical Inc, Glendora, California, USA) vs the Parasol punctal plug.",0,0,N,0,0,0,N,0,0,0,N
+24,"This randomized, double-masked prospective interventional control trial, comparing Parasol punctal plugs and Super Flex punctal plugs, was conducted at Hotel Dieu Hospital, Queen's University in Kingston, Ontario, Canada and adhered to the tenets of the Declaration of Helsinki.",0,0,N,0,0,0,N,0,0,0,N
+25,The Queen's University and Affiliated Teaching Hospitals Health Sciences Research Ethics Board approved the study prior to enrolling study participants.,0,0,N,0,0,0,N,0,0,0,N
+26,"The study is listed on ClinicalTrials.gov, under the identifier NCT01947517.",0,0,N,0,0,0,N,0,0,0,N
+27,Study Population and Inclusion/Exclusion Criteria,0,0,N,0,0,0,N,0,0,0,N
+28,Patients were recruited from 1 cornea specialist (S.B.),0,0,N,0,0,0,N,0,0,0,N
+29,"and 2 general ophthalmology practices (K.S., M.B.).",0,0,N,0,0,0,N,0,0,0,N
+30,"Inclusion criteria included moderate to severe subjective dry eye symptoms as per the Canadian Dry Eye Assessment (CDEA), a validated dry eye symptoms questionnaire based on the Ocular Surface Disease Index (OSDI).The CDEA is a questionnaire that assesses the patient's dry eye symptoms, environmental influences, and quality-of-life measures.",0,0,N,0,0,0,N,0,0,0,N
+31,Each response is awarded a score and the final score is determined from the summation of all of the sections.,1,0,N,0,0,0,N,0,0,0,N
+32,"The final score is classified along a scale of mild, moderate, or severe dry eye.",1,0,N,0,0,0,N,0,0,0,N
+33,Treatment recommendations are then made based on the severity.,0,0,N,0,0,0,N,0,0,0,N
+34,"Exclusion criteria included dry eye secondary to systemic inflammatory conditions, punctal cautery, punctal stenosis, silicone allergy, and inability to attend multiple follow-up visits for 6 months.",1,0,N,0,0,0,N,0,0,0,N
+35,Randomization was achieved using a mathematical computer-generated allocation schema based on permuted blocks with blocks of random sizes.,0,1,N,0,0,0,N,0,0,0,N
+36,Randomization assignment was not released until eligibility was confirmed and signed consent obtained.,0,1,N,0,0,0,N,0,0,0,N
+37,Each eye was assigned randomly with equal probability to receive either Super Flex or Parasol brand punctal plugs.,0,0,N,0,0,0,N,0,1,0,N
+38,A comparative photograph of the Parasol and Super Flex punctal plug designs is shown in Figure 1.,0,0,N,0,0,0,N,0,0,0,N
+39,Comparative photograph of equivalent sizes demonstrates the design of the plugs for the treatment of moderate to severe dry eye.,0,0,N,0,0,0,N,0,0,0,N
+40,"The Parasol is the left plug (size medium), and the Superflex is the right plug (size 0.7).",0,0,N,0,0,0,N,0,0,1,N
+41,"Participants and all study staff, except an unmasked investigator (A.B.)",0,0,N,0,1,1,N,1,0,0,N
+42,"who inserted punctal plugs, were masked to treatment arms.",0,0,N,0,1,1,N,0,0,0,N
+43,"A punctal gauge was used to correctly measure punctal size, and an appropriately sized punctal plug was selected based on manufacturer's instrument.5, 12 One unmasked investigator (A.B.)",0,0,N,0,0,0,N,0,0,0,N
+44,inserted all plugs to limit any differences in plug insertion technique and all plugs were inserted in the lower puncta.,0,0,N,0,0,0,N,0,0,0,N
+45,Plug retention and all other secondary outcomes were evaluated by 1 examiner masked to the treatment arms (Z.M.).,0,0,N,0,1,1,N,0,0,0,N
+46,Disclosures were tracked and none were recorded.,0,0,N,0,0,0,N,0,0,0,N
+47,Punctal plug retention was assessed at monthly intervals for a total of 6 months.,0,0,N,0,0,0,N,0,0,0,N
+48,Retention was characterized by last examined date with the punctal plug in place.,0,0,N,0,0,0,N,0,0,0,N
+49,"For example, if a patient returned for his or her 4-month visit, and the plug was gone, the plug was recorded as 3 months of retention.",0,0,N,0,0,0,N,0,0,0,N
+50,"Secondary outcome measures including objective tests of Schirmer I (mm), tear meniscus height as measured at the slit lamp (mm), tear break-up time (TBUT, in seconds), inferior fluorescein corneal staining (National Eye Institute [NEI] scale), and average lissamine green conjunctival staining (NEI scale) were evaluated for each eye.",0,0,N,0,0,0,N,0,0,0,N
+51,"The NEI scale of corneal staining was completed for the inferior cornea, as this is the site most often involved in dry eye disease.",0,0,N,0,0,0,N,0,0,0,N
+52,The frequency of artificial tear use per day was also assessed subjectively by asking all participants at study visits how often they used artificial tears per day in the previous month.,0,0,N,0,0,0,N,0,0,0,N
+53,Sample Determination and Power,0,0,N,0,0,0,N,0,0,0,N
+54,Previously published data have suggested retention rates of 30.1%–70.4%.,0,0,N,0,0,0,N,0,0,0,N
+55,"Using these proportions, an alpha of 0.05, and a 2-tailed test, the study would have power of 80.7% to yield a statistically significant result with a sample size of 25 per group.",0,0,N,0,0,0,N,0,0,0,N
+56,Statistical analysis for the primary outcome (plug retention at 6 months) was compared using the c2 test.,0,0,N,1,0,0,N,0,0,0,N
+57,"Secondary outcome measures included improvement in the CDEA, frequency of artificial tear use, Schirmer I, tear meniscus height, tear break-up time, inferior fluorescein corneal staining, and lissamine green conjunctival staining at months 1, 3, and 6.",0,0,N,0,0,0,N,0,0,0,N
+58,A comparison of age and punctal plug retention was also performed.,0,0,N,0,0,0,N,0,0,0,N
+59,A repeated measures analysis of variance (ANOVA) was performed for analyses of secondary measures.,0,0,N,0,0,0,N,0,0,0,N
+60,"In total, 52 eyes of 26 patients were randomized to Parasol (n = 26) or Super Flex (n = 26).",0,0,N,0,0,0,N,0,1,0,N
+61,The Consolidated Standards of Reporting Trials (CONSORT) flow diagram illustrating participant allocation is available as a Supplemental Figure (Supplemental Material available at AJO.com).,0,0,N,0,0,0,N,0,0,0,N
+62,One patient withdrew from the study directly after randomization and was not included for final analysis.,0,0,N,0,0,0,N,1,0,0,N
+63,Baseline demographics and clinical characteristics were similar between the 2 groups (Table 1).,0,0,N,1,0,0,N,0,0,0,N
+64,"There were no plug-related complications reported, including no plug migration into the canalicular system.",0,0,N,1,0,0,N,0,0,0,N
+65,Baseline Characteristics of Patients by Treatment Assignment in the Comparison of Punctal Plug Retention Rate for the Treatment of Moderate to Severe Dry Eye,0,0,N,1,0,0,N,0,0,0,N
+66,"At 6 months, more Parasol plugs were retained (68%; 17/25) compared with Super Flex plugs (32%; 8/25; P = .011; Figure 2).",0,0,N,0,0,0,N,0,0,1,N
+67,"Mean retention time was 4.68 and 3.36 months for the Parasol and Super Flex plugs, respectively (P = .035).",0,0,N,0,0,0,N,0,1,1,N
+68,"There was a trend to early loss in the Super Flex brand, with 48% (n = 12) of spontaneous losses occurring by 2 months compared to 16% (n = 4) of the Parasol plugs.",0,0,N,0,0,0,N,0,0,0,N
+69,The difference in early loss was significantly different between groups (P = .032).,0,0,N,0,0,0,N,0,0,0,N
+70,Download high-res image (144KB)Download full-size image,0,0,N,0,0,0,N,0,0,0,N
+71,Kaplan-Meier curve shows the plug retention comparing the Parasol and the Super Flex punctal plugs.,0,0,N,0,0,0,N,0,1,0,N
+72,The y-axis demonstrates the proportion retained (0–1.0) while the x-axis demonstrates the plug retention at monthly intervals (0–6 months).,0,0,N,0,0,0,N,0,0,0,N
+73,"The Parasol brand had a higher proportion of plugs retained at 6 months, and the Super Flex brand had a high failure rate at 2 months.",0,0,N,0,0,0,N,0,0,0,N
+74,"Secondary measures were evaluated at baseline and at months 1, 3, and 6, and are displayed in Table 2.",0,0,N,0,0,0,N,0,0,0,N
+75,Secondary measures were analyzed up to last documented date of retention.,0,0,N,0,0,0,N,0,0,0,N
+76,"The CDEA score showed a statistically significant improvement over time for both brands (P < .001), with no significant effect in comparison between plug brands (P = .141).",0,0,N,0,0,0,N,0,0,0,N
+77,The frequency of artificial tear use (number of drops per day) also decreased over time for both brands (P < .001).,0,1,N,0,0,0,N,0,0,0,N
+78,This decrease was greater for the Parasol brand (P = .024).,0,0,N,0,0,0,N,0,0,0,N
+79,"The Schirmer I test measurement (mm) improved significantly over time (P < .001), with no significant difference between the brands (P = .797).",0,0,N,0,0,0,N,0,0,0,N
+80,"Tear meniscus height (mm) also improved significantly over time (P < .001), with no significant difference between the brands (P = .099).",0,0,N,0,0,0,N,0,0,0,N
+81,"Inferior corneal staining with fluorescein improved significantly over time (P < .001), with no difference between plug brands (P = .768).",0,0,N,0,0,0,N,0,0,0,N
+82,There was no statistically significant difference in conjunctival staining with lissamine green over time (P = .185) or in comparison between the plug brands (P = .249).,0,0,N,0,0,0,N,0,0,0,N
+83,"Lastly, tear break-up time (s) improved significantly over time for both brands (P = .018), with no significant effect in comparison of the plug brands (P = .475).",0,0,N,0,0,0,N,0,0,0,N
+84,We found no association between age and retention rate of punctal plugs (P = .920) or between age and plug brand retention (P = .497).,0,0,N,0,0,0,N,0,0,0,N
+85,"Secondary Outcome Analysis, Comparison of Plug Brand for the Treatment of Moderate to Severe Dry Eye",0,0,N,0,0,0,N,0,0,0,N
+86,This is the first randomized controlled trial to compare the retention rates of Parasol punctal plugs vs Super Flex punctal plugs.,0,0,N,0,0,0,N,0,0,0,N
+87,"In this study, we found that a greater percentage of Parasol punctal plugs were retained at 6 months when compared to Super Flex punctal plugs.",0,0,N,0,0,0,N,0,0,1,N
+88,"Moreover, we also found that artificial tear use decreased significantly when Parasol punctal plugs were inserted.",0,0,N,0,0,0,N,0,0,0,N
+89,"Objective and patient-reported symptoms of moderate to severe dry eyes improved significantly over the course of the 6-month study, which was not influenced by punctal plug brand.",1,0,N,0,0,0,N,1,0,0,N
+90,Most spontaneous plug loss in the Super Flex group occurred early (<2 months) after insertion.,0,0,N,0,0,0,N,0,0,0,N
+91,This trend to early failure was not seen in the Parasol group.,0,0,N,0,0,0,N,0,0,0,N
+92,"The objective and patient-reported outcomes in our study are similar to those previously reported.Both the expanding pressure of the plug and the restoring force of the inner canal tissue hold the plug in place.The Parasol design collapses on insertion, and then expands to revert back to its natural shape within the puncta.",0,0,N,0,0,0,N,0,0,0,N
+93,This expansion may provide more force against the punctal tissue and could contribute to the increased retention rate of this plug.,0,0,N,0,0,0,N,0,0,0,N
+94,"However, we also hypothesize that the retention success of the Parasol plugs may be due not only to its unique design but also to the sizing of the plugs.",0,0,N,0,0,0,N,0,0,0,N
+95,"Rather than fitting one punctal size, the x-small, small, medium, and large sizes fit a range of punctal sizes.",0,0,N,0,0,0,N,0,0,0,N
+96,It is possible that this sizing paradigm may provide a tighter fit of the plug within the inner canal of the puncta.,0,0,N,0,0,0,N,0,0,0,N
+97,"As proper selection of plug size is important to the plug fit, we attempted to minimize any plug size selection bias by employing a punctal gauge to accurately determine the size of the puncta.",1,0,N,0,0,0,N,0,0,0,N
+98,"Both brands were convenient to insert, with minimal patient discomfort.",0,0,N,0,0,0,N,0,0,0,N
+99,"Prior studies have reported higher spontaneous plug loss in older patients, possibly owing to age-related changes in periocular tissues and dilated puncta with insertion; however, this result was not found in our study.",0,0,N,0,0,0,N,0,0,0,N
+100,"As well, prior studies have reported wide variations in plug retention (20%–70%).",0,0,N,0,0,0,N,0,0,0,N
+101,"We hypothesize that this variation may be due to choosing of the plug size, which is why we employed the punctal gauge.",0,0,N,0,0,0,N,0,0,0,N
+102,"It allowed for a nonbiased size determination for the plugs, and may have contributed to an overall better fit and, possibly, retention than seen in other studies.",0,0,N,0,0,0,N,0,0,0,N
+103,"Although we detected a statistically significant difference in the retention rates, there was no statistically significant difference in subjective or objective dry eye scores, except for a decrease in the frequency of artificial tear use.",0,0,N,0,0,0,N,0,0,0,N
+104,"Both brands showed a statistically significant improvement in almost all secondary measures over time, and either brand therefore is an effective intervention for treating moderate to severe dry eye signs and symptoms.",0,0,N,0,0,0,N,0,0,0,N
+105,We experienced an extremely high rate of patient compliance throughout the study.,0,0,N,0,0,0,N,0,0,0,N
+106,"We believe that, in selecting a patient population of moderate to severe dry eye symptoms as per the CDEA, there was intrinsic motivation for patients to seek intervention for improvement in their dry eye.",0,0,N,0,0,0,N,0,0,0,N
+107,"As well, choosing a monthly follow-up schedule ensured that it was easy for patients to attend their appointments.",0,0,N,0,0,0,N,0,0,0,N
+108,"There were no complications recorded throughout the study period, which speaks to punctal plugs as a safe and effective method to treat the signs and symptoms of dry eye.",0,0,N,1,0,0,N,0,0,0,N
+109,"Lastly, recognition of systemic inflammatory disease as a cause for dry eye is of paramount importance in avoiding intervention in cases where punctal occlusion may exacerbate symptoms, and these patients were not included for participation in the study.",0,0,N,0,0,0,N,0,0,0,N
+110,"Limitations to the study include seeing patients for monthly follow-up visits, and thereby limiting plug retention to a monthly measure.",0,0,N,0,0,0,N,0,0,0,N
+111,A more rigorous follow-up schedule could be considered in order to determine exact dates of plug loss.,0,0,N,0,0,0,N,0,0,0,N
+112,"Our secondary outcomes did not show a statistically significant difference between the 2 brands, as we were powered around our primary outcome.",0,0,N,0,0,0,N,0,0,0,N
+113,"However, our intention in establishing the secondary measures was to evaluate the level of improvement in the signs and symptoms of dry eye, thus proving that this may be a beneficial intervention.",0,0,N,0,0,0,N,0,0,0,N
+114,A future study could be powered around our secondary outcomes in order to detect any differences between brands.,0,0,N,0,0,0,N,0,0,0,N
+115,"A high rate of spontaneous plug loss is a concern because it can lead to multiple clinic visits and repeated insertions, which can be frustrating for both clinician and patient.",0,0,N,0,0,0,N,0,0,0,N
+116,"As well, the risk of frequent out-of-pocket spending for patients might limit their willingness to try this safe and effective solution for dry eye.",0,0,N,0,0,0,N,0,0,0,N
+117,This study demonstrated a superior rate of retention of the Parasol punctal plug at 6 months.,0,0,N,0,1,1,N,0,0,0,N
+118,The study also demonstrated the effectiveness of punctal occlusion for the treatment of moderate to severe dry eye.,0,0,N,0,1,1,N,0,0,0,N
+119,Our findings allow us to better guide our patients regarding the effectiveness and the expected retention rates of the Parasol and Super Flex punctal plugs for the treatment of moderate to severe dry eye.,0,0,N,0,0,0,N,0,0,0,N
+120,All authors have completed and submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest and none were reported.,0,0,N,0,0,0,N,0,0,0,N
+121,The authors indicate no funding support.,0,0,N,0,0,0,N,0,0,0,N
+122,All authors attest that they meet the current ICMJE requirements to qualify as authors.,0,0,N,0,0,0,N,0,0,0,N
+123,"The authors would like to thank Wilma Hopman, Health Sciences Research, Queen's University, for her role as statistician, and Isabella Irrcher, Research Coordinator at Hotel Dieu Hospital, for her advice in study design.",0,0,N,0,0,0,N,0,0,0,N
+124,"Lastly, we thank Robert Ewart, photographer at Insider Medicine, for his contribution to the figures.",0,0,N,0,0,0,N,0,0,0,N

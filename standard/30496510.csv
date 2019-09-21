@@ -1,0 +1,133 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"Rib fractures are an important health issue worldwide, with significant, pain, morbidity, and disability for which only symptomatic treatment exists.",0,0,0,N,0,0,0,0,N,0,0
+1,"Based on our previous experimental model, the objective of the current study was to assess for the first time whether pulsed ultrasound (PUS) application could have beneficial effects on humans.",1,0,0,N,0,0,0,0,N,0,0
+2,"Prospective, double-blinded, randomized, controlled trial of 51 patients.",0,0,0,N,0,0,0,0,N,0,0
+3,"Four were excluded, and 47 were randomized into the control group (N = 23) or PUS group (N = 24).",0,0,0,N,0,0,0,0,N,0,0
+4,"The control group received a PUS procedure without emission, and the PUS group received 1 Mhz, 0.5 W/cm2 for 1 min/cm2.",0,0,0,N,0,1,0,0,N,0,0
+5,"Pain level, bone callus healing rate, physical and work activity, pain medication intake, and adverse events were blindly evaluated at baseline and one, three, and six months.",0,0,0,N,0,0,0,0,N,0,0
+6,There were no significant differences at baseline between groups.,0,0,0,N,0,0,0,0,N,0,1
+7,"PUS treatment significantly decreased pain by month 1 (P = 0.004), month 3 (P = 0.005), and month 6 (P = 0.025), significantly accelerated callus healing by month 1 (P = 0.013) and month 3 (P < 0.001), accelerated return to physical activity by month 3 (P = 0.036) and work activity (P = 0.001) by month 1, and considerably reduced pain medication intake by month 1 (P = 0.057) and month 3 (P = 0.017).",0,0,0,N,0,0,0,0,N,0,1
+8,No related adverse events were found in the PUS group.,0,0,0,N,0,0,0,0,N,0,1
+9,"This study is the first evidence that PUS treatment is capable of improving rib fracture outcome, significantly accelerating bone callus healing, and decreasing pain, time off due to both physical activity and convalescence period, and pain medication intake.",0,0,0,N,0,0,0,0,N,0,0
+10,"It is a safe, efficient, and low-cost therapy that may become a new treatment for patients with stable rib fractures.",0,0,0,N,0,0,0,0,N,0,0
+11,Rib fractures (RFs) have become an important health issue and one of the most common causes of trauma disabilities .,0,0,0,N,0,0,0,0,N,0,0
+12,"Their incidence related to thoracic trauma ranges from 7% to 38.7%, and their morbidity and mortality are related to the number of fractures, ranging from 5.8% for a single fracture to 34% for seven or more fractures .",0,0,0,N,0,0,0,0,N,0,0
+13,"Patients often complain of severe pain, and rapid control is considered a priority to improve respiratory mechanics and reduce the risk of pulmonary and systemic effects .",1,0,0,N,0,0,0,0,N,0,0
+14,The current treatment is symptomatic and mainly based on 1) pain control with nonsteroidal anti-inflammatory drugs or opioids and invasive techniques; 2) respiratory rehabilitation to promote pain management and prevent secondary pneumonia ; and 3) getting back into physical activity early .,0,0,0,N,0,0,0,0,N,0,0
+15,"Due to the lack of effective treatments capable of changing the outcome of patients with RF, surgical fixation and other invasive treatments such as thoracic epidural, thoracic paravertebral, and intercostal blocks  have been increasingly applied, but without clear benefits , as they carry significant potential side effects; additionally, none of them has been able to modify the outcome of RF, which can vary from temporary pain to significant long-term disability in almost 60% of patients.",0,0,0,N,0,0,0,0,N,0,0
+16,Ultrasound is a form of noninvasive mechanical energy that can be transmitted through the skin as a sound wave of high pressure and is a major therapeutic tool in physical medicine.,0,0,0,N,0,0,0,0,N,0,0
+17,"It is a dose response modality; therefore, its effectiveness is based on the correct application of its most important parameters, such as mode, frequency, intensity, and duration.",0,0,0,N,0,0,1,0,N,0,0
+18,"Continuous mode is used to produce thermal effects, whereas pulsed mode (PUS) is used to produce biological effects.",0,0,0,N,0,0,0,0,N,0,0
+19,"In general, the more acute the presentation of the lesion, the more pulsed output should be applied.",0,0,0,N,0,0,0,0,N,0,0
+20,"Therapeutic ultrasound has a frequency range between 0.75, and 3.3 MHz, and the frequency is inversely proportional to the tissue penetration, so the higher it is, the less the depth of penetration is.",0,0,0,N,0,0,0,0,N,0,0
+21,"The intensity applied should be the lowest that will produce the therapeutic effect, in general not higher than 0.5 W/cm2 for acute conditions and between 0.5 and 1 W/cm2 for chronic diseases as higher intensities may cause damage.",0,0,0,N,0,0,0,0,N,0,0
+22,"The duration of PUS treatment depends on the area of the injury, and typically, the more acute the lesion is, the better the result that can be achieved with treatment once or twice daily for weeks.",0,0,0,N,0,0,0,0,N,0,0
+23,It is recommended to move the transducer slowly at approximately 4 cm/sec in overlapping circular motions or in a longitudinal stroking pattern .,0,0,0,N,0,0,0,0,N,0,0
+24,"Several studies have shown that PUS improves consolidation of recent limb fractures and accelerates the patient’s return to their usual activities, reducing associated health care costs and improving quality of life .",0,0,0,N,0,0,0,0,N,0,0
+25,reported that PUS significantly shortened time to radiological union for patients with acute fractures undergoing nonoperative treatment.,0,0,0,N,0,0,0,0,N,0,0
+26,"suggested that PUS may be a suitable treatment for adults with fresh fractures, and Leighton et al.",0,0,0,N,0,0,0,0,N,1,0
+27,concluded that it could be an alternative to surgery for established nonunions in patients for whom surgery is high risk.,0,0,0,N,0,0,0,0,N,1,0
+28,"Also, several trials have demonstrated that PUS is a safe and effective treatment for relieving patients with knee osteoarthritis.",0,0,0,N,0,0,0,0,N,1,0
+29,"From a translational point of view, we performed the first experimental evaluation of the effects of PUS on RF ; 136 male Sprague-Dawley rats were randomly assigned into different groups of PUS doses and durations of treatment to evaluate its efficacy.",0,0,0,N,0,0,0,0,N,1,0
+30,"We concluded that the healing rate of callus formation was greater in the PUS rats than in controls, showing an intensity- and time-dependent beneficial effect of PUS treatment on consolidation of RF.",0,0,0,N,0,0,0,0,N,1,0
+31,"Based on these findings, our aim was to assess for the first time whether PUS treatment could also have beneficial effects in humans.",0,0,0,N,0,0,0,0,N,0,0
+32,"This was a double-blind, randomized, controlled, and competitive recruitment trial.",0,0,0,N,0,0,0,0,N,0,0
+33,"A total of 102 patients were planned to be enrolled, with an interim analysis of 51 patients.",0,0,0,N,0,0,0,0,N,0,0
+34,"Here, we present the results of this interim analysis.",0,0,0,N,0,0,0,0,N,0,0
+35,See the CONSORT diagram (Figure 1) for further details.,0,0,0,N,0,0,0,0,N,0,0
+36,Fifty-two adult patients with RFs were recruited between February 2012 and March 2015.,0,0,0,N,0,0,0,0,N,0,0
+37,Fifty-one of them were randomly assigned to either control or PUS treatment and were followed up for six months.,0,0,0,N,0,0,0,0,N,0,0
+38,"The study was approved by the institutional Ethics Committee (Hospital Dr. Negrín, Las Palmas de Gran Canaria, Spain) and performed in compliance with the Declaration of Helsinki and the International Conference on Harmonisation–Good Clinical Practice.",0,0,0,N,0,0,0,0,N,0,0
+39,The study was overseen by an independent data and safety monitoring committee.,0,0,1,N,0,0,0,0,N,0,0
+40,The trial was retrospectively registered at http://www.researchregistry.com/ under Unique Identifying Number “researchregistry1928.”,0,0,0,N,0,0,0,0,N,0,0
+41,Inclusion criteria were age 18 years or older and the presence of any number of unilateral stable RFs (simple and displaced rib fractures without flail chest) with less than seven days of evolution.,1,0,0,N,0,0,0,0,N,0,0
+42,"Exclusion criteria were cognitive impairment or low level of consciousness; presence of pneumothorax, hemothorax, pulmonary contusion, open wound or infection, flail chest, sepsis, tumoral pathology, or loss of sensation in the affected area.",1,0,0,N,0,0,0,0,N,0,0
+43,Written informed consent was obtained from all patients.,0,0,0,N,0,0,0,0,N,0,0
+44,Patients were randomly and blindly assigned to either the control or treatment group.,0,1,0,N,0,0,1,0,N,0,0
+45,The randomization sequences were computer-generated by an independent monitor.,0,1,1,N,0,0,0,0,N,0,0
+46,"Following a baseline examination performed by a thoracic surgeon, who drew the area to treat on the skin of patients with a permanent pen based on exploration and radiological findings, two physiotherapists who did not receive specific training applied the assigned treatment to each patient.",0,0,0,N,1,0,0,0,N,0,0
+47,"The time of treatment was proportionally related to the surface of the area in cm2 (1 min/cm2), and the monitor disclosed to the physiotherapists the treatment to be applied.",1,0,0,N,1,0,0,0,N,0,0
+48,Thoracic surgeons responsible for follow-up evaluations and radiologists were blinded to the allocation process and treatment.,0,0,0,N,1,0,1,0,N,0,0
+49,"At baseline and before randomization, age, sex, weight, height, body mass index, the number of RFs, associated pathologies, analgesia, and pain intensity, measured using a visual analog scale (VAS), were reported.",0,0,0,N,0,0,0,0,N,0,0
+50,"Patients were followed up at one, three, and six months after basal assessment.",0,0,0,N,0,0,0,0,N,0,0
+51,"At all visits, data were collected on patient-reported outcomes, pain intensity, physical and work activity, medication intake, any adverse events, and self-satisfaction with the procedure.",0,0,0,N,0,0,0,0,N,0,0
+52,A chest x-ray focusing on treated areas was taken at every follow-up.,0,0,0,N,0,0,0,0,N,0,0
+53,Dexketoprofen was the selected nonsteroidal anti-inflammatory drug (NSAID) for all patients.,0,0,0,N,0,0,0,0,N,0,0
+54,"The primary outcomes were 1) evolution of patient self-reported pain during the first six months and 2) the degree of bone callus consolidation, independently assessed by both the radiologist and the thoracic surgeon, and classified into five different degrees: lack of callus, incipient, in formation, formed, and remodeled.",0,0,0,N,0,0,0,0,N,0,0
+55,One patient was excluded from the study due to sudden death after being discharged from the hospital.,0,0,0,N,0,0,0,0,N,0,0
+56,"From 51 randomized patients, four of them were not included in the final analysis; two patients did not return to the hospital after the first procedure session, one patient could not start the procedure in due time, and the last patient withdrew informed consent before the onset of the procedure.",0,0,0,N,0,0,0,0,N,0,0
+57,"In the control group (N = 23), a PUS transductor was applied on the RF area without emission for 1 min/cm2 (placebo).",0,0,0,N,0,1,0,0,N,0,0
+58,"In the treatment group (N = 24), the same transductor was applied with a frequency of 1 Mhz, intensity of 0.5 W/cm2, and 10% pulse (50 mW/cm2) for 1 min/cm2.",0,0,0,N,0,1,0,0,N,0,0
+59,"In all patients, the PUS procedure was applied for 20 consecutive workdays and started within the first 24 hours after recruitment.",0,0,0,N,0,0,1,0,N,0,0
+60,"For this study, we used two standard devices: 1) Sonopuls 590 Ultrasound Therapy (Enraf-Nonius, Rotterdam, the Netherlands) and 2) BTL-5000 SWT Power Ultrasound Therapy (SANRO Electromedicine, Madrid, Spain).",0,0,0,N,0,0,0,0,N,0,0
+61,"The sample size was calculated as follows: PUS group superiority design, with pain decrease at 30 days of 1.5–2 points (higher “VAS decrease” in the PUS group vs control group, for 1.5–2 points variability).",0,0,0,N,0,0,0,0,N,0,0
+62,We considered 1.5–2 points in VAS difference to be the threshold for clinical relevance.,0,0,0,N,0,0,0,0,N,0,0
+63,"For a power of 80% (1-β = 0.8), two-sided significance α < 0.05, and ratio 1:1, the initial estimation was 92 patients.",0,0,0,N,0,0,0,0,N,0,0
+64,"It was assumed that 10%–15% would withdraw or be noncompliant with the protocol, so the final sample size estimation was 102 patients (51 patients/group).",0,0,0,N,0,0,0,0,N,0,0
+65,An interim analysis was initially planned in the middle of the study (51 patients).,0,0,0,N,0,0,0,0,N,0,0
+66,"After enrolling 47 patients, the power reached was 82%.",0,0,0,N,0,0,0,0,N,0,0
+67,Statistical evaluation was blindly performed after patients were graded using standardized nomenclature.,0,0,1,N,0,0,1,0,N,0,0
+68,Comparisons among the categorical variables were assessed with the chi-square test.,0,0,0,N,0,0,0,0,N,0,0
+69,Data management and statistical analyses were performed using SPSS (version 15.0) statistical software.,0,0,0,N,0,0,0,0,N,0,0
+70,A P value <0.05 was considered statistically significant.,0,0,0,N,0,0,0,0,N,0,0
+71,"Both groups showed no significant differences between the parameters assessed: sex, age, weight, height, number and location of RFs, medical history, and pain level (Table 1).",0,0,0,N,0,0,0,0,N,0,0
+72,"There was a trend to worse condition (higher baseline pain, P = 0.083) in the PUS group.",0,0,0,N,0,0,0,0,N,0,0
+73,Baseline pain was 8.5 ± 1.2 for the control group and 9 ± 1.1 for the PUS group (P = 0.083).,0,0,0,N,0,0,0,0,N,0,0
+74,"The pain was significantly lower in the PUS group at all evaluated time points: one month (3 ± 2.7 vs 1.3 ± 1.9, P = 0.004), three months (1.6 ± 1.9 vs 0.3 ± 0.7, P = 0.005), and six months (0.7 ± 1.2 vs 0.2 ± 0, P = 0.025), respectively (Figure 2).",0,0,0,N,0,0,0,0,N,0,0
+75,"When compared with controls, the pain level in the PUS group showed a statistically significant reduction between baseline and one month (5.8 + 3.2 vs 7.8 + 2.4, P = 0.006) and between baseline and six months (7.7 + 1.9 vs 9 + 1.2, P = 0.004), respectively (Table 2).",0,0,0,N,0,0,0,0,N,0,0
+76,"The level of pain, measured by visual analog scale, was significantly lower in the group receiving pulsed ultrasound treatment at one month (3 ± 2.7 vs 1.3 ± 1.9, P = 0.004), three months (1.6 ± 1.9 vs 0.3 ± 0.7, P = 0.005), and six months (0.7 ± 1.2 vs 0.2 ± 0, P = 0.025) compared with the control group.",0,0,0,N,0,0,0,0,N,0,0
+77,The bars represent 95% confidence intervals.,0,0,0,N,0,0,0,0,N,0,0
+78,"Bone callus consolidation was significantly higher in the PUS group at one month (P = 0.013 for the thoracic surgeon, P = 0.020 for the radiologist) and three months (P < 0.001 and P = 0.005, respectively) (Figure 3).",0,0,0,N,0,0,0,0,N,0,0
+79,"No significant differences were observed at six months, although 80% of remodeled calluses belonged to the PUS group (Table 3).",0,0,0,N,0,0,0,0,N,0,0
+80,X-ray of control and pulsed ultrasound (PUS) groups at one and three months.,0,0,0,N,0,0,0,1,N,0,1
+81,Upper-Left) Right RF without consolidation signs by month 1 in one patient from the control group.,0,0,0,N,0,0,0,1,N,0,1
+82,Upper-Right) Right rib fracture (RF) showing incipient callus formation by month 1 in one patient from the PUS group.,0,0,0,N,0,0,0,1,N,0,0
+83,Lower-Left) Right RF showing incipient callus formation by month 3 in one patient from the control group.,0,0,0,N,0,0,0,1,N,0,0
+84,Lower-Right) Right RF showing a formed callus by month 3 in one patient from the PUS group.,0,0,0,N,0,0,0,1,N,0,0
+85,"No significant differences were observed for physical activity at baseline (P = 0.081), one month (P = 0.168), or six months (P = 0.465), yet there were significant differences at three months (P = 0.036), where 53.7% of patients enrolled in physical activity belonged to the PUS group, vs 46.3% from the control group.",0,0,0,N,0,0,0,0,N,0,0
+86,"No significant differences were observed in the number of patients who were working and those who were not due to retirement or unemployment at baseline (P = 0.247), three months (P = 0.586), and six months (P = 0.421).",0,0,0,N,0,0,0,0,N,0,0
+87,No significant differences were observed in the number of days of sick leave at baseline (P = 1) or six months (P = 0.351).,0,0,0,N,0,0,0,0,N,0,0
+88,"The number of days of sick leave showed a trend to be lower in the PUS group (31.5 ± 9.1) vs the control group (49.6 ± 8.5, P = 0.074).",0,0,0,N,0,0,0,0,N,0,0
+89,"After one month, just 9% of patients (one from 11 previously working) in control group were working vs 85% (11 from 13 previously working) in the PUS group (P < 0.001) (Figure 4).",0,0,0,N,0,0,0,0,N,0,0
+90,Patients working and taking pain medication at one and three months.,0,0,1,N,0,0,0,0,N,0,0
+91,"From patients previously working: After one month, one of 11 in the control group and 11 of 13 in the pulsed ultrasound (PUS) group were working (P < 0.001).",0,0,0,N,0,0,0,0,N,0,0
+92,"After three months, differences were not significant.",0,0,0,N,0,0,0,0,N,0,0
+93,"After one month, 15 of 23 in the control group and nine of 24 in the PUS group were taking pain medication (P = 0.057; not significant).",0,0,0,N,0,0,0,0,N,0,0
+94,"After three months, seven of 23 in the control group and one of 24 in the PUS group were taking pain medication (P = 0.017).",0,0,0,N,0,1,0,0,N,0,0
+95,No significant differences were observed in the number of patients who were taking pain medication at baseline and at six months.,0,0,0,N,0,0,0,0,N,0,0
+96,"However, an important reduction was observed, although it was not significant, at one month.",0,0,0,N,0,0,0,0,N,0,0
+97,"At one month, 37.5% of patients in the PUS group and 65.2% in the control group (P = 0.057) were taking pain medication.",0,0,0,N,0,0,0,0,N,0,0
+98,Significant differences were observed at three months; 4.2% of patients in the PUS group and 30.4% in the control group were taking pain medication (P = 0.017).,0,0,0,N,0,0,0,0,N,0,0
+99,"As for the type of pain medication, no significant differences were observed at baseline or six months.",0,0,1,N,0,0,0,0,N,0,0
+100,An important but not statistically significant reduction was observed at one month in the number of patients taking second-step analgesics (weak opioid; 63.6% control group vs 36.4% PUS group).,0,0,0,N,0,0,0,0,N,0,0
+101,None of the patients experienced any type of complication related to the PUS procedure.,0,0,0,N,0,0,0,0,N,0,0
+102,All patients in the study recommended the use of the PUS procedure and would choose to be treated again if needed.,0,0,0,N,0,0,0,0,N,0,0
+103,Three patients from the control group (13%) presented digestive intolerance related to analgesic treatment vs no patients from the PUS group at one month (P = 0.034) and six months (P = 0.028).,0,0,0,N,1,1,0,0,N,0,0
+104,"The significant number of patients suffering from RFs worldwide, their considerable morbidity and mortality, the high long-term disability rate, and the lack of efficient treatments have turned RFs into a major health issue that demands efforts in translational research.",0,0,0,N,0,0,0,0,N,0,0
+105,"In this sense, this is the first clinical trial where PUS has been evaluated for RF treatment based on the beneficial effects described in our previous experimental model, where we established the optimal length of treatment and ultrasound intensity .",0,0,0,N,0,0,0,0,N,0,0
+106,"In this prospective clinical trial, PUS treatment has decreased the pain and disability and accelerated bone callus healing.",0,0,0,N,0,0,0,0,N,0,0
+107,"These findings have a significant relevance due to 1) the homogeneity of both study groups and the double-blinded evaluation (patient and physician); 2) the fact of being a noninvasive, easily applicable, low-cost, and well-tolerated treatment; and 3) the clinical relevance of the results as none of the invasive or noninvasive treatments previously described in the literature have been capable of achieving similar results .",0,0,0,N,0,0,0,0,N,0,0
+108,Pain control is a priority for patients with RF as analgesia can offer only limited relief from severe pain .,0,0,0,N,0,0,0,0,N,0,0
+109,"Although the effectiveness of NSAIDs in reducing early pain and pulmonary morbidity during the first 30 days after RF has been described , the presence of side effects and no changes on long-term pain management and disability have also been reported.",0,0,0,N,0,0,0,0,N,0,0
+110,"In our study, pain levels were significantly lower in the PUS group during the whole study, decreasing early and long-term pain.",0,0,0,N,0,0,0,0,N,0,0
+111,"Although the greatest analgesic effect took place during the first month, differences in pain perception remained significant at six months (Figure 2), and none of the patients in the PUS group required painkillers at six months, whereas 9% of controls were still taking analgesic medication.",0,0,0,N,0,0,0,0,N,0,0
+112,"The analgesic effect of PUS treatment facilitated the early recovery and getting back to normal life of the treated patients, as well as the reduction of medication intake and side effects related to analgesic medications.",0,0,0,N,0,0,0,0,N,0,0
+113,New invasive techniques such as placement of elastomeric infusion pump catheters in the extrathoracic paraspinal space  or a novel acupuncture modality on pain spots  may be effective to relieve acute pain but have no effect on long-term pain and disability.,0,0,0,N,0,0,0,0,N,0,0
+114,"In the same way, the surgical management of RF is an increasingly used technique to improve patient outcomes, but despite the evolving support of RF fixation [24], its use remains limited , because changes in the functional or work status of these patients have not been proven .",0,0,0,N,0,0,0,0,N,0,0
+115,"On the contrary, in our study, PUS treatment was capable of decreasing not only long-term pain, but the disability evaluated by physical and work activity too, changing the outcome of RFs.",0,0,0,N,0,0,0,0,N,0,0
+116,Mechanisms at the origin of PUS biological effects remain intriguing .,0,0,0,N,0,0,0,0,N,0,0
+117,The biological response to PUS is complex and involves numerous cell types in several pathways mainly related to 1) intrinsic anti-inflammatory properties to decrease the pain by local induction of anti-inflammatory genes ; 2) the acceleration of bone healing by inducing the expression of genes related to chondrogenic and osteogenic differentiation  and extracellular matrix production ; and 3) their capacity to enhance angiogenesis .,0,0,0,N,0,0,0,0,N,0,0
+118,"In fact, a recent study in healthy volunteers showed no differences in baseline vessel diameter, hyperemic flow, nitroglycerin-mediated diameter or vasodilation for 1 and 3 MHz, leading to similar improvement in endothelial function.",0,0,0,N,0,0,0,0,N,0,0
+119,"From a translational point of view, some important aspects of the technique must be considered as PUS efficacy is directly related to the frequency, intensity, and duration of treatment.",0,0,0,N,1,0,0,0,N,0,0
+120,"The frequency of the ultrasound is inversely proportional to the tissue penetration, and thereby its potential biological effects.",0,0,0,N,0,0,0,0,N,0,0
+121,"In fact, the transcriptional induction of early-response genes is PUS frequency dependent as 2, 5, and 8 MHz increased the expression of c-Fos, c-Jun, and c-Myc related to inflammatory and tumoral processes, oxidative stress, and other forms of cellular stress induced by the pro-inflammatory cytokines and growth factors releasing, being maximized at 5 MHz .",0,0,0,N,0,0,0,0,N,0,0
+122,"In this sense, we selected 1 Mhz 1) because ribs are located deeper in humans than in rats and 2) to avoid the deleterious effects on fracture healing by the induction of early-response genes.",0,0,0,N,0,0,0,0,N,0,0
+123,"In the same way, high intensity has decreased callus healing in animals [9].",0,0,0,N,0,0,0,0,N,0,0
+124,"In fact, ultrasound-induced apoptosis in human tumoral cells by >50-mW/cm2 intensity has been reported by others , which is why the low PUS intensity used (50 mW/cm2) and the duration of the treatment (20 sessions) in our trial were the same as the most effective intensity and duration observed in our experimental study .",0,0,0,N,0,0,0,0,N,0,0
+125,"Some possible limitations of our study could be 1) the exclusion of patients with severe thoracic trauma or the presence of complications due to the more difficult evaluation of the pain and the other parameters of the study as these patients usually present with severe multiple traumas that require sedation and mechanical ventilation with prolonged admissions; 2) the chance that some RFs were not included in the treatment area, but the homogeneity of both groups highly reduced this possibility.",0,0,0,N,0,0,0,0,N,0,0
+126,"Although PUS was approved for fracture healing by the US Food and Drug Administration (FDA) many years ago, some trials have shown inconclusive or contradictory results.",0,0,0,N,0,0,0,0,N,0,0
+127,"In this way, a recent trial did not show significant changes after postoperative self-application of low-intensity PUS in 501 patients with tibial fractures .",0,0,0,N,0,0,0,0,N,0,0
+128,"However, we consider the following to be relevant to our positive results: 1) no surgical manipulation was applied to patients before ultrasound treatment; 2) all patients received the appropriate PUS procedure, implemented by health care professionals; 3) there was full compliance with the planned protocol; 4) PUS treatment was optimized based on intensity- and time-dependent PUS effects observed in a previous experimental study .",0,0,0,N,0,0,0,0,N,0,0
+129,"For all these reasons, it is important to take into consideration that the efficacy of PUS treatment could be different depending on the anatomic localization, frequency, intensity, time of application, duration of and compliance with the treatment, and the presence of inflammatory phenomena around the fracture.",0,0,0,N,0,0,0,0,N,0,0
+130,"Finally, we conclude that PUS has been shown to be a new noninvasive, easily applicable, low-cost, and no–side effects treatment capable of significantly changing the outcome of patients with stable RFs by decreasing early and long-term pain, accelerating fracture healing and return to both physical and work activity, and reducing pain medication intake.",0,0,0,N,0,0,0,0,N,0,0
+131,"For all these reasons, we consider PUS a new therapeutic alternative for these patients, and its application should be considered as part of current treatment schemes for noncomplicated RF to improve patient care before surgical or invasive treatments.",0,0,0,N,0,0,0,0,N,0,0

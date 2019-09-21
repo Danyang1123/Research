@@ -1,0 +1,103 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Purpose To assess the refractive improvements and the corneal endothelial safety of an individualised topography-guided regimen for corneal crosslinking in progressive keratoconus.,0,0,0,0,0,0,0,0,0,0,0
+1,"Methods An open-label prospective randomised clinical trial was performed at the Department of Clinical Sciences, Ophthalmology, Umeå University Hospital, Umeå, Sweden.",0,0,0,0,0,0,0,0,0,0,0
+2,Thirty-seven patients (50 eyes) with progressive keratoconus planned for corneal crosslinking were included.,0,0,0,0,0,0,0,0,0,0,0
+3,The patients were randomised to topography-guided crosslinking (photorefractive intrastromal crosslinking (PiXL); n=25) or uniform 9 mm crosslinking (corneal collagen crosslinking (CXL); n=25).,0,0,0,0,0,0,0,0,0,0,0
+4,"Visual acuity, refraction, keratometry (K1, K2 and Kmax) and corneal endothelial morphometry were assessed preoperatively and at 1, 3, 6 and 12 months postoperatively.",0,0,0,0,0,0,0,0,0,0,0
+5,The PiXL treatment involved an asymmetrical treatment zone centred on the area of maximum corneal steepness with treatment energies ranging from 7.2 to 15.0 J/cm2; the CXL treatment was a uniform 9 mm 5.4 J/cm2 pulsed crosslinking.,0,0,0,0,0,0,0,0,0,0,0
+6,The main outcome measures were changes in refractive errors and corneal endothelial cell density.,0,0,0,0,0,0,0,0,0,0,0
+7,"Results The spherical refractive errors decreased (p<0.05) and the visual acuity improved (p<0.01) at 3, 6 and 12 months after PiXL, but not after CXL.",0,0,0,0,0,0,0,0,0,0,0
+8,"The between-groups differences, however, were not significant.",0,0,0,0,0,0,0,0,0,0,0
+9,"K2 and Kmax decreased at 3, 6 and 12 months after PiXL (p<0.01), but not after CXL (p<0.01 when comparing the two treatments).",0,0,0,0,0,0,0,0,0,0,0
+10,No corneal endothelial cell loss was seen after either treatment.,0,0,0,0,0,0,0,0,0,0,0
+11,"Conclusions Individualised topography-based crosslinking treatment centred on the ectatic cone has the potential to improve the corneal shape in keratoconus with decreased spherical refractive errors and improved visual acuity, without damage to the corneal endothelium.",0,0,0,0,0,0,0,0,0,0,0
+12,"Trial registration number NCT02514200, Results.",0,0,0,0,0,0,0,0,0,0,0
+13,"Keratoconus is a corneal degeneration with progressive corneal thinning, ectatic corneal protrusion and asymmetric corneal irregularity as main features.",0,0,0,0,0,0,0,0,0,0,0
+14,The refractive consequences of keratoconus are progressive myopia and irregular astigmatism.,0,0,0,0,0,0,0,0,0,0,0
+15,Corneal collagen crosslinking (CXL) with the photosensitizer riboflavin and ultraviolet light was first described by Spoerl et al1 and has become a widely used treatment to halt the disease progression by increasing the biomechanical strength of cornea through induction of new covalent bonds in the stromal matrix.,0,0,0,0,0,0,0,0,0,0,0
+16,CXL has also been shown to cause a gradual post-treatment flattening of the corneal curvature with regression of the refractive errors over time.,0,0,0,0,0,0,0,0,0,0,0
+17,"With the standard ‘Dresden’ CXL protocol, the corneal surface is uniformly irradiated with ultraviolet A (UVA) in a central 9 mm zone at 5.4 J/cm2.1 , With such a standard protocol, there are no means to control or regulate the post-treatment refractive improvement, and the degree of improvement often seems clinically unpredictable.",0,0,0,0,0,0,0,0,0,0,0
+18,"Computer simulations of asymmetric UVA irradiation centralised on the ectatic keratoconus cone suggest that such a treatment pattern may induce a more pronounced flattening.8 Recent investigations indicate that higher levels of CXL energy can be safely delivered, which opens up for individualised treatment plans based on the corneal topography with local augmentation of the treatment effect in the most ectatic zone.",0,0,0,0,0,0,0,0,0,0,0
+19,"This type of individualised crosslinking has, however, not yet been evaluated in a randomised clinical trial.",0,0,0,0,0,0,0,0,0,0,0
+20,"The main outcome measures of this study were to evaluate the refractive outcomes of an individualised topography-guided regimen for corneal crosslinking (photorefractive intrastromal crosslinking (PiXL)) in progressive keratoconus compared with the corresponding outcomes with a uniform, accelerated 5.4 J/cm2 pulsed CXL treatment regimen.",0,0,0,0,0,0,0,0,0,0,0
+21,"In addition, we wanted to evaluate any changes in corneal endothelial morphometry induced by the two treatments.",0,0,0,0,0,0,0,0,0,0,0
+22,"In this open-label, randomised clinical trial, patients with keratoconus planned for corneal crosslinking were recruited from the Department of Ophthalmology, Umeå University Hospital, Sweden, between 20 March 2014 and 8 April 2015; National Clinical Trials ID: 02514200; http://ClinicalTrials.gov) by the principal investigator (AB).",1,0,1,0,0,1,1,0,1,0,0
+23,"The study comprised 50 eyes of 37 patients with progressive keratoconus (33 males, 4 females), aged 27.7±8.5 years (range: 16–50 years).",1,0,1,0,0,1,1,0,1,0,0
+24,The power analysis used to determine the group sizes showed that the study design allows for detection of a difference in spherical equivalent of 2.0 D between treatments and 1.2 D between time points (α=0.05; power=0.80).,1,0,1,0,0,1,1,0,1,0,0
+25,"After inclusion, patients were randomised to receive either uniform pulsed crosslinking with treatment energy of 5.4 J/cm2 (CXL; n=25) or individualised topography-guided corneal crosslinking with asymmetrical treatment zones and variable treatment energies (PiXL, n=25).",1,1,1,0,0,1,1,0,1,0,0
+26,"All treatments were performed with the Avedro KXL II system (Avedro, Waltham, Massachusetts, USA) and involved removal of the central 9 mm corneal epithelium after topical anaesthesia with tetracaine, topical application of 0.1% dextran-free riboflavin every two minutes during 10 min, and 1 s on/1 s off pulsed 370 nm UVA irradiation of 30 mW/cm2.",1,0,1,0,0,1,1,0,1,0,0
+27,"Postoperatively, all patients were given topical levofloxacin 5 mg/mL three times daily for a week.",0,0,0,0,0,0,0,0,0,0,0
+28,The treatment time for the CXL group was 8:00 min.,0,0,0,0,0,0,0,0,0,0,0
+29,"The treatment plan design in the PiXL group was based on in silico work by Roy and Dupps, and the sizes and shapes of the treatment zones were calculated from Pentacam HR (Oculus, Lynnwood, Washington, USA) Scheimpflug tomography measurements.",0,0,0,0,0,0,0,0,0,0,0
+30,"The zones were arcuate-shaped, sparing a central 2 mm zone.",0,0,0,0,0,0,0,0,0,0,0
+31,"The size and shape of the treatment zone were determined by the transition where the Pentacam HR axial curvature dropped off by steps of 2.0 D from the Kmax value, and the treatment energy distribution was based on the maximum keratometry (Kmax) value: 43–47 D, 7.2 J/cm2; 48–52 D, 10 J/cm2; and ≥52 D, 15 J/cm2 with treatment times of 8:00, 11:07 and 16:40 min, respectively.",0,0,0,0,0,0,0,0,0,0,0
+32,The machine software used in the present study involved an eye tracker to ascertain a proper centration of the treatment zones in relation to the pupil.,0,0,0,0,0,0,0,0,0,0,0
+33,Cyclotorsion was adjusted for manually before starting the treatment.,0,0,0,0,0,0,0,0,0,0,0
+34,A computer-generated list of the numbers 1–50 in random order was used for randomisation.,0,0,0,0,0,0,0,0,0,0,0
+35,Patients were included in running numbers according to the list; an even number was treated with CXL and an odd number with PiXL.,0,0,0,0,0,0,0,0,0,0,0
+36,"If both eyes of a patient were included (n=13), the second eye always received the other treatment.",0,0,0,0,0,0,0,0,0,0,0
+37,Inclusion required a diagnosis of progressive keratoconus with a minimum corneal thickness of 400 µm at the thinnest point after epithelial removal.,0,0,0,0,0,0,0,0,0,0,0
+38,"The keratoconus diagnosis was based on the Amsler-Krumeich grading and the ‘Total Deviation’ keratoconus quantification value from the ‘Belin-Ambrosio enhanced ectasia’ measurements of the Pentacam HR, plus an altered red reflex and/or distortion of the keratometric mires.",0,0,0,0,0,0,0,0,0,0,0
+39,"Disease progression was verified by increasing corneal steepness (increase in Kmax of ≥1 D in 1 year) and/or thinning of the cornea on repeated Scheimpflug tomography measurements in 41 eyes; in 9 eyes, the progression was verified by increasing keratometric astigmatism and corneal steepness and decreasing best-spectacle-corrected visual acuity.",0,0,0,0,0,0,0,0,0,0,0
+40,"Exclusion criteria were age under 12, a history of corneal disease such as herpes simplex, significant corneal scarring, pregnancy or lactation, nystagmus or other conditions precluding a steady gaze, conditions that could interfere with epithelial healing, vitamin C supplements within 1 week of the treatment and a history of previous corneal surgery or cognitive insufficiency interfering with the informed consent.",0,0,0,0,0,0,0,0,0,0,0
+41,"Data were collected at baseline and at 1, 3, 6 and 12 months.",0,0,0,0,0,0,0,0,0,0,0
+42,"The examinations included subjective refraction, determination of uncorrected visual acuity (UCVA) and best-corrected visual acuity (BSCVA) using the logarithm of the minimum angle of resolution (logMAR) fast protocol, assessment of the intraocular pressure (IOP) with Goldmann applanation tonometry and keratometry readings (K1, K2 and Kmax).",0,0,0,0,0,0,0,0,0,0,0
+43,"In the PiXL group, the ‘True Net Power’ feature of the Pentacam HR was used to determine the total corneal power in a 1 mm zone centred at the point of maximum irradiation (Pmax) and at a 1 mm zone 180° from Pmax, at the same distance from the visual axis (Pmin).",0,0,0,0,0,0,0,0,0,0,0
+44,"For comparison, corresponding points were also measured in the CXL-treated corneas.",0,0,0,0,0,0,0,0,0,0,0
+45,"Similarly, the maximum corneal densitometry values (corneal light backscatter), expressed as standardised grey scale units (GSUs)) were also assessed at Pmax and Pmin in all treated corneas using the Pentacam HR.",0,0,0,0,0,0,0,0,0,0,0
+46,"Central corneal endothelial photographs were taken with the Topcon SP-2000P specular microscope (Topcon Europe, Capelle a/d Ijssel, the Netherlands), and the corneal endothelial morphology was calculated from a cluster of 55 cells from each photograph, as previously detailed.",0,0,0,0,0,0,0,0,0,0,0
+47,The choice of 55 cells per endothelium was based on a power analysis and was shown to detect a 5% difference in cell count between examinations (α=0.05; power=0.80).,0,0,0,0,0,0,0,0,0,0,0
+48,"The endothelial cell count, the hexagon shape factor (quantifying the deviation from the ideal hexagonal cell shape) and the degree of cell elongation were calculated.",0,0,0,0,0,0,0,0,0,0,0
+49,Student's paired or unpaired t-tests were used for statistical comparisons as appropriate.,0,0,0,0,0,0,0,0,0,0,0
+50,Correlations were assessed with Pearson's correlations.,0,0,0,0,0,0,0,0,0,0,0
+51,A p value of <0.05 was considered statistically significant.,0,0,0,0,0,0,0,0,0,0,0
+52,Two patients randomised to CXL did not accept treatment and were excluded.,0,0,0,1,1,0,0,1,0,1,1
+53,"Thus, 25 eyes from 25 patients in the PiXL group and 23 eyes from 23 patients in the CXL group underwent treatment.",0,0,0,1,1,0,0,1,0,1,1
+54,"Thirteen patients were bilaterally treated, with PiXL in one eye and CXL in the other (see above).",0,0,0,1,1,0,0,1,0,1,1
+55,"At 1 month, two patients in the PiXL group and one in the CXL group missed their return visit; at 3 months one patient in the CXL group, at 6 months one patient in each group and at 12 months one patient in the CXL group missed their visits.",0,0,0,1,1,0,0,1,0,1,1
+56,Table 1 shows the changes in refractive errors after the two treatments.,0,0,0,0,0,0,0,0,0,0,0
+57,The groups were similar regarding all the refractive variables at baseline.,0,0,0,0,0,0,0,0,0,0,0
+58,"UCVA and BSCVA improved, the myopic refractive error decreased, the spherical equivalent increased and a corneal flattening was seen with decreases in K2 and Kmax at 3–12 months after PiXL.",0,0,0,0,0,0,0,0,0,0,0
+59,"After CXL, stabilisation but no visual or refractive improvements were seen.",0,0,0,0,0,0,0,0,0,0,0
+60,The decreases in UCVA and BSCVA seen after CXL at 1 month were not seen after PiXL.,0,0,0,0,0,0,0,0,0,0,0
+61,Changes in refractive errors and keratometry readings after photorefractive intrastromal crosslinking (PiXL) and corneal collagen crosslinking (CXL),0,0,0,0,0,0,0,0,0,0,0
+62,"The decrease in Kmax at 12 months was significantly correlated to the baseline Kmax values in PiXL (R=−0.66; p=0.00; figure 1), but not in CXL (R=−0.16; p=0.38; figure 1).",0,0,0,0,0,0,0,0,0,0,0
+63,"In the PiXL eyes treated with 15 J/cm2, the reduction in Kmax at 12 months was larger than in the PiXL eyes treated with 7.2–10 J/cm2 (−1.74±1.66 D vs −0.40±0.53 D; p=0.01).",0,0,0,0,0,0,0,0,0,0,0
+64,The change in Kmax at 12 months (Y axis) plotted against the baseline Kmax value (X axis).,0,0,0,0,0,0,0,0,0,0,0
+65,"In photorefractive intrastromal crosslinking-treated eyes (dark dots), there is a significant negative correlation (R=−0.66; p=0.00), but not in corneal collagen crosslinking-treated eyes (white dots; R=−0.16; p=0.38).",0,0,0,0,0,0,0,0,0,0,0
+66,"After PiXL, an inferior flattening in the Pmax zone and a superior steepening in the Pmin were noted from 3 months and on (table 1).",0,0,0,0,0,0,0,0,0,0,0
+67,No similar changes were seen after CXL.,0,0,0,0,0,0,0,0,0,0,0
+68,"After PiXL, the change in true net power in Pmin was inversely correlated to the change in true net power in Pmax at 12 months (R=−0.87; p=0.00), whereas after CXL, a direct correlation between the changes in Pmin and Pmax was seen (R=0.54; p=0.00).",0,0,0,0,0,0,0,0,0,0,0
+69,Figure 2 exemplifies this difference in refractive outcome between PiXL and CXL.,0,0,0,0,0,0,0,0,0,0,0
+70,Differential topography of the right and left eyes of the same individual at 12 months post treatment.,0,0,0,0,0,0,0,0,0,0,0
+71,"The right eye was treated with photorefractive intrastromal crosslinking (PiXL), the left with corneal collagen crosslinking (CXL).",0,0,0,0,0,0,0,0,0,0,0
+72,"Note the decreased inferior steepness (negative values) and increased superior steepness (positive values) in the PiXL-treated eye, and a more symmetrical decrease in steepness in the CXL-treated eye.",0,0,0,0,0,0,0,0,0,0,0
+73,"OD, oculus dexter; OS, oculus sinister.",0,0,0,0,0,0,0,0,0,0,0
+74,"In PiXL-treated eyes, the maximum corneal densitometry increase in the Pmax zone was significantly larger than after CXL from 3 to 6 months, but not in the Pmin zone, meaning that the PiXL treatment rendered an asymmetrical pattern of densitometry increase (figure 3 and table 2).",0,0,0,0,0,0,0,0,0,0,0
+75,"Changes in intraocular pressure values, corneal densitometry and corneal endothelial morphometry after photorefractive intrastromal crosslinking (PiXL) and corneal collagen crosslinking (CXL)",0,0,0,0,0,0,0,0,0,0,0
+76,"Individual photorefractive intrastromal crosslinking treatment plan (left); the larger area was treated with 5.4 J/cm2 and the smaller, inner area with 10 J/cm2.",0,0,0,0,0,0,0,0,0,0,0
+77,"To the right, a map of maximum densitometry 3 months after treatment is shown.",0,0,0,0,0,0,0,0,0,0,0
+78,Note the increased densitometry in the treated zone.,0,0,0,0,0,0,0,0,0,0,0
+79,The measured IOP increased after both treatments (table 2).,0,0,0,0,0,0,0,0,0,0,0
+80,"The endothelial morphometry showed no detectable endothelial cell loss after either treatment, and the other morphometric variables assessed were also unaltered throughout the follow-up (table 2).",0,0,0,0,0,0,0,0,0,0,0
+81,"We here show that in progressive keratoconus an individualised, asymmetric topography-guided corneal crosslinking treatment regimen gives better refractive and visual outcomes at 12 months than a standardised crosslinking regimen.",0,0,0,1,1,0,0,1,0,1,1
+82,The asymmetric treatment effect in PiXL is verified by an inferior flattening and a superior steepening of the cornea.,0,0,0,0,0,0,0,0,0,0,0
+83,"On the contrary, a symmetrical treatment pattern (CXL in the present study) also gives a symmetrical treatment effect.",0,0,0,0,0,0,0,0,0,0,0
+84,"In accordance with our previous reports, this study shows that the increase in corneal densitometry relates to the CXL treatment effect, which is in alignment with recent in vivo confocal microscopy findings, where the phenomenon of light scattering is explained as an ‘indirect sign of CXL-induced stromal collagen compaction and remodeling’.",0,0,0,0,0,0,0,0,0,0,0
+85,"Accordingly, with an asymmetrical treatment pattern as in the present study, an increase in corneal densitometry is seen only where the cornea is crosslinked, but not outside the treatment zone.",0,0,0,0,0,0,0,0,0,0,0
+86,"Future evaluation of the PiXL regimen could involve, for example, monitoring of the demarcation line and epithelial mapping with optical coherence tomography, measurements that were not included in the present study.",0,0,0,0,0,0,0,0,0,0,0
+87,"In this study, patients with a wide range of keratoconus (KC) severity were included.",0,0,0,0,0,0,0,0,0,0,0
+88,"Differences between treatments may be more readily demonstrated if a study is limited to a certain stage of the disease, but, on the other hand, the present study design allowed us to demonstrate the advantages of an individualised treatment protocol.",0,0,0,0,0,0,0,0,0,0,0
+89,"The first weeks after a corneal crosslinking a transient deterioration in vision is often seen due to a transient corneal haze,19 in the present study quantified as increased corneal densitometry.",0,0,0,0,0,0,0,0,0,0,0
+90,"In this study, the UCVA and the BSCVA worsened at 1 month after CXL, but not after PiXL.",0,0,0,0,0,0,0,0,0,0,0
+91,"One possible explanation could be that the central part of the cornea is spared from irradiation in PiXL, which may lessen the post-treatment haze in the central optical zone.",0,0,0,0,0,0,0,0,0,0,0
+92,"In eyes treated with PiXL, comparatively high energy levels are delivered in the thinnest corneal area.",0,0,0,0,0,0,0,0,0,0,0
+93,"In this perspective, the treatment effect should be restricted to the anterior stromal volume.",0,0,0,0,0,0,0,0,0,0,0
+94,The short soaking time of 10 min and limited UVA irradiation times ranging from 8 to 16 min may have contributed to the safety of the treatment protocol.,0,0,0,0,0,0,0,0,0,0,0
+95,The minor improvements in Kmax and refractive errors after PiXL may not be noticed by the individual patient but our impression is that PiXL has a potential of reshaping the KC cornea to a higher degree than standard uniform CXL.,0,0,0,0,0,0,0,0,0,0,0
+96,"In their finite element model, Roy and Dupps previously found in silico that a customised cone-localised, variable-intensity treatment may render a more pronounced reshaping of the cornea with a greater flattening effect and reduced aberrations than a uniform 9 mm treatment.",0,0,0,0,0,0,0,0,0,0,0
+97,"In this respect, our in vivo findings—at least partially—confirm the in silico results.",0,0,0,0,0,0,0,0,0,0,0
+98,A more pronounced flattening in PiXL corneas treated with 15 J/cm2 suggests that the corneal crosslinking effect increases with higher irradiation power.,0,0,0,0,0,0,0,0,0,0,0
+99,"Our impression is that the improved refractive effects of PiXL with the present settings, although significant, are still insufficient in many cases.",0,0,0,0,0,0,0,0,0,0,0
+100,"However, the fact that 15 J/cm2 appears to be safe for the corneal endothelium may open up for further increase of the treatment effect.",0,0,0,0,0,0,0,0,0,0,0
+101,Such an approach could potentially augment the positive refractive effects from PiXL further.,0,0,0,0,0,0,0,0,0,0,0

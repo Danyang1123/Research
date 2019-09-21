@@ -1,0 +1,91 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,This study aimed to assess the efficacy and safety of atropine 0.5% eyedrops (ATE) for the treatment of children with low myopia (LM).,1,0,1,1,1,1,1,1,1,1,1
+1,"In this study, a total of 126 children with LM were randomly divided into an intervention group (administered 0.5% ATE) and a control group (administered a placebo), with 63 children in each group.",1,0,1,1,1,1,1,1,1,1,1
+2,"The outcome measurements were changes in the spherical equivalent (SE), and axial length (AL), as well as adverse events (AEs).",1,0,1,1,1,1,1,1,1,1,1
+3,"Compared with placebo, administration of 0.5% ATE led to less progression in LM, as measured by SE, and less increase in AL (<span class=""italic"">P</span> &lt; .01).",1,0,1,1,1,1,1,1,1,1,1
+4,"In addition, no serious AEs occurred in both the groups.",1,0,1,1,1,1,1,1,1,1,1
+5,About 0.5% ATE was efficacious and safe for controlling myopia in children with LM.,0,0,0,0,0,0,0,0,0,0,0
+6,1</span>.,0,0,0,0,0,0,0,0,0,0,0
+7,Introduction,0,0,0,0,0,0,0,0,0,0,0
+8,"Myopia is the most common ocular disorder among both children and adults, especially in children.<sup>[<a href=""#R1"">1</a>–<a href=""#R5"">5</a>]</sup> It is often associated with an increased risk of chorioretinal degeneration, retinal detachment, and other vision-threatening issues.<sup>[<a href=""#R6"">6</a>–<a href=""#R9"">9</a>]</sup> It was reported that approximately 27% of children in the primary school had myopia, and this figure increased to 73% in high school.<sup>[<a href=""#R10"">10</a>,<a href=""#R11"">11</a>]</sup> Presently, it has become a severe public health problem among the pediatric population worldwide.",0,0,0,0,0,0,0,0,0,0,0
+9,"Thus, effective therapies are urgently needed to halt its progression and reduce the burden of refractive error.",0,0,0,0,0,0,0,0,0,0,0
+10,"Although it has been reported that pirenzepine gel,<sup>[<a href=""#R12"">12</a>]</sup> contact lenses,<sup>[<a href=""#R13"">13</a>–<a href=""#R15"">15</a>]</sup> increased sunlight exposure, and outdoor activity<sup>[<a href=""#R16"">16</a>–<a href=""#R18"">18</a>]</sup> can decrease or even stop the progression, the results of their efficacies are disappointing.",0,0,0,0,0,0,0,0,0,0,0
+11,"According to previous studies, atropine appeared promising in decreasing the rate of myopic progression.<sup>[<a href=""#R19"">19</a>–<a href=""#R21"">21</a>]</sup> However, its effects varied among the studies because of the different concentrations of atropine used.",0,0,0,0,0,0,0,0,0,0,0
+12,"In this study, we aimed to explore the efficacy and safety of atropine 0.5% eyedrops (ATE) for the treatment of children with low myopia (LM).",0,0,0,0,0,0,0,0,0,0,0
+13,"We hypothesized that for treatment of children with LM, the effect of 0.5% ATE would be superior to the effect of placebo.",0,0,0,0,0,0,0,0,0,0,0
+14,2</span>.,0,0,0,0,0,0,0,0,0,0,0
+15,Methods,0,0,0,0,0,0,0,0,0,0,0
+16,2.1</span>.,0,0,0,0,0,0,0,0,0,0,0
+17,Study design,0,0,0,0,0,0,0,0,0,0,0
+18,This clinical trial was approved by the ethics committee of The People's Hospital of Yan’an and was conducted at The People's Hospital of Yan’an and Affiliated Hospital of Yan’an Medical University from January 2014 to December 2016.,0,0,0,0,0,0,0,0,0,0,0
+19,One hundred twenty-six eligible children were randomly divided into an intervention group or a control group at a ratio of 1:1.,0,1,0,0,0,0,0,0,0,0,0
+20,"Participants in the intervention group received 0.5% ATE, while those in the control group received placebo.",0,0,0,0,0,0,0,0,0,0,0
+21,Participants in both groups were administered eye drops once daily at night for a total duration of 1 year.,0,0,0,0,0,0,0,0,0,0,0
+22,2.2</span>.,0,0,0,0,0,0,0,0,0,0,0
+23,Patients,0,0,0,0,0,0,0,0,0,0,0
+24,"In this study, all participants met the following inclusion criteria: diagnosis of LM, defined as a spherical equivalent (SE) ranging from -0.50 to −2.00 diopters (D), as measured by cycloplegic autorefraction; age between 5 and 10 years; normal intraocular pressure (IOP; &lt;21 mm Hg); no treatments administered, including atropine eye drops within 1 month before enrollment in the study; and provision of informed consent before enrollment in the study.",0,0,0,0,0,0,0,0,0,0,0
+25,"However, participants were excluded if they had an abnormal binocular function or stereopsis, presence of any eye disease, existing or previously treated hemostatic disorders, history of treatment with contact lenses or any other therapies for myopia, systemic disease, or a history of allergy to atropine.",0,0,0,0,0,0,0,0,0,0,0
+26,2.3</span>.,0,0,0,0,0,0,0,0,0,0,0
+27,Randomization and blinding,0,0,0,0,0,0,0,0,0,0,0
+28,"The stratified randomization schedule was operated by a computerized number generated using SAS package (Version 9.1; SAS Institute Inc., Cary, NC).",0,0,0,0,0,0,0,0,0,0,0
+29,Each participant was randomly assigned to the intervention group or control group according to the randomization schedule.,0,1,0,0,0,0,0,0,0,0,0
+30,"The information of all assignments and its allocation were concealed in sequentially numbered, opaque, sealed envelopes.",0,0,0,0,0,0,0,0,0,0,0
+31,The participants and investigators were not informed whether a participant was assigned to the intervention or control group.,0,0,0,0,0,0,0,0,0,0,0
+32,We also blinded the outcome assessors and data analysts.,0,0,0,0,0,0,0,0,0,0,0
+33,2.4</span>.,0,0,0,0,0,0,0,0,0,0,0
+34,Intervention,0,0,0,0,0,0,0,0,0,0,0
+35,"The participants in the intervention group received 0.5% ATE (Shenyang Xing Ophthalmic Co., Ltd, Shenyang, China), while those in control group received placebo (vehicle eyedrops, Tears Naturale Free; Alcon, Fort Worth, TX).",0,0,0,0,0,0,0,0,0,0,0
+36,Participants in both groups were administrated once daily at night for a total of 1 year.,0,0,0,0,0,0,0,0,0,0,0
+37,The placebo eyedrops had similar labels and appearances as the ATE.,0,0,0,0,0,0,0,0,0,0,0
+38,2.5</span>.,0,0,0,0,0,0,0,0,0,0,0
+39,Outcome measurements,0,0,0,0,0,0,0,0,0,0,0
+40,"The primary outcome was the myopic progression, measured by a change in SE.",0,0,0,0,0,0,0,0,0,0,0
+41,"The secondary outcome included axial length (AL) elongation, measured by AL.",0,0,0,0,0,0,0,0,0,0,0
+42,"In addition, any AEs related to the treatment were recorded to evaluate the safety.",0,0,0,0,0,0,0,0,0,0,0
+43,"For each participant, 1 eye alone was assessed: the eye with more severe myopia.",0,0,0,0,0,0,0,0,0,0,0
+44,2.6</span>.,0,0,0,0,0,0,0,0,0,0,0
+45,Statistical analysis,0,0,0,0,0,0,0,0,0,0,0
+46,"All data in this study were analyzed by the SAS 9.1 (SAS Institute Inc., Cary, NC).",0,0,0,0,0,0,0,0,0,0,0
+47,"Sample size was calculated on the basis of the difference in change of SE with α = 0.5, β = 0.8, and assuming a 15% drop-out rate.",0,0,0,0,0,0,0,0,0,0,0
+48,"Thus, the required sample size of this study was estimated to be 126 participants, 63 each group.",0,0,0,0,0,0,0,0,0,0,0
+49,"The continuous data were analyzed using <span class=""italic"">t</span> test or Mann–Whitney rank sum test.",0,0,0,0,0,0,0,0,0,0,0
+50,Categorical data were analyzed by Pearson Chi-square test or Fisher exact test.,0,0,0,0,0,0,0,0,0,0,0
+51,All data were analyzed by intention-to-treat (ITT).,0,0,0,0,0,0,0,0,0,0,0
+52,"The statistical significance level was set at <span class=""italic"">P</span> &lt; .05.",0,0,0,0,0,0,0,0,0,0,0
+53,3</span>.,0,0,0,0,0,0,0,0,0,0,0
+54,Results,0,0,0,0,0,0,0,0,0,0,0
+55,One hundred seventy-six participants were initially screened in this study (Fig.,0,0,0,0,0,0,0,0,0,0,0
+56,"<a href=""#F1"">1</a>).",0,0,0,0,0,0,0,0,0,0,0
+57,"Fifty-one participants were excluded because they did not meet the inclusion criteria (n = 33), met the exclusion criteria (n = 10), and declined to participate this study (n = 8).",0,0,0,0,0,0,0,0,0,0,0
+58,"Therefore, 126 children were randomly divided into the intervention group and control group, with each group having 63 participants.",0,0,0,0,0,0,0,0,0,0,0
+59,"Of those included participants, 17 were excluded because of the discontinue intervention (n = 12) and lost to contact (n = 5).",0,0,0,0,0,0,0,0,0,0,0
+60,"Thus, 109 participants completed all the treatment.",0,0,0,0,0,0,0,0,0,0,0
+61,"Fortunately, we used ITT approach to analyze all outcome data.",0,0,0,0,0,0,0,0,0,0,0
+62,"View larger version</a></span><span class=""fig-label"">Figure 1.",0,0,0,0,0,0,0,0,0,0,0
+63,</span>Flowchart of participants’ selection.,0,0,0,0,0,0,0,0,0,0,0
+64,"The characteristics of all participants in both groups are listed in Table <a href=""#T1"">1</a>.",0,0,0,0,0,0,0,0,0,0,0
+65,"There were no significant differences in age, race, ethnicity, sex, SE, and AL at baseline between the 2 groups (Table <a href=""#T1"">1</a>).",0,0,0,0,0,0,0,0,0,0,0
+66,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,0,0,0,0,0,0,0,0
+67,</span>Demographic characteristics at baseline.,0,0,0,0,0,0,0,0,0,0,0
+68,"The results of all outcome measurements are listed in Table <a href=""#T2"">2</a>.",0,0,0,0,0,0,0,0,0,0,0
+69,"All outcome measurements were recorded by the mean change from baseline [with a 95% confidence interval (95% CI)], and by the differences (with a 95% CI) between 2 groups, to evaluate the efficacy of 0.5% ATE (Table <a href=""#T2"">2</a>).",0,0,0,0,0,0,0,0,0,0,0
+70,"Compared with placebo, 0.5% ATE can reduce the myopic progression, as measured by SE (<span class=""italic"">P</span> &lt; .01) and AL elongation, as measured by AL (<span class=""italic"">P</span> &lt; .01) at every episode.",0,0,0,0,0,0,0,0,0,0,0
+71,"I n addition, no serious AEs, such as eyes itching and distention, occurred in any of the groups during the study period.",0,0,0,0,0,0,0,0,0,0,0
+72,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,0,0,0,0,0,0,0,0,0
+73,</span>Primary and secondary outcome measurements (change from baseline).,0,0,0,0,0,0,0,0,0,0,0
+74,4</span>.,0,0,0,0,0,0,0,0,0,0,0
+75,Discussion,0,0,0,0,0,0,0,0,0,0,0
+76,Previous studies have reported promising effects for ATE in treating children with myopia.,0,0,0,0,0,0,0,0,0,0,0
+77,"A clinical trial used 0.01% ATE for the treatment of children with myopia, and found that it significantly decreased the rate of myopic progression over 1 year with minimal side effects.<sup>[<a href=""#R22"">22</a>]</sup> However, such a low concentration (LC) of ATE may not control rapid myopic progression in some children.<sup>[<a href=""#R22"">22</a>]</sup> Another study evaluated LC ATE (0.05–0.1%) for the treatment of school children with myopia.<sup>[<a href=""#R23"">23</a>]</sup> The results demonstrated that long-term and regular administration of LC ATE was effective in controlling the progression of myopia.<sup>[<a href=""#R23"">23</a>]</sup> Another study focused on the use of high-concentration ATE (1%) in the treatment of Chinese children with LM, and found that it could either decrease the degree of LM or slow the progression of axial ocular elongation.<sup>[<a href=""#R24"">24</a>]",0,0,0,0,0,0,0,0,0,0,0
+78,"The results of this study are consistent with the previous studies.<sup>[<a href=""#R22"">22</a>–<a href=""#R24"">24</a>]</sup> In the present study, the myopic progression, as measured by SE, and AL elongation, as measured by AL, were significantly reduced for participants in the intervention group than for those in the control group.",0,0,0,0,0,0,0,0,0,0,0
+79,These results indicate the promising efficacy of 0.5% ATE for myopia control in participants with LM.,0,0,0,0,0,0,0,0,0,0,0
+80,"Further, no serious AEs were reported in any of the groups in this study.",0,0,0,0,0,0,0,0,0,0,0
+81,"Although this study demonstrated an encouraging efficacy for ATE in LM, it had several limitations.",0,0,0,0,0,0,0,0,0,0,0
+82,"First, this study recruited participants of the Han ethnicity alone; thus, its results may not be generalizable to other Chinese ethnicities.",0,0,0,0,0,0,0,0,0,0,0
+83,"Second, all participants were children with LM, and they received treatment for 1 year alone without any additional follow-up.",0,0,0,0,0,0,0,0,0,0,0
+84,"Thus, further studies should focus on longer treatment and follow-up durations.",0,0,0,0,0,0,0,0,0,0,0
+85,"Finally, this study did not estimate other confounding factors, including myopia in parents and outdoor time.",0,0,0,0,0,0,0,0,0,0,0
+86,5</span>.,0,0,0,0,0,0,0,0,0,0,0
+87,Conclusion,0,0,0,0,0,0,0,0,0,0,0
+88,The results of this study demonstrated that 0.5% ATE could effectively control the progression of LM in children.,0,0,0,0,0,0,0,0,0,0,0
+89,"However, future studies that focus on longer treatment and follow-up durations are required to confirm and build on the present results.",0,0,0,0,0,0,0,0,0,0,0
