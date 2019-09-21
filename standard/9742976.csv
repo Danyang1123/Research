@@ -1,0 +1,273 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"Improved blood-glucose control decreases the progression of diabetic microvascular disease, but the effect on macrovascular complications is unknown.",0,0,0,0,N,N,N,0,0,0,0
+1,There is concern that sulphonylureas may increase cardiovascular mortality in patients with type 2 diabetes and that high insulin concentrations may enhance atheroma formation.,0,0,0,0,N,N,N,0,0,0,0
+2,We compared the effects of intensive blood-glucose control with either sulphonylurea or insulin and conventional treatment on the risk of microvascular and macrovascular complications in patients with type 2 diabetes in a randomised controlled trial.,0,0,0,0,N,N,N,0,0,0,0
+3,"3867 newly diagnosed patients with type 2 diabetes, median age 54 years (IQR 48–60 years), who after 3 months' diet treatment had a mean of two fasting plasma glucose (FPG) concentrations of 6·1–15·0 mmol/L were randomly assigned intensive policy with a sulphonylurea (chlorpropamide, glibenclamide, or glipizide) or with insulin, or conventional policy with diet.",0,1,0,0,N,N,N,0,0,0,0
+4,The aim in the intensive group was FPG less than 6 mmol/L.,0,0,0,0,N,N,N,0,0,0,0
+5,"In the conventional group, the aim was the best achievable FPG with diet alone; drugs were added only if there were hyperglycaemic symptoms or FPG greater than 15 mmol/L.",0,0,0,0,N,N,N,0,0,0,0
+6,"Three aggregate endpoints were used to assess differences between conventional and intensive treatment: any diabetes-related endpoint (sudden death, death from hyperglycaemia or hypoglycaemia, fatal or non-fatal myocardial infarction, angina, heart failure, stroke, renal failure, amputation [of at least one digit], vitreous haemorrhage, retinopathy requiring photocoagulation, blindness in one eye, or cataract extraction); diabetes-related death (death from myocardial infarction, stroke, peripheral vascular disease, renal disease, hyperglycaemia or hypoglycaemia, and sudden death); all-cause mortality.",0,0,0,0,N,N,N,0,0,0,0
+7,Single clinical endpoints and surrogate subclinical endpoints were also assessed.,0,0,0,0,N,N,N,0,0,0,0
+8,All analyses were by intention to treat and frequency of hypoglycaemia was also analysed by actual therapy.,0,0,0,0,N,N,N,0,1,0,0
+9,"Over 10 years, haemoglobin A1c (HbA1c) was 7·0% (6·2–8·2) in the intensive group compared with 7·9% (6·9–8·8) in the conventional group—an 11% reduction.",0,0,0,0,N,N,N,0,0,0,0
+10,There was no difference in HbA1c among agents in the intensive group.,0,0,0,0,N,N,N,0,0,0,0
+11,"Compared with the conventional group, the risk in the intensive group was 12% lower (95% CI 1–21, p=0·029) for any diabetes-related endpoint; 10% lower (−11 to 27, p=0·34) for any diabetes-related death; and 6% lower (−10 to 20, p=0·44) for all-cause mortality.",0,0,0,0,N,N,N,0,0,0,0
+12,"Most of the risk reduction in the any diabetes-related aggregate endpoint was due to a 25% risk reduction (7–40, p=0·0099) in microvascular endpoints, including the need for retinal photocoagulation.",0,0,0,0,N,N,N,0,0,0,0
+13,"There was no difference for any of the three aggregate endpoints between the three intensive agents (chlorpropamide, glibenclamide, or insulin).",0,0,0,0,N,N,N,0,0,0,0
+14,Patients in the intensive group had more hypoglycaemic episodes than those in the conventional group on both types of analysis (both p<0·0001).,0,0,0,0,N,N,N,0,0,0,0
+15,"The rates of major hypoglycaemic episodes per year were 0·7% with conventional treatment, 1·0% with chlorpropamide, 1·4% with glibenclamide, and 1·8% with insulin.",0,0,0,0,N,N,N,0,0,0,0
+16,"Weight gain was significantly higher in the intensive group (mean 2·9 kg) than in the conventional group (p<0·001), and patients assigned insulin had a greater gain in weight (4·0 kg) than those assigned chlorpropamide (2·6 kg) or glibenclamide (1·7 kg).",0,0,0,0,N,N,N,0,0,0,0
+17,"Intensive blood-glucose control by either sulphonylureas or insulin substantially decreases the risk of microvascular complications, but not macrovascular disease, in patients with type 2 diabetes.",0,0,0,0,N,N,N,0,0,0,0
+18,None of the individual drugs had an adverse effect on cardiovascular outcomes.,0,0,0,0,N,N,N,0,0,0,0
+19,All intensive treatment increased the risk of hypoglycaemia.,0,0,0,0,N,N,N,0,0,0,0
+20,"Started in 1977, the UK Prospective Diabetes Study (UKPDS) was designed to establish whether, in patients with type 2 diabetes, intensive blood-glucose control reduced the risk of macrovascular or microvascular complications, and whether any particular therapy was advantageous.",0,0,0,0,N,N,N,0,0,0,0
+21,"Most intervention studies have assessed microvascular disease: improved glucose control has delayed the development and progression of retinopathy, nephropathy, and neuropathy in patients with type 1 diabetes and those with type 2 diabetes.",0,0,0,0,N,N,N,0,0,0,0
+22,"In the UK, 9% of patients with type 2 diabetes develop microvascular disease within 9 years of diagnosis, but 20% have a macrovascular complication—and macrovascular disease accounts for 59% of deaths in these patients.",0,0,0,0,N,N,N,0,0,0,0
+23,Epidemiological studies of the general population have shown an increased risk of cardiovascular disease with concentrations of fasting glucose or haemoglobin A1c (HbA1c) just above the normal range.,0,0,0,0,N,N,N,0,0,0,0
+24,"The only previous large-scale randomised trial in type 2 diabetes, the University Group Diabetes Program (UGDP), followed 1000 patients assigned different therapies for about 5·5 years (range 3–8 years) and found no evidence that improved glucose control, by any therapy, reduced the risk of cardiovascular endpoints.",0,0,0,0,N,N,N,0,0,0,0
+25,"That study did, however, report increased risk of cardiovascular mortality in patients allocated the sulphonylurea, tolbutamide, and this unexpected finding introduced new hypotheses.",0,0,0,0,N,N,N,0,0,0,0
+26,These hypotheses included increased myocardial damage from inhibition of ATP-K+ channel opening in the presence of myocardial ischaemia due to sulphonylurea binding to the cardiovascular SUR2 receptor—an event that could also increase the likelihood of ventricular arrhythmia.,0,0,0,0,N,N,N,0,0,0,0
+27,"An increase in atherosclerosis with insulin treatment has also been suggested, since plasma insulin concentrations are supraphysiological.",0,0,0,0,N,N,N,0,0,0,0
+28,"We report the final results of our study of intensive blood-glucose control policy, with sulphonylurea or insulin therapy, compared with conventional treatment policy with diet, on the risk of microvascular and macrovascular clinical complications.",0,0,0,0,N,N,N,0,0,0,0
+29,We also investigated whether there was any particular benefit or risk with sulphonylurea or insulin therapy.,0,0,0,0,N,N,N,0,0,0,0
+30,"Between 1977 and 1991, general practitioners in the catchment areas of the 23 participating UKPDS hospitals were asked to refer all patients with newly diagnosed diabetes aged 25–65 years.",0,0,0,0,N,N,N,0,0,1,1
+31,Patients generally attended a UKPDS clinic within 2 weeks of referral.,0,0,0,0,N,N,N,0,0,0,0
+32,"Patients who had a fasting plasma glucose (FPG) greater than 6 mmol/L on two mornings, 1–3 weeks apart, were eligible for the study.",0,0,0,0,N,N,N,0,0,0,0
+33,An FPG of 6 mmol/L was selected because this was just above the upper limit of normal for our reference range.,0,0,0,0,N,N,N,0,0,0,0
+34,"The exclusion criteria were: ketonuria more than 3 mmol/L; serum creatinine greater than 175 μmol/L; myocardial infarction in the previous year; current angina or heart failure; more than one major vascular event; retinopathy requiring laser treatment; malignant hypertension; uncorrected endocrine disorder; occupation that precluded insulin therapy (eg, driver of heavy goods vehicle); severe concurrent illness that would limit life or require extensive systemic treatment; inadequate understanding; and unwillingness to enter the study.",1,0,0,0,N,N,N,0,0,0,0
+35,7616 patients were referred and 5102 were recruited (58% male).,0,0,0,0,N,N,N,0,0,0,0
+36,"The 2514 patients excluded were similar in age, sex, and glycaemic status to those recruited.",0,0,0,0,N,N,N,0,0,0,0
+37,"The study design and protocol amendments, which conform with the guidelines of the Declarations of Helsinki (1975 and 1983), were approved by the Central Oxford Research Ethics Committee and by the equivalent committees at each centre.",0,0,0,0,N,N,N,0,0,0,0
+38,Each patient gave informed witnessed consent.,0,0,0,0,N,N,N,0,0,0,0
+39,Patients had a 3-month dietary run-in during which they attended a monthly UKPDS clinic and were seen by a physician and dietician.,0,0,0,0,N,N,N,0,0,0,0
+40,"The patients were advised to follow diets that were low saturated fat, moderately high fibre and had about 50% of calories from carbohydrates; overweight patients were advised to reduce energy content.",0,0,0,0,N,N,N,0,0,0,0
+41,"After the run-in, a mean FPG was calculated from measurements on 3 days over 2 weeks.",0,0,0,0,N,N,N,0,0,0,0
+42,"Marked hyperglycaemia was defined as FPG greater than 15 mmol/L, symptoms of hyperglycaemia, or both, in the absence of intercurrent illness.",0,0,0,0,N,N,N,0,0,0,0
+43,Hyperglycaemic symptoms included thirst and polyuria.,0,0,0,0,N,N,N,0,0,0,0
+44,The flow of patients in the study is shown in figure 1.,0,0,0,0,N,N,N,0,0,0,0
+45,Patients were stratified by ideal bodyweight (overweight was >120% ideal bodyweight).,0,0,0,0,N,N,N,0,0,0,0
+46,"Non-overweight patients were randomly assigned intensive treatment with insulin (30%), intensive treatment with sulphonylurea (40%: equal proportions in the first 15 centres to chlorpropamide or glibenclamide, and in the last eight centres to chorpropamide or glipizide), or conventional treatment with diet (30%).",0,0,0,0,N,N,N,0,0,0,0
+47,The non-balanced randomisation was chosen so that there were sufficient patients in the two sulphonylurea groups to allow comparison between the first-generation and second-generation drugs.,0,0,0,0,N,N,N,0,0,0,0
+48,"Overweight patients were randomly assigned treatment with the additional possibility of metformin: intensive treatment with insulin (24%), intensive treatment with sulphonylurea with equal proportions of patients on chlorpropamide and glibenclamide (32%), intensive treatment with metformin (20%), and conventional treatment with diet (24%).",0,0,0,0,N,N,N,0,0,0,0
+49,"The 342 overweight patients who were randomly allocated metformin therapy are reported separately, as intended per protocol.",0,0,0,0,N,N,N,0,0,0,0
+50,"Randomisation was by means of centrally produced, computer-generated therapy allocations in sealed, opaque envelopes which were opened in sequence.",0,0,0,0,N,N,N,0,0,0,0
+51,"The numerical sequence of envelopes used, the dates they were opened, and the therapies stipulated were monitored.",0,0,0,0,N,N,N,0,0,0,0
+52,The trial was open once patients were randomised.,0,0,0,0,N,N,N,0,0,0,0
+53,No placebo treatments were given.,0,0,0,0,N,N,N,0,0,0,0
+54,The aim in this group was to maintain FPG below 15 mmol/L without symptoms of hyperglycaemia.,0,0,0,0,N,N,N,0,0,0,0
+55,Patients attended UKPDS clinics every 3 months and received dietary advice from a dietician with the aim of maintaining near-normal bodyweight.,0,0,0,0,N,N,N,0,0,0,0
+56,"If marked hyperglycaemia or symptoms occurred, patients were secondarily randomised to treatment with sulphonylurea or insulin therapy, with the additional option of metformin in overweight patients; this was a separate stratified randomisation from the original randomisation, but with the same proportions allocated sulphonylurea and insulin.",0,0,0,0,N,N,N,0,0,0,0
+57,"If marked hyperglycaemia recurred in participants secondarily allocated sulphonylurea, metformin was added, and in those secondarily allocated metformin, glibenclamide was added.",0,0,0,0,N,N,N,0,0,0,0
+58,Patients with marked hyperglycaemia or symptoms on both agents were changed to insulin.,0,0,0,0,N,N,N,0,0,0,0
+59,"Throughout, the aim of FPG below 15 mmol/L without symptoms was maintained.",0,0,0,0,N,N,N,0,0,0,0
+60,Clinical centres were advised by automatically generated letters when patients allocated conventional treatment received inappropriate pharmacological therapy.,0,0,0,0,N,N,N,0,0,0,0
+61,"The aim of intensive treatment was FPG less than 6 mmol/L and, in insulin-treated patients, pre-meal glucose concentrations of 4–7 mmol/L.",0,0,0,0,N,N,N,0,0,0,0
+62,These patients also continued to receive dietary advice from a dietician.,0,0,0,0,N,N,N,0,0,0,0
+63,The daily doses of the sulphonylureas used were: chlorpropamide 100–500 mg; glibenclamide 2·5–20 mg; and glipizide 2·5–40 mg.,0,0,0,0,N,N,N,0,0,0,0
+64,"Whenever glucose concentrations were above target concentrations, a letter was sent from the coordinating center with advice on necessary changes in therapy.",0,0,0,0,N,N,N,0,0,0,0
+65,"Patients assigned insulin started on once daily ultralente insulin (Ultratard HM, Novo-Nordisk, Crawley, UK or Humulin Zn, Eli-Lilly, Basingstoke, UK) or isophane insulin.",0,0,0,0,N,N,N,0,0,0,0
+66,"If the daily dose was more than 14 units (U) or pre-meal or bed-time home bloodglucose measurements were more than 7 mmol/L, a short-acting insulin, usually soluble (regular) insulin was added—ie, basal/bolus regimen.",0,0,0,0,N,N,N,0,0,0,0
+67,"Patients on more than 14 U insulin per day, or on short-acting insulins, were particularly encouraged to do regular home-glucose monitoring.",0,0,0,0,N,N,N,0,0,0,0
+68,"The original protocol for the first 15 centres stipulated that patients continue their assigned treatment (diet, chlorpropamide, glibenclamide, metformin, or insulin) for as long as possible to achieve maximum exposure to each therapy alone and thus find out whether there were differences in response to each agent.",0,0,0,0,N,N,N,0,0,0,0
+69,"Additional therapies were added to those allocated to diet, sulphonylurea, or metformin only when marked hyperglycaemia developed.",0,0,0,0,N,N,N,0,0,0,0
+70,"For patients on sulphonylureas, metformin was added; but if marked hyperglycaemia recurred, patients were changed to insulin therapy.",0,0,0,0,N,N,N,0,0,0,0
+71,Metformin was used to a maximum of 2550 mg per day.,0,0,0,0,N,N,N,0,0,0,0
+72,"When the progressive hyperglycaemia in all groups became apparent, the protocol was amended to allow the early addition of metformin when, on maximum doses of sulphonylurea, FPG was greater than 6 mmol/L in symptomless patients in the intensive group.",0,0,0,0,N,N,N,0,0,0,0
+73,Patients were changed to insulin therapy if marked hyperglycaemia recurred.,0,0,0,0,N,N,N,0,0,0,0
+74,"When the last eight centres were recruited in 1988, patients allocated sulphonylurea had insulin added early, rather than metformin, when on maximum doses of sulphonylurea FPG was greater than 6 mmol/L.",0,0,0,0,N,N,N,0,0,0,0
+75,1148 UKPDS patients were in the Hypertension in Diabetes Study (HDS).,0,0,0,0,N,N,N,0,0,0,0
+76,"This study, which started in 1987, randomly allocated hypertensive patients to a tight blood-pressure-control treatment that aimed for a blood pressure of 150/85 mm Hg or lower with either captopril or atenolol or, to a less tight bloodpressure- control treatment that aimed for a blood pressure of 180/105 mm Hg or lower but avoided the use of captopril and atenolol.",0,0,0,0,N,N,N,0,0,0,0
+77,"The UKPDS Acarbose Study started in 1994 and randomly allocated 1946 patients to additional double-blind, placebo-controlled therapy with acarbose for 3 years— irrespective of their blood-glucose and blood-pressure control allocations.",0,0,0,0,N,N,N,0,0,0,0
+78,Patients attended morning clinics every 3 months or more frequently as needed to attain glycaemic control.,0,0,0,0,N,N,N,0,0,0,0
+79,"From 1990, the routine clinic visits were every 4 months.",0,0,0,0,N,N,N,0,0,0,0
+80,"Patients fasted from 2200 h the night before for plasma glucose and other biochemical measurements, and did not take their allocated treatment on the morning of the clinic visit.",0,0,0,0,N,N,N,0,0,0,0
+81,"At each visit plasma glucose, blood pressure, and weight were measured, and therapy was adjusted if necessary.",0,0,0,0,N,N,N,0,0,0,0
+82,"From a checklist we asked about all medications, hypoglycaemic episodes, home blood-glucose measurements, illness, time off work, admissions to hospital, general symptoms including any drug side-effects, and clinical events.",0,0,0,0,N,N,N,0,0,0,0
+83,"Hypoglycaemic episodes were defined as minor if the patient was able to treat the symptoms unaided, or major if third-party help or medical intervention was necessary.",0,0,0,0,N,N,N,0,0,0,0
+84,Details of all major hypoglycaemic episodes were audited to ensure the coding was appropriate.,0,0,0,0,N,N,N,0,0,0,0
+85,"At entry, randomisation, 6 months, 1 year, and annually thereafter a fasting blood sample was taken for measurement of HbA1c, plasma creatinine (annually from 1989), triglyceride, total cholesterol, LDL-cholesterol, HDL-cholesterol, insulin, and insulin antibodies.",0,0,0,0,N,N,N,0,0,0,0
+86,"Every year, urinary albumin and creatinine were measured in a random urine sample.",0,0,0,0,N,N,N,0,0,0,0
+87,At entry and then every 3 years all patients had a full clinical examination.,0,0,0,0,N,N,N,0,0,0,0
+88,"At these reviews, a 12-lead electrocardiogram was recorded and Minnesota coded and a posterior-anterior chest radiograph taken for measurement of cardiac diameter.",0,0,0,0,N,N,N,0,0,0,0
+89,Doppler blood pressure was measured in both legs and in the right arm.,0,0,0,0,N,N,N,0,0,0,0
+90,Visual acuity was measured with a Snellen chart until 1989 and subsequently with an Early Treatment of Diabetic Retinopathy Study (ETDRS) chart.,0,0,0,0,N,N,N,0,0,0,0
+91,The best attainable vision was assessed with the patient's usual spectacles or with a pinhole.,0,0,0,0,N,N,N,0,0,0,0
+92,Direct ophthalmoscopy with pupil dilation was carried out every 3 years.,0,0,0,0,N,N,N,0,0,0,0
+93,"Since 1982, retinal colour 30° photographs of four fields per eye (nasal, disc, macula, and temporal-to-macula fields) were taken with additional stereo photographs of the macula; poor quality photographs were repeated.",0,0,0,0,N,N,N,0,0,0,0
+94,Two assessors at a single centre reviewed the photographs for diabetic retinopathy; any fields with retinopathy were graded by two other assessors by a modified ETDRS final scale.,0,0,0,0,N,N,N,0,0,0,0
+95,"Neuropathy was assessed clinically by knee and ankle reflexes and by biothesiometer (Biomedical Instruments Co, Newbury, OH, USA) readings at the lateral malleolus and at the end of the big toe.",0,0,0,0,N,N,N,0,0,0,0
+96,"Autonomic neuropathy was assessed by: R-R intervals measured on electrocardiograms at expiration and inspiration on deep breathing for five cycles; change in R-R interval on standing; basal heart rate during deep breathing; lying and standing blood pressure; and, in men, self-reported erectile dysfunction.",0,0,0,0,N,N,N,0,0,0,0
+97,"These assessments, including visual acuity, grading of photographs, and Minnesota coding, were carried out by staff from whom the allocations and actual therapies were concealed.",0,0,1,0,N,N,N,0,0,0,0
+98,Methods have been reported previously.,0,0,0,0,N,N,N,0,0,0,0
+99,Plasma glucose analysers were monitored monthly in each clinical centre by the UKPDS Glucose Quality Assurance Scheme; the mean interlaboratory imprecision was 4% and values were within 0·1 mmol/L of those obtained by UK External Quality Assessment Scheme.,0,0,0,0,N,N,N,0,0,0,0
+100,"Plasma creatinine, urea, and urate were measured in the clinical chemistry laboratories at the clinical centres.",0,0,0,0,N,N,N,0,0,0,0
+101,"Blood, plasma and urine samples were transported overnight at 4°C to the central biochemistry laboratory for all other measurements.",0,0,0,0,N,N,N,0,0,0,0
+102,"HbA1c was measured by high-performance liquid chromatography (Biorad Diamat Automated Glycosylated Haemoglobin Analyser, Hemel Hempstead, UK), and the normal range is 4·5–6·2%.",0,0,0,0,N,N,N,0,0,0,0
+103,"By comparison with the US National Glycohemoglobin Standardization Program, HbA1c (UKPDS)=1·104 HbA1c (DCCT)−0·7336, (r=0·99, n=40).",0,0,0,0,N,N,N,0,0,0,0
+104,From 1988 urine albumin was measured by an immunoturbidimetric method (reference range 1·4–36·5 mg/L).,0,0,0,0,N,N,N,0,0,0,0
+105,"Microalbuminuria has been defined for this study as a urinary albumin concentration greater than 50 mg/L due to initial storage of urine samples at −20°C between 1979 and 1988, and clinical-grade proteinuria as urinary albumin concentrations greater than 300 mg/L.",0,0,0,0,N,N,N,0,0,0,0
+106,"Insulin was measured by double-antibody radioimmunoassay (Pharmacia RIA 100 Pharmacia Upjohn, Milton Keynes, UK) with 100% cross-reaction to intact proinsulin and 25% to 32/33 split proinsulin.",0,0,0,0,N,N,N,0,0,0,0
+107,21 clinical endpoints were predefined in the study protocol in 1981 and are listed later.,0,0,0,0,N,N,N,0,0,0,0
+108,"Particular disorders were defined: myocardial infarction by WHO clinical criteria with electrocardiogram/enzyme changes or new pathological Q wave; angina by WHO clinical criteria and confirmed by a new electrocardiogram abnormality or positive exercise test; heart failure (not associated with myocardial infarction), by clinical symptoms confirmed by Kerley B lines, râles, raised jugular venous pressure, or third heart sound; major stroke by symptoms or signs for 1 month or longer; limb amputation as amputation of at least one digit; blindness in one eye by WHO criteria with Snellen-chart visual acuity of 6/60 or worse, or ETDRS logMAR 1·0 or worse, for 3 months; and renal failure by dialysis or plasma creatinine greater than 250 μmol/L not related to any acute intercurrent illness.",0,0,0,0,N,N,N,0,0,0,0
+109,The clinical decision for photocoagulation or cataract extraction was made by ophthalmologists independent of the trial.,0,0,0,0,N,N,N,0,0,0,0
+110,"Aggregate endpoints were defined by the Data-Monitoring and Ethics Committee in 1981 as time to the first occurrence of: any diabetes-related endpoint (sudden death, death from hyperglycaemia or hypoglycaemia, fatal or non-fatal myocardial infarction, angina, heart failure, stroke, renal failure, amputation [of at least one digit], vitreous haemorrhage, retinal photocoagulation, blindness in one eye, or cataract extraction); diabetes-related death (death from myocardial infarction, stroke, peripheral vascular disease, renal disease, hyperglycaemia or hypoglycaemia, and sudden death); all-cause mortality.",0,0,0,0,N,N,N,0,0,0,0
+111,These aggregates were used to assess the difference between conventional and intensive treatment.,0,0,0,0,N,N,N,0,0,0,0
+112,"To investigate differences among chlorpropamide, insulin, and glibenclamide, four additional clinical-endpoint aggregates were used: myocardial infarction (fatal and non-fatal) and sudden death; stroke (fatal and non-fatal); amputation or death due to peripheral vascular disease; and microvascular complications (retinopathy requiring photocoagulation, vitreous haemorrhage, and or fatal or non-fatal renal failure).",0,0,0,0,N,N,N,0,0,0,0
+113,"Subclinical, surrogate variables were assessed every 3 years.",0,0,0,0,N,N,N,0,0,0,0
+114,"The criteria were: for neuropathy—loss of both ankle or both knee reflexes or mean biothesiometer reading from both toes 25 V or greater; for autonomic neuropathy—R-R interval less than the age-adjusted normal range (a ratio <1·03 of the longest R-R interval at approximately beat 30 to the shortest at approximately beat 15); for orthostatic hypotension—systolic fall of 30 mm Hg or more, or diastolic fall of 10 mm Hg or more; and for impotence—no ejaculation or erection.",1,0,0,0,N,N,N,0,0,0,0
+115,"Retinopathy was defined as one microaneurysm or more in one eye or worse retinopathy, and progression of retinopathy as a two-step change in grade.",0,0,0,0,N,N,N,0,0,0,0
+116,"Poor visual acuity was: logMAR more than 0·3 (unable to drive a car), more than 0·7 (US definition of blindness), and logMAR 1·0 or greater (WHO definition of blindness).",0,0,0,0,N,N,N,0,0,0,0
+117,Deterioration of vision was defined as a three-line deterioration in reading an ETDRS chart.,0,0,0,0,N,N,N,0,0,0,0
+118,Ischaemic heart disease by Minnesota coding was either WHO grade 1 (possible coronary heart disease) or grade 2 (probable coronary heart disease).,0,0,0,0,N,N,N,0,0,0,0
+119,Left-ventricular hypertrophy was a cardiothoracic ratio 0·5 or greater.,0,0,0,0,N,N,N,0,0,0,0
+120,"The study closed on Sept 30, 1997.",0,0,0,0,N,N,N,0,0,0,0
+121,"All available information for each endpoint, such as admission notes, operation records, death certificates, and necropsy reports, were gathered.",0,0,0,0,N,N,N,0,0,0,0
+122,"The file, with no reference to assigned or actual therapy, was reviewed independently by two physicians who assigned appropriate International Classification of Disease—9 codes.",0,0,0,0,N,N,N,0,0,0,0
+123,Any disagreements between the two assessors were discussed and the evidence reviewed; if agreement was not possible the file was submitted to two different assessors for final arbitration.,0,0,0,0,N,N,N,0,0,0,0
+124,"When the UKPDS started in the late 1970s, it was thought that improved blood-glucose control might reduce the incidence of diabetes-related endpoints by 40%.",0,0,0,0,N,N,N,0,0,0,0
+125,This seemed reasonable since the risk of cardiovascular events in patients with diabetes is at least twice that of people with normal glucose tolerance and microvascular complications do not occur in the normoglycaemic population.,0,0,0,0,N,N,N,0,0,0,0
+126,"The first three aggregate endpoints were defined and, for death and major cardiovascular events (the stopping criteria), the original power calculation to find a 40% difference between the intensive and conventional groups was a sample size of 3600 with 81% power at the 1% level of significance.",0,0,0,0,N,N,N,0,0,0,0
+127,"However, by 1987 no risk reduction was seen in any of these aggregates and it became obvious a 40% advantage was unlikely to be obtained.",0,0,0,0,N,N,N,0,0,0,0
+128,The publication of other intervention studies of chronic diseases in the mid 1980s suggested that a more realistic goal would be a difference of 15%.,0,0,0,0,N,N,N,0,0,0,0
+129,"Accordingly, the study was extended to include randomisation of 3867 patients with a median time from randomisation of 11 years to the end of the study in 1997.",0,0,0,0,N,N,N,0,0,0,0
+130,"In 1992, at the 1% level of significance, the power for any diabetes-related endpoint and for diabetesrelated death was calculated as 81% and 23%, respectively.",0,0,0,0,N,N,N,0,0,0,0
+131,"There was the same proportion of patients in the non-overweight and overweight stratifications assigned intensive and conventional treatment, and, within the intensive group, sulphonylurea or insulin treatment, and thus the non-overweight and overweight patients are analysed together.",0,0,0,0,N,N,N,0,0,0,0
+132,The 3876 patients from all 23 centres were included in the analyses of conventional and intensive treatment.,0,0,0,0,N,N,N,0,0,0,0
+133,"The analysis among chlorpropamide, glibenclamide, or insulin in the intensive group used only 3041 patients from the first 15 centres where patients had remained for longer periods on monotherapy until marked hyperglycaemia occurred.",0,0,0,0,N,N,N,0,0,1,0
+134,Intention-to-treat analysis was used to compare outcomes between the intensive and conventional treatment groups and between the patients on conventional treatment and those on each of the intensive treatment agents.,0,0,0,0,N,N,N,0,0,0,0
+135,All analyses of significance were two-sided (2p).,0,0,0,0,N,N,N,0,0,0,0
+136,Life-table analyses were done with log-rank tests.,0,0,0,0,N,N,N,0,0,0,0
+137,"Hazard ratios, used to estimate relative risks, were obtained from Cox proportionalhazards models.",0,0,0,0,N,N,N,0,0,0,0
+138,"In the text, the relative risks are quoted in terms of risk reduction.",0,0,0,0,N,N,N,0,0,0,0
+139,"For the clinical endpoint aggregates, 95% CI are quoted.",0,0,0,0,N,N,N,0,0,0,0
+140,For single endpoints and surrogate variables 99% CI are given to make allowance for potential type I errors.,0,0,0,0,N,N,N,0,0,0,0
+141,"Mean (SD), geometric mean (1SD interval), or median (IQR) have been quoted for the biometric and biochemical variables, with Wilcoxon, t test, or χ2 for comparison tests.",0,0,0,0,N,N,N,0,0,0,1
+142,Risk reductions for categorical variables were derived from relative risks obtained from frequency tables.,0,0,0,0,N,N,N,0,0,0,0
+143,Survival-function estimates were calculated by the product-limit (Kaplan-Meier) method.,0,0,0,0,N,N,N,0,0,0,0
+144,"Yearly averaged data for weight and FPG were calculated as the median of three consecutive visits for each patient—ie, the annual visit, and the 3 month visit before and after this.",0,0,0,0,N,N,N,0,0,0,0
+145,HbA1c data were from the annual assessment but overall values for HbA1c during a period were the median for each patient for each allocation.,0,0,0,0,N,N,N,0,0,0,0
+146,Glucose control and HbA1c were assessed both cross-sectionally and in the cohort with 10 years' follow-up.,0,0,0,0,N,N,N,0,0,0,0
+147,Urine albumin was assessed in mg/L with no adjustment for urine creatinine concentration.,0,0,0,0,N,N,N,0,0,0,0
+148,Data for albuminuria at the triennial visit were the median of that year and the years before and after.,0,0,0,0,N,N,N,0,0,0,0
+149,Hypoglycaemic episodes in each year were analysed both by intention to treat and by actual therapy.,0,0,0,0,N,N,N,0,0,0,0
+150,The Data-monitoring and Ethics Committee reviewed the endpoint analyses every 6 months to decide whether to stop or modify the study according to predetermined guidelines.,0,0,0,0,N,N,N,0,0,0,0
+151,These guidelines included a difference of 3 SD or more by log-rank test in the three aggregate endpoints between intensive and conventional blood-glucose control groups.,0,0,0,0,N,N,N,0,0,0,0
+152,The stopping criteria were not attained.,0,0,0,0,N,N,N,0,0,0,0
+153,Background and biochemical data,0,0,0,0,N,N,N,0,0,0,0
+154,"4763 (93%) of 5102 patients had mean FPG of 7·0 mmol/L or more (American Diabetes Association criteria), and 4396 (86%) of 5102 had values greater than 7·8 mmol/L (WHO criteria).",0,0,0,0,N,N,N,1,0,0,0
+155,Baseline characteristics of the 3867 patients assigned conventional or intensive treatment are given in table 1.,0,0,0,1,N,N,N,0,0,0,0
+156,The baseline characteristics of the 3041 patients in the comparison of conventional treatment with each of the three intensive agents are in table 2.,0,0,0,1,N,N,N,0,0,0,0
+157,Baseline characteristics of patients in conventional and intensive-treatment groups,0,0,0,1,N,N,N,0,0,0,0
+159,The median follow-up for endpoint analyses was 10·0 years (IQR 7·7–12·4).,0,0,0,0,N,N,N,0,0,0,0
+160,The median follow-up for the comparison of conventional treatment with each of the three intensive agents was 11·1 years (9·0–13·0).,0,0,0,0,N,N,N,0,0,0,0
+161,The percentage of total person-years for which the assigned or other therapies were taken in the conventional or intensive groups are shown in table 3.,0,0,0,0,N,N,N,0,0,0,0
+162,Person-years of follow-up on assigned and actual therapies for first 15 and all centres,0,0,0,0,N,N,N,0,0,0,0
+163,"At the end of the trial, the vital status of 76 (2·0%) patients who had emigrated was not known; 57 and 19 in intensive and conventional groups, respectively, which reflects the 70/30 randomisation.",0,0,0,0,N,N,N,0,0,0,0
+164,A further 91 (2·4%) patients (65 in the intensive group) could not be contacted in the last year of the study for assessment of clinical endpoints.,0,0,0,0,N,N,N,0,0,0,0
+165,The corresponding numbers for comparison of the individual intensive agents were 69 (2·7%) emigrated and 63 (2·1%) not contactable.,0,0,0,0,N,N,N,0,0,0,0
+166,"In the conventional group, the FPG and HbA1c increased steadily over 10 years from randomisation in both the cohort study of 461 patients and in the cross-sectional data at each year (figure 2).",0,0,0,0,N,N,N,0,0,0,0
+167,"In the intensive group, there was an initial decrease in FPG and HbA1c in the first year, both in the 10 year cohort of 1180 patients and in the cross-sectional data, with a subsequent increase similar to that in the conventional group (figure 2).",0,0,0,0,N,N,N,0,0,0,0
+168,A difference between the assigned groups in HbA1c was maintained throughout the study.,0,0,0,0,N,N,N,0,0,0,0
+169,"The median HbA1c values over 10 years were significantly lower in the intensive than in the conventional group (7·0% [6·2–8·2] vs 7·9% [6·9–8·8], p<0·0001).",0,0,0,0,N,N,N,0,0,0,0
+170,"Median HbA1c for 5-year periods of followup in the intensive and conventional groups were 6·6% (5·9–7·5) and 7·4% (6·4–8·5) for the first period, 7·5% (6·6–8·8) and 8·4% (7·2–9·4) for the second, and 8·1% (7·0–9·4) and 8·7% (7·5–9·7) for the third period (all p<0·0001).",0,0,0,0,N,N,N,0,0,0,0
+171,"Cross-sectional and 10-year cohort data for FPG, HbA1c, weight, and fasting plasma insulin in patients on intensive or conventional treatment",0,0,0,0,N,N,N,0,0,0,0
+172,"The median HbA1c values over 10 years with chlorpropamide (6·7%), glibenclamide (7·2%), and insulin (7·1%) were each significantly lower than that with conventional treatment (7·9%, p<0·0001).",0,0,0,0,N,N,N,0,0,0,0
+173,HbA1c was significantly lower in the chlorpropamide group than in the glibenclamide group (p=0·008) but neither differed from the insulin group (figure 3).,0,0,0,0,N,N,N,0,0,0,0
+174,"Cross-sectional and 10-year cohort data for FPG, HbA1c, weight, and fasting plasma insulin in patients on chlorpropamide, glibenclamide, or insulin, or conventional treatment",0,0,0,0,N,N,N,0,0,0,0
+175,"There was a significant increase in weight in the intensive group compared with the conventional group, by (mean) 3·1 kg (99% CI −0·9 to 7·0, p<0·0001) for the cohort at 10 years (figure 2).",0,0,0,0,N,N,N,0,0,0,1
+176,"Patients assigned either of the sulphonylureas gained more weight than the conventional group, whereas patients assigned insulin gained more weight than those assigned a sulphonylurea (figure 3).",0,0,0,0,N,N,N,0,0,0,0
+177,"In the cohort at 10 years, those assigned chlorpropamide gained 2·6 kg more (1·6–3·6, p<0·001); those assigned glibenclamide gained 1·7 kg more (0·7–2·7, p<0·001); and those assigned insulin gained 4·0 kg more (3·1–4·9, p<0·0001) than those assigned conventional therapy (figure 3).",0,0,0,0,N,N,N,0,0,0,0
+178,The cross-sectional data were similar to the cohort data.,0,0,0,0,N,N,N,0,0,0,0
+179,"Median fasting plasma insulin increased in the intensive group, and was 17·9 pmol/L (95% CI 0·5–35·3) greater than in the conventional group over the first 10 years (p<0·0001, figure 2).",0,0,0,0,N,N,N,0,0,0,0
+180,"Fasting plasma insulin in participants assigned to sulphonylureas increased more than in those in the conventional group over the first 3 years, and in those assigned to insulin this increase was even greater from 6 years as higher insulin doses were given (figure 3).",0,0,0,0,N,N,N,0,0,0,0
+181,"The median insulin doses at 3 years, 6 years, 9 years, and 12 years in patients assigned intensive treatment with insulin were 22 U (IQR 14–34), 28 U (18–45), 34 U (20–50), and 36 U (23–53), respectively.",0,0,0,0,N,N,N,0,0,0,0
+182,Median doses of insulin for patients with body-mass indices less than 25 kg/m2 and greater than 35 kg/m2 were 16 U (10–24) and 36 U (23–50) at 3 years; the corresponding doses were 24 U (14–36) and 60 U (40–82) at 12 years.,0,0,0,0,N,N,N,0,0,0,0
+183,The maximum insulin dose was 400 U per day.,0,0,0,0,N,N,N,0,0,0,0
+184,Systolic and diastolic blood pressure were significantly higher throughout the study in patients assigned chlorpropamide than in those assigned any of the other therapies.,0,0,0,0,N,N,N,0,0,0,0
+185,"For example, at 6 years' follow-up the mean blood pressure in the chlorpropamide group was 143/82 mm Hg compared with 138/80 mm Hg in each of the other allocations (p<0·001).",0,0,0,0,N,N,N,0,0,0,0
+186,"The proportion of patients on therapy for hypertension was higher among those assigned chlorpropamide (43%) than among those assigned conventional treatment, glibenclamide, or insulin (34%, 36%, and 38%, respectively; p=0·022).",0,0,0,0,N,N,N,0,0,0,0
+187,Aggregate and single endpoints,0,0,0,0,N,N,N,0,0,0,0
+188,"The number of patients who developed aggregate or single clinical endpoints in the intensive and conventional groups are shown in figure 4; similarly, figure 5 shows the comparison between the three intensive groups and conventional treatment.",0,0,0,0,N,N,N,0,0,0,0
+189,"Kaplan-Meier plots for any diabetes-related endpoint—ie, the complication-free interval—and diabetes-related deaths are shown in figure 6 and those for microvascular endpoints, myocardial infarction, and stroke in figure 7.",0,0,0,0,N,N,N,0,0,0,0
+190,Proportion of patients with aggregate and single endpoints by intensive and conventional treatment and relative risks,0,0,0,0,N,N,N,0,0,0,0
+191,Proportion of patients with aggregate and single endpoints by individual intensive treatment and conventional treatment and relative risks,0,0,0,0,N,N,N,0,0,0,0
+192,"Kaplan-Meier plots of aggregate endpoints: any diabetes-related endpoint and diabetes-related death for conventional or intensive treatment, and by individual intensive therapy",0,0,0,0,N,N,N,0,0,0,0
+193,"Kaplan-Meier plots of aggregate endpoints: microvascular disease, myocardial infarction, and stroke for intensive and conventional treatment and by individual intensive therapy",0,0,0,0,N,N,N,0,0,0,0
+194,"Microvascular disease=renal failure, death from renal failure, retinal photocoagulation, or vitreous haemorrhage.",0,0,0,0,N,N,N,0,0,0,0
+195,"Myocardial infarction=non-fatal, fatal, or sudden death.",0,0,0,0,N,N,N,0,0,0,0
+196,The number needed to treat to prevent one patient developing any of the single endpoints over 10 years was 19·6 patients (95% CI 10–500).,0,0,0,0,N,N,N,0,0,0,0
+197,"The complication-free interval, expressed as the follow-up to when 50% of the patients had at least one diabetes-related endpoint, was 14·0 years in the intensive group compared with 12·7 years in the conventional group (p=0·029).",0,0,0,0,N,N,N,0,0,0,0
+198,Patients assigned intensive treatment had a significant 25% risk reduction in microvascular endpoints (p=0·0099) compared with conventional treatment— most of which was due to fewer cases of retinal photocoagulation (figure 4): the reduction in risk was of borderline significance for myocardial infarction (p=0·052) and cataract extraction (p=0·046).,0,0,0,0,N,N,N,0,0,0,0
+199,There was no significant difference between the three intensive treatments on microvascular endpoints or the risk reduction for retinal photocoagulation (figure 5).,0,0,0,0,N,N,N,0,0,0,0
+200,"Few patients developed renal failure, died from renal disease, or had vitreous haemorrhage.",0,0,0,0,N,N,N,0,0,0,0
+201,"Figure 8 shows the proportion of patients with surrogate endpoints (two-step progression of retinopathy, biothesiometer threshold, microalbuminuria, proteinuria, and two-fold increase in plasma creatinine) found at 3-year visits.",0,0,0,0,N,N,N,0,0,0,0
+202,"After 6 years' follow-up, a smaller proportion of patients in the intensive group than in the conventional group had a two-step deterioration in retinopathy: this finding was significant even when retinal photocoagulation was excluded (data not shown).",0,0,0,0,N,N,N,0,0,0,0
+203,"When the three intensive treatments were compared, patients assigned chlorpropamide did not have the same risk reduction as those assigned glibenclamide or insulin (p=0·0056) for the progression of retinopathy at 12 years' follow-up, and adjustment for the difference in mean systolic or diastolic blood pressure by logistic regression analysis did not change this finding.",0,0,0,0,N,N,N,0,0,0,0
+204,Proportion of patients with selected surrogate endpoints at 3-year intervals,0,0,0,0,N,N,N,0,0,0,0
+205,There was no difference between conventional and intensive treatments in the deterioration of visual acuity with a mean ETDRS chart reduction of one letter per 3 years in each group.,0,0,0,0,N,N,N,0,0,0,0
+206,"At 12 years the proportion of patients blind in both eyes (logMAR>0·7) did not differ between the intensive and conventional groups (6/734 [0·8%]) vs 5/263 [1·9%], p=0·15).",0,0,0,0,N,N,N,0,0,0,0
+207,11% of patients in both groups did not have adequate vision for a driving licence (logMAR> 0·3 in both eyes).,0,0,0,0,N,N,N,0,0,0,0
+208,"Proportions of patients with absent ankle reflexes did not differ between intensive and conventional groups (35 vs 37%, p=0·60); similar proportions had absent knee reflexes (11 vs 12%, p=0·42).",0,0,0,0,N,N,N,0,0,0,0
+209,"The heart-rate responses to deep breathing and standing did not differ between the intensive and conventional groups, but at 12 years the basal heart rate was significantly lower in the intensive than in the conventional group (median 69·8 [IQR 62·5–78·9] vs 74·4 [65·2–83·3] bpm, p<0·001).",0,0,0,0,N,N,N,0,0,0,0
+210,β-blockers were taken by 16% and 19% (p=0·58) of patients in the intensive and conventional groups.,0,0,0,0,N,N,N,0,0,0,0
+211,"The proportion of patients with impotence did not differ at 12 years in the intensive and conventional groups (46·8 vs 54·7%, respectively; p=0·09).",0,0,0,0,N,N,N,0,0,0,0
+212,"There was no difference between the intensive and conventional treatment groups, or between the three intensive allocations, in the proportion of patients who had a silent myocardial infarction, cardiomegaly, evidence of peripheral vascular disease by doppler blood pressure, or absent peripheral pulses.",0,0,0,0,N,N,N,0,0,0,0
+213,Hyperglycaemia and hypoglycaemia,0,0,0,0,N,N,N,0,0,0,0
+214,"The proportion of patients with one or more major, or any, hypoglycaemic episode in a year was significantly higher in the intensive group than in the conventional group (figure 9).",0,0,0,0,N,N,N,0,0,0,0
+215,"When the three intensive treatments were compared by actual therapy, major hypoglycaemic episodes or any episode were most common in patients on insulin therapy (figure 10).",0,0,0,0,N,N,N,0,0,0,0
+216,"During the first few years of therapy, any hypoglycaemic episodes were also frequent in patients on glibenclamide or chlorpropamide, but fell as FPG increased.",0,0,0,0,N,N,N,0,0,0,0
+217,"By intention-to-treat analysis, there was less difference between the allocations as more patients in the conventional group had sulphonylurea or insulin therapy added.",0,0,0,0,N,N,N,0,0,0,0
+218,"One insulin-group patient died at home, unattended: this death was attributed to hypoglycaemia.",0,0,0,0,N,N,N,0,0,0,0
+219,Major and any hypoglycaemic episodes per year by intention-to-treat analysis and actual therapy for intensive and conventional treatment,0,0,0,0,N,N,N,0,0,1,0
+220,Data from the first 15 centres.,0,0,0,0,N,N,N,0,0,0,0
+221,"The numbers of patients studied at 5, 10, and 15 years in the intensive and conventional groups by actual therapy were 1317, 395; 762, 150; and 120, 14 respectively.",0,0,0,0,N,N,N,0,0,0,0
+222,Major and any hypoglycaemic episodes by intention-to-treat analysis and actual therapy by individual intensive therapy and conventional treatment,0,0,0,0,N,N,N,0,0,1,0
+223,"The numbers of patients studied at 5, 10 and 15 years in the intensive groups with chlorpropamide, glibenclamide and insulin and the conventional group by actual therapy were 380, 378, 559, 395; 171, 175, 416, 150; and 21, 16, 83, 14 respectively.",0,0,0,0,N,N,N,0,0,0,0
+224,"In the conventional group, one patient died from hyperglycaemic, coma after a febrile illness.",0,0,0,0,N,N,N,0,0,0,0
+225,"Over the first 10 years, the mean proportion of patients per year with one or more major hypoglycaemic episodes while taking their assigned intensive or conventional treatment was 0·4% for chlorpropamide, 0·6% for glibenclamide, 2·3% for insulin, and 0·1% for diet; the corresponding rates for any hypoglycaemic episode were 11·0%, 17·7%, 36·5%, and 1·2%.",0,0,0,0,N,N,N,0,0,0,0
+226,"By intention-to-treat analyses, major hypoglycaemic episodes occurred with chlorpropamide (1·0%), glibenclamide (1·4%), insulin (1·8%), and diet (0·7%) and any hypoglycaemic episodes in 16%, 21%, 28%, and 10%, respectively.",0,0,0,0,N,N,N,0,0,0,0
+227,"Hypoglycaemic episodes in patients on diet therapy were reactive and occurred either after meals or after termination of glucose infusions given while in hospital (eg, postoperatively).",0,0,0,0,N,N,N,0,0,0,0
+228,We found that an intensive blood-glucose-control policy with an 11% reduction in median HbA1c over the first 10 years decreased the frequency of some clinical complications of type 2 diabetes.,0,0,0,0,N,N,N,0,0,0,0
+229,"The intensive treatment group had a substantial, 25% reduction in the risk of microvascular endpoints, most of which was due to fewer patients requiring photocoagulation.",0,0,0,0,N,N,N,0,0,0,0
+230,"There was evidence, albeit inconclusive, of a 16% risk reduction (p=0·052) for myocardial infarction, which included non-fatal and fatal myocardial infarction and sudden death, but diabetes-related mortality and allcause mortality did not differ between the intensive and conventional groups.",0,0,0,0,N,N,N,0,0,0,0
+231,The study did not have sufficient power to exclude a beneficial effect on fatal outcomes.,0,0,0,0,N,N,N,0,0,0,0
+232,"The progression of subclinical, surrogate variables of microvascular disease was also decreased, in agreement with other studies of improved glucose control.",0,0,0,0,N,N,N,0,0,0,0
+233,The median complication-free interval was 1·3 years longer in the intensive group.,0,0,0,0,N,N,N,0,0,0,0
+234,"The UGDP raised concerns that the sulphonylurea, tolbutamide, may increase the risk of cardiovascular death, and several mechanisms by which sulphonylureas might have an adverse effect were suggested.",0,0,0,0,N,N,N,0,0,0,0
+235,"However, we found no difference in the rates of myocardial infarction or diabetes-related death between participants assigned sulphonylurea or insulin therapies.",0,0,0,0,N,N,N,0,0,0,0
+236,"Studies in animals suggested that first-generation sulphonylureas,  but this suggestion was not supported by our findings since the rate of sudden death was similar in the groups assigned chlorpropamide, glibenclamide, or insulin.",0,0,0,0,N,N,N,0,0,0,0
+237,"Thus, the UKPDS data do not support the suggestion of adverse cardiovascular effects from sulphonylureas.",0,0,0,0,N,N,N,0,0,0,0
+238,"Exogenous insulin has also been suggested as potentially harmful treatment because in-vitro studies with raised insulin concentrations induced atheroma, and epidemiological studies showed an association between high plasma insulin concentrations and myocardial infarction.",0,0,0,0,N,N,N,0,0,0,0
+239,"We did not find an increase in myocardial infarctions in patients assigned insulin therapy, even though their fasting plasma insulin concentrations were higher than those in any other group.",0,0,0,0,N,N,N,0,0,0,0
+240,"The macrovascular subclinical surrogate endpoints did not differ between intensive and conventional groups, perhaps because 10 years' follow-up is too short to find changes in atheroma or because the endpoints were not sufficiently sensitive.",0,0,0,0,N,N,N,0,0,0,0
+241,"Since there was no evidence, however, for a harmful cardiovascular effect of sulphonylurea or insulin therapy, it appears that the beneficial effect of an intensive glucose control with these agents outweighs the theoretical risks.",0,0,0,0,N,N,N,0,0,0,0
+242,"The 0·9% difference in HbA1c between the intensive (7·0%) and conventional (7·9%) groups over 10 years, an 11% reduction, is smaller than the 1·9% difference (9·0% and 7·1%; 20% reduction) in HbA1c in the DCCT.",0,0,0,0,N,N,N,0,0,0,0
+243,The DCCT studied younger patients with type 1 diabetes and used slightly different methods that focused on surrogate variables.,0,0,0,0,N,N,N,0,0,0,0
+244,"The risk reductions seem proportional given the HbA1c differences: for progression of microvascular disease, 21% for retinopathy in UKPDS and 63% in the DCCT; and, for albuminuria, 34% and 54% respectively.",0,0,0,0,N,N,N,0,0,0,0
+245,Our data suggest that clinical benefit can be obtained at lower HbA1c values than those in the DCCT.,0,0,0,0,N,N,N,0,0,0,0
+246,"Few patients had late ophthalmic complications such as vitreous haemorrhage or blindness and this may be because the follow-up was not long enough or, more likely, because of the decrease in retinal damage and blindness after photocoagulation.",0,0,0,0,N,N,N,0,0,0,0
+247,"The reduction in the progression of albuminuria by intensive treatment was probably accompanied by a reduced risk for development of renal failure, since there was a 67% risk reduction in the proportion of patients who had a two-fold increase in plasma creatinine and 74% risk reduction in those who had a doubling of their plasma urea.",0,0,0,0,N,N,N,0,0,0,0
+248,"This result is potentially important since, although less than 1% of UKPDS patients developed renal failure, in many populations type 2 diabetes is the principal cause of renal failure.",0,0,0,0,N,N,N,0,0,0,0
+249,"No difference in the risk reduction of microvascular clinical endpoints was seen between the three intensive treatments, and thus, improved glycaemic control, rather than any one therapy, is the principal factor.",0,0,0,0,N,N,N,0,0,0,0
+250,"Nevertheless, patients assigned chlorpropamide did not have the same risk reduction in progression of the retinopathy as those assigned glibenclamide or insulin, and this difference was not accounted for, statistically, by higher blood pressure in the chlorpropamide group.",0,0,0,0,N,N,N,0,0,0,0
+251,There was no difference in the progression of albuminuria between any treatment groups.,0,0,0,0,N,N,N,0,0,0,0
+252,"Increased blood pressure has been reported with chlorpropamide, which can also cause water retention.",0,0,0,0,N,N,N,0,0,0,0
+253,Other sulphonylureas that do not raise the blood pressure may be preferred.,0,0,0,0,N,N,N,0,0,0,0
+254,Intensive blood-glucose control had disadvantages such as greater weight gain than occurred in the conventional group.,0,0,0,0,N,N,N,0,0,0,0
+255,"There was also an increased risk of hypoglycaemic episodes, particularly in patients treated with insulin; each year about 3% had a major episode and 40% a minor or major hypoglycaemic episode.",0,0,0,0,N,N,N,0,0,0,0
+256,"Although the increased risk of hypoglycaemia with insulin was less than that in the DCCT, this risk limited the extent to which normoglycaemia could be obtained in our patients with type 2 diabetes—as it does in patients with type 1 diabetes.",0,0,0,0,N,N,N,0,0,0,0
+257,The relation between glycaemia and outcome in our study is complex.,0,0,0,0,N,N,N,0,0,0,0
+258,"Although a difference in HbA1c between conventional and intensive groups was maintained throughout, HbA1c progressively increased.",0,0,0,0,N,N,N,0,0,0,0
+259,"The risks of hypoglycaemia and of weight gain, particularly in patients treated by insulin, are perceived by patients as difficulties that limit their ability to achieve improved glucose control (data not shown).",0,0,0,0,N,N,N,0,0,0,0
+260,"Although early addition of other agents may have delayed the increasing hyperglycaemia, each of the available oral hypoglycaemic agents (sulphonylureas, metformin,  thiazolidinediones, and acarbose have limited glucose-lowering efficacy and many patients eventually required insulin to avoid marked hyperglycaemia.",0,0,0,0,N,N,N,0,0,0,0
+261,Our patients on intensive treatment with insulin achieved lower HbA1c values than those seen in several studies of intensive glucose control in patients with type 2 diabetes.,0,0,0,0,N,N,N,0,0,0,0
+262,"Recent recommendations set an HbA1c below 7% as a goal but, to our knowledge, this has been achieved only in intervention studies with high insulin doses, generally above 100 U per day, in small groups of obese patients who received detailed attention over a short period.",0,0,0,0,N,N,N,0,0,0,0
+263,Studies of glycaemic control in type 2 diabetes with insulin therapy in the community report mean HbA1c values of 8·5% and 9·0%.,0,0,0,0,N,N,N,0,0,0,1
+264,"Current therapy of type 2 diabetes, including insulin regimens, may need to be reviewed.",0,0,0,0,N,N,N,0,0,0,0
+265,"The US National Health and Nutrition Education Examination Survey III, by the same assay method as the DCCT, found that 51% of insulin-treated patients and 42% of those on oral hypoglycaemic agents had HbA1c values greater than 8%, (Maureen Harris, National Institute of Diabetes and Digestive and Kidney Diseases, USA; personal communication).",0,0,0,0,N,N,N,0,0,0,0
+266,"About 50% of patients with newly diagnosed type 2 diabetes already have diabetic tissue damage, but lack of benefit in these patients from early treatment has meant variation in the guidelines for screening populations.",0,0,0,0,N,N,N,0,0,0,0
+267,"The UKPDS shows that improved blood-pressure and glucose control reduce the risk of the diabetic complications that cause both morbidity and premature mortality, and increase the case for formal screening programmes for early detection of diabetes in the general population.",0,0,0,0,N,N,N,0,0,0,0
+268,"Our study, despite the median of 10 years' follow-up is still short compared with the median life expectancy of 20 years in UKPDS patients diagnosed at median age 53 years.",0,0,0,0,N,N,N,0,0,0,0
+269,"To investigate longer-term responses, we will carry out post-study monitoring of UKPDS for a further 5 years, to establish whether the improved glucose control achieved will substantially decrease the risk of fatal and non-fatal myocardial infarctions with longer follow-up.",0,0,0,0,N,N,N,0,0,0,0
+270,"UKPDS shows that an intensive glucose-control treatment policy that maintains an 11% lower HbA1c—ie, median 7·0% over the first 10 years after diagnosis of diabetes—substantially reduces the frequency of microvascular endpoints but not diabetes-related mortality or myocardial infarction.",0,0,0,0,N,N,N,0,0,0,0
+271,The disadvantages of intensive treatment are weight gain and risk of hypoglycaemia.,0,0,0,0,N,N,N,0,0,0,0
+272,"There was no evidence that intensive treatment with chlorpropamide, glibenclamide, or insulin had a specific adverse effect on macrovascular disease.",0,0,0,0,N,N,N,0,0,0,0
