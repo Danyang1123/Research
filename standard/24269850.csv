@@ -1,0 +1,200 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To provide evidence-based recommendations for diabetic macular edema (DME) management based on updated information from publications on DME treatment modalities.,N,0,N,0,N,N,N,N,N,N,N
+1,"A literature search for “diabetic macular edema” or “diabetic maculopathy” was performed using the PubMed, Cochrane Library, and ClinicalTrials.gov databases to identify studies from January 1, 1985 to July 31, 2013.",N,0,N,0,N,N,N,N,N,N,N
+2,"Meta-analyses, systematic reviews, and randomized controlled trials with at least 1 year of follow-up published in the past 5 years were preferred sources.",N,0,N,0,N,N,N,N,N,N,N
+3,"Although laser photocoagulation has been the standard treatment for DME for nearly 3 decades, there is increasing evidence that superior outcomes can be achieved with anti–vascular endothelial growth factor (anti-VEGF) therapy.",N,0,N,0,N,N,N,N,N,N,N
+4,Data providing the most robust evidence from large phase II and phase III clinical trials for ranibizumab demonstrated visual improvement and favorable safety profile for up to 3 years.,N,0,N,0,N,N,N,N,N,N,N
+5,"Average best-corrected visual acuity change from baseline ranged from 6.1-10.6 Early Treatment Diabetic Retinopathy Study (ETDRS) letters for ranibizumab, compared to 1.4-5.9 ETDRS letters with laser.",N,0,N,0,N,N,N,N,N,N,N
+6,The proportion of patients gaining ≥10 or ≥15 letters with ranibizumab was at least 2 times higher than that of patients treated with laser.,N,0,N,0,N,N,N,N,N,N,N
+7,Patients were also more likely to experience visual loss with laser than with ranibizumab treatment.,N,0,N,0,N,N,N,N,N,N,N
+8,Ranibizumab was generally well tolerated in all studies.,N,0,N,0,N,N,N,N,N,N,N
+9,"Studies for bevacizumab, aflibercept, and pegaptanib in DME were limited but also in favor of anti-VEGF therapy over laser.",N,0,N,0,N,N,N,N,N,N,N
+10,Anti-VEGF therapy is superior to laser photocoagulation for treatment of moderate to severe visual impairment caused by DME.,N,0,N,0,N,N,N,N,N,N,N
+11,"Diabetes mellitus (DM) is a global epidemic with significant morbidity.Although diabetic retinopathy (DR) affects 1 in 3 people with DM, the leading cause of vision loss in this population is diabetic macular edema (DME), which affects approximately 6.8% of the diabetic population.",N,0,N,0,N,N,N,N,N,N,N
+12,DME represents a spectrum of retinopathy signs characterized by edema and thickening of the central macula and surrounding noncentral macula that are not explained by the presence of an epiretinal membrane (ERM) at the macula.,N,0,N,0,N,N,N,N,N,N,N
+13,"These symptoms are typically confirmed by slit-lamp biomicroscopy and, increasingly, with the aid of optical coherence tomography (OCT).",N,0,N,0,N,N,N,N,N,N,N
+14,"For nearly 30 years, focal/grid laser photocoagulation has been the mainstay of treatment for clinically significant DME (CSME).However, there have been substantial advances in our understanding of DME since this method was first used.",N,0,N,0,N,N,N,N,N,N,N
+15,"First, epidemiologic data indicate that DME, more than DR severity, is the most common cause of vision loss for patients.",N,0,N,0,N,N,N,N,N,N,N
+16,"Second, there is now better understanding that risk factors for DME (eg, serum lipids) may be different from those for DR, highlighting the importance of systemic management being targeted at DME.",N,0,N,0,N,N,N,N,N,N,N
+17,"Third, improved knowledge of the pathophysiology of DME has enabled the development of alternative therapies.",N,0,N,0,N,N,N,N,N,N,N
+18,"Fourth, the development of modern imaging techniques, such as OCT, has allowed assessment of early DME, including subclinical DME.",N,0,N,0,N,N,N,N,N,N,N
+19,"Last, the results from several large phase III randomized controlled trials (RCTs) for alternative therapies, namely anti–vascular endothelial growth factor (anti-VEGF) treatments, have now been reported.",N,0,N,0,N,N,N,N,N,N,N
+20,"The treatment algorithm for the selection of patients, the initiation of anti-VEGF therapy, and the assessment and retreatment of DME using this group of therapies has not yet been established.",N,0,N,0,N,N,N,N,N,N,N
+21,This Perspective article summarizes major studies and RCTs examining DME treatment modalities with the aim of providing an initial set of evidence-based recommendations for DME management.,N,0,N,0,N,N,N,N,N,N,N
+22,"We conducted a literature search using the PubMed, Cochrane Library, and ClinicalTrials.gov databases with the terms “diabetes macular edema” or “diabetic maculopathy” to identify studies published from January 1, 1985 to July 31, 2013.",N,0,N,0,N,N,N,N,N,N,N
+23,This was followed by a manual search of references cited in selected major papers.,N,0,N,0,N,N,N,N,N,N,N
+24,"Meta-analyses, systematic reviews, and RCTs with at least 1 year of follow-up published in the past 5 years were preferred sources.",N,0,N,0,N,N,N,N,N,N,N
+25,Recommendations for DME treatment were drafted by the Diabetic Macular Edema Treatment Guideline Working Group and graded for importance of clinical outcome and strength of evidence.,N,0,N,0,N,N,N,N,N,N,N
+26,Optimal management of systemic risk factors is a key component of the primary prevention of DR.,N,0,N,0,N,N,N,N,N,N,N
+27,"Intensive control of hyperglycemia, hypertension, and possibly hyperlipidemia delay the onset and progression of DR.",N,0,N,0,N,N,N,N,N,N,N
+28,"Whether the same is useful for DME is less clear, as there are fewer studies focused on DME alone.",N,0,N,0,N,N,N,N,N,N,N
+29,"Because DME develops in a subset of patients with DR and the likelihood of developing DME increases with DR severity, control of systemic risk factors would be expected to have a major effect on DME.",N,0,N,0,N,N,N,N,N,N,N
+30,"An overview of studies evaluating the effects of improving blood glucose levels, blood pressure, and lipid profile is available online (Supplemental References, available at AJO.com).",N,0,N,0,N,N,N,N,N,N,N
+31,"The use of laser photocoagulation has been the mainstay of treatment for CSME since the landmark Early Treatment Diabetic Retinopathy Study (ETDRS) in 1985.4 However, laser photocoagulation mostly does not improve vision, and a significant proportion of patients experience progressive worsening of vision despite laser photocoagulation (Supplemental Table 1, available at AJO.com).",N,0,N,0,N,N,N,N,N,N,N
+32,"Furthermore, long-term use of this treatment is limited by significant risks and adverse effects, such as central and paracentral scotomata, loss of color vision, progressive enlargement of laser scars (“laser creep”), and occasional secondary choroidal neovascularization.",N,0,N,0,N,N,N,N,N,N,N
+33,The subthreshold micropulse diode laser and the patterned scan laser are 2 innovations developed to minimize scar formation.,N,0,N,0,N,N,N,N,N,N,N
+34,"However, long-term experience is needed to define their precise roles in DME treatment.",N,0,N,0,N,N,N,N,N,N,N
+35,Anti–Vascular Endothelial Growth Factor Agents,N,0,N,0,N,N,N,N,N,N,N
+36,VEGF is a potent factor in the pathogenesis of DME that is upregulated in hypoxic and hyperglycemic states.,N,0,N,0,N,N,N,N,N,N,N
+37,Elevated VEGF levels in the intraocular fluid correlate with vascular hyperpermeability and DME severity.,N,0,N,0,N,N,N,N,N,N,N
+38,"Current evidence shows that anti-VEGF therapies reverse visual impairment, in addition to stabilizing and preventing future vision loss.",N,0,N,0,N,N,N,N,N,N,N
+39,"Four VEGF-binding drugs are currently used for ophthalmic conditions: ranibizumab, bevacizumab (off-label), aflibercept, and pegaptanib.",N,0,N,0,N,N,N,N,N,N,N
+40,"Evidence for DME treatment with anti-VEGF therapies is largely based on data from phase II and phase III RCTs for ranibizumab, including Safety and Efficacy of Ranibizumab in Diabetic Macular Edema (RESOLVE):17 Two-year Outcomes of the Ranibizumab for Edema of the mAcula in Diabetes (READ-2); A 12 Month Core Study to Assess the Efficacy and Safety of Ranibizumab Intravitreal Injections (RESTORE); Diabetic Retinopathy Clinical Research Network (DRCR.net) Protocol I; and A Study of Ranibizumab Injection in Subjects with CSDME with Center Involvement Secondary to Diabetes Mellitus (RISE and RIDE).",N,0,N,0,N,N,N,N,N,N,N
+41,"RESOLVE was a phase II, double-masked, sham-controlled RCT evaluating the efficacy and safety of ranibizumab compared with sham treatment over 12 months.",N,0,N,0,N,N,N,N,N,N,N
+42,"Patients (n = 151) with visual acuity (VA) 20/40-20/160 and central retinal thickness (CRT) ≥300 μm were randomly assigned to ranibizumab 0.3 mg or 0.5 mg, or to sham injections.",N,1,N,0,N,N,N,N,N,N,N
+43,Dose doubling and rescue laser treatment were permitted according to predefined criteria.,N,0,N,0,N,N,N,N,N,N,N
+44,"At the end of the study, a mean average change in best-corrected VA (BCVA) of +7.8 letters from baseline was observed in the ranibizumab groups compared with -0.1 letters in the sham group (P < .0001).",N,0,N,0,N,N,N,N,N,N,N
+45,Mean CRT reduction was parallel to mean BVCA improvement.,N,0,N,0,N,N,N,N,N,N,N
+46,More than 3 times the proportion of patients who were treated with ranibizumab gained ≥10 and ≥15 letters compared with those receiving sham injections.,N,0,N,0,N,N,N,N,N,N,N
+47,"READ-2 was a phase II, multicenter, interventional RCT comparing ranibizumab with focal laser treatment and a combination of both in DME among patients with type 1 or 2 DM.",N,0,N,0,N,N,N,N,N,N,N
+48,"Patients (n = 126) with VA 20/40-20/320 and CRT ≥250 μm were randomized to receive 0.5 mg ranibizumab injections at baseline and at months 1, 3, and 5 (Group 1); laser treatment at baseline and then at month 3 as needed (Group 2); or ranibizumab injections and laser treatment at baseline and at month 3 (Group 3).This was followed by a maintenance regimen of 0.5 mg ranibizumab every 2 months and/or laser treatment every 3 months for residual edema.",N,0,N,0,N,N,N,N,N,N,N
+49,"Mean BVCA change from baseline to month 24 was +7.7 letters for Group 1, +5.1 letters for Group 2, and +6.8 letters for Group 3, although the mean differences were not significantly different among all groups.",N,0,N,0,N,N,N,N,N,N,N
+50,Patients in Groups 2 and 3 who received ranibizumab injections on top of laser treatment required less frequent injections without compromising visual outcomes at 2 years than those who received ranibizumab only in Group 1.,N,0,N,0,N,N,N,N,N,N,N
+51,More aggressive treatment with ranibizumab from year 2 to year 3 demonstrated that mean BCVA could be further improved by 3.1 letters (P = .009) in Group 1.,N,0,N,0,N,N,N,N,N,N,N
+52,"Resolution of edema was more frequent in Groups 2 and 3, in which laser treatment was included as part of the treatment regimen.",N,0,N,0,N,N,N,N,N,N,N
+53,"RESTORE was a double-masked, multicenter, laser-controlled phase III study examining the efficacy of ranibizumab 0.5 mg as monotherapy or combined with laser therapy over laser treatment alone.",N,0,N,0,N,N,N,N,N,N,N
+54,Patients (n = 345) with visual impairment 20/32-20/160 were enrolled in the study.,N,0,N,0,N,N,N,N,N,N,N
+55,Significant improvement in BVCA was seen with ranibizumab alone (+6.1 letters) and combined with laser (+5.9 letters) compared with laser monotherapy (+0.8 letters) at 12 months.,N,0,N,0,N,N,N,N,N,N,N
+56,"The proportions of patients who gained ≥10 and ≥15 letters were 2-3 times greater in the ranibizumab groups compared within the laser group (37.4% vs 15.5% and 22.6% vs 8.2%, respectively).",N,0,N,0,N,N,N,N,N,N,N
+57,Approximately 9.2% more patients experienced ≥10 letters loss with laser than with ranibizumab.,N,0,N,0,N,N,N,N,N,N,N
+58,Up to 8.2% of patients experienced loss of ≥15 letters with laser only compared with 0.9% in the ranibizumab-only group.,N,0,N,0,N,N,N,N,N,N,N
+59,"DRCR.net protocol I was a 5-year, independent, multicenter RCT involving 854 study eyes with center-involved DME causing vision impairment 20/32-20/320 and central subfield thickness ≥250 μm.",N,0,N,0,N,N,N,N,N,N,N
+60,"Patients were randomized to receive sham injection plus prompt laser, ranibizumab 0.5 mg plus prompt laser, ranibizumab 0.5 mg plus deferred (≥24 weeks) laser, or triamcinolone 4 mg plus prompt laser.",N,0,N,0,N,N,N,N,N,N,N
+61,"Results demonstrated that ranibizumab combined with prompt or deferred laser therapy was more effective than laser alone for the treatment of DME, with substantially more eyes gaining ETDRS letters and fewer eyes losing ETDRS letters (Supplemental Table 1, available at AJO.com).",N,0,N,0,N,N,N,N,N,N,N
+62,"The mean change from baseline VA at 1 year was +9 letters in the ranibizumab plus prompt or deferred laser groups, compared with +3 letters in the sham plus prompt laser group.",N,0,N,0,N,N,N,N,N,N,N
+63,"VA continued to improve in the second year by a mean change of +3.7 letters more with ranibizumab plus prompt laser and +5.8 letters more with ranibizumab plus deferred treatment, compared with sham plus prompt laser treatment.",N,0,N,0,N,N,N,N,N,N,N
+64,"At 3 years, prompt laser treatment was related to fewer cumulative ranibizumab injections than deferred, but patients who received deferred laser experienced better visual outcomes (+6.8 letters vs +9.7 letters, respectively, P = .02).",N,0,N,0,N,N,N,N,N,N,N
+65,"RISE and RIDE were 2 parallel, phase III, double-masked, sham-controlled RCTs comparing the efficacy and safety of ranibizumab 0.3 mg and 0.5 mg over 24 months.The overall study population involved 759 patients (1 eye per patient) with center-involved DME who had VA 20/40-20/320 and central subfield thickness ≥275 μm.",N,0,N,0,N,N,N,N,N,N,N
+66,"In both studies, the proportion of patients who gained ≥15 letters with ranibizumab was twice that of patients receiving sham injections (Supplemental Table 1, available at AJO.com), with an average gain of 8.5-9.9 letters from baseline at month 24 with ranibizumab compared with sham treatment (P < .0001).",N,0,N,0,N,N,N,N,N,N,N
+67,"In addition, patients treated with ranibizumab were found to have a reduced risk of DR progression, and regression of DR was observed in eyes with DME.",N,0,N,0,N,N,N,N,N,N,N
+68,"The Bevacizumab or Laser Therapy (BOLT) study was a single-center, 2-year, phase II RCT comparing the effects of repeated intravitreal bevacizumab (ivB) and laser therapy in 80 patients with persistent DME causing moderate visual impairment of ≥20/200 or ≤20/40 and whose CRT was ≥270 μm at baseline.",N,0,N,0,N,N,N,N,N,N,N
+69,These patients were randomized to receive intravitreal bevacizumab (ivB) 1.25 mg every 6 weeks or laser treatment every 4 months.,N,0,N,0,N,N,N,N,N,N,N
+70,Retreatment was based on CRT stability.,N,0,N,1,N,N,N,N,N,N,N
+71,Results at 2 years showed that patients who were treated with ivB had +8.6 mean letter gain compared with a mean loss of −0.5 letters with laser.,N,0,N,0,N,N,N,N,N,N,N
+72,"The proportion of patients who gained ≥10 letters was significantly greater for ivB than for laser (49% vs 7%, P = .001).",N,0,N,0,N,N,N,N,N,N,N
+73,"Approximately 32% of patients in the ivB group gained ≥15 letters, compared with 4% in the laser group (P = .004).",N,0,N,0,N,N,N,N,N,N,N
+74,No patient lost ≥15 letters with ivB but 14% of patients in the laser group sustained ≥15 letters loss (P = .03).,N,0,N,0,N,N,N,N,N,N,N
+75,Soheilian and associates reported a phase III RCT examining the efficacy of ivB alone or in combination with intravitreal triamcinolone acetonide (IVTA) vs laser photocoagulation as primary treatment for DME.,N,0,N,0,N,N,N,N,N,N,N
+76,"One hundred and fifty eyes of 129 treatment-naïve patients with VA 20/50-20/300 were randomized to receive ivB, combined ivB and IVT, or laser treatment.",N,0,N,0,N,N,N,N,N,N,N
+77,The treatments were administered at 12-week intervals.,N,0,N,1,N,N,N,N,N,N,N
+78,"After 3 loading doses, further ivB injections were given if DME persisted and VA was not better than 20/40.",N,0,N,0,N,N,N,N,N,N,N
+79,"Mean VA improvement for ivB was 12.8% compared with 9.5% for ivB and IVTA and −10.9% for laser, but the results were not statistically significant.",N,0,N,0,N,N,N,N,N,N,N
+80,The superior effect of ivB over other treatments was significant at 6 months but diminished thereafter.,N,0,N,0,N,N,N,N,N,N,N
+81,"The proportion of eyes with ≥15 letter gain was 41.0% for ivB, 36.1% for combined ivB and IVTA, and 23.7% for laser treatment.",N,0,N,0,N,N,N,N,N,N,N
+82,"A key RCT of note is the phase II, double-masked, active-controlled DME and VEGF Trap-Eye: INvestigation of Clinical Impact (DA VINCI) study, which was designed to examine the effects of intravitreal aflibercept compared to those of standard laser treatment.Patients (n = 221) with CSME with baseline BCVA 20/40-20/320 and CRT ≥250 μm were randomized to receive VEGF Trap-Eye at different dosage and schedules or laser treatment (Supplemental Table 1, available at AJO.com).",N,0,N,0,N,N,N,N,N,N,N
+83,"Results at 52 weeks showed greater VA gains for aflibercept (9.7-12.0 letters) than for laser treatment (−1.3 letters).25 Patients who were treated with VEGF Trap-Eye were more likely to experience gains of ≥10 and ≥15 letters than those who received laser treatment (45%-71% vs 30% and 23.8%-45.5% vs 11.4%, respectively).",N,0,N,0,N,N,N,N,N,N,N
+84,"The following phase III studies are currently underway: VEGF Trap-Eye in Vision Impairment due to DME (VIVID-DME; NCT01331681), VIVID EAST-DME (NCT01783886), Japanese Safety Study of VEGF Trap-Eye in DME (VIVID-Japan; NCT01512966), and Study of Intravitreal Administration of VEGF Trap-Eye (BAY86-5321) in Patients with DME (VISTA; NCT01363440).",N,0,N,0,N,N,N,N,N,N,N
+85,"A phase II/III, multicenter, double-masked, sham-controlled, parallel-group study reported by Sultan and associates was performed to compare the effects of pegaptanib 0.3 mg and sham injections in patients with type 1 and type 2 DM, center-involved DME (CRT ≥250 μm), and vision loss (BVCA 20/50-20/200).Efficacy results were derived from 1-year (n = 260) and 2-year (n = 207) intention-to-treat analyses.",N,0,N,0,N,N,N,N,N,N,N
+86,Treatment was administered at 6-week intervals during the first year and as needed subsequently.,N,0,N,0,N,N,N,N,N,N,N
+87,Rescue focal/grid photocoagulation was permitted after week 18.,N,0,N,0,N,N,N,N,N,N,N
+88,"At 1 year, 36.8% of patients in the pegaptanib group achieved ≥10-letter gains compared with 19.7% in the sham group.",N,0,N,0,N,N,N,N,N,N,N
+89,"These proportions increased to 38.3% and 30.0%, respectively, in the second year.",N,0,N,0,N,N,N,N,N,N,N
+90,Mean BCVA change from baseline was 6.1 letters in the pegaptanib group compared with 1.3 letters in the sham group at 2 years (P < .01).,N,0,N,0,N,N,N,N,N,N,N
+91,"Significantly fewer patients in the pegaptanib group required laser treatment than in the sham group in the first (23.3% vs 41.7%, P = .0023) and second years (25.2% vs 45.0%, P = .0032).",N,0,N,0,N,N,N,N,N,N,N
+92,Anti–Vascular Endothelial Growth Factor Safety,N,0,N,0,N,N,N,N,N,N,N
+93,Ranibizumab was generally well tolerated in all studies.The most commonly reported ocular-related serious adverse events were endophthalmitis and increased intraocular pressure (IOP).,N,0,N,0,N,N,N,N,N,N,N
+94,"Because patients with DM have a higher risk of cardiovascular disease that is exacerbated in the presence of DME, the safety profile of anti-VEGF agents should be carefully considered.For age-related macular degeneration (AMD), the 2-year Comparison of Age-related Macular Degeneration Treatment Trial (CATT) demonstrated no significant difference in arteriothromboembolic events or deaths between bevacizumab and ranibizumab.The incidence of systemic serious adverse events was significantly higher in patients who received bevacizumab, although it was uncertain if these were drug related.",N,0,N,0,N,N,N,N,N,N,N
+95,"In contrast to the CATT, interim analysis from the Alternative Treatments to Inhibit VEGF in Age-related Choroidal Neovascularization (IVAN) study demonstrated a more favorable safety profile for bevacizumab over ranibizumab.",N,0,N,0,N,N,N,N,N,N,N
+96,"Even if inferences were to be drawn from the CATT and IVAN studies, DME and AMD should be considered as separate disease entities.",N,0,N,0,N,N,N,N,N,N,N
+97,"If ranibizumab and bevacizumab were equally effective and safe, bevacizumab would be considered more cost effective.",N,0,N,0,N,N,N,N,N,N,N
+98,The annual risk of cerebrovascular accident would have to be at least 1.5% higher with bevacizumab in order for ranibizumab to be the preferred anti-VEGF treatment.,N,0,N,0,N,N,N,N,N,N,N
+99,Whether one anti-VEGF drug is safer than the other for DME remains to be answered.,N,0,N,0,N,N,N,N,N,N,N
+100,"Head-to-head studies comparing ranibizumab and bevacizumab (NCT00545870 and NCT01610557), as well as aflibercept (NCT01627249), in DME are in progress and should provide additional insights on this issue.",N,0,N,0,N,N,N,N,N,N,N
+101,Systemic adverse events in patients who received ranibizumab for DME occurred at rates equal to those in patients who received laser treatment or sham injection.,N,0,N,0,N,N,N,N,N,N,N
+102,"The incidences of cardiovascular events and arterial thromboembolism reported in these studies were low, possibly because high-risk patients were excluded.",N,0,N,0,N,N,N,N,N,N,N
+103,A definitive conclusion regarding the safety of bevacizumab could not be drawn from the BOLT study owing to its small sample size.The safety profile of aflibercept reported in the DA VINCI study was consistent with those seen with other intravitreal anti-VEGF agents.,N,0,N,0,N,N,N,N,N,N,N
+104,Data from both the RESTORE and BOLT studies also showed that anti-VEGF treatment had no deleterious effect on capillary perfusion at the macula.,N,0,N,0,N,N,N,N,N,N,N
+105,"In a 2-year, phase II/III, double-masked, placebo-controlled RCT, 84 eyes in 54 patients with diffuse or focal DME with VA 20/40-20/400 and CRT >250 μm were randomized to receive IVTA 4 mg vs placebo 6 weeks before laser treatment.",N,0,N,0,N,N,N,N,N,N,N
+106,"Although the proportion of patients in the IVTA plus laser group who experienced 10-letter improvement was double that in the laser-only group, there was no difference in mean VA or CRT change between the 2 groups.",N,0,N,0,N,N,N,N,N,N,N
+107,"The need for further treatment during the second year of the study was no lower in the IVTA group than in the laser-only group (69% vs 45%, P = .187).",N,0,N,0,N,N,N,N,N,N,N
+108,"In another 2-year, prospective, double-masked RCT, 69 eyes in 43 patients with advanced, refractory DME and impaired vision (BCVA 20/30 or worse) were given 4 mg IVTA or placebo.",N,0,N,0,N,N,N,N,N,N,N
+109,IVTA improved BCVA by ≥5 letters in 19 of 34 eyes (56%) compared with in 9 of 35 eyes (26%) treated with placebo.,N,0,N,0,N,N,N,N,N,N,N
+110,Mean VA improvement was 5.7 letters more with IVTA than with placebo.,N,0,N,0,N,N,N,N,N,N,N
+111,The BVCA gains with IVTA were maintained after 5 years in 42% of eyes.,N,0,N,0,N,N,N,N,N,N,N
+112,"However, initial treatment with IVTA did not reduce the risk of recurrent edema and need for further injections.",N,0,N,0,N,N,N,N,N,N,N
+113,The phase III DRCR.net study compared the effects of 1 mg and 4 mg IVTA against those of laser treatment in 840 eyes of 693 patients with DME and visual impairment 20/40-20/320.,N,0,N,0,N,N,N,N,N,N,N
+114,"Laser treatment was superior to IVTA at 2 years, despite an initial greater response with IVTA.",N,0,N,0,N,N,N,N,N,N,N
+115,The mean difference in VA change for laser vs 1 mg IVTA was 3.5 (P = .02) and 4.6 (P = .002) for laser vs 4 mg IVTA.,N,0,N,0,N,N,N,N,N,N,N
+116,"There was no significant difference between the 2 IVTA groups (mean difference 1.1, P = .49).",N,0,N,0,N,N,N,N,N,N,N
+117,"In the DRCR.net protocol I study evaluating patients receiving 0.5 mg ranibizumab combined with prompt or deferred laser, 4 mg IVTA plus prompt laser, or laser only, treatment with IVTA plus laser resulted in a mean loss of 1.5 letters from baseline compared with laser-only treatment at 12 months.",N,0,N,0,N,N,N,N,N,N,N
+118,"In an analysis limited to pseudophakic eyes, the mean change in VA was 1.6 letters greater in the IVTA plus prompt laser group compared within the laser-only group, and this was comparable to the improvements achieved with ranibizumab plus prompt/deferred laser.",N,0,N,0,N,N,N,N,N,N,N
+119,"The Fluocinolone Acetonide in Diabetic Macular Edema (FAME) study, a 36-month, double-masked, sham-controlled, phase III study, examined the efficacy and safety profile of fluocinolone acetonide (FA) compared with that of sham injection in patients with persistent or recurrent DME.",N,0,N,0,N,N,N,N,N,N,N
+120,Patients (n = 956) with BCVA 20/50-20/200 and CRT ≥250 μm were randomized to receive 0.2 μg or 0.5 μg FA intravitreal inserts or sham injection.,N,0,N,0,N,N,N,N,N,N,N
+121,Treatment efficacy was similar for low- and high-dose FA but the benefit-to-risk profile was more favorable with the low dose.,N,0,N,0,N,N,N,N,N,N,N
+122,"FA provided no benefit in preventing vision loss compared with nontreatment, as similar proportions of patients progressed to blindness (BCVA 20/200 or worse).",N,0,N,0,N,N,N,N,N,N,N
+123,"In another phase II/III study evaluating the efficacy and safety of FA 0.59 mg inserts against standard of care (ie, laser treatment or observation), there was no significant difference in the proportion of eyes gaining ≥15 letters between patients in both arms after 3 years post implant.",N,0,N,0,N,N,N,N,N,N,N
+124,Intravitreal Corticosteroid Safety,N,0,N,1,N,N,N,N,N,N,N
+125,"The high incidence of premature cataract formation and increased IOP with intravitreal corticosteroids compared to with sham and laser treatments raises important concerns in clinical practice.The risk for interventional procedures, such as cataract surgery, laser trabeculoplasty, and incisional glaucoma surgery, increases treatment morbidity.",N,0,N,0,N,N,N,N,N,N,N
+126,There was no significant difference in the rate of adverse events when IVTA was extended to 5 years.,N,0,N,0,N,N,N,N,N,N,N
+127,A minority of patients in the IVTA study who underwent steroid-induced cataract surgery became unresponsive to further IVTA treatments and experienced poorer visual prognosis than those who did not need surgery.,N,0,N,0,N,N,N,N,N,N,N
+128,"Patients who received FA were also more likely to report cardiovascular adverse events than sham-treated patients, although the incidence seemed to be low (<1.1%) and the difference was not statistically significant.",N,0,N,0,N,N,N,N,N,N,N
+129,The role of vitrectomy in the management of refractory DME is less clear compared with other treatment modalities.,N,0,N,0,N,N,N,N,N,N,N
+130,"Several RCTs have reported conflicting results on pars plana vitrectomy with and without the removal of the internal limiting membrane in patients with DME refractory to standard laser treatment.Although vitrectomy effectively reduced retinal thickness, visual outcomes were less consistent, with improvement of VA in some eyes and worsening of VA in others.",N,0,N,0,N,N,N,N,N,N,N
+131,"The evidence for combining vitrectomy with intravitreal corticosteroids, intravitreal anti-VEGF agents, and/or laser photocoagulation to treat refractory DME is limited to small, nonrandomized, uncontrolled case series.Stronger evidence from large, well-designed RCTs with long-term follow-up is needed to establish a role for this treatment approach in DME.",N,0,N,0,N,N,N,N,N,N,N
+132,"Treatment of DME should be preceded by assessment of VA, a full ocular examination, and confirmation of DME.",N,0,N,0,N,N,N,N,N,N,N
+133,"Although the ETDRS definition of CSME has long been considered the “gold standard” for characterizing DME severity, it remains difficult to use and does not help identify patients at risk of vision loss.Another definition for DME is the International Clinical Classification Scale.",N,0,N,0,N,N,N,N,N,N,N
+134,"As outlined earlier, DME should be more simply defined as thickening of the central or noncentral macula, confirmed either at slit-lamp biomicroscopy or with OCT, which is not explained by thickening from an ERM.",N,0,N,0,N,N,N,N,N,N,N
+135,"Currently, qualitative assessment of thickening seen on OCT is used to define DME.",N,0,N,0,N,N,N,N,N,N,N
+136,"Further research is needed to clarify if specific features (eg, intraretinal cysts or disruption of the inner segment/outer segment junction) and quantitative measures (eg, volume of thickening) are useful in assessing the need for anti-VEGF treatment or in predicting outcomes.",N,0,N,0,N,N,N,N,N,N,N
+137,Indications for Anti–Vascular Endothelial Growth Factor Therapy,N,0,N,0,N,N,N,N,N,N,N
+138,"Findings from meta-analyses by Virgili and associates and Wang and associates51 support the use of anti-VEGF agents, namely ranibizumab, as an alternative or adjunctive treatment to laser.",N,0,N,0,N,N,N,N,N,N,N
+139,"Treatment with anti-VEGF should be considered if center-involving DME is present and VA is 20/30 or worse, as this was the basis for entry into both the RESTORE and the DRCR.net Protocol I studies.",N,0,N,0,N,N,N,N,N,N,N
+140,Outcomes showed visual benefit for subgroups with this level of VA.[A:I],N,0,N,0,N,N,N,N,N,N,N
+141,"Focal laser photocoagulation using ETDRS guidelines should still be considered for patients with DME without center involvement, or for center-involving DME in which VA is better than 20/30 (see Figure),[A:I] as no such cases were included in the pivotal RCTs of anti-VEGF therapy.",N,0,N,0,N,N,N,N,N,N,N
+142,Diabetic macular edema (DME) treatment flow diagram.,N,0,N,0,N,N,N,N,N,N,N
+143,"Treatment should be given according to the Early Treatment for Diabetic Retinopathy Study (ETDRS) guidelines in patients without center involvement, and in patients with center involvement but with vision better than 20/30.",N,0,N,0,N,N,N,N,N,N,N
+144,Anti–vascular endothelial growth factor (anti-VEGF) treatment is recommended in patients with center involvement and vision 20/30 or worse.,N,0,N,0,N,N,N,N,N,N,N
+145,OCT = optical coherence tomography; VA = visual acuity.,N,0,N,1,N,N,N,N,N,N,N
+146,"In certain patients, anti-VEGF treatment might be considered in future if VA were better than 20/30, although studies will be needed to confirm its role for such cases (eg, DME with microaneurysms involving the foveal edge, severe diffuse DME, or recalcitrant DME after previous laser).",N,0,N,0,N,N,N,N,N,N,N
+147,"There is no evidence that specific patient characteristics, systemic conditions, or medication use precludes ranibizumab treatment.",N,0,N,0,N,N,N,N,N,N,N
+148,"However, patients with poorer baseline VA, younger age, less severe DR, and an absence of an ERM are more likely to experience greater visual improvement following ranibizumab treatment.",N,0,N,0,N,N,N,N,N,N,N
+149,Treatment Initiation and Follow-up Regimen,N,0,N,0,N,N,N,N,N,N,N
+150,This guideline recommends monthly anti-VEGF injections given for at least 3 consecutive months (“loading” dose) followed by monthly assessment visits.,N,0,N,0,N,N,N,N,N,N,N
+151,[A:I]The decision to continue anti-VEGF injections may be guided either by VA stability (RESTORE) or by VA and OCT stability (DRCR.net Protocol I).,N,0,N,0,N,N,N,N,N,N,N
+152,"The rationale for using VA stability is that if VA is still improving, or if VA has fallen and this reduction is considered attributable to DME, then injection should be continued.",N,0,N,0,N,N,N,N,N,N,N
+153,"If VA is stable for at least 2 consecutive visits, then injections could be suspended and monthly follow-up continued.",N,0,N,0,N,N,N,N,N,N,N
+154,"Stability of signs on OCT, particularly the presence of intraretinal or subretinal fluid, could also guide either the continuation or the suspension of injections.",N,0,N,0,N,N,N,N,N,N,N
+155,"The fixed monthly schedule used in RISE and RIDE was designed to optimize treatment outcomes based on the pharmacokinetic studies of ranibizumab,but this schedule leads to considerable burden in DME patients who frequently have multiple comorbidities, with regular visits needed to many other subspecialists.",N,0,N,0,N,N,N,N,N,N,N
+156,Fixed dosing also leads to greater exposure to treatment-related risks and increased treatment costs.,N,0,N,1,N,N,N,N,N,N,N
+157,"The treatment approach proposed was therefore based on flexible dosing schedules used in both the RESTORE (Supplemental Figure 1, available at AJO.com) and DRCR.net (Supplemental Figure 2, available at AJO.com) treatment protocols.",N,0,N,0,N,N,N,N,N,N,N
+158,"The validity of a flexible dosing schedule is supported by its ability to maintain visual stability achieved early in the treatment initiation phase with less than monthly injections.Future studies should quantify and compare costs associated with treatment, follow-up visits, and the visual and quality-of-life outcomes between flexible and fixed dosing schedules.",N,0,N,0,N,N,N,N,N,N,N
+159,Doubling of follow-up intervals may be considered within the first 6 months if visual stability can be maintained for 3 consecutive visits.,N,0,N,0,N,N,N,N,N,N,N
+160,"[C:I]If DME continues to progress and other causes of vision loss have been excluded, laser treatment should be considered using ETDRS guidelines.",N,0,N,0,N,N,N,N,N,N,N
+161,"[A:I]In patients with DME undergoing cataract surgery, efforts should be made to resolve the DME before surgery.",N,0,N,0,N,N,N,N,N,N,N
+162,[A:I] The DRCR.net cautions against the long-term use of IVTA owing to increased risk of glaucoma and almost inevitable progression of cataract.,N,0,N,0,N,N,N,N,N,N,N
+163,"[A:I] However, pseudophakic eyes may benefit from combined IVTA and laser therapy, although similar outcomes were achieved with ranibizumab plus laser without steroid complications.",N,0,N,0,N,N,N,N,N,N,N
+164,[A:I]IVTA may provide an alternative to anti-VEGF therapy in patients who are either hypersensitive or nonresponsive to anti-VEGF therapy.,N,0,N,0,N,N,N,N,N,N,N
+165,[A:I]The Table summarizes the recommendations discussed in this section.,N,0,N,0,N,N,N,N,N,N,N
+166,Summary of Diabetic Macular Edema Treatment Recommendations,N,0,N,0,N,N,N,N,N,N,N
+167,"Presented as importance of clinical outcome, strength of evidence.",N,0,N,0,N,N,N,N,N,N,N
+168,"A indicates that the recommendation is considered very important or crucial to a good clinical outcome; B, moderately important to clinical outcome; C, may be relevant but cannot be definitely related to clinical outcome.",N,0,N,0,N,N,N,N,N,N,N
+169,"I indicates data providing strong evidence in support of clinical recommendation; II, substantial evidence in support of recommendation but the evidence lacks some qualities; III, insufficient evidence to provide support for or against recommendation, or panel consensus.",N,0,N,0,N,N,N,N,N,N,N
+170,Recommendations made in this guideline were based on the best available data; results from ongoing and future RCT studies may alter treatment recommendations.,N,0,N,0,N,N,N,N,N,N,N
+171,There are certain limitations to our recommendations.,N,0,N,0,N,N,N,N,N,N,N
+172,"As highlighted, although there is value in using OCT to define DME, a standardized OCT-based DME classification has yet to be developed, and the features that predict the need or type of treatment and the treatment outcomes remain unclear.",N,0,N,0,N,N,N,N,N,N,N
+173,Comparative evidence on the long-term efficacy and safety of anti-VEGF agents in DME are absent.,N,0,N,0,N,N,N,N,N,N,N
+174,There is currently no evidence to support the use of anti-VEGF agents in eyes with VA better than 20/30.,N,0,N,0,N,N,N,N,N,N,N
+175,More data on predictors of treatment response are also needed to aid in patient selection.,N,0,N,0,N,N,N,N,N,N,N
+176,"The appropriate dose for anti-VEGF treatment remains to be defined, as existing trials were not powered to compare different doses (eg, ranibizumab 0.3 mg vs 0.5 mg).",N,0,N,0,N,N,N,N,N,N,N
+177,The clinical impact and cost effectiveness of both flexible and fixed monthly dosing regimens also require further exploration.,N,0,N,0,N,N,N,N,N,N,N
+178,DME is the major cause of vision loss in patients with DM.,N,0,N,0,N,N,N,N,N,N,N
+179,"Although laser treatment has long been the primary therapy for preventing blindness in patients with DME, treatment goals should now aim to restore impaired vision, prevent further vision loss, and improve visual function.",N,0,N,0,N,N,N,N,N,N,N
+180,"Recent RCTs suggest that these goals can be obtained using intravitreal anti-VEGF therapy, with a well-documented tolerable safety profile.",N,0,N,0,N,N,N,N,N,N,N
+181,"As a result of these recent data, we propose the use of anti-VEGF therapy as the first line of treatment in place of laser photocoagulation in DME causing vision loss.",N,0,N,0,N,N,N,N,N,N,N
+182,We note that the current evidence is largely based on studies with ranibizumab.,N,0,N,0,N,N,N,N,N,N,N
+183,"Until additional data for the use of bevacizumab and aflibercept become available, this guideline recommends ranibizumab as the treatment of choice for patients with center-involving DME with moderate visual impairment.",N,0,N,0,N,N,N,N,N,N,N
+184,"This is recommended to be given in a flexible dosing schedule, rather than continuously.",N,0,N,0,N,N,N,N,N,N,N
+185,Patients who do not yet meet the treatment threshold should be managed with laser therapy according to ETDRS guidelines or should continue to be closely observed.,N,0,N,0,N,N,N,N,N,N,N
+186,Both authors have completed and submitted the ICMJE form for disclosure of potential conflicts of interest.,N,0,N,0,N,N,N,N,N,N,N
+187,"Paul Mitchell has served on advisory boards for Abbott, Allergan, Bayer, Novartis, and Pfizer, and has received honoraria for travel, service on advisory boards, and research support from these companies.",N,0,N,0,N,N,N,N,N,N,N
+188,"Tien Yin Wong is on advisory boards for Abbott, Allergan, Bayer, Novartis, and Pfizer, and has received honoraria for travel, service on advisory boards, and research support from these companies.",N,0,N,0,N,N,N,N,N,N,N
+189,"Funding for Diabetic Macular Edema Treatment Guideline Working Group member meetings and the medical writing service was provided by Novartis AG, Basel, Switzerland.",N,0,N,0,N,N,N,N,N,N,N
+190,"Contributions of authors: concept and outline (P.M., T.Y.W.",N,0,N,0,N,N,N,N,N,N,N
+191,"); manuscript development (P.M., T.Y.W.",N,0,N,0,N,N,N,N,N,N,N
+192,"); review and final approval (P.M., T.Y.W.).",N,0,N,0,N,N,N,N,N,N,N
+193,"All content was reviewed, discussed, and given final approval by the DME Treatment Guideline Working Group Members.",N,0,N,0,N,N,N,N,N,N,N
+194,"The Diabetic Macular Edema Treatment Guideline Working Group consists of the following members from the Asia-Pacific region: Paul Mitchell (Centre for Vision Research, Westmead Millennium Institute, University of Sydney, Australia); David Liu (Chinese University of Hong Kong, China); Taraprasad Das (L.V.",N,0,N,0,N,N,N,N,N,N,N
+195,"Prasad Eye Institute, Bhubaneswar, India); Iwan Sovani (National Eye Center Cicendo Eye Hospital, Bandung, Indonesia); Hakyoung Kim (Hallym University Medical Center, Seoul, South Korea); Hyung Chan Kim (Konkuk University School of Medicine, Seoul, South Korea); Hyung Woo Kwak (Kyung Hee University Medical Center, Seoul, South Korea); Harvey Uy (Pacific Eye and Laser Institute, Makati City, Manila, Philippines); Tien Yin Wong (Singapore Eye Research Institute, Singapore National Eye Centre, National University of Singapore, Singapore); Shwu-Jiuan Sheu (Kaoshiung Veterans Hospital, Kaoshiung, Taiwan); Paisan Ruamviboonsuk (Rajavithi Hospital, Bangkok, Thailand).",N,0,N,0,N,N,N,N,N,N,N
+196,"The authors thank Charity Yii Tien Jen of In Vivo Communications (Asia) Pte Ltd for medical writing support, which encompassed research, drafting, and revisions of the manuscript, tables, and figures, all under the direction of the authors.",N,0,N,0,N,N,N,N,N,N,N
+197,Novartis AG did not influence any content of this paper.,N,0,N,0,N,N,N,N,N,N,N
+198,The authors and the Diabetic Macular Edema Treatment Guideline Working Group did not receive any honorarium for their involvement in the development of this manuscript.,N,0,N,0,N,N,N,N,N,N,N

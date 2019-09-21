@@ -1,0 +1,139 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Background/aims: To determine the medium-term effect of travoprost on the daytime intraocular pressure (IOP) of patients with normal tension glaucoma (NTG),0,0,0,0,N,0,0,N,0,0,0
+1,"Methods: Newly diagnosed NTG patients underwent baseline, daytime, hourly IOP phasing.",0,0,0,0,N,0,0,N,0,0,0
+2,Patients were randomised to either treatment or no treatment (control).,0,1,1,0,N,0,0,N,0,0,0
+3,Treatment comprised once daily topical travoprost 0.004%.,0,0,0,0,N,0,0,N,0,0,0
+4,"After 6 months, the participants underwent their second IOP phasing.",0,0,0,0,N,0,0,N,0,0,0
+5,Results: Data from 88 participants were analysed—54 were randomised to treatment and 34 to the control group.,0,0,0,0,N,0,0,N,0,0,0
+6,The mean duration of treatment was 6 months.,0,0,0,0,N,0,0,N,0,0,0
+7,"The average, maximum and minimum diurnal IOPs for treated patients were statistically significantly lower than for control patients at follow-up (p<0.001).",0,0,0,0,N,0,0,N,0,1,0
+8,"When compared with baseline IOP, the travoprost treated group demonstrated a decrease of 16.1%, 13.5% and 16.7% in the average IOP, maximum IOP, and minimum IOP respectively.",0,0,0,0,N,0,0,N,0,1,0
+9,"Of those treated, about one-third achieved a decrease in average IOP of at least 20%; only about one-tenth achieved a reduction of at least 30%.",0,0,0,0,N,0,0,N,0,1,0
+10,Conclusion: Travoprost monotherapy had a sustained hypotensive effect in NTG and achieved a reasonable or good response (>20% reduction in average IOP) in 32.9% of treated eyes.,0,0,0,0,N,0,0,N,0,0,0
+11,"However, in the majority of eyes with NTG, travoprost monotherapy appeared unable to produce the desirable 30% reduction in average IOP.",1,0,0,0,N,0,0,N,0,0,0
+12,The benefits of intraocular pressure (IOP) lowering in normal tension glaucoma (NTG) are less evident compared with high tension primary open angle glaucoma (POAG) since IOP-independent aetiological factors play a role in NTG.,0,0,0,0,N,0,0,N,0,0,0
+13,"However, the Collaborative Normal-Tension Glaucoma Study (CNTGS) has shown that IOP plays an important role in NTG and that a 30% IOP reduction can slow the rate of visual field loss.",0,0,0,0,N,1,0,N,0,0,0
+14,"For many patients with NTG, filtration surgery can reduce IOP by 30% but is not risk-free.",0,0,0,0,N,0,0,N,0,0,0
+15,"To date, there has been little published relating to prostaglandins in the treatment of NTG.",0,0,0,0,N,0,0,N,0,0,0
+16,"Thus, the present randomised controlled trial (RCT) was conducted to assess the medium-term ocular hypotensive effect of travoprost monotherapy in newly diagnosed NTG.",0,0,1,0,N,0,1,N,0,0,0
+17,A secondary aim was to identify ocular or systemic factors that were associated with responsiveness to therapy.,0,0,0,0,N,0,0,N,1,0,0
+18,"The present study was a prospective, randomised, controlled, assessor-blinded clinical trial.",0,0,0,0,N,0,1,N,0,0,0
+19,"From July 2004 to October 2005, new patients with NTG, attending the Norfolk & Norwich University Hospital glaucoma clinic, were invited to take part.",0,0,0,0,N,0,0,N,0,0,0
+20,"All patients underwent a full ophthalmic examination including visual acuity, refraction, visual field (Humphrey 24-2 SITA-Standard, Carl Zeiss Meditec, Dublin, CA), slit-lamp biomicroscopy, and pachymetry (Optikon 2000 S.p.A, Altair, Rome) to measure central corneal thickness (CCT).",0,0,0,0,N,0,0,N,0,0,0
+21,A diagnosis of NTG was made if the following criteria were fulfilled:,0,0,0,0,N,0,0,N,0,0,0
+22,"glaucomatous optic disc changes and visual field defects characteristic of glaucoma (as defined by the CNTGS3) present in one or both eyes that were reliable (<15% false positives, <20% false negatives and <15% fixation losses);",1,0,0,0,N,0,0,N,0,0,0
+23,open drainage angles at gonioscopy;,0,0,0,0,N,0,0,N,0,0,0
+24,"IOP ⩽22 mm Hg in both eyes during daytime IOP phasing, one spike of up to 24 mm Hg being allowed.",1,0,0,0,N,0,0,N,0,0,0
+25,"Exclusion criteria included fixation-threatening or symptomatic visual field defects, previous intraocular surgery, use of systemic medications with potential effects on visual field, and a previous history of systemic/ocular pathology that may have affected the optic disc, visual field or IOP.",0,0,0,0,N,0,0,N,0,0,0
+26,"Patients on systemic ß-blockers were not excluded if treatment had been started before enrolment into the study, and the dosage remained stable throughout the study duration.",0,0,0,0,N,0,0,N,0,0,0
+27,"For patients with unilateral NTG, only the affected eye was included.",0,0,0,0,N,0,0,N,0,0,0
+28,"Demographic data collected included age, gender, ethnicity, family history of glaucoma, previous medical/ophthalmic history and smoking/drug history.",0,0,0,0,N,0,0,N,0,0,0
+29,"Following the confirmed diagnosis of NTG at the baseline session of IOP phasing, subjects were randomised into either the treatment or control group.",0,0,1,1,N,0,0,N,0,0,0
+30,"The randomisation process used 100 sealed envelopes, each containing a patient number and “therapy”—travoprost (n = 60) or no treatment (n = 40).",0,0,1,0,N,0,0,N,0,0,0
+31,Treatment consisted of one drop of travoprost 0.004% administered every night at 21.00–23.00.,0,0,0,0,N,0,0,N,0,0,0
+32,"Patients in the control group were untreated, as were the unaffected eyes of those treated patients with unilateral NTG.",0,0,0,0,N,0,0,N,0,0,0
+33,"After a minimum period of 5.6 months, each study patient underwent a second session of daytime IOP phasing.",0,0,0,0,N,0,0,N,0,0,0
+34,"At both periods of phasing, the IOP was measured hourly (08:00–17:00) to give a total of 10 readings for each session.",0,0,0,0,N,0,0,N,0,0,0
+35,"A single observer (JPK) performed Goldmann applanation tonometry, and both he and his assisting specialist nurse were blinded to treatment status.",0,0,0,0,N,0,0,N,0,0,0
+36,"For each IOP reading, the assistant set the tonometer dial to a random position between 8 and 24 mm Hg, prior to the observer performing tonometry.",0,0,0,0,N,0,0,N,0,0,0
+37,The primary efficacy endpoint was the average value of the 10 IOP readings.,0,0,0,0,N,0,0,N,0,0,0
+38,The maximum and minimum values and the IOP range were included as secondary endpoints.,0,0,0,0,N,0,0,N,0,0,0
+39,"The study was calculated to have a 90% power to detect a 2 mm Hg difference in the mean average IOP between the two randomised groups, assuming a standard deviation of 2.5 mm Hg and an α value of 0.05, with the significance level set at 5%.",0,0,0,0,N,0,0,N,0,0,0
+40,Descriptive statistics were used to compare the two groups at baseline.,0,0,0,0,N,0,0,N,0,0,0
+41,"At follow-up, inter-group differences were analysed using a two-sample t test.",0,0,0,0,N,0,0,N,0,0,0
+42,A 95% CI was constructed for the difference in means.,0,0,0,0,N,0,0,N,0,0,0
+43,"A general linear model (GLM) was used to adjust for baseline values, CCT and any between-group disparities at baseline.",0,0,0,0,N,0,0,N,0,0,0
+44,A 95% CI was constructed for the adjusted difference in means.,0,0,0,0,N,0,0,N,0,0,0
+45,A further analysis was performed using a generalised estimating equation (GEE).,0,0,0,0,N,0,0,N,0,0,0
+46,The GEE was similar in nature to the GLM and included the same variables for adjustment.,0,0,0,0,N,0,1,N,0,0,0
+47,"However, the GEE approach “adjusted” for the correlation in IOP between eyes within the same subject.",0,0,0,0,N,0,0,N,0,0,0
+48,"An intention-to-treat approach was adopted, and the subjects were analysed according to their randomised group.",0,0,0,0,N,0,0,N,1,0,0
+49,A more conservative analysis was performed in which baseline IOP values were used to impute the missing data for those subjects lost to follow-up.,1,0,0,0,N,0,0,N,0,0,0
+50,"In addition, a secondary analysis investigated possible treatment effect modifiers by adding an interaction term (an interaction between treatment and putative modifier) into the GLM.",0,0,0,0,N,0,0,N,0,0,0
+51,"Finally, a principal-components analysis (PCA) was performed to examine patterns in IOP over the 10 h of follow-up, based upon the correlation matrix.",0,0,0,0,N,0,0,N,0,0,0
+52,Those components accounting for >5% of the total variation were considered “important” and were investigated further.,0,0,0,0,N,0,0,N,0,0,0
+53,Study approval was obtained from the Huntingdon Local Research Ethics and the East Norfolk and Waveney Research Governance committees.,0,0,0,0,N,0,0,N,0,0,0
+54,The study was conducted in accordance with the tenets of the Declaration of Helsinki.,0,0,0,0,N,0,0,N,0,0,0
+55,Informed consent was obtained from all participants.,0,0,0,0,N,0,0,N,0,0,0
+56,"Eighty-eight newly diagnosed NTG patients were recruited—54 were randomised into the treatment group, and 34 were randomised into the control group.",0,0,0,0,N,0,0,N,0,0,0
+57,"Generally, the two groups were similar at baseline with respect to demography (table 1), although more of the control group were smokers (21% vs 13%), and more of the travoprost group had asthma/COPD (22% vs 9%).",0,0,0,0,N,0,0,N,0,0,0
+58,Both of these variables were used for adjustment in the GLM.,0,0,0,0,N,0,0,N,0,0,0
+59,"Demographic details, medical history and drug history of the travoprost-treated and control-group patients",0,0,0,0,N,0,0,N,0,0,0
+60,"In the travoprost group, there were eight unaffected eyes in patients with unilateral NTG, and in the control group, there were four unaffected eyes.",0,0,0,0,N,1,0,N,0,0,0
+61,"Data for unaffected eyes were excluded, leaving 100 treated eyes and 64 control eyes.",0,0,0,0,N,0,0,N,0,0,0
+62,There were no disparities between groups in baseline ocular characteristics (table 2).,0,0,0,1,N,0,0,N,0,0,0
+63,"The baseline IOP variables were similar, and the refraction of the treated eyes tended to be only slightly more myopic than the control eyes.",0,0,0,1,N,0,0,N,0,0,0
+64,"The CCT measurements were similar in both groups and, as expected, lower than the population average.",0,0,0,1,N,0,0,N,0,0,0
+65,Intraocular pressure and other ocular features at baseline (affected eyes),0,0,0,0,N,0,0,N,0,0,0
+66,"The mean duration between the two sessions of IOP phasing was 6.1 months (SD 0.7, range 5.6 to 9.4).",0,0,0,0,N,0,0,N,0,0,0
+67,"No patients were switched between groups, and none had their second session of phasing expedited due to glaucomatous progression.",0,0,0,0,N,0,0,N,0,0,0
+68,"From the travoprost group, 12 patients (three with unilateral NTG) did not complete the study—five patients developed side effects attributed to the topical therapy, three moved away, two died (for reasons unrelated to the therapy), one underwent cataract surgery mid-study, and one defaulted from follow-up.",0,0,0,0,N,0,0,N,0,0,0
+69,"The side effects attributed to travoprost experienced by the five participants included allergic/toxic conjunctivitis (two patients), dry eyes (one patient), unaccepted iris colour change (one patient) and headache (one patient).",0,0,0,0,N,0,0,N,0,0,0
+70,The number of treated eyes at study completion was 79.,0,0,0,0,N,0,0,N,0,0,0
+71,"From the control group, two patients defaulted follow-up due to personal commitments, leaving 60 control eyes.",0,0,0,0,N,0,0,N,0,0,0
+72,Figure 1 shows the mean diurnal curves for both randomised groups at baseline and follow-up.,0,0,0,0,N,0,0,N,1,0,0
+73,"At baseline, the curves appeared similar in shape for the two groups.",0,0,0,0,N,0,0,N,1,0,0
+74,"Both groups tended to exhibit higher IOPs in the morning, decreasing around noon, these increasing again by late afternoon.",0,0,0,0,N,0,0,N,0,0,0
+75,Diurnal average IOP curves of randomised treated (dashed line) and control (solid line) groups at baseline and at the 6-month follow-up visit.,0,0,0,0,N,0,0,N,0,0,0
+76,"When compared with the control group (table 3), the treated eyes had a statistically significantly lower mean average IOP (12.5 mm Hg vs 14.5 mm Hg, mean difference = −1.98 mm Hg, p<0.001, 95% CI −2.79 to −1.17), mean maximum IOP (15.5 mm Hg vs 17.6 mm Hg, mean difference = −2.18 mm Hg, p<0.001, 95% CI −3.19 to −1.16), and mean minimum IOP (10.1 mm Hg vs 11.6 mm Hg, mean difference = −1.58 mm Hg, p<0.001, 95% CI −2.34 to −0.83) at 6 months.",0,0,0,0,N,0,0,N,0,0,0
+77,"There was a small but not statistically significant difference in the IOP range (5.4 mm Hg vs 6.0 mm Hg, mean difference = −0.60, p = 0.063, 95% CI −1.22 to 0.03).",0,0,0,0,N,0,0,N,0,0,0
+78,"Adjusting for baseline values, CCT, smoking status and asthma/COPD using a GLM or a GEE made no significant difference.",0,0,0,0,N,0,0,N,0,0,0
+79,Intraocular pressure at follow-up (affected eyes),0,0,0,0,N,0,0,N,0,0,0
+80,The same analysis was repeated using baseline data imputed for missing follow-up values for those subjects that dropped out of the study (table 4).,0,0,0,0,N,1,0,N,0,0,0
+81,"There were still statistically significant differences between the treatment group and the control group for the average, maximum and minimum IOP, but there was no evidence of any affect on IOP range.",0,0,0,0,N,0,0,N,0,0,0
+82,"The magnitude of the between-group differences was predictably lower than with the previous, less conservative, analysis.",0,0,0,0,N,0,0,N,0,0,0
+83,Intraocular pressure at follow-up (affected eyes)—using imputed values,0,0,0,0,N,0,0,N,0,0,0
+84,"For eyes in the treated group reaching study completion, the mean average IOP was reduced by 16.1% (14.9 mm Hg to 12.5 mm Hg), while the mean maximum IOP fell by 13.5% (17.8 mm Hg to 15.5 mm Hg) and the mean minimum IOP by 16.7% (12.1 mm Hg to 10.1 mm Hg).",0,0,0,0,N,0,0,N,0,0,0
+85,"When considering individual eyes (n = 79), the percentage reduction in average IOP ranged from −16.9% to 41.1%, while the percentage reductions in maximum and minimum IOP ranged from −23.1% to 50.0%, and −50.0% to 50.0%, respectively.",0,0,0,0,N,0,0,N,0,0,0
+86,In just over one-fifth of eyes (22.8%; 18/79) there was at least a 30% reduction in the minimum IOP.,0,0,0,0,N,0,0,N,0,0,0
+87,"However, only 10.1% (8/79) and 8.9% (7/79) of the eyes treated with travoprost attained this level of reduction in the average IOP and maximum IOP, respectively (fig 2).",0,0,0,0,N,0,0,N,0,1,0
+88,"Percentage reduction in the average, maximum and minimum intraocular pressures in eyes treated with travoprost.",0,0,0,0,N,0,0,N,0,0,0
+89,All the factors listed in table 1 (with the exception of systemic steroid use and race due to small numbers) were considered as potential modifiers of therapeutic effect.,0,0,0,1,N,0,0,N,0,0,0
+90,Each factor was individually entered as an interaction term into the GLM.,0,0,0,0,N,0,0,N,0,0,0
+91,"None of the tested factors had a statistically, or near statistically, significant effect.",0,0,0,0,N,0,0,N,0,0,0
+92,An interaction between baseline IOP and group was also considered.,0,0,0,0,N,0,0,N,0,0,0
+93,"A statistically significant effect for average IOP (parameter estimate = −0.333/average baseline IOP in group 1, p = 0.006) was identified, indicating a greater hypotensive effect in travoprost treated eyes, compared with controls, for eyes with a higher baseline average IOP.",0,0,0,0,N,0,0,N,0,0,0
+94,A PCA for follow-up IOP identified only two components.,0,0,0,0,N,0,0,N,0,0,0
+95,The first component (accounting for 71% of total variance) had near equal weighting on each of the 10 follow-up readings and can be interpreted as an overall average of the 10 measurements.,0,0,0,0,N,0,0,N,0,0,1
+96,"Not surprisingly, there was a statistically significant difference between the two groups with respect to the mean of the first component scores (p<0.001, two-sample t test).",0,0,0,0,N,0,0,N,0,0,1
+97,The second component (accounting for <6% of the total variation) had no obvious pattern to the loadings.,0,0,0,0,N,0,0,N,0,0,1
+98,"There was little difference between the two groups in the mean second component scores (p = 0.834, two sample t test).",0,0,0,0,N,0,0,N,0,0,1
+99,"Thus, there was no indication of any change in shape of the diurnal curve induced by treatment.",0,0,0,0,N,0,0,N,0,0,0
+100,"The Collaborative Normal Tension Glaucoma Study (CNTGS) suggested that to reduce the rate of progressive visual field loss in NTG, the IOP might need to be reduced by 30%, often requiring filtration surgery.",0,0,0,0,N,0,0,N,0,0,0
+101,"Although surgical procedures are highly efficacious, they are associated with potential complications and ocular morbidity.2 Topical treatment, therefore, may provide a safer alternative, especially as initial treatment for NTG.",0,0,0,0,N,0,0,N,0,0,0
+102,"To date, no topical monotherapy apart from pilocarpine has been shown to provide a consistent target IOP reduction of 30% in eyes with NTG.",0,0,0,0,N,0,0,N,0,0,0
+103,"In the CNTGS, pilocarpine 2% alone achieved the required 30% IOP reduction in eight of 30 patients.However, both the required high frequency of application and potential side effects, including accommodative spasm, miosis, myopia, frontal headache and nausea, have reduced the popularity of pilocarpine.",0,0,0,0,N,0,0,N,0,0,0
+104,"Thus, prostaglandin analogues, with their better side-effect profile and once-daily dosing, have been evaluated for their ocular hypotensive effect in NTG.",0,0,0,0,N,0,0,N,0,0,0
+105,"Various studies relating to latanoprost monotherapy have shown a reduction in mean IOP of up to 21.4% in eyes with NTG, but attainment of a 30% mean IOP reduction has remained unreported.",0,0,0,0,N,0,0,N,0,0,0
+106,"Bimatoprost has also been evaluated, albeit in the short-term, and has been found to be more effective than latanoprost in reducing IOP in eyes with NTG after a 3-month treatment period (mean IOP reductions of 19.9% and 14.6%, respectively).",0,0,0,0,N,0,0,N,0,0,0
+107,"Although there remains concern about possible vasoconstrictive effects of the prostaglandin analogues, there has been no direct evidence for this in eyes with NTG.",0,0,0,0,N,0,0,N,0,0,0
+108,Travoprost is a highly selective prostaglandin F2α analogue.,0,0,0,0,N,0,1,N,0,0,0
+109,Various RCTs have found travoprost to be equally efficacious in comparison with latanoprost and bimatoprost in eyes with a minimum baseline IOP ⩾24 mm Hg.,0,0,0,0,N,0,0,N,0,0,0
+110,"So, while travoprost is highly effective when the baseline IOP is high, there is currently no evidence regarding its efficacy in eyes with NTG.",0,0,0,0,N,0,0,N,0,0,0
+111,"To our knowledge, the present RCT study is the first to report ocular hypotensive effects of travoprost in NTG.",0,0,0,0,N,0,0,N,0,0,0
+112,"Since the diurnal variation of IOP in patients with NTG has not been studied in detail, it was decided to measure the IOP on an hourly basis in order to gather as much data as possible to obtain a clearer idea of daytime IOP variation in NTG and the effect of travoprost upon this.",0,0,0,0,N,0,0,N,0,0,0
+113,"In the present study, eyes treated with travoprost achieved a mean IOP reduction of 16.1% for average daytime IOP, 13.5% for maximum IOP and 16.7% for minimum IOP.",1,0,0,0,N,0,0,N,0,0,0
+114,"These results, relating to use of travoprost in the management of NTG, may not appear to be as encouraging as those investigating other prostaglandin analogues, considering the higher reported IOP reductions achieved with latanoprost (up to 21.4%) or bimatroprost (up to 19.9%).",0,0,0,0,N,0,0,N,0,0,0
+115,"However, one has to compare the studies with caution, since inclusion criteria, methodology, study endpoints and duration varied.",0,0,0,0,N,0,0,N,0,0,0
+116,Travoprost was not compared with other drugs in the present study.,0,0,0,0,N,0,0,N,0,0,0
+117,"If considering only the NTG eyes treated with travoprost, 32.9% (26/79) achieved a minimum reduction of 20% in average IOP, but only 10.1% (8/79) achieved a minimum reduction of 30%.",0,0,0,0,N,0,0,N,0,1,0
+118,"If considering a 20% IOP reduction as a reasonable response, then a third (32.9%) of treated NTG patients might be expected to achieve this target using travoprost alone—this 20% reduction in average IOP was reported to occur in 40% of NTG eyes treated with latanoprost monotherapy.",0,0,0,0,N,0,0,N,0,0,0
+119,"How IOP fluctuation affects glaucoma progression when the baseline IOP is low, as in NTG, remains unclear.",0,0,0,0,N,0,0,N,0,0,0
+120,"In one study, Asrani et al concluded that the diurnal IOP range was a significant risk factor for glaucoma progression.",0,0,0,0,N,0,0,N,0,0,0
+121,"However, a subsequent report by Jonas et al showed no statistically significant association between progression and IOP amplitude; a subgroup analysis for 174 NTG eyes showing that progression of NTG was associated instead with the minimum and mean IOPs.",0,0,0,0,N,0,0,N,0,0,0
+122,"Interestingly, in the present study, as many as 43.0% (34/79) of treated eyes attained at least a 20% reduction in minimum IOP, and 22.8% (18/79) attained at least a 30% reduction.",0,0,0,0,N,0,0,N,0,0,0
+123,The present study found no flattening of the IOP diurnal curve after 6 months’ treatment with travoprost.,0,0,0,0,N,0,0,N,0,0,0
+124,"A randomised controlled trial with latanoprost in NTG similarly found no statistically significant effect on diurnal IOP profile, although there was a trend towards flattening of the diurnal curve.",0,0,0,0,N,0,0,N,0,0,1
+125,"A lack of effect on diurnal IOP profile in eyes with NTG is an interesting finding, since other studies assessing the effect of evening-dosed travoprost and latanoprost have reported narrowing of the diurnal IOP fluctuation in ocular hypertension (OH), primary open angle glaucoma (POAG) and pseudoexfoliation glaucoma (PXFG).",0,0,0,0,N,0,0,N,0,0,0
+126,"It is unclear if a lack of effect on the diurnal curve amplitude is NTG-specific, which could perhaps indicate that eyes with different types of glaucoma may respond differently to prostaglandin analogues.",0,0,0,0,N,0,0,N,0,0,0
+127,"Furthermore, the results of the present study showed that the IOP peak in travoprost-treated eyes occurred at 17:00–18:00 h, this being in accordance with the results of Orzalesi et al, who assessed eyes with OH and early to moderate POAG.",0,0,0,0,N,0,0,N,0,0,0
+128,"In contrast, other reports involving POAG and PXFG have found the IOP peak to be in the morning, at around 06:00–10:00 h. It is uncertain as to why the peak IOP identified in the present study (NTG) and Orzalesi’s study (OH and early to moderate POAG) occurred at a different time in comparison with other studies—again, the reported differences may reflect the possibility that diurnal IOP profiles may vary in the various ocular hypertensive and glaucomatous states.",0,0,0,0,N,0,0,N,0,0,0
+129,There were several potential weaknesses in the present study.,0,0,0,0,N,0,0,N,0,0,0
+130,"First, no placebo was used for the control group, and so the patients were not masked to their treatment status.",0,0,1,0,N,0,0,N,1,0,0
+131,"However, the observer performing tonometry was masked to patient treatment status, and the tonometry itself was performed in a masked fashion.",0,0,0,0,N,1,0,N,0,0,0
+132,"Thus, the study methodology minimised the potential bias effect of the study being open-label.",0,0,0,0,N,1,0,N,0,0,0
+133,"Second, adherence with treatment was not objectively assessed in the treated group.",0,0,0,0,N,0,1,N,0,0,0
+134,It is acknowledged that suboptimal adherence to treatment could result in a wide range of IOP lowering effects and may have reduced any potential flattening of the diurnal curve in the treated group.,0,0,0,0,N,0,0,N,0,0,0
+135,"In conclusion, travoprost monotherapy achieved a sustained IOP-lowering effect in a group of eyes with NTG after treatment for 6 months.",0,0,0,0,N,0,0,N,0,0,0
+136,"One-third of those treated achieved a reasonable IOP reduction of at least 20%, but only a relatively small proportion of NTG patients (10.1%) treated with travoprost monotherapy achieved the 30% average IOP reduction recommended by the CNTGS.",0,0,0,0,N,0,0,N,0,0,0
+137,"Unfortunately, the present study was unable to identify any factors that might have been useful in predicting those patients with NTG in whom a significant effect of travoprost would be expected—future studies designed to identify such predictive factors would be valuable.",0,0,0,0,N,0,0,N,0,0,0

@@ -1,0 +1,123 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"Background: To investigate if cataract surgery causes progression, from high‐risk early age‐related macular degeneration (AMD) to choroidal neovascularization (CNV), in the postoperative period.",0,0,N,0,N,N,N,0,N,0,0
+1,Methods: Randomized controlled trial.,0,0,N,0,N,N,N,0,N,0,0
+2,"Patients, with visually significant cataract and fundus features of early AMD at high risk of progression to CNV, were randomized into two groups and were evaluated at baseline and 6 months.",0,0,N,0,N,N,N,0,N,0,0
+3,The study patients (n = 27) underwent immediate cataract surgery.,0,0,N,0,N,N,N,0,N,0,0
+4,The control group (n = 29) comprised patients who had cataract surgery deferred until after the 6‐month visit.,0,0,N,0,N,N,N,0,N,0,0
+5,"Assessment included visual acuity, quality of life (QoL) and fundus fluorescein angiography (FFA).",0,0,N,0,N,N,N,0,N,0,0
+6,"Results: Of 68 eligible eyes, 60 participated and 56 completed the study.",0,0,N,0,N,N,N,0,N,0,0
+7,"Three referred eyes (3.2%) were ineligible on the basis of a pre‐existing, unsuspected occult CNV that was detected by baseline FFA.",0,0,N,0,N,N,N,0,N,0,0
+8,All three cases had end‐stage exudative AMD in the fellow eye.,0,0,N,0,N,N,N,0,N,0,0
+9,"Of the study eyes in the immediate surgery arm (n = 27), one (3.7%) developed CNV compared with none (0/29) in the deferred arm (χ2; P = 1.0) at 6 months.",0,0,N,0,N,N,N,0,N,0,0
+10,"In the operated group, there was a 2.8‐line improvement in logMAR visual acuity and 2.1‐fold average gain in QoL at 6 months.",0,0,N,0,N,N,N,0,N,0,0
+11,Conclusions: No increased short‐term risk of progression of AMD to CNV in high‐risk fundi following uncomplicated phacoemulsification surgery was found.,0,0,N,0,N,N,N,0,N,0,0
+12,"A low threshold for performing preoperative imaging in patients with AMD, especially in those with exudative AMD in the fellow eye, to exclude undetected CNV is recommended.",0,0,N,0,N,N,N,0,N,0,0
+13,"Provided there is no CNV, there are distinct benefits of cataract surgery in people with early AMD.",0,0,N,0,N,N,N,0,N,0,0
+14,"Age‐related macular degeneration (AMD) and cataract are common causes of visual loss in our community, with prevalence increasing in our ageing population.Frequently the two conditions coexist but the possible impact of cataract surgery on the progression of AMD is not known.",0,0,N,0,N,N,N,0,N,0,0
+15,Several epidemiological studies have investigated whether pseudophakia increases the long‐term risk for progression of AMD to choroidal neovascularization (CNV).The strongest evidence for this comes from the Beaver Dam Eye Study and the Blue Mountains Eye Study.,0,0,N,0,N,N,N,0,N,0,0
+16,"Both studies found that cataract surgery before baseline was associated with a three‐ to fourfold increased risk of development of CNV over 10 years.However, to date there are only a few clinical reports that have addressed whether or not the surgical insult, in the short term, stimulates CNV to develop in those eyes with high‐risk features.",0,0,N,0,N,N,N,0,N,0,0
+17,"In 1979, the first case series claiming exacerbation of AMD in the postoperative period was published.",0,0,N,0,N,N,N,0,N,0,0
+18,Blair and Ferguson found that six eyes in four patients developed fundus fluorescein angiography (FFA)‐documented haemorrhagic retinal pigment epithelial detachments secondary to AMD within 6 months of cataract surgery.,0,0,N,0,N,N,N,0,N,0,0
+19,"However, only one of the six eyes had a preoperative FFA and hence a pre‐existing occult CNV could not be excluded.",0,0,N,0,N,N,N,0,N,0,0
+20,"retrospectively reviewed 11 patients and prospectively followed a further 36 patients with FFA‐documented bilateral, symmetric, moderate non‐exudative AMD, who underwent unilateral extracapsular cataract extraction with intraocular lens implantation.",0,0,N,0,N,N,N,0,N,0,0
+21,Progression to CNV in the first postoperative year was significantly higher in the operated eye than in the control fellow eye (19.1% vs. 4.3%).The same authors also found that an uneventful postoperative course in the first eye did not correlate with a reduced risk of progression of AMD after cataract surgery in the second eye.,0,0,N,0,N,N,N,0,N,0,0
+22,"Indeed, an even higher incidence of second eyes (9 of 33) operated on developed CNV in the first postoperative year.",0,0,N,0,N,N,N,0,N,0,0
+23,"Conversely, a recent prospective case–control study by Armbrecht et al.",0,0,N,0,N,N,N,0,N,0,0
+24,"found no increased risk of CNV in a study group comprising 40 patients with AMD scheduled to have cataract surgery and a control group consisting of 43 patients with AMD not having cataract surgery.At the 1‐year follow up, no eye in the study group had progressed to CNV whereas two eyes in the control group did.",0,0,N,0,N,N,N,0,N,0,0
+25,In both cases the fellow eye had an established disciform scar.,0,0,N,0,N,N,N,0,N,0,0
+26,"As both AMD and cataracts frequently coexist it is important to clarify what, if any, increased risks exist for someone with AMD undergoing cataract surgery.",0,0,N,0,N,N,N,0,N,0,0
+27,This will ensure that patients are properly informed and those patients who would benefit from cataract surgery do not unnecessarily miss out.We performed a randomized controlled trial pilot study (The Cataract and Age‐Related Maculopathy Study) to investigate whether cataract surgery increases the risk of progression of early AMD to CNV in the early postoperative period in high‐risk fundi.,0,0,N,0,N,N,N,0,N,0,0
+28,"The study involved patients attending the Royal Victorian Eye and Ear Hospital (RVEEH), a tertiary referral hospital in Melbourne, Australia.",1,0,N,0,N,N,N,0,N,0,0
+29,Patients with AMD in the eye being considered for cataract surgery were referred for evaluation by a medical retinal specialist (RHG) to determine study eligibility.,1,0,N,0,N,N,N,0,N,0,0
+30,"The main inclusion criteria were a visually significant cataract, for which the patient desired cataract surgery, and early AMD at high risk of progression.",1,0,N,0,N,N,N,0,N,0,0
+31,"The latter was defined as either: an end‐stage AMD lesion (CNV, disciform scar, pigment epithelial detachment or geographic atrophy) in the fellow eye and any evidence of early AMD (soft drusen and/or pigmentary abnormalities) in the study eye; or bilateral high‐risk soft drusen (five or more soft drusen greater than 125 µm or one or more large druse greater than 250 µm within the central 1500 µm of macula).",1,0,N,0,N,N,N,0,N,0,0
+32,"Patients were excluded if the cataract, or other media opacity, precluded adequate visualization of the fundus or if there was any other retinal pathology.",1,0,N,0,N,N,N,0,N,0,0
+33,The inclusion and exclusion criteria are summarized in Table 1.,0,0,N,0,N,N,N,0,N,0,0
+34,Criteria for inclusion and exclusion,0,0,N,0,N,N,N,0,N,0,0
+35,The Human Research and Ethics Committee of the RVEEH granted ethics approval for the project and written informed consent was obtained from all study participants in accordance with the tenets of the Declaration of Helsinki.,0,0,N,0,N,N,N,0,N,0,0
+36,"All study participants had a baseline assessment performed and were then randomized to either a ‘treatment’ group, who underwent immediate (within 2 weeks) cataract extraction, or a ‘control’ group, who were randomized to deferred surgery after the 6‐month follow‐up visit.",0,0,N,0,N,N,N,0,N,0,0
+37,"Six months approximated the mean waiting time for cataract surgery at the RVEEH, so the control group was not being disadvantaged compared with regular hospital patients on cataract waiting lists.",0,0,N,0,N,N,N,0,N,0,0
+38,The baseline assessment involved a detailed demographic and medical history; best‐corrected distance visual acuity (VA); contrast sensitivity; Impact of Vision Impairment (IVI) questionnaire;lens photography; laser retinometry; colour fundus photography; and FFA.,0,0,N,0,N,N,N,0,N,0,0
+39,At the time of performing this study no ocular coherence tomography (OCT) scanning was available.,0,0,N,0,N,N,N,0,N,0,0
+40,Randomization into the two groups took place thereafter.,0,1,N,0,N,N,N,0,N,0,0
+41,"The 6‐month follow‐up assessment followed a similar protocol, omitting lens photography and laser retinometry.",0,0,N,0,N,N,N,0,N,0,0
+42,Best‐corrected distance VA was determined using a Bailey–Lovie logMAR retro‐illuminated chart.,0,0,N,0,N,N,N,0,N,0,0
+43,Contrast sensitivity was measured using a Pelli‐Robson chart.,0,0,N,0,N,N,N,0,N,0,0
+44,"The IVI, a validated vision‐specific quality of life (QoL) instrument described in detail elsewhere, was used to determine the impact of cataract surgery on QoL.",0,0,N,0,N,N,N,0,N,0,0
+45,Fundus fluorescein angiography was performed as part of the baseline assessment to determine eligibility for the study.,0,0,N,0,N,N,N,0,N,0,0
+46,The presence of pre‐existing CNV in the study eye excluded entry into the study.,0,0,N,0,N,N,N,0,N,0,0
+47,Cataract surgery was scheduled within 2 weeks of the FFA in all cases randomized to immediate surgery.,0,0,N,0,N,N,N,0,N,0,0
+48,All patients underwent phacoemulsification surgery.,0,0,N,0,N,N,N,0,N,0,0
+49,This 2‐week time limit ensured that it was highly unlikely that a CNV would develop in the interim between randomization and surgery.,0,0,N,0,N,N,N,0,N,0,0
+50,All participants attending the 6‐month visit also underwent FFA to determine the presence or absence of CNV.,0,0,N,0,N,N,N,0,N,0,0
+51,"Descriptive statistical analyses were performed to characterize the sociodemographic, clinical and IVI data of the participants.",0,0,N,0,N,N,N,0,N,0,0
+52,A one‐way anova was used to determine differences between the two groups at baseline on the dependent measures.,0,0,N,0,N,N,N,0,N,0,0
+53,Treatment effects were assessed using repeated measures anova to determine between‐group (early surgery and delayed surgery) and time (baseline and follow up) effects and group‐by‐time interactions.,0,0,N,0,N,N,N,0,N,0,0
+54,Time effects were investigated with paired t‐test.,0,0,N,0,N,N,N,0,N,0,0
+55,"Rasch analysis was performed to provide interval estimates of three subscales (emotional well‐being; mobility and independence; and reading and accessing information) and overall scores at baseline and follow up, using the RUMM2020 (RUMM 2020, RUMM Laboratory, Perth, WA, Australia, 2003).",0,0,N,0,N,N,N,0,N,0,0
+56,"Data were analysed using the SPSS statistical software (Version 16.0, SPSS Science, Chicago, IL, USA).",0,0,N,0,N,N,N,0,N,0,0
+57,An alpha level of P < 0.05 was chosen as the criterion for significance.,0,0,N,0,N,N,N,0,N,0,0
+58,Ninety‐three eyes were referred to the study and 68 of these were eligible.,0,0,N,1,N,N,N,1,N,1,1
+59,"Fourteen eyes were excluded, as the macular changes did not fit our criteria for high‐risk AMD.",0,0,N,1,N,N,N,1,N,1,1
+60,Two eyes were excluded because the density of the cataract precluded adequate visualization of the fundus.,0,0,N,1,N,N,N,1,N,1,1
+61,Four additional eyes were excluded because the lens opacities were judged not to be visually significant.,0,0,N,1,N,N,N,1,N,1,1
+62,Two more patients elected to have cataract surgery privately.,0,0,N,1,N,N,N,1,N,1,1
+63,Three of the eyes referred were excluded on the basis of a pre‐existing occult CNV that was not identified before referral to the study.,0,0,N,0,N,N,N,0,N,0,0
+64,"In one case, the CNV was detected on fundus examination by the medical retinal specialist (RHG) at baseline.",0,0,N,0,N,N,N,0,N,0,0
+65,"However, the other two were only identified by the baseline FFA.",0,0,N,0,N,N,N,0,N,0,0
+66,None of the three patients had visual symptoms suggestive of CNV.,0,0,N,0,N,N,N,0,N,0,0
+67,All three had end‐stage exudative AMD in the fellow eye.,0,0,N,0,N,N,N,0,N,0,0
+68,Sixty of the 68 patients (88% of those eligible) agreed to participate in the study.,0,0,N,0,N,N,N,0,N,0,0
+69,Twenty‐nine were randomized to the treatment group and 31 were randomized to the control group.,0,0,N,0,N,N,N,0,N,0,0
+70,"Of the 60 eyes recruited, all underwent a baseline assessment and 56 completed the 6‐month assessment.",0,0,N,0,N,N,N,0,N,0,0
+71,"Four were lost to follow up, two each from the control and treatment groups.",0,0,N,0,N,N,N,0,N,0,0
+72,"One participant died, two emigrated and one refused continued participation.",0,0,N,0,N,N,N,0,N,0,0
+73,The mean age of the deferred surgery participants was 78.7 ± 5.3 (SD) years (range 71–92 years).,0,0,N,0,N,N,N,0,N,0,0
+74,The mean age of the immediate surgery participants was 79.1 ± 6.2 years (range 67–91 years).,0,0,N,0,N,N,N,0,N,0,0
+75,Participants were predominantly female (62%) and Caucasian (88%).,0,0,N,0,N,N,N,0,N,0,0
+76,"There was no statistically significant difference for age (P = 0.80), gender (P = 0.60) or race (P = 0.70) between the two groups.",0,0,N,0,N,N,N,0,N,0,0
+77,No significant differences (P > 0.05) between the two groups were found with respect to other known and postulated risk factors for AMD.,0,0,N,0,N,N,N,0,N,0,0
+78,Fifteen eyes (seven immediate and eight deferred surgery) of the 60 eyes had end‐stage disease in the fellow eye; the remainder had bilateral high‐risk soft drusen.,0,0,N,0,N,N,N,0,N,0,0
+79,All participants underwent uncomplicated phacoemulsification surgery.,0,0,N,0,N,N,N,0,N,0,0
+80,Comorbidities of control and treatment groups,0,0,N,0,N,N,N,0,N,0,0
+81,"During the 6‐month follow‐up period of the study, none (0/29) of the participants in the deferred surgery group developed CNV.",0,0,N,0,N,N,N,0,N,0,0
+82,One participant (1/27) in the immediate surgery group developed CNV in the operated eye following an uncomplicated perioperative course.,0,0,N,0,N,N,N,0,N,0,0
+83,This patient had end‐stage exudative AMD in the fellow eye and scattered soft drusen and pigment change in the study eye at baseline.,0,0,N,0,N,N,N,0,N,0,0
+84,The preoperative VA was 6/18 in the study eye and <6/60 in the fellow eye.,0,0,N,0,N,N,N,0,N,0,0
+85,"Postoperatively, the best‐corrected VA improved to 6/6 part, N5 before the patient re‐presented at 5 months postoperatively complaining of reduced vision.",0,0,N,0,N,N,N,0,N,0,0
+86,Fundus examination revealed subretinal haemorrhage and fluid and a classic CNV was confirmed on FFA.,0,0,N,0,N,N,N,0,N,0,0
+87,"Treatment with photodynamic therapy with verteporfin was commenced but at the 6‐month follow‐up visit, the VA had dropped to 6/60 and at 12 months was recorded at 6/120 (anti‐vascular endothelial growth factor agents were not available at this time).",0,0,N,0,N,N,N,0,N,0,0
+88,"Colour fundus photographs (a, b) and fluorescein angiograms (c, d) of study right eye and fellow left eye showing no pre‐existing choroidal neovascularization (CNV) in the study eye and CNV in the fellow eye at baseline.",0,0,N,0,N,N,N,0,N,0,0
+89,Colour fundus photograph (e) and fluorescein angiogram (f) of study eye at 6‐month follow‐up visit showing new classic CNV.,0,0,N,0,N,N,N,0,N,0,0
+90,"At the 6‐month follow‐up visit, the deferred surgery group recorded no significant change in VA during the wait for cataract surgery.",0,0,N,0,N,N,N,0,N,0,0
+91,"However, the immediate surgery group showed significant improvement (P < 0.05).",0,0,N,0,N,N,N,0,N,0,0
+92,"There was an almost three‐line mean improvement in logMAR VA at follow up (2.8 lines) in the immediate surgery group compared with the delayed surgery group, before their surgery (1.0 line, P = 0.027).",0,0,N,0,N,N,N,0,N,0,0
+93,Results regarding change in QoL are described in detail elsewhere and are summarized in Table 3.,0,0,N,0,N,N,N,0,N,0,0
+94,"Briefly, they revealed a significant improvement in overall QoL and three specific domains: emotional well‐being; mobility and independence; and reading and accessing information.",0,0,N,0,N,N,N,0,N,0,0
+95,"The average gain in QoL was 2.1‐fold at the 6‐month follow up in the immediate surgery group, compared with the delayed group before their surgery.",0,0,N,0,N,N,N,0,N,0,0
+96,The Impact of Vision Impairment scores and visual acuity results (logMAR) at baseline and follow up for the control and treatment groups,0,0,N,0,N,N,N,0,N,0,0
+97,"Our study represents the only randomized controlled trial to address the risk of progression of AMD to CNV in high‐risk fundi following uncomplicated phacoemulsification surgery.Although the sample size of this study is small, our results indicate that there is no substantially increased risk of progression to CNV within the first 6 months after surgery, in a group at high risk of doing so.",0,0,N,0,N,N,N,0,N,0,0
+98,One patient out of 27 (3.7%) in the treatment arm developed CNV within 6 months of cataract surgery compared with none (0/29) in the delayed arm (χ2; P = 1.0).,0,0,N,0,N,N,N,0,N,0,0
+99,"Our results are in agreement with the prospective case–control study by Armbrecht et al., who found no increased risk of progression of AMD to CNV in the first postoperative year.However, the strength of their finding is tempered by the fact that the majority of participants were at low risk of progression to CNV.",0,0,N,0,N,N,N,0,N,0,0
+100,"Only 10 (25%) of the study eyes and 14 (32.5%) of the control eyes were classified as moderate AMD, the remainder being classified as either mild or end‐stage wet or dry AMD.",0,0,N,0,N,N,N,0,N,0,0
+101,"Our results are also supported by a recent publication by Baatz et al.Although baseline FFAs were not performed and there is bias inherent in any retrospective case–control study, the large number of participants is a strength.",0,0,N,0,N,N,N,0,N,0,0
+102,The cataract surgery group (n = 1152) comprised phakic patients with early AMD who underwent cataract surgery.,0,0,N,0,N,N,N,0,N,0,0
+103,The control group (n = 334) comprised phakic patients with early AMD who did not undergo cataract surgery.,0,0,N,0,N,N,N,0,N,0,0
+104,CNV developed in 2.43% of the cataract surgery group and 1.7% of the control group during the 1‐year follow up (P = 0.57).,0,0,N,0,N,N,N,0,N,0,0
+105,"A factor common to our study and that of Armbrecht et al.and Baatz et al.is that the majority, or all of the participants underwent phacoemulsification rather than extracapsular cataract extraction.",0,0,N,0,N,N,N,0,N,0,0
+106,"Improvement in surgical technique may account, at least in part, for the disparity between our findings and those of Pollack et al.",0,0,N,0,N,N,N,0,N,0,0
+107,despite both groups having high‐risk fundus features at similar risk of progression.,0,0,N,0,N,N,N,0,N,0,0
+108,Extracapsular cataract extraction is known to induce a much greater inflammatory reaction than modern phacoemulsification techniques.Recent elucidation of the involvement of the complement pathway in AMD pathogenesis may lend some rationale for increased perioperative inflammation being implicated in accelerated progression of AMD.,0,0,N,0,N,N,N,0,N,0,0
+109,One of the strengths of our study is that all participants had a FFA at baseline and follow up to confirm the presence or absence of CNV.,0,0,N,0,N,N,N,0,N,0,0
+110,These baseline FFAs enabled three cases of unsuspected pre‐existing CNV to be diagnosed.,0,0,N,0,N,N,N,0,N,0,0
+111,Two of the three cases were unsuspected on clinical examination and were detected only on the screening FFA that was performed on all potential recruits to determine eligibility for the trial.,0,0,N,0,N,N,N,0,N,0,0
+112,A FFA would not have been routinely performed on these patients.,0,0,N,0,N,N,N,0,N,0,0
+113,"All three cases, in addition to the surgical case that developed CNV in the postoperative period, had a disciform scar from CNV in the fellow eye.",0,0,N,0,N,N,N,0,N,0,0
+114,"This places these four participants in the highest‐risk category for development of CNV, the reported annual rate ranging from 4% to 12%.None of the three cases had any visual symptoms at presentation for cataract surgery that might have suggested the presence of CNV.",0,0,N,0,N,N,N,0,N,0,0
+115,"As a result of our study, we would recommend that clinicians have a low threshold for obtaining a preoperative FFA before undertaking cataract surgery, particularly in those patients with end‐stage exudative AMD in the fellow eye.",0,0,N,0,N,N,N,0,N,0,0
+116,"A reasonable alternative to FFA may now be OCT, which is non‐invasive and increasing in availability.",0,0,N,0,N,N,N,0,N,0,0
+117,"In keeping with other studies, we found that patients with early AMD benefited significantly from cataract surgery with respect to objective VA and QoL measures.",0,0,N,0,N,N,N,0,N,0,0
+118,"At the 6‐month visit, operated eyes showed an average 2.8‐line increase in logMAR VA and an average gain in QoL of 2.1‐fold, as measured by the IVI.It is therefore clear that denying or delaying cataract surgery in this subset of patients with AMD prolongs a period of poor vision, which could be rectified.",0,0,N,0,N,N,N,0,N,0,0
+119,It has often been argued that a randomized controlled trial such as this one would not be possible to carry out.We show that it is possible to perform such a study to answer a very important question in ophthalmology.,0,0,N,0,N,N,N,0,N,0,0
+120,Our study found that detailed characterization of the visual loss and a careful dilated fundus examination in combination with a low threshold for appropriate imaging (FFA or OCT) are essential in patients with cataract and concomitant AMD.,0,0,N,0,N,N,N,0,N,0,0
+121,"Our results suggest that, provided a thorough preoperative assessment is performed, and no CNV is found, there are clear benefits of phacoemulsification cataract surgery in this group of patients.",0,0,N,0,N,N,N,0,N,0,0

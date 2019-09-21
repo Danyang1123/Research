@@ -1,0 +1,176 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To determine the effectiveness of prism spectacles in people with age-related macular degeneration by relocating the retinal image.,0,0,0,0,0,N,N,0,N,0,0
+1,"We implemented a randomized, placebo-controlled, double-masked trial.",0,0,0,0,0,N,N,0,N,0,0
+2,Participants with age-related macular degeneration received a standard low-vision assessment and the prescription of conventional low-vision aids 6 weeks before the study intervention.,0,0,0,0,0,N,N,0,N,0,0
+3,"Participants were randomized to receive 1 of the following, including the optimal refractive correction: (1) custom, incorporating bilateral prisms to match participants’ preferred power and base direction; (2) standard, incorporating standard bilateral prisms (6 prism diopters [Δ] base up for logMAR [logarithm of the minimum angle of resolution] visual acuity (VA) of 0.48-1.00 and 10Δ base up for logMAR VA of 1.02-1.68); or (3) placebo, consisting of spectacles matched in weight and thickness to prism spectacles but without prism.",0,0,0,0,0,N,N,0,N,0,0
+4,"Outcomes measured binocularly at baseline and 3-month follow-up included distance logMAR VA, reading speed, critical print size, visual functioning questionnaires, and observed visual task performance.",0,0,0,0,0,N,N,0,N,0,0
+5,Scores on the 25-item National Eye Institute Visual Functioning Questionnaire and the Melbourne Low-Vision ADL (Activities of Daily Living) Index were converted to linear estimates using Rasch analysis.,0,0,0,0,0,N,N,0,N,0,0
+6,The Manchester Low Vision Questionnaire was used to collect descriptive data.,0,0,0,0,0,N,N,0,N,0,0
+7,"A total of 225 participants completed the trial (median age, 81 years).",0,0,0,0,0,N,N,0,N,0,0
+8,"We found no significant effect of treatment group on any of the outcome measures, including VA, the primary outcome (adjusted for baseline) (P = .63).",0,0,0,0,0,N,N,0,N,0,0
+9,Participants’ responses to the Manchester Low Vision Questionnaire suggested that the prism spectacles added to their problems.,0,0,0,0,0,N,N,0,N,0,0
+10,Prism spectacles are no more effective than conventional spectacles for people with age-related macular degeneration.,0,0,0,0,0,N,N,0,N,0,0
+11,Age-related macular degeneration (AMD) is the leading cause of visual impairment in the Western world and usually affects people 65 years and older.,0,0,0,0,0,N,N,0,N,0,0
+12,"Age-related macular degeneration impairs central vision, leading to difficulties in many activities essential to independent living.",0,0,0,0,0,N,N,0,N,0,0
+13,"Thus, affected people usually experience a lower quality of life compared with people of a similar age without AMD.",0,0,0,0,0,N,N,0,N,0,0
+14,"In the absence of effective preventative or curative treatments for most patients, and with an ever-increasing elderly population, the burden of AMD looks set to rise.",0,0,0,0,0,N,N,0,N,0,0
+15,"Patients with AMD often view noncentrally (eccentric viewing), using a preferred retinal location (PRL) outside the scotoma but still close to the fovea, because resolution worsens rapidly with greater distance from the foveal center.",0,0,0,0,0,N,N,0,N,0,0
+16,"Such patients are sometimes recognizable by their lack of normal eye contact and their need to look sideways at objects, which can cause postural problems.",0,0,0,0,0,N,N,0,N,0,0
+17,Eccentric viewing is necessary for optimizing visual functioning in the presence of a central scotoma.,0,0,0,0,0,N,N,0,N,0,0
+18,"If a corresponding change in oculomotor control is achieved, the PRL may functionally replace the fovea, and the conscious effort to eccentrically view is no longer required.",0,0,0,0,0,N,N,0,N,0,0
+19,"However, people with AMD often fail to optimize their use of eccentric viewing.",0,0,0,0,0,N,N,0,N,0,0
+20,"For example, the scotoma is rarely absolute, and people may experience difficulties in identifying an optimal PRL, with some patients choosing a PRL within the lesion area, and/or only achieving appropriate oculomotor control over time.",0,0,0,0,0,N,N,0,N,0,0
+21,"However, training in eccentric viewing to develop these skills is time consuming and of unknown effectiveness because such training has not been subjected to systematic evaluation.",0,0,0,0,0,N,N,0,N,0,0
+22,"A potentially cost-effective intervention involves the use of a prism, which is supposed to relocate the retinal image away from the scotoma to a PRL without requiring conscious effort from the patient.",0,0,0,0,0,N,N,0,N,0,0
+23,"The argument is used that, with the appropriate power and positioning of a prism, this technique (known as prism relocation therapy) should optimize visual functioning with little or no training and enable patients to maintain normal eye contact without postural problems.",0,0,0,0,0,N,N,0,N,0,0
+24,"Although prism relocation therapy is not new, it has been studied only to a limited extent.",0,0,0,0,0,N,N,0,N,0,0
+25,Romayananda et al were the first to describe the technique and reported dramatic improvements in the size of text that several patients with macular lesions achieved using prisms for near vision.,0,0,0,0,0,N,N,0,N,0,0
+26,Those authors recommended the technique to practitioners for use with selected patients who need low-vision aids but did not describe what the selection criteria should be.,0,0,0,0,0,N,N,0,N,0,0
+27,Three of the 4 published studies claim success in improving visual performance with prism relocation therapy.,0,0,0,0,0,N,N,0,N,0,0
+28,"However, all of these studies were susceptible to selection bias, and although 1 study was a randomized controlled trial, all of them lacked a systematic approach to measuring outcomes and have not provided adequate data to support their claims that prism relocation therapy is successful.",0,0,0,0,0,N,N,0,N,0,0
+29,"Moreover, the fundamental theory underlying the technique (ie, that the prism exploits a retinal area that the patient does not use spontaneously, and so the retinal location used for seeing alters) has been questioned.",0,0,0,0,0,N,N,0,N,0,0
+30,"For example, Bailey suggested that when the prism moves the image off the fovea, the patient will refixate involuntarily to move the image back to the fovea, as happens in people with normal sight.",0,0,0,0,0,N,N,0,N,0,0
+31,The purpose of the present study was to perform a randomized controlled trial to investigate the effectiveness of prism spectacles in people with AMD.,0,0,0,0,0,N,N,0,N,0,0
+32,"The candidates for inclusion in the study consisted of patients referred to the low-vision clinics of the Manchester Royal Eye Hospital, Manchester, England, from July 15, 2001, through March 31, 2003, with bilateral AMD and a visual acuity (VA) of at least 1/60 (1.78 logarithm of the minimum angle of resolution [logMAR]) but no better than 6/18 (0.48 logMAR) in the better eye.",1,0,0,0,0,N,N,0,N,0,0
+33,"To be eligible, patients had to be free of mental illness, dementia, and severe physical limitations; proficient in English; and literate; and not be a resident in a hospital or a nursing home.",1,0,0,0,0,N,N,0,N,0,0
+34,"The distance logMAR VA (scored by letter) of all participants was measured before their inclusion using the Early Treatment of Diabetic Retinopathy Study chart (Lighthouse International, New York, NY).",0,0,0,0,0,N,N,0,N,0,0
+35,The Mini-Mental State Examination (blind version) was administered as a screening instrument for abnormal cognitive decline (those scoring <16 of 22 were excluded).,0,0,0,0,0,N,N,0,N,0,0
+36,Informed consent was obtained from all participants after the nature of the study had been fully explained.,0,0,0,0,0,N,N,0,N,0,0
+37,"The tenets of the Declaration of Helsinki were followed, and the study was approved by the Central Research Ethics Committee of the Manchester Health Authority (reference CEN/00/150).",0,0,0,0,0,N,N,0,N,0,0
+38,"The study was a double-masked, randomized, placebo-controlled trial in which participants received 1 of the following 3 types of test spectacles: (1) custom, incorporating bilateral prisms to match participants’ preferred power and base direction; (2) standard, incorporating standard bilateral prisms (6 prism diopters [Δ] base up for logMAR VA of 0.48-1.00 and 10Δ base up for logMAR VA of 1.02-1.68); and (3) placebo, consisting of spectacles matched in weight and thickness to prism spectacles but without the prism.",0,0,0,1,1,N,N,0,N,0,0
+39,The spectacles prescribed to each group included the optimal refractive correction for distance and near vision.,0,0,0,0,0,N,N,0,N,0,0
+40,The standard group was included to determine whether a prescription of standard prism spectacles might be as effective as a prescription of custom prism spectacles.,0,0,0,0,0,N,N,0,N,0,0
+41,"The choice of prism power for the standard group was based on a previous study reporting that the most common power was 6Δ.11 There was, however, a suggestion in that study that patients with larger macular lesions and poorer VA would need more powerful prisms.",0,0,0,0,0,N,N,0,N,0,0
+42,"In a group of patients with AMD and logMAR VA ranging from 1.1 to 1.7, an average eccentric viewing angle of 7.8° was found that would equate to a prism of approximately 13.5Δ.",0,0,0,0,0,N,N,0,N,0,0
+43,"In the present study, this was reduced to 10Δ, which was the highest prism prescribed by Romayananda et al.",0,0,0,0,0,N,N,0,N,0,0
+44,"The subjects included by Romayananda et al appeared to adapt well to the 10Δ, whereas patients with higher-powered prisms in a later study reported excessive weight and experienced distortion and dizziness.",0,0,0,0,0,N,N,0,N,0,0
+45,"The 90° prism base for the standard group was chosen because (1) it was reported that 95% of the patients treated by Romayananda et al chose a prism base direction located in the superior hemifield; (2) it has been suggested theoretically and observed clinically that reading is more effective if the scotoma is displaced vertically when training eccentric viewing; (3) in everyday tasks and mobility, it is generally more important to see objects in the lower than the upper field; and (4) most subjects have been reported to adopt a PRL below the scotoma.",0,0,0,0,0,N,N,0,N,0,0
+46,"Unlike the custom prescription, clinic staff with no optometric training or equipment could dispense a standard prescription, and it could be available in a clip-on form for patients to test before having spectacles made incorporating their refractive correction.",0,0,0,0,0,N,N,0,N,0,0
+47,Participants were allocated to groups using computer-generated randomization codes prepared in advance by one of us (B.C.R.).,0,1,0,0,0,N,N,0,N,0,0
+48,Randomization and the ordering of spectacles were performed by a principal investigator (R.A.H.),0,1,0,0,0,N,N,0,N,0,0
+49,who had no contact with participants during the study.,0,0,0,0,1,N,N,0,N,0,0
+50,"Patients were recruited by the trial optometrist (I.C.), and another investigator (H.J.S.)collected all outcome data at baseline and follow-up; both I.C.were masked to the treatment allocations.",0,0,1,0,0,N,N,0,N,0,0
+54,Prescription of prism spectacles,0,0,0,0,0,N,N,0,N,0,0
+55,"All participants received a standard low-vision assessment, including the prescription of conventional low-vision aids (LVAs) and updated conventional spectacles 6 weeks before the study intervention.",0,0,0,0,0,N,N,0,N,0,0
+56,"Before being randomized, participants’ preferred prism (to be used if they were randomized to the custom group) was determined monocularly, starting with the worse (poorer VA) eye.",0,0,0,0,0,N,N,0,N,0,0
+57,Participants (using their near correction for 25 cm) viewed a person’s face in the center of a real-scene color photograph held at 25 cm.,0,0,0,0,0,N,N,0,N,0,0
+58,The photograph (of a woman holding an infant with a building in the background) had an equivalent viewing distance of 1.5 m. This task was chosen because it causes severe difficulties in the presence of a scotoma.,0,0,0,0,0,N,N,0,N,0,0
+59,"Because the preferred prism was to be incorporated into both distance and near spectacles, a specific acuity test was not used, as PRL is known to vary with the task.",0,0,0,0,0,N,N,0,N,0,0
+60,A 6Δ (for logMAR VA of 0.48-1.00) or 10Δ (for logMAR VA of 1.02-1.68) prism was placed base up in front of the eye.,0,0,0,0,0,N,N,0,N,0,0
+61,"The prism was gradually rotated 360°, and the participant was asked to report when their vision became clearest while attending to the face in the photograph.",0,0,0,0,0,N,N,0,N,0,0
+62,Any preferred positions were recorded to the nearest 10°.,0,0,0,0,0,N,N,0,N,0,0
+63,"For participants who showed 2 or more preferred prism orientations for a given eye, a single preferred orientation was determined by a sequence or by forced choices.",0,0,0,0,0,N,N,0,N,0,0
+64,The preferred orientations were grouped into sectors that were 45° around the 4 cardinal directions.,0,0,0,0,0,N,N,0,N,0,0
+65,"First, the participant chose between any preferences that fell within the same sector.",0,0,0,0,0,N,N,0,N,0,0
+66,"Then, we compared preferences that fell within different sectors.",0,0,0,0,0,N,N,0,N,0,0
+67,"When 3 or more preferred prism angles needed to be considered, the final choice was selected by giving the subject a series of 2 alternative forced choices.",0,0,0,0,0,N,N,0,N,0,0
+68,"At the chosen base direction, the prism power was increased or decreased in 2Δ steps until the optimal prism power was found.",0,0,0,0,0,N,N,0,N,0,0
+69,Near and distance VAs were measured for each eye with the optimal prism direction and power.,0,0,0,0,0,N,N,0,N,0,0
+70,The chosen prism for the better eye was prescribed binocularly to avoid diplopia.,0,0,0,0,0,N,N,0,N,0,0
+71,"For most of the participants (n = 231), the better eye was identified from distance and near prism VA. For 7 participants with prism VAs identical in both eyes, the better eye was determined as the one having the smallest scotoma (measured using a Bjerrum screen at 1 m with a 4-mm white screen).",0,0,0,0,0,N,N,0,N,0,0
+72,"For 5 participants with prism VAs and scotoma sizes identical in both eyes, the better eye was determined by means of higher-contrast sensitivity (measured using a Pelli-Robson chart [Metropia Ltd, Cambridge, England]).",0,0,0,0,0,N,N,0,N,0,0
+73,"All participants attended the Department of Optometry and Neuroscience, University of Manchester Institute of Science and Technology, Manchester, to have their test spectacles fitted by a qualified dispensing optician.",0,0,0,0,0,N,N,0,N,0,0
+74,Participants received test spectacles for near and distance vision as bifocals or separate pairs of spectacles depending on participants’ preferences.,0,0,0,0,0,N,N,0,N,0,0
+75,The test spectacles for all 3 groups were labeled in the same way using colored tape so that participants could distinguish between distance- and near-vision test spectacles and between their conventional and test spectacles.,0,0,0,0,0,N,N,0,N,0,0
+76,The dispensing opticians were aware that patients were taking part in a randomized double-masked trial and understood that they must not allow participants to find out their group allocation.,0,0,0,0,0,N,N,0,N,0,0
+77,The dispensing opticians informed all participants that they could experience some dizziness/loss of balance from the test spectacles and that they should begin wearing them when sitting down at home.,0,0,0,0,0,N,N,0,N,0,0
+78,Participants were also asked by an investigator (H.J.S.),0,0,0,0,0,N,N,0,N,0,0
+79,"to gradually prolong their use of the test spectacles if they felt comfortable to do so and to give themselves time to adapt to the test spectacles, which could potentially replace their conventional spectacles.",0,0,0,0,0,N,N,0,N,0,0
+80,"Participants underwent assessment twice on the following outcome measures, once at baseline shortly before using their test spectacles and 3 months later:",0,0,0,0,0,N,N,0,N,0,0
+81,Distance logMAR VA as our primary outcome (Early Treatment of Diabetic Retinopathy Study chart).,0,0,0,0,0,N,N,0,N,0,0
+82,"Reading speed (maximum words read per minute) and critical print size (smallest print size that can be read at the quickest speed) measured using a stopwatch as the participant read aloud from the MNREAD chart (Regents of the University of Minnesota, Minneapolis).",0,0,0,0,0,N,N,0,N,0,0
+83,"Twenty-five–item National Eye Institute Visual Functioning Questionnaire (NEI-VFQ-25), designed to measure vision-specific health-related quality of life on a scale of 0 to 100 (100 indicates best possible functioning).",0,0,0,0,0,N,N,0,N,0,0
+84,"Melbourne Low-Vision ADL (Activies of Daily Living) Index (MLVAI), part 1 consisting of the performance of 16 typical ADL dependent on vision assessed for speed, accuracy, and independence of performance, and part 2 consisting of a questionnaire measuring participants’ subjective assessment of their performance of 9 general ADL, adjusting for nonvisual health problems.",0,0,0,0,0,N,N,0,N,0,0
+85,"Each item is scored on a scale of 0 to 4 (4 indicates best performance); hence, maximum possible scores are 64 for part 1 and 36 for part 2.",0,0,0,0,0,N,N,0,N,0,0
+86,Manchester Low Vision Questionnaire(MLVQ) with items measuring helpfulness and use of test spectacles (adapted for the study).,0,0,0,0,0,N,N,0,N,0,0
+87,"Distance logMAR VA, reading speed, and critical print size were measured binocularly under standardized test conditions.",0,0,0,0,0,N,N,0,N,0,0
+88,"To measure logMAR VA, the participant was seated 4 m from the chart and, if necessary, the chart was moved closer to a distance of 2 or 1 m to enable the participant to read at least the top line of letters.",0,0,0,0,0,N,N,0,N,0,0
+89,"LogMAR scores were calculated by letter, adjusted if necessary for viewing distance.",0,0,0,0,0,N,N,0,N,0,0
+90,"Reading speed was calculated at the critical print size (available at: http://gandalf.psych.umn.edu/~gellab/MNREAD/speed.html., with participants using their habitual viewing distances.",0,0,0,0,0,N,N,0,N,0,0
+91,Critical print size was adjusted for nonstandard viewing distances.,0,0,0,0,0,N,N,0,N,0,0
+92,The NEI-VFQ-25 was administered by telephone within a week before the other outcome measurements.,0,0,0,0,0,N,N,0,N,0,0
+93,"At baseline, participants were asked to rate the NEI-VFQ-25 questions relating to difficulties when using conventional spectacles and/or any LVAs.",0,0,0,0,0,N,N,0,N,0,0
+94,"At follow-up, participants were asked to rate the same questions when using the test spectacles and/or any LVAs.",0,0,0,0,0,N,N,0,N,0,0
+95,"The MLVAI tasks were adapted for a British population, and the distance-vision tasks (face recognition and wall clock tasks) were measured at 4 m instead of 1 m. When performing the MLVAI part 1, participants used their habitual viewing distances and LVAs for near-vision tasks in conjunction with their conventional spectacles at baseline and test spectacles at follow-up.",0,0,0,0,0,N,N,0,N,0,0
+96,A second version of the MLVAI part 1 was used at follow-up so that participants could not simply remember the answers.,0,0,0,0,0,N,N,0,N,0,0
+97,"To test intrarater repeatability in scoring task performance, videorecordings were made of 43 consecutive participants performing the MLVAI tasks.",0,0,0,0,0,N,N,0,N,0,0
+98,"Twenty of these recordings were selected at random, and participants’ performance was rescored by the investigator (H.J.S.)",0,0,0,0,0,N,N,0,N,0,0
+99,"Intraclass correlation coefficients showed very high intrarater repeatability across all items (mean, 0.97; range, 0.85-1.00).",0,0,0,0,0,N,N,0,N,0,0
+100,Selected items from the MLVQ (originally designed to measure LVA use) were reworded to measure use of test spectacles.,0,0,0,0,0,N,N,0,N,0,0
+101,"Traditionally, raw scores from instruments like the NEI-VFQ-25 that use Likert scales have been summed and analyzed as if they were interval data.24 However, if such data were to be regarded as true measurement on an interval scale (ie, a quantity to reflect how much more or less of a construct such as visual functioning is being measured), then 2 (unlikely) assumptions are being made.",0,0,0,0,0,N,N,0,N,0,0
+102,"First, each item contributes equally to the measure of the construct, and second, each item is measured on the same interval scale.",0,0,0,0,0,N,N,0,N,0,0
+103,"To overcome the problem of meeting these assumptions, the Extended Model of Rasch in RUMM 2020 (RUMM Laboratory Pty Ltd, Perth, Australia) was used to further analyze the NEI-VFQ-25 and MLVAI parts 1 and 2 to create new outcome measures with the aim of maximizing the precision and validity of the outcome data from these instruments.",0,0,0,0,0,N,N,0,N,0,0
+104,"Rasch analysis is based on a probabilistic measurement model that identifies a unidimensional construct, measures the validity of that construct, and provides estimates of item and person measures on an interval scale.25 Rasch analysis is increasingly being used for outcome assessments in visual disability and quality of life.",0,0,0,0,0,N,N,0,N,0,0
+105,A full description of the Rasch analysis performed for this trial is available on request and is planned to be the subject of a future report.,0,0,0,0,0,N,N,0,N,0,0
+106,"During the iterative process of Rasch analysis, it is often necessary to remove misfitting items from the instrument and collapse categories within an item until the data provide an acceptable fit to the model.",0,0,0,0,0,N,N,0,N,0,0
+107,"For the NEI-VFQ-25 and MLVAI parts 1 and 2, the most misfitting item was removed in each iteration of the Rasch analysis according to the following criteria (in order of importance):",0,0,0,0,0,N,N,0,N,0,0
+108,"Large positive fit residual, which indicates that the item lacks discrimination, often because of erratic scores (eg, some respondents with the poorest vision may do well on the item and vice versa).",0,0,0,0,0,N,N,0,N,0,0
+109,Eventually all items with a fit residual of greater than 2 were removed.,0,0,0,0,0,N,N,0,N,0,0
+110,"A χ2 probability less than 0.05, also indicating that the item diverges.",0,0,0,0,0,N,N,0,N,0,0
+111,"(The item is possibly measuring a different skill besides vision, eg, memory and touch rather than vision alone to sort coins.)",0,0,0,0,0,N,N,0,N,0,0
+112,"Large negative fit residual, which indicates that the item overdiscriminates; this can happen if too many respondents obtain similar scores.",0,0,0,0,0,N,N,0,N,0,0
+113,Eventually all items with a fit residual of less than −2.5 were removed.,0,0,0,0,0,N,N,0,N,0,0
+114,"Significant differential item functioning, which indicates that an item is biased toward a certain group (eg, men vs women) or has a different meaning according to when or how the test is administered (baseline vs follow-up).",0,0,0,0,0,N,N,0,N,0,0
+115,"The remaining items for each instrument (used for obtaining outcome scores in subsequent analyses) are presented in Table 1, Table 2, and Table 3.",0,0,0,0,0,N,N,0,N,0,0
+116,The items appear in order of difficulty.,0,0,0,0,0,N,N,0,N,0,0
+117,"For the NEI-VFQ-25 (Table 1), the easiest item was picking out and matching clothes, and the most difficult item was reading normal newsprint.",0,0,0,0,0,N,N,0,N,0,0
+118,"The second column shows the item locations on the scale of difficulty, with 0 being the mean difficulty.",0,0,0,0,0,N,N,0,N,0,0
+119,These measures obtained through Rasch analysis differ from those intended by their original authors and have therefore been renamed in this report.,0,0,0,0,0,N,N,0,N,0,0
+120,"The names of the new measures are as follows: self-assessed visual functioning, derived from the NEI-VFQ-25; observed performance on tasks dependent on vision, derived from the MLVAI (part 1); and self-assessed ADL, derived from MLVAI (part 2).",0,0,0,0,0,N,N,0,N,0,0
+121,"In addition to the measures created by Rasch analysis, the scores derived directly by summing the item scores for the NEI-VFQ-25 and the MLVAI parts 1 and 2, as recommended by their authors, are also presented for comparison (Table 4 and Table 5).",0,0,0,0,0,N,N,0,N,0,0
+122,Sample size and statistical analysis,0,1,0,0,0,N,N,0,N,0,0
+123,A target sample size of 75 participants in each arm of the trial was set to detect a standardized difference between any 2 groups of 0.46 with 80% power at a 5% (2-tailed) significance level.,0,0,0,0,0,N,N,0,N,0,0
+124,This difference would represent a medium effect that could be regarded as clinically worthwhile.32,0,0,0,0,0,N,N,0,N,0,0
+125,"Differences between the arms of the trial were estimated using analysis of covariance (ANCOVA) for continuous outcomes, adjusting for their corresponding baseline measurements.",0,0,0,0,0,N,N,0,N,0,1
+126,"For descriptive data, the Pearson χ2 test was used where possible to test the null hypothesis that participants’ ratings of their test spectacles were independent of their treatment group.",0,0,0,0,0,N,N,0,N,0,0
+127,"All analyses were by intention-to-treat, and differences were considered statistically significant if P<.05.",0,0,0,0,0,N,N,0,N,0,1
+128,"No subgroup comparisons were planned, and the number of participants was considered inadequate to provide the power to support such comparisons.",0,0,0,0,0,N,N,0,N,0,0
+129,"Figure 1 summarizes the recruitment and flow of participants through the trial, including reasons for unavailability for follow-up.",0,0,0,0,0,N,N,0,N,0,0
+130,"From July 15, 2001, through March 31, 2003, 243 participants were recruited into the study, of whom 225 (93%) completed the trial by August 1, 2003.",0,0,0,0,0,N,N,1,N,0,0
+131,"Despite differences between groups in the numbers unavailable for follow-up (10 in the custom group, 6 in the standard group, and 2 in the placebo group), the reasons for unavailability for follow-up do not suggest that group allocation was a factor.",0,0,0,0,0,N,N,0,N,0,0
+132,The primary investigator (H.J.S.,0,0,0,0,0,N,N,0,N,0,0
+133,"), who worked independently of the prism prescribing, correctly guessed the group allocation of 37% of the participants at follow-up (not significantly better than expected by chance).",0,0,0,0,0,N,N,0,N,0,0
+134,The characteristics of each group at baseline are summarized in Table 6.,0,0,0,0,0,N,N,0,N,0,0
+135,Effectiveness of interventions,0,0,0,0,0,N,N,0,N,0,0
+136,The continuous outcome measures at baseline and 3-month follow-up are presented in Table 4.,0,0,0,0,0,N,N,0,N,0,0
+137,The results of the ANCOVA showed no significant effects of allocated group on any of the outcome measures (Table 5).,0,0,0,0,0,N,N,0,N,0,0
+138,The prism spectacles were therefore not effective.,0,0,0,0,0,N,N,0,N,0,0
+139,Table 5 also shows estimates of differences between groups with 95% confidence intervals.,0,0,0,0,0,N,N,0,N,0,0
+140,"For distance VA, the primary outcome, group means were within ±0.02 logMAR, ie, 1 logMAR letter.",0,0,0,0,0,N,N,0,N,0,0
+141,"Where Rasch analysis was used to create new measures, the conclusions were the same as those reached through the conventional approach of summing the individual item scores.",0,0,0,0,0,N,N,0,N,0,0
+142,Participants’ experience of the test spectacles: mlvq questions,0,0,0,0,0,N,N,0,N,0,0
+143,"Participants were asked to rate, “How helpful were the test spectacles?” The distribution of responses is shown in Figure 2A.",0,0,0,0,0,N,N,0,N,1,0
+144,"Because of the low numbers of responses to the categories “extremely” and “quite a bit,” these were collapsed into a single category.",0,0,0,0,0,N,N,0,N,0,0
+145,Results of a χ2 test did not support any association between ratings and group allocation (χ24 = 7.36; P = .12).,0,0,0,0,0,N,N,0,N,0,0
+146,"For the question, “How much difficulty did you have wearing the test spectacles?” there was evidence that ratings were associated with group allocation (χ26 = 16.65; P = .01).",0,0,0,0,0,N,N,0,N,0,0
+147,Figure 2B shows that more participants in the placebo group (59 [74%]) reported having no difficulty wearing the test spectacles compared with the custom (34 [47%]) and standard (38 [51%]) groups.,0,0,0,0,0,N,N,0,N,1,0
+148,"There was no significant association between ratings and group allocation for responses to the MLVQ question, “How often did you wear the test spectacles?” (χ28 = 13.45; P = .10) (Figure 2C).",0,0,0,0,0,N,N,0,N,0,0
+149,By far the most frequently reported problems experienced by participants in the custom and standard groups were dizziness/loss of balance and distortion (Table 7).,0,0,0,0,0,N,N,0,N,0,0
+150,Findings of the trial in relation to previous literature,0,0,0,0,0,N,N,0,N,0,0
+151,The results of this trial demonstrate that prism spectacles are not effective in improving visual performance to reduce disability due to AMD.,0,0,0,0,0,N,N,0,N,0,0
+152,"Although previous studies claim some success with selected patients, the present study has, for the first time, tested prism spectacles through the process of a double-masked randomized controlled trial.",0,0,0,0,0,N,N,0,N,0,0
+153,"Participants were recruited from a wide catchment population source; randomization was concealed, thus ruling out selection bias; there was a high follow-up rate (93%), with no obvious differential attrition bias; there was no evidence that participants or researchers became unmasked during assessment; and the findings were consistent across a range of outcomes.",0,0,0,0,0,N,N,0,N,0,0
+154,"For these reasons, we believe that our study findings are valid and highly applicable and can be generalized to patients with low vision due to AMD.",0,0,0,0,0,N,N,0,N,0,0
+155,"In contrast, most of the previous studies were not placebo controlled and suffered selection bias.",0,0,0,0,0,N,N,0,N,0,0
+156,"Rosenberg et al did include a small placebo group but only recruited patients who showed an immediate improvement with prism (either subjectively or in VA), and it is unclear from their results the extent to which improvements in the treatment group were due to proper refraction or the prism prescription.",0,0,0,0,0,N,N,0,N,0,0
+157,Verezen et al recruited patients who were educated in eccentric viewing and did not show an initial prism-induced repositioning eye movement.,0,0,0,0,0,N,N,0,N,0,0
+158,Those authors did not control for a placebo effect.,0,0,0,0,0,N,N,0,N,0,0
+159,Their claims of success with high-power prism spectacles were based on subjective responses from participants (distance VA did not improve).,0,0,0,0,0,N,N,0,N,0,0
+160,"In the present study, we found some evidence of a placebo effect in the subjective feedback from participants.",0,0,0,0,0,N,N,0,N,0,0
+161,Potential limitations of the trial,0,0,0,0,0,N,N,0,N,0,0
+162,The suitability of our outcomes might be questioned.,0,0,0,0,0,N,N,0,N,0,0
+163,"Our primary outcome, logMAR VA, is well recognized as a measure for defining low vision.",0,0,0,0,0,N,N,0,N,0,0
+164,"Patients with AMD can have great difficulty reading, and therefore reading speed and critical print size were highly appropriate outcome measures.",0,0,0,0,0,N,N,0,N,0,0
+165,"To be effective in reducing disability, prism spectacles should improve the performance of daily activities, and performance on a range of typical tasks dependent on vision was tested using the MLVAI part 1.",0,0,0,0,0,N,N,0,N,0,0
+166,"Rasch analysis of the MLVAI part 1 revealed some departures from linearity in the measure, but after item reduction, a new measure was produced (observed performance on tasks dependent on vision) that approached an acceptable fit to the Rasch model.",0,0,0,0,0,N,N,0,N,0,0
+167,"Item reduction of the NEI-VFQ-25 resulted in 9 items measuring self-assessed visual functioning, which showed a good fit to the Rasch model, targeting the population ability range.",0,0,0,0,0,N,N,0,N,0,0
+168,"This measure also supported a lack of improvement in visual task performance, and the MLVAI part 2 questionnaire (ADL) showed no improvement for general ADL.",0,0,0,0,0,N,N,0,N,0,0
+169,"However, some aspects of visual ability may not have been measured.",0,0,0,0,0,N,N,0,N,0,0
+170,"For example, watching television was not an item.",0,0,0,0,0,N,N,0,N,0,0
+171,"The MLVQ, which addressed patterns of use, helpfulness, and difficulties with the test spectacles, failed to reveal any benefits from wearing the prism spectacles (greater than a placebo effect).",0,0,0,0,0,N,N,0,N,0,0
+172,"Indeed, the MLVQ provided evidence that the prism spectacles caused additional problems of dizziness and distortion.",0,0,0,0,0,N,N,0,N,0,0
+173,"Although it may be difficult to establish an optimal prism prescription, the prescribing techniques used in the present study were similar to those described by at least 2 of the previous studies where success had been claimed.",0,0,0,0,0,N,N,0,N,0,0
+174,"Prism spectacles are intended to perform a similar function to eccentric viewing, but, in addition, they should enable patients to position their gaze and posture centrally while using a noncentral PRL.",0,0,0,0,0,N,N,0,N,0,0
+175,"Most participants did not have new diagnoses, and it is possible that they were already habitually using eccentric viewing (without training) and that the introduction of a prism did not change this habit.",0,0,0,0,0,N,N,0,N,0,0
+176,"In conclusion, the findings of this trial do not support the use of prism spectacles for patients with AMD.",0,0,0,0,0,N,N,0,N,0,0
+177,"Given the scale of the AMD burden and the limitations of the current medical treatment options for most patients with AMD, there is a pressing need for further systematic evaluations of rehabilitation practices to develop evidence-based strategies in low-vision services.",0,0,0,0,0,N,N,0,N,0,0

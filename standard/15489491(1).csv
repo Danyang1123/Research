@@ -1,0 +1,158 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"Aim:</span> To compare the effectiveness of three models of low vision rehabilitation for people with age related macular degeneration (AMD) referred for low vision rehabilitation (LVR): (a) an enhanced low vision rehabilitation model (ELVR) including supplementary home based low vision rehabilitation; (b) conventional low vision rehabilitation (CLVR) based in a hospital clinic; (c) CLVR with home visits that did not include rehabilitation (CELVR), intended to act as a control for the additional contact time with ELVR.",0,0,0,0,N,N,0,0,0,0,0
+1,"Method:</span> A single centre parallel group randomised controlled trial in participants’ homes and the low vision clinic, Manchester Royal Eye Hospital.",0,0,0,0,N,N,0,0,0,0,0
+2,People referred for LVR with a primary diagnosis of AMD and visual acuity worse than 6/18 in both eyes and equal to or better than 1/60 in the better eye.,0,0,0,0,N,N,0,0,0,0,0
+3,"The main outcome measures were vision specific quality of life (QoL) (primary outcome, VCM1) and generic health related QoL (SF-36); psychological adjustment to vision loss; measured task performance; restriction in everyday activities; use of low vision aids (LVAs).",0,0,0,0,N,N,0,0,0,0,0
+4,Results:</span> 226 participants were recruited (median age 82 years); 194 completed the trial (86%).,0,0,0,0,N,N,0,0,0,0,0
+5,"Except for SF-36 physical and mental component summary scores, arms did not differ significantly for any of the outcomes.",0,0,0,0,N,N,0,0,0,0,0
+6,"Differences for the VCM1 were ELVR <span class=""italic"">v</span> CLVR, 0.06 (95% CI to 0.17 to 0.30, p = 0.60); ELVR <span class=""italic"">v</span> CELVR, 0.12 (95% CI to 0.11 to 0.34, p = 0.31); CELVR <span class=""italic"">v</span> CLVR, –0.05 (95% CI –0.29 to 0.18, p = 0.64).",0,0,0,0,N,N,0,0,0,0,0
+7,"Differences for the SF-36 favoured CLVR compared to ELVR (ELVR <span class=""italic"">v</span> CLVR: physical = –6.05, 95% CI –10.2 to –1.91, p = 0.004; mental = –4.04, 95% CI –7.44 to –0.65, p = 0.02).",0,0,0,0,N,N,0,0,0,0,0
+8,"At 12 months, 94% of participants reported using at least one LVA.",0,0,0,0,N,N,0,0,0,0,0
+9,Conclusion:</span> ELVR was no more effective than CLVR.,0,0,0,0,N,N,0,0,0,0,0
+10,"Researchers should be wary of proposing new LVR interventions without preliminary evidence of effectiveness, given the manifest lack of effectiveness of the model of enhanced LVR evaluated in the trial.",0,0,0,0,N,N,0,0,0,0,0
+11,"Age related macular degeneration (AMD) is the leading cause of visual impairment in the Western world<sup><a href=""#r1"">1,</a></sup><sup><a href=""#r2"">2</a></sup> and represents a substantial and growing healthcare burden.",0,0,0,0,N,N,0,0,0,0,0
+12,"AMD causes a number of impairments including deteriorating visual acuity, central visual field sensitivity, and contrast sensitivity.",0,0,0,0,N,N,0,0,0,0,0
+13,"These impairments usually cause significant disability,<sup><a href=""#r3"">3</a></sup> with difficulties with reading, everyday activities of daily living, watching television, all of which may impact on quality of life.<sup><a href=""#r4"">4,</a></sup><sup><a href=""#r5"">5</a></sup> Despite some advances, the medical treatment options for AMD have important limitations<sup><a href=""#r6"">6–</a></sup><sup><a href=""#r8"">8</a></sup> and patients with AMD are usually referred for low vision rehabilitation (LVR).",0,0,0,0,N,N,0,0,0,0,0
+14,"LVR includes a range of services for people with low vision with the aim of minimising disability by helping them to make best use of their remaining eyesight.<sup><a href=""#r9"">9",0,0,0,0,N,N,0,0,0,0,0
+15,"In the United Kingdom, conventional LVR is mainly provided by optometrists working in the hospital eye service (HES).<sup><a href=""#r10"">10</a></sup> It is primarily focused on minimising limitations in activities by providing low vision aids (LVAs), usually magnifiers, and teaching people about the importance of controlling illumination.",0,0,0,0,N,N,0,0,0,0,0
+16,"A recent national survey in the United Kingdom highlighted several problems with low vision services including fragmentation of services; lack of multidisciplinary or “integrated” care incorporating input from a range of professionals (for example, optometrists, ophthalmologists, low vision rehabilitation officers, and social workers); inadequate communication between service providers.<sup><a href=""#r11"">11",0,0,0,0,N,N,0,0,0,0,0
+17,There is a lack of systematic research about the effectiveness of LVR.,0,0,0,0,N,N,0,0,0,0,0
+18,"Previous studies of rehabilitation for people with AMD have been retrospective or prospective case series,<sup><a href=""#r12"">12–</a></sup><sup><a href=""#r16"">16</a></sup> except for two small controlled trials of rehabilitation training<sup><a href=""#r17"">17,</a></sup><sup><a href=""#r18"">18</a></sup> and one small trial of the specific intervention of prism relocation spectacles.<sup><a href=""#r19"">19</a></sup> These studies have tended to use non-standardised outcomes including patient satisfaction questionnaires and reported use of LVAs.",0,0,0,0,N,N,0,0,0,0,0
+19,"Many of the studies have suggested that a lack of training in the use of LVAs is a fundamental reason for the limited effectiveness of the service provided; Shuttleworth and colleagues argued that a more integrated service with enhanced training in the use of LVAs is more effective than conventional LVR.<sup><a href=""#r14"">14",0,0,0,0,N,N,0,0,0,0,0
+20,"The present trial measured the effectiveness of different strategies of low vision rehabilitation for subjects with newly diagnosed AMD.<sup><a href=""#r20"">20</a></sup> We hypothesised that patients with AMD who received conventional LVR with supplementary home based rehabilitation would have better quality of life (QoL) and be better able to carry out everyday activities than patients who received conventional LVR.",0,0,0,0,N,N,0,0,0,0,0
+21,"The study was a three arm randomised controlled trial (RCT) comparing (a) conventional LVR (CLVR) as provided by the HES, (b) conventional LVR “enhanced” by home visits from a rehabilitation officer for the visually impaired (ELVR), and (c) conventional LVR supplemented by home visits from a community care worker.",0,0,0,0,N,N,0,0,0,0,0
+22,The latter arm was intended to act as a control for the contact time with subjects allocated to ELVR (hence CELVR).,0,0,0,0,N,N,0,0,0,0,0
+23,The study was approved by the central research ethics committee of Manchester Health Authority (reference CM/96/108).,0,0,0,0,N,N,0,0,0,0,0
+24,Allocation was randomised and blocked using blocks of unequal length.,0,1,0,0,N,N,0,0,0,0,0
+25,"Allocation codes were generated by computer before the start of the study by BCR (who took no part in recruitment, data collection, or the care of patients) and were concealed in sealed opaque envelopes.",0,1,1,0,N,N,0,0,0,0,0
+26,Eligible people were told about the study and were invited to participate by a large print letter.,0,0,0,0,N,N,0,0,0,0,0
+27,Those who agreed to participate gave written informed consent.,0,0,0,0,N,N,0,0,0,0,0
+28,"At recruitment, an appointment was made for the initial home visit.",0,0,0,0,N,N,0,0,0,0,0
+29,"RAH then randomised the participant by opening the next sealed envelope, keeping the allocation secret from the researcher who measured outcomes (WBR).",0,0,0,0,N,N,1,0,0,0,0
+30,People were eligible for the trial if they were newly referred to the low vision clinic at Manchester Royal Eye Hospital with a primary diagnosis of AMD.,1,0,0,0,N,N,0,0,0,0,0
+31,Potential participants had to have Snellen visual acuity worse than 6/18 (&gt;0.5 logMAR) in both eyes and equal to or better than 1/60 (⩽1.8 logMAR) in the “better” eye.,1,0,0,0,N,N,0,0,0,0,0
+32,"People were ineligible if they were living in a residential or nursing home, were suffering from mental illness or dementia, or were not proficient in English.",1,0,0,0,N,N,0,0,0,0,0
+33,The components of the different models of LVR are summarised in table 1.,0,0,0,0,N,N,0,0,0,0,0
+34,"Participants allocated to CLVR received a clinical low vision assessment at the hospital provided by a team of qualified optometrists, a dispensing optician, and a limited number of preregistration optometrists working under supervision.",0,0,0,0,N,N,0,0,0,0,0
+35,"As a pragmatic trial, assessments were carried out as part of standard hospital care for people referred to the low vision clinic.",0,0,0,0,N,N,0,0,0,0,0
+36,"While general guidelines were suggested (as summarised in table 1), practitioners did not have to adhere to a strict assessment protocol, although they were asked to complete data sheets requesting information on diagnosis, co-morbidity, visual requirements, unaided vision, performance with existing LVAs (if any), refraction, corrected acuities, contrast sensitivity, and performance with new LVAs.",0,0,0,0,N,N,0,0,0,0,0
+37,"Participants allocated to ELVR received all components of CLVR but, in addition, received additional low vision training at home.",0,0,0,0,N,N,0,0,0,0,0
+38,"A rehabilitation officer, with specific training in the rehabilitation of people with visual impairment and 5 years’ experience in this role, provided the home visits.",0,0,0,0,N,N,0,0,0,0,0
+39,"Although he was familiar with the techniques of eccentric viewing and steady eye strategy, the main emphasis of the intervention was on LVA handling, the use of alternative LVAs, and other strategies for enhancing vision (for example, use of contrast and lighting).",0,0,0,0,N,N,0,0,0,0,0
+40,"The rehabilitation officer was, for example, able to check in the home environment that a subject was using: the correct working distance, appropriate lighting, the correct eye and/or spectacles, and provide instruction in appropriate page navigation—for example, for stand magnifiers.",0,0,0,0,N,N,0,0,0,0,0
+41,He was able to offer alternative LVAs should a person be struggling with a device provided in the hospital clinic and issue new devices in the event that a person raised an additional problem area that might be ameliorated with LVAs.,0,0,0,0,N,N,0,0,0,0,0
+42,He received a report of the optometric assessment for a participant before making a home visit and maintained a link with the low vision clinic by providing a report to the hospital following each home visit and by regular visits to the clinic.,0,0,0,0,N,N,0,0,0,0,0
+43,"Participants allocated to CELVR also received all components of CLVR but, in addition, were visited at home by one of four community care workers from Age Concern (see table 1).",0,0,0,0,N,N,0,0,0,0,0
+44,Community care workers do not have training about visual impairment or any formal training in low vision.,0,0,0,0,N,N,0,0,0,0,0
+45,"Hence, they did not provide any specific LVR.",0,0,0,0,N,N,0,0,0,0,0
+46,The community care workers did not have any formal link with the hospital through a reporting system and did not visit the low vision clinic.,0,0,0,0,N,N,0,0,0,0,0
+47,A range of outcomes were assessed before the first hospital assessment and about 12 months later:,0,0,0,0,N,N,0,0,0,0,0
+48,"Vision specific QoL (VCM1)<sup><a href=""#r21"">21</a></sup>; this instrument has 10 items addressing patients’ feelings about their visual impairment and the impact of low vision on their lives;",0,0,0,0,N,N,0,0,0,0,0
+49,"Generic health related QoL (SF-36)<sup><a href=""#r22"">22</a></sup>;",0,0,0,0,N,N,0,0,0,0,0
+50,"Psychological adjustment to vision loss (Nottingham Adjustment Scale)<sup><a href=""#r23"">23,</a></sup><sup><a href=""#r24"">24</a></sup> relevant, stand alone sections were selected from this instrument, covering “attitudes” to visual impairment, “locus of control,” “acceptance,” and “self efficacy”;",0,0,0,0,N,N,0,0,0,0,0
+51,"Measured task performance at 12 months only, using a LVA if desired; participants were asked to read “use by dates” on two supermarket grocery items and pharmacy instructions on a medicine bottle;",0,0,0,0,N,N,0,0,0,0,0
+52,Self rated restriction in everyday activities because of visual impairment and use of LVAs.,0,0,0,0,N,N,0,0,0,0,0
+53,"These outcomes were derived from the Manchester Low Vision Questionnaire.<sup><a href=""#r16"">16</a></sup> Self rated restriction was scored as a proportion—that is, the number of tasks from a predefined list that participants reported being unable to do (but wanted to do) divided by the total number of tasks that they wanted or needed to be able to do; use of LVAs was summarised by yes/no responses to two questions—that is, using a LVA at least daily, and using a LVA on average for more than 5 minutes each time the LVA is used), with the aim of distinguishing short term LVA use for “survival” tasks and longer term use for leisure or social activities.<sup><a href=""#r16"">16,</a></sup><sup><a href=""#r25"">25",0,0,0,0,N,N,0,0,0,0,0
+54,Outcomes (a) to (c) were scored according to published instructions.,0,0,0,0,N,N,0,0,0,0,0
+55,"The original eight dimensions of the SF-36 were combined into two dimensions—namely, “physical” and “mental” component summary scores (PCS and MCS).<sup><a href=""#r26"">26",0,0,0,0,N,N,0,0,0,0,0
+56,We chose vision specific QoL as the primary outcome measure.,0,0,0,0,N,N,0,0,0,0,0
+57,"However, we believe that QoL in AMD patients is complex and therefore included the other outcome measures to try to characterise this complexity.<sup><a href=""#r27"">27</a></sup> Final outcomes (that is, health related and vision specific QoL, MLVQ, and task performance) were assessed at home <span class=""italic"">before</span> the third scheduled clinic assessment.",0,0,0,0,N,N,0,0,0,0,0
+58,Patients with final outcomes recorded were included in analyses irrespective of whether they had attended the third clinic assessment.,0,0,0,0,N,N,0,0,0,0,0
+59,All QoL outcomes yielded continuous scales.,0,0,0,0,N,N,0,0,0,0,0
+60,There was no information at the start of the trial on the size of effect that might be observed or that would be regarded as an important QoL improvement by people with visual impairment.,0,0,0,0,N,N,0,0,0,0,0
+61,"A target sample size of 75 participants in each arm of the trial was set to detect a standardised difference between any pair of groups of 0.46 with 80% power at a 5% (two tailed) significance level—that is, a “moderate to small” effect.",0,0,0,0,N,N,0,0,0,0,0
+62,"Differences in outcome between arms of the trial at 12 months were estimated by regression modelling, after adjusting for the corresponding baseline measurements when these were available.",0,0,0,0,N,N,0,0,0,0,0
+63,All analyses were by intention to treat.,0,0,0,0,N,N,0,0,0,0,0
+64,Differences were considered statistically significant if p&lt;0.05.,0,0,0,0,N,N,0,0,0,0,0
+65,No subgroup comparisons were planned.,0,0,0,0,N,N,0,0,0,0,0
+66,"A total of 226 participants, with a median age of 81 years, were recruited between November 1997 and August 1999, of whom 194 (86%) completed the trial.",0,0,0,0,N,N,0,0,1,0,0
+67,"The numbers of people invited and eligible, participants in each arm at the start and at various stages during the trial, and details of the home visits made in ELVR and CELVR arms are summarised in figure 1.",0,0,0,0,N,N,0,0,0,0,0
+68,The characteristics of participants are summarised in table 2.,0,0,0,0,N,N,0,0,0,0,0
+69,Outcomes at baseline and at about 12 months after initial low vision assessment are shown in table 3.,0,0,0,0,N,N,0,0,0,0,0
+70,Outcome data were missing for some participants (see fig 1).,0,0,0,0,N,N,0,0,0,0,0
+71,"There was some indication of differential loss to follow up across arms (21%, 15%, and 7% respectively for CLVR, ELVR, CELVR arms; χ<sup>2</sup> = 6.45, df 2, p = 0.04), although the reasons for loss to follow up were distributed similarly in all groups.",0,0,0,0,N,N,0,0,0,0,0
+72,"Differences in outcomes between arms at 12 month follow up are summarised in table 4, showing all three comparisons between pairs of arms separately.",0,0,0,0,N,N,0,0,0,0,0
+73,There were few significant differences in outcome between arms.,0,0,0,0,N,N,0,0,0,0,0
+74,"Where differences were observed, these tended to favour CLVR, not ELVR or CELVR—for example, for the SF-36.",0,0,0,0,N,N,0,0,0,0,0
+75,"(Because of the number of multiple comparisons (multiple outcomes and many pairwise comparisons between groups), it would not be unusual to observe one or two statistically significant differences by chance.)",0,0,0,0,N,N,0,0,0,0,0
+76,"During follow up all visual functions deteriorated—for example, VA dropped by 0.2 logMAR (two lines of the letter chart).",0,0,0,0,N,N,0,0,0,0,0
+77,Deteriorations in VCM1 and SF-36 scores were also statistically significant but were small in absolute terms.,0,0,0,0,N,N,0,0,0,0,0
+78,All other outcomes remained fairly constant.,0,0,0,0,N,N,0,0,0,0,0
+79,"Although changes over time were not the focus of interest of the study, these findings suggest that the study population was becoming generally more infirm as well as more visually impaired as the trial progressed.",0,0,0,0,N,N,0,0,0,0,0
+80,"After 12 months, 94% of participants reported using at least one LVA, similar to the 95% who reported using a LVA at 4 months.",0,0,0,0,N,N,0,0,0,0,0
+81,"(Data about LVA use at 4 months were obtained at the second clinic assessment, but LVA use at this stage of follow up was not specified as an outcome in the protocol.)",0,0,0,0,N,N,0,0,0,0,0
+82,"Most (72%) used LVAs daily for short term “spot” reading tasks but about a third said that, on average, they used their LVA for more than 5 minutes at a time.",0,0,0,0,N,N,0,0,0,0,0
+83,"Despite the observed deterioration over time in visual function (VA and contrast sensitivity) and quality of life (VCM1 and SF36), participants reported only a small reduction in self rated restriction in activities.",0,0,0,0,N,N,0,0,0,0,0
+84,"This trial found no evidence of benefit from the model of enhanced LVR evaluated, compared with CLVR.",0,0,0,0,N,N,0,0,0,0,0
+85,"Overall, the visual function and general health of the study population appeared to deteriorate over time.",0,0,0,0,N,N,0,0,0,0,0
+86,"Use of LVAs was high throughout the trial and, if anything, increased with duration of follow up.",0,0,0,0,N,N,0,0,0,0,0
+87,We have no reason to question the validity of the trial.,0,0,0,0,N,N,0,0,0,0,0
+88,"Randomisation was concealed, ruling out selection bias.",0,0,1,0,N,N,0,0,0,0,0
+89,"The researcher who measured outcomes was blinded, although some patients became unmasked during the assessment (at 12 months, the researcher correctly “guessed” arm allocation for 51% of participants compared to 33% expected by chance).",0,0,0,0,N,N,0,0,0,0,0
+90,Unmasking could have introduced information bias although such bias would have been expected to lead to an exaggerated benefit of ELVR rather than no effect.,0,0,0,0,N,N,0,0,0,0,0
+91,"Despite a median age of 82 years, 72% (226/314) of eligible people agreed to take part.",0,0,0,0,N,N,0,0,0,0,0
+92,"Of the 226 recruited, 194 (86%) completed the trial, an excellent completion rate given the elderly study population.",0,0,0,0,N,N,0,0,0,0,0
+93,"The most frequent reason for loss to follow up was death, which cannot have introduced bias.",0,0,0,0,N,N,0,0,0,0,0
+94,"Death and other reasons for follow up were distributed similarly across groups, although the total number lost to follow up was greater in the CLVR group, primarily for “other” reasons (for example, bereavement, not at home for final assessment on two occasions).",0,0,0,0,N,N,0,0,0,0,0
+95,"It is possible that those who were lost to follow up had selectively poorer or better QoL, but the small numbers lost for reasons other than death would have had only a very small effect on the mean QoL for each group.",0,0,0,0,N,N,0,0,0,0,0
+96,"The intervention was set in the context of a typical HES low vision service, which provides the majority of LVR appointments.<sup><a href=""#r10"">10</a></sup> These statistics suggest that the findings are likely to be highly applicable in the United Kingdom.",0,0,0,0,N,N,0,0,0,0,0
+97,"Optimism about models of enhanced vision rehabilitation both in the United Kingdom<sup><a href=""#r14"">14</a></sup> and abroad<sup><a href=""#r12"">12,</a></sup><sup><a href=""#r17"">17</a></sup>—that is, extending the training aspects of providing LVAs, makes it important to consider possible reasons for the ineffectiveness of the intervention, compared with CLVR:",0,0,0,0,N,N,0,0,0,0,0
+98,The intervention may not have included critical elements.,0,0,0,0,N,N,0,0,0,0,0
+99,"However, there is no established model of enhanced LVR—for example, whether enhancement should focus on visual training<sup><a href=""#r14"">14,</a></sup><sup><a href=""#r17"">17</a></sup> or integration of services.<sup><a href=""#r9"">9</a></sup> The present trial primarily focused on the former.",0,0,0,0,N,N,0,0,0,0,0
+100,Critics may claim that one or more aspects of training were not included but no accepted model of enhanced visual training has yet been established.,0,0,0,0,N,N,0,0,0,0,0
+101,Our working hypothesis was that improved ability to perform tasks should translate into improved QoL and we included components that were practicable (deliverable at reasonable cost).,0,0,0,0,N,N,0,0,0,0,0
+102,"The home based intervention in the present trial comprised an average contact time of less than 2 hours per patient whereas Nilsson <span class=""italic"">et al</span><sup><a href=""#r17"">17</a></sup> report an average contact time of ∼5 hours.",0,0,0,0,N,N,0,0,0,0,0
+103,"The only specific omission was systematic training in eccentric viewing strategies to optimise vision in the presence of a central scotoma, for which we would argue there is no recognised protocol with proved effectiveness.",0,0,0,0,N,N,0,0,0,0,0
+104,"(There are methodological limitations to the trial reported by Nilsson <span class=""italic"">et al</span><sup><a href=""#r17"">17</a></sup>; the sample size was extremely small, the assessment of outcomes was unmasked with considerable possibility of bias, and it is unclear whether the subjects being trained were benefiting from training in the use of LVAs or from eccentric viewing itself.)",0,0,0,0,N,N,0,0,0,0,0
+105,"Consequently, we think it is unlikely that this reason explains the failure to find benefit from ELVR.",0,0,0,0,N,N,0,0,0,0,0
+106,"CLVR provided by the HES may have already remedied faults for which it has previously been criticised<sup><a href=""#r13"">13</a></sup>—for example, inadequate provision of appropriate training and support following prescription of LVAs, before the trial started.",0,0,0,0,N,N,0,0,0,0,0
+107,We have no information to support or refute this possibility.,0,0,0,0,N,N,0,0,0,0,0
+108,The outcome measures chosen may have been inappropriate or insensitive to the benefits afforded by the intervention.,0,0,0,0,N,N,0,0,0,0,0
+109,"The intervention focused primarily on facilitating everyday activities and our primary outcome measure (VCM1) is, arguably, weighted more to psychological aspects of visual impairment.",0,0,0,0,N,N,0,0,0,0,0
+110,"(The more widely used vision specific QoL instrument, the NEI-VFQ25,<sup><a href=""#r28"">28</a></sup> may be more sensitive to restrictions in activities but it was not available when the trial started.",0,0,0,0,N,N,0,0,0,0,0
+111,"Other vision specific QoL instruments have also been published since the trial started—for example, the “LVQOL”.<sup><a href=""#r29"">29</a></sup>) However, we assessed task performance and self rated restriction in activities, neither of which showed any differences between arms.",0,0,0,0,N,N,0,0,0,0,0
+112,"Therefore, we think it is unlikely that this reason explains the failure to find benefit from ELVR, compared with CLVR.",0,0,0,0,N,N,0,0,0,0,0
+113,Home visits for ELVR were provided by a single rehabilitation officer who may have been ineffective in providing the intended training and support.,0,0,0,0,N,N,0,0,0,0,0
+114,"He had previously undertaken a full time course in, and obtained a certificate of, Higher Education in Rehabilitation Work with Visually Impaired People.",0,0,0,0,N,N,0,0,0,0,0
+115,"In addition, before his involvement in the trial, he had 4 years’ experience working as a visual rehabilitation officer and had undertaken pretrial training by optometrists in the low vision clinic at the hospital.",0,0,0,0,N,N,0,0,0,0,0
+116,"Again, we think it is unlikely that this reason explains the failure to find benefit from ELVR.",0,0,0,0,N,N,0,0,0,0,0
+117,"Using a team of rehabilitation officers, while potentially more applicable, would have been logistically more difficult and would still have been open to the same criticism.",0,0,0,0,N,N,0,0,0,0,0
+118,The ability of people with AMD to carry out everyday activities with a LVA may not be as relevant to their QoL as we assumed.,0,0,0,0,N,N,0,0,0,0,0
+119,"Other researchers have shown that AMD causes a reduction in QoL<sup><a href=""#r4"">4,</a></sup><sup><a href=""#r5"">5</a></sup> and the baseline SF-36 PCS data (compared with a “normal” score of 50) show that this was also true for our study population.",0,0,0,0,N,N,0,0,0,0,0
+120,"QoL of the participants did not improve during follow up despite high, and increasing, use of LVAs.",0,0,0,0,N,N,0,0,0,0,0
+121,"If QoL is not strongly linked to restriction in everyday activities, one might not predict any differences between arms.",0,0,0,0,N,N,0,0,0,0,0
+122,We believe that this explanation is potentially very important.,0,0,0,0,N,N,0,0,0,0,0
+123,"One possibility is that the QoL of people with AMD is primarily determined by grief for lost sources of pleasure and relaxation—for example, reading, playing with grandchildren, or watching television rather than by their ability to perform essential activities in a constrained way.",0,0,0,0,N,N,0,0,0,0,0
+124,"If true, it may be worth considering interventions more usually associated with bereavement or chronic conditions, such as counselling,<sup><a href=""#r30"">30</a></sup> as well as traditional task oriented interventions.",0,0,0,0,N,N,0,0,0,0,0
+125,The lack of improvement in most outcomes over time for CLVR might lead some to question the effectiveness of CLVR.,0,0,0,0,N,N,0,0,0,0,0
+126,"However, such a comparison is uncontrolled—that is, it does not consider the extent to which QoL may deteriorate in the absence of LVR entirely, and CLVR compared to no LVR has never been evaluated.",0,0,0,0,N,N,0,0,0,0,0
+127,The widespread use of LVAs on a daily basis for tasks that participants rated as important to them suggests strongly that people with AMD value LVAs highly.,0,0,0,0,N,N,0,0,0,0,0
+128,Most participants made frequent use of LVAs but for short periods of time on each occasion.,0,0,0,0,N,N,0,0,0,0,0
+129,Whether or not this pattern of use constitutes successful rehabilitation may be debatable.,0,0,0,0,N,N,0,0,0,0,0
+130,"However, our findings on LVA use are comparable to those of another large study on the use of LVAs in the elderly—namely, that of Watson <span class=""italic"">et al</span>.<sup><a href=""#r31"">31</a></sup> These researchers profiled low vision device use in 200 US veterans and also found that the majority of subjects tended to use optical LVAs for a few minutes at a time.",0,0,0,0,N,N,0,0,0,0,0
+131,"Therefore, we believe that our findings on LVA use are a realistic reflection of low vision device use in older people.",0,0,0,0,N,N,0,0,0,0,0
+132,"Given the limitations of medical interventions for AMD, from a purely descriptive point of view the trial has highlighted the need to develop effective interventions because of the QoL impact of AMD.",0,0,0,0,N,N,0,0,0,0,0
+133,AMD causes a considerable disability burden and the number of AMD sufferers can only increase in future years.,0,0,0,0,N,N,0,0,0,0,0
+134,"If an intervention could enhance the ability of people with AMD to live independently, as well as improving QoL, it would also have the potential to be cost effective.",0,0,0,0,N,N,0,0,0,0,0
+135,ELVR as evaluated in this trial appears to be no more effective than CLVR.,0,0,0,0,N,N,0,1,0,0,0
+136,"The manifest lack of additional benefit from ELVR, despite its face validity, should make researchers cautious about developing and advocating modified or supplementary interventions without more in-depth preliminary evidence of their effectiveness.",0,0,0,0,N,N,0,1,0,0,0
+137,"We recommend that researchers consider carefully the determinants of reduced QoL in people affected by AMD and the ability of interventions to address them, before designing and evaluating new interventions.",0,0,0,0,N,N,0,1,0,0,0
+138,"A RCT of no LVR (or delayed LVR) versus conventional LVR has been proposed in the United States<sup><a href=""#r32"">32</a></sup> but is not being carried out because of lack of funding (Raasch TW, personal communication, 2004).",0,0,0,0,N,N,0,1,0,0,0
+139,There would be much merit in conducting such a trial.,0,0,0,0,N,N,0,1,0,0,0
+141,</span> Study design.,0,0,0,0,N,N,0,0,0,0,0
+142,"<sup>a</sup><span class=""italic"">Non-refusals who were not recruited: </span>two patients died soon after consenting; 10 consented too late (that is, had consented after attending their first clinic assessment); four consented but lived too far away from the hospital; researcher failed to visit one patient because of researcher’s ill health.",0,0,0,0,N,N,0,0,0,0,0
+143,"<sup>b</sup><span class=""italic"">First clinic assessments: </span>two patients in CLVR arm died before their appointments; two patients in ELVR arm did not attend, one because of ill health and one for unknown reasons; one patient in CELVR arm died before appointment and one did not attend because of ill health.",0,0,0,0,N,N,0,0,0,0,0
+144,"<sup>c</sup><span class=""italic"">Home visits: </span>these are shown in the diagram as they were scheduled.",0,0,0,0,N,N,0,0,0,0,0
+145,"However, because some visits had to be rearranged, the sequence of the home visits varied with respect to second clinical assessment varied for some patients.",0,0,0,0,N,N,0,0,0,0,0
+146,"<sup>d</sup><span class=""italic"">Duration of follow up: </span>mean durations of follow up (number of days between the first home visit to measure baseline outcomes and the last home visit to measure outcomes after 12 months’ follow up) were 361, 364, and 362 in CLVR, ELVR, and CELVR arms, respectively.",0,0,0,0,N,N,0,0,0,0,0
+148,</span> Main components of interventions provided in the three arms of the trial,0,0,0,0,N,N,0,0,0,0,0
+150,</span> Demographic and visual function characteristics of participants at baseline,0,0,0,0,N,N,0,0,0,0,0
+152,</span> Median outcomes or frequencies (and interquartile ranges or percentages) at baseline and after 12 months’ follow up,0,0,0,1,N,N,0,0,0,1,1
+154,</span> Effect size estimates for all pairwise comparisons between arms,0,0,0,0,N,N,0,0,0,0,0
+155,"AMD, age related macular degeneration",0,0,0,0,N,N,0,0,0,0,0
+156,"CLVR, conventional low vision rehabilitation",0,0,0,0,N,N,0,0,0,0,0
+157,"ELVR, enhanced low vision rehabilitation model",0,0,0,0,N,N,0,0,0,0,0
+158,"HES, hospital eye service",0,0,0,0,N,N,0,0,0,0,0
+159,"LVA, low vision aid",0,0,0,0,N,N,0,0,0,0,0
+160,"LVR, low vision rehabilitation",0,0,0,0,N,N,0,0,0,0,0
+161,"QoL, quality of life",0,0,0,0,N,N,0,0,0,0,0

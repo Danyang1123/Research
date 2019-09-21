@@ -1,0 +1,192 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Major advances in understanding the pathogenesis of inherited metabolic disease caused by mitochondrial DNA mutations have yet to translate into treatments of proven efficacy.,0,0,N,0,N,N,N,0,N,0,0
+1,Leber’s hereditary optic neuropathy is the most common mitochondrial DNA disorder causing irreversible blindness in young adult life.,0,0,N,0,N,N,N,0,N,0,0
+2,"Anecdotal reports support the use of idebenone in Leber’s hereditary optic neuropathy, but this has not been evaluated in a randomized controlled trial.",0,0,N,0,N,N,N,0,N,0,0
+3,"We conducted a 24-week multi-centre double-blind, randomized, placebo-controlled trial in 85 patients with Leber’s hereditary optic neuropathy due to m.3460G&gt;A, m.11778G&gt;A, and m.14484T&gt;C or mitochondrial DNA mutations.",0,1,N,0,N,N,N,0,N,0,0
+4,The active drug was idebenone 900 mg/day.,0,0,N,0,N,N,N,0,N,0,0
+5,The primary end-point was the best recovery in visual acuity.,0,0,N,0,N,N,N,0,N,0,0
+6,The main secondary end-point was the change in best visual acuity.,0,0,N,0,N,N,N,0,N,0,0
+7,Other secondary end-points were changes in visual acuity of the best eye at baseline and changes in visual acuity for both eyes in each patient.,0,0,N,0,N,N,N,0,N,0,0
+8,Colour-contrast sensitivity and retinal nerve fibre layer thickness were measured in subgroups.,0,0,N,0,N,N,N,0,N,0,0
+9,Idebenone was safe and well tolerated.,0,0,N,0,N,N,N,0,N,0,0
+10,The primary end-point did not reach statistical significance in the intention to treat population.,0,0,N,0,N,N,N,0,N,0,0
+11,"However, <span class=""italic"">post hoc</span> interaction analysis showed a different response to idebenone in patients with discordant visual acuities at baseline; in these patients, all secondary end-points were significantly different between the idebenone and placebo groups.",0,0,N,0,N,N,N,0,N,0,0
+12,"This first randomized controlled trial in the mitochondrial disorder, Leber’s hereditary optic neuropathy, provides evidence that patients with discordant visual acuities are the most likely to benefit from idebenone treatment, which is safe and well tolerated.",0,0,N,0,N,N,N,0,N,0,0
+13,"Inherited disorders of mitochondrial energy metabolism are a major cause of metabolic disease affecting more than 1/5000 of the population (<a href=""#B21"">Schaefer <span class=""italic"">et al</span>., 2004</a>).",0,0,N,0,N,N,N,0,N,0,0
+14,"Despite major advances in understanding the molecular basis of these disorders, treatment options are extremely limited.",0,0,N,0,N,N,N,0,N,0,0
+15,"Leber’s hereditary optic neuropathy (LHON; MIM 535000) is the most common mitochondrial disorder affecting more than 1:14 000 males (<a href=""#B14"">Man <span class=""italic"">et al</span>., 2003</a>).",0,0,N,0,N,N,N,0,N,0,0
+16,"It causes progressive irreversible blindness and has a dramatic impact on quality of life (<a href=""#B12"">Kirkman <span class=""italic"">et al</span>., 2009</a>).",0,0,N,0,N,N,N,0,N,0,0
+17,"Over 90% of European and North American patients harbour one of three pathogenic mutations of mitochondrial DNA (m.3460G&gt;A, m.11778G&gt;A, and m.14484T&gt;C), which affect complex I (Nicotinamide adenine dinucleotide–ubiquinone oxidoreductase) of the mitochondrial respiratory chain (<a href=""#B11"">Harding <span class=""italic"">et al</span>., 1995</a>).",0,0,N,0,N,N,N,0,N,0,0
+18,"These mutations lead to a defect of ATP (adenosine triphosphate) synthesis accompanied by increased production of oxygen-free radicals causing retinal ganglion cell dysfunction and loss (<a href=""#B2"">Baracca <span class=""italic"">et al</span>., 2005</a>; <a href=""#B26"">Zanna <span class=""italic"">et al</span>., 2005</a>).",0,0,N,0,N,N,N,0,N,0,0
+19,"Although it can affect both genders at any age, LHON is typically prevalent among young adult males (median onset at 24 years) (<a href=""#B19"">Nikoskelainen <span class=""italic"">et al</span>., 1996</a>).",0,0,N,0,N,N,N,0,N,0,0
+20,"In the acute phase, patients describe a loss of colour vision in one eye followed by a painless subacute decrease in central visual acuity accompanied by an enlarging centrocaecal scotoma.",0,0,N,0,N,N,N,0,N,0,0
+21,"The second eye usually follows a similar course within 3 months, and significant improvements in visual acuity are rare for m.11778A&gt;G and m.3460A&gt;G patients.",0,0,N,0,N,N,N,0,N,0,0
+22,"In the chronic phase, patients usually have a bilateral visual deficit that is symmetrical and life-long.",0,0,N,0,N,N,N,0,N,0,0
+23,"Most remain legally blind, are unable to drive a motor vehicle, and are unable to find employment (<a href=""#B18"">Newman <span class=""italic"">et al</span>., 1991</a>; <a href=""#B20"">Riordan-Eva <span class=""italic"">et al</span>., 1995</a>; <a href=""#B19"">Nikoskelainen <span class=""italic"">et al</span>., 1996</a>).",0,0,N,0,N,N,N,0,N,0,0
+24,"Anecdotally, patients with LHON have reported improvements in vision following treatment with the short-chain synthetic benzoquinone idebenone [2,3-dimethoxy-5-methyl-6-(10-hydroxydecyl)-1,4-benzoquinone] (<a href=""#B15"">Mashima <span class=""italic"">et al</span>., 1992</a>; <a href=""#B5"">Carelli <span class=""italic"">et al</span>., 1998</a>).",0,0,N,0,N,N,N,0,N,0,0
+25,"Idebenone is a potent antioxidant and inhibitor of lipid peroxidation, interacting with the mitochondrial electron transport chain and facilitating mitochondrial electron flux in by-passing complex I (<a href=""#B10"">Haefeli <span class=""italic"">et al</span>., 2011</a>).",0,0,N,0,N,N,N,0,N,0,0
+26,"However, therapeutic effects of idebenone in patients with LHON have only been reported in isolated case reports and in a small retrospective open-labelled study (<a href=""#B15"">Mashima <span class=""italic"">et al</span>., 1992</a>; <a href=""#B7"">Cortelli <span class=""italic"">et al</span>., 1997</a>; <a href=""#B5"">Carelli <span class=""italic"">et al</span>., 1998</a>, <a href=""#B6"">2001</a>; <a href=""#B16"">Mashima <span class=""italic"">et al</span>., 2000</a>; <a href=""#B4"">Barnils <span class=""italic"">et al</span>., 2007</a>).",0,0,N,0,N,N,N,0,N,0,0
+27,"Eighty-five patients enrolled in a prospective, randomized, double-blind, placebo-controlled study (Rescue of Hereditary Optic Disease Outpatient Study, RHODOS; ClinicalTrials.gov identifier: NCT00747487) in Munich, Germany (<span class=""italic"">n = </span>44); Newcastle upon Tyne, England (<span class=""italic"">n = </span>30); and Montreal, Canada (<span class=""italic"">n = </span>11).",0,0,N,0,N,N,N,0,N,0,0
+28,"Inclusion criteria were met if patients were between 14 and 64 years of age, harboured m.3460G&gt;A, m.11778G&gt;A, or m.14484T&gt;C mitochondrial DNA mutations, described vision loss due to LHON within 5 years, did not take drugs of abuse, and were neither pregnant nor breastfeeding.",0,0,N,0,N,N,N,0,N,0,0
+29,The study had ethical and institutional review board approval.,0,0,N,0,N,N,N,0,N,0,0
+30,All patients gave written informed consent.,0,0,N,0,N,N,N,0,N,0,0
+31,The trial profile is summarized in Supplementary Fig.,0,0,N,0,N,N,N,0,N,0,0
+33,"Patients were randomly assigned following a centralized randomization procedure to receive idebenone (Catena® 150 mg, Santhera Pharmaceuticals) 900 mg/day (300 mg three times a day during meals) or placebo for 24 weeks in a 2:1 ratio.",0,1,N,0,N,N,N,0,N,0,0
+34,This dose was chosen because it had previously been shown to be well tolerated.,0,0,N,0,N,N,N,0,N,0,0
+35,Patients were stratified by disease history and mitochondrial DNA mutation.,0,0,N,0,N,N,N,0,N,0,0
+36,A computer-generated randomization list was created for each stratum (Clintrak) with blocks (block size: 6) containing idebenone and placebo allocations in the correct proportion but random order.,0,0,N,0,N,N,N,0,N,0,0
+37,Each patient was assigned the next available treatment for the appropriate stratum by an independent provider (BIOP).,0,0,N,0,N,N,N,0,N,0,0
+38,"The study site was informed of the medication kit number to be dispensed to the patient, ensuring that the blinding was maintained.",0,0,N,0,N,N,N,0,N,0,0
+39,Details of the randomization procedure were defined in a Study Medication Assignment Guideline.,0,0,N,0,N,N,N,0,N,0,0
+40,Compliance was monitored by pill count and idebenone serum levels.,0,0,N,0,N,N,N,0,N,0,0
+41,"The main clinical efficacy analyses related to visual acuity are shown in <a href=""#F1"">Fig.",0,0,N,0,N,N,N,0,N,0,0
+42,1</a>A.,0,0,N,0,N,N,N,0,N,0,0
+43,"The primary end-point was the best recovery of visual acuity between baseline and Week 24 determined with an Early Treatment Diabetic Retinopathy Study chart (<a href=""#B23"">van den Bosch and Wall, 1997</a>).",0,0,N,0,N,N,N,0,N,0,0
+44,"In patients with neither eye improving in visual acuity between baseline and Week 24, the change in visual acuity representing the least worsening was evaluated as best recovery.",0,0,N,0,N,N,N,0,N,0,0
+45,"Patients only able to count fingers, detect hand motion or light perception were assigned logMAR values 2.0, 2.3 and 2.6, respectively (<a href=""#B13"">Lange <span class=""italic"">et al</span>., 2009</a>).",0,0,N,0,N,N,N,0,N,0,0
+46,Change from baseline to Week 24 in best visual acuity was the pre-specified main secondary end-point.,0,0,N,0,N,N,N,0,N,0,0
+47,"Other secondary end-points were the change in visual acuity of the best eye at baseline, and change in visual acuity for both eyes in each patient.",0,0,N,0,N,N,N,0,N,0,0
+48,Valid visual acuity data were available for 82 patients in the intent-to-treat population.,0,0,N,0,N,N,N,0,N,0,0
+49,"View larger version</a></span><span class=""fig-label"">Figure 1.",0,0,N,0,N,N,N,0,N,0,0
+50,"</span>(<span class=""bold"">A</span>) Visual acuity efficacy end-points (filled arrows) between baseline and Week 24.",0,0,N,0,N,N,N,0,N,0,0
+51,"(1) Primary end-point—best recovery/least worsening in visual acuity, one value per patient.",0,0,N,0,N,N,N,0,N,0,0
+52,"(2) Main secondary end-point—change in best visual acuity, one value per patient.",0,0,N,0,N,N,N,0,N,0,0
+53,"(3) Pre-specified secondary end-point—change in visual acuity of best eye at baseline, one value per patient.",0,0,N,0,N,N,N,0,N,0,0
+54,"(4) Pre-specified secondary end-point—change in visual acuity of all eyes (both eyes of a patient considered independent), two values per patient.",0,0,N,0,N,N,N,0,N,0,0
+55,"(<span class=""bold"">B</span>) Visual acuity at baseline for all patients.",0,0,N,0,N,N,N,0,N,0,0
+56,"Both eyes are shown for each subject, connected by a solid line (grey squares = eye with better visual acuity; black squares = eye with worse visual acuity).",0,0,N,0,N,N,N,0,N,0,0
+57,BL = baseline; CF = finger counting; HM = hand motion; LP = light perception; VA = visual acuity.,0,0,N,0,N,N,N,0,N,0,0
+58,Pre-specified responder analyses involved the counting of patients and eyes that changed logMAR ≥ 0.2 (corresponding to ≥10 Early Treatment Diabetic Retinopathy Study chart letters).,0,0,N,0,N,N,N,0,N,0,0
+59,"Retinal nerve fibre layer thickness was assessed in 41 patients by optical coherence tomography (<a href=""#B3"">Barboni <span class=""italic"">et al</span>., 2005</a>; <a href=""#B22"">Subei and Eggenberger, 2009</a>).",0,0,N,0,N,N,N,0,N,0,0
+60,"Thirty-nine patients in Munich were also assessed for colour contrast sensitivity by determining red–green (Protan) and blue–yellow (Tritan) colour confusion using computer graphics techniques (<a href=""#B1"">Arden and Wolf, 2004</a>).",0,0,N,0,N,N,N,0,N,0,0
+61,"All patients were assessed for Clinical Global Impression of Change (GCIC) determined on a 7-point scale from marked improvement (1) to marked deterioration (7) with no change representing a score of 4 (<a href=""#B9"">Guy, 1976</a>).",0,0,N,0,N,N,N,0,N,0,0
+62,Power calculations indicated that 84 patients would provide 80% statistical power to detect a difference of 0.2 (SD 0.3) logMAR between idebenone and placebo.,1,0,N,1,N,N,N,0,N,0,0
+63,"Data were analysed using the mixed-model repeated measures method (<a href=""#B25"">Verbeke and Molenberghs, 2000</a>).",1,0,N,1,N,N,N,0,N,0,0
+64,"Treatment assignment, visit and interaction between the treatment assignment and visit, and pre-specified stratification factors (disease history and mitochondrial DNA mutation) were included as fixed factors, with baseline assessment as a covariate and subject as a random factor.",1,0,N,1,N,N,N,0,N,0,0
+65,The influence of additional factors (e.g.,1,0,N,1,N,N,N,0,N,0,0
+66,discordant visual acuities at baseline) was investigated by including the factor and interaction between the factor and treatment assignment to the mixed-model repeated measures model.,1,0,N,1,N,N,N,0,N,0,0
+67,The interaction terms were tested on a two-sided significance level of 0.10; otherwise a two-sided significance level of 0.05 was used.,0,0,N,0,N,N,N,0,N,0,0
+68,Authors had full and unrestricted access to the data and all co-authors contributed to the interpretation of the study.,0,0,N,0,N,N,N,0,N,0,0
+69,"The age, gender and mutation distribution were typical for Caucasian patients with LHON and were balanced between treatment groups (<a href=""#T1"">Table 1</a>).",0,1,N,0,N,N,N,0,N,0,0
+70,"Sixty-five per cent reported symptoms for &gt;1 year, 85% had a logMAR ≥ 1.0 in both eyes (corresponding to legal blindness in many countries); and 37% had interocular acuity discordance of logMAR &gt;0.2 (<a href=""#F1"">Fig.",0,0,N,0,N,N,N,0,N,0,0
+72,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,N,0,N,N,N,0,N,0,0
+73,</span>Patient demographics,0,0,N,0,N,N,N,0,N,0,0
+74,All 85 patients were evaluated for safety and tolerability.,0,0,N,0,N,N,N,0,N,0,0
+75,"Compliance with study medication intake was high (mean pill count compliance of 96.5%, SD 6.8%).",0,0,N,0,N,N,N,0,N,0,0
+76,"Seven patients prematurely discontinued treatment (<span class=""italic"">n</span> = 4 of 30 on placebo; <span class=""italic"">n</span> = 3 of 55 on idebenone), one discontinuation in each treatment group was related to adverse events.",0,0,N,0,N,N,N,0,N,0,0
+77,"The nature, severity and frequency of the adverse events observed were indistinguishable between the study groups.",0,0,N,0,N,N,N,0,N,0,0
+78,Two serious adverse events were reported: a case of infected epidermal cyst (idebenone group) and one case of epistaxis (placebo group); both not considered to be due to the study medication.,0,0,N,0,N,N,N,0,N,0,0
+79,No clinically significant changes of vital signs and other biochemical or haematological parameters were observed.,0,0,N,0,N,N,N,0,N,0,0
+80,"For the primary end-point (best recovery of visual acuity), the placebo group changed by logMAR −0.071 [95% confidence interval (95% CI): −0.176 to 0.034), while the idebenone group changed by logMAR −0.135 (95% CI: −0.216 to −0.054); the difference between groups did not reach statistical significance at 24 weeks (logMAR −0.064; 95% CI: −0.184 to 0.055; <span class=""italic"">P = </span>0.291) (<a href=""#F2"">Fig.",0,0,N,0,N,N,N,1,N,1,1
+81,2</a>A).,0,0,N,0,N,N,N,1,N,1,1
+82,"However, a trend towards improvement with idebenone was observed for the secondary end-points of change in best visual acuity (Idebenone: change in logMAR: −0.035; 95% CI: −0.126 to 0.055; Placebo: logMAR +0.085; 95% CI: −0.032 to 0.203; difference between groups: logMAR −0.120; 95% CI: −0.255, 0.014; <span class=""italic"">P = </span>0.078) and the change in visual acuity of the best eye (Idebenone: change in logMAR: −0.030; 95% CI: −0.120 to 0.060; Placebo: logMAR +0.098; 95% CI: −0.020 to 0.215; difference between groups: logMAR −0.128; 95% CI: −0.262 to 0.006; <span class=""italic"">P = </span>0.061) for the intent-to-treat population (<a href=""#F2"">Fig.",0,0,N,0,N,N,N,1,N,1,1
+83,2</a>C and E).,0,0,N,0,N,N,N,1,N,1,1
+84,"When data from all eyes were combined, another pre-specified secondary end-point, there was a significant difference in the mean visual acuity between the idebenone and placebo group at 24 weeks (Idebenone: change in logMAR: −0.054; 95% CI: −0.114 to 0.005; Placebo: logMAR +0.046; 95% CI: −0.032 to 0.123; Difference between groups: logMAR −0.100; 95% CI: −0.188 to −0.012; <span class=""italic"">P = </span>0.026; <a href=""#F2"">Fig.",0,0,N,0,N,N,N,1,N,1,1
+85,2</a>G).,0,0,N,0,N,N,N,0,N,0,0
+86,"Excluding patients with the m.14484T&gt;C mutation, which is known for its spontaneous recovery rate in visual acuity, led to a larger difference in the change of visual acuity between idebenone- and placebo-treated patients.",0,0,N,0,N,N,N,0,N,0,0
+87,"Specifically, for the combined patients carrying m.11778G&gt;A and m.3460G&gt;A mutations, the point estimate between treatment groups for the primary end-point reached logMAR −0.092 (95% CI: −0.229 to 0.045; <span class=""italic"">P = </span>0.187) and for the main secondary end-point, the change in best visual acuity, the point estimate was logMAR −0.169 (95% CI: −0.326 to −0.011; <span class=""italic"">P = </span>0.037).",0,0,N,0,N,N,N,0,N,0,0
+88,"All of the observed changes in visual acuity in the intent-to-treat population correlated with the patients’ clinical global impression of change (for best recovery in visual acuity: <span class=""italic"">R = </span>−0.32, <span class=""italic"">P = </span>0.005; for change in best visual acuity: <span class=""italic"">R</span> = −0.34, <span class=""italic"">P = </span>0.002; for change in visual acuity of the patient’s best eye: <span class=""italic"">R = </span>−0.33, <span class=""italic"">P = </span>0.004 and for the change in visual acuity for all eyes: <span class=""italic"">R = </span>−0.32, <span class=""italic"">P &lt; </span>0.001).",0,0,N,0,N,N,N,0,N,0,0
+89,"View larger version</a></span><span class=""fig-label"">Figure 2.",0,0,N,0,N,N,N,0,N,0,0
+90,"</span>Change in visual acuity (logMAR) end-points over time for the change in best recovery of visual acuity (<span class=""bold"">A</span> and <span class=""bold"">B</span>), change in best visual acuity (<span class=""bold"">C</span> and <span class=""bold"">D</span>), change in visual acuity of the patients’ best eye at baseline (<span class=""bold"">E</span> and <span class=""bold"">F</span>) and change in visual acuity for all eyes (<span class=""bold"">G</span> and <span class=""bold"">H</span>).",0,0,N,0,N,N,N,0,N,0,0
+91,"For each analysis two populations are presented: the whole study population (<span class=""italic"">n</span> = 82, intent-to-treat population for visual acuity end-points) (<span class=""bold"">A</span>, <span class=""bold"">C</span>, <span class=""bold"">E</span> and <span class=""bold"">G</span>) and subpopulation of patients with discordant visual acuities at baseline (<span class=""italic"">n</span> = 30, <span class=""bold"">B</span>, <span class=""bold"">D</span>, <span class=""bold"">F</span> and <span class=""bold"">H</span>).",0,0,N,0,N,N,N,0,N,0,0
+92,"Filled squares/solid line = idebenone group; filled circles/dashed lines = placebo group, <span class=""italic"">P</span>-values for comparison between idebenone and placebo groups.",0,0,N,0,N,N,N,0,N,0,0
+93,Data are estimated means (±SEM) from mixed model for repeat measures based on the change from baseline.,0,0,N,0,N,N,N,0,N,0,0
+94,ITT = intent-to-treat; VA = visual acuity; W = weeks.,0,0,N,0,N,N,N,0,N,0,0
+95,"Given the observed trend, we performed a <span class=""italic"">post hoc</span> subanalysis of the patients with discordant visual acuities at baseline (i.e.",0,0,N,0,N,N,N,0,N,0,0
+96,"patients with difference of logMAR &gt;0.2 between eyes, <a href=""#F1"">Fig.",0,0,N,0,N,N,N,0,N,0,0
+97,"1</a>A), based on the premise that this objectively defined group (<span class=""italic"">n</span> = 30) would include patients at the highest risk of further visual loss.",0,0,N,0,N,N,N,0,N,0,0
+98,"A formal test of the interaction between the effect of idebenone and discordance of visual acuity at baseline was significant for all secondary end-points, indicating that the difference between idebenone and placebo groups was different among patients with discordant visual acuities versus patients with concordant visual acuity.",0,0,N,0,N,N,N,0,N,0,0
+99,"The estimated mean difference among the patients with discordant visual acuities in best recovery in visual acuity between the idebenone and placebo group was logMAR = −0.285; 95% CI: −0.502 to −0.068; <span class=""italic"">P = </span>0.011 (<a href=""#F2"">Fig.",0,0,N,0,N,N,N,0,N,0,0
+100,"2</a>B) with similar results for the best visual acuity (difference between groups: logMAR = −0.421; 95% CI: −0.692 to −0.150; <span class=""italic"">P = </span>0.003; <a href=""#F2"">Fig.",0,0,N,0,N,N,N,0,N,0,0
+101,"2</a>D), change in visual acuity of the patient’s best eye (difference between groups: logMAR = −0.415; 95% CI: −0.686 to −0.144; <span class=""italic"">P = </span>0.003; <a href=""#F2"">Fig.",0,0,N,0,N,N,N,0,N,0,0
+102,"2</a>F), and when data for all eyes was combined (difference between groups: logMAR = −0.348; 95% CI: −0.519 to −0.176; <span class=""italic"">P = </span>0.0001; <a href=""#F2"">Fig.",0,0,N,0,N,N,N,0,N,0,0
+103,2</a>H).,0,0,N,0,N,N,N,0,N,0,0
+104,"In contrast, among the patients with concordant visual acuity, no significant differences were seen in any of the end-points: estimated difference between the idebenone and placebo group being logMAR +0.056 (95% CI: −0.091 to +0.202; <span class=""italic"">P = </span>0.452) for best recovery in visual acuity; logMAR +0.037 (95% CI: −0.107 to +0.180; <span class=""italic"">P = </span>0.613) for the best visual acuity; logMAR +0.022 (95% CI: −0.120 to +0.165; <span class=""italic"">P = </span>0.757) for change in visual acuity of the patient’s best eye and logMAR +0.028 (95% CI: −0.070 to +0.125; <span class=""italic"">P = </span>0.577) when data for all eyes was combined.",0,0,N,0,N,N,N,0,N,0,0
+105,"The trend towards improvement with idebenone was also apparent in a responder analysis (<a href=""#T2"">Table 2</a>).",0,0,N,0,N,N,N,0,N,0,0
+106,"For patients with discordant visual acuities at baseline, there was a 45% difference in the responders for the best recovery of visual acuity (<span class=""italic"">P = </span>0.024); and a 32.5% difference in the end-point assessing the change in visual acuity for all eyes (<span class=""italic"">P = </span>0.011).",0,0,N,0,N,N,N,0,N,0,0
+107,Of particular interest were the patients unable to read any letters on the chart at baseline (‘off-chart patients’).,0,0,N,0,N,N,N,0,N,0,0
+108,"When all eyes were considered independently, 20% of the eyes of the patients receiving idebenone were able to read at least one full line on the chart at Week 24, while none of the patients in the placebo group showed this improvement (<span class=""italic"">P = </span>0.008).",0,0,N,0,N,N,N,0,N,0,0
+109,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,N,0,N,N,N,0,N,0,0
+110,</span>Responder analyses for change in visual acuity,0,0,N,0,N,N,N,0,N,0,0
+111,Most patients (92%) had abnormal colour contrast sensitivity at baseline in both protan and tritan domains in both eyes.,0,0,N,0,N,N,N,0,N,0,0
+112,"There was a significant improvement in the tritan colour contrast in the idebenone group at 12 weeks (difference between groups: −14.51%; 95% CI: −24.19 to −4.83; <span class=""italic"">P = </span>0.004) and 24 weeks (difference between groups: −13.63%; 95% CI: −23.61 to −3.66; <span class=""italic"">P = </span>0.008) (<a href=""#F3"">Fig.",0,0,N,0,N,N,N,0,N,0,0
+113,3</a>).,0,0,N,0,N,N,N,0,N,0,0
+114,"A similar trend was observed in the protan domain, but this did not reach statistical significance.",0,0,N,0,N,N,N,0,N,0,0
+115,"View larger version</a></span><span class=""fig-label"">Figure 3.",0,0,N,0,N,N,N,0,N,0,0
+116,"</span>Change in colour contrast sensitivity for red–green (Protan; <span class=""bold"">A</span>) and blue–yellow (Tritan; <span class=""bold"">B</span>).",0,0,N,0,N,N,N,0,N,0,0
+117,Data are estimated mean changes from baseline (± SEM) from mixed model for repeat measures.,0,0,N,0,N,N,N,0,N,0,0
+118,Filled squares/solid lines = idebenone group; filled circles/dashed lines = placebo group.,0,0,N,0,N,N,N,0,N,0,0
+119,"There was no difference in the pattern of retinal nerve fibre layer thickness at baseline for patients grouped by disease onset of ≤6 months, 6 months to 1 year, and &gt;1 year (<a href=""#F4"">Fig.",0,0,N,0,N,N,N,0,N,0,0
+120,4</a>A).,0,0,N,0,N,N,N,0,N,0,0
+121,"Consistent with the visual acuity data, there was a trend towards maintaining retinal nerve fibre layer thickness in the idebenone group in superior, nasal and inferior quadrants, among patients with ≤6 months disease history (<a href=""#F4"">Fig.",0,0,N,0,N,N,N,0,N,0,0
+122,4</a>B).,0,0,N,0,N,N,N,0,N,0,0
+123,"Due to the small sample size, no formal statistical analysis was conducted.",0,0,N,0,N,N,N,0,N,0,0
+124,"View larger version</a></span><span class=""fig-label"">Figure 4.",0,0,N,0,N,N,N,0,N,0,0
+125,"</span>Retinal nerve fibre layer thickness at baseline for patients with disease onset of ≤6, 6–12 and &gt;12 months (<span class=""bold"">A</span>).",0,0,N,0,N,N,N,0,N,0,0
+126,"The mean retinal nerve fibre layer thickness for the temporal, superior, nasal and inferior retinal quadrants are shown.",0,0,N,0,N,N,N,0,N,0,0
+127,"Relative change from baseline to Weeks 4, 12 and 24 in retinal nerve fibre layer thickness (<span class=""bold"">B</span>).",0,0,N,0,N,N,N,0,N,0,0
+128,"<span class=""italic"">n = </span>6/4 (idebenone/placebo) for eyes with disease onset of ≤6 months; <span class=""italic"">n = </span>8/6 for eyes with disease onset of 6–12 months; <span class=""italic"">n = </span>32/26 for eyes with disease onset of &gt;12 months.",0,0,N,0,N,N,N,0,N,0,0
+129,Filled squares/solid line = idebenone group; filled circles/dashed line = placebo group.,0,0,N,0,N,N,N,0,N,0,0
+130,RNFLT = retinal nerve fibre layer thickness.,0,0,N,0,N,N,N,0,N,0,0
+131,Considerable advances in our understanding of the molecular and biochemical basis of mitochondrial DNA-associated diseases have not yet translated into treatments of proven efficacy.,0,0,N,0,N,N,N,0,N,0,0
+132,A major hurdle has been the inherent difficulties of conducting adequately-powered randomized placebo-controlled clinical trials for such rare genetic diseases.,0,0,N,0,N,N,N,0,N,0,0
+133,"Recruitment often presents a major challenge, in part due to limited disease awareness among general hospital and community physicians.",0,0,N,0,N,N,N,0,N,0,0
+134,"In addition, the lack of detailed natural history studies makes it difficult to select clinically meaningful trial end-points to inform <span class=""italic"">a priori</span> power calculations.",0,0,N,0,N,N,N,0,N,0,0
+135,"Finally, patients often find the prospect of taking placebo unacceptable and self-medicate, using Internet-based suppliers of vitamins, food supplements and unapproved medication.",0,0,N,0,N,N,N,0,N,0,0
+136,"All of these issues are relevant for LHON, limiting previous clinical investigations to underpowered, open-labelled studies (<a href=""#B16"">Mashima <span class=""italic"">et al</span>., 2000</a>; <a href=""#B17"">Newman <span class=""italic"">et al</span>., 2005</a>).",0,0,N,0,N,N,N,0,N,0,0
+137,"Employing recently established patient registries in Germany (mitoNET) and the UK (MRC cohort), we were able to conduct the first adequately-powered randomized placebo-controlled trial for this disorder.",0,0,N,0,N,N,N,0,N,0,0
+138,"Although this study did not meet the primary end-point, all pre-specified secondary visual acuity end-points, subgroup, and responder analyses pointed towards a beneficial effect for idebenone, particularly for patients with discordant visual acuities between the two eyes.",0,0,N,0,N,N,N,0,N,0,0
+139,"Although we chose best recovery in visual acuity as the primary end-point, both change in best visual acuity and change in visual acuity in both eyes are equally justifiable end-points from a clinical perspective, and arguably the change in best visual acuity is the most relevant to the patients’ needs—being the closest related to visual function in daily life.",0,0,N,0,N,N,N,0,N,0,0
+140,Colour contrast sensitivity data provided an independent measurement of the potential treatment effects of idebenone.,0,0,N,0,N,N,N,0,N,0,0
+141,"In agreement with previous studies (<a href=""#B8"">Grigsby <span class=""italic"">et al</span>., 1991</a>; <a href=""#B24"">Ventura <span class=""italic"">et al</span>., 2007</a>), we observed a high incidence of defects affecting both the red–green (protan) and blue–yellow (tritan) colour domains.",0,0,N,0,N,N,N,0,N,0,0
+142,"LHON preferentially affects the smallest diameter optic nerve fibres in the parvocellular bundle that mediate protan colour vision (<a href=""#B8"">Grigsby <span class=""italic"">et al</span>., 1991</a>; <a href=""#B24"">Ventura <span class=""italic"">et al</span>., 2007</a>).",0,0,N,0,N,N,N,0,N,0,0
+143,The relative resistance of the larger stratified fibres mediating tritan vision through the koniocellular pathway may explain why we only observed an effect of idebenone in this domain.,0,0,N,0,N,N,N,0,N,0,0
+144,"The natural history of retinal nerve fibre layer thickness in LHON (<a href=""#B3"">Barboni <span class=""italic"">et al</span>., 2005</a>) reveals a complex biphasic pattern, where the value increases during the acute phase (due to retinal nerve fibre layer swelling), followed by a decrease as the patient enters the chronic phase (due to the resolution of retinal nerve fibre layer swelling and subsequent axonal loss).",0,0,N,0,N,N,N,0,N,0,0
+145,"Subdividing patients into different subgroups based on the disease duration to account for the complex pattern in change of retinal nerve fibre layer thickness markedly reduced statistical power, explaining why the observed trend did not reach significance in patients ≤6 months since disease onset.",0,0,N,0,N,N,N,0,N,0,0
+146,"Although subgroup analysis should be interpreted with great caution, subdividing patients into those with and without discordant interocular visual acuities indicated that patients with discordant eyes had the largest treatment effect.",0,0,N,0,N,N,N,0,N,0,0
+147,"It is notoriously difficult to subdivide patients with LHON into ‘acute’ and ‘chronic’ disease phases based solely on their recollection of symptom onset, since well-established cases can present only after the second eye becomes clinically involved (<a href=""#B20"">Riordan-Eva <span class=""italic"">et al</span>., 1995</a>).",0,0,N,0,N,N,N,0,N,0,0
+148,"In order to avoid this problem, we used a more objective categorization of patients into those with discordant and concordant visual acuities.",0,0,N,0,N,N,N,0,N,0,0
+149,"This was based on the published literature where, in general, a visual acuity difference of logMAR &gt;0.2 is considered uncommon in late-stage patients (<a href=""#B18"">Newman <span class=""italic"">et al</span>., 1991</a>; <a href=""#B20"">Riordan-Eva <span class=""italic"">et al</span>., 1995</a>), suggesting that asymmetric interocular visual acuities are more likely to be found among patients with a relatively recent onset of symptoms.",0,0,N,0,N,N,N,0,N,0,0
+150,"However, in our study of patients with symptoms of &lt;5 years duration, we saw no relationship between discordant visual acuities and the duration of reported symptoms.",0,0,N,0,N,N,N,0,N,0,0
+151,"A much longer study will be required to determine whether the frequency of discordant visual acuities does correlate with disease duration, as suggested by the literature (<a href=""#B18"">Newman <span class=""italic"">et al</span>., 1991</a>; <a href=""#B20"">Riordan-Eva <span class=""italic"">et al</span>., 1995</a>), but this would not alter our main conclusions.",0,0,N,0,N,N,N,0,N,0,0
+152,"Based on our findings, idebenone appeared to prevent further visual loss in patients with discordant visual acuities, in contrast, to the placebo group whose visual acuities continued to deteriorate during the 24 week study period.",0,0,N,0,N,N,N,0,N,0,0
+153,"The clinical significance of this finding is that patients with discordant visual acuities may represent the patients with greatest potential reserve, and therefore the patients that have the most clinical benefit with regard to preventing further visual loss.",0,0,N,0,N,N,N,0,N,0,0
+154,Analysis of the different mitochondrial DNA mutations was consistent with these findings.,0,0,N,0,N,N,N,0,N,0,0
+155,We saw the largest treatment effect among patients harbouring the m.11778G&gt;A and m.3460G&gt;A mutations.,0,0,N,0,N,N,N,0,N,0,0
+156,"Among patients with the m.14484T&gt;C mutation, the genotype that has been reported to confer a better prognosis of visual recovery, a high spontaneous recovery rate in the placebo group was recorded, effectively abolishing a treatment effect in these patients.",0,0,N,0,N,N,N,0,N,0,0
+157,It is important to note that there was no significant difference in the frequency of the m.14484T&gt;C mutation between patients recruited with concordant and discordant visual acuities.,0,0,N,0,N,N,N,0,N,0,0
+158,"Thus, based on these 6-month study data, idebenone appears to ameliorate the visual outcome particularly among patients with the m.11778G&gt;A and m.3460G&gt;A mutations, which account for ∼80% of all European and North American cases with LHON.",0,0,N,0,N,N,N,0,N,0,0
+159,"A key finding of this study was the minimal side-effect profile among patients with LHON treated with high-dose idebenone, which was not different to placebo, and contributed to the high compliance rates observed in this study.",0,0,N,0,N,N,N,0,N,0,0
+160,"When combined with other published data, this indicates that at 900 mg/day, idebenone is safe and is well tolerated—a key factor in deciding whether or not this new treatment should be used in clinical practice.",0,0,N,0,N,N,N,0,N,0,0
+161,"Recruiting of patients was supported by use of patient databases; the German network for mitochondrial disorders (mitoNET, 01GM0862), which is funded by the German Ministry of Education and Research (BMBF, Bonn, Germany), and the UK Mitochondrial Disease Cohort, which is funded by the Medical Research Council (UK).",0,0,N,0,N,N,N,0,N,0,0
+162,T.K.,0,0,N,0,N,N,N,0,N,0,0
+163,"is the coordinator of mitoNET, and also receives other funding from BMBF and from the Deutsche Forschungsgemeinschaft (DFG).",0,0,N,0,N,N,N,0,N,0,0
+164,P.F.C.,0,0,N,0,N,N,N,0,N,0,0
+165,"is a Wellcome Trust Senior Fellow in Clinical Science and a UK National Institute of Health Senior Investigator who also receives funding from the Medical Research Council (UK), Parkinson’s UK, the Association Française contre les Myopathies, and the UK NIHR Biomedical Research Centre for Ageing and Age-related disease award to the Newcastle upon Tyne Foundation Hospitals NHS Trust.",0,0,N,0,N,N,N,0,N,0,0
+166,P.Y.W.M.,0,0,N,0,N,N,N,0,N,0,0
+167,is a UK Medical Research Council (UK) Clinical Research Fellow.,0,0,N,0,N,N,N,0,N,0,0
+168,Open In Web Browser,0,0,N,0,N,N,N,0,N,0,0
+169,Open In Web Browser,0,0,N,0,N,N,N,0,N,0,0
+170,"Sponsored by Santhera Pharmaceuticals, Liestal, Switzerland.",0,0,N,0,N,N,N,0,N,0,0
+171,"D.P., G.M., C.R.",0,0,N,0,N,N,N,0,N,0,0
+172,and T.M.,0,0,N,0,N,N,N,0,N,0,0
+173,are regular employees of Santhera Pharmaceuticals.,0,0,N,0,N,N,N,0,N,0,0
+174,"We thank J. Al-Tamami for excellent work as a study nurse, B. Büchner and G. Rudolph for support in patient investigations, W.T.",0,0,N,0,N,N,N,0,N,0,0
+175,"Andrews for medical monitoring, G. Alvaro for analysis of safety data and N. Coppard for support in efficacy data analysis and interpretation.",0,0,N,0,N,N,N,0,N,0,0
+176,"An independent data monitoring committee (iDMC) with four permanent/voting members with experience in clinical pharmacology and drug safety (L. Kappos, Basel; S. Krähenbühl, Basel; G. Wilmot, Atlanta) and statistics (C. Bernasconi, Basel) was assigned to the study.",0,0,N,0,N,N,N,0,N,0,0
+177,The iDMC met approximately every 6 months to review the safety data from the ongoing study and to advise the sponsor on the continuation or potential modification of the study.,0,0,N,0,N,N,N,0,N,0,0
+178,M.L.,0,0,N,0,N,N,N,0,N,0,0
+179,is an independent statistician contracted by Santhera Pharmaceuticals to carry out statistical analyses.,0,0,N,0,N,N,N,0,N,0,0
+180,We are indebted to the patients who volunteered for this study and we also thank all doctors who have transferred patients into this trial.,0,0,N,0,N,N,N,0,N,0,0
+181,Glossary,0,0,N,0,N,N,N,0,N,0,0
+182,Abbreviations,0,0,N,0,N,N,N,0,N,0,0
+183,LHON,0,0,N,0,N,N,N,0,N,0,0
+184,Leber’s hereditary optic neuropathy,0,0,N,0,N,N,N,0,N,0,0
+185,"Articles from Brain are provided here courtesy of <span class=""bold"">Oxford University Press",0,0,N,0,N,N,N,0,N,0,0
+186,PMC Copyright Notice,0,0,N,0,N,N,N,0,N,0,0
+187,"The articles available from the PMC site are protected by copyright, even though access is free.",0,0,N,0,N,N,N,0,N,0,0
+188,Copyright is held by the respective authors or publishers who provide these articles to PMC.,0,0,N,0,N,N,N,0,N,0,0
+189,Users of PMC are responsible for complying with the terms and conditions defined by the copyright holder.,0,0,N,0,N,N,N,0,N,0,0
+190,"Users should assume that standard copyright protection applies to articles in PMC, unless an article contains an explicit license statement that gives a user additional reuse or redistribution rights.",0,0,N,0,N,N,N,0,N,0,0
+191,PMC does not allow automated/bulk downloading of articles that have standard copyright protection.,0,0,N,0,N,N,N,0,N,0,0
+192,"See the copyright notice on the PMC site, <a href=""https://www.ncbi.nlm.nih.gov/pmc/about/copyright/"">https://www.ncbi.nlm.nih.gov/pmc/about/copyright/</a>, for further details and specific exceptions.",0,0,N,0,N,N,N,0,N,0,0

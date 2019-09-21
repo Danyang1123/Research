@@ -1,0 +1,188 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To evaluate the clinical effectiveness of manual physiotherapy and/or exercise physiotherapy in addition to usual care for patients with osteoarthritis (OA) of the hip or knee.,0,0,0,0,N,N,0,0,0,0,0
+1,"In this 2 × 2 factorial randomized controlled trial, 206 adults (mean age 66 years) who met the American College of Rheumatology criteria for hip or knee OA were randomly allocated to receive manual physiotherapy (n = 54), multi-modal exercise physiotherapy (n = 51), combined exercise and manual physiotherapy (n = 50), or no trial physiotherapy (n = 51).",0,0,0,0,N,N,0,0,0,0,0
+2,The primary outcome was change in the Western Ontario and McMaster osteoarthritis index (WOMAC) after 1 year.,0,0,0,0,N,N,0,0,0,0,0
+3,Secondary outcomes included physical performance tests.,0,0,0,0,N,N,0,0,0,0,0
+4,Outcome assessors were blinded to group allocation.,0,0,0,0,N,N,0,0,0,0,0
+5,"Of 206 participants recruited, 193 (93.2%) were retained at follow-up.",0,0,0,0,N,N,0,1,0,0,0
+6,Mean (SD) baseline WOMAC score was 100.8 (53.8) on a scale of 0–240.,0,0,0,0,N,N,0,1,0,0,0
+7,"Intention to treat analysis showed adjusted reductions in WOMAC scores at 1 year compared with the usual care group of 28.5 (95% confidence interval (CI) 9.2–47.8) for usual care plus manual therapy, 16.4 (−3.2 to 35.9) for usual care plus exercise therapy, and 14.5 (−5.2 to 34.1) for usual care plus combined exercise therapy and manual therapy.",0,0,0,0,N,N,0,1,0,0,0
+8,There was an antagonistic interaction between exercise therapy and manual therapy (P = 0.027).,0,0,0,0,N,N,0,1,0,0,0
+9,Physical performance test outcomes favoured the exercise therapy group.,0,0,0,0,N,N,0,1,0,0,0
+10,"Manual physiotherapy provided benefits over usual care, that were sustained to 1 year.",0,0,0,0,N,N,0,0,0,0,0
+11,Exercise physiotherapy also provided physical performance benefits over usual care.,0,0,0,0,N,N,0,0,0,0,0
+12,There was no added benefit from a combination of the two therapies.,0,0,0,0,N,N,0,0,0,0,0
+13,"Non-pharmacological, non-surgical interventions, primarily exercise therapy and more recently manual therapy, are recommended as the first line of treatment for hip and knee osteoarthritis (OA).",0,0,0,0,N,N,0,0,0,0,0
+14,"However there is little evidence for the long-term effectiveness of exercise therapy, and there is insufficient evidence on the effectiveness of manual therapy.",0,0,0,0,N,N,0,0,0,0,0
+15,It is well established that various forms of exercise are effective in reducing pain and increasing physical function in people with hip or knee OA.,0,0,0,0,N,N,0,0,0,0,0
+16,"However, there is little knowledge about which forms of exercise provide the greatest and most enduring benefit, with few studies having followed participants to or beyond 12 months.",0,0,0,0,N,N,0,0,0,0,0
+17,"New developments in manual physiotherapy have demonstrated promising improvements in pain and physical function for hip and knee OA, but effectiveness has not yet been established.",0,0,0,0,N,N,0,0,0,0,0
+18,"Manual therapy is intended to improve musculoskeletal function and pain by addressing impaired kinematics of the joint, which in OA can be affected by joint capsule contracture, loss of periarticular flexibility, and increased intracapsular pressure.",0,0,0,0,N,N,0,0,0,0,0
+19,"On the strength of just one randomised clinical trial, the 2008 NICE clinical guideline for OA recommends that manual therapy should “be considered an adjunct to core treatment” for hip OA.",0,0,0,0,N,N,0,0,0,0,0
+20,"No randomized controlled trial has investigated the benefits of manual therapy in addition to usual care alone, in patients with hip or knee OA.",0,0,0,0,N,N,0,0,0,0,0
+21,"The Management of OsteoArthritis (MOA) Trial investigated the long-term effectiveness of: (1) an individualised manual physiotherapy programme in addition to usual care; (2) a multi-modal, individualised, supervised exercise physiotherapy programme in addition to usual care; and (3) a combination of both programmes in addition to usual care; compared with usual care only, for the management of pain and disability in adults with hip or knee OA.",0,0,0,0,N,N,0,0,0,0,0
+22,This was a 2 × 2 factorial randomized controlled trial with a 1-year follow-up (Fig.,0,0,0,0,N,N,0,0,0,0,0
+23,The trial protocol has been published in advance11 and the trial was registered on the Australian New Zealand Clinical Trials Registry ACTRN12608000130369.,0,0,0,0,N,N,0,0,0,0,0
+24,The study was approved by the Lower South Regional Ethics Committee of the New Zealand Ministry of Health (ethics reference: LRS/07/11/044) and complies with the Declaration of Helsinki.,0,0,0,0,N,N,0,0,0,0,0
+25,Flow of participants through the trial.,0,0,0,0,N,N,0,0,0,0,0
+26,Note: all participants continued to receive usual medical care throughout the trial.,0,0,0,0,N,N,0,0,0,0,0
+27,"We recruited participants through two sources: (1) general practitioner (GP) referral of patients with hip or knee OA, and (2) patients referred by their GP to a hospital orthopaedic outpatient clinic for an orthopaedic consultation to consider hip or knee joint replacement surgery.",1,0,0,0,N,N,0,0,0,0,0
+28,We recruited only patients not waitlisted for surgery.,1,0,0,0,N,N,0,0,0,0,0
+29,We assured participants that involvement in the trial would not affect their potential future access to the joint replacement waiting list.,1,0,0,0,N,N,0,0,0,0,0
+30,"Recruitment took place in Dunedin, New Zealand.",1,0,0,0,N,N,0,0,0,0,0
+31,"To be eligible, participants were required to meet clinical criteria for diagnosis of OA of the hip or knee established by the American College of Rheumatology.",1,0,0,0,N,N,0,0,0,0,0
+32,"Exclusion criteria were rheumatoid arthritis; previous knee or hip joint replacement surgery of the affected joint; any other surgical procedure on the lower limbs in the previous 6 months; surgical procedure on the lower limbs planned in the next 6 months; initiation of opioid analgesia or corticosteroid or analgesic injection intervention for hip or knee pain within the previous 30 days; physical impairments unrelated to the hip or knee which would prevent safe participation in exercise, manual therapy, walking or stationary cycling; inability to comprehend and complete study assessments or comply with study instructions; or stated inability to attend or complete the proposed course of intervention and follow-up schedule11.",0,0,0,0,N,N,0,0,0,0,0
+33,A research nurse contacted then screened each potential participant against the inclusion and exclusion criteria by chart review and questioning by telephone.,0,0,0,0,N,N,0,0,0,0,0
+34,"Potential participants attended an appointment, where we confirmed eligibility and obtained written informed consent and baseline measures.",0,0,0,0,N,N,0,0,0,0,0
+35,Randomisation and allocation concealment,0,0,1,0,N,N,0,0,0,0,0
+36,"After baseline assessment, participants were randomised using TENALEA, an online randomisation service.",0,0,0,0,N,N,0,0,0,0,0
+37,Randomisation was stratified by condition (hip or knee).,0,0,1,0,N,N,0,0,0,0,0
+38,"Within each stratum, participants were randomised to one of the four intervention groups using block allocation.",0,0,0,0,N,N,0,0,0,0,0
+39,The block size was subject to random variation.,0,1,0,0,N,N,0,0,0,0,0
+40,"The TENALEA service generated and held the randomisation schedule, ensuring allocation concealment.",0,1,1,0,N,N,0,0,0,0,0
+41,"Outcome assessors were blind to group allocation, and were not involved in providing the interventions.",0,0,0,0,N,N,0,0,0,0,0
+42,The orthopaedic surgeons and GPs managing the participants' care were blind to group allocation.,0,0,0,0,N,N,0,0,0,0,0
+43,The statisticians conducting the statistical analyses were blind to group allocation until after the analyses were completed.,0,0,0,0,N,N,0,0,0,0,0
+44,All participants continued to receive routine care offered by their own GP and other healthcare providers.,0,0,0,0,N,N,0,0,0,0,0
+45,No trial interventions were provided.,0,0,0,0,N,N,0,0,0,0,0
+46,"We neither influenced nor restricted GPs', surgeons', other practitioners' or participants' use of other interventions (although we did monitor it, and report this separately in the economic evaluation conducted alongside this trial).",0,0,0,0,N,N,0,0,0,0,0
+47,Participants allocated to the active intervention groups received the following interventions in addition to usual care.,0,0,0,0,N,N,0,0,0,0,0
+48,The manual therapy protocol consisted of procedures intended to modify the quality and range of motion of the target joint and associated soft tissue structures.,0,0,0,0,N,N,1,0,0,0,0
+49,"Additional manual therapy interventions were prescribed individually for each participant randomised to this intervention on the basis of the physical examination findings, from a limited list of interventions defined in our protocol (see Appendix 1).",0,0,0,0,N,N,1,0,0,0,0
+50,In addition we prescribed a home programme of joint range of motion activities to be completed three times per week.,0,0,0,0,N,N,1,0,0,0,0
+51,"The manual therapy protocol did not provide or prescribe aerobic, strengthening or neuromuscular control exercises.",0,0,0,0,N,N,0,0,0,0,0
+52,"The exercise therapy protocol consisted of a multi-modal, supervised programme of warm-up/aerobic, muscle strengthening, muscle stretching, and neuromuscular control exercises.",0,0,0,0,N,N,0,0,0,0,0
+53,"Additional exercise therapy interventions were prescribed individually for each participant on the basis of the physical examination findings, from a limited list of interventions (see Appendix 1).",0,0,0,0,N,N,0,0,0,0,0
+54,In addition we prescribed a home exercise programme to be completed three times per week.,0,0,0,0,N,N,0,0,0,0,0
+55,The exercise therapy protocol did not allow therapist-applied manual forces.,0,0,0,0,N,N,0,0,0,0,0
+56,"This consisted of a combination of both manual therapy and exercise therapy interventions, as described above.",0,0,0,0,N,N,1,0,0,0,0
+57,Each participant in one of the three intervention groups attended nine treatment sessions of approximately 50 min: seven in the initial 9 weeks of the trial and two ‘booster’ sessions at week 16.,0,0,0,0,N,N,0,0,0,0,0
+58,The interventions were provided at a university research clinic.,0,0,0,0,N,N,0,0,0,0,0
+59,"Registered physiotherapists employed by the institution were eligible to be providers, were integral to the development of the therapy protocols over 3 days, and were additionally provided with approximately 6 h training.",0,0,0,0,N,N,0,0,0,0,0
+60,Six physiotherapists provided interventions.,0,0,0,0,N,N,0,0,0,0,0
+61,Audits were conducted of provider adherence to therapy protocols.,0,0,0,0,N,N,0,0,0,0,0
+62,The primary outcome was change in the composite Western Ontario and McMaster osteoarthritis index (WOMAC) at 1-year follow-up.,0,0,0,0,N,N,0,0,0,0,0
+63,"Secondary outcome measures, recommended by Outcome Measures in Rheumatoid Arthritis Clinical Trials – Osteoarthritis Research Society International (OMERACT–OARSI) guidelines, included measures of pain, physical function and patient global assessment.",0,0,0,0,N,N,0,0,0,0,0
+64,"Physical function was assessed using the timed up and go test, 30-s sit to stand test, and 40 m self-paced walk test.",0,0,0,0,N,N,0,0,0,0,0
+65,We assessed change in these outcomes from baseline to 1-year follow-up.,0,0,0,0,N,N,0,0,0,0,0
+66,We classified participants as OMERACT–OARSI responders or non-responders.,0,0,0,0,N,N,0,0,0,0,0
+67,"The OMERACT–OARSI responder criteria are (1) ≥50% improvement in pain or function and an absolute improvement of ≥20, or (2) improvement in at least two of the following three scores: pain ≥20% and absolute change ≥10; function ≥20% and absolute change ≥10; global assessment ≥20% and absolute change ≥10.",0,0,0,0,N,N,0,0,0,0,0
+68,"We calculated OMERACT–OARSI response using the WOMAC pain and WOMAC function subscales, and the global rating of change instrument.",0,0,0,0,N,N,0,0,0,0,0
+69,"We recorded the event rates for joint replacement surgery in each group, and verified these with the New Zealand National Joint Register.",0,0,0,0,N,N,0,0,0,0,0
+70,"We tracked and classified adverse events, defined according to the World Health Organization (adapted from WHO adverse event report and serious adverse event forms).",0,0,0,0,N,N,0,0,0,0,0
+71,"Assessors blind to group allocation performed assessments at baseline, 9 weeks, 6 months and 1 year.",0,0,1,0,N,N,1,0,0,0,0
+72,"We calculated the sample size to detect a minimum clinically important difference of 28 WOMAC points for each of the main effects, namely, manual therapy vs no manual therapy, and exercise therapy vs no exercise therapy.",0,0,0,0,N,N,0,0,0,0,0
+73,"We assumed a standard deviation (SD) of 50 points4, 5 and a type I error rate of 5%.",0,0,0,0,N,N,0,0,0,0,0
+74,"These assumptions estimated a sample of 180 participants would be needed to detect the main effects with approximately 95% power, providing 46% power to detect an interaction and 75% power for cell-by-cell analysis of the active interventions vs control.",0,0,0,0,N,N,0,0,0,0,0
+75,"Allowing for 20% attrition, we planned to recruit 224 participants.",0,0,0,0,N,N,0,0,0,0,0
+76,"Eleven months after the start of the trial, based on higher than expected retention rates at follow-up, a new sample size calculation showed that, allowing for 10% attrition, only 200 participants were required.",0,0,0,0,N,N,0,0,0,0,0
+77,"Our initial analysis used the intention-to-treat principle, however as joint replacement surgery is a major confounding, non-study intervention, we planned analysis of data for all participants who did not have hip or knee replacement surgery during the 1-year follow-up period.",0,0,0,0,N,N,0,0,1,0,0
+78,"All participants were followed and assessed through to the conclusion of the trial, irrespective of completing the study interventions or having joint replacement surgery.",0,0,0,0,N,N,0,0,1,0,0
+79,Missing data were replaced by multiple imputation using mi in the statistical software package Stata (StataCorp).,0,0,0,0,N,N,0,0,1,0,0
+80,"We followed procedures to determine if missing data were ‘missing completely at random’, and missing data patterns were examined to determine appropriate strategies for imputation of each variable.",0,0,0,0,N,N,0,0,1,0,0
+81,"For each variable with missing values, 36 imputations of missing values were generated.",0,0,0,0,N,N,0,0,1,0,0
+82,"Estimates were checked to verify that imputed values did not deviate significantly from observed data in mean value, SD, minimum and maximum values.",0,0,0,0,N,N,0,0,0,0,0
+83,"We evaluated the effectiveness of exercise therapy vs no exercise therapy and manual therapy vs no manual therapy on patient-reported outcome (WOMAC composite score) at 1 year using methods recommended for factorial trials, including investigation of whether there was an interaction between the two interventions.",0,0,0,0,N,N,0,0,0,0,0
+84,"We used general linear regression models adjusted for baseline WOMAC score, stratification variable (hip or knee condition), and pre-specified potential confounding factors at baseline11, : age, body mass index, number of years since symptom onset, quadriceps muscle strength (measured in kg by hand-held dynamometer), mental health (using the two question depression screening test and classified as low risk or elevated risk: score = 0, score = 1 or 2, respectively), and self-efficacy assessed using the pain belief screening instrument (PBSI).",0,0,0,0,N,N,0,0,0,0,0
+85,While adjusted effects were the primary analysis we also report unadjusted estimates.,0,0,0,0,N,N,0,0,0,0,0
+86,All tests were two sided with a 5% level of significance.,0,0,0,0,N,N,0,0,0,0,0
+87,No statistical adjustment was made for multiple testing.,0,0,0,0,N,N,0,0,0,0,0
+88,Secondary analyses of the primary outcome measure (WOMAC) were undertaken using general linear regression.,0,0,0,0,N,N,0,0,0,0,0
+89,To limit the problem of multiple comparisons we do not report statistical comparison testing of the secondary outcome measures.,0,0,0,0,N,N,0,0,0,0,0
+90,"Instead, we report confidence intervals (CI) around the estimates for each secondary outcome measure, by group.",0,0,0,0,N,N,0,0,0,0,0
+91,We also used chi square tests where appropriate.,0,0,0,0,N,N,0,0,0,0,0
+92,We calculated the number needed to treat to achieve one OMERACT–OARSI responder.,0,0,0,0,N,N,0,0,0,0,0
+93,We assessed whether the effects of the two interventions differed by the condition (hip or knee OA).,0,0,0,0,N,N,0,0,0,0,0
+94,Other analyses pre-specified in the trial protocol will be reported separately.,0,0,0,0,N,N,0,0,0,0,0
+95,"In particular, the economic evaluation is reported as a companion paper and the 2-year outcomes will be reported subsequently.",0,0,0,0,N,N,0,0,0,0,0
+96,Recruitment commenced April 2008 and concluded March 2009.,0,0,0,0,N,N,0,0,0,0,0
+97,One-year follow-up was completed March 2010.,0,0,0,0,N,N,0,0,0,0,0
+98,1 illustrates participant flow through the trial.,0,0,0,0,N,N,0,0,0,0,1
+99,The baseline characteristics of the 206 participants are reported in Table I.,0,0,0,0,N,N,0,0,0,0,1
+100,"Mean age was 66 years (range 37–92), and mean (SD) WOMAC composite score was 100.8 (53.8) at baseline.",0,0,0,0,N,N,0,0,0,0,1
+101,"We recruited 116 participants from primary care, with WOMAC scores of 80.61 (51.03), and 90 from secondary care (127.30 (47.70)).",0,0,0,0,N,N,0,0,0,0,1
+102,A total of 44 (21%) participants had replacement surgery of the index hip or knee during the trial.,0,0,0,0,N,N,0,0,0,0,1
+103,We retained 193 (93.2%) of all participants at 1-year follow-up.,0,0,0,0,N,N,0,0,0,0,0
+104,Table I. Characteristics of participants at entry to the trial,0,0,0,0,N,N,0,0,0,0,0
+105,"The intention to treat factorial analysis for all participants indicated a statistically significant difference between WOMAC scores at 1 year for manual therapy vs no manual therapy, in addition to usual care (P = 0.030 adjusted, 0.027 unadjusted), but did not reach significance for exercise therapy vs no exercise therapy (P = 0.061 adjusted, 0.079 unadjusted).",0,0,0,0,N,N,0,0,0,0,0
+106,"There was a large antagonistic interaction between manual therapy and exercise therapy [coefficient (SE) of interaction term 22.9 (12.6), P = 0.072 in adjusted model with all participants, P = 0.066 unadjusted].",0,0,0,0,N,N,0,0,0,0,0
+107,"For participants who did not have joint replacement surgery during the trial, differences between WOMAC scores at 1 year for manual therapy vs no manual therapy (P < 0.001) and exercise therapy vs no exercise therapy (P = 0.031) were both statistically significant.",0,0,0,0,N,N,0,0,0,0,0
+108,"Again there was a large antagonistic interaction effect (coefficient 28.7, SE 11.3, P = 0.012).",0,0,0,0,N,N,0,0,0,0,0
+109,"Therefore we also present here the “inside the table” analyses comparing usual care alone vs manual therapy in addition to usual care, exercise therapy in addition to usual care, and the combined therapies in addition to usual care.",0,0,0,0,N,N,0,0,0,0,0
+110,"In the intention to treat analysis, all intervention groups improved but only usual care plus manual therapy and usual care plus exercise therapy achieved clinically significant reductions of >28 WOMAC points from baseline (Table II).",0,0,0,0,N,N,0,0,0,0,0
+111,"The usual care plus combined therapy group also improved from baseline but failed to meet our criterion for clinical significance (mean 27.4, SD 41.1).",0,0,0,0,N,N,0,0,0,0,0
+112,"The gains over usual care alone were 28.5 (95% CI 9.2 to 47.8) points for manual therapy, 16.4 (−3.2 to 35.9) points for exercise therapy, and 14.5 (−5.2 to 34.1) points for the combined therapies programme (Fig.",0,0,0,0,N,N,0,0,0,0,0
+113,Mean (SD) WOMAC scores at 1-year follow-up and change in score from baseline,0,0,0,1,N,N,0,0,0,0,0
+114,WOMAC denotes Western Ontario and McMaster osteoarthritis index.,0,0,0,1,N,N,0,0,0,0,0
+115,Negative change represents improvement.,0,0,0,1,N,N,0,0,0,0,0
+116,"Results are adjusted for baseline WOMAC score, stratification variable (hip or knee condition), age, body mass index, symptom duration, quadriceps muscle strength, depression, and self-efficacy.",0,0,0,1,N,N,0,0,0,0,0
+117,"Mean WOMAC score at baseline 9 weeks, 6 months and 1 year for (a) participants with no joint replacement surgery during the trial (n = 162) and (b) all participants (n = 206).",0,0,0,0,N,N,0,0,0,0,0
+118,Note: all participants continued to receive usual medical care throughout the trial.,0,0,0,0,N,N,0,0,0,0,0
+119,"For participants with no joint replacement surgery during the trial, compared with usual care alone there was a statistically significant improvement in WOMAC scores for all three interventions (mean reduction 31.9 (16.2 to 47.7) for manual therapy, 16.3 (95% CI 0.3 to 32.2) for exercise therapy, 18.9 (2.7 to 35.2) for the combined therapies).",0,0,0,0,N,N,0,0,0,0,0
+120,"The effects of the three physiotherapy interventions on WOMAC scores were not statistically different by joint affected (hip vs knee term in main general linear regression models for all participants P = 0.782, participants with no hip or knee replacement surgery P = 0.250).",0,0,0,0,N,N,0,0,0,0,0
+121,Irrespective of joint affected the greatest mean response was seen with usual care plus manual therapy (Table III).,0,0,0,0,N,N,0,0,0,0,0
+122,Benefits were seen at 9-week follow-up and maintained to 6 months and 1 year (Fig.,0,0,0,0,N,N,0,0,0,0,0
+123,"Mean (95% CI) change in WOMAC score from baseline to 1-year follow-up by joint affected, and per-protocol analysis of change in WOMAC among compliers to treatment, for participants with hip and knee OA who did not have joint replacement surgery during the trial",0,0,0,0,N,N,0,0,0,1,0
+124,WOMAC denotes Western Ontario and McMaster osteoarthritis index.,0,0,0,0,N,N,0,0,0,1,0
+125,Negative change represents improvement.,0,0,0,0,N,N,0,0,0,1,0
+126,"Results are adjusted for baseline WOMAC score, stratification variable (hip or knee condition), age, body mass index, symptom duration, quadriceps muscle strength, depression, and self-efficacy.",0,0,0,0,N,N,0,0,0,1,0
+127,Dash – denotes not applicable.,0,0,0,0,N,N,0,0,0,1,0
+128,Compliers analysis excluded participants in the active intervention groups not compliant at the level stated and one participant in the control group contaminated by >4 non-trial physiotherapy visits.,0,0,0,0,N,N,0,0,0,0,0
+129,"Of the participants randomised to the three active intervention groups, 88.3% attended of at least 80% of scheduled intervention visits, and 42.8% returned logbooks demonstrating compliance with their programme of reinforcing activities at home.",0,0,0,0,N,N,0,0,0,0,0
+130,One participant randomised to usual care sought four or more non-trial physiotherapy visits.,0,0,0,0,N,N,0,0,0,0,0
+131,Per-protocol analyses of the primary outcome (WOMAC) for compliant participants are presented in Table III.,0,0,0,0,N,N,0,0,0,0,0
+132,Secondary outcomes also showed consistent benefits favouring all three physiotherapy interventions in addition to usual care (Table IV).,0,0,0,0,N,N,0,0,0,0,0
+133,"Outcomes of the physical performance tests (timed up and go, 30 s sit to stand, 40 m self-paced walk) favoured exercise therapy in addition to usual care.",0,0,0,0,N,N,0,0,0,0,0
+134,The proportion of OMERACT–OARSI responders in the three intervention groups differed from than in the usual care only group.,0,0,0,0,N,N,0,0,0,0,0
+135,The numbers needed to treat to achieve one OMERACT–OARSI responder are reported in Table IV.,0,0,0,0,N,N,0,0,0,0,0
+136,The proportion of participants proceeding to joint replacement surgery at 1 year did not differ significantly between the groups (P = 0.65) (Table IV).,0,0,0,0,N,N,0,0,0,0,0
+137,We detected no trial-related serious adverse events.,0,0,0,0,N,N,0,0,0,0,0
+138,"We detected one adverse event in the combined therapy group, related to exercise therapy (inguinal hernia).",0,0,0,0,N,N,0,0,0,0,0
+139,Changes in secondary outcome measures from baseline to 1-year follow-up.,0,0,0,1,N,N,0,0,0,0,0
+140,Values are mean change in test score (or time) from baseline to 1 year (95% CI) unless specified otherwise,0,0,0,0,N,N,0,0,0,0,0
+141,"This randomised clinical trial investigated the additional effectiveness of three physiotherapy intervention protocols in addition to usual care, over usual care alone.",0,0,0,0,N,N,0,0,0,0,0
+142,We retained 93.2% of the trial participants to 1-year of follow-up.,0,0,0,0,N,N,0,0,0,0,0
+143,"We have shown that both manual physiotherapy and exercise physiotherapy in addition to usual care produce significant improvements in symptoms and physical function, respectively, in patients with moderate to severe OA of the hips or knees.",0,0,0,0,N,N,0,0,0,0,0
+144,The improvements in pain and disability were evident at 9 weeks and sustained for a year.,0,0,0,0,N,N,0,0,0,0,0
+145,In our intention to treat analysis we included all participants.,0,0,0,0,N,N,0,0,0,0,0
+146,"Usual care plus manual therapy showed clinically and statistically significant improvements in the primary outcome – change in WOMAC score – compared with usual care alone, while usual care plus exercise therapy showed significant improvements in all three physical performance outcome measures.",0,0,0,0,N,N,0,0,0,0,0
+147,Joint replacement surgery significantly affects both pain and disability and was therefore identified a priori as an important confounding factor.,0,0,0,0,N,N,0,0,0,0,0
+148,"When we analysed the primary outcome (WOMAC) data excluding the 44 participants who had a joint replacement during the trial, both manual therapy and exercise therapy showed statistically significant benefit.",0,0,0,0,N,N,0,0,0,0,0
+149,"Exercise is an established effective therapy, however the most effective form of this therapy is not clear and recommendations have largely been based on short-term trials only.",0,0,0,0,N,N,0,0,0,0,0
+150,"We have shown a supervised, individually prescribed, progressive multi-modal exercise programme, in addition to usual care, produces sustained benefit to 1-year follow-up, with respect to physical performance tests in all participants and also self-reported measures in participants who did not have joint replacement surgery during the trial.",0,0,0,0,N,N,0,0,0,0,0
+151,"Our results are consistent with those of Hoeksma et al., who found manual therapy to be superior to exercise therapy for patients with hip OA.",0,0,0,0,N,N,0,0,0,0,0
+152,"While our trial was not intended to compare these two modes of physiotherapy, and the comparison was not tested statistically, in terms of mean effect the manual physiotherapy packages of care delivered in our trial provided greater reductions in WOMAC scores than did exercise therapy.",0,0,0,0,N,N,0,0,0,0,0
+153,This was the case for both hip OA and knee OA.,0,0,0,0,N,N,0,0,0,0,0
+154,"Both programmes required nine supervised sessions at a physiotherapy centre, in addition to usual care, with recommendations that the participants also complete a prescribed programme of reinforcing activities three times a week at home.",0,0,0,0,N,N,0,0,0,0,0
+155,The combination of exercise and manual therapy did not produce additional benefit.,0,0,1,0,N,N,0,0,0,0,0
+156,"There was a significant antagonistic interaction between the two interventions and the combination was generally less effective, or at best no more effective, than either intervention alone.",0,0,0,0,N,N,0,0,0,0,0
+157,"These results are consistent with those of Deyle et al., who, in patients with knee OA, initially found a programme of manual therapy plus exercise therapy to be superior to placebo, however in a subsequent trial comparing the same intervention to an unsupervised home exercise programme, no significant difference was seen at 1 year.",0,0,0,0,N,N,0,0,0,0,0
+158,The independent contributions of exercise therapy or manual therapy cannot be ascertained from the two trials by Deyle et al.,0,0,0,0,N,N,0,0,0,0,0
+159,"In patients with knee OA in our trial, the combination of manual therapy plus exercise therapy was associated with non-significantly greater mean WOMAC gains than was exercise therapy alone (20.9 vs 14.3 WOMAC points over usual care), but manual therapy alone was associated with the greatest gains (33.1 WOMAC points over usual care).",0,0,0,0,N,N,0,0,0,0,0
+160,"It is probable that those in the combined therapy group spent less time on each intervention than did those who received only one intervention, and hence decreased the effectiveness of both modalities.",0,0,0,0,N,N,0,0,0,0,0
+161,"A limitation of this trial is that, due to the adverse interaction between the two main effects, we must rely on the “inside the table” analyses comparing each of the three intervention groups (manual therapy in addition to usual care, exercise therapy in addition to usual care, and the combined therapies in addition to usual care) to the usual care only control.",0,0,0,0,N,N,0,0,0,0,0
+162,"As we did not make adjustments for multiple comparisons, our results should be limited to interpretation as generating a hypothesis that both manual therapy and exercise therapy are effective interventions for hip and knee OA, and should not be considered confirmatory evidence of efficacy.",0,0,0,0,N,N,0,0,0,0,0
+163,"Multiple statistical comparisons can limit the interpretation of some trials: we limited the potential impact of this by pre-specifying our primary and secondary comparisons, limiting the comparisons made to comparing the primary outcome measure in each active intervention group to the usual care control only, refraining from testing at multiple endpoints, not attempting comparisons between sub-groups (other than the stratification factor), and not conducting comparisons of the secondary outcome measures, instead reporting CI around group estimates.",0,0,0,0,N,N,0,0,0,0,0
+164,"There remains, however, the risk of positive results arising by chance alone, particularly among the secondary outcomes.",0,0,0,0,N,N,0,0,0,0,0
+165,"In terms of other limitations, it is possible that the physiotherapists delivering the interventions may have exerted bias disadvantaging one or more of the active intervention arms.",0,0,0,0,N,N,0,0,0,0,0
+166,"We think this unlikely, however, because although exercise physiotherapy, in addition to usual care, did not provide clinically or statistically significant changes compared with usual care alone, on the primary patient-reported outcome measure, physical performance test results strongly favoured those in the exercise therapy group.",0,0,0,0,N,N,0,0,0,0,0
+167,"This finding is consistent with evidence that self-reported measures of outcome, such as the WOMAC, capture different constructs of physical function compared with physical performance tests, leading to recommendations that both measures of outcome are necessary and important.",0,0,0,0,N,N,0,0,0,0,0
+168,"The effect of joint replacement surgery, an unplanned, non-randomised co-intervention, has the potential to limit interpretation of the effects of the trial interventions.",0,0,0,0,N,N,0,0,0,0,0
+169,"As it has the effect of influencing the primary outcome (WOMAC score) downward (as shown in Table II), we suggest that the subgroup analyses excluding those participants who had joint replacement surgery is likely to be a more accurate estimate of the effects of the trial interventions.",0,0,0,0,N,N,0,0,0,0,0
+170,"In that analysis, exercise therapy showed significant effect on both the primary outcome (WOMAC) and quality-adjusted life years (QALYs) gained, as reported separately in the economic evaluation conducted alongside this trial.Our compliance analysis is limited by low return of the logbook used for participants' self-report of compliance with their prescribed programme of reinforcing activities at home.",0,0,0,0,N,N,0,0,0,0,0
+171,"This gives the impression of poor compliance with the prescribed programme of reinforcing activities, however our anecdotal impression from speaking with participants was that they may have been more compliant with doing their home reinforcing activities than they were with filling out and returning their logbooks.",0,0,0,0,N,N,0,0,0,0,0
+172,"We therefore advise caution interpreting compliance to the home programme, and the associated subgroup analysis of compliers.",0,0,0,0,N,N,0,0,0,0,0
+173,Our study was not intended to directly compare the physiotherapy interventions.,0,0,0,0,N,N,0,0,0,0,0
+174,"As both manual therapy and exercise therapy appear effective, in addition to usual care alone, depending on the outcome of interest, the choice of therapy should be determined by patient characteristics and patient choice.",0,0,0,0,N,N,0,0,0,0,0
+175,"The addition of manual therapy to usual care confers patient-reported benefit (on the WOMAC), while exercise therapy confers physical performance benefits.",0,0,0,0,N,N,0,0,0,0,0
+176,This may influence patient choice.,0,0,0,0,N,N,0,0,0,0,0
+177,"Patient characteristics that might favour manual therapy include restricted active and passive joint motion, while factors that might favour exercise therapy include lower limb skeletal muscle atrophy and low aerobic fitness, however there is little evidence as yet to support these suggestions.",0,0,0,0,N,N,0,0,0,0,0
+178,"Our results do not support the use of both interventions within a single treatment session, as our combination therapy group generally showed lower mean gains than either manual therapy or exercise therapy alone.",0,0,0,0,N,N,0,0,0,0,0
+179,We therefore recommend that therapists ensure that adequate time is dedicated to delivering each individual intervention.,0,0,0,0,N,N,0,0,0,0,0
+180,"In our protocols this involved nine approximately 50 min sessions (seven sessions in the first 9 weeks, then two booster sessions after a further 7 weeks) of interventions that started at a high enough level to challenge the limits of the individual patient.",0,0,0,0,N,N,0,0,0,0,0
+181,"They were gradually progressed to higher levels of resistance, stretch, repetitions, difficulty and/or duration, such that the programme remained challenging and continued to progressively stimulate physiological change.",0,0,0,0,N,N,0,0,0,0,0
+182,It should not be assumed that our findings would be applicable to delivery of truncated or deviating protocols.,0,0,0,0,N,N,0,0,0,0,0
+183,"In conclusion, we have shown that manual physiotherapy provided significant, clinically important and sustained improvements in symptoms for patients with OA of hips or knees.",0,0,0,0,N,N,0,0,0,0,0
+184,"Exercise physiotherapy also provided sustained benefit, with respect to physical performance tests in all participants and both self-reported measures and physical performance tests in participants who did not have joint replacement surgery during the trial.",0,0,0,0,N,N,0,0,0,0,0
+185,"While not definitive, these findings indicate that our manual physiotherapy and exercise therapy protocols may be efficacious treatments for patients with hip and knee OA, to improve function and relieve symptoms prior to considering joint replacement surgery, but not both treatments delivered in the same treatment sessions.",0,0,0,0,N,N,0,0,0,0,0
+186,These results require confirmation.,0,0,0,0,N,N,0,0,0,0,0

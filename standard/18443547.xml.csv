@@ -1,0 +1,176 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Constraint-induced aphasia therapy (CIAT) offers potential benefits to individuals with history of aphasia-producing ischemic stroke.,N,0,N,0,N,N,N,0,N,N,N
+1,"The goals of this pilot study were to implement the original German CIAT protocol, refine the treatment program, and confirm its efficacy in patients with chronic aphasia.",N,0,N,0,N,N,N,0,N,N,N
+2,"We translated and modified the original CIAT protocol to include a hierarchy of individual skill levels for semantic, syntactic, and phonological language production, while constraining non-use behaviors.",N,0,N,0,N,N,N,0,N,N,N
+3,Three male participants with moderate to severe post-stroke aphasia received CIAT 3-4 hours/day for 5 consecutive days.,N,0,N,0,N,N,N,0,N,N,N
+4,"Pre and post-testing included formal language evaluation, linguistic analysis of story retell, and mini-Communication Activity Log (mini-CAL).",N,0,N,0,N,N,N,0,N,N,N
+5,Substantial improvements in comprehension and verbal skills were noted in 2 patients with an increase in the total number of words (31% and 95%) and in number of utterances for story-retell task (57% and 75%).,N,0,N,0,N,N,N,0,N,N,N
+6,All participants demonstrated an improvement on at least one linguistic measure.,N,0,N,1,N,N,N,0,N,N,N
+7,No subjective improvements on mini-CAL were noted by any of the participants.,N,0,N,0,N,N,N,0,N,N,N
+8,"Given that the duration of treatment was only 1 week, these linguistic improvements in post stroke aphasia participants were remarkable.",N,0,N,0,N,N,N,0,N,N,N
+9,The results indicate that the CIAT protocol used in this study may be a useful tool in language restoration after stroke.,N,0,N,0,N,N,N,0,N,N,N
+10,"These initial findings should be confirmed in a larger, randomized study.",N,1,N,0,N,N,N,0,N,N,N
+11,"Constraint-induced aphasia therapy (CIAT) is defined as a systematic constraint of verbal and nonverbal communication modalities with massed practice of targeted language skills [<a href=""#R1"">1</a>-<a href=""#R3"">3</a>].",N,0,N,0,N,N,N,0,N,N,N
+12,In CIAT protocol communicative behaviors are gradually guided toward more complex linguistic communication.,N,0,N,0,N,N,N,0,N,N,N
+13,"The constraints are imposed by the structure of the introduced material, which includes the “rules formulated by the therapist and by shaping and modeling” (Pulvermüller et al, 2001, p. 1623;[<a href=""#R3"">3</a>]) with significant increases in language skills noted when compared to conventional therapy.",N,0,N,0,N,N,N,0,N,N,N
+14,"Similar results were recently reported in another CIAT study where non-verbal communications were constrained [<a href=""#R4"">4</a>].",N,0,N,0,N,N,N,0,N,N,N
+15,"CIAT is based and modeled on a physical rehabilitation program for recovery of motor deficits called constraint-induced motor therapy or CIMT [<a href=""#R5"">5</a>].",N,0,N,0,N,N,N,0,N,N,N
+16,"Recently, CIMT replaced previously offered and less effective methods of adaptive retraining with compensatory strategies that may have inadvertently led to a decrease in the use of the affected muscle groups or extremities.",N,0,N,0,N,N,N,0,N,N,N
+17,"The overall philosophy of CIMT is to prevent extremity disuse by forcing patients to utilize the affected muscles, while avoiding compensatory non-use techniques [<a href=""#R6"">6</a>,<a href=""#R7"">7</a>].",N,0,N,0,N,N,N,0,N,N,N
+18,CIMT also provides intensive practice of the targeted motor movements.,N,0,N,0,N,N,N,0,N,N,N
+19,"Even in patients with chronic stroke, CIMT has led to clinical improvements associated with cortical plasticity [<a href=""#R8"">8</a>].",N,0,N,0,N,N,N,0,N,N,N
+20,The goal of this pilot study was to test a modified version of the CIAT protocol in patients with chronic aphasia.,N,0,N,0,N,N,N,0,N,N,N
+21,"Although we developed this protocol as a group therapy program, individualized targets were determined for defining levels of constraint (decreasing non-use behaviors) and increasing language skills.",N,0,N,0,N,N,N,0,N,N,N
+22,We used translation of the materials from the original CIAT study in a modified intensive 1-week treatment with the following objectives: a) to replicate and refine the original version of the clinical treatment program and b) to confirm that an intensive CIAT program provides improved language outcomes in individuals with chronic aphasia.,N,0,N,0,N,N,N,0,N,N,N
+23,Our hypothesis was that the intensive 1-week CIAT program would result in expressive and receptive language improvements in participants with chronic aphasia after an ischemic stroke.,N,0,N,0,N,N,N,0,N,N,N
+24,All consent documents were reviewed with the subjects by one of the study investigators (ALB).,N,0,N,0,N,N,N,0,N,N,N
+25,"After expressing verbal understanding and signing consent forms approved by the Institutional Review Board at the University of Cincinnati Academic Health Center, 3 male participants ages 58-64 with chronic post-stroke aphasia (≥2 years duration; 2-20 years) were enrolled.",N,0,N,0,N,N,N,0,N,N,N
+26,One subject was excluded because of difficulty with understanding the consent procedures and failing the subtest A of Raven's Coloured Progressive Matrices (score 5/12; below 95% for age-adjusted norms).,N,0,N,0,N,N,N,0,N,N,N
+27,"Participants' premorbid educational levels ranged from 13-16 years (<span class=""italic"">M</span>=14.6).",N,0,N,0,N,N,N,0,N,N,N
+28,All participants passed a pure-tone sound field hearing screening at 25 dB.,N,0,N,0,N,N,N,0,N,N,N
+29,"Since the therapy task included visual materials, all participants wore corrective lenses, denied visual difficulties with glasses, and performed at 7/12 or higher on the subtest A of Raven's Coloured Progressive Matrices (<span class=""italic"">M</span>=9.6/12; range 7-12).",N,0,N,0,N,N,N,0,N,N,N
+30,This test was performed to exclude patients functioning below 95% of the age-adjusted norms for this test and to eliminate effects of cognitive deficits on study-related performance.,N,0,N,0,N,N,N,0,N,N,N
+31,"Baseline clinical data indicated a severity range from 0-2 on the Boston Diagnostic Aphasia Exam-3 severity scale, indicating moderate to severe aphasia levels.",N,0,N,0,N,N,N,0,N,N,N
+32,Results of interview and pretreatment BDAE-3 subtests provided clinical information indicating aphasia type.,N,0,N,0,N,N,N,0,N,N,N
+33,"Participants will be referred to by letter designations: HL, JL and FG.",N,0,N,0,N,N,N,0,N,N,N
+34,"Participant HL demonstrated non-fluent aphasia and fragmented sentence level speech, JL presented total jargon speech and moderate comprehension impairment, and FG demonstrated non-fluent aphasia with limited morphemes and primarily content words.",N,0,N,0,N,N,N,0,N,N,N
+35,"Clinically, all subjects had right hemiparesis but were able to walk independently or with aid; all reported being right-handed prior to the incident stroke.",N,0,N,0,N,N,N,0,N,N,N
+36,All subject interactions were audio/video recorded for later scoring.,N,0,N,0,N,N,N,0,N,N,N
+37,The Boston Diagnostic Aphasia Exam-3 (BDAE-3) clinical subtests for auditory comprehension and verbal expression and mini-Communicative Activity Log (mini-CAL) scores were obtained the week before and after treatment.,N,0,N,0,N,N,N,0,N,N,N
+38,"The auditory comprehension component score was based on an average of Word Discrimination, Commands, and Complex Ideational Material; the expressive component score was based on the Boston Naming Test (BNT) and the Grammatical rating form.",N,0,N,0,N,N,N,0,N,N,N
+39,The average of the comprehension and expressive scores resulted in the Language Competency Index score.,N,0,N,0,N,N,N,0,N,N,N
+40,"We selected the BDAE-3 as it has been shown to be one of the most frequently used tests in aphasia research [<a href=""#R9"">9</a>], and because its similarities to the German Aachen Aphasia test (AAT), used in the early CIAT studies [<a href=""#R3"">3</a>].",N,0,N,0,N,N,N,0,N,N,N
+41,"We performed linguistic analysis of BDAE-3 fable story retelling pre- and post-treatment and determined the number of total words, number of unique words, number of utterances, mean length of utterance (MLU), and Type Token Ratio (TTR) using Systematic Analysis of Language Transcripts (SALT Version 8) program.",N,0,N,0,N,N,N,0,N,N,N
+42,We calculated TTR by the number of different words to total words with ratios closer to “1” indicating higher semantic diversity.,N,0,N,0,N,N,N,0,N,N,N
+43,"Due to the limited production of clause level utterances, clausal branching and mean clauses per utterance were not reported.",N,0,N,0,N,N,N,0,N,N,N
+44,Comparison of frequency of semantic word choices was also qualitatively noted.,N,0,N,0,N,N,N,0,N,N,N
+45,"After obtaining permission from the authors, to facilitate comparison with the original CIAT study, we translated all materials into English and then reverse-translated them into German to confirm accuracy.",N,0,N,0,N,N,N,0,N,N,N
+46,"For subjective assessment of individual patients' progress, we used shortened version of the communicative activity log (CAL) [<a href=""#R3"">3</a>].",N,0,N,0,N,N,N,0,N,N,N
+47,CAL is a 46-question survey that uses a 5-point scale about everyday communicative practice that is administered to obtain participants' judgment of communicative abilities.,N,0,N,0,N,N,N,0,N,N,N
+48,"Due to the concerns of the length of CAL, we shortened it to 16 questions covering 4 communicative abilities (mini-CAL; <a href=""#APP1"">Appendix</a>).",N,0,N,0,N,N,N,0,N,N,N
+49,"The item selected for the mini-CAL surveyed four communicative areas: family member, stranger, telephone and stressful situation, and for opinions of qualitative (how well), quantitative positive (how frequently), and quantitative negative (how frequently misunderstood) information.",N,0,N,0,N,N,N,0,N,N,N
+50,"The original CIAT protocol card sets included nouns of high and low frequency, numeric concepts, colors, actions and phonemically similar words.",N,0,N,0,N,N,N,0,N,N,N
+51,"We reorganized the card sets to match English word frequency and phonemic similarity and tested the cards on a sample of healthy adults (<span class=""italic"">n</span>=20; ages 20-73; 13 females).",N,0,N,0,N,N,N,0,N,N,N
+52,"Stimuli judged to be problematic (i.e., poor recognition or lack of consensus as to target object depicted) were eliminated from the sets and not replaced.",N,0,N,0,N,N,N,0,N,N,N
+53,"In the case of the high and low frequency nouns and phonemically similar words, some pictures were exchanged between sets.",N,0,N,0,N,N,N,0,N,N,N
+54,No new pictures were added.,N,0,N,0,N,N,N,0,N,N,N
+55,"Wooden card holders were created to provide a horizontal layout of cards and a partial barrier from other participants, but did not obstruct participants' view of the clinicians or the other participants.",N,0,N,0,N,N,N,0,N,N,N
+56,"We determined that all participants and clinicians needed to see each other for two reasons: (a) The participant needed to control his constraint of nonverbal behaviors without an unnatural device, and (b) the communication activity needed to resemble natural social interaction.",N,0,N,0,N,N,N,0,N,N,N
+57,This is because the theory behind CIAT indicates that part of the reinforcement for increasing verbal output is the receipt of positive social feedback as a result of successful communication.,N,0,N,0,N,N,N,0,N,N,N
+58,"Four CIAT sessions of 45 minutes per day were provided for 5 days, with 10-15 minute breaks, for a total of 3 hours/day of direct CIAT with additional 30-45 minutes of informal socialization during breaks.",N,0,N,0,N,N,N,0,N,N,N
+59,"Prior to initiating the program, we developed a training protocol for clinicians and a system of determining language hierarchy.",N,0,N,0,N,N,N,0,N,N,N
+60,"During all sessions, either two or three clinicians were involved in the treatment group.",N,0,N,0,N,N,N,0,N,N,N
+61,"Given the results of the pretreatment evaluation, the clinicians collaboratively set individual language goals to expand the participants' linguistic level of ability.",N,0,N,0,N,N,N,0,N,N,N
+62,"Goals targeted semantic, syntactic or phonological aspects of language.",N,0,N,0,N,N,N,0,N,N,N
+63,"Each participant's program was designed to (a) determine linguistic strengths, (b) identify what cues are beneficial, (c) select behavior (s) to constrain, and (d) promote a linguistic target.",N,0,N,0,N,N,N,0,N,N,N
+64,Review of pretreatment BDAE-3 subtests and story retelling data was used to identify what language skills existed (i.e.,N,0,N,0,N,N,N,0,N,N,N
+65,strengths).,N,0,N,0,N,N,N,0,N,N,N
+66,"Then, the clinicians made note of what types of cues elicited more accurate responses.",N,0,N,0,N,N,N,0,N,N,N
+67,Individual non-verbal behaviors that were used communicatively were identified as the behaviors to constrain.,N,0,N,0,N,N,N,0,N,N,N
+68,"Meanwhile, the clinicians selected one or two linguistic targets that the participant had minimal use of as a language goal.",N,0,N,0,N,N,N,0,N,N,N
+69,"During the treatment day, clinicians determined at breaks whether any of these targets needed to be modified.",N,0,N,0,N,N,N,0,N,N,N
+70,We found that tracking of participant responses to cueing within the session was a critical element in determining treatment and modification of goals and constraints.,N,0,N,0,N,N,N,0,N,N,N
+71,"Prior to each session, the participant was instructed on the linguistic target specific to his own program.",N,0,N,0,N,N,N,0,N,N,N
+72,The clinician provided cueing and constraints as determined previously.,N,0,N,0,N,N,N,0,N,N,N
+73,Each participant took turns requesting a card from a player of his choice.,N,0,N,0,N,N,N,0,N,N,N
+74,The responding player then passed the card while producing a verbal statement appropriate to his language level.,N,0,N,0,N,N,N,0,N,N,N
+75,"If responding player did not have the card, then the turn was ended.",N,0,N,0,N,N,N,0,N,N,N
+76,"To provide incentives, we awarded a point for each round, with prizes at the end of each day to the player with most points.",N,0,N,0,N,N,N,0,N,N,N
+77,"These incentives were intended to increase the participants' interest in the treatment, and they seemed to enjoy the competition.",N,0,N,0,N,N,N,0,N,N,N
+78,"Also, unlike the original format, we randomly mixed the card set order so that each participant's language tasks and constraint hierarchies were individualized.",N,0,N,0,N,N,N,0,N,N,N
+79,"As a group, average BDAE-3 auditory comprehension component scores improved from 28.9 (pretest) to 40.0 (posttest; improvement of 41%; <a href=""#T1"">Table 1</a>) with scores for auditory comprehension improved in 2 of 3 participants.",N,0,N,0,N,N,N,1,N,N,N
+80,The Expressive component score on BDAE-3 and the grammatical index measure for expressive skills did not improve in any participant.,N,0,N,0,N,N,N,1,N,N,N
+81,"Performance on BNT decreased slightly for the two verbal individuals HL and FG, (<span class=""italic"">M diff</span>=1.33) but it remained within one standard deviation of the mean consistent with test-retest variability.",N,0,N,0,N,N,N,1,N,N,N
+82,"In summary, 2 of the 3 participants who received 1 week of intensive CIAT showed improvement on the BDAE-3 auditory comprehension measures and none on the BDAE-3 expressive measures.",N,0,N,0,N,N,N,1,N,N,N
+83,"However, analysis of narrative discourse revealed improvement that was not evident on the BDAE-3 and is described below.",N,0,N,0,N,N,N,1,N,N,N
+84,The narrative retell samples of HL and FG were analyzed quantitatively using SALT.,N,0,N,1,N,N,N,0,N,N,N
+85,"Since patient JL produced primarily jargon speech, his productions were not included in this analysis.",N,0,N,0,N,N,N,0,N,N,N
+86,"To determine reliability of the originally transcribed narrative, 50% of the samples were also transcribed from the recordings by two additional speech language pathologists.",N,0,N,0,N,N,N,0,N,N,N
+87,"Results yielded an average inter-judge reliability of 87.5% for number of words, and 84% for number of utterances.",N,0,N,0,N,N,N,0,N,N,N
+88,Both participants with verbal ability showed improvement in the linguistic outcomes of the task.,N,0,N,0,N,N,N,0,N,N,N
+89,"Each had an increase in the total number of words, utterances and in the number of different root words produced (<a href=""#T2"">Table 2</a>).",N,0,N,0,N,N,N,0,N,N,N
+90,"Participant HL increased the total number of words increased by 31%, and FG increased by 95%; each participant doubled the number of different root words, indicating an increase in the variety of words used in the communication.",N,0,N,0,N,N,N,0,N,N,N
+91,"The mini-CAL results did not indicate improvement in participants' impressions of ease of speech fluency; overall questionnaire scores declined slightly for all 3 participants, indicating no change in the individual's perception of their communicative skill.",N,0,N,0,N,N,N,0,N,N,N
+92,"Our preliminary findings support the hypothesis that expressive and receptive language improvements can occur following a short period of intensive treatment using a CIAT approach in individuals with chronic, post-stroke aphasia.",N,0,N,0,N,N,N,0,N,N,N
+93,"Previous studies presented group improvements on test scores from the AAT [<a href=""#R3"">3</a>,<a href=""#R4"">4</a>] and the Western Aphasia Battery [<a href=""#R10"">10</a>], but did not provide any specific information on the auditory comprehension subtest performance.",N,0,N,0,N,N,N,0,N,N,N
+94,"Improvements post-CIAT were reported on the Token Test, which is listening comprehension measure, but no information was given as to how many participants actually improved on these subtests [<a href=""#R3"">3</a>,<a href=""#R4"">4</a>,<a href=""#R11"">11</a>].",N,0,N,0,N,N,N,0,N,N,N
+95,"In our study, formal testing revealed auditory comprehension improvement in 2 of the 3 participants, with both demonstrating positive change on the sub-tests Commands and Complex Ideational Material of the BDAE-3.",N,0,N,0,N,N,N,0,N,N,N
+96,"The intensive therapy task does require at least 3 hours of listening skills, even though there is no constraint aspect to listening.",N,0,N,0,N,N,N,0,N,N,N
+97,"Hence, we might consider this as evidence that it may be the practice of listening and not the constraint treatment approach that leads to improvements in auditory comprehension.",N,0,N,0,N,N,N,0,N,N,N
+98,Formal outcome measures for verbal expression did not reflect improvement for any of the participants in our study.,N,0,N,0,N,N,N,0,N,N,N
+99,The BDAE-3 expressive component score based only on confrontation naming (BNT) and a subjective grammatical scale may not be a sensitive enough tool to recognize subtle changes in expressive language.,N,0,N,0,N,N,N,0,N,N,N
+100,We observed evidence of verbal expression improvement in linguistic analysis of a story retell task from the BDAE-3.,N,0,N,0,N,N,N,0,N,N,N
+101,"We believe that inclusion of a functional language analysis, such as a story retell task, provides more meaningful data than the BNT, especially in the context of a short retest period.",N,0,N,0,N,N,N,0,N,N,N
+102,"To date, only one study investigated post CIAT linguistic outcome with a story retell measure [<a href=""#R10"">10</a>].",N,0,N,0,N,N,N,0,N,N,N
+103,"As discussed previously, the number of words, utterances and sentences produced in narrative discourse after both CIAT and traditional programs improved for most of the participants but the outcome was not consistent across all participants.",N,0,N,0,N,N,N,0,N,N,N
+104,"The mini-CAL, a shortened English-language version of the Communicative Activity Log, was tested as a subjective measurement tool to show communicative fluency (qualitative section), frequency of use (quantitative 1), and frequency of misunderstanding (quantitative 2).",N,0,N,0,N,N,N,0,N,N,N
+105,"Overall, there was no evidence of improvement on the scale.",N,0,N,0,N,N,N,0,N,N,N
+106,"However, we directly observed that the participants had difficulty understanding the questions asked, whether spoken or written.",N,0,N,0,N,N,N,0,N,N,N
+107,The questionnaire may not have been simple enough for the comprehension level of the participants.,N,0,N,0,N,N,N,0,N,N,N
+108,Asking individuals with aphasia to complete a verbal questionnaire is problematic in ascertaining comprehension accuracy.,N,0,N,0,N,N,N,0,N,N,N
+109,"Studies focusing on reading skills with aphasia are advocating alterations in text size and simplification of sentences [<a href=""#R12"">12</a>,<a href=""#R13"">13</a>].",N,0,N,0,N,N,N,0,N,N,N
+110,Further research on adaptations of the CAL/mini-CAL to meet a higher degree of literacy comprehension is needed.,N,0,N,0,N,N,N,0,N,N,N
+111,The CIAT approach to aphasia rehabilitation represents a change in the philosophy of language rehabilitation.,N,0,N,0,N,N,N,0,N,N,N
+112,"The crux of CIAT is to reduce behaviors that do not engage the brain in language activity, which we refer to as “non-use” behaviors, while increasing practice with language tasks.",N,0,N,0,N,N,N,0,N,N,N
+113,"Non-use behaviors may have been created as reactions to the initial speech difficulties, which resulted from negative feedback from family, friends, and/or personal feelings of inadequacy.",N,0,N,0,N,N,N,0,N,N,N
+114,Therefore avoidance is reinforced.,N,0,N,0,N,N,N,0,N,N,N
+115,"In the motor system model, the non-use behaviors are quite evident, specifically using the non-paralyzed limb.",N,0,N,0,N,N,N,0,N,N,N
+116,"In language, there is more ambiguity in what entails non-use behaviors.",N,0,N,0,N,N,N,0,N,N,N
+117,"We chose to identify the following as non-use behaviors, albeit these behaviors may have communicative purposes: pointing, gesturing (not formal sign language), pantomiming, using sound effects (i.e.",N,0,N,0,N,N,N,0,N,N,N
+118,"<span class=""italic"">brrrm</span>... for <span class=""italic"">car</span>), drawing, using a speech generating device, and writing.",N,0,N,0,N,N,N,0,N,N,N
+119,"The use of one of the listed behaviors is, in fact, a non-use when the behavior results in an avoidance of the verbal language.",N,0,N,0,N,N,N,0,N,N,N
+120,"We present these behaviors in a hierarchy, with speech generating device and writing being non-verbal yet language behaviors.",N,0,N,0,N,N,N,0,N,N,N
+121,"Therefore, writing instead of spoken response is considered a higher level behavior to constrain.",N,0,N,0,N,N,N,0,N,N,N
+122,The next step of the program is to determine linguistic targets that would expand the individual's language system.,N,0,N,0,N,N,N,0,N,N,N
+123,"The CIAT program requires the participant to be responsible for constraining the identified behavior, while clinicians provide repeated practice of a linguistic target, modeling and cueing appropriate to the level of the individual.",N,0,N,0,N,N,N,0,N,N,N
+124,"In order to empower the individual with aphasia to have successful communication without compensatory strategies, the treatment needs to provide increased motivation, language use activation, positive reinforcement, practice, and cortical reorganization.",N,0,N,0,N,N,N,0,N,N,N
+125,"Most clinicians target an ultimate goal of clients' communicative success, but may in actuality be supporting the non-use model by reinforcing a compensatory system, and strengthening less effective behaviors.",N,0,N,0,N,N,N,0,N,N,N
+126,"In traditional therapy, multi-modality compensatory strategies are often encouraged, with an expectation that the compensations will decrease naturally as the language increases.",N,0,N,0,N,N,N,0,N,N,N
+127,There is no evidence that it is the actual compensation that results in an increase in language production or comprehension.,N,0,N,0,N,N,N,0,N,N,N
+128,"Examples of specific treatment approaches promoting multi-modality communication with compensatory strategies include Conversational Prompting [<a href=""#R14"">14</a>], Promoting Aphasics Communicative Effectiveness-PACE [<a href=""#R15"">15</a>,<a href=""#R16"">16</a>], gesture [<a href=""#R17"">17</a>], Visual Action Therapy which is a nonvocal, visual/gestural approach [<a href=""#R18"">18</a>], use of communication boards [<a href=""#R19"">19</a>,<a href=""#R20"">20</a>], drawing [<a href=""#R21"">21</a>-<a href=""#R24"">24</a>] and computer therapy [<a href=""#R25"">25</a>].",N,0,N,0,N,N,N,0,N,N,N
+129,"As we do not disregard the value of these non-linguistic systems for immediate communication, we question whether these compensatory strategies are truly aiding the recovery of the language functions or whether they are contributing to the learned non-use phenomenon.",N,0,N,0,N,N,N,0,N,N,N
+130,"Some debate exists as to whether participants benefit from constraint-induced philosophy or from the actual <span class=""italic"">intensity</span> of the program in both physical and language studies [<a href=""#R26"">26</a>-<a href=""#R28"">28</a>].",N,0,N,0,N,N,N,0,N,N,N
+131,"To date, only two studies have compared a CIAT program to a conventional therapy program for the same duration and intensity of treatment [<a href=""#R4"">4</a>,<a href=""#R10"">10</a>].",N,0,N,0,N,N,N,0,N,N,N
+132,Language improvements were noted in both groups.,N,0,N,0,N,N,N,0,N,N,N
+133,Meinzer et al.,N,0,N,0,N,N,N,0,N,N,N
+134,"(2004) did not provide specifics of speech and language training and results [<a href=""#R4"">4</a>].",N,0,N,0,N,N,N,0,N,N,N
+135,Maher et al.,N,0,N,0,N,N,N,0,N,N,N
+136,"(2006) compared CIAT to PACE treatment using the same therapeutic stimuli [<a href=""#R10"">10</a>].",N,0,N,0,N,N,N,0,N,N,N
+137,"The CIAT group was encouraged to use only verbal communication and was constrained from using any non-verbal communication, including writing or self-cuing during barrier type activities.",N,0,N,0,N,N,N,0,N,N,N
+138,Participants were prompted to increase the length of their response but were also encouraged not to extend the utterance beyond that which they could proceed with confidence.,N,0,N,0,N,N,N,0,N,N,N
+139,"For the comparison group, a modified PACE treatment approach was utilized.",N,0,N,1,N,N,N,0,N,N,N
+140,The participants in the PACE group were allowed any means of communication throughout the therapy session.,N,0,N,0,N,N,N,0,N,N,N
+141,The modification of PACE involved using semantically organized treatment stimuli.,N,0,N,0,N,N,N,0,N,N,N
+142,"The participants were required to verbalize each element of the utterance, rather than a generalized idea.",N,0,N,0,N,N,N,0,N,N,N
+143,"Although verbal responses were not modeled for use during the PACE program, verbal responses were not discouraged.",N,0,N,0,N,N,N,0,N,N,N
+144,Our observation of CIAT therapy revealed a high level of interaction and socialization between the participants.,N,0,N,0,N,N,N,0,N,N,N
+145,"If you consider that these individuals were previously very limited in social activities, this 1 week session may have simply stimulated activation of language system because of the increased socialization.",N,0,N,0,N,N,N,0,N,N,N
+146,"We planned the program expecting the break times to be used for quiet, personal times and provided multiple rooms for the break.",N,0,N,0,N,N,N,0,N,N,N
+147,"However, we found that the participants preferred to use this time socially.",N,0,N,1,N,N,N,0,N,N,N
+148,Future studies should attempt to differentiate the effects of structured language treatment over and above the effects of increased socialization.,N,0,N,0,N,N,N,0,N,N,N
+149,"Another possibility is that the synergistic combination of an intensive, highly structured, hierarchical and guided language therapy with a social program may result in successful outcome.",N,0,N,0,N,N,N,0,N,N,N
+150,There are other limitations to this study.,N,0,N,0,N,N,N,0,N,N,N
+151,This pilot study was not designed with a control group comparison.,N,0,N,0,N,N,N,0,N,N,N
+152,"However, given the small number of studies reporting the outcomes of CIAT therapy and the important clinical implications of this research, the current study provides needed descriptive information on the use of CIAT.",N,0,N,0,N,N,N,0,N,N,N
+153,"In order to further establish the validity of CIAT as a treatment model, a larger study should be conducted.",N,0,N,0,N,N,N,0,N,N,N
+154,"We anticipate that a comparison of approaches, with factors matched for intensity and treatment materials, may better answer the question of whether the improvements associated with CIAT result primarily from constraint, a decrease in use of compensatory strategies, duration and intensity of treatment, or increased socialization.",N,0,N,0,N,N,N,0,N,N,N
+155,It appears that the CIAT protocol used in this study is a useful tool in post stroke language restoration.,N,0,N,0,N,N,N,0,N,N,N
+156,The present study further explained the philosophic model for CIAT and expanded on previous protocols for the CIAT clinical procedures.,N,0,N,0,N,N,N,0,N,N,N
+157,"Given that the duration of treatment in this study was only 1 week, the linguistic improvements in post stroke aphasia participants were encouraging.",N,0,N,0,N,N,N,0,N,N,N
+158,Pre and posttest out-comes using story retell task were more sensitive to change than formal expressive language subtests.,N,0,N,0,N,N,N,0,N,N,N
+159,Future studies that expand on discourse analysis as a functional outcome measure are needed.,N,0,N,0,N,N,N,0,N,N,N
+160,"In addition, the mini-CAL did not demonstrate participant perception of improvement with four communicative situations, but it could be further adapted to facilitate aphasic reading comprehension.",N,0,N,0,N,N,N,0,N,N,N
+161,"See full table</a></span><span class=""fig-label"">Table 1.",N,0,N,0,N,N,N,0,N,N,N
+162,</span>Pre and post-testing of BDAE-3 test measures (LCI - Language Competency Index),N,0,N,1,N,N,N,0,N,N,N
+163,"See full table</a></span><span class=""fig-label"">Table 2.",N,0,N,0,N,N,N,0,N,N,N
+164,</span>Linguistic information on BDAE-3 Fable Retell (only subjects HL and FG were tested; see text for further detail),N,0,N,0,N,N,N,0,N,N,N
+165,The authors thank Dr. Friedemann Pulvermüller for sharing the original constraint-induced aphasia therapy (CIAT) materials and Katiana Baltzer for her participation in reverse translation of the materials.,N,0,N,0,N,N,N,0,N,N,N
+166,Source of support: The Neuroscience Institute in Cincinnati in preparing the CIAT materials,N,0,N,0,N,N,N,0,N,N,N
+167,Modified English Mini-Communnication Activity Log (Mini-CAL),N,0,N,0,N,N,N,0,N,N,N
+168,Questionnaire about everyday communicative practice,N,0,N,0,N,N,N,0,N,N,N
+169,"See full table</a></span><span class=""fig-label"">Qualitative.",N,0,N,0,N,N,N,0,N,N,N
+170,</span>Please estimate your communicative abilities using the following 6-point scale (0 to 5).,N,0,N,0,N,N,N,0,N,N,N
+171,"See full table</a></span><span class=""fig-label"">Quantitative 1.",N,0,N,0,N,N,N,0,N,N,N
+172,</span>Please estimate your communicative abilities using the following 6-point scale (0 to 5),N,0,N,0,N,N,N,0,N,N,N
+173,"See full table</a></span><span class=""fig-label"">Quantitative 2.",N,0,N,0,N,N,N,0,N,N,N
+174,</span>Please estimate your communicative abilities using the following 6-point scale (0 to 5),N,0,N,0,N,N,N,0,N,N,N

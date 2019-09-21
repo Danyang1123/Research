@@ -1,0 +1,180 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+3,Muscles Ligaments Tendons J.,0,0,0,0,0,0,N,0,0,0,0
+5,"Comparison between extracorporeal shockwave therapy, placebo ESWT and endoscopic plantar fasciotomy for the treatment of chronic plantar heel pain in the athlete",0,0,0,0,0,0,N,0,0,0,0
+6,"Amol Saxena<sup>1</sup>, Magali Fournier<sup>2</sup>, Ludger Gerdesmeyer<sup>3</sup>, Hans Gollwitzer<sup>4",0,0,0,0,0,0,N,0,0,0,0
+8,"Department of Sports Medicine, Palo Alto Medical Foundation, Palo Alto, CA, USA",0,0,0,0,0,0,N,0,0,0,0
+10,"Department of Sports Medicine, Palo Alto Medical Foundation, Palo Alto, CA, USA",0,0,0,0,0,0,N,0,0,0,0
+12,"Department of Orthopedics, University Schleswig-Holstein, Kiel, Germany",0,0,0,0,0,0,N,0,0,0,0
+14,"Department of Orthopedics, Klinik Rechts Der Isar, München, Germany",0,0,0,0,0,0,N,0,0,0,0
+15,"Corresponding author: Amol Saxena, Palo Alto Medical Foundation, Department of Sports Medicine, 795 El Camino Real, Palo Alto, CA USA 94301, E-mail: heysax@aol.com",0,0,0,0,0,0,N,0,0,0,0
+18,Plantar fasciitis can be a chronic and debilitating condition affecting athletes of all levels.,0,0,0,0,0,0,N,0,0,0,0
+19,"The aim of this study is to compare treatment outcomes for the treatment of chronic plantar fasciitis in athletes, comparing focused extra corporeal sound wave therapy (ESWT) and the surgical endoscopic plantar fasciotomy (EPF).",0,0,0,0,0,0,N,0,0,0,0
+20,A total of 37 eligible patients were enrolled in the study between May 2006 and December 2008 at a single institution.,0,0,0,0,0,0,N,0,0,0,0
+21,"Patients were either enrolled in the surgical group, or to the ESWT group which included a placebo controlled, randomized group (P-ESWT).",0,1,0,0,0,0,N,0,0,0,0
+22,Pre and post Visual Analog Scores (VAS) and Roles and Maudlsey (RM) scores were recorded and compared between the three groups.,0,0,0,0,0,0,N,0,0,0,0
+23,The patient’s return to activity (RTA) was also documented.,0,0,0,1,0,0,N,0,0,0,0
+24,"The results showed statistical improvement within the EPF and ESWT groups with both VAS &amp; RM scores, with EPF being significantly better than both ESWT and P-ESWT in terms of treatment outcomes.",0,0,0,0,0,0,N,0,0,0,0
+25,"Patients enrolled in the ESWT were able though to continue with their exercise regimen, while the EPF group was able to return to their athletic activity in an average of 2.8 months.",0,0,0,0,0,0,N,0,0,0,0
+26,"In conclusion, EPF and ESWT are both effective forms of treatment for chronic plantar fasciitis; EPF being superior in outcomes yet ESWT treatment could be preferable since the athlete can remain active during treatment.",0,0,0,0,0,0,N,0,0,0,0
+27,Level of Evidence: II,0,0,0,0,0,0,N,1,0,0,0
+28,"Plantar fasciitis is one of the most common causes of heel pain and disorder for which patients are seen in medical practices<a href=""#b1-312-316_magali_fournier_def"">1</a>.",0,0,0,0,0,0,N,0,0,0,0
+29,"It commonly affects athletes of all levels and can be debilitating, preventing them from practicing or racing in their sport.",0,0,0,0,0,0,N,0,0,0,0
+30,"The etiology of plantar fasciitis is not well defined and is better classified as a fasciosis rather than fasciitis due to its chronic degeneration rather than being an inflammatory condition<a href=""#b2-312-316_magali_fournier_def"">2</a>.",0,0,0,0,0,0,N,0,0,0,0
+31,"Thickening of the plantar fascia, decreased vascularity, peritendinous inflammation, loss of normal elasticity, all play a role in persistent pain³.",0,0,0,0,0,0,N,0,0,0,0
+32,"Plantar fasciitis usually can be treated successfully with conservative measures, expecting complete resolution of symptoms and return to activities in 90% of patients within 10 to 12 months.",0,0,0,0,0,0,N,0,0,0,0
+33,This lengthy recovery is often time unacceptable in the athletic population.,0,0,0,0,0,0,N,0,0,0,0
+34,"Non-invasive treatment includes physical therapy, taping, orthosis, stretching, NSAID’s, cortisone injections.",0,0,0,0,0,0,N,0,0,0,0
+35,"When non-operative options are unsuccessful, a surgical release of the plantar fascia is necessary.",0,0,0,0,0,0,N,0,0,0,0
+36,"In 2000, FDA approved the use of extracorporeal shock-wave therapy (ESWT) for the treatment of plantar fasciitis<a href=""#b2-312-316_magali_fournier_def"">2</a>.",0,0,0,0,0,0,N,0,0,0,0
+37,"This non-invasive measure uses sound waves to create a controlled, microtrauma to local affected tissue in order to stimulate a healing response and microvascularization.",0,0,0,0,0,0,N,0,0,0,0
+38,"It also induces the release of enzymes which affect nociceptors, resulting in localized analgesia<a href=""#b4-312-316_magali_fournier_def"">4</a>.",0,0,0,0,0,0,N,0,0,0,0
+39,Plantar fasciotomy on the other end is a surgical approach aimed at releasing the plantar fascia from its origin at the medial calcaneal tubercle.,0,0,0,0,0,0,N,0,0,0,0
+40,"Endoscopic plantar fasciotomy has gained popularity mainly because of its minimal invasive nature, minimal reported complication rate and rapid recovery in comparison to open procedures<a href=""#b5-312-316_magali_fournier_def"">5</a>–<a href=""#b8-312-316_magali_fournier_def"">8</a>.",0,0,0,0,0,0,N,0,0,0,0
+41,"Athletes have a demanding lifestyle and when injured, require a rapid return to activity level with resolution of symptoms.",0,0,0,0,0,0,N,0,0,0,0
+42,The purpose of this study was to compare the results of ESWT and EPF in the treatment of chronic plantar fasciitis in athletes resistant to conservative measures for a minimum of 6 months.,0,0,0,0,0,0,N,0,0,0,0
+43,IRB approval was granted to study treatment outcomes for chronic plantar heel pain syndrome.,1,0,0,0,0,0,N,0,0,0,0
+44,Patients were enrolled from May 2006 until December 2008.,1,0,0,0,0,0,N,0,0,0,0
+45,Patients could elect to enroll in the ESWT arm or the surgical arm (EPF) of the prospective study.,1,0,0,0,0,0,N,0,0,0,0
+46,"The ESWT arm was a FDA study of a focused shock wave device, Duolith™ (Storz Medical AG, Tägerwilen, Switzerland).",1,0,0,0,0,0,N,0,0,0,0
+47,This device was provided by Storz Medical AG.,1,0,0,0,0,0,N,1,0,0,0
+48,"Patients who elected to participate in the ESWT were advised it was a randomized, placebo-controlled study, so they may end up having placebo treatment (P-ESWT).",0,1,0,0,0,0,N,0,0,0,0
+49,Patients in both the ESWT and P-ESWT groups were conpensated $US100 for their partecipation.,0,0,1,0,1,1,N,0,0,0,0
+50,(They incurred no charges for their treatment).,0,0,0,0,0,0,N,0,0,0,0
+51,The EPF group was not randomized.,0,1,0,0,0,0,N,0,0,0,0
+52,They were given the option to partake in the ESWT study but declined.,0,0,0,0,0,0,N,0,0,0,0
+53,"Therefore three groups were compared: ESWT, P-ESWT, and EPF.",0,0,1,0,1,1,N,0,0,0,0
+54,"The inclusion criteria for all patients in the study were that they had to have a clinical diagnosis consistent with plantar fasciitis for more than six months with prior treatment of at least three modalities: stretching, icing, inserts/orthoses, night splints, physiotherapy and possible corticosteroid injection and/or NSAIDs.",0,0,0,0,0,0,N,0,0,0,0
+55,"All EPF patients had to have had a corticosteroid injection, custom orthoses and refrain from running/sport for minimum of two months.",0,0,0,0,0,0,N,0,0,0,0
+56,"All had tried some form of stretching, physiotherapy and NSAID as well.",0,0,0,0,0,0,N,0,0,0,0
+57,"In addition, all patients in all three groups had to be athletically active (as described by Saxena eg.",0,0,0,0,0,0,N,0,0,0,0
+58,"Professional, Collegiate or high school sports, runners who complete at least 25 miles/week and other athletes who practice their sport at least 6 hours/week), and be able to follow-up one year post treatment<a href=""#b7-312-316_magali_fournier_def"">7</a>.",0,0,0,0,0,0,N,0,0,0,0
+59,"Exclusion criteria for the shock wave (both ESWT and P-ESWT) was a corticosteroid injection within six weeks, concurrent use of steroids and/or NSAIDs, a change in shoe gear, orthoses or activity level during the treatment period (but not necessarily during the study period as it was hoped their activity level would improve).",0,0,0,0,0,0,N,0,0,0,0
+60,Patients with inflammatory arthropathies and radiculopathy were also excluded.,0,0,0,0,0,0,N,0,0,0,0
+61,The EPF group had the same inclusion/ exclusion criteria as well though they were followed for two years post-surgery.,0,0,0,0,0,0,N,0,0,0,0
+62,Pre- and post VAS and Roles and Maudsley (RM) scores were recorded and compared between the three groups.,0,0,0,0,0,0,N,0,0,0,0
+63,Both of these scores have been utilized commonly with many studies of ESWT and EPF recently.,0,0,0,0,0,0,N,0,0,0,0
+64,These were recorded pre-treatment and at 12 months post-treatment.,0,0,0,1,0,0,N,0,0,0,0
+65,Patients who underwent surgery also had their RM scores recorded at 24 months.,0,0,0,1,0,0,N,0,0,0,0
+66,"An “excellent” result was a “1” (no pain, full movement, full activity), a “good” result was a “2” (occasional discomfort, full movement, full activity), an “acceptable” result was a “3” (some discomfort after prolonged activities) and a “poor” result was a “4” (pain limiting activity)<a href=""#b5-312-316_magali_fournier_def"">5</a>.",0,0,0,0,0,0,N,0,0,0,0
+67,Return to athletic activity (RTA) was documented.,0,0,0,0,0,0,N,0,0,0,0
+68,"Complications such as plantar fascia rupture, nerve damage, stress fracture and recurrence were documented.",0,0,0,0,0,0,N,0,0,0,0
+69,Statistical significance was set at P=.05 or less.,0,0,0,0,0,0,N,0,0,0,0
+70,"Student’s T test was calculated using the Stat-Sak program (G Dallal, Malden, MA 1986).",0,0,0,0,0,0,N,0,0,0,0
+71,Randomization was done by a computerized program and numbering was placed in sealed envelopes.,0,0,0,0,0,0,N,0,0,0,0
+72,The non-blinded investigator recorded the subjects’ category.,0,0,0,0,0,0,N,0,0,0,0
+73,"The Duolith™ device was applied to the affected region at 4 Hz for 2000 shocks at .24 mJ/mm<sup>2</sup>, after a gradual ramp-up of 500 shocks starting at .1 mJ/mm<sup>2</sup>.",0,0,0,0,0,0,N,0,0,0,0
+74,No anesthesia was used.,0,0,0,0,0,0,N,0,0,0,0
+75,"For the placebo group, a special head that blocked the shock waves from occurring was used but was indistinguishable otherwise.",0,0,0,0,0,0,N,0,0,0,0
+76,Three treatments were rendered approximately every 7 ± 3 days.,0,0,0,0,0,0,N,0,0,0,0
+77,"Post-treatment patients were allowed to continue with their regular shoe gear, orthoses and activities as tolerated.",0,0,0,0,0,0,N,0,0,0,0
+78,Icing post-exercise was allowed but NSAIDs were discouraged.,0,0,0,0,0,0,N,0,0,0,0
+79,Surgical Technique of Endoscopic Plantar Fasciotomy,0,0,0,0,0,0,N,0,0,0,0
+80,"The procedure is performed under general anesthesia, with the patient placed in the supine position.",0,0,0,0,0,0,N,0,0,0,0
+81,An ankle or thigh tourniquet may be used.,0,0,0,0,0,0,N,0,0,0,0
+82,"A stab incision is placed medially at the heel, generally 1 cm anterior the attachment of the plantar fascia from the medial calcaneal tubercle and 2.5 cm (or roughly at the junction of the plantar and dorsal skin) from the plantar aspect of the heel.",0,0,0,0,0,0,N,0,0,0,0
+83,Blunt dissection is carried down and a fascial elevator is used to separate the plantar fat pad from the plantar aspect of the plantar fascia.,0,0,0,0,0,0,N,0,0,0,0
+84,"A cannula with an obturator is then inserted medially through the incision and advanced laterally until tenting of the ski is noted, which indicates the placement of the skin incision laterally.",0,0,0,0,0,0,N,0,0,0,0
+85,The cannula is then advanced laterally and the obturator is removed.,0,0,0,0,0,0,N,0,0,0,0
+86,"A 30 degree, 4.0 mm endoscope is inserted in the cannula medially and the plantar fascia is visualized superiorly.",0,0,0,0,0,0,N,0,0,0,0
+87,The lateral portal is established and the endoscope is placed through this portal.,0,0,0,0,0,0,N,0,0,0,0
+88,Trans-illumination is used to determine the medial portion to be transected by rotating the camera/cannula 180°.,0,0,0,0,0,0,N,0,0,0,0
+89,The camera assembly is then rotated back and held in place.,0,0,0,0,0,0,N,1,0,0,0
+90,"A forward cutting knife (Mondeal NA/Tekartis, San Diego, CA, USA and Mondeal Gmbh, Mülheim, Germany) is introduced medially and the medial half of the plantar fascia is transected.",0,0,0,0,0,0,N,0,0,0,0
+91,"This may require more than one pass of the blade until visualization of the flexor digitorum brevis muscle belly is seen, indicating full transection of the fascia.",0,0,0,0,0,0,N,0,0,0,0
+92,The lateral portion of the fascia is maintained.,0,0,0,0,0,0,N,0,0,0,0
+93,"Skin incisions are then re-approximated with sutures, and the patient is placed in a cast-boot for 4 weeks, being allowed to weight bear as tolerated after two weeks.",0,0,0,0,0,0,N,0,0,0,0
+94,Twenty-five patients met the inclusion criteria in the ESWT and P-ESWT groups.,0,1,1,0,1,1,N,0,0,0,0
+95,The average patient age in the ESWT group (n=11) was 47.9 ± 12.6 years.,0,0,0,0,0,0,N,0,0,0,0
+96,The average age of patients in the Placebo-ESWT group (n=14) was 47.6 ± 9.9 years.,0,0,0,0,0,0,N,0,0,0,0
+97,The average age of patients in the EPF group (n=12) was 42.3 ± 11.4 years.,0,0,0,0,0,0,N,0,0,0,0
+98,There were no significant differences in patient age between the three groups.,0,0,0,0,0,0,N,0,0,0,0
+99,"The pre-treatment VAS and RM scores in the ESWT group were 8.7 ± 1.4 and 3.7 ± 0.5, respectively.",0,0,0,0,0,0,N,0,1,1,1
+100,"Post-ESWT, their scores improved to 3.4 ± 3.3 for the VAS and 2.4 ± 1.2 for the RM, which were both significant (P=.0001 and .003, respectively).",0,0,0,0,0,0,N,0,1,1,1
+101,"The RTA ranged from immediate to two months post-ESWT (<a href=""#t1-312-316_magali_fournier_def"">Tab.",0,0,0,0,0,0,N,0,1,1,1
+103,Two patients eventually had EPF surgery.,0,0,0,1,0,0,N,0,1,1,1
+104,"The pre-treatment VAS and RM scores for the P-ESWT group were 8.0 ± 1.1 and 3.2 ± 1.0, respectively.",0,0,0,0,0,0,N,0,0,0,0
+105,Post-P-ESWT their scores improved to 5.1 ± 2.7 for the VAS and 2.9 ± 1.2 for the RM.,0,0,0,0,0,0,N,0,0,0,0
+106,The VAS was significantly better but the RM was not (P=.16).,0,0,0,0,0,0,N,0,0,0,0
+107,"The RTA ranged from immediate to six months; however two patients could not return to sport (<a href=""#t2-312-316_magali_fournier_def"">Tab.",0,0,0,0,0,0,N,0,0,0,0
+109,"The ESWT group had four patients with RM score of “1” and one with a “2”, whereas the P-ESWT had no patients with a “1”, but six with a “2”.",0,0,0,0,0,0,N,0,0,0,0
+110,The pre-EPF VAS and RM scores were 5.8 ± 0.9 and 3.3 ± 0.5.,0,0,0,0,0,0,N,0,0,0,0
+111,Post-EPF the VAS score was 0.2 ± 0.4 and RM was 1.1 ± 0.3.,0,0,0,0,0,0,N,0,0,0,0
+112,These were both significant (both P=.00001).,0,0,0,0,0,0,N,0,0,0,0
+113,The RTA post-EPF was 2.8 months (range two to four months).,0,0,0,0,0,0,N,0,0,0,0
+114,Four patients had pre-surgical symptoms for nine months; all the rest of the patients had their symptoms for 12–24 months.,0,0,0,0,0,0,N,0,0,0,0
+115,"In addition to the inclusion-criteria pre-EPF treatments, two patients had ESWT three of more months prior.",0,0,0,0,0,0,N,0,0,0,0
+116,All athletic patients were able to return to their sport.,0,0,0,0,0,0,N,0,0,0,0
+117,EPF patients’ activity level (RM score) did not change at 24 months post surgery.,0,0,0,0,0,0,N,0,0,0,0
+118,"All but one patient had RM scores of “1” (<a href=""#t3-312-316_magali_fournier_def"">Tab.",0,0,0,0,0,0,N,0,0,0,0
+120,"There were no complications from the EPF surgeries, nor with ESWT and P-ESWT.",0,0,1,0,1,1,N,0,0,0,0
+121,There was no significant between pre-treatment VAS of ESWT and P-ESWT (P=.19) and RM (P=.14).,0,0,0,0,0,0,N,0,0,0,0
+122,Post treatment ESWT and P-ESWT also had no significant difference between the two groups for VAS (P=.18) and RM (.68).,0,0,0,0,0,0,N,0,0,0,0
+123,Pre-EPF VAS score was significantly lower than the ESWT group but the RM score was not (P=.07).,0,0,0,0,0,0,N,0,0,0,0
+124,"Post-EPF VAS and RM scores were significantly better than both the ESWT (P=.003 and .005, respectively) and P-ESWT groups (P=.001 and .004, respectively).",0,0,0,0,0,0,N,0,0,0,0
+125,The results from this study had several interesting findings.,0,0,0,0,0,0,N,0,0,0,0
+126,Pre-operative VAS scores in the group who elected EPF were significantly lower than the both ESWT and PESWT.,0,0,0,0,0,0,N,0,0,0,0
+127,Patients willing to undergo surgery may have a higher pain tolerance and a lower threshold for undergoing surgery.,0,0,0,0,0,0,N,0,0,0,0
+128,Both of the latter two groups’ Pre-VAS &amp; RM scores were similar.,0,0,0,0,0,0,N,0,0,0,0
+129,"EPF had significantly better overall out come with significantly lower post-EPF VAS and RM scores, and in addition, all athletes returned to their sport, though average RTA was 2.8 months.",0,0,0,0,0,0,N,0,0,0,0
+130,"Post-treatment both the ESWT and P-ESWT groups had improved VAS and RM scores, but ESWT was not significantly better.",0,0,0,0,0,0,N,0,0,0,0
+131,A larger study size may reveal a significant result between ESWT and P-ESWT.,0,0,0,0,0,0,N,0,0,0,0
+132,The fact that some patients could continue with their sport when having ESWT was a positive result: patients who elect to have ESWT for plantar heel pain can safely continue to exercise.,0,0,0,0,0,0,N,0,0,0,0
+133,This is supported by the finding of no complications from the ESWT treatments.,0,0,0,0,0,0,N,0,0,0,0
+134,"A potential “negative” bias could have occurred with our study, since most patients who had ESWT/P-ESWT, continued to exercise.",0,0,0,0,0,0,N,0,0,0,0
+135,"Their “improvement” may have been limited by their lack of rest, and therefore their subjective activity level and objective pain scores may be lower.",0,0,0,0,0,0,N,0,0,0,0
+136,"Athletes with reduced pain may increase their activity levels faster, resulting in persistent or similar pain levels on VAS in spite of significant improvement.",0,0,0,0,0,0,N,0,0,0,0
+137,"Also, activity level of the ESWT may have been higher than P-ESWT.",0,0,0,0,0,0,N,0,0,0,0
+138,"A recent chapter on plantar fascia injuries in athletes by Saxena and Fullem suggest ESWT should be considered earlier in the treatment algorithm<a href=""#b11-312-316_magali_fournier_def"">11</a>.",0,0,0,0,0,0,N,0,0,0,0
+139,Other treatments such as corticosteroid injections require a period of rest after administration and a small risk of rupture.,0,0,0,0,0,0,N,0,0,0,0
+140,Night-splints effectiveness as well as physical therapy has not been documented on athletes.,0,0,0,0,0,0,N,0,0,0,0
+141,"ESWT is so far one of the only modalities thoroughly tested via evidence-based medicine standards and is actually more cost-effective for plantar fasciopathy<a href=""#b9-312-316_magali_fournier_def"">9</a>–<a href=""#b11-312-316_magali_fournier_def"">11</a>.",0,0,0,0,0,0,N,0,0,0,0
+142,Few studies document return to sport with ESWT.,0,0,0,0,0,0,N,0,0,0,0
+143,Rompe et al.,0,0,0,0,0,0,N,0,0,0,0
+144,"evaluated 45 runners, who were randomized for treatment with an electro-magnetic device and sham treatment.",0,0,0,0,0,0,N,0,0,0,0
+145,Treatment consisted of 2100 shocks at 16 mJ/mm<sup>2</sup> at 4 Hz.,0,0,0,0,0,0,N,0,0,0,0
+146,No anesthesia was used.,0,0,0,0,0,0,N,0,0,0,0
+147,Their patients were assessed with improvement of 50% or more with the VAS scale and AOFAS score.,0,0,0,0,0,0,N,0,0,0,0
+148,"After 12 months, 72% of patients with ESWT and 35% with sham treatment had improvement of the morning pain<a href=""#b3-312-316_magali_fournier_def"">3</a>.",0,0,0,0,0,0,N,0,0,0,0
+149,Interestingly with Rompe et al.,0,0,0,0,0,0,N,0,0,0,0
+150,"study, though it dealt with an athletic population, they did not record the RTA of their patients nor the % of runners that were still able to train.",0,0,0,0,0,0,N,0,0,0,0
+151,Our study documented this with the RM scores and a 100% return to sport with our EPF cohort.,0,0,0,0,0,0,N,0,0,0,0
+152,"Two other studies compared ESWT to EPF surgery<a href=""#b5-312-316_magali_fournier_def"">5</a>.",0,0,0,0,0,0,N,0,0,0,0
+153,"In 2010, Othman et al.",0,0,0,0,0,0,N,0,0,0,0
+154,reported on 37 patients who were not randomized.,0,0,0,0,0,0,N,0,0,0,0
+155,"Twenty patients had ESWT and 75% of patients were completely satisfied at six month post-treatment with an ESWT device that required local anesthesia (it should be noted, most recent studies for plantar fasciopathy do not require anesthesia when using ESWT and radial pressure wave devices.",0,0,0,0,0,0,N,0,0,0,0
+156,"Research has shown local anesthesia decreases the effectiveness of sound waves)<a href=""#b12-312-316_magali_fournier_def"">12</a>.",0,0,0,0,0,0,N,0,0,0,0
+157,In Othman’s et al.,0,0,0,0,0,0,N,0,0,0,0
+158,"study, seventeen patients had EPF with 82% being completely satisfied.",0,0,0,0,0,0,N,0,0,0,0
+159,They concluded that because early resumption of activity is possible with ESWT they recommend it as an earlier first line treatment.,0,0,0,0,0,0,N,0,0,0,0
+160,One of their patients who underwent EPF had significant limitations.,0,0,0,0,0,0,N,0,0,0,0
+161,They did not document RTA after EPF nor either group’s activity level.,0,0,0,0,0,0,N,0,0,0,0
+162,A more recent study by Radwan et al.,0,0,0,0,0,0,N,0,0,0,0
+163,"also compared ESWT with EPF in 65 patients<a href=""#b5-312-316_magali_fournier_def"">5</a>.",0,0,0,0,0,0,N,0,0,0,0
+164,They randomized patients and found an “Excellent” or “Good” RM score was obtained in 70.6% of ESWT patients and 77.4% of EPF patients.,0,0,0,0,0,0,N,0,0,0,0
+165,They utilized an electro-hydraulic device that required conscious sedation.,0,0,0,0,0,0,N,0,0,0,0
+166,Like the first (and most studies) they did not document RTA and athletic activity.,0,0,0,0,0,0,N,0,0,0,0
+167,"Despite these two studies having different ESWT devices, their conclusions are similar to ours, namely ESWT is a safe effective first-line treatment but 12 or more months post-treatment, EPF seems to have better overall results.",0,0,0,0,0,0,N,0,0,0,0
+168,The overall better outcome of EPF versus ESWT suggests that surgery should be considered more often.,0,0,0,0,0,0,N,0,0,0,0
+169,All the patients who had surgery were able to return to their sport with no limitations.,0,0,0,0,0,0,N,0,0,0,0
+170,Two patients in each of the ESWT and P-ESWT groups could not return to their sport.,0,0,0,1,0,0,N,0,0,0,0
+171,"Like many studies, we could achieve a statistical improvement with the VAS scores, and a significant improvement for athletic patients’ functionality with ESWT (as determined by the RM score) but not as high as with EPF.",0,0,0,0,0,0,N,0,0,0,0
+172,"This underscores the drawback of only assessing outcomes with the VAS scores; patients’ functionality may be a more accurate way of assessing outcome, particularly athletes.",0,0,0,0,0,0,N,0,0,0,0
+173,"As noted by others, the lack of payment for treatment via ESWT could also affect patients’ perception of outcome<a href=""#b12-312-316_magali_fournier_def"">12</a>.",0,0,0,0,0,0,N,0,0,0,0
+174,"Despite these findings, ESWT appears to be a viable first-line treatment with no down side, particularly when athletes want to try to continue to be active.",0,0,0,0,0,0,N,0,0,0,0
+175,We recommend ESWT be offered to athletic patients prior to surgery.,0,0,0,0,0,0,N,0,0,0,0
+176,EPF surgery in our study had better long-term outcome than ESWT for chronic plantar fasciopathy for athletes.,0,0,0,0,0,0,N,0,0,0,0
+177,Larger randomized studies should be considered.,0,0,0,0,0,0,N,0,0,0,0
+178,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,0,0,0,N,0,0,0,0
+179,</span>ESWT Subjects.,0,0,0,0,0,0,N,0,0,0,0
+180,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,0,0,0,0,N,0,0,0,0
+181,</span>P-ESWT Subjects.,0,0,1,0,1,1,N,0,0,0,0
+182,"See full table</a></span><span class=""fig-label"">Table 3.",0,0,0,0,0,0,N,0,0,0,0
+183,</span>EPF Subjects.,0,0,0,0,0,0,N,0,0,0,0
+184,"Articles from Muscles, Ligaments and Tendons Journal are provided here courtesy of <span class=""bold"">CIC Edizioni Internazionali",0,0,0,0,0,0,N,0,0,0,0
+185,PMC Copyright Notice,0,0,0,0,0,0,N,0,0,0,0
+186,"The articles available from the PMC site are protected by copyright, even though access is free.",0,0,0,0,0,0,N,0,0,0,0
+187,Copyright is held by the respective authors or publishers who provide these articles to PMC.,0,0,0,0,0,0,N,1,0,0,0
+188,Users of PMC are responsible for complying with the terms and conditions defined by the copyright holder.,0,0,0,0,0,0,N,0,0,0,0
+189,"Users should assume that standard copyright protection applies to articles in PMC, unless an article contains an explicit license statement that gives a user additional reuse or redistribution rights.",0,0,0,0,0,0,N,0,0,0,0
+190,PMC does not allow automated/bulk downloading of articles that have standard copyright protection.,0,0,0,0,0,0,N,0,0,0,0
+191,"See the copyright notice on the PMC site, <a href=""https://www.ncbi.nlm.nih.gov/pmc/about/copyright/"">https://www.ncbi.nlm.nih.gov/pmc/about/copyright/</a>, for further details and specific exceptions.",0,0,0,0,0,0,N,0,0,0,0

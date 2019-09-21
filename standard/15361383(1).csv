@@ -1,0 +1,104 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Objective: To investigate the efficacy of corticosteroid injections into the carpometacarpal joint of the thumb (CMCJ) in patients with osteoarthritis.,0,0,N,0,0,0,0,N,N,N,N
+1,"Design: A double blind, randomised controlled trial using 40 hospital referred patients with CMCJ osteoarthritis who received intra-articular injections of 5 mg triamcinolone hexacetonide (0.25 ml) or sterile 0.9% saline (0.25 ml).",0,0,N,0,0,0,0,N,N,N,N
+2,Injections were given under imaging control.,0,0,N,0,0,0,0,N,N,N,N
+3,Main outcome measures: The primary outcome was improvement in a pain visual analogue score (VAS) of 20% at 24 weeks.,0,0,N,0,0,0,0,N,N,N,N
+4,"In addition patients were assessed at 4, 12, and 24 weeks for joint stiffness, joint tenderness, and physician and patient global assessments.",0,0,N,0,0,0,0,N,N,N,N
+5,Hand radiographs were evaluated for the degree of CMC joint space narrowing and marginal osteophytes according to the OARSI atlas.,0,0,N,0,0,1,0,N,N,N,N
+6,Results: Baseline clinical variables were not significantly different between the two treatment groups.,0,0,N,0,0,0,0,N,N,N,N
+7,There was no improvement in the VAS of pain at 24 weeks.,0,0,N,0,0,0,0,N,N,N,N
+8,"At each assessment point there was no significant difference between the steroid and placebo groups in median values for joint stiffness, joint tenderness, or patient and physician global assessments.",0,0,N,0,0,0,0,N,N,N,N
+9,"Non-parametric analysis of each group individually revealed statistically significant improvements in patient and physician global assessments at weeks 4, 12, and 24 in the placebo group and at weeks 4 and 12 in the steroid group.",0,0,N,0,0,0,0,N,N,N,N
+10,Conclusions: No clinical benefit was gained from intra-articular steroid injection to the CMCJ in moderate to severe osteoarthritis compared with placebo injection.,0,0,N,0,0,0,0,N,N,N,N
+11,The carpometacarpal joint (CMCJ) of the thumb is commonly targeted by the osteoarthritic process.,0,0,N,0,0,0,0,N,N,N,N
+12,The condition occurs both as a localised form of osteoarthritis and as part of generalised nodal osteoarthritis.,0,0,N,0,0,0,0,N,N,N,N
+13,Estimates of the prevalence of the disorder show a female preponderance with a ratio of 1:3 between men and women.,0,0,N,0,0,0,0,N,N,N,N
+14,"A recent study showed that 25% of patients with hand osteoarthritis had isolated evidence of CMCJ osteoarthritis, while it was present as part of nodal osteoarthritis in 53% of cases.",0,0,N,0,0,0,0,N,N,N,N
+15,"Several factors have been associated with the development of degenerative changes in the CMCJ, including increased thumb base joint laxity and greater grip strength.",0,0,N,0,0,0,0,N,N,N,N
+16,The general principles for management of CMCJ osteoarthritis follow those for peripheral joint osteoarthritis in general.,0,0,N,0,0,0,0,N,N,N,N
+17,"No specific guidelines on the treatment of this form of osteoarthritis exist, but the recommended options include the use of a combination of simple analgesia, muscle strengthening physiotherapy, and a thumb spica splint together with intra-articular injections of corticosteroid.",0,0,N,0,0,0,0,N,N,N,N
+18,The exact place of intra-articular steroid injections in CMCJ osteoarthritis is not well documented and there is only anecdotal evidence to support its use.,0,0,N,0,0,0,0,N,N,N,N
+19,"While the intra-articular administration of high molecular weight corticosteroids to peripheral joints with osteoarthritis is well documented, the present study is the first to examine the efficacy of steroid joint injection in patients with symptomatic osteoarthritis of the CMCJ in a randomised, double blind, placebo controlled trial.",0,0,N,0,0,0,0,N,N,N,N
+20,Ethical approval for the study was obtained from the local research ethics committee.,0,0,N,0,0,0,0,N,N,N,N
+21,"Hospital-referred patients with symptomatic CMCJ osteoarthritis were recruited from the department of rheumatology, Royal Victoria Hospital, Belfast.",1,0,N,0,0,0,0,N,N,N,N
+22,All patients satisfied the American College of Rheumatology (ACR) criteria for the classification of hand osteoarthritis.,1,0,N,0,0,0,0,N,N,N,N
+23,"We excluded patients with a history of inflammatory arthritis, previous thumb base trauma, or previous steroid joint injection to either CMCJ.",1,0,N,0,0,0,0,N,N,N,N
+24,"Patients satisfying the entry criteria gave written informed consent before randomisation to a double blind, placebo controlled trial carried out between February 1999 and November 2002.",1,0,N,0,0,0,0,N,N,N,N
+25,Randomisation was done using a table of random numbers which was balanced after every four patients.,0,1,N,0,0,0,0,N,N,N,N
+26,The list of random numbers corresponded to numbered opaque syringes available at the time of joint injection.,0,1,N,0,0,0,0,N,N,N,N
+27,Full patient assessment was carried out at baseline by an investigator blinded to the treatment given (JP).,0,0,N,0,0,0,0,N,N,N,N
+28,This consisted of the following:,0,0,N,0,0,0,0,N,N,N,N
+29,"Self recorded thumb CMCJ pain, recorded using a 100 mm horizontal visual analogue score (VAS): 0 = no pain; 100 = worst pain ever.",0,0,N,0,0,0,0,N,N,N,N
+30,Assessment of joint tenderness by single fingertip pressure over the joint line located dorsal and volar to the abductor pollicis longus and extensor pollicis brevis tendons; this was graded 0 = no tenderness; 1 = pain; 2 = pain+patient winces; 3 = pain+patient withdraws.,0,0,N,0,0,0,0,N,N,N,N
+31,"Duration of early morning joint stiffness, recorded in minutes.",0,0,N,0,0,0,0,N,N,N,N
+32,The primary outcome was improvement in a pain VAS of 20% at 24 weeks.,0,0,N,0,0,0,0,N,N,N,N
+33,"Injections were carried out under radiographic screening by a second investigator (GM), thereby blinding both patient and investigator.",0,0,N,0,1,1,1,N,N,N,N
+34,In cases of bilateral CMCJ osteoarthritis the more symptomatic joint was injected.,0,0,N,0,0,0,0,N,N,N,N
+35,"Patients were positioned with the hand to be injected held in the semi-prone position, the joint line identified by palpation, and the needle tip inserted lateral to the abductor pollicis longus tendon.",0,0,N,0,0,0,0,N,N,N,N
+36,Needle tip position was confirmed using a Uroscop image intensifier to ensure accurate delivery of the injected substance.,0,0,N,0,0,0,0,N,N,N,N
+37,"Opaque syringes were drawn up by a third investigator (CK) containing either 0.25 ml (5 mg) of triamcinolone hexacetonide or 0.25 ml of sterile 0.9% saline, and were used to inject the CMCJ under standard aseptic technique.",0,0,N,0,0,0,0,N,N,N,N
+38,The injected CMCJ was immobilised in a thumb spica splint for 48 hours.,0,0,N,0,0,0,0,N,N,N,N
+39,Follow up and outcome assessment,0,0,N,0,0,0,0,N,N,N,N
+40,"Clinical assessment, as described above, was repeated at 4, 12, and 24 weeks by the same investigator who undertook the baseline preinjection assessment.",0,0,N,0,0,0,0,N,N,N,N
+41,Radiographic evaluation of the CMC joint was carried out before the joint injection.,0,0,N,0,0,1,1,N,N,N,N
+42,"A standard postero-anterior view was taken of both hands, and CMC joint space narrowing and marginal osteophyte grading were assessed according to the OARSI atlas.",0,0,N,0,0,0,0,N,N,N,N
+43,We postulated that the smallest detectable difference between placebo and steroid injection which was likely to be clinically significant was 20%.,0,0,N,0,0,0,0,N,N,N,N
+44,A non-parametric power calculation was used to estimate the numbers of patients required to show a 20% difference in VAS pain score between placebo and steroid groups at 24 weeks.,0,0,N,0,0,0,0,N,N,N,N
+45,"For a two sided test with an α level of 5% and power of 80%, we aimed to recruit 45 patients in each group.",0,0,N,0,0,0,0,N,N,N,N
+46,An intention to treat analysis was used.,0,0,N,0,0,0,0,N,N,N,N
+47,Patients not completing the full 24 week follow up period had their last measured indices carried forward.,0,0,N,0,0,0,0,N,N,N,N
+48,"Data were analysed using the statistical analysis packages Microsoft® Excel 2000, SPSS/PC version 11 (SPSS Inc, Chicago, Illinois, USA).",0,0,N,0,0,0,0,N,N,N,N
+49,The two intervention groups were compared for all numerical variables using the Mann–Whitney U test at each time interval.,0,0,N,0,0,0,0,N,N,N,N
+50,Within each treatment group the Wilcoxon signed ranks test was used to compare the difference in the median distribution of variables with time.,0,0,N,0,0,0,0,N,N,N,N
+51,"In both statistical methods, significance was accepted at a probability (p) value of <0.05.",0,0,N,0,0,0,0,N,N,N,N
+52,Forty six patients with CMCJ osteoarthritis were invited to participate in the study and 40 (36 women and four men) agreed to take part.,0,0,N,0,0,0,0,N,N,N,N
+53,"Mean duration of CMCJ symptoms was 8.2 years and 7.4 years in the placebo and steroid groups, respectively.",0,0,N,0,0,0,0,N,N,N,N
+54,Bilateral thumb CMCJ osteoarthritis was present in six patients who received placebo and in four who received steroid injection.,0,0,N,0,0,0,0,N,N,N,N
+55,Six patients who were eligible for the study chose not to participate.,0,0,N,0,0,0,0,N,N,N,N
+56,"In the placebo group two patients failed to attend for the final 24 week assessment, and three in the steroid group also failed to attend the follow up (one at 12 weeks and two at 24 weeks).",0,0,N,0,0,0,0,N,N,N,N
+57,The throughput of patients is summarised in fig 1.,0,0,N,0,0,0,0,N,N,N,N
+58,"Recruitment proved difficult for this study, and only about 50% of the numbers required to satisfy the power calculation were identified over a three year period.",0,0,N,0,0,0,0,N,N,N,N
+59,This resulted in the early termination of the study.,0,0,N,0,0,0,0,N,N,N,N
+60,There were no adverse effects reported by patients in the follow up period after the joint injection.,0,0,N,0,0,0,0,N,N,N,N
+61,Baseline clinical characteristics of the participants were similar (table 1).,0,0,N,1,0,0,0,N,N,N,N
+62,"Demographic features of 40 patients with carpometacarpal joint osteoarthritis, randomly assigned to receive placebo or steroid injection to the symptomatic thumb base joint",0,0,N,0,0,0,0,N,N,N,N
+63,"CMC joint space narrowing was also similar between the two groups, with 75% (n = 15) and 81% (n = 16) having grade 3 joint space narrowing in the placebo and steroid groups, respectively.",0,0,N,0,0,0,0,N,N,N,N
+64,Table 2 and fig 2 show the changes in median measurements compared with baseline within the two groups over time.,0,0,N,0,0,0,0,N,N,N,N
+65,"The placebo group showed no significant improvement in VAS, joint stiffness, joint tenderness.",0,0,N,0,0,0,0,N,N,N,N
+66,"There was, however, a significant improvement in both the physician’s global assessment and the patient’s global assessment, which was evident at all time periods.",0,0,N,0,0,0,0,N,N,N,N
+67,"The steroid group also showed no significant improvement in VAS, joint stiffness, or joint tenderness with time, but a significant improvement in both physician’s global assessment and patient’s global assessment was observed at 4 and 12 weeks, which returned to the baseline at 24 weeks.",0,0,N,0,0,0,0,N,N,N,N
+68,Median changes in clinical variables within the steroid and placebo treated groups at each assessment point,0,0,N,0,0,0,0,N,N,N,N
+69,Graph showing the median visual analogue score (mm) at each assessment point in the placebo and steroid groups.,0,0,N,0,0,0,0,N,N,N,N
+70,No significant decrease in VAS is seen in either group.,0,0,N,0,0,0,0,N,N,N,N
+71,This study shows the clinical outcome following intra-articular administration of corticosteroid to the CMCJ of the thumb in patients with primary osteoarthritis.,0,0,N,0,0,0,0,N,N,N,N
+72,"Randomisation was successful, as indicated by the parity of baseline clinical characteristics of the participants.",0,0,N,0,0,0,0,N,N,N,N
+73,"We found no significant improvement in VAS with either intervention over time, although beneficial effects on the patients’ general wellbeing were observed in both groups.",0,0,N,0,0,0,0,N,N,N,N
+74,Radiographically our cohort had a high prevalence of moderately severe CMC joint space narrowing at baseline in both treatment arms of the study.,0,0,N,0,0,0,0,N,N,N,N
+75,This is the first randomised controlled trial investigating the effect of corticosteroid injection of the CMCJ in osteoarthritis.,0,0,N,0,0,0,0,N,N,N,N
+76,"Dieppe suggested that corticosteroid injection of the CMCJ in osteoarthritis was of clinical use, but stressed that this view was based purely on anecdotal evidence provided by Meyer and highlighted the absence of control data.",0,0,N,0,0,0,0,N,N,N,N
+77,At present there are no recognised guidelines for the management of CMCJ osteoarthritis.,0,0,N,0,0,0,0,N,N,N,N
+78,Recent guidelines on the management of peripheral joint osteoarthritis were published by the ACR and by EULAR.,0,0,N,0,0,0,0,N,N,N,N
+79,Both concentrate on the medical management of lower limb osteoarthritis and do not specifically mention the CMCJ.,0,0,N,0,0,0,0,N,N,N,N
+80,"While both encourage the use of non-pharmacological interventions in osteoarthritis, intra-articular injection with a corticosteroid is mentioned as an adjunct to conventional drug treatment in knee osteoarthritis.",0,0,N,0,0,0,0,N,N,N,N
+81,A recent systematic review summarised the findings of four randomised controlled trials investigating the effects of intra-articular corticosteroid injections in osteoarthritis.,0,0,N,0,0,0,0,N,N,N,N
+82,All trials investigated responses in knee osteoarthritis.,0,0,N,0,0,0,0,N,N,N,N
+83,"Jones and Doherty noted a mild improvement in visual analogue score at three weeks with steroid injection (methylprednisolone, 40 mg) compared with placebo.",0,0,N,0,0,0,0,N,N,N,N
+84,"In only two further trials were significant improvements in pain scores noted with steroid compared with placebo, and the improvement was only noted at one week after the injection.",0,0,N,0,0,0,0,N,N,N,N
+85,"In addition, the study by Friedman and Moore8 showed a marked placebo response similar to our own findings.",0,0,N,0,0,0,0,N,N,N,N
+86,In general the benefits of steroid injection appear to be short lived and at present it is difficult to identify any disease factors which may act as predictors of response.,0,0,N,0,0,0,0,N,N,N,N
+87,The presence of clinical signs of inflammation at a joint has been mentioned as one possible indicator of response to steroid injection.,0,0,N,0,0,0,0,N,N,N,N
+88,It seems likely that the role of inflammation in osteoarthritis varies both with location and with time interval.,0,0,N,0,0,0,0,N,N,N,N
+89,"In this study we did not find any significant change in the cardinal clinical features of joint inflammation—that is, joint stiffness or tenderness—with time.",0,0,N,0,0,0,0,N,N,N,N
+90,The radiographic features of osteoarthritis have been shown to influence the clinical response to steroid injection.,0,0,N,0,0,0,0,N,N,N,N
+91,Plant et al noted that hip joints with an atrophic pattern on plain radiography responded less favourably than those with a hypertrophic or mixed pattern.,0,0,N,0,0,0,0,N,N,N,N
+92,"Joint space narrowing did not, however, influence the analgesic response to steroid injection in hip osteoarthritis.",0,0,N,0,0,0,0,N,N,N,N
+93,Our cohort had radiographic evidence of moderately severe degenerative changes within the CMCJ on plain radiography and it is possible that this has been an important factor influencing response.,0,0,N,0,0,0,0,N,N,N,N
+94,There are various caveats to this study.,0,0,N,0,0,0,0,N,N,N,N
+95,"It was underpowered, which reflects the fact that patients with primary thumb base osteoarthritis are difficult to recruit for research projects.",0,0,N,0,0,0,0,N,N,N,N
+96,The trial was discontinued because of difficulties with recruitment.,0,0,N,0,0,0,0,N,N,N,N
+97,Patients in this category tend to have failed other forms of treatment available in the primary care environment and are usually at a moderately advanced stage of the disorder when they are referred to hospital specialists.,0,0,N,0,0,0,0,N,N,N,N
+98,"Most patients in this study had moderate to severe osteoarthritis, which may reflect their poor response to treatment.",0,0,N,0,0,0,0,N,N,N,N
+99,"Nevertheless, this is the first randomised controlled trial of this type of corticosteroid injection in hand osteoarthritis.",0,0,N,0,0,0,0,N,N,N,N
+100,"The patients were a homogeneous group with regard to their baseline characteristics, and accuracy of delivery of the injected substance was attained by radiographic guidance.",0,0,N,0,0,0,0,N,N,N,N
+101,In summary we found no benefit of steroid injection over placebo in moderate to severe osteoarthritis of the thumb base.,0,0,N,0,0,0,0,N,N,N,N
+102,Future research should concentrate on the clinical outcome following treatment delivered at the first presentation of pain within the primary care environment.,0,0,N,0,0,0,0,N,N,N,N

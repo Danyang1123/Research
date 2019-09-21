@@ -1,0 +1,195 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Background  Primary open-angle glaucoma (POAG) is one of the leading causes of blindness in the United States and worldwide.,0,0,0,0,N,N,0,0,0,0,N
+1,"Three to 6 million people in the United States are at increased risk for developing POAG because of elevated intraocular pressure (IOP), or ocular hypertension.",0,0,0,0,N,N,0,0,0,0,N
+2,There is no consensus on the efficacy of medical treatment in delaying or preventing the onset of POAG in individuals with elevated IOP.,0,0,0,0,N,N,0,0,0,0,N
+3,"Therefore, we designed a randomized clinical trial, the Ocular Hypertension Treatment Study.",0,0,0,0,N,N,0,0,0,0,N
+4,Objective  To determine the safety and efficacy of topical ocular hypotensive medication in delaying or preventing the onset of POAG.,0,0,0,0,N,N,0,0,0,0,N
+5,"Methods  A total of 1636 participants with no evidence of glaucomatous damage, aged 40 to 80 years, and with an IOP between 24 mm Hg and 32 mm Hg in one eye and between 21 mm Hg and 32 mm Hg in the other eye were randomized to either observation or treatment with commercially available topical ocular hypotensive medication.",0,0,0,0,N,N,0,0,0,0,N
+6,The goal in the medication group was to reduce the IOP by 20% or more and to reach an IOP of 24 mm Hg or less.,0,0,0,0,N,N,0,0,0,0,N
+7,Main Outcome Measures  The primary outcome was the development of reproducible visual field abnormality or reproducible optic disc deterioration attributed to POAG.,0,0,0,0,N,N,0,0,0,0,N
+8,"Abnormalities were determined by masked certified readers at the reading centers, and attribution to POAG was decided by the masked Endpoint Committee.",0,0,0,0,N,N,0,0,0,0,N
+9,"Results  During the course of the study, the mean ± SD reduction in IOP in the medication group was 22.5% ± 9.9%.",0,0,0,0,N,N,0,0,0,0,N
+10,The IOP declined by 4.0%± 11.6% in the observation group.,0,0,0,0,N,N,0,0,0,0,N
+11,"At 60 months, the cumulative probability of developing POAG was 4.4% in the medication group and 9.5% in the observation group (hazard ratio, 0.40; 95% confidence interval, 0.27-0.59; P<.0001).",0,0,0,0,N,N,0,0,0,0,N
+12,There was little evidence of increased systemic or ocular risk associated with ocular hypotensive medication.,0,0,0,0,N,N,0,0,0,0,N
+13,Conclusions  Topical ocular hypotensive medication was effective in delaying or preventing the onset of POAG in individuals with elevated IOP.,0,0,0,0,N,N,0,0,0,0,N
+14,"Although this does not imply that all patients with borderline or elevated IOP should receive medication, clinicians should consider initiating treatment for individuals with ocular hypertension who are at moderate or high risk for developing POAG.",0,0,0,0,N,N,0,0,0,0,N
+15,SURVEYS SHOW that glaucoma is among the leading causes of blindness in the United States and worldwide.,0,0,0,0,N,N,0,0,0,0,N
+16,It is estimated that more than 2.5 million people in the United States have glaucoma and that more than 130 000 people are legally blind from the disease.,0,0,0,0,N,N,0,0,0,0,N
+17,Population surveys indicate that less than 50% of those with glaucomatous visual field loss have received an appropriate diagnosis or treatment.,0,0,0,0,N,N,0,0,0,0,N
+18,Glaucoma is the leading cause of blindness in individuals of West African origin.,0,0,0,0,N,N,0,0,0,0,N
+19,"In the Baltimore Eye Survey, the age-adjusted prevalence rates of primary open-angle glaucoma (POAG) were 4 to 5 times higher in African Americans than in white individuals.",0,0,0,0,N,N,0,0,0,0,N
+20,"The prevalence ranged from 1.2% in African Americans between the ages of 40 and 49 years to 11.3% in those 80 years and older.11 Furthermore, the Barbados Eye Study found a high prevalence and incidence of glaucoma among black individuals in an Afro-Caribbean population.",0,0,0,0,N,N,0,0,0,0,N
+21,"It is estimated that 3 to 6 million people in the United States, including 4% to 7% of those older than 40 years, have elevated intraocular pressure(IOP) without detectable glaucomatous damage on standard clinical tests.",0,0,0,0,N,N,0,0,0,0,N
+22,These individuals are at increased risk for developing POAG and are sometimes referred to as ocular hypertensives or glaucoma suspects.,0,0,0,0,N,N,0,0,0,0,N
+23,Kerrigan-Baumrind et al reported that a substantial percentage of the optic nerve fibers are lost before glaucomatous visual field defects can be detected with routine perimetry.,0,0,0,0,N,N,0,0,0,0,N
+24,"The study of Kerrigan-Baumrind and colleagues, together with the high prevalence of glaucoma and the potentially serious consequences of this disease, could suggest the need for early detection and treatment.",0,0,0,0,N,N,0,0,0,0,N
+25,"However, there is no consensus on the efficacy of medical treatment in delaying or preventing the onset of POAG among individuals with elevated IOP.",0,0,0,0,N,N,0,0,0,0,N
+26,"Furthermore, it is unclear whether the benefits of treatment outweigh the potential risks of long-term ocular hypotensive medication use.",0,0,0,0,N,N,0,0,0,0,N
+27,"Therefore, the Ocular Hypertension Treatment Study (OHTS) was designed to evaluate the safety and efficacy of topical ocular hypotensive medication in delaying or preventing the onset of POAG in individuals with elevated IOP.",0,0,0,0,N,N,0,0,0,0,N
+28,"Eligibility criteria included age between 40 and 80 years, a qualifying IOP between 24 mm Hg and 32 mm Hg in one eye and between 21 mm Hg and 32 mm Hg in the other eye, gonioscopically open angles, 2 normal and reliable visual field tests per eye as determined by the Visual Field Reading Center, and normal optic discs seen at clinical examination and on stereoscopic photographs as determined by the Optic Disc Reading Center.",1,0,0,0,N,N,0,0,0,0,N
+29,"Exclusion criteria included a visual acuity worse than 20/40 in either eye, previous intraocular surgery(other than uncomplicated cataract extraction with posterior chamber lens implantation), and diabetic retinopathy or other diseases capable of causing visual field loss or optic disc deterioration.",1,0,0,0,N,N,0,0,0,0,N
+30,Both eyes of each participant had to meet eye-specific eligibility criteria.,1,0,0,0,N,N,0,0,0,0,N
+31,Participants signed a statement of informed consent approved by the institutional review board of each participating clinic.,0,0,0,0,N,N,0,0,0,0,N
+32,This study was conducted at 22 clinical centers; eligible individuals were randomized in equal proportion to either the medication group or observation group.,0,1,0,0,N,N,0,0,0,0,N
+33,Randomization assignments were released by the Coordinating Center during the participant's baseline visit.,0,0,1,0,N,N,0,0,0,0,N
+34,"The randomization unit was the individual, and randomization was performed using a permuted block design stratified by clinic and race.",0,0,1,0,N,N,0,0,0,0,N
+35,Neither the participant nor the clinician was masked to the randomization assignment during follow-up.,0,0,0,0,N,N,0,0,0,0,N
+36,"Participants randomized to medication began treatment to achieve a target IOP of 24 mm Hg or less and a minimum 20% reduction in IOP from the average of the qualifying IOP and IOP at the baseline randomization visit, except that an IOP of less than 18 mm Hg was not required.",0,0,0,0,N,N,0,0,0,0,N
+37,Topical medication was changed and/or added until both of these goals were met or the participant was receiving maximum-tolerated topical medical therapy.,0,0,0,0,N,N,0,0,0,0,N
+38,Medications were added and changed in one-eyed therapeutic trials.,0,0,0,0,N,N,0,0,0,0,N
+39,"Drugs were distributed to clinics from the study's central pharmacy, which included all topical ocular hypotensive medications commercially available in the United States.",0,0,0,0,N,N,0,0,0,0,N
+40,"As new medications became commercially available, they were added to the study formulary.",0,0,0,0,N,N,0,0,0,0,N
+41,Follow-up visits were scheduled every 6 months from the date of randomization.,0,0,0,0,N,N,0,0,0,0,N
+42,"Each semiannual examination included an ocular and medical history, refraction, best-corrected visual acuity, full-threshold Humphrey white-on-white 30-2 visual field tests, slitlamp examination, IOP measurement, and direct ophthalmoscopy.",0,0,0,0,N,N,0,0,0,0,N
+43,Additional evaluations at annual visits included a dilated fundus examination and stereoscopic optic disc photographs.,0,0,0,0,N,N,0,0,0,0,N
+44,Information on adverse effects was collected using diverse sources of information.,0,0,0,0,N,N,0,0,0,0,N
+45,"Prior to each examination, the participants completed the Glaucoma Symptom Scale, a checklist of 13 ocular symptoms and 15 systemic symptoms.",0,0,0,0,N,N,0,0,0,0,N
+46,"They rated the ""bothersomeness"" of symptoms on a scale of 1 to 4: from 1, ""not at all,"" to 4, ""a lot.""",0,0,0,0,N,N,0,0,0,0,N
+47,"At annual visits, participants completed the Medical Outcomes Study Short Form (SF-36), a survey of 36 questions designed to measure health-related quality of life.",0,0,0,0,N,N,0,0,0,0,N
+48,"At each visit, clinic staff recorded medical and ocular history and completed an adverse-event form when a new health problem was diagnosed, an existing medical condition worsened, an inpatient hospitalization had occurred, or surgery had been required.",0,0,0,0,N,N,0,0,0,0,N
+49,Clinic staff recorded the organ system affected and determined the severity of the condition.,0,0,0,0,N,N,0,0,0,0,N
+50,Clinicians judged whether the event was related to the study medication.,0,0,0,0,N,N,0,0,0,0,N
+51,"Serious adverse events were defined as death, cancer or other life-threatening conditions, inpatient hospitalization, prolongation of hospitalization, or outpatient hospitalization for an incapacitating condition.",0,0,0,0,N,N,0,0,0,0,N
+52,Clinic personnel obtained hospital discharge summaries and death certificates.,0,0,0,0,N,N,0,0,0,0,N
+53,"In January 1997, the OHTS protocol for reporting adverse events was made more rigorous because of large clinic-to-clinic variation in the completion of the adverse-event forms.",0,0,0,0,N,N,0,0,0,0,N
+54,"Therefore, data from the adverse-event forms are reported from January 1997 to the present.",0,0,0,0,N,N,0,0,0,0,N
+55,Primary outcome and monitoring,0,0,0,0,N,N,0,0,0,0,N
+56,The primary outcome was the development of POAG in one or both eyes.,0,0,0,0,N,N,0,0,0,0,N
+57,This was defined as reproducible visual field abnormality or reproducible clinically significant optic disc deterioration attributed to POAG by the masked Endpoint Committee.,0,0,0,0,N,N,1,0,0,0,N
+58,Development of visual field abnormality was determined by masked certified readers at the Visual Field Reading Center.,0,0,0,0,N,N,0,0,0,0,N
+59,"A technically acceptable visual field was considered abnormal if P<.05 for the corrected pattern standard deviation or if the glaucoma hemifield test result was outside normal limits according to StatPac 2 statistical software (StatPac Inc, Minneapolis, Minn).",0,0,0,0,N,N,0,0,0,0,N
+60,"Because most abnormal visual fields were found to be normal when retested, the protocol was changed (effective June 1, 1997) so that an endpoint required 3 consecutive abnormal results on visual field tests with the same type, location, and index of abnormality.",0,0,0,0,N,N,0,0,0,0,N
+61,"If a visual field test was judged to be abnormal, the test was repeated at the next visit approximately 6 months later.",0,0,0,0,N,N,0,0,0,0,N
+62,"If the second visual field test was judged to be abnormal, a third visual field test was performed 1 day to 8 weeks later.",0,0,0,0,N,N,0,0,0,0,N
+63,"If 3 consecutive visual field tests met the criteria for abnormality, the Visual Field Reading Center initiated the endpoint review process.",0,0,0,0,N,N,0,0,0,0,N
+64,Additional details about the process of reviewing visual fields were provided in a previously published article.,0,0,0,0,N,N,0,0,0,0,N
+65,Optic disc deterioration was determined by masked certified readers at the Optic Disc Reading Center.,0,0,0,0,N,N,0,0,0,0,N
+66,Optic disc deterioration was defined as a generalized or localized thinning of the neuroretinal rim compared with baseline stereoscopic optic disc photographs in side-by-side comparisons.,0,0,0,0,N,N,0,0,0,0,N
+67,The readers were masked as to which set of photographs was taken at baseline and which set was taken at a follow-up visit.,0,0,0,0,N,N,0,0,0,0,N
+68,"If 1 or both readers in the Optic Disc Reading Center detected a difference between the baseline and follow-up photographs, the photographs were reviewed in a masked fashion by a senior reader.",0,0,0,0,N,N,0,0,0,0,N
+69,"If the senior reader agreed that deterioration had occurred, the Optic Disc Reading Center requested that the affected eye be rephotographed to confirm the change.",0,0,0,0,N,N,0,0,0,0,N
+70,"If readers masked to the result of the first comparison confirmed the deterioration in the second set of photographs, the Optic Disc Reading Center initiated the endpoint review process.",0,0,0,0,N,N,0,0,0,0,N
+71,"The classification of progression in a quality control sample of 86 eyes (50 normal eyes and 36 with progression) showed test-retest agreement at κ = 0.70 (95% confidence interval [CI], 0.55-0.85).",0,0,0,0,N,N,0,0,0,0,N
+72,Additional details about the process of reviewing optic disc photographs were provided in a previously published article.,0,0,0,0,N,N,0,0,0,0,N
+73,The purpose of the endpoint review process was to distinguish glaucomatous optic nerve and visual field changes from changes due to other causes.,0,0,0,0,N,N,0,0,0,0,N
+74,The members of the Endpoint Committee were masked to the randomization assignments of the study participants.,0,0,0,0,N,N,0,0,0,0,N
+75,"Each member of the Committee independently reviewed the participant's ocular and medical history, visual fields, and stereoscopic optic disc photographs of both eyes from baseline to the date of review.",0,0,0,0,N,N,0,0,0,0,N
+76,The Endpoint Committee determined whether visual field changes were due to POAG and whether optic disc deterioration was clinically significant and resulted from POAG.,0,0,0,0,N,N,0,0,0,0,N
+77,(Examples of clinically significant optic disc deterioration appear on the World Wide Web at http://www.vrcc.wustl.edu.),0,0,0,0,N,N,0,0,0,0,N
+78,Barely detectable changes in optic discs were not considered POAG endpoints in the OHTS.,0,0,0,0,N,N,0,0,0,0,N
+79,Participants classified as developing POAG continued to receive follow-up with regularly scheduled visits and tests.,0,0,0,0,N,N,0,0,0,0,N
+80,Observation participants who reached a POAG endpoint were prescribed medication.,0,0,0,0,N,N,0,0,0,0,N
+81,"Medication participants who reached a POAG endpoint received increased glaucoma therapy, including argon laser trabeculoplasty and trabeculectomy, at the discretion of the treating clinician.",0,0,0,0,N,N,0,0,0,0,N
+82,"The Data and Safety Monitoring Committee met twice yearly to review the conduct of the trial, including the safety and efficacy of medication.",0,0,0,0,N,N,0,0,0,0,N
+83,The Committee approved all protocol changes.,0,0,0,0,N,N,0,0,0,0,N
+84,The target sample size of 1500 participants (750 participants per group) was selected to provide 90% power to detect a 40% reduction in the 5-year incidence of POAG (15% incidence in the observation group and 9% incidence in the medication group) with a 2-sided error at α = .05.,0,0,0,0,N,N,0,0,0,0,N
+85,The sample size allowed for a 15% loss to follow-up and a 10% crossover between randomization groups.,0,0,0,0,N,N,0,0,0,0,N
+86,"Because of the importance of glaucoma in the African American community, we set a goal of enrolling 400 African Americans among the 1500 participants.",0,0,0,0,N,N,0,0,0,0,N
+87,Recruitment was expected to take 24 months.,0,0,0,0,N,N,0,0,0,0,N
+88,All comparisons of randomization groups were made on an intention-to-treat basis.,0,0,0,0,N,N,0,0,1,0,N
+89,"For the purposes of the primary analysis, the number of days to the onset of POAG was determined by the date of the first abnormal finding that was subsequently confirmed and attributed to POAG.",0,0,0,0,N,N,0,0,0,0,N
+90,The primary hypothesis was tested using the Mantel-Haenszel log-rank test to compare the cumulative probability of developing POAG in each randomization group.,0,0,0,0,N,N,0,0,0,0,N
+91,"Cox proportional hazards models were used to estimate hazard ratios for POAG, adjusting for the influence of baseline factors.",0,0,0,0,N,N,0,0,0,0,N
+92,"Analyses were performed with SAS statistical software, version 8.1 (SAS Institute Inc, Cary, NC).",0,0,0,0,N,N,0,0,0,0,N
+93,"To adjust for multiple interim tests of the primary hypothesis, we calculated symmetric O'Brien-Fleming sequential log-rank boundaries using the α-spending function of Lan and DeMets.",0,0,0,0,N,N,0,0,0,0,N
+94,"The Data and Safety Monitoring Committee approved the termination of the trial when the last randomized participant reached 5 years of follow-up, as specified in the original protocol.",0,0,0,0,N,N,0,0,0,0,N
+95,"This article includes data through November 8, 2001.",0,0,0,0,N,N,0,0,0,0,N
+96,Recruitment and baseline characteristics of participants,0,0,0,0,N,N,0,0,0,0,N
+97,Recruitment was extended from 24 months to 30 months to achieve an enrollment of 400 African American participants.,0,0,0,0,N,N,0,0,0,0,N
+98,"Between February 28, 1994, and October 31, 1996, 3328 individuals were considered for study enrollment, and 1636 individuals with documented informed consent were randomized as follows: 817 were assigned to receive topical ocular hypotensive medication, and 819 were assigned to observation.",0,0,0,0,N,N,0,0,0,0,N
+99,"A total of 1692 people were not eligible for randomization for a variety of reasons including an IOP outside the specified range, abnormal or unreliable visual field test results, poor visual acuity, optic disc abnormalities, the inability to obtain clear photographs, and refusal to participate.",0,0,0,0,N,N,0,0,0,0,N
+100,A flowchart shows the progress of participants during the study (Figure 1).,0,0,0,0,N,N,0,0,0,0,N
+101,"No statistically significant differences in demographic or clinical factors were found between the 2 randomized groups at baseline (for all comparisons, P>.05) (Table 1).",0,0,0,1,N,N,0,0,0,0,N
+102,Additional details on the randomized participants were provided in a previously published article.,0,0,0,0,N,N,0,0,0,0,N
+103,The median duration of follow-up was 72 months for African American participants and 78 months for other participants.,0,0,0,0,N,N,0,0,0,0,N
+104,"Of the expected follow-up visits, 90% were completed during the study, and the visit completion rate did not differ by randomization group.",0,0,0,0,N,N,0,1,0,0,N
+105,The visit completion rate was 86.6% for African Americans and 91.4% for other participants (P<.001).,0,0,0,0,N,N,0,1,0,0,N
+106,"Technically acceptable visual field test results and stereoscopic optic disc photographs were obtained at 99% and 96%, respectively, of the specified completed follow-up visits and did not differ by randomization group.",0,0,0,0,N,N,0,0,0,0,N
+107,The numbers of participants completing each follow-up visit are shown at the bottom of Figure 2.,0,0,0,0,N,N,0,0,0,0,N
+108,Forty participants in the medication group (4.9%) were withdrawn from medication or chose to stop medication for 6 months or more during the study.,0,0,0,0,N,N,0,0,0,0,N
+109,Fifteen of these individuals eventually resumed treatment.,0,0,0,0,N,N,0,0,0,0,N
+110,Forty-two participants in the observation group (5.1%) received topical ocular hypotensive medication for 6 months or more during the study.,0,0,0,0,N,N,0,0,0,0,N
+111,"In most cases, treatment was initiated by the OHTS clinician because of concern about the participant's high IOP.",0,0,0,0,N,N,0,0,0,0,N
+112,Three of these individuals eventually stopped treatment.,0,0,0,0,N,N,0,0,0,0,N
+113,The baseline and follow-up IOP for the medication group and observation group are reported by race in Table 2.,0,0,0,0,N,N,0,0,0,0,N
+114,The distribution of IOP at baseline and follow-up for the medication and observation groups is shown in Figure 2.,0,0,0,0,N,N,0,0,0,0,N
+115,The IOP goal was met in both eyes at 87% (7515 of 8621) and in one eye at 7% (613 of 8621) of the scheduled follow-up visits completed by medication participants.,0,0,0,0,N,N,0,0,0,0,N
+116,Figure 3 shows the percentage of participants who were prescribed each class of topical ocular hypotensive medication at each follow-up visit.,0,0,0,0,N,N,0,0,0,0,N
+117,"At 60 months, 2 or more topical medications were prescribed for 39.7% (259 of 653) of the medication participants, and 3 or more medications were prescribed for 9.3% (61 of 653) of participants in this group.",0,0,0,0,N,N,0,0,0,0,N
+118,"At 60 months, 44.5% (65 of 146) of African American participants in the medication group were prescribed multiple medications, compared with 38.3% (194 of 507) of the other medication participants.",0,0,0,0,N,N,0,0,0,0,N
+119,"Table 3 reports the progress and outcome of randomized participants, unadjusted for follow-up time.",0,0,0,0,N,N,0,0,0,0,N
+120,"In the medication group, 36 of the 817 randomized participants developed POAG compared with 89 of 819 randomized participants in the observation group.",0,0,0,0,N,N,0,0,0,0,N
+121,The first POAG endpoint for each participant is reported in Table 4.,0,0,0,0,N,N,0,0,0,0,N
+122,"At 60 months, the cumulative probability of developing POAG was 4.4% in the medication group and 9.5% in the observation group.",0,0,0,0,N,N,0,0,0,0,N
+123,"During the course of the entire study, the cumulative probability of developing POAG was significantly lower in the medication group compared with the observation group (hazard ratio, 0.40; 95% CI, 0.27-0.59; Mantel-Haenszel log-rank test; P<.0001) (Figure 4).",0,0,0,0,N,N,0,0,0,1,N
+124,"The estimate of the effect of treatment was not substantially altered after adjusting for baseline age, visual field pattern standard deviation, vertical cup-disc ratio, IOP, and corneal thickness, which was measured after randomization(hazard ratio, 0.34; 95% CI, 0.23-0.51).",0,0,0,0,N,N,0,0,0,0,N
+125,"A treatment benefit was observed for reproducible visual field abnormality attributed to POAG (hazard ratio, 0.45; 95% CI, 0.27-0.76; P = .002) and for reproducible optic disc deterioration attributed to POAG (hazard ratio, 0.36; 95% CI, 0.23-0.56; P<.0001).",0,0,0,0,N,N,0,0,0,0,N
+126,"There was a trend for treatment to be less protective among self-identified African American participants (hazard ratio, 0.54; 95% CI, 0.28-1.03) compared with the other participants in the trial (hazard ratio, 0.34; 95% CI, 0.21-0.56), although this difference was not statistically significant (P = .26).",0,0,0,0,N,N,0,0,0,0,N
+127,"Primary open-angle glaucoma developed in 14 (6.9%) of 203 African American participants in the medication group and 26 (12.7%) of 205 African Americans in the observation group, compared with 22 (3.6%) of 614 other medication participants and 63 (10.2%) of 614 other observation participants.",0,0,0,0,N,N,0,0,0,0,N
+128,"A total of 218 participants (137 participants in the observation group and 81 participants in the medication group) developed reproducible visual field abnormality or reproducible optic disc deterioration due to POAG or a variety of other causes including trauma, stroke, branch retinal vein occlusion, macular degeneration, and testing artifact.",0,0,0,0,N,N,0,0,0,0,N
+129,"The cumulative probability of developing a reproducible abnormality from any cause was statistically significantly lower in the medication group than in the observation group (hazard ratio, 0.58; 95% CI, 0.44-0.76; P = .00008).",0,0,0,0,N,N,0,0,0,0,N
+130,"To ascertain the safety of treatment, the medication and observation groups were compared for participant self-report of symptoms (Glaucoma Symptom Scale and SF-36) and for medical and ocular history (new conditions, worsening of existing conditions, hospitalization, prolongation of hospitalization, or death) as collected by clinic staff during the course of the study.",0,0,0,0,N,N,0,0,0,0,N
+131,The following P values are unadjusted for multiple comparisons between groups.,0,0,0,0,N,N,0,0,0,0,N
+132,"In the self-administered surveys, there was no evidence that the medication group had increased ocular or systemic symptoms compared with the observation group (Figure 5).",0,0,0,0,N,N,0,0,0,0,N
+133,"In the medical and ocular histories collected by clinic staff, a higher percentage of participants in the medication group, compared with the observation group, reported ocular symptoms (57% vs 47%; P<.001) or symptoms affecting the skin, hair, or nails (23% vs 18%; P<.001).",0,0,0,0,N,N,0,0,0,0,N
+134,"The most common symptoms affecting the eyes were dryness, tearing, and itching.",0,0,0,0,N,N,0,0,0,0,N
+135,"Changes in iris color, darkening of the eyelids, and growth of eyelashes occurred in 17% (65 of 380) of the medication participants who were prescribed a prostaglandin analogue for 6 months or longer, compared with 7.6% (48 of 631) of the participants in the observation group (P<.001).",0,0,0,0,N,N,0,0,0,0,N
+136,"There was no difference between randomization groups in total hospitalizations (P = .56), worsening of preexisting conditions (P = .28), or mortality rates (P = .70).",0,0,0,0,N,N,0,0,0,0,N
+137,There was no difference between groups in visual acuity throughout the study (P>.05 at all follow-up periods).,0,0,0,0,N,N,0,0,0,0,N
+138,There was a slight excess of cataract surgery in the medication group: 6.4% (52 of 806) of participants compared with 4.3%(35 of 813) of participants in the observation group (P = .06).,0,0,0,0,N,N,0,0,0,0,N
+139,Clinic staff recorded serious psychiatric adverse events in 1.5% (12 of 800) of the medication participants compared with 0.5% (4 of 802) of the observation participants (P = .05).,0,0,0,0,N,N,0,0,0,0,N
+140,"Clinicians judged none of the 12 serious psychiatric adverse events in the medication group to be ""probably"" or ""definitely"" related to the study medication.",0,0,0,0,N,N,0,0,0,0,N
+141,Clinic staff recorded serious genitourinary adverse events in 5.5% (44 of 800) of the medication participants compared with 3.4% (27 of 802) of the observation participants(P = .04).,0,0,0,0,N,N,0,0,0,0,N
+142,"Clinicians judged none of the 44 serious genitourinary adverse events in the medication group to be ""probably"" or ""definitely"" related to the study medication.",0,0,0,0,N,N,0,0,0,0,N
+143,These differences were not statistically significant when corrected for multiple comparisons.,0,0,0,0,N,N,0,0,0,0,N
+144,"No differences between randomization groups were found in the rates of serious adverse events for the 11 other organ systems inventoried, including ocular events or those related to the skin, hair, or nails (P>.05).",0,0,0,0,N,N,0,0,0,0,N
+145,The OHTS has shown that topical ocular hypotensive medication is effective in reducing the incidence of glaucomatous visual field loss and/or optic nerve deterioration in individuals with elevated IOP between 24 mm Hg and 32 mm Hg.,0,0,0,0,N,N,0,0,0,0,N
+146,The mean ± SD baseline IOP of all participants was 24.9 ± 2.7 mm Hg with no difference between randomization groups.,0,0,0,0,N,N,0,0,0,0,N
+147,Individuals were randomized either to observation or to receive topical ocular hypotensive medication.,0,0,0,0,N,N,0,0,0,0,N
+148,The goal of treatment was to reduce the IOP by 20% or more and to reach an IOP of 24 mm Hg or less.,0,0,0,0,N,N,0,0,0,0,N
+149,"In the medication group, the mean ± SD reduction in IOP during the follow-up period was 22.5% ± 9.9%.",0,0,0,0,N,N,0,0,0,0,N
+150,The IOP declined by 4.0% ± 11.6% in the observation group.,0,0,0,0,N,N,0,0,0,0,N
+151,Randomization groups had similar baseline demographic and clinical characteristics as well as similar rates of visit completion and outcome ascertainment throughout follow-up.,0,0,0,0,N,N,0,0,0,0,N
+152,The rate of adherence to randomization assignment was high and did not differ by group.,0,0,0,0,N,N,0,0,0,0,N
+153,"To our knowledge, the OHTS is the largest randomized trial to date of the safety and efficacy of ocular hypotensive medication in delaying or preventing the onset of POAG in individuals with ocular hypertension.",0,0,0,0,N,N,0,0,0,0,N
+154,"At 60 months, the cumulative probability of developing POAG was 4.4% in the medication group and 9.5% in the observation group.",0,0,0,0,N,N,0,0,0,0,N
+155,It is difficult to compare the incidence of POAG in this study with that in many previous publications because the incidence rate reflects both study-specific eligibility criteria and endpoint criteria.,0,0,0,0,N,N,0,0,0,0,N
+156,The OHTS used strict entry criteria and included generally healthy volunteers.,0,0,0,0,N,N,0,0,0,0,N
+157,"In addition, stringent endpoint criteria included only reproducible visual field abnormality and optic disc deterioration attributable to POAG.",0,0,0,0,N,N,0,0,0,0,N
+158,The OHTS used quality control criteria for certifying and monitoring visual field technicians and photographers.,0,0,0,0,N,N,0,0,0,0,N
+159,Criteria for POAG were made more stringent during the course of the study.,0,0,0,0,N,N,0,0,0,0,N
+160,The number of consecutive abnormal visual field test results required to confirm an abnormality was increased from 2 to 3.,0,0,0,0,N,N,0,0,0,0,N
+161,"In addition, the criterion for optic disc deterioration was increased from a ""barely detectable difference"" to a ""clinically significant change"" in the optic disc neuroretinal rim.",0,0,0,0,N,N,0,0,0,0,N
+162,"Because glaucoma is the leading cause of blindness in African Americans, recruitment was extended to ensure that 25% of the sample was of African American origin.",0,0,0,0,N,N,0,0,0,0,N
+163,"Although there was a trend for the treatment benefit to be lower in African Americans than for other participants, the median follow-up time for African American participants was 6 months shorter.",0,0,0,0,N,N,0,0,0,0,N
+164,"It is therefore possible that the treatment response would be more similar with additional follow-up, particularly because the baseline and follow-up IOP in the observation and medication groups did not differ by race.",0,0,0,0,N,N,0,0,0,0,N
+165,Topical ocular hypotensive medication reduced the incidence of both glaucomatous visual field abnormality and optic disc deterioration.,0,0,0,0,N,N,0,0,0,0,N
+166,Approximately 55% (69 of 125) of the initial POAG endpoints involved optic disc deterioration in the absence of visual field abnormalities meeting study criteria for a visual field endpoint.,0,0,0,0,N,N,0,0,0,0,N
+167,"With longer follow-up, we will be able to report how many of the individuals with optic disc deterioration eventually develop visual field loss.",0,0,0,0,N,N,0,0,0,0,N
+168,Previous randomized trials on the efficacy of ocular hypotensive medication in delaying or preventing the onset of POAG were divided between those that demonstrated a treatment benefit and those that did not.,0,0,0,0,N,N,0,0,0,0,N
+169,"However, many of these trials had relatively small sample sizes, short follow-up, and a less sensitive assessment of visual fields.",0,0,0,0,N,N,0,0,0,0,N
+170,Most previous trials did not evaluate structural changes in the optic disc as a glaucoma outcome.,0,0,0,0,N,N,0,0,0,0,N
+171,"In addition, most trials used only 1 drug, so treatment efficacy was reduced by drug specific nonresponsiveness and medication intolerance.",0,0,0,0,N,N,0,0,0,0,N
+172,The OHTS demonstrated that moderate IOP reductions could be attained and maintained during a median follow-up period of 72 months.,0,0,0,0,N,N,0,0,0,0,N
+173,"The treatment target was an IOP of 24 mm Hg or less and a 20% reduction from the average of the qualifying and baseline IOP, but not necessarily a reduction to less than 18 mm Hg.",0,0,0,0,N,N,0,0,0,0,N
+174,"These treatment objectives reflect common clinical practice, but no assumption was made that these IOP levels were ideal for each participant.",0,0,0,0,N,N,0,0,0,0,N
+175,"During the course of the trial, 87% of the medication participants achieved this IOP target reduction in both eyes, and an additional 7% did so in one eye.",0,0,0,0,N,N,0,0,0,0,N
+176,The use of all commercially available topical ocular hypotensive medications prescribed singly or in combination allowed a high proportion of participants to reach their IOP target.,0,0,0,0,N,N,0,0,0,0,N
+177,We monitored the safety of treatment through diverse sources of information.,0,0,0,0,N,N,0,0,0,0,N
+178,"Throughout the study, there was no evidence of excess risk in the medication group for participant-reported symptoms according to the Glaucoma Symptom Scale or SF-36.",0,0,0,0,N,N,0,0,0,0,N
+179,The medication group had a similar mean visual acuity to the observation group throughout the study.,0,0,0,0,N,N,0,0,0,0,N
+180,"There was no evidence of excess risk in the medication group for the overall number of new medical conditions, worsening of preexisting conditions, hospitalizations, or mortality.",0,0,0,0,N,N,0,0,0,0,N
+181,We noted a possible excess of serious psychiatric and genitourinary adverse events and cataract surgery in the medication participants.,0,0,0,0,N,N,0,0,0,0,N
+182,It is unclear whether these few differences are real or a chance occurrence resulting from the large number of comparisons made between the randomization groups.,0,0,0,0,N,N,0,0,0,0,N
+183,"Although the differences between randomization groups were not statistically significant after correcting for multiple comparisons, these findings warrant further study.",0,0,0,0,N,N,0,0,0,0,N
+184,"The use of ocular hypotensive medication may cause more adverse effects in routine practice than reported in this article because the OHTS sample consists of relatively healthy volunteers, with a mean age younger than 60 years, who may be less susceptible to the adverse effects of topical hypotensive medication.",0,0,0,0,N,N,0,0,0,0,N
+185,"The safety experience reported in the OHTS implies the safety of the treatment protocol, not of particular medications.",0,0,0,0,N,N,0,0,0,0,N
+186,The recent availability of many different types of ocular hypotensive medications should allow clinicians to choose a safe regimen for most patients.,0,0,0,0,N,N,0,0,0,0,N
+187,The results of the OHTS do not imply that all individuals with elevated IOP should be treated with ocular hypotensive medication.,0,0,0,0,N,N,0,0,0,0,N
+188,"The decision to recommend treatment should involve many factors, such as (1) the low overall incidence of POAG among individuals with ocular hypertension in population-based studies and this study; (2) the burden of long-term treatment, including possible adverse effects, cost, and inconvenience; (3) the individual's risk of developing POAG; (4) the individual's likelihood of being helped by treatment; and (5) the individual's health status and life expectancy.",0,0,0,0,N,N,0,0,0,0,N
+189,"In our companion article, we report baseline factors that predict which participants in the OHTS developed POAG.",0,0,0,0,N,N,0,0,0,0,N
+190,These factors may be useful to a clinician caring for a patient with ocular hypertension.,0,0,0,0,N,N,0,0,0,0,N
+191,"For years, ophthalmologists and health policy experts have discussed the lack of data on whether lowering the IOP is useful in POAG.",0,0,0,0,N,N,0,0,0,0,N
+192,The OHTS provides clear proof of the benefit of lowering the IOP.,0,0,0,0,N,N,0,0,0,0,N
+193,"Taken with results from the Normal-Tension Glaucoma Study and the Advanced Glaucoma Intervention Study, there is now strong evidence that lowering the IOP preserves vision in POAG.",0,0,0,0,N,N,0,0,0,0,N

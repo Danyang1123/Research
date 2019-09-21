@@ -1,0 +1,227 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,The sensory and motor systems can reorganise following injury and learning of new motor skills.,0,0,0,N,N,N,0,N,N,N,N
+1,"Recently we observed adaptive changes in motor cortical organisation in patients with recurrent low back pain (LBP), which are linked to altered motor coordination.",0,0,0,N,N,N,0,N,N,N,N
+2,"Although changes in motor coordination can be trained and are associated with improved symptoms and function, it remains unclear whether these training‐induced changes are related to reorganisation of the motor cortex.",0,0,0,N,N,N,0,N,N,N,N
+3,"This was investigated using the model of a delay in postural activation of the deep abdominal muscle, transversus abdominis (TrA) in 20 individuals with recurrent LBP.",0,0,0,N,N,N,0,N,N,N,N
+4,"Subjects were allocated to either motor skill training that involved isolated voluntary contractions of TrA, or a control intervention of self‐paced walking exercise for 2 weeks.",0,0,1,N,N,N,0,N,N,N,N
+5,Electromyographic (EMG) activity was recorded from TrA bilaterally using intramuscular fine‐wire electrodes.,0,0,0,N,N,N,0,N,N,N,N
+6,Motor cortical organisation using transcranial magnetic stimulation (TMS) and postural activation associated with single rapid arm movements were investigated before and after training.,0,0,0,N,N,N,0,N,N,N,N
+7,"Motor skill training induced an anterior and medial shift in motor cortical representation of TrA, towards that observed in healthy individuals from our previous study.",0,0,0,N,N,N,0,N,N,N,N
+8,This shift was associated with earlier postural activation of TrA.,0,0,0,N,N,N,0,N,N,N,N
+9,Changes were not observed following unskilled walking exercise.,0,0,1,N,N,N,0,N,N,N,N
+10,This is the first observation that motor training can reverse reorganisation of neuronal networks of the motor cortex in people with recurrent pain.,0,0,0,N,N,N,0,N,N,N,N
+11,The observed relationship between cortical reorganisation and changes in motor coordination following motor training provides unique insight into potential mechanisms that underlie recovery.,0,0,0,N,N,N,0,N,N,N,N
+12,Motor coordination is consistently changed in chronic or recurrent musculoskeletal pain syndromes including low back pain and anterior knee pain .,0,0,0,N,N,N,0,N,N,N,N
+13,Failure of such changes to resolve after a pain episode is implicated in recurrence of pain and disability.,0,0,0,N,N,N,0,N,N,N,N
+14,Motor training to address changes in motor coordination is recommended.,0,0,0,N,N,N,0,N,N,N,N
+15,A common approach at the early stages of rehabilitation involves practice of skilled voluntary activation of muscle(s) with altered coordination .,0,0,0,N,N,N,0,N,N,N,N
+16,"This training approach reduces pain, disability and recurrence rates for numerous musculoskeletal conditions, and restores motor coordination, including that during automatic postural adjustments associated with challenges to body posture.",0,0,0,N,N,N,0,N,N,N,N
+17,(2003) showed improved postural activation of the quadriceps muscles in patients with anterior knee pain.,0,0,0,N,N,N,0,N,N,N,N
+18,We have reported immediate  and maintainedimprovements in temporal control of deep trunk muscle activity that normally preceded limb movements in recurrent LBP.,0,0,0,N,N,N,0,N,N,N,N
+19,"However, the neural substrates for training‐induced changes in automatic postural strategies remain unclear.",0,0,0,N,N,N,0,N,N,N,N
+20,Postural control involves neuronal networks at many supraspinal and spinal regions .,0,0,0,N,N,N,0,N,N,N,N
+21,"However, evidence suggests that the motor cortex, which is typically involved in volitional movements, is critical in control of associated postural motor behavior.",0,0,0,N,N,N,0,N,N,N,N
+22,"For instance, Gahéry and Nieoullon (1978) induced forelimb flexion in standing cats by electrical stimulation of the motor cortex and observed simultaneous activation of the contralateral supporting limb to prepare for postural disturbances.",0,0,0,N,N,N,0,N,N,N,N
+23,"Further, postural adjustments are reduced when the motor cortex is inhibited by subthreshold magnetic stimulation , and lesions to the motor cortex can disrupt postural control .",0,0,0,N,N,N,0,N,N,N,N
+24,"Recently, we observed a posterolateral shift in motor cortical representation of the deep abdominal muscle, transversus abdominis (TrA) in a recurrent LBP population .",0,0,0,N,N,N,0,N,N,N,N
+25,"The extent of this shift was related to magnitude of the delay in postural activation of TrA, which is a common change in this patient group.",1,0,0,N,N,N,0,N,N,N,N
+26,Can these adaptive cortical changes be re‐trained and can this explain the motor recovery?,0,0,0,N,N,N,0,N,N,N,N
+27,The adult motor cortex has the capacity for plastic change with training.,0,0,0,N,N,N,0,N,N,N,N
+28,Motor training reorganises residual motor areas and improves motor function following neurological lesions.,0,0,0,N,N,N,0,N,N,N,N
+29,"In healthy individuals, a muscle's representation in the motor cortex changes following repeated voluntary contractions.",0,0,0,N,N,N,0,N,N,N,N
+30,"However, these cortical changes were not associated with training‐induced changes in motor performance.",0,0,0,N,N,N,0,N,N,N,N
+31,Whether motor cortical reorganisation associated with training leads to any meaningful change in motor behavior remains unknown.,0,0,0,N,N,N,0,N,N,N,N
+32,Using the delay in postural activation of TrA in recurrent LBP as an example system the study examined whether motor training can induce changes in motor cortical organisation.,0,0,0,N,N,N,0,N,N,N,N
+33,"Furthermore, we investigated whether such changes, if present, are associated with changes in postural activation of the trained muscles.",0,0,0,N,N,N,0,N,N,N,N
+34,"Twenty right‐handed volunteers with sustained non‐specific LBP for at least 3 months, or episodic non‐specific LBP (at least two episodes of LBP within 6 months, with each episode lasting at least 3 days) were recruited.",1,0,0,N,N,N,0,N,N,N,N
+35,The pain must be of sufficient intensity to have limited activities of daily living.,1,0,0,N,N,N,0,N,N,N,N
+36,"This group was selected as previous studies showed consistent delays in activation of TrA and reorganisation of the motor cortex (Tsao et al., 2008b).",1,0,0,N,N,N,0,N,N,N,N
+37,Subjects attended two testing sessions: one before and one after 2 weeks of motor training intervention.,0,0,1,N,N,N,0,N,N,N,N
+38,"A power calculation using data from a previous study suggested that 10 subjects were needed to give a power of 80% to detect a 70% shift (i.e., greater than 1 SD from mean) in motor cortical representation (0.3 cm medially and 0.7 cm anteriorly) towards that observed in healthy individuals at the 0.05 significance level.",0,0,0,N,N,N,0,N,N,N,N
+39,"Patients were to be able to tolerate sitting for the duration of the experiment to avoid aggravation of symptoms during the experimental procedures, but no subjects needed to be excluded based on this criterion.",0,0,0,N,N,N,0,N,N,N,N
+40,"Subjects were excluded if they had any major orthopedic, neurological, circulatory or respiratory conditions, a history or family history of epilepsy, recent or current pregnancies, previous surgery to the abdomen or back, or if they had undertaken any form of abdominal or back exercises in the preceding 12 months.",0,0,0,N,N,N,0,N,N,N,N
+41,Subjects were also excluded if they had any previous surgical intervention for their LBP.,0,0,0,N,N,N,1,N,N,N,N
+42,Flow chart of subject screening and experimental protocol.,0,0,0,N,N,N,0,N,N,N,N
+43,"Following informed consent, subjects were randomized via cards concealed in consecutive opaque envelopes to 2 weeks of either skilled training or walking exercise.",0,1,1,N,N,N,0,N,N,N,N
+44,"Prior to participation in the study, four subjects in the skilled training group and two subjects in the walking exercise group reported the use of analgesic and/or anti‐inflammatory medication in the preceding 6 months for the management of LBP.",0,0,0,N,N,N,0,N,N,N,N
+45,"However, no subject reported the use of any medication during the 2 weeks of motor training.",0,0,0,N,N,N,0,N,N,N,N
+46,The Institutional Medical Research Ethics Committee approved the study and all procedures conformed to the Declaration of Helsinki.,0,0,0,N,N,N,0,N,N,N,N
+47,Subject demographics (mean ± SD).,0,0,0,N,N,N,0,N,N,N,N
+48,Note a reduction in pain visual analogue scale (VAS) scores for the skilled training group (*p < 0.05).,0,0,0,N,N,N,0,N,N,N,N
+49,"Electromyographic (EMG) activity of TrA was recorded bilaterally using intramuscular fine‐wire electrodes (Teflon‐coated stainless steel wire, 75 μm with 1 mm of Teflon removed and tips bent back ∼1 and ∼2 mm to form hooks).",0,0,0,N,N,N,0,N,N,N,N
+50,These were threaded into a hypodermic needle and inserted with real‐time ultrasound guidance.,0,0,0,N,N,N,1,N,N,N,N
+51,"Pairs of surface electrodes (Ag/AgCl discs, 10 mm diameter, and 20 mm inter‐electrode distance, Grass Telefactor, USA) were also placed over the anterior (AD) and posterior deltoid (PD) muscles on the left arm.",0,0,0,N,N,N,0,N,N,N,N
+52,A ground electrode was placed over the lateral rib cage.,0,0,0,N,N,N,0,N,N,N,N
+53,"EMG data were amplified 2000 times, band‐pass filtered between 30 and 1000 Hz and sampled at 2000 Hz using a Power1401 Data Acquisition System with Spike2 and Signal2 software (CED, UK).",0,0,0,N,N,N,0,N,N,N,N
+54,"All data were imported and analyzed in Matlab 7 (The Mathworks, USA).",0,0,0,N,N,N,0,N,N,N,N
+55,2.3 Transcranial magnetic stimulation,0,0,0,N,N,N,0,N,N,N,N
+56,The excitability and organisation of corticospinal inputs to TrA at the motor cortex was examined using transcranial magnetic stimulation (TMS).,0,0,0,N,N,N,0,N,N,N,N
+57,"A Magstim 2002 stimulator (Magstim Company, UK) was used to stimulate the motor cortex at rest and during submaximal voluntary activation.",0,0,0,N,N,N,0,N,N,N,N
+58,"To determine the level for voluntary contractions during TMS, TrA EMG was recorded during a maximum forced expiratory manoeuvre.",0,0,0,N,N,N,0,N,N,N,N
+59,Three repetitions were completed and the highest root‐mean‐square (RMS) EMG amplitude of TrA over a 1 s window was recorded.,0,0,0,N,N,N,0,N,N,N,N
+60,Real‐time feedback of RMS EMG of TrA (averaged over 200 ms windows) was provided on a computer monitor.,0,0,0,N,N,N,0,N,N,N,N
+61,The target level for voluntary contraction of TrA was set at 10% of maximum RMS EMG of TrA as this level of contraction could be maintained comfortably with minimal potential for fatigue.,0,0,0,N,N,N,0,N,N,N,N
+62,"As changes in respiratory drive modulate excitability of abdominal motoneurons and induce variability in the amplitude of motor evoked potentials , subjects were asked to cease breathing temporarily at the end of normal expiration with the glottis open prior to stimulation.",0,0,0,N,N,N,0,N,N,N,N
+63,Respiration was monitored online using a pressure cuff strapped to the chest to measure rib cage displacement.,0,0,0,N,N,N,0,N,N,N,N
+64,"Subjects were seated comfortably in a reclined chair with both arms well supported, and wore a tight fitting elastic bathing cap.",0,0,0,N,N,N,0,N,N,N,N
+65,"At the optimal location, the active motor threshold (MT) to evoke TrA responses contralateral to the stimulated hemisphere was evaluated using a figure‐of‐eight coil oriented at ∼45° such that the induced current in the brain flowed in an anteromedial direction.",0,0,0,N,N,N,0,N,N,N,N
+66,The figure‐of‐eight coil provides better focality of stimulation compared to the standard circular coil and thus was ideal for mapping of the motor cortex.,0,0,0,N,N,N,0,N,N,N,N
+67,Previous studies show the difficulty to elicit consistent responses at rest and in trunk muscles ipsilateral to the stimulated cortex with the figure‐of‐eight coil.,0,0,0,N,N,N,0,N,N,N,N
+68,"Thus, a double‐cone coil was used to determine the active MT to evoke TrA responses contralateral and ipsilateral to the stimulated hemisphere, and the resting MT to evoke responses contralateral to the stimulated hemisphere.",0,0,0,N,N,N,0,N,N,N,N
+69,The double‐cone coil produces a stronger magnetic field and can elicit consistent MEPs contralateral and ipsilateral to the stimulated cortex at rest and during submaximal activity.,0,0,0,N,N,N,0,N,N,N,N
+70,The double‐cone coil was oriented such that the induced current in the brain flowed anteriorly.,0,0,0,N,N,N,0,N,N,N,N
+71,Our previous work showed that stimulation over scalp sites at least 2 cm lateral to the midline (which corresponds to the optimal sites in most subjects) can elicit distinct contralateral and ipsilateral MEPs that originate from one hemisphere and minimise concurrent stimulation of the contralateral hemisphere.,0,0,0,N,N,N,0,N,N,N,N
+72,The representation of TrA at the motor cortex was mapped using the figure‐of‐eight coil to evoke responses contralateral to the stimulated cortex at pre‐marked scalp sites (a grid system with 1 cm interval from the midline to 5 cm lateral to the vertex and from 2 cm posterior to 5 cm anterior of the vertex.,0,0,0,N,N,N,0,N,N,N,N
+73,"Five stimuli at 120% active MT (determined using the figure‐of‐eight coil) were delivered over each scalp site during voluntary contractions of TrA to 10% MVC, with an inter‐stimulus interval of at least 5 s .",0,0,0,N,N,N,0,N,N,N,N
+74,"If 120% active MT exceeded the maximum stimulator output, the stimulation intensity for mapping was set to the maximum stimulus output.",0,0,0,N,N,N,0,N,N,N,N
+75,"In addition, if the MT for contralateral TrA using the figure‐of‐eight coil exceeded maximum stimulator output, mapping was not performed for that side.",0,0,0,N,N,N,0,N,N,N,N
+76,The MT and map were evaluated over each hemisphere.,0,0,0,N,N,N,0,N,N,N,N
+77,2.4 Single rapid arm movements,0,0,0,N,N,N,0,N,N,N,N
+78,Motor coordination was assessed using a rapid arm movement paradigm to induce postural challenges to the body.,0,0,0,N,N,N,0,N,N,N,N
+79,Subjects stood comfortably with their feet shoulder‐width apart and either flexed or extended their arm at the shoulder to ∼45° as fast as possible in response to auditory tones.,0,0,0,N,N,N,0,N,N,N,N
+80,"Distinct tones were used to indicate movement direction, with the order and timing randomized to limit predictability.",0,0,0,N,N,N,0,N,N,N,N
+81,The left arm was attached to a potentiometer at the wrist such that arm movement was restricted to the sagittal plane.,0,0,0,N,N,N,0,N,N,N,N
+82,Practice trials were allowed to familiarize subjects to the task and 10 trials of arm flexion and extension were completed.,0,0,0,N,N,N,0,N,N,N,N
+83,This number of trials has been shown to yield acceptable repeatability.,0,0,0,N,N,N,0,N,N,N,N
+84,2.5 Pain and functional measures,0,0,0,N,N,N,0,N,N,N,N
+85,Intensity of self‐reported pain was measured using a visual analogue scale (VAS) anchored with “no pain” at 0 and “worst pain imaginable” at 10.,0,0,0,N,N,N,0,N,N,N,N
+86,"Subjects rated their average pain over the preceding month prior to motor training, and rated their average pain across the final week of motor training.",0,0,0,N,N,N,0,N,N,N,N
+87,"Functional capacity was measured using a patient‐specific functional scale (PSFS), whereby subjects rated three activities of daily living that were limited by symptoms on an 11‐point scale anchored with “unable to perform tasks” at 0 and “able to perform tasks at pre‐injury status” at 10.",0,0,0,N,N,N,0,N,N,N,N
+88,The average score across the three activities was calculated.,0,0,0,N,N,N,0,N,N,N,N
+89,"Both pain VAS and PSFS scales are reliable and valid, and were completed at the start of each testing session.",0,0,0,N,N,N,0,N,N,N,N
+90,Motor training was conducted by an experienced musculoskeletal physiotherapist.,0,0,0,N,N,N,0,N,N,N,N
+91,Researchers were blinded to the type of intervention received by each subject until the completion of data analysis.,0,0,0,N,N,N,1,N,N,N,N
+92,Skilled training involved practice of voluntary activation of TrA independently from other trunk muscles.,0,0,0,N,N,N,0,N,N,N,N
+93,"Subjects were positioned in crook lying and instructed to draw the navel towards their spine, draw their abdomen away from the waist band of their pants, flatten the lower abdomen or contract the pelvic floor muscles, which has been shown to increase TrA activity.",0,0,0,N,N,N,0,N,N,N,N
+94,Feedback of the quality of TrA contraction was provided in the initial training session with real‐time ultrasound to observe thickening and shortening of the abdominal muscles.,0,0,0,N,N,N,0,N,N,N,N
+95,"Once subjects were able to activate TrA with minimal activity of other abdominal muscles, they held the contraction for 10 s while continuing to breath.",0,0,0,N,N,N,0,N,N,N,N
+96,Three sets of 10 repetitions were completed twice per day.,0,0,0,N,N,N,0,N,N,N,N
+97,Walking exercise was selected as the control intervention.,0,0,0,N,N,N,0,N,N,N,N
+98,Walking programs are commonly recommended to patients with recurrent LBP.,0,0,0,N,N,N,0,N,N,N,N
+99,"This exercise involves activation of TrA along with activation of other trunk and limb muscles and likely involves input from the motor cortex, but without conscious attention to any muscle.",0,0,0,N,N,N,0,N,N,N,N
+100,"As such, this exercise was considered an ideal control for skilled voluntary contractions of TrA.",0,0,0,N,N,N,0,N,N,N,N
+101,Subjects walked at their own pace for 10 min twice per day for 2 weeks.,0,0,0,N,N,N,0,N,N,N,N
+102,"Exercise compliance, expressed as actual training performed (recorded in an exercise diary) as a percentage of prescribed training, was calculated for each subject.",0,0,0,N,N,N,0,N,N,N,N
+103,"For TMS mapping, raw EMG data from individual trials were full‐wave rectified and background EMG (55–5 ms prior to stimulation) was subtracted.",0,0,0,N,N,N,0,N,N,N,N
+104,"Trials were averaged at each scalp site, and the onset and offset of MEPs were visually identified.",0,0,0,N,N,N,1,N,N,N,N
+105,"Due to the relative selectivity of fine‐wire recordings, peak‐to‐peak amplitude was variable due to inter‐trial differences in the motor units excited by descending volleys due to variation in motoneurone excitability/refractoriness.",0,0,0,N,N,N,0,N,N,N,N
+106,"Therefore, the amplitude of TrA MEPs was measured as RMS EMG amplitude and superimposed over its respective scalp site to produce a topographical map of the muscle's representation.",0,0,0,N,N,N,0,N,N,N,N
+107,Amplitude of TrA MEPs were normalised to the peak response for each hemisphere.,0,0,0,N,N,N,1,N,N,N,N
+108,"From the normalised map, the map volume and center of gravity (CoG) were calculated.",0,0,0,N,N,N,0,N,N,N,N
+109,"As current spread from TMS can enlarge the motor cortical map, normalised values that fell below 25% of the peak response were removed and remaining responses rescaled from 0% to 100%.",0,0,0,N,N,N,0,N,N,N,N
+110,"The map volume, which is a measure of the total excitability of motor cortical cells that activate TrA, was calculated as the sum of the normalised amplitude of MEPs recorded at all scalp sites where MEPs were evoked.",0,0,0,N,N,N,0,N,N,N,N
+111,"The CoG, which is an amplitude‐weighted indication of the representation of the target muscle, was calculated using the formula CoG = ∑zixi/∑zi, ∑ziyi/∑zi (For scalp sites xi (medial–lateral), yi (anterior–posterior), and amplitude zi.",0,0,0,N,N,N,0,N,N,N,N
+112,"To determine the magnitude of the shift in CoG position before and after motor training, the absolute distance between the location of the CoG pre‐ and post‐intervention was also calculated for each subject.",0,0,0,N,N,N,0,N,N,N,N
+113,"For single rapid arm movement, onsets of TrA and deltoid EMG were visually identified without reference to the identity of the muscle, direction of arm movement, training group or whether the trials were pre‐ or post‐training.",0,0,0,N,N,N,0,N,N,N,N
+114,Onset of EMG was defined as the first point at which EMG increased above baseline.,0,0,0,N,N,N,0,N,N,N,N
+115,Visual identification of EMG onsets has been shown to be reliable and was preferred to computer based algorithms as it is less affected by factors such as variation in background EMG.,0,0,0,N,N,N,0,N,N,N,N
+116,Motor behavior was assessed as the onset of TrA EMG relative to the prime mover (deltoid) during this rapid arm movement task.,0,0,0,N,N,N,0,N,N,N,N
+117,"Statistical analysis was undertaken using Statistica 7 (Statsoft, USA).",0,0,0,N,N,N,0,N,N,N,N
+118,"Map volume and coordinates of the CoG (medial–lateral and anterior–posterior coordinates with respect to the vertex) were compared between Time (pre‐ vs. post‐), Training (skilled vs. walking) and Muscle (left vs. right TrA) using repeated‐measures analysis of variance (ANOVA).",0,0,0,N,N,N,0,N,N,N,N
+119,Post‐hoc analysis was conducted using Duncan's multiple range test.,0,0,0,N,N,N,0,N,N,N,N
+120,Changes in CoG position post‐training was also compared between Training and Muscle using repeated‐measures ANOVA.,0,0,0,N,N,N,0,N,N,N,N
+121,"MTs identified using the double‐cone coil were compared between Time, Training, Muscle and Condition (active and resting MT for contralateral responses, active MT for ipsilateral responses) with repeated‐measures ANOVA.",0,0,0,N,N,N,0,N,N,N,N
+122,"MTs identified using the figure‐of‐eight coil were also compared between Time, Training and Muscle.",0,0,0,N,N,N,0,N,N,N,N
+123,"Relative onset of TrA EMG was compared between Time (pre‐ vs. post‐) and between Training (skilled vs. walking) using repeated‐measures ANOVA, with two repeated measure (Time, Direction (flexion vs. extension)) and two independent factors (Muscle, Training).",0,0,0,N,N,N,0,N,N,N,N
+124,"To examine whether changes in onset of TrA EMG following motor training were related to changes at the motor cortex, the correlation between these parameters was assessed using Pearson's correlation.",0,0,0,N,N,N,0,N,N,N,N
+125,Changes in pain VAS and PSFS scores were also examined between pre‐ and post‐training and between training groups using repeated‐measures ANOVA.,0,0,0,N,N,N,0,N,N,N,N
+126,Significance was set at p < 0.05.,0,0,0,N,N,N,0,N,N,N,N
+127,2 shows the average TMS map pre‐ and post‐intervention for both training groups.,0,0,0,N,N,N,0,N,N,N,N
+128,"Mapping was not possible over one hemisphere for three subjects in the skilled training group and for four subjects in the walking group, as the MT for contralateral responses using the figure‐of‐eight coil was higher than the maximum stimulator output.",0,0,0,N,N,N,0,N,N,N,N
+129,Open in figure viewerPowerPoint,0,0,0,N,N,N,0,N,N,N,N
+130,Normalized transcranial magnetic stimulation (TMS) maps of transversus abdominis (TrA) representation at the motor cortex before (left panel) and after (right panel) skilled training (A) and walking exercise (B).,0,0,0,N,N,N,0,N,N,N,N
+131,"Dotted lines represent the frontal and sagittal planes, and intersect at the vertex.",0,0,0,N,N,N,0,N,N,N,N
+132,There was no difference in the location of TrA CoG prior to training between training groups (interaction between Time and Training: p < 0.001; post‐hoc for anterior–posterior and medial–lateral coordinates p > 0.35).,0,0,0,N,N,N,0,N,N,N,N
+133,Two weeks of skilled cognitive training of TrA induced an anterior and medial shift in the representation of the trained muscle at the motor cortex over both hemispheres.,0,0,0,N,N,N,0,N,N,N,N
+134,The motor cortical representation of TrA after skilled training (2.2 ± 0.3 cm lateral and 1.5 ± 0.5 cm anterior of vertex) closely resembled that observed in healthy individuals from our previous work (2.2 ± 0.3 cm lateral and 1.8 ± 0.3 cm anterior of vertex.,0,0,0,N,N,N,0,N,N,N,N
+135,"In contrast, we did not find a change in the representation of TrA in the motor cortex of subjects who undertook walking exercise for 2 weeks.",0,0,0,N,N,N,0,N,N,N,N
+136,"Thus, the magnitude of shift for the skilled training group from pre‐ to post‐training was greater than for the group assigned to walking exercise (skilled training: 0.98 ± 0.38 cm; walking: 0.57 ± 0.28 cm; p = 0.002).",0,0,0,N,N,N,0,N,N,N,N
+137,"No changes in map volume were found between training groups (main effect for Training: p = 0.25), or between pre‐ and post‐training.",0,0,0,N,N,N,0,N,N,N,N
+138, (A) Center of gravity (CoG) of transversus abdominis (TrA) pre‐ (white circle) and post‐training (black circle) for both training groups.,0,0,0,N,N,N,0,N,N,N,N
+139,Group (left panel; mean and 95% confidence interval) and individual data (right panel) are shown.,0,0,0,N,N,N,0,N,N,N,N
+140,The gray circle denotes the CoG in healthy population from a previous study.,0,0,0,N,N,N,0,N,N,N,N
+141,Note anterior and medial shift in location of TrA CoG following skilled training (top panel; *p < 0.05).,0,0,0,N,N,N,0,N,N,N,N
+142,CoG location did not change with walking exercise (bottom panel).,0,0,0,N,N,N,0,N,N,N,N
+143,(B) TMS map volume of TrA representation at the motor cortex (and 95% confidence interval).,0,0,0,N,N,N,0,N,N,N,N
+144,Map volumes are averaged across sides for both training groups.,0,0,0,N,N,N,0,N,N,N,N
+145,Map volume did not differ between training groups or between pre‐ (white bar) and post‐training (black bar).,0,0,0,N,N,N,0,N,N,N,N
+146, 3.2 Single rapid arm movements,0,0,0,N,N,N,0,N,N,N,N
+147,"Practice of skilled activation induced earlier postural activation of TrA, consistent with our previous data.",0,0,0,N,N,N,0,N,N,N,N
+148,We did not observe a change in muscle activation following walking exercise.,0,0,0,N,N,N,0,N,N,N,N
+149,"When all subjects were included, we found a moderate correlation between changes in the location of representation and changes in timing of postural activation of TrA.",0,0,0,N,N,N,0,N,N,N,N
+150,"That is, an anterior and medial shift in CoG of TrA in the motor cortex (which was most evident in the skilled motor training group) was associated with earlier postural activation during rapid arm flexion and extension.",0,0,0,N,N,N,0,N,N,N,N
+151,"No significant correlation was found between changes in TrA onsets and changes in map volume (all r2 < 0.06, p > 0.18).",0,0,0,N,N,N,0,N,N,N,N
+152,Onset of transversus abdominis (TrA) electromyographic activity (EMG) relative to prime mover deltoid EMG during rapid arm flexion (top panel) and extension tasks (bottom panel) for skilled training (left panel) and walking exercise groups (right panel).,0,0,0,N,N,N,0,N,N,N,N
+153,Mean and 95% confidence intervals are shown.,0,0,0,N,N,N,0,N,N,N,N
+154,Dotted line represents onset of prime mover deltoid EMG.,0,0,0,N,N,N,0,N,N,N,N
+155,"After skilled training of TrA, activation was earlier for the left (L) and right (R) TrA.",0,0,0,N,N,N,0,N,N,N,N
+156,No changes were observed for the walking exercise group.,0,0,0,N,N,N,0,N,N,N,N
+157,Relationship between changes in location of center of gravity (CoG) and changes in onset of TrA EMG for arm flexion (left panel) and extension (right panel).,0,0,0,N,N,N,0,N,N,N,N
+158,Linear regressions are shown with 95% confidence interval.,0,0,0,N,N,N,0,N,N,N,N
+159,"Changes in the CoG (in the anterior (positive values) posterior (negative values) direction, and the lateral (positive values) and medial (negative values) direction) were correlated with changes in onset of TrA activation during rapid arm movement tasks.",0,0,0,N,N,N,0,N,N,N,N
+160,(AP – anterior–posterior; ML – medial–lateral; white circle – skilled training; black circle – walking exercise).,0,0,0,N,N,N,0,N,N,N,N
+161,MTs were not different between the left and right TrA (Double‐cone coil: Muscle p = 0.86; Figure‐of‐eight coil: Muscle p = 0.85).,0,0,0,N,N,N,0,N,N,N,N
+162,6 shows MTs averaged across hemispheres.,0,0,0,N,N,N,0,N,N,N,N
+163,No differences in MTs were detected between training groups prior to training (Training: p = 0.33).,0,0,0,N,N,N,0,N,N,N,N
+164,"For the double‐cone coil, the responses contralateral to the stimulated cortex had the lowest threshold (p < 0.001), and the responses ipsilateral to the side of stimulation during voluntary activation had the highest threshold (p < 0.001).",0,0,0,N,N,N,0,N,N,N,N
+165,"MTs did not differ between training groups prior to training (p = 0.33), or between pre‐ and post‐training for either intervention (p = 0.052).",0,0,0,N,N,N,0,N,N,N,N
+166,"Further, no significant correlation was found between changes in onset of TrA EMG and changes in MTs (all r2 < 0.026, p > 0.35).",0,0,0,N,N,N,0,N,N,N,N
+167,"Motor threshold (MTs) for motor evoked responses contralateral (contra) and ipsilateral (ipsi) to the stimulated cortex, averaged across sides.",0,0,0,N,N,N,0,N,N,N,N
+168,Mean and 95% confidence interval are shown.,0,0,0,N,N,N,0,N,N,N,N
+169,"No differences in MTs were found between training groups, or between pre‐ and post‐training.",0,0,0,N,N,N,0,N,N,N,N
+170,"3.4 Exercise compliance, pain VAS and PSFS scores",0,0,0,N,N,N,0,N,N,N,N
+171,Exercise compliance was not different between training groups (skilled training: 81 ± 16% (mean ± SD); walking exercise: 86 ± 12%; Student's t‐test p = 0.44).,0,0,0,N,N,N,0,N,N,N,N
+172,"Pain VAS reduced following skilled motor training (significant interaction between Time and Training: p = 0.018; post‐hoc p < 0.001; Table 1), but was not different following walking (post‐hoc p = 0.31).",0,0,0,N,N,N,0,N,N,N,N
+173,There were no changes between pre‐ and post‐training PSFS scores for either training group (interaction Training and Time: p = 0.25).,0,0,0,N,N,N,0,N,N,N,N
+174,"Using Pearson's correlations, no significant relationship was found between changes in pain VAS or PSFS and changes in TrA map volume, CoG, MTs or onsets of TrA EMG (VAS: all r2 < 0.05, p > 0.36; PSFS: all r2 < 0.071, p > 0.41).",0,0,0,N,N,N,0,N,N,N,N
+175,The findings demonstrate the reversibility of adaptive changes of the motor system (including the motor cortex) in patients with recurrent LBP.,0,0,0,N,N,N,0,N,N,N,N
+176,"Skilled training induced anterior and medial shift in motor cortical representation of the trained muscle, TrA, in patients with recurrent LBP, towards that reported in pain‐free individuals.",0,0,0,N,N,N,0,N,N,N,N
+177,This was not observed following walking exercise.,0,0,0,N,N,N,0,N,N,N,N
+178,Training‐induced reorganisation of the motor cortex with skilled training was associated with recovery of motor coordination (including earlier postural activation).,0,0,0,N,N,N,0,N,N,N,N
+179,"Considering the importance of TrA in postural control of the spine, improved motor coordination towards that observed in healthy individuals highlights the functional relevance of this observation.",0,0,0,N,N,N,0,N,N,N,N
+180,The findings further unravel the mechanisms that may underlie the efficacy of specific motor training in recurrent LBP management.,0,0,0,N,N,N,0,N,N,N,N
+181,Our previous study showed changes in motor cortical organisation in a LBP population with deficits in postural control.,0,0,0,N,N,N,0,N,N,N,N
+182,Here we demonstrate these changes can be reversed with motor training.,0,0,0,N,N,N,0,N,N,N,N
+183,"Two weeks of skilled motor training‐induced reorganisation of the motor cortex and changes in motor behavior towards that observed in earlier studies of healthy pain‐free individuals, although this must be interpreted with caution as the current study did not involve direct comparison with healthy individuals.",0,0,0,N,N,N,0,N,N,N,N
+184,Changes in muscle representation at the motor cortex following training of repeated voluntary contractions are consistent with previous findings.,0,0,0,N,N,N,0,N,N,N,N
+185,"For instance, animal and human studies have demonstrated that repeated activation of muscles can induce changes in their organisation at the motor cortex.",1,0,0,N,N,N,0,N,N,N,N
+186,Similar reorganisation has also been found in chronic stroke patients following interventions that involved active use of the affected limb.,0,0,0,N,N,N,0,N,N,N,N
+187,A novel finding was that training‐induced reorganisation of the motor cortex in a patient population was associated with temporal changes in postural activation of the trained muscle.,0,0,0,N,N,N,0,N,N,N,N
+188,This is in contrast to studies that demonstrate training‐induced changes in location of CoG at the motor cortex were not associated with alterations in the onset of EMG during voluntary tasks.,0,0,0,N,N,N,0,N,N,N,N
+189,"However, as those studies were conducted on a group of healthy individuals, it could be argued the potential to change motor behavior could be more limited.",0,0,0,N,N,N,0,N,N,N,N
+190,The data provide some insight into possible mechanisms for cortical reorganisation and motor recovery.,0,0,0,N,N,N,0,N,N,N,N
+191,"TMS does not directly activate corticospinal neurons, but excites them indirectly via activation of trans‐synaptic neuronal networks within the motor cortex.",0,0,0,N,N,N,0,N,N,N,N
+192,"Thus, cortical reorganisation following skilled training is likely mediated by changes in connectivity of the networks associated with TrA activation, including unmasking of latent horizontal connections and modification of the strength of synaptic contacts.",0,0,0,N,N,N,0,N,N,N,N
+193,Prolonged pain and disuse are associated with altered motor cortical representation.,0,0,0,N,N,N,0,N,N,N,N
+194,Increased use leads to reorganisation of motor cortical representation.,0,0,0,N,N,N,0,N,N,N,N
+195,"However, here we show that 2 weeks of non‐specific walking exercise did not change motor cortical representation or postural activation, despite activation of TrA and probable involvement of inputs from the motor cortex.",0,0,0,N,N,N,0,N,N,N,N
+196,"Thus, repetitive use alone cannot induce reorganisation of motor cortical networks.",0,0,0,N,N,N,0,N,N,N,N
+197,"Instead, this depends on skilled cognitive practice.",0,0,0,N,N,N,0,N,N,N,N
+198,"This is consistent with previous findings that cortical plasticity is dependent on the extent of conscious attention and skill during motor training intervention, and that movement repetition in the absence of skill or precision does not induce reorganisation.",0,0,0,N,N,N,0,N,N,N,N
+199,Whereas previous studies showed that skilled practice of a specific task (e.g.,0,0,0,N,N,N,0,N,N,N,N
+200,"reaching) led to improvement in its performance and cortical reorganisation of regions associated with the trained tasks, here we showed skilled practice of repeated TrA contractions induced changes in motor activation during an untrained postural task.",0,0,0,N,N,N,0,N,N,N,N
+201,The invariance of the threshold for magnetic stimulation and map volume between sessions indicates that excitability of motor cortical networks was not changed by motor training.,0,0,0,N,N,N,0,N,N,N,N
+202,This is not surprising as modulation of motor cortical excitability is transient following skilled motor training and returns to baseline despite subsequent training and retention of motor skill.,0,0,0,N,N,N,0,N,N,N,N
+203,Our observations suggest that cortical reorganisation cannot be explained by a simple change in excitability of the motor cortical networks.,0,0,0,N,N,N,0,N,N,N,N
+204,"Furthermore, although it was always possible to elicit consistent MEPs from at least one hemisphere using the figure‐of‐eight coil, this was not always possible across both hemispheres as the MT was greater than the maximum stimulator intensity.",0,0,0,N,N,N,0,N,N,N,N
+205,"Nevertheless, as this involved similar numbers of subjects (n = 3 for skilled training and n = 4 for walking exercise) and data were available for at least one side in all participants, it is unlikely to have influenced the main findings.",0,0,0,N,N,N,0,N,N,N,N
+206,The data showed that 2 weeks of skilled motor training reduced the intensity of LBP.,0,0,1,N,N,N,0,N,N,N,N
+207,"Although we did not find a change in PSFS following training, there appeared to be a trend for improved PSFS scores following skilled motor training.",0,0,0,N,N,N,0,N,N,N,N
+208,The current study was not designed or powered to evaluate whether training interventions could change pain and function.,0,0,0,N,N,N,0,N,N,N,N
+209,It is also important to highlight that this study does not advocate that skilled motor training of individual muscles is sufficient to treat individuals with LBP.,0,0,0,N,N,N,0,N,N,N,N
+210,"Nevertheless, the findings are consistent with findings from previous randomized clinical trials in a larger patient population with LBP that suggest skilled motor training can contribute to improvements in pain and disability.",0,0,0,N,N,N,0,N,N,N,N
+211,"Further, although there was general agreement between those people with changed symptoms and those with changed cortical representation, the amplitude of changes in pain and functional scores had only a weak and non‐significant correlation with changes in postural motor coordination and motor cortical measures.",0,0,0,N,N,N,0,N,N,N,N
+212,"This weak association is not unexpected as changes in self‐reported outcomes are the dependent on complex interactions between multi‐dimensional factors including sensory input, experience, motivation, catastrophisation and fear.",0,0,0,N,N,N,0,N,N,N,N
+213,"Thus, the lack of direct correlation may mirror this underlying complex interaction between multiple factors.",0,0,0,N,N,N,0,N,N,N,N
+214,Our data highlight that the neural substrate for training‐induced changes in postural motor coordination includes plasticity of motor cortical networks.,0,0,0,N,N,N,0,N,N,N,N
+215,"However, changes in other regions of the nervous system involved in postural control including pre‐motor, subcortical and spinal centers cannot be excluded.",0,0,0,N,N,N,0,N,N,N,N
+216,A recent study examined the potential to enhance postural control through skilled training of postural control.,0,0,0,N,N,N,0,N,N,N,N
+217,"That study demonstrated impaired ability to learn a postural task in patients with stroke, Parkinson's disease or cerebellar ataxia, and suggests that motor learning of postural control involves a complex interaction of different regions in the CNS including the motor cortex, basal ganglia and cerebellum.",0,0,0,N,N,N,0,N,N,N,N
+218,Further studies are needed to examine the contribution of changes at these regions to improvements in postural mechanisms.,0,0,0,N,N,N,0,N,N,N,N
+219,"In addition, the training of skilled activation of TrA has multiple components in addition to voluntary contractions of TrA.",0,0,0,N,N,N,0,N,N,N,N
+220,"For instance, activation of the muscle involves reduced activity of other trunk muscles.",0,0,0,N,N,N,0,N,N,N,N
+221,This is evidence from a recent study demonstrating that practice of skilled activation of repeated isolated voluntary contractions of the deep back muscles can induce a reduction in activation of superficial trunk muscles.,0,0,0,N,N,N,0,N,N,N,N
+222,"Therefore, alterations in motor cortical excitability and/or representation for other abdominal and back muscles are likely and require further investigations.",0,0,0,N,N,N,0,N,N,N,N
+223,The study provides evidence that skilled motor training can drive plasticity in the motor system and is associated with improved motor coordination in patients with recurrent pain.,0,0,0,N,N,N,0,N,N,N,N
+224,Exactly how plasticity of the motor system leads to recovery in postural motor coordination remains speculative.,0,0,0,N,N,N,0,N,N,N,N
+225,"Regardless, the current findings support the efficacy of skilled motor training for patients with recurrent musculoskeletal pain.",0,0,0,N,N,N,0,N,N,N,N

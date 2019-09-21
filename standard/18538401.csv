@@ -1,0 +1,188 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To evaluate the efficacy of photodynamic therapy (PDT) with half-dose verteporfin for treating acute central serous chorioretinopathy (CSC).,0,0,0,0,0,0,0,0,0,0,0
+1,"Prospective, double-masked, placebo-controlled, randomized clinical trial.",0,0,0,0,0,0,0,0,0,0,0
+2,Sixty-three eyes of 63 patients with acute symptomatic CSC of 3 months' duration or less were recruited.,0,0,0,0,0,0,0,0,0,0,0
+3,Forty-three eyes were randomized to indocyanine green angiography (ICGA)-guided PDT with half-dose (3 mg/m2) verteporfin and 21 eyes were randomized to placebo.,0,0,0,0,0,0,0,0,0,0,0
+4,"Patients in the verteporfin group received an infusion of half-dose verteporfin over 8 minutes, followed by ICGA-guided PDT 10 minutes from the start of infusion.",0,0,0,0,0,0,0,0,0,0,0
+5,"Laser was applied for 83 seconds covering the choroidal abnormalities observed in ICGA, with a maximum laser spot size of 4500 μm.",0,0,0,0,0,0,0,0,0,0,0
+6,The primary outcome measure was the proportion of eyes with absence of subretinal fluid at the macula at 12 months.,0,0,0,0,0,0,0,0,0,0,0
+7,"Secondary outcome measures included changes in mean logarithm of the minimum angle of resolution (logMAR) best-corrected visual acuity (BCVA), subjective symptoms, optical coherence tomography (OCT) results, central foveal thickness (CFT), and angiographic findings during the 12-month study period.",0,0,0,0,0,0,0,0,0,0,0
+8,Thirty-nine patients in the verteporfin group and 19 patients in the placebo group completed 12 months of follow-up.,0,0,0,1,0,0,0,1,1,1,1
+9,Thirty-seven (94.9%) eyes in the verteporfin group compared with 11 (57.9%) eyes in the placebo group showed absence of subretinal fluid at the macula at 12 months (P = 0.001).,0,0,0,1,0,0,0,1,1,1,1
+10,"The mean logMAR BCVA at 12 months was significantly better in the verteporfin group compared with the placebo group: –0.05 and 0.05, respectively (P = 0.008).",0,0,0,1,0,0,0,1,1,1,1
+11,"All 39 (100%) verteporfin-treated eyes had stable or improved vision, compared with 15 (78.9%) eyes in the placebo group (P = 0.009).",0,0,0,1,0,0,0,1,1,1,1
+12,The mean OCT CFT for the verteporfin group also was significantly lower compared with the placebo group at 12 months (P = 0.001).,0,0,0,1,0,0,0,1,1,1,1
+13,No ocular or systemic adverse event was encountered in the study.,0,0,0,0,0,0,0,0,0,0,0
+14,"Photodynamic therapy with half-dose verteporfin is effective in treating acute symptomatic CSC, resulting in a higher proportion of patients with absence of exudative macular detachment and better visual acuity compared with placebo.",0,0,0,0,0,0,0,0,0,0,0
+15,Proprietary or commercial disclosure may be found after the references.,0,0,0,0,0,0,0,0,0,0,0
+16,"Central serous chorioretinopathy (CSC) is characterized by the accumulation of subretinal fluid at the macula and is a common condition in young adults, especially in men with a so-called type A personality.",0,0,0,0,0,0,0,0,0,0,0
+17,"Patients with CSC may experience visual disturbances including micropsia, metamorphopsia, central scotoma, reduced visual acuity, and loss of contrast sensitivity.",0,0,0,0,0,0,0,0,0,0,0
+18,Most episodes of CSC are self-limiting and usually resolve spontaneously within 3 to 4 months.,0,0,0,0,0,0,0,0,0,0,0
+19,"However, despite recovery of visual acuity, some patients may experience residual visual symptoms with a loss in contrast sensitivity, and in approximately 30% to 50% of patients, recurrence also may take place within the first year.",0,0,0,0,0,0,0,0,0,0,0
+20,"In addition, 5% of patients may even experience visual loss with visual acuity of 20/200 or worse because of chronic neurosensory retinal detachment and retinal pigment epithelium (RPE) atrophy.",0,0,0,0,0,0,0,0,0,0,0
+21,"The use of indocyanine green angiography (ICGA) in CSC patients has improved our understanding in the pathogenesis of CSC and has demonstrated that CSC primarily affects the choroidal circulation, resulting in multifocal areas of choroidal vascular hyperpermeability.",0,0,0,0,0,0,0,0,0,0,0
+22,The traditional management option of acute CSC has been observation alone.,0,0,0,0,0,0,0,0,0,0,0
+23,Laser photocoagulation has been attempted to seal off the leakage points and to enhance the absorption of subretinal fluid.,0,0,0,0,0,0,0,0,0,0,0
+24,"Although laser may shorten the duration of symptoms, it does not have any impact on the final vision or the recurrence rate of CSC.",0,0,0,0,0,0,0,0,0,0,0
+25,The limited efficacy of laser photocoagulation is because it targets only the RPE leak without specifically treating the underlying primary choroidal congestion and hyperpermeability.,0,0,0,0,0,0,0,0,0,0,0
+26,"Direct thermal laser photocoagulation also has the disadvantage of causing RPE damage and, rarely, iatrogenic choroidal neovascularization (CNV).",0,0,0,0,0,0,0,0,0,0,0
+27,This has led clinicians to search for a more effective treatment alterative that is less likely to cause side effects.,0,0,0,0,0,0,0,0,0,0,0
+28,"Photodynamic therapy (PDT) with verteporfin recently has been used for treating CSC, and studies have demonstrated beneficial visual outcomes in most patients.The mechanism of action of PDT for treating CSC is postulated to be caused by short-term choriocapillaris hypoperfusion and long-term choroidal vascular remodeling, leading to reduction in choroidal congestion, vascular hyperpermeability, and extravascular leakage.",0,0,0,0,0,0,0,0,0,0,0
+29,"However, the application of conventional PDT in CSC can result in potential complications such as RPE atrophy, choroidal ischemia, and secondary CNV.",0,0,0,0,0,0,0,0,0,0,0
+30,Electrophysiologic and laboratory studies also have demonstrated that transient reduction in macular function may develop after PDT using a conventional verteporfin dosage and laser fluence.,0,0,0,0,0,0,0,0,0,0,0
+31,"Because patients with CSC usually have relatively good baseline visual acuity, it is important that the potential retinal toxicity be minimized during treatment while maintaining the treatment effects.",0,0,0,0,0,0,0,0,0,0,0
+32,"By reducing the dose of verteporfin and altering the timing of infusion and laser application, the authors previously demonstrated that the potential retinal damage caused by PDT may be minimized while resulting in good treatment efficacy in the treatment of chronic CSC.",0,0,0,0,0,0,0,0,0,0,0
+33,Earlier laser application also may allow less drug accumulation at the RPE layer and reduce RPE toxicity.,0,0,0,0,0,0,0,0,0,0,0
+34,This article reports the outcomes of a randomized placebo-controlled clinical trial in using this customized approach in treating acute CSC.,0,0,0,0,0,0,0,0,0,0,0
+35,"The authors postulated that the safety enhanced PDT is useful in preventing persistence or recurrence of exudative retinal detachment in acute CSC, resulting in better visual outcome.",0,0,0,0,0,0,0,0,0,0,0
+36,Study Design and Patient Recruitment,1,0,1,0,1,1,1,0,0,0,0
+37,"This study was a prospective, double-masked, randomized placebo-controlled trial conducted in the Department of Ophthalmology and Visual Sciences, the Chinese University of Hong Kong.",1,0,1,0,1,1,1,0,0,0,0
+38,Patients with acute symptomatic CSC of 3 months' duration or less were recruited from Hong Kong Eye Hospital and Prince of Wales Hospital from December 2004 through December 2005.,1,0,1,0,1,1,1,0,0,0,0
+39,Inclusion criteria included: (1) patients with best-corrected visual acuity (BCVA) of 20/200 or better; (2) presence of subretinal fluid involving the fovea on optical coherence tomography (OCT); (3) presence of active angiographic leakage in fluorescein angiography (FA) caused by CSC but not CNV or other diseases; and (4) abnormal dilated choroidal vasculature and other features in ICGA consistent with the diagnosis of CSC.,1,0,1,0,1,1,1,0,0,0,0
+40,"Indocyanine green angiography was performed to ensure correct diagnosis of CSC, because patients with polypoidal choroidal vasculopathy (PCV), which is common in Asian patients, can mimic CSC.",1,0,1,0,1,1,1,0,0,0,0
+41,"Patients who received any previous treatment, including PDT or focal thermal laser photocoagulation for CSC, or who had evidence of CNV, PCV, or other maculopathy on clinical examination, FA, or ICGA were excluded.",0,0,0,0,0,0,0,0,0,0,0
+42,"Patients receiving exogenous corticosteroid treatment, with systemic diseases such as Cushing's disease or renal diseases, and pregnant patients also were excluded.",0,0,0,0,0,0,0,0,0,0,0
+43,"Informed consent was obtained from all subjects, and the study protocol was approved by the ethics committee of the Chinese University of Hong Kong.",0,0,0,0,0,0,0,0,0,0,0
+44,Patients were randomized into the safety-enhanced PDT group or the placebo group at a ratio of 2:1.,0,1,0,0,0,0,0,0,0,0,0
+45,"The randomization sequence was generated using a computerized randomization table kept centrally by a research nurse, and the group allocation was performed before drug preparation and infusion.",0,0,0,0,0,0,0,0,0,0,0
+46,All patients and investigators were masked to the treatment allocation group by wrapping the infusion syringes externally with aluminum foil.,0,0,0,0,0,0,0,0,0,0,0
+47,Assessors performing the follow-up assessments also were masked to the patient allocation group.,0,0,0,0,0,0,0,0,0,0,0
+48,Safety-Enhanced Photodynamic Therapy and Placebo,0,0,0,0,0,0,0,0,0,0,0
+49,"The safety-enhanced PDT protocol for CSC was performed using half the normal dose of verteporfin (Visudyne; Novartis AG, Bülach, Switzerland), that is, 3 mg/m2 verteporfin, with a rationale that using a lower dose has less sever collateral damaging effects to the retina and choroid.",0,0,0,0,0,0,0,0,0,0,0
+50,"Verteporfin was infused over 8 minutes, followed by delivery of laser at 689 nm at 10 minutes from the commencement of infusion to target the area of choroidal dilation and hyperpermeability.",0,0,0,0,0,0,0,0,0,0,0
+51,"Pharmacokinetic studies have shown that the maximal concentration of verteporfin within the choroidal circulation is achieved at 10 minutes after the infusion, whereas the concentrations at the outer retina and RPE are still relatively low.",0,0,0,0,0,0,0,0,0,0,0
+52,"A total light energy of 50 J/cm2 over 83 seconds was delivered to the area of choroidal hyperperfusion as observed in ICGA, instead of the angiographic leakage sites shown in FA.",0,0,0,0,0,0,0,0,0,0,0
+53,The authors did not treat the leakage site solely based on FA results because the area of abnormal choroidal vasculature can be visualized better with ICGA.,0,0,0,0,0,0,0,0,0,0,0
+54,The area of choroidal vascular abnormality that was connected to the area of serous macular detachment was treated.,0,0,0,0,0,0,0,0,0,0,0
+55,"To avoid overtreatment of the choroidal vasculature and causing choroidal ischemia, the laser spot size was set at a maximum of 4500 μm.",0,0,0,0,0,0,0,0,0,0,0
+56,This is based on the rationale that cases of choroidal ischemia after PDT for neovascular age-related macular degeneration have been found to occur with a mean laser spot size of 4250 μm.,0,0,0,0,0,0,0,0,0,0,0
+57,"In the placebo group, 30 ml normal saline was infused instead of verteporfin, and laser was applied in the same fashion as in the verteporfin group.",0,0,0,0,0,0,0,0,0,0,0
+58,"After treatment, all patients were given protective spectacles and were instructed to avoid strong light for 3 days.",0,0,0,0,0,0,0,0,0,0,0
+59,"All patients were treated only once at baseline and no other treatment, including additional PDT or laser photocoagulation, was performed during the 12-month follow-up.",0,0,0,0,0,0,0,0,0,0,0
+60,Baseline and Follow-up Examinations,0,0,0,0,0,0,0,0,0,0,0
+61,"Patients were assessed at baseline and followed up at 1, 3, 6, 9, and 12 months after PDT.",0,0,0,0,0,0,0,0,0,0,0
+62,"At the baseline and all post-PDT visits, BCVA was measured by certified optometrists using the Early Treatment Diabetic Retinopathy Study logarithm of the minimum angle of resolution (logMAR) chart at 4 m. Patients were also asked to report the subjective visual quality of the affected eye compared with the fellow eye, with 100% being the visual quality of the normal fellow eye.",0,0,0,0,0,0,0,0,0,0,0
+63,"The OCT recordings were performed using an OCT3 machine (StratusOCT, Carl Zeiss Meditec, Inc., Dublin, CA).",0,0,0,0,0,0,0,0,0,0,0
+64,Both vertical and horizontal scans of 6.0 mm centered on the fovea were obtained for measurement of central foveal thickness (CFT).,0,0,0,0,0,0,0,0,0,0,0
+65,The OCT CFT was measured manually using the retinal thickness mode and was defined as the distance between the inner surface of the RPE and the inner surface of the neurosensory retina at the fovea.,0,0,0,0,0,0,0,0,0,0,0
+66,Fluorescein angiography and ICGA were performed in all patients at baseline and 3 months after PDT.,0,0,0,0,0,0,0,0,0,0,0
+67,Patients with persistent subretinal fluid also had further FA and ICGA performed at 12 months.,0,0,0,0,0,0,0,0,0,0,0
+68,Retreatment with PDT for persistent or recurrent CSC was not performed in the study.,0,0,0,0,0,0,0,0,0,0,0
+69,"Outcome Measures, Sample Size Calculation, and Data Analysis",0,0,0,0,0,0,0,0,0,0,0
+70,The primary outcome of the study was the proportion of eyes with complete absorption of subretinal fluid at 12 months.,0,0,0,0,0,0,0,0,0,0,0
+71,"Secondary outcome measures included serial changes in logMAR BCVA, OCT CFT, FA, and ICGA and the systemic and ocular complications during the study.",0,0,0,0,0,0,0,0,0,0,0
+72,"With an estimated rate of complete subretinal fluid absorption rate at 12 months of 90% for the verteporfin group and 50% for the placebo group, α of 0.05, and power of 85%, and a default rate of 10%, the calculated sample size was a total of 63 patients (42 patients in the verteporfin group and 21 patients in the placebo group).",0,0,0,0,0,0,0,0,0,0,0
+73,"Statistical analysis was performed using SPSS software for Windows version 15.0 (SPSS, Inc., Chicago, IL).",0,0,0,0,0,0,0,0,0,0,0
+74,Analysis was performed as intention to treat.,0,0,0,0,0,0,0,0,0,0,0
+75,"Comparisons of categorical variables between the 2 groups were performed using the chi-square test or the Fisher exact test, and continuous variables were compared using a 2-tailed t test or Mann–Whitney U test.",0,0,0,0,0,0,0,0,0,0,0
+76,A P value of ≤0.05 was considered as statistically significant.,0,0,0,0,0,0,0,0,0,0,0
+77,"Sixty-three eyes in 63 patients with acute CSC were recruited, of which 42 eyes were randomized to safety-modified PDT with half-dose verteporfin and 21 eyes were randomized to placebo.",0,0,0,0,0,0,0,0,0,0,0
+78,Figure 1 shows the flow of the patients in the study.,0,0,0,0,0,0,0,0,0,0,0
+79,"At 12 months, 5 patients (3 in the verteporfin group and 2 in the placebo group) were lost to follow-up, and the remaining 58 (92.1%) patients were included in the analysis.",0,0,0,0,0,0,0,0,0,0,0
+80,"The mean age±standard deviation (SD) of the patients was 41.0±6.7 years (range, 25–58 years) and 54 (85.7%) patients were male.",0,0,0,0,0,0,0,0,0,0,0
+81,The demographics of the patients in the 2 groups are listed in Table 1.,0,0,0,0,0,0,0,0,0,0,0
+82,"All the baseline characteristics between the 2 groups were similar in terms of age, gender, proportion of patients with first or second CSC episode, mean duration of current CSC episode, mean spherical equivalent refractive error, mean baseline logMAR BCVA, and mean baseline OCT CFT.",0,0,0,0,0,0,0,0,0,0,0
+83,"The mean±SD logMAR BCVA of all patients at baseline was 0.14±0.17 (Snellen equivalent, 20/29; range, −0.10 to 0.40).",0,0,0,0,0,0,0,0,0,0,0
+84,"Baseline FA in all 63 (100%) eyes showed fluorescein leakage, and ICGA of all 63 (100%) eyes demonstrated dilated choroidal vasculature with choroidal hyperpermeability and late extravascular leakage at the macula consistent with CSC.",0,0,0,0,0,0,0,0,0,0,0
+85,"The mean±SD PDT laser spot size was 4200±565 μm (range, 3400–4500 μm).",0,0,0,0,0,0,0,0,0,0,0
+86,"Eighteen (28.6%) eyes had area of dilated choroidal vasculature of more than 4500 μm, and the laser spot size was set at the maximum limit of 4500 μm.",0,0,0,0,0,0,0,0,0,0,0
+87,Baseline Demographics of 63 Patients with Acute Central Serous Chorioretinopathy,0,0,0,0,0,0,0,0,0,0,0
+88,Resolution of Subretinal Fluid,0,0,0,0,0,0,0,0,0,0,0
+89,"For the primary outcome measure, 37 (94.9%) of 39 patients in the verteporfin group had complete resolution of macular subretinal fluid at 12 months, compared with 11 (57.9%) of 19 eyes in the placebo group (P = 0.001, Fisher exact test).",0,0,0,0,0,0,0,0,0,0,0
+90,The presence of subretinal fluid at 12 months in the verteporfin group was the result of persistence of subretinal fluid in 1 patient and recurrence of CSC between the 9- and 12-month follow-up visits in another patient.,0,0,0,0,0,0,0,0,0,0,0
+91,"For the placebo group, 4 (21.1%) patients had persistent subretinal fluid at the macula up to 12 months and another 4 (21.1%) had recurrence of CSC during the follow-up period that persisted to the 12-month visit.",0,0,0,0,0,0,0,0,0,0,0
+92,"The proportion of eyes with complete resolution of macular subretinal fluid was significantly higher in the verteporfin-treated group compared with that of the placebo group as early as the 1-month visit: 31 (79.5%) eyes in the verteporfin group had absence of subretinal fluid, compared with 4 (21.1%) eyes in the placebo group (P<0.001, Fisher exact test).",0,0,0,0,0,0,0,0,0,0,0
+93,The proportions of eyes with absence of macular subretinal fluid also were significantly higher in the verteporfin group at the 3- and 6-month follow-up visits.,0,0,0,0,0,0,0,0,0,0,0
+94,"At the 3-month visit, 35 (89.7%) eyes in the verteporfin group had absence of subretinal fluid, compared with 8 (42.1%) eyes in the placebo group (P<0.001, Fisher exact test).",0,0,0,0,0,0,0,0,0,0,0
+95,"At 6 months, 36 (92.3%) eyes in the verteporfin group had absence of subretinal fluid, compared with 11 (57.9%) eyes in the placebo group (P = 0.003, Fisher exact test).",0,0,0,0,0,0,0,0,0,0,0
+96,Changes in Visual Acuity (Figure 2),0,0,0,0,0,0,0,0,0,0,0
+97,"At 3 months after treatment, the mean±SD logMAR BCVA of the verteporfin group improved to 0.00±0.11 (Snellen equivalent, 20/20), whereas the placebo group improved to 0.08±0.11 (Snellen equivalent, 20/24).",0,0,0,0,0,0,0,0,0,0,0
+98,"The difference between the 2 groups was statistically significant (P = 0.015, Mann–Whitney U test).",0,0,0,0,0,0,0,0,0,0,0
+99,"At 1 year after treatment, the mean±SD logMAR BCVA of the verteporfin group further improved to –0.05±0.09 (Snellen equivalent, 20/18), whereas that in the placebo group was 0.05±0.17 (Snellen equivalent, 20/22).",0,0,0,0,0,0,0,0,0,0,0
+100,"The mean logMAR BCVA of the verteporfin group remained significantly better compared with that of the placebo group at 1 year (P = 0.008, Mann–Whitney U test).",0,0,0,0,0,0,0,0,0,0,0
+101,"The mean lines of BCVA improvement at 1 year for the verteporfin group was 1.8 lines, compared with 0.6 line for the placebo group (P = 0.002, Mann–Whitney U test).",0,0,0,0,0,0,0,0,0,0,0
+102,"All 39 (100%) verteporfin-treated eyes had stable or improved visual acuity, compared with 15 (78.9%) eyes in the placebo group (P = 0.009, Fisher exact test).",0,0,0,0,0,0,0,0,0,0,0
+103,"In all eyes that lost 1 or more line of BCVA at 1 year, this was the result of persistent subretinal fluid at the macula.",0,0,0,0,0,0,0,0,0,0,0
+104,Graph showing the serial changes in mean logarithm of the minimum angle of resolution (logMAR) best-corrected visual acuity (BCVA) of patients in the half-dose verteporfin group (solid line) and in the placebo group (dashed line).,0,0,0,0,0,0,0,0,0,0,0
+105,Error bars represent standard errors of the mean.,0,0,0,0,0,0,0,0,0,0,0
+106,Changes in Subjective Visual Quality,0,0,0,0,0,0,0,0,0,0,0
+107,"In terms of subjective visual quality of the affected eyes compared with the fellow unaffected eyes, the verteporfin group had a score comparative with that of the placebo group at baseline, with mean scores of 58% and 62%, respectively (P = 0.34).",0,0,0,0,0,0,0,0,0,0,0
+108,"At 12 months, the verteporfin group had significantly better visual quality score compared with the placebo group, with mean scores of 91% and 79%, respectively (P = 0.009, Mann–Whitney U test).",0,0,0,0,0,0,0,0,0,0,0
+109,Optical Coherence Tomography and Anatomic Changes after Photodynamic Therapy (Figure 3),0,0,0,0,0,0,0,0,0,0,0
+110,"The baseline mean±SD OCT CFT for the verteporfin and placebo groups were 456±223 μm and 452±218 μm, respectively (P = 0.94, 2-tailed t test).",0,0,0,0,0,0,0,0,0,0,0
+111,"At 3 months, the mean±SD OCT CFT of the verteporfin group reduced to 165±82 μm, compared with 309±182 μm for the placebo group (P<0.001, 2-tailed t test).",0,0,0,0,0,0,0,0,0,0,0
+112,"At 12 months, the mean±SD OCT CFT for the verteporfin group remained significantly lower compared with the placebo group, with 161±65 μm and 278±192 μm, respectively (P = 0.001, 2-tailed t test).",0,0,0,0,0,0,0,0,0,0,0
+113,Graph showing the serial changes in mean optical coherence tomography central foveal thickness in the half-dose verteporfin group (solid line) and in the placebo group (dashed line).,0,0,0,0,0,0,0,0,0,0,0
+114,Error bars represent standard errors of the mean.,0,0,0,0,0,0,0,0,0,0,0
+115,"At 3 months after PDT, 34 (87.2%) of 39 eyes in the verteporfin group showed a complete absence of fluorescein leakage compared with 4 (12.8%) of 19 eyes in the placebo group (P<0.001).",0,0,0,0,0,0,0,0,0,0,0
+116,"The ICGA results at 3 months demonstrated resolution of choroidal vascular hyperpermeability and reduction in extravascular leakage in the sub-RPE space in 37 (94.9%) eyes of the verteporfin group, compared with 3 (15.8%) eyes of the placebo group (P<0.001, chi-square test).",0,0,0,0,0,0,0,0,0,0,0
+117,"Examples of the serial changes in FA, ICGA, and OCT findings of the patients in the verteporfin and control groups are displayed in Figure 4, Figure 5, Figure 6.",0,0,0,0,0,0,0,0,0,0,0
+118,Left eye of a 43-year-old man with acute central serous chorioretinopathy (CSC) for 2 months who received safety-enhanced photodynamic therapy (PDT) with half-dose verteporfin.,0,0,0,0,0,0,0,0,0,0,0
+119,The baseline logarithm of the minimum angle of resolution (logMAR) visual acuity was 0.02 in the right eye.,0,0,0,0,0,0,0,0,0,0,0
+120,"A, Early-phase and (B) late-phase fluorescein angiography (FA) images obtained at baseline showing pin-point leakage with a smokestack pattern of fluorescein leakage.",0,0,0,0,0,0,0,0,0,0,0
+121,"C, Midphase indocyanine green angiography (ICGA) image demonstrating dilated choroidal vessel with choroidal hyperperfusion consistent with CSC.",0,0,0,0,0,0,0,0,0,0,0
+122,"D, Baseline optical coherence tomography image showing the presence of subretinal fluid involving the fovea.",0,0,0,0,0,0,0,0,0,0,0
+123,"At 3 months after half-dose verteporfin PDT, the logMAR visual acuity improved to –0.06.",0,0,0,0,0,0,0,0,0,0,0
+124,"E, Early- and (F) late-phase FA images demonstrating absence of fluorescein leakage at the macula, with (G) narrowing of the choroidal vessel in the midphase ICGA.",0,0,0,0,0,0,0,0,0,0,0
+125,"H, Optical coherence tomography image obtained at 3 months showing complete resolution of the subretinal fluid.",0,0,0,0,0,0,0,0,0,0,0
+126,Right eye of a 41-year-old man with acute central serous chorioretinopathy (CSC) for 10 weeks who received safety-enhanced photodynamic therapy (PDT) with half-dose verteporfin.,0,0,0,0,0,0,0,0,0,0,0
+127,The baseline logarithm of the minimum angle of resolution (logMAR) visual acuity was 0.10 in the right eye.,0,0,0,0,0,0,0,0,0,0,0
+128,"A, Early-phase and (B) late-phase fluorescein angiography (FA) images obtained at baseline showed pin-point leakage with fluorescein leakage involving the fovea and retinal pigment epithelium window defect superior to the fovea.",0,0,0,0,0,0,0,0,0,0,0
+129,"C, Midphase indocyanine green angiography (ICGA) image demonstrating dilated choroidal vessel with choroidal hyperperfusion consistent with CSC.",0,0,0,0,0,0,0,0,0,0,0
+130,"D, Baseline optical coherence tomography image showing subretinal fluid involving the fovea.",0,0,0,0,0,0,0,0,0,0,0
+131,"At 3 months after half-dose verteporfin PDT, the logMAR visual acuity improved to –0.08.",0,0,0,0,0,0,0,0,0,0,0
+132,"E, Early- and (F) late-phase FA images demonstrating the absence of fluorescein leakage at the macula with mild window defect superior to the fovea.",0,0,0,0,0,0,0,0,0,0,0
+133,"G, Midphase ICGA image demonstrating reduced choroidal hyperpermeability after treatment.",0,0,0,0,0,0,0,0,0,0,0
+134,"H, Optical coherence tomography image obtained at 3 months showing a normal foveal depression with resolution of subretinal fluid.",0,0,0,0,0,0,0,0,0,0,0
+135,Left eye of a 44-year-old woman with acute central serous chorioretinopathy (CSC) for 10 weeks who received treatment with placebo.,0,0,0,0,0,0,0,0,0,0,0
+136,The baseline logarithm of the minimum angle of resolution (logMAR) visual acuity was 0.04.,0,0,0,0,0,0,0,0,0,0,0
+137,"A, Early-phase and (B) late-phase fluorescein angiography (FA) at baseline showed pin-point leakage with fluorescein leakage at the macula.",0,0,0,0,0,0,0,0,0,0,0
+138,"C, Midphase indocyanine green angiography (ICGA) image demonstrating dilated choroidal vessel with choroidal hyperperfusion consistent with CSC.",0,0,0,0,0,0,0,0,0,0,0
+139,"D, Baseline optical coherence tomography image showing subretinal fluid involving the fovea.",0,0,0,0,0,0,0,0,0,0,0
+140,"At 3 months after photodynamic therapy with placebo, the logMAR visual acuity was 0.02.",0,0,0,0,0,0,0,0,0,0,0
+141,"E, Early-phase and (F) late-phase FA image demonstrating persistence of fluorescein leakage at the macula, and (G) midphase ICGA image demonstrating persistence of choroidal hyperpermeability.",0,0,0,0,0,0,0,0,0,0,0
+142,"H, Optical coherence tomography image obtained at 3 months showing persistent subretinal fluid.",0,0,0,0,0,0,0,0,0,0,0
+143,"The patient progressed to chronic CSC, and the FA, ICGA, and OCT images demonstrated persistence of CSC at 1 year.",0,0,0,0,0,0,0,0,0,0,0
+144,"None of the patients in the study developed any systemic adverse event associated with verteporfin treatment, including infusion site complications and lower back pain.",0,0,0,0,0,0,0,0,0,0,0
+145,None of the patients experienced any subjective or objective drop in vision immediately after treatment and in the subsequent follow-up examinations.,0,0,0,0,0,0,0,0,0,0,0
+146,Neither RPE atrophy nor the development of CNV were observed in patients in the verteporfin or the placebo groups.,0,0,0,0,0,0,0,0,0,0,0
+147,"Although CSC generally is considered as a self-limiting and benign condition, some patients may experience significant visual impairment caused by recurrent attacks of CSC, persistent chronic neurosensory retinal detachment, or RPE atrophy.",0,0,0,0,0,0,0,0,0,0,0
+148,"Moreover, because many patients are of working age, visual symptoms may interfere with their activities considerably.",0,0,0,0,0,0,0,0,0,0,0
+149,"The ideal treatment option for CSC would be one that can result in visual improvement, can shorten the duration of symptoms, and can reduce the recurrence rate while having a good safety profile.",0,0,0,0,0,0,0,0,0,0,0
+150,"Various treatment methods, including thermal laser photocoagulation and pharmacological agents including β-blockers, acetazolamide, and ketoconazole, have been attempted for treating CSC.",0,0,0,0,0,0,0,0,0,0,0
+151,"However, these treatment options were able only to shorten the duration of symptoms and had no effect on the recurrence rate or the final visual acuity.",0,0,0,0,0,0,0,0,0,0,0
+152,"More recently, studies have shown that PDT with a standard dose of verteporfin (6 mg/m2) is useful in the treatment of CSC.",0,0,0,0,0,0,0,0,0,0,0
+153,"Cardillo Piccolino et al performed ICGA-guided PDT for chronic CSC, and treatment resulted in complete resolution of serous retinal detachment in 75% of 16 eyes at 1 month after PDT, with 69% of eyes showing visual improvement of 1 or more lines at 3 months.",0,0,0,0,0,0,0,0,0,0,0
+154,"Yannuzzi et al also applied ICGA-guided PDT in 20 eyes with chronic CSC, and treatment led to complete resolution of macular detachment in 60% of eyes, with stable or improved vision in all eyes.",0,0,0,0,0,0,0,0,0,0,0
+155,"Similarly, in the authors' previous study using full-dose verteporfin PDT, 83% of eyes with chronic CSC were found to have visual improvement at 3 months after PDT.",0,0,0,0,0,0,0,0,0,0,0
+156,"Despite the demonstrated efficacy of PDT with full-dose verteporfin, potential adverse events may develop after treatment.",0,0,0,0,0,0,0,0,0,0,0
+157,"In the series by Cardillo Piccolino et al, secondary RPE changes at the site of PDT laser application developed in 31% of eyes and were thought to be the result of hypoxic damage caused by choriocapillaris occlusion.",0,0,0,0,0,0,0,0,0,0,0
+158,"The development of CNV after PDT for chronic CSC also has been reported in the authors' previous study and in a case report by Colucciello, even in a case treated with reduced laser fluence of 300 mW/cm2.",0,0,0,0,0,0,0,0,0,0,0
+159,These potential side effects may be important drawbacks restricting the use of PDT for CSC because these patients generally have better vision compared with those with CNV.,0,0,0,0,0,0,0,0,0,0,0
+160,"To enhance the efficacy of PDT in treating CSC while minimizing its side effects, the authors reduced the dosage of verteporfin and shortened the interval between infusion and laser application.",0,0,0,0,0,0,0,0,0,0,0
+161,"Because the mechanism of PDT in treating CSC is by reducing the choroidal hyperpermeability, a lower dose of verteporfin may be sufficient to induce choroidal vascular remodeling after PDT.",0,0,0,0,0,0,0,0,0,0,0
+162,"Pharmacokinetic studies have shown that the maximal concentration of verteporfin within the choroidal circulation is achieved at 10 minutes after infusion, whereas the concentrations at the outer retina and RPE are still relatively low.",0,0,0,0,0,0,0,0,0,0,0
+163,Shortening the interval between the infusion and laser application therefore may minimize collateral damage to the adjacent retinal structures.,0,0,0,0,0,0,0,0,0,0,0
+164,"The authors also limited the laser spot size to 4500 μm, because treatment with larger laser spot size may increase the risk of choriocapillaris closure and hypoxia.",0,0,0,0,0,0,0,0,0,0,0
+165,Large laser spot size has been shown to be a poor prognostic factor for visual outcome in treating CNV.,0,0,0,0,0,0,0,0,0,0,0
+166,"This also may be the case for CSC; in the study by Yannuzzi et al, visual gain occurred in only 16.7% of eyes treated with a spot size 6000 μm or more, compared with 57.1% of eyes treated with a spot size of less than 6000 μm.",0,0,0,0,0,0,0,0,0,0,0
+167,"The authors' previous studies and a case report by Williams et al have demonstrated that PDT with half-dose verteporfin was effective in treating chronic CSC, leading to visual improvement and resolution of subretinal fluid in most patients.",0,0,0,0,0,0,0,0,0,0,0
+168,"However, because only patients with CSC duration of more than 3 months were recruited in previous studies, it was uncertain whether this treatment was useful for patients with acute CSC of 3 months' duration or less.",0,0,0,0,0,0,0,0,0,0,0
+169,"In this randomized placebo-controlled double-masked clinical trial, the results demonstrated that PDT with half-dose verteporfin also is effective for acute CSC.",0,0,0,0,0,0,0,0,0,0,0
+170,Treatment resulted in a higher proportion of eyes with absence of subretinal fluid and better visual acuity compared with placebo at 1 year.,0,0,0,0,0,0,0,0,0,0,0
+171,"Complete resolution of subretinal fluid at 1 year was achieved in 94.9% of eyes treated with verteporfin, compared with 57.9% in the placebo group.",0,0,0,0,0,0,0,0,0,0,0
+172,The mean logMAR BCVA of patients in the verteporfin-treated group also was significantly better compared with that of the placebo group at 12 months.,0,0,0,0,0,0,0,0,0,0,0
+173,"Moreover, none of the patients experienced visual loss in the verteporfin group, compared with 21.1% in the placebo group.",0,0,0,0,0,0,0,0,0,0,0
+174,"In terms of safety profile, the use of half-dose verteporfin also seemed to be promising, because the development of secondary CNV or RPE atrophy in the verteporfin-treated patients was not observed.",0,0,0,0,0,0,0,0,0,0,0
+175,"The results are encouraging because to date, no randomized controlled trial has demonstrated a treatment method that is able to achieve a similar level of treatment efficacy in terms of visual improvement and recurrence rate of the disease.",0,0,0,0,0,0,0,0,0,0,0
+176,One of the limitations of this study is the smaller number of eyes in the placebo group compared with the half-dose verteporfin group.,0,0,0,0,0,0,0,0,0,0,0
+177,The authors decided to randomize more eyes in the verteporfin group because the treatment seemed to be an effective treatment for chronic CSC.,0,0,0,0,0,0,0,0,0,0,0
+178,Another limitation was the lack of FA and ICGA examinations in all patients at the 12-month visit.,0,0,0,0,0,0,0,0,0,0,0
+179,"This was because it might be inappropriate to perform angiographies in patients with no subretinal fluid documented on OCT examination, and therefore FA and ICGA were performed selectively only in patients with exudative macular detachment.",0,0,0,0,0,0,0,0,0,0,0
+180,"Third, the authors did not explore the use of half-fluence PDT in the patients, as in the Visudyne in Minimally Classic CNV study.",0,0,0,0,0,0,0,0,0,0,0
+181,They preferred half-dose PDT rather than half-fluence PDT because they wanted to minimize the potential systemic adverse events in the patients.,0,0,0,0,0,0,0,0,0,0,0
+182,"Fourth, the sample size was too small to rule out any unexpected severe adverse event like severe visual decrease, because this required a sample size of approximately 300 treated subjects.",0,0,0,0,0,0,0,0,0,0,0
+183,"Last, only patients with idiopathic CSC were included in the study; patients with secondary CSC caused by exogenous agents like corticosteroids were excluded.",0,0,0,0,0,0,0,0,0,0,0
+184,The results therefore are generalizable only to patients with idiopathic CSC and not to patients with secondary CSC.,0,0,0,0,0,0,0,0,0,0,0
+185,"In conclusion, this randomized, controlled trial demonstrated that the PDT with half-dose verteporfin is an effective treatment option for acute CSC, and no adverse event was found to be associated with the treatment.",0,0,0,0,0,0,0,0,0,0,0
+186,"Based on the excellent results in this study, the authors believe that this treatment option is among the best of the currently available treatment options for patients with acute symptomatic CSC.",0,0,0,0,0,0,0,0,0,0,0

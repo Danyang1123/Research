@@ -1,0 +1,149 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Symptoms of dry eye are commonly reported in contact lens wearers and are a frequent cause of non-tolerance.,0,0,0,N,N,N,N,N,N,N,N
+1,"The purpose of the present study is to evaluate the effects of oral treatment with particular omega-6 fatty acids in the form of evening primrose oil (EPO) on subjective symptoms, ocular surface signs and tear film characteristic in patients with contact lens associated dry eye.",0,0,0,N,N,N,N,N,N,N,N
+2,"The study design was randomised, double-masked and placebo controlled.",0,1,1,N,N,N,N,N,N,N,N
+3,76 female soft contact lens wearers were treated for 6 months with either EPO or placebo (olive oil).,0,0,1,N,N,N,N,N,N,N,N
+4,"Subjects underwent three examinations (baseline, 3 and 6 months).",0,0,1,N,N,N,N,N,N,N,N
+5,"At each examination subjects were given a questionnaire relating to lens comfort and dry eye symptoms and underwent a series of tests of tear film characteristics (tear meniscus height, break-up time), meibomian gland function (lipid layer thickness and quality) and ocular surface parameters (hyperaemia and staining).",0,0,1,N,N,N,N,N,N,N,N
+6,The EPO group showed a significant improvement in the specific symptom of ‘dryness’ at 3 and 6 months (p < 0.01) and also a significant improvement in overall lens comfort at 6 months (p < 0.01).,0,0,1,N,N,N,N,N,N,N,N
+7,"Tear meniscus height was increased in the EPO group at 6 months relative to baseline (p < 0.01), although all other objective signs were unchanged.",0,0,0,N,N,N,N,N,N,N,N
+8,This study provides evidence for a beneficial effect of particular orally administered omega-6 fatty acids in alleviating dry eye symptoms and improving overall lens comfort in patients suffering from contact lens associated dry eye.,0,0,0,N,N,N,N,N,N,N,N
+9,A sensation of ‘dryness’ is a commonly reported symptom in contact lens wearers  and is a frequent cause of reduced wearing times or discontinuation of wear .,0,0,0,N,N,N,N,N,N,N,N
+10,The presence of a contact lens on the eye can have an adverse affect on tear physiology by increasing the rate of evaporation and decreasing tear break-up time .,0,0,0,N,N,N,N,N,N,N,N
+11,"The magnitude of the effect is influenced by variables such as lens material, care regime and environmental conditions .",0,0,0,N,N,N,N,N,N,N,N
+12,In the majority of cases of contact lens-induced dry eye objective signs are lacking and a diagnosis is based on symptoms alone.,0,0,0,N,N,N,N,N,N,N,N
+13,"However, a recent study has demonstrated that intolerant contact lens wearers show significantly reduced tear stability and volume compared to successful wearers .",0,0,0,N,N,N,N,N,N,N,N
+14,"Conventionally, a variety of management strategies have been used to alleviate contact lens-induced dry eye including: tear supplements changing lens parameters  or tear preservation with punctal plugs .",0,0,0,N,N,N,N,N,N,N,N
+15,"However, novel treatment strategies that advocate the use of anti-inflammatory or immunomodulatory agents may also be appropriate.",0,0,0,N,N,N,N,N,N,N,N
+16,This approach is based on evidence for a putative role of inflammation of the lacrimal functional unit (lacrimal gland and ocular surface) in the pathogenesis of many forms of dry eye .,0,0,0,N,N,N,N,N,N,N,N
+17,"The immunomodulatory drug cyclosporine, that specifically inhibits T-lymphocyte proliferation, was approved by the FDA in 2002 as a treatment for dry eye.",0,0,0,N,N,N,N,N,N,N,N
+18,Randomised placebo-controlled trials have shown that cyclosporine ophthalmic emulsion is superior to vehicle in stimulating aqueous tear production in patients with keratoconjunctivitis sicca (KCS) .,0,0,0,N,N,N,N,N,N,N,N
+19,"Moreover, a recent pilot study offers evidence that cyclosporine may also be beneficial in contact lens intolerant patients.",0,0,0,N,N,N,N,N,N,N,N
+20,Dietary modification or supplementation with essential fatty acids (EFAs) represents an alternative therapeutic strategy for dry eye.,0,0,0,N,N,N,N,N,N,N,N
+21,"EFAs act as precursors for the synthesis of eicosanoids (prostaglandins, thromboxanes and leukotrienes) that regulate many aspects of the inflammatory process.",0,0,0,N,N,N,N,N,N,N,N
+22,"By altering the EFA content of the diet, or administering particular EFAs as supplements, it is possible to modify the balance between pro- and anti-inflammatory mediators .",0,0,0,N,N,N,N,N,N,N,N
+23,The synthesis of inflammatory eicosanoids from their precursor EFAs is shown in Fig.,0,0,0,N,N,N,N,N,N,N,N
+24,"2-Series prostaglandins and 4-series leukotrienes, which derive from arachidonic acid (AA) via the enzymes cyclooxygenase (COX) and 5-lipoxygenase (5-LOX) respectively, have proinflammatory effects, e.g.",0,0,0,N,N,N,N,N,N,N,N
+25,"pain, vasodilation and leukocyte recruitment.",0,0,0,N,N,N,N,N,N,N,N
+26,"Dietary omega-3 fatty acid supplementation, e.g.",0,0,0,N,N,N,N,N,N,N,N
+27,"eicosapentaenoic acid (EPA), can reduce the production of these AA-derived mediators via a process of competitive enzyme inhibition, thereby shifting the balance to a less inflammatory state .",0,0,0,N,N,N,N,N,N,N,N
+28,Metabolism of EFAs to prostaglandins and leukotrienes.,0,0,0,N,N,N,N,N,N,N,N
+29,"Dietary omega-6 EFAs linoleic acid and gamma linolenic acid are metabolised to dihomo-gamma linolenic acid (DGLA), resulting in an increased synthesis of anti-inflammatory 1-series prostaglandins.",0,0,0,N,N,N,N,N,N,N,N
+30,DGLA can be converted at a slow rate to arachidonic acid.,0,0,0,N,N,N,N,N,N,N,N
+31,The omega-3 amino acid eicosapentaenoic acid (EPA) competitively inhibits pathways leading to AA-derived proinflammatory.,0,0,0,N,N,N,N,N,N,N,N
+32,"Solid lines represent synthetic pathways, broken lines represent enzyme inhibition.",0,0,0,N,N,N,N,N,N,N,N
+33,An alternative therapeutic approach involves the use of specific omega-6 EFA supplements .,0,0,0,N,N,N,N,N,N,N,N
+34,"Several studies have shown that gamma-linolenic acid (GLA), which is found in high concentration in oils derived from evening primrose (Oenothera biennis), has anti-inflammatory properties.",0,0,0,N,N,N,N,N,N,N,N
+35,"GLA elevates dihomo-γ-linolenic acid (DGLA) concentrations, leading to an increased synthesis of 1-series prostaglandins that have a negative feedback role in chronic inflammation .",0,0,0,N,N,N,N,N,N,N,N
+36,DGLA can also suppress the production of 2-series prostaglandins and 4-series leukotrienes via enzyme inhibition.,0,0,0,N,N,N,N,N,N,N,N
+37,Clinical studies have demonstrated that dietary supplementation with GLA and its precursor linoleic acid (LA) produces symptomatic relief in systemic diseases that are characterised by chronic inflammation such as rheumatoid arthritis .,0,0,0,N,N,N,N,N,N,N,N
+38,"Recently, therapy with GLA and LA has also been shown to reduce ocular surface inflammation and improve symptoms in patients with dry eye syndrome with an inflammatory component .",0,0,0,N,N,N,N,N,N,N,N
+39,"The purpose of the present study is to evaluate the effects of oral treatment with particular omega-6 fatty acids in the form of evening primrose oil (EPO) on subjective symptoms, ocular surface signs and tear film parameters in patients with contact lens associated dry eye.",0,0,0,N,N,N,N,N,N,N,N
+40,76 Female soft contact lens wearers (Table 1) were recruited into the trial based either on their responses to a McMonnies dry eye history questionnaire indicating that they were suffering from dry eye or borderline dry eye (McMonnies score ≧10) or that they were experiencing symptoms of contact lens-induced dry eye.,1,0,0,N,N,N,N,N,N,N,N
+41,All subjects who took part in the trial were wearing monthly or daily soft contact lenses.,1,0,0,N,N,N,N,N,N,N,N
+42,"The lens types worn were divided into four groups, of which group 1 were silicone hydrogel lenses and groups 2–4 were separated according to FDA categories.",1,0,0,N,N,N,N,N,N,N,N
+43,The average wearing time of the contact lenses was calculated as hours per week.,1,0,0,N,N,N,N,N,N,N,N
+44,All subjects gave informed signed consent and the study was approved by the City University Research and Ethical Committee.,1,0,0,N,N,N,N,N,N,N,N
+45,Guidelines of the Declaration of Helsinki were adhered to.,0,0,0,N,N,N,N,N,N,N,N
+46,"This trial was longitudinal, double masked and placebo controlled.",0,0,0,N,N,N,N,N,N,N,N
+47,Subjects were randomly allocated to one of two groups.,0,0,0,N,N,N,N,N,N,N,N
+48,"Each group was treated for a 6-month period with six capsules per day containing either LA/GLA in the form of EPO or a placebo, which was olive oil.",0,0,0,N,N,N,N,N,N,N,N
+49,"Subjects were instructed not to change their diet, nor take any additional dietary supplements, for the duration of the study.",0,0,0,N,N,N,N,N,N,N,N
+50,"The active and placebo capsules were both supplied by Equazen (Equazen UK Ltd., London).",0,0,0,N,N,N,N,N,N,N,N
+51,"The contents of the EPO capsules (Qarma™) used in the trial were LA 72.6%, GLA 10.5%, palmitic acid 6.5%, oleic acid 6.4% and stearic acid 1.8%.",0,0,0,N,N,N,N,N,N,N,N
+52,Each capsule contained 50 mg of GLA.,0,0,0,N,N,N,N,N,N,N,N
+53,"The contents of the olive oil were 78.0% C18:1 (mainly oleic acid), 11.2% C16:0 (palmitic acid) and 5.6% C18:2 (mainly linoleic acid).",0,0,0,N,N,N,N,N,N,N,N
+54,Before encapsulation 1.6 mg natural tocopheryl (vitamin E) was added to both active and placebo to protect the contents of the capsule from oxidative damage.,0,0,0,N,N,N,N,N,N,N,N
+55,"The olive oil capsules were made to taste, smell and appear the same as the active capsules.",0,0,0,N,N,N,N,N,N,N,N
+56,The capsules were loaded into standard unmarked tablet jars with a four-digit identifier code.,0,0,0,N,N,N,N,N,N,N,N
+57,"Codes were allocated to one of two treatment groups (1 or 2), using an online random sequence generator.",0,0,0,N,N,N,N,N,N,N,N
+58,"Coding, labelling and randomisation were carried out by the supplier and codes were not broken until the analysis was complete.",0,0,0,N,N,N,N,N,N,N,N
+59,Subjects were evaluated at baseline and at 3 and 6 months during which the following procedures were carried out.,0,0,0,N,N,N,N,N,N,N,N
+60,Two visual analogue scales were designed.,0,0,0,N,N,N,N,N,N,N,N
+61,"Firstly, lens comfort was graded on a scale from 1 to 10 (1 = uncomfortable to 10 = no discomfort).",0,0,0,N,N,N,N,N,N,N,N
+62,"Secondly each of the following symptoms was graded individually on a scale from 0 to 10 (0 = no symptoms to 10 = extreme symptoms): soreness, scratchiness, dryness, grittiness and burning.",0,0,0,N,N,N,N,N,N,N,N
+63,The inferior tear meniscus height (TMH) was assessed with the slit lamp and recorded in millimetres.,0,0,0,N,N,N,N,N,N,N,N
+64,"Bulbar and palpebral conjunctival hyperaemia was assessed, together with fluorescein staining of the cornea and conjunctiva.",0,0,0,N,N,N,N,N,N,N,N
+65,"The CCLRU decimalised grading scale was used for grading (1 = very slight, 2 = slight, 3 = moderate and 4 = severe).",0,0,0,N,N,N,N,N,N,N,N
+66,The van Bijsterveld score was used to grade the rose bengal staining of the cornea and conjunctiva (0 = no staining to 3 = confluent staining).,0,0,0,N,N,N,N,N,N,N,N
+67,The quality and quantity of meibomian secretions were measured by manual expression.,0,0,0,N,N,N,N,N,N,N,N
+68,"The quantity was graded using a 3-point scale: 0 = normal, 1 = delay 2 = partially blocked and 3 = blocked.",0,0,0,N,N,N,N,N,N,N,N
+69,"The quality was similarly graded: 0 = clear, 1 = cloudy, 2 = granular and 3 = opaque solid.",0,0,0,N,N,N,N,N,N,N,N
+70,"The lipid layer was assessed on its appearance under specular reflection using the Keeler Tearscope Plus® (Keeler Ltd., UK).",0,0,0,N,N,N,N,N,N,N,N
+71,"The lipid layer was graded according to the Guillon Scale into five different interference patterns (1 = meshwork, 2 = wave, 3 = amorphous, 4 = colour fringes (1st order) and 5 = colour fringes (2nd order)).",0,0,0,N,N,N,N,N,N,N,N
+72,The non-invasive break-up time (NIBUT) was assessed using the Tearscope and fluorescein break-up time (BUT) was measured using conventional methodology.,0,0,0,N,N,N,N,N,N,N,N
+73,An average of three readings was taken in each case and the time in seconds from the blink to the first break noted.,0,0,0,N,N,N,N,N,N,N,N
+74,Within group objective and subjective data were analysed using a non-parametric one-way analysis of variance (ANOVA) test (Friedman).,0,0,0,N,N,N,N,N,N,N,N
+75,The Mann Whitney test was used for between group comparisons.,0,0,0,N,N,N,N,N,N,N,N
+76,"Due to multiple testing across many parameters and the possibility of finding effects by chance, a p-value of less than 0.01 was considered as statistically significant.",0,0,0,N,N,N,N,N,N,N,N
+77,"Of the 76 contact lens wearers recruited, 52 completed the trial (placebo N = 24, EPO N = 28).",0,0,0,N,N,N,N,N,N,N,N
+78,The principal reason for drop out was non-compliance.,0,0,0,N,N,N,N,N,N,N,N
+79,"All subjects, including dropouts, were included in the statistical analysis.",0,0,0,N,N,N,N,N,N,N,N
+80,Missing data was incorporated using the ‘last observation carried forward method’ .,0,0,0,N,N,N,N,N,N,N,N
+81,Demographics for all subjects are shown in Table 1.,0,0,0,N,N,N,N,N,N,N,N
+82,The median McMonnies score for all the study subjects was 13.,0,0,0,N,N,N,N,N,N,N,N
+83,Scores indicative of borderline dry eye (10–20) were found in 69% of subjects with 6% recording a score indicative of a more severe dry eye (>20).,0,0,0,N,N,N,N,N,N,N,N
+84,"Although all subjects subjectively complained of symptoms of dry eye, 25% of subjects had a McMonnies score of <10.",0,0,0,N,N,N,N,N,N,N,N
+85,There was no significant difference in dry eye severity between the EPO group and the placebo group.,0,0,0,N,N,N,N,N,N,N,N
+86,The EPO group had an average wearing time of 71.9 h per week (S.D.,0,0,0,N,N,N,N,N,N,N,N
+87,21.6 h) and the placebo group had an average wearing time of 75.6 h (S.D.,0,0,0,N,N,N,N,N,N,N,N
+88,This difference was not significant.,0,0,0,N,N,N,N,N,N,N,N
+89,The lens types worn by the subjects during the trial also showed no significant difference between the groups (Table 1).,0,0,0,N,N,N,N,N,N,N,N
+90,The overall contact lens comfort at 6 months for the EPO group showed an approximately 20% improvement compared to baseline (p < 0.01) (Fig.,0,0,0,N,N,N,N,N,N,N,N
+91,No significant changes in lens comfort were found for the placebo group.,0,0,0,N,N,N,N,N,N,N,N
+92,"In terms of individual symptom scores, the EPO group showed a significant reduction in the specific symptom of ‘dryness’ at both 3 and 6 months (p < 0.01) (Fig.",0,0,0,N,N,N,N,N,N,N,N
+93,Both groups showed no significant differences in all other individual symptom scores after 3 and 6 months.,0,0,0,N,N,N,N,N,N,N,N
+94,"Overall contact lens comfort for the EPO and placebo group based on a 10-point visual analogue scale (1 = uncomfortable, 10 = no discomfort).",0,0,0,N,N,N,N,N,N,N,N
+95,*p < 0.01 (Friedman one-way ANOVA).,0,0,0,N,N,N,N,N,N,N,N
+96,"Mean symptom score for ‘dryness’ for the EPO and placebo group based on a 10-point visual analogue scale (1 = no symptoms, 10 = extreme symptoms).",0,0,0,N,N,N,N,N,N,N,N
+97,*p < 0.01 (Friedman one-way ANOVA) using a 10-point visual analogue scale.,0,0,0,N,N,N,N,N,N,N,N
+98,"Compared to baseline, measures of tear quality and stability, together with indicators of ocular surface health (e.g.",0,0,0,N,N,N,N,N,N,N,N
+99,hyperaemia and staining) did not show any significant differences at 3 and 6 months.,0,0,0,N,N,N,N,N,N,N,N
+100,Similarly there were no differences in meibomian gland secretions or lipid layer morphology.,0,0,0,N,N,N,N,N,N,N,N
+101,"By contrast, the EPO group showed a significant increase in TMH after 6 months of EPO compared to baseline (p < 0.01) (Fig.",0,0,0,N,N,N,N,N,N,N,N
+102,Tear meniscus height for the EPO and placebo group (means ± S.D.).,0,0,0,N,N,N,N,N,N,N,N
+103,*p < 0.01 (Friedman one-way ANOVA).,0,0,0,N,N,N,N,N,N,N,N
+104,EPO and placebo were well tolerated and no significant adverse reactions were reported.,0,0,0,N,N,N,N,N,N,N,N
+105,The present study found that dietary supplementation with the EPO-derived omega-6 EFAs LA and GLA ameliorated symptoms and improved overall lens comfort in female patients with contact lens associated dry eye.,0,0,0,N,N,N,N,N,N,N,N
+106,"Supplementation also caused a significant increase in tear production, as defined by tear meniscus height.",0,0,0,N,N,N,N,N,N,N,N
+107,It is reasonable to assume that the observed clinical improvement is primarily due to the well-documented anti-inflammatory effects of these essential fatty acids .,0,0,0,N,N,N,N,N,N,N,N
+108,"Sub-clinical inflammation has been demonstrated in contact lens wearers, based on numbers of polymorphonuclear leukocytes, tear cytokine profile  and increased expression of the inflammatory markers HLA-DR and ICAM-1 on ocular surface epithelia .",0,0,0,N,N,N,N,N,N,N,N
+109,"HLA-DR is a MHC class II antigen whose expression by conjunctival epithelial cells has been shown to correlate with the severity of dry eye, as characterised by vital staining and Schirmer test .",0,0,0,N,N,N,N,N,N,N,N
+110,Contact lens wearers with dry eye show greater expression of HLA-DR compared to non-dry eye wearers .,0,0,0,N,N,N,N,N,N,N,N
+111,Recent studies have shown the beneficial effect of oral omega-6 supplementation (LA and GLA) in Sjögrens and dry eye syndrome with an inflammatory component .,0,0,0,N,N,N,N,N,N,N,N
+112,"Reduced symptoms of dry eye were reported, as well as an improvement in objective signs such as corneal staining and reduced conjunctival expression of HLA-DR. Supplementation with LA and GLA has also been shown to increase tear production and reduce dry eye symptoms after photorefractive keratectomy (PRK) .",0,0,0,N,N,N,N,N,N,N,N
+113,"The present study similarly showed a reduction in the specific symptom of ‘dryness’, which was reduced by 40%.",0,0,0,N,N,N,N,N,N,N,N
+114,"Although tear production was increased, other objective assessments, e.g.",0,0,0,N,N,N,N,N,N,N,N
+115,ocular surface integrity and tear film quality were unaltered.,0,0,0,N,N,N,N,N,N,N,N
+116,"Our sample size is not large enough to completely rule out that some effects may have gone undetected, although the magnitude of the observed non-significant effects in this sample suggests that changes would not be beyond measurement variability or be clinically significant.",0,0,0,N,N,N,N,N,N,N,N
+117,"Furthermore, patients with contact lens associated dry eye typically display few clinical signs, even in the presence of marked symptoms.",0,0,0,N,N,N,N,N,N,N,N
+118,The study patients likewise showed minimal conjunctival hyperaemia and good ocular surface integrity at baseline and there was little or no suggestion of poor tear quality or quantity.,0,0,0,N,N,N,N,N,N,N,N
+119,The anti-inflammatory effects of EPO are thought to be mediated by two principal mechanisms.,0,0,0,N,N,N,N,N,N,N,N
+120,The first involves a direct action of its component EFAs on immune cells.,0,0,0,N,N,N,N,N,N,N,N
+121,In vitro studies have shown that the administration of LA and GLA suppresses T-cell activation by interfering with signal transduction .,0,0,0,N,N,N,N,N,N,N,N
+122,The second mechanism is via their effect on eicosanoid synthesis.,0,0,0,N,N,N,N,N,N,N,N
+123,"GLA is metabolised to DGLA, which inhibits the synthesis of pro-inflammatory cytokines, e.g.",0,0,0,N,N,N,N,N,N,N,N
+124,LT4 and PGE2 by competing with AA for COX and inhibiting 5-LOX via the 15-hydroxyl intermediate 15-hydroxyeicosatrienoic acid (15-HETE) .,0,0,0,N,N,N,N,N,N,N,N
+125,DGLA is also metabolised to 1-series prostaglandins such as PGE1 which has demonstrable anti-inflammatory effects at the ocular surface .,0,0,0,N,N,N,N,N,N,N,N
+126,"Furthermore, PGE1 has also been shown to increase aqueous tear secretion via a presumed action on lacrimal adrenergic receptors leading to cyclic nucleotide synthesis .",0,0,0,N,N,N,N,N,N,N,N
+127,"Dietary supplementation with LA and GLA in patients with primary Sjögrens syndrome, at a lower dose than in the present study, elevates both plasma DGLA [39] and leads to raised PGE1 levels in tears [24] in line with an improvement in ocular surface signs and symptoms.",0,0,0,N,N,N,N,N,N,N,N
+128,A similar mechanism could therefore explain the observed symptomatic improvement in the EPO group.,0,0,0,N,N,N,N,N,N,N,N
+129,A significant increase in tear meniscus height was also seen in the treatment group at 6 months compared to pre-trial values and a smaller increase in the placebo group (although this did not reach the 1% level of significance).,0,0,0,N,N,N,N,N,N,N,N
+130,The placebo used in the current study was olive oil.,0,0,0,N,N,N,N,N,N,N,N
+131,The choice of a truly inactive placebo can be problematic in randomised placebo-controlled trials of this nature  and therefore the possibility that olive oil influences tear secretion cannot be completely ruled out.,0,0,0,N,N,N,N,N,N,N,N
+132,"Although olive oil contains predominantly oleic acid, an omega-9 fatty acid, it also contains a small quantity of LA, which in the body can be converted into GLA via the enzyme delta-6 desaturase and thus influence tear secretion by the same mechanism.",0,0,0,N,N,N,N,N,N,N,N
+133,"Furthermore, olive oil has been recently shown to contain a natural anti-inflammatory compound which displays a potency and pharmacological profile similar to ibuprofen.",0,0,0,N,N,N,N,N,N,N,N
+134,"Whilst the present study has provided evidence for the beneficial effect of LA and GLA in dry eye, other omega-6 EFAs may be deleterious, e.g.",0,0,0,N,N,N,N,N,N,N,N
+135,a diet rich in AA can lead to an excessive production of proinflammatory mediators.,0,0,0,N,N,N,N,N,N,N,N
+136,"For optimal nutrition, an appropriate balance should be maintained between omega-6 and omega-3 EFA consumption .",0,0,0,N,N,N,N,N,N,N,N
+137,"Western diets tend to be deficient in omega-3, particularly those derived from fish, which may promote the development of several chronic diseases, including dry eye .",0,0,0,N,N,N,N,N,N,N,N
+138,"Significantly, Miljanovic and co-workers found that dietary ratios of omega-6 to omega-3 EFAs in excess of 15:1 were associated with an increased risk of dry eye syndrome .",0,0,0,N,N,N,N,N,N,N,N
+139,Omega-3 EFAs reduce the levels of AA-derived inflammatory mediators as well as maintaining the conversion of DGLA into anti-inflammatory 1-series prostaglandins.,0,0,0,N,N,N,N,N,N,N,N
+140,There is evidence that omega-3 supplementation may independently be of benefit in the management of dry eye.,0,0,0,N,N,N,N,N,N,N,N
+141,"A recent large epidemiological study involving 39,876 women in the USA found that higher intake of omega-3 fatty acids in the diet is associated with a decreased incidence of dry eye syndrome.",0,0,0,N,N,N,N,N,N,N,N
+142,"Women who consumed at least five servings of tuna per week were at a 68% reduced risk of dry eye syndrome, compared to women who had one serving per week .",0,0,0,N,N,N,N,N,N,N,N
+143,"In conclusion, this study provides evidence for a beneficial effect of particular orally administered omega-6 fatty acids in alleviating symptoms and improving overall lens comfort in patients suffering from contact lens associated dry eye.",0,0,0,N,N,N,N,N,N,N,N
+144,It is likely that this is via a reduction in ocular surface inflammation that has been previously documented in contact lens wearers.,0,0,0,N,N,N,N,N,N,N,N
+145,A secondary effect on tear secretion may also be a contributing factor.,0,0,0,N,N,N,N,N,N,N,N
+146,"When advising patients regarding EPO supplementation, the importance of omega-3 EFA intake should also be discussed.",0,0,0,N,N,N,N,N,N,N,N
+147,"Future studies will investigate the efficacy of a combined preparation, since it is likely that omega-3 fatty acids could act synergistically with omega-6 to enhance the therapeutic effect of each EFA.",0,0,0,N,N,N,N,N,N,N,N

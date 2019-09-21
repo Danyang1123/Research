@@ -1,0 +1,156 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Acute infectious conjunctivitis is a common disorder in primary care.,0,0,0,0,0,0,0,0,0,0,0
+1,"Despite a lack of evidence regarding the effectiveness of topical antibiotics for the treatment of acute infectious conjunctivitis, most patients presenting in primary care with the condition receive topical antibiotics.",0,0,0,0,0,0,0,0,0,0,0
+2,"In the Netherlands, fusidic acid is most frequently prescribed.",0,0,0,0,0,0,0,0,0,0,0
+3,To assess the effectiveness of fusidic acid gel compared to placebo for acute infectious conjunctivitis.,0,0,0,0,0,0,0,0,0,0,0
+4,Double-blind randomised placebo-controlled trial.,0,0,0,0,0,0,0,0,0,0,0
+5,Twenty-five Dutch primary care centres.,0,0,0,0,0,0,0,0,0,0,0
+6,"Adults presenting with a red eye and either (muco)purulent discharge or glued eyelid(s) were allocated to either one drop of fusidic acid gel 1% or placebo, four times daily during one week.",1,0,0,0,0,0,0,0,0,0,0
+7,The main outcome measure was the difference in recovery rates at 7 days.,1,0,0,0,0,0,0,0,0,0,0
+8,"Secondary outcome measures were difference in bacterial eradication rates, a survival time analysis of the duration of symptoms, and the difference in recovery rates in culture-positive and culture-negative patients.",1,0,0,0,0,0,0,0,0,0,0
+9,One hundred and eighty-one patients were randomised and 163 patients were analysed.,1,1,0,0,0,0,0,1,0,1,1
+10,Forty-five of the 73 patients in the treatment and 53 of the 90 patients in the placebo group recovered (adjusted risk difference = 5.3% [95% confidence interval {CI} = −11 to 18]).,1,0,0,0,0,0,0,1,0,1,1
+11,There was no difference between the median duration of symptoms in the two groups.,0,0,0,0,0,0,0,1,0,1,1
+12,"At baseline, the prevalence of a positive bacterial culture was 32% (58/181).",0,0,0,0,0,0,0,1,0,1,1
+13,The bacterial eradication rate was 76% in the treatment and 41% in the placebo group (risk difference = 35% [95% CI = 9.3 to 60.4]).,0,0,0,0,0,0,0,1,0,1,1
+14,"In culture positive patients, the treatment effect tended to be strong (adjusted risk difference = 23% [95% CI = −6 to 42]).",0,0,0,0,0,0,0,0,0,0,0
+15,"At 7 days, cure rates in the fusidic acid gel and placebo group were similar, but the confidence interval was too wide to clearly demonstrate their equivalence.",0,0,0,0,0,0,0,0,0,0,0
+16,These findings do not support the current prescription practices of fusidic acid by GPs.,0,0,0,0,0,0,0,0,0,0,0
+17,"In Western countries, acute infectious conjunctivitis is a common disorder with an incidence of 15 per 1000 patients per year in primary care.<sup><a href=""#b1"">1</a></sup><sup>–</sup><sup><a href=""#b6"">6</a></sup> The GP diagnoses acute infectious conjunctivitis on the basis of signs and symptoms.",0,0,0,0,0,0,0,0,0,0,0
+18,"In most cases, GPs do not feel able to differentiate between a bacterial and a non-bacterial cause.",0,0,0,0,0,0,0,0,0,0,0
+19,"Therefore, in more than 80% of cases an ocular antibiotic is prescribed.<sup><a href=""#b2"">2</a></sup><sup>,</sup><sup><a href=""#b7"">7</a></sup> In the Netherlands in 2001 more than 900 000 prescriptions for topical ocular antibiotics were issued and of these prescriptions, primary care physicians issued 85%.<sup><a href=""#b8"">8</a></sup> In England, 3.4 million community prescriptions for topical ocular antibiotics are issued each year.<sup><a href=""#b9"">9</a></sup> Although the practice guideline ‘The Red Eye’ of the Dutch College of General Practitioners recommends chloramphenicol as first choice ocular antibiotic, fusidic acid gel is most frequently prescribed for acute infectious conjunctivitis in the Netherlands.<sup><a href=""#b1"">1</a></sup><sup>,</sup><sup><a href=""#b2"">2</a></sup> The reasons for this prescription policy are that fusidic acid gel needs to be administered less frequently than chloramphenicol, and appears to have no serious adverse effects.<sup><a href=""#b10"">10</a></sup> Comparative studies show that the effectiveness of fusidic acid gel in suspected acute bacterial conjunctivitis is similar to that of other ocular antibiotics.<sup><a href=""#b11"">11</a></sup><sup>–</sup><sup><a href=""#b17"">17</a></sup> To our knowledge, no placebo controlled studies, investigating the effectiveness of topical ocular antibiotics for acute infectious conjunctivitis, have been carried out in a primary care setting.<sup><a href=""#b18"">18</a></sup> In contrast, a recently published systematic review on the effect of topical antibiotics for suspected acute bacterial conjunctivitis in secondary care settings showed that, compared to placebo, treatment with antibiotics was associated with significantly better rates of early (days 2–5) clinical remission (relative risk = 1.31 [95% confidence interval {CI} = 1.11 to 1.55]).<sup><a href=""#b19"">19</a></sup> The objective of our study was to assess the effectiveness of fusidic acid gel compared to placebo for acute infectious conjunctivitis in primary care patients.",0,0,0,0,0,0,0,0,0,0,0
+20,"Between October 1999 and December 2002, 41 GPs working in 25 care centres in the Amsterdam and Alkmaar region recruited patients for the trial.",0,0,0,0,0,0,0,0,0,0,0
+21,All eligible patients were referred for inclusion to nine designated ‘study’ GPs who worked in nine of the 25 centres.,0,0,0,0,0,0,0,0,0,0,0
+22,These GPs were instructed to include patients with a red eye and either (muco)purulent discharge or sticking of the eyelids.,0,0,0,0,0,0,0,0,0,0,0
+23,"The exclusion criteria were age younger than 18 years, pre-existing symptoms longer than 7 days, acute loss of vision, wearing of contact lenses, systemic or local antibiotic use within the previous 2 weeks, ciliary redness, eye trauma, and a history of eye operation.",0,0,0,0,0,0,0,0,0,0,0
+24,All eligible patients were referred to one of the nine study GPs for enrolment in the study.,0,0,0,0,0,0,0,0,0,0,0
+25,Patients were recruited during office hours only.,0,0,0,0,0,0,0,0,0,0,0
+26,"Before inclusion, a written informed consent was obtained.",0,0,0,0,0,0,0,0,0,0,0
+27,"The patients were informed about the goal and duration of the study, the additional investigations (cultures), and about the choice of fusidic acid and the comparison to placebo.",0,0,0,0,0,0,0,0,0,0,0
+28,"The patients were informed that, in case of infectious conjunctivitis, most patients receive a treatment with fusidic acid, and that there is no evidence that this treatment is beneficial.",0,0,0,0,0,0,0,0,0,0,0
+29,The patients were informed that possible harms due to withholding treatment were not expected.,0,0,0,0,0,0,0,0,0,0,0
+30,"Subsequently, a standardised questionnaire and a standardised physical examination were completed by the study GP.",0,0,0,0,0,0,0,0,0,0,0
+31,"The questionnaire contained questions about previous medical history (self-reported), duration of symptoms (days), self-medication and self-therapy, itching, burning sensation, foreign body sensation, and about the number of glued eyes in the morning (zero, one or two).",0,0,0,0,0,0,0,0,0,0,0
+32,"The physical examination contained investigation of the degree of redness (peripheral, whole conjunctiva, or whole conjunctiva and pericorneal), the presence of peri-orbital oedema, the kind of discharge (watery, mucous, or purulent), and bilateral involvement (yes/no).",0,0,0,0,0,0,0,0,0,0,0
+33,"Next, in a standardised way, one conjunctival sample of each eye was taken for a bacterial culture.",0,0,0,0,0,0,0,0,0,0,0
+34,"For each patient, one eye was designated as the ‘study eye’.",0,0,0,0,0,0,0,0,0,0,0
+35,"In case of two affected eyes, the one with worse signs and/or symptoms was the ‘study eye’.",0,0,0,0,0,0,0,0,0,0,0
+36,"In case of two equally affected eyes, the first affected eye was the ‘study eye’.",0,0,0,0,0,0,0,0,0,0,0
+37,"Next, the ‘study eye’ (that is, the patient) was allocated to either treatment with fusidic acid or placebo.",0,0,0,0,0,0,0,0,0,0,0
+38,"In case of two affected eyes, the bilateral eye received the same treatment as the ‘study eye’.",0,0,0,0,0,0,0,0,0,0,0
+39,"Although ocular antibiotics, in particular fusidic acid, are usually prescribed, there is no publicised evidence on their effect in primary care patients with an acute infectious conjunctivitis.",0,0,0,0,0,0,0,0,0,0,0
+40,This study demonstrates that the effect of fusidic acid gel seems similar to placebo in primary care patients with an acute infectious conjunctivitis.,0,0,0,0,0,0,0,0,0,0,0
+41,GPs should be restrictive in blindly prescribing fusidic acid.,0,0,0,0,0,0,0,0,0,0,0
+42,"During a week, the patients kept a daily diary, containing six questions about the presence of symptoms in the study eye.",0,0,0,0,0,0,0,0,0,0,0
+43,These signs and symptoms were: discharge (yes/no); redness (yes/no); itching (yes/no); foreign body sensation (yes/no); glued eyelids in the morning (yes/no); and photophobia (yes/no).,0,0,0,0,0,0,0,0,0,0,0
+44,"The patients were instructed to apply one drop of the study medication four times daily to the affected eye(s), starting on the day of inclusion.",0,0,0,0,0,0,0,0,0,0,0
+45,The GP demonstrated the first application.,0,0,0,0,0,0,0,0,0,0,0
+46,The patients received a written instruction for use.,0,0,0,0,0,0,0,0,0,0,0
+47,The study medication was either fusidic acid gel 10 mg/g (Fucithalmic®; Leo Pharmaceutical Products) or placebo gel (Vidisic® 2 mg/g: Tramedico).,0,0,0,0,0,0,0,0,0,0,0
+48,The patients were advised to use the study medication until 1 day after the signs and symptoms were recovered.,0,0,0,0,0,0,0,0,0,0,0
+49,Seven days after inclusion the patients were asked to visit their GP for evaluation.,0,0,0,0,0,0,0,0,0,0,0
+50,"Data about recovery, adverse effects, and ocular signs and symptoms were recorded using a standardised questionnaire.",0,0,0,0,0,0,0,0,0,0,0
+51,"The questionnaire contained questions about itching, burning sensation, foreign body sensation, and about the number of glued eyes in the morning (zero, one or two).",0,0,0,0,0,0,0,0,0,0,0
+52,"The physical examination contained investigation of the degree of redness (peripheral, whole conjunctiva, or whole conjunctiva and pericorneal), the presence of peri-orbital oedema, the kind of discharge (watery, mucous, or purulent), adverse effect, and the overall judgement of the GP if the study eye had recovered completely (yes/no).",0,0,0,0,0,0,0,0,0,0,0
+53,"Again, two conjunctival samples were taken for a bacterial culture, one from each eye.",0,0,0,0,0,0,0,0,0,0,0
+54,Any remaining study medication was weighed to get an impression of treatment adherence.,0,0,0,0,0,0,0,0,0,0,0
+55,The objective of this study was to assess the effectiveness of fusidic acid gel compared to placebo for recovery of acute infectious conjunctivitis in primary care patients.,0,0,0,0,0,0,0,0,0,0,0
+56,The primary outcome measure was the difference in the proportions of patients recovered after 7 days of treatment.,0,0,0,0,0,0,0,0,0,0,0
+57,"Recovery was defined as absence of any signs and symptoms, objectified by the GP, indicating conjunctivitis.",0,0,0,0,0,0,0,0,0,0,0
+58,"Secondary outcome measures were the difference in bacterial eradication rates after 7 days, adverse effects, and a survival time analysis of the duration of symptoms.",0,0,0,0,0,0,0,0,0,0,0
+59,"Finally, the extent to which the 7-day recovery rate in culture-positive patients differed from that in culture-negatives was studied.",0,0,0,0,0,0,0,0,0,0,0
+60,"The study medication was repacked into identical tubes by a local pharmacist under aseptic circumstances, according to the consecutive numbers on nine computer-generated randomisation lists, one for each GP.",0,0,1,0,1,1,1,0,0,0,0
+61,The tubes were then labelled with a code number.,0,0,1,0,1,1,1,0,0,0,0
+62,"The GPs received the coded tubes, and handed out the tube with the first available code number to their consecutive patients.",0,0,1,0,1,1,1,0,0,0,0
+63,"In this way, the patients were assigned in double blind fashion to either fusidic acid gel or placebo.",0,0,1,0,1,1,1,0,0,0,0
+64,The pharmacist was the only person in possession of the randomisation lists and was not involved in outcome measurement or data analysis.,0,0,1,0,1,1,1,0,0,0,0
+65,The code was broken only after the follow up had been completed and all data was entered into a database.,0,0,0,0,0,0,0,0,0,0,0
+66,Conjunctiva samples were taken by rolling a cotton swab (Laboratory Service Provider) over the conjunctiva of the lower fornix.,0,0,0,0,0,0,0,0,0,0,0
+67,The swabs were put in a transport-medium and sent to the investigating laboratory.,0,0,0,0,0,0,0,0,0,0,0
+68,"On arrival, the swabs were inoculated onto blood agar enriched with 5% sheep blood, MacConkey agar, and chocolate agar.",0,0,0,0,0,0,0,0,0,0,0
+69,All media were house made using standard ingredients.,0,0,0,0,0,0,0,0,0,0,0
+70,"After standard inoculation, the blood agar and MacConkey agar plates were incubated for a period of 48 hours at 35°C, whereas the chocolate agar plates were inoculated during the same period and temperature, but in 7% CO<sub>2</sub> atmosphere.",0,0,0,0,0,0,0,0,0,0,0
+71,"Cultures were further analysed daily according to the guidelines of the American Society for Microbiology.<sup><a href=""#b20"">20</a></sup> All pathogens were identified using routine standard biochemical procedures.",0,0,0,0,0,0,0,0,0,0,0
+72,The susceptibility of fusidic acid was assessed by determination of the minimal inhibitory concentration of this antibiotic using an Etest® (AB Biodisk) assay on Mueller–Hinton agar.,0,0,0,0,0,0,0,0,0,0,0
+73,Minimal inhibitory concentrations were read after incubation at 35°C for 24 hours according to the manufacturers’ instructions.,0,0,0,0,0,0,0,0,0,0,0
+74,"Critical minimal inhibitory concentrations were used according to the Dutch National Standards.<sup><a href=""#b21"">21",0,0,0,0,0,0,0,0,0,0,0
+75,"The difference in recovery rates after 7 days between the study groups was analysed using a χ<sup>2</sup> test (two-sided, unpaired).",0,0,0,0,0,0,0,0,0,0,0
+76,"Logistic regression was used to adjust the (crude) treatment effect estimate for potential confounding effects due to post-randomisation imbalances (<a href=""#tbl1"">Table 1</a>), and to study the extent to which the recovery rates between culture-positive and culture-negative patients differed.",0,0,0,0,0,0,0,0,0,0,0
+77,"For easier interpretation, the odds ratios obtained from the regression analysis were converted into relative risks.<sup><a href=""#b22"">22</a></sup> These relative risks were converted into risk differences and numbers needed to treat using the recovery rate in the placebo group as the background risk.",0,0,0,0,0,0,0,0,0,0,0
+78,"The 95% CIs of the numbers needed to treat (benefit) and numbers needed to treat (harm) are presented as recommended by Altman.<sup><a href=""#b23"">23</a></sup> An additional analysis, in which we assumed that all patients (18 in total) who were lost to follow up had not recovered at 7 days, was performed.",0,0,0,0,0,0,0,0,0,0,0
+79,The median duration of the combined symptoms (diary) in both groups was analysed using a Kaplan–Meier survival analysis.,0,0,0,0,0,0,0,0,0,0,0
+80,"Of each patient, all recorded symptoms in the diary were combined in a new variable that was coded ‘1’ for patients who had become symptom free (all six symptoms in the diary absent) at day 1–7, and coded ‘0’ otherwise.",0,0,0,0,0,0,0,0,0,0,0
+81,In this way we were able to analyse the median duration of the combined symptoms (diary) in both groups.,0,0,0,0,0,0,0,0,0,0,0
+82,The difference in bacterial eradication rates after 7 days was analysed using a χ<sup>2</sup> test (two-sided).,0,0,0,0,0,0,0,0,0,0,0
+83,The distributions of the milligrams of study medication were compared between the study arms using the Mann-Whitney U test.,0,0,0,0,0,0,0,0,0,0,0
+84,"A <span class=""italic"">P</span>-value of ≤0.05 indicated a statistically significant difference between the distributions of study medication use.",0,0,0,0,0,0,0,0,0,0,0
+85,"With a postulated recovery rate after 7 days of 95% in the intervention group and 80% in the placebo group, a difference in recovery of 15% was considered clinically relevant.",0,0,0,0,0,0,0,0,0,0,0
+86,"With the type I and type II error rates at 0.05, and 0.20, respectively, the required sample size was 88 patients per group.",0,0,0,0,0,0,0,0,0,0,0
+87,The statistical analyses were performed using SPSS (version 11.5.2).,0,0,0,0,0,0,0,0,0,0,0
+88,"Forty-one GPs referred 184 patients to the GPs, of which 181 were randomised (<a href=""#f1"">Figure 1</a>).",0,0,0,0,0,0,0,0,0,0,0
+89,"With regard to baseline characteristics, the groups appeared comparable with possible exception of age, sex, history of infectious conjunctivitis, a foreign body sensation in the eye, and bilateral involvement (<a href=""#tbl1"">Table 1</a>).",0,0,0,0,0,0,0,0,0,0,0
+90,"In the fusidic acid and the placebo group 8 and 10 patients, respectively, were lost to follow up (<a href=""#f1"">Figure 1</a>).",0,0,0,0,0,0,0,0,0,0,0
+91,"Thus, 163 patients were analysed.",0,0,0,0,0,0,0,0,0,0,0
+92,"The median consumption of study medication was 1.51 g (interquartile range ([IQR] = 0.75–2.24) in the fusidic acid group, and 1.21 g (IQR = 0.87–1.69) in the placebo group (<span class=""italic"">P</span> = 0.303).",0,0,0,0,0,0,0,0,0,0,0
+93,"After 7 days, the proportion of recovered patients was 45/73 (62%) in the fusidic acid gel group and 53/90 (59%) in the placebo group (<a href=""#tbl2"">Table 2</a>).",0,0,0,0,0,0,0,0,0,0,0
+94,"Consequently, the probability of recovery was 2.8% greater in the fusidic acid group with a risk difference of 2.8% (95% CI = −13.5 to 18.6), the number needed to treat (NNT) (benefit) was 36.3 (95% CI = NNT [harm] 7.4 to ∞ to NNT [benefit] 5.4).",0,0,0,0,0,0,0,0,0,0,0
+95,Age was the only confounding factor and after adjustment the risk difference was 5.3% (95% CI = −11.0 to 18.0).,0,0,0,0,0,0,0,0,0,0,0
+96,"The treatment effect seemed stronger in culture-positive patients (adjusted risk difference = 22.9% [95% CI = −6.0 to 42.0]) (<a href=""#tbl3"">Table 3</a>).",0,0,0,0,0,0,0,0,0,0,0
+97,"The additional analysis showed only a small effect on our results where the risk difference decreased from 5.3% (95% CI = −11.0 to 18.0) to 3.8% (95% CI = −11.0 to 18.0) (<a href=""#tbl4"">Table 4</a>).",0,0,0,0,0,0,0,0,0,0,0
+98,"The Kaplan–Meier survival curves of symptoms (diary) did not differ significantly between the two groups (<a href=""#f2"">Figure 2</a>; <span class=""italic"">P</span> = 0.422, logrank test).",0,0,0,0,0,0,0,0,0,0,0
+99,No patients became symptom-free within 2 days.,0,0,0,0,0,0,0,0,0,0,0
+100,"Within the group of patients whose study eye had recovered at 1 week, 3.1% (3/98) of the non-study eyes showed signs and symptoms of conjunctivitis; 2.2% (1/45) in the fusidic acid group, and 3.8% (2/53) in the placebo group, respectively.",0,0,0,0,0,0,0,0,0,0,0
+101,In both trial arms there were no clinically serious adverse outcomes.,0,0,0,0,0,0,0,0,0,0,0
+102,"At baseline, 58/181 (32%) patients were culture positive.",0,0,0,0,0,0,0,0,0,0,0
+103,"The most prevalent cultured species was <span class=""italic"">Streptococcus pneumoniae</span>, accounting for 27/58 (47%) of the positive cultures.",0,0,0,0,0,0,0,0,0,0,0
+104,"Overall, 38/58 (66%) cultures proved to be resistant to fusidic acid (<a href=""#tbl5"">Table 5</a>).",0,0,0,0,0,0,0,0,0,0,0
+105,"After 7 days, the bacterial eradication rates were 16/21 (76%) in the treatment group and 12/29 (41%) in the placebo group with a risk difference of 34.8% (95% CI = 9.3 to 60.4) and NNT (benefit) of 2.9 (95% CI = 1.7 to 10.8) (<a href=""#tbl6"">Table 6</a>).",0,0,0,0,0,0,0,0,0,0,0
+106,The proportion of patients that recorded adverse effects was 10/73 (14%) in the treatment group and 3/90 (3%) in the placebo group with a risk difference of 10.4% (95% CI = 1.6 to 19.1) and a NNT to treat of 9.7 (95%CI = 5.2 to 60.6).,0,0,0,0,0,0,0,0,0,0,0
+107,"The most common adverse effect was a burning sensation after instillation of the study medication, with a prevalence of eight out of 10 in the treatment group and one in three in placebo group.",0,0,0,0,0,0,0,0,0,0,0
+108,"This is the first study comparing fusidic acid gel to placebo for acute infectious conjunctivitis, and the first randomised controlled trial on this subject performed in a primary care setting.",0,0,0,0,0,0,0,0,0,0,0
+109,We found that the recovery rates after 7 days in the fusidic acid gel and placebo groups seemed essentially the same.,0,0,0,0,0,0,0,0,0,0,0
+110,"However, our trial was too small to completely exclude clinically relevant treatment differences.",0,0,0,0,0,0,0,0,0,0,0
+111,"The treatment effect in patients with a positive culture seemed higher, although CIs were fairly wide.",0,0,0,0,0,0,0,0,0,0,0
+112,There were 81 patients in the fusidic acid group and 100 patients in the placebo group.,0,0,0,0,0,0,0,0,0,0,0
+113,This imbalance was caused by the so-called unrestricted randomisation procedure.,0,0,0,0,0,0,0,0,0,0,0
+114,"With hindsight, the use of random permuted blocks of size two or four would have been preferable.",0,0,0,0,0,0,0,0,0,0,0
+115,"However, it should be emphasised that this oversight affected the study's precision, not its (internal) validity.",0,0,0,0,0,0,0,0,0,0,0
+116,"In the fusidic acid gel and placebo group, 10% of the included participants were lost to follow up.",0,0,0,0,0,0,0,0,0,0,0
+117,"The reasons for drop-out were essentially the same in both groups (<a href=""#f1"">Figure 1</a>).",0,0,0,0,0,0,0,0,0,0,0
+118,"As the additional analysis showed, any effect on the validity of the findings is unlikely.",0,0,0,0,0,0,0,0,0,0,0
+119,The median consumption of study medication did not differ significantly between the two groups.,0,0,0,0,0,0,0,0,0,0,0
+120,"Per protocol application (four drops per day during 1 week) implies 0.98 and 0.92 g of study medication in the fusidic acid and the placebo group, respectively.",0,0,0,0,0,0,0,0,0,0,0
+121,"Since the median consumption in both groups is higher, it is unlikely that the difference in consumption of the study medication influenced the treatment effect.",0,0,0,0,0,0,0,0,0,0,0
+122,"Our findings seem to be at odds with a recently published systematic review on the effect of topical antibiotics for suspected acute bacterial conjunctivitis, although our study lacked power to show this conclusively.<sup><a href=""#b18"">18</a></sup> That review showed that, compared to placebo, treatment with antibiotics was associated with significantly better rates of early clinical remission (days 2–5) (relative risk = 1.31, 95% CI = 1.11 to 1.55).",0,0,0,0,0,0,0,0,0,0,0
+123,The difference in outcomes between these results and those of our study may be explained by the fact that our study was conducted in a primary care setting with potentially lower prevalence of positive cultures.,0,0,0,0,0,0,0,0,0,0,0
+124,"A meta-analysis by Sheikh <span class=""italic"">et al</span> showed that mainly in the first 3–5 days of the regimen, treatment with antibiotics was associated with significantly better rates of clinical remission.<sup><a href=""#b19"">19</a></sup> Since we found no significant difference in recovery at 7 days between the intervention and placebo group, it seems unlikely that a fusidic acid effect is present after 1 week.",0,0,0,0,0,0,0,0,0,0,0
+125,"Therefore, we expect that a longer duration of follow up in our study would not have led to a better effect rate for fusidic acid gel compared to placebo.",0,0,0,0,0,0,0,0,0,0,0
+126,It is interesting to note that 66% of the cultured species were resistant to fusidic acid.,0,0,0,0,0,0,0,0,0,0,0
+127,"For the treatment of suspected acute bacterial conjunctivitis, it has been proven that fusidic acid gel is as effective as other ocular antibiotics, even when the resistance rate to fusidic acid was significantly higher.<sup><a href=""#b11"">11</a></sup><sup>–</sup><sup><a href=""#b17"">17</a></sup> According to the Dutch standards, a minimal inhibitory concentration of 1 mg/L or higher indicates resistance to fusidic acid.<sup><a href=""#b21"">21</a></sup> However, the critical minimal inhibitory concentrations were estimated on the basis of measurements of antibiotic concentrations in serum, and not in tear fluid.",0,0,0,0,0,0,0,0,0,0,0
+128,"A study on the pharmacokinetics of fusidic acid 1% viscous eye drops in healthy volunteers showed that the mean concentrations at 6 and 12 hours after instillation were 10 and 6 mg/L, respectively.<sup><a href=""#b10"">10</a></sup> Owing to the high concentrations of fusidic acid achieved in tear fluid, standardised susceptibility tests may not be appropriate to predict clinical effectiveness.",0,0,0,0,0,0,0,0,0,0,0
+129,This probably explains why the bacterial eradication rate in the fusidic acid gel group was much higher.,0,0,0,0,0,0,0,0,0,0,0
+130,Implications for future research and clinical practice,0,0,0,0,0,0,0,0,0,0,0
+131,"In line with basic biology, the treatment effect in patients with a positive culture tended to be stronger than in culture negatives, although the <span class=""italic"">P</span>-value of the interaction term was not significant at the 5% level.",0,0,0,0,0,0,0,0,0,0,0
+132,"Therefore, when future (primary care) research demonstrates a much greater effect of antibiotics in culture-positive patients, it seems attractive to develop an easy-to-use test to provide evidence for a bacterial cause, avoiding the delay that is currently associated with culturing.",0,0,0,0,0,0,0,0,0,0,0
+133,"Alternatively, a validated diagnostic model based on currently available diagnostic indicators included in the signs and symptoms could be used.<sup><a href=""#b24"">24",0,0,0,0,0,0,0,0,0,0,0
+134,"In conclusion, at 7 days, cure rates in both the fusidic acid gel and placebo group were similar, although the trial lacked power to demonstrate equivalence conclusively.",0,0,0,0,0,0,0,0,0,0,0
+135,These findings do not support the current prescription practices of fusidic acid by GPs.,0,0,0,0,0,0,0,0,0,0,0
+136,"View larger version</a></span><span class=""fig-label"">Figure 1.",0,0,0,1,0,0,0,0,1,0,0
+137,</span>Flowchart of patients.,0,0,0,1,0,0,0,0,1,0,0
+138,"View larger version</a></span><span class=""fig-label"">Figure 2.",0,0,0,1,0,0,0,0,1,0,0
+139,</span>Kaplan–Meier curves showing times to disappearance of symptoms for the two groups.,0,0,0,1,0,0,0,0,1,0,0
+140,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,1,0,0,0,0,1,0,0
+141,"</span>Characteristics at baseline (<span class=""italic"">n</span> = 181).",0,0,0,0,0,0,0,0,0,0,0
+142,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,0,0,0,0,0,0,0,0,0
+143,"</span>Numbers recovered at 1 week (<span class=""italic"">n</span> = 163).",0,0,0,0,0,0,0,0,0,0,0
+144,"See full table</a></span><span class=""fig-label"">Table 3.",0,0,0,0,0,0,0,0,0,0,0
+145,"</span>Logistic regression analysis of effect of treatment by culture result.<a href=""#tf3-1"">a",0,0,0,0,0,0,0,0,0,0,0
+146,"See full table</a></span><span class=""fig-label"">Table 4.",0,0,0,0,0,0,0,0,0,0,0
+147,</span>Additional analysis (patients who were lost to follow up (18 in total) were assumed not recovered at 7 days),0,0,0,0,0,0,0,0,0,0,0
+148,"See full table</a></span><span class=""fig-label"">Table 5.",0,0,0,0,0,0,0,0,0,0,0
+149,"</span>Cultured species at baseline and their susceptibility to fusidic acid (<span class=""italic"">n</span> = 181).",0,0,0,0,0,0,0,0,0,0,0
+150,"See full table</a></span><span class=""fig-label"">Table 6.",0,0,0,0,0,0,0,0,0,0,0
+151,"</span>Bacterial eradication after 1 week in culture-positive group (<span class=""italic"">n</span> = 50).<a href=""#tf6-1"">a",0,0,0,0,0,0,0,0,0,0,0
+152,Dutch College of General Practitioners (ZonMw) (4200.0006),0,0,0,0,0,0,0,0,0,0,0
+153,The Medical Ethics Committee of the Academic Medical Center in Amsterdam (MEC99/139),0,0,0,0,0,0,0,0,0,0,0
+154,None,0,0,0,0,0,0,0,0,0,0,0

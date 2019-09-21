@@ -1,0 +1,134 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"OBJECTIVES: To examine the efficacy of periosteal stimulation therapy (PST, osteopuncture) for the treatment of chronic pain associated with advanced knee osteoarthritis.",0,0,0,0,0,N,0,0,0,0,0
+1,"DESIGN: Randomized, controlled clinical trial.",0,0,0,0,0,N,0,0,0,0,0
+2,SETTING: Outpatient pain clinic.,0,0,0,0,0,N,0,0,0,0,0
+3,PARTICIPANTS: Eighty‐eight community‐dwelling older adults with moderate knee pain or greater for 3 months or longer and Kellgren‐Lawrence (K‐L) grade 2 through 4 radiographic severity (80% had K‐L 4).,0,0,0,0,0,N,0,0,0,0,0
+4,INTERVENTION: Participants were randomized to receive PST or control PST once a week for 6 weeks.,0,0,0,0,0,N,0,1,0,0,0
+5,"MEASUREMENTS: Pain severity and self‐reported function (Western Ontario and McMasters University Osteoarthritis Index (WOMAC)) and physical performance (Short Physical Performance Battery (SPPB)) were assessed at baseline, after the last PST session (post), and 3 months later (follow‐up).",0,0,0,0,0,N,0,0,0,0,0
+6,Pain severity was also assessed monthly using the multidimensional pain inventory short form.,0,0,0,0,0,N,0,0,0,0,0
+7,"RESULTS: Pain was reduced significantly more in the PST group than in the control PST group at post (P=.003; mean WOMAC pain subscale baseline 9.4 vs 6.4) and 1 month later (P<.001), but by 2 months, pain levels had regressed to pre‐intervention levels.",0,0,0,0,0,N,0,0,0,0,0
+8,The group‐by‐time interaction for the WOMAC function scale was significant at post (P=.04) but not at follow‐up (P=.63).,0,0,0,0,0,N,0,1,0,0,0
+9,No significant group differences were found for the SPPB.,0,0,0,0,0,N,0,0,0,0,0
+10,Neither analgesic use nor global improvement differed between groups.,0,0,0,0,0,N,0,0,0,0,0
+11,There were four treatment dropouts.,0,0,0,0,0,N,0,0,0,0,0
+12,CONCLUSION: PST affords short‐term modest pain reduction for older adults with advanced knee OA.,0,0,0,0,0,N,0,0,0,0,0
+13,Future research should test the effectiveness of booster treatments in sustaining analgesic benefits and of combining PST with therapeutic exercise in ameliorating disability risk.,0,0,0,0,0,N,0,0,0,0,0
+14,Painful knee osteoarthritis (OA) becomes increasingly common with age.,0,0,0,0,0,N,0,0,0,0,0
+15,"An estimated 20 million Americans are affected nationwide, and even higher prevalence rates are estimated for other parts of the world.",0,0,0,0,0,N,0,0,0,0,0
+16,"A variety of untoward consequences may result in knee OA sufferers, including limitations in physical function, postural instability, sleep disturbance, psychosocial disability, and substantial use of healthcare resources.",0,0,0,0,0,N,0,0,0,0,0
+17,"Although oral analgesics represent the mainstay of treatment for chronic pain associated with knee OA, nonresponders with limiting comorbidities may have few therapeutic alternatives.",0,0,0,0,0,N,0,0,0,0,0
+18,"Approximately 15 million Americans have reported trying acupuncture, which has become one of the most common complementary therapies for the treatment of musculoskeletal pain in general and for OA in particular.",0,0,0,0,0,N,0,0,0,0,0
+19,"Before 2004, high‐quality randomized, controlled clinical trials evaluating the efficacy of acupuncture for the treatment of OA‐associated chronic knee pain were lacking.",0,0,0,0,0,N,0,0,0,0,0
+20,"During the past 2 years, three such trials have been published.",0,0,0,0,0,N,0,0,0,0,0
+21,"Two of these evaluated the efficacy of traditional Chinese acupuncture for knee OA pain, but a variety of limitations, including high dropout rates, inclusion of a small minority of participants with advanced disease, a treatment protocol that varied across participants, and a prohibitively large number of treatments, make it difficult to generalize the results of these studies to clinical practice.",0,0,0,0,0,N,0,0,0,0,0
+22,"Another trial combined acupuncture with physical therapy (PT), excluded participants with advanced disease, and did not monitor home PT compliance.",0,0,0,0,0,N,0,0,0,0,0
+23,These investigators found no benefit associated with acupuncture over sham acupuncture.,0,0,0,0,0,N,0,0,0,0,0
+24,Periosteal stimulation therapy (PST) or periosteal electroacupuncture (osteopuncture) applies direct electrical stimulation of the periosteum and its associated nerves using parsimoniously applied acupuncture needles over bony prominences.,0,0,0,0,0,N,0,0,0,0,0
+25,"Although the stimulation of acupuncture points that lie along meridians used in traditional Chinese acupuncture is sometimes combined with PST, this is not required.",0,0,0,0,0,N,0,0,0,0,0
+26,It is an aggressive local treatment for deep pain problems such as OA.,0,0,0,0,0,N,0,0,0,0,0
+27,"It is thought to be more potent than traditional electroacupuncture, and thus its benefits can be realized more quickly.",0,0,0,0,0,N,0,0,0,0,0
+28,"The purpose of the current study was to examine the efficacy of PST in reducing pain and improving function in older adults with knee OA, including those with advanced disease.",0,0,0,0,0,N,0,0,0,0,0
+29,Participant flow is shown in Figure 1.,1,0,0,0,0,N,0,0,0,0,0
+30,"Participants were 88 English‐speaking community‐dwelling older adults (aged ≥65) with chronic knee pain (i.e., knee pain of moderate intensity or greater on most or all days for ≥3 months) and radiographic knee OA (Kellgren‐Lawrence grade 2, 3, or 4, read by a rheumatologist masked to group assignment).",1,0,0,0,0,N,0,0,0,0,0
+31,All participants were cognitively intact and signed informed consent before their participation.,1,0,0,0,0,N,0,0,0,0,0
+32,"They were recruited by way of newspaper advertisements and screened in two phases: over the telephone (n=321), then on site by one of the investigators (NM) with a structured history and physical examination (n=126).",1,0,0,0,0,N,0,0,0,0,0
+33,"Exclusion criteria were cognitive impairment (Folstein Mini‐Mental State Examination score <24 adjusted for age and education), severe visual or hearing impairment, acute illness or pain, prior knee surgery, non‐OA arthritides, nonambulatory or ambulatory only with a walker, pain in the lower body more severe than knee pain, a large knee effusion or severe mechanical knee instability, corticosteroid or hyaluronic acid injection during the prior 3 months, immunosuppressive or anticoagulant medications, pacemaker, prior electroacupuncture treatment, or acute or terminal illness.",1,0,0,0,0,N,0,0,0,0,0
+34,The University of Pittsburgh institutional review board approved this study.,0,0,1,0,1,N,1,0,0,0,0
+35,Participants were randomized to receive PST or control PST once a week (30 minutes) for 6 weeks and were kept masked to group assignment until after the 3‐month follow‐up.,0,1,1,0,1,N,1,0,0,0,0
+36,"The main outcome measures, collected by trained evaluators masked to group assignment, were assessed at baseline, after the 6‐week intervention (post), and 3 months later: Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), to evaluate pain and self‐reported function, and Short Physical Performance Battery (SPPB), to evaluate mobility and disability risk.",0,0,1,0,1,N,1,0,0,0,0
+37,"The multidimensional pain inventory (MPI) short form was also assessed on site at baseline, 6 weeks, and 3 months, as well as over the telephone at 1 and 2 months.",0,0,1,0,1,N,1,0,0,0,0
+38,Comorbidity (Cumulative Illness Rating Scale) and body mass index were assessed at baseline.,0,0,1,0,1,N,1,0,0,0,0
+39,Treatment credibility was also assessed after the first treatment session.,0,0,0,0,0,N,0,0,0,0,0
+40,"Secondary measures of outcome included the Geriatric Depression Scale for assessment of mood, the Pittsburgh Sleep Quality Index for assessment of sleep hygiene, the frequency of as‐needed analgesic ingestion during the prior 7 days, a timed stair climbing task, and self‐rated health as a measure of morbidity and mortality risk.",0,0,0,0,0,N,0,0,0,0,0
+41,"In addition, global improvement was assessed at the post and 3‐month follow‐up.",0,0,0,0,0,N,0,0,0,0,0
+42,Participants sat in an armless chair.,0,0,0,0,0,N,0,0,0,0,0
+43,"The pain status of each knee was assessed at baseline, and the specific intervention (i.e., right knee, left knee, or both knees) was determined at that time.",0,0,0,0,0,N,0,0,0,0,0
+44,"At the beginning of each session, the acupuncturist examined the knees for any signs of warmth or erythema.",0,0,0,0,0,N,0,0,0,0,0
+45,One of the investigators (RG) administered all PST and control PST after sterile preparation of the skin with povidone iodine 10% solution.,0,0,0,0,0,N,0,0,0,0,0
+46,"Instead of stimulating acupuncture points that lie along meridians, the intent of PST is to stimulate the periosteum directly.",0,0,0,0,0,N,0,0,0,0,0
+47,"Four sterile, single‐use 30‐gauge acupuncture needles were inserted into the following locations of the symptomatic knee(s) until they just touched bone: medial femoral condyle, lateral femoral condyle, flare of tibia, and head of fibula.In the PST, but not the control PST group, these needles were stimulated with 100 Hz for 30 minutes.",0,0,0,0,0,N,0,0,0,0,0
+48,The intensity of the stimulus was adjusted so that it was clearly felt but was not uncomfortable.,0,0,0,0,0,N,0,0,0,0,0
+49,The acupuncturist adjusted stimulus intensity periodically so that it was perceptible for the entire 30 minutes of PST.,0,0,0,0,0,N,0,0,0,0,0
+50,Two additional needles were inserted in the soft tissue on either side of the upper third of the tibial shaft.,0,0,0,0,0,N,0,0,0,0,0
+51,"In both groups, the two extra needles were stimulated with 100 Hz for 1 minute (Figure 2) to control for treatment credibility.",0,0,0,0,0,N,0,0,0,0,0
+52,Periosteal stimulation procedure and control procedure.,0,0,0,0,0,N,0,0,0,0,0
+53,"In the periosteal stimulation (PST) procedure (left) and the control procedure (right), the upper two needles touch the periosteum of the medial and lateral femoral condyles.",0,0,0,0,0,N,0,0,0,0,0
+54,The middle two needles touch the periosteum of the tibial flare and the fibular head.,0,0,0,0,0,N,0,0,0,0,0
+55,"The bottom two needles are in soft tissue, on either side of the tibial shaft.",0,0,0,0,0,N,0,0,0,0,0
+56,"In the periosteal stimulation procedure, the top four needles are stimulated with 100 Hz for 30 minutes.",0,0,0,0,0,N,0,0,0,0,0
+57,The bottom two needles are stimulated with 100 Hz for 1 minute in both PST and the control procedure.,0,0,0,0,0,N,0,0,0,0,0
+58,"The study design and corresponding analyses represented a one‐between subjects (PST vs control PST) and one‐within or repeated factor (pre, post, and follow‐up assessments) crossed factorial design, with multiple dependent outcome measures.",0,0,0,1,0,N,0,0,1,1,0
+59,A multivariate approach to repeated measures was used.,0,0,0,1,0,N,0,0,1,1,0
+60,"This approach provides better control for experimentwise error rates and avoids the compound symmetry assumption necessary for the univariate approach.Chi‐square, computed using StatXact (CYTEL Software Corp., Cambridge, MA), was used for dichotomous and ordinal measures.",0,0,0,1,0,N,0,0,1,1,0
+61,P≤.05 was used to indicate statistical significance.,0,0,0,1,0,N,0,0,1,1,0
+62,Data from all randomized participants were analyzed using an intention‐to‐treat model.,0,0,0,0,0,N,0,0,1,0,0
+63,Multiple imputation was used to estimate missing data from dropouts and those lost to follow‐up.,0,0,0,0,0,N,0,1,0,0,0
+64,Table 1 presents participant demographics and other baseline characteristics according to treatment group and the P‐values associated with chi‐square or analysis of variance tests that evaluated potential differences between the two treatment groups.,0,0,0,0,0,N,0,0,0,0,0
+65,"As displayed in Table 1, the groups did not differ significantly on any of these variables, indicating that the randomization procedures used were effective.",0,0,0,0,0,N,0,0,0,0,0
+66,"In addition, treatment credibility was comparable between groups.",0,0,0,0,0,N,0,0,0,0,0
+67,"Results for the primary outcome measures at baseline, post‐treatment, and 3‐month follow‐up are shown in Table 2.",0,0,0,0,0,N,0,1,0,0,0
+68,A significant group‐by‐time interaction was found for the WOMAC Pain Scale (P=.009).,0,0,0,0,0,N,0,0,0,0,0
+69,Multivariate contrasts indicated that the control group showed no significant changes in pain scores over time (P=.26).,0,0,0,0,0,N,0,0,0,0,0
+70,"As can be seen in Figure 3, pain severity was significantly lower in the PST group than in the control PST group right after completion of the intervention (6‐week time point, P=.003) and 1 month later (P<.001), but by 2 months, pain had regressed to pre‐intervention levels.",0,0,0,0,0,N,0,0,0,0,0
+71,"The WOMAC function scale changed significantly over time (P<.001), and although the PST group displayed greater improvement at post‐treatment (P=.04), the two groups were not significantly different at the 3‐month follow‐up (P=.63).",0,0,0,0,0,N,0,0,0,0,0
+72,"Similarly, performance‐based function (SPPB) improved significantly over time (P=.003), but the group‐by‐time interaction was not significant (P=.18).",0,0,0,0,0,N,0,0,0,0,0
+73,"Group and Effect Sizes for Outcome Measures at Baseline, Posttreatment, and Follow‐Up",0,0,0,1,0,N,0,0,0,1,0
+74,"Pain severity at baseline, post‐treatment and 1‐, 2‐, and 3‐month follow‐up.",0,0,0,0,0,N,0,0,0,0,1
+75,MPI=multidimensional pain inventory short form; PST=periosteal stimulation; FU=follow‐up; Pre=baseline; Post=right after completion of the 6 week intervention.,0,0,0,0,0,N,0,0,0,0,1
+76,"Table 2 also presents the results of four additional secondary outcome measures selected to evaluate sleep, depressive symptoms, stair climbing performance, and self‐reported health.",0,0,0,0,0,N,0,0,0,0,1
+77,None of these four measures displayed significant changes over time or a significant group‐by‐time interaction.,0,0,0,0,0,N,0,0,0,0,1
+78,There was also no significant difference between groups with regard to change in analgesic use after treatment (P=.59).,0,0,0,0,0,N,0,0,0,0,1
+79,Analgesic use was operationally defined according to a combination of analgesic dose and frequency of intake.,0,0,0,0,0,N,0,0,0,0,0
+80,"In the PST group, two participants used more analgesics at post than at baseline, 27 used fewer analgesics, and in 15 participants there was no change.",0,0,0,0,0,N,0,0,0,0,0
+81,"In the control PST group, two participants used more analgesics at post than at baseline, 22 used fewer, and in 20 participants there was no change.",0,0,0,0,0,N,0,0,0,0,0
+82,"Additionally, global improvement ratings at posttreatment were not significantly different (P=.92), with 65% of the PST group and 62% of the control PST group rating their overall improvement in knee pain symptoms as moderate or greater.",0,0,0,0,0,N,0,0,0,0,0
+83,"Similarly, no global improvement differences were found at the 3‐month follow‐up (P=.39), when 58% of the PST group and 57% of the control PST group rated their overall improvement as moderate or greater.",0,0,0,0,0,N,0,0,0,0,0
+84,"Neither disease burden (i.e., unilateral vs bilateral disease) nor K‐L score was significantly associated with the magnitude of pain reduction from pre‐ to post‐treatment.",0,0,0,0,0,N,0,0,0,0,0
+85,Treatment credibility and expectancy18 were comparable in the two groups (Table 1).,0,0,0,0,0,N,0,0,0,0,0
+86,There were no serious adverse events.,0,0,0,0,0,N,0,0,0,0,0
+87,Four of 88 subjects dropped out of the intervention phase because of transiently greater knee pain or dislike of the electrical stimulation sensation.,0,0,0,0,0,N,0,0,0,0,0
+88,Five participants (two in the PST group and three in the control PST group) were lost to follow‐up.,0,0,0,0,0,N,0,1,0,0,0
+89,"This is the first published study demonstrating the feasibility and efficacy of PST for the short‐term, modest reduction of pain in older adults with chronic knee pain associated with advanced OA.",0,0,0,0,0,N,0,0,0,0,0
+90,"The results, in particular the low number of treatments (i.e., 6) required to reduce pain, the efficacy of PST for those with advanced disease, the lack of significant adverse events, and the low dropout rate underscore the need for further study of this technique.",0,0,0,0,0,N,0,0,0,0,0
+91,Additional longer‐term studies of PST are needed to determine whether this modality should be more widely incorporated into clinical practice.,0,0,0,0,0,N,0,0,0,0,0
+92,"The magnitude of pain reduction experienced by the participants (∼30%) is comparable with that found in other published clinical trials for the treatment of knee OA (39% reduction of knee pain and 32% reduction of hip pain in response to treatment with nonsteroidal antiinflammatory drugs (NSAIDs)).This, coupled with the fact that 80% of the participants had K‐L 4 disease (bone on bone), is noteworthy.",0,0,0,0,0,N,0,0,0,0,0
+93,Older adults with end‐stage OA who have not responded to or have been unable to tolerate traditional analgesics may have few therapeutic alternatives.,0,0,0,0,0,N,0,0,0,0,0
+94,Some patients with moderate to severe knee pain respond to glucosamine and chondroitin.,0,0,0,0,0,N,0,0,0,0,0
+95,Intra‐articular glucocorticoid injections may provide modest benefits that are typically transient.,0,0,0,0,0,N,0,0,0,0,0
+96,Intra‐articular injection of hyaluronic acid has been met with mixed results.,0,0,0,0,0,N,0,0,0,0,0
+97,Neither arthroscopic debridement nor lavage has been proven to be effective.,0,0,0,0,0,N,0,0,0,0,0
+98,"Although surgery is effective for patients with advanced disease, older adults with limiting comorbidities may not be surgical candidates.",0,0,0,0,0,N,0,0,0,0,0
+99,"Thus, the demonstrated short‐term efficacy of osteopuncture for the reduction of pain in patients with advanced disease represents an important step toward testing this modality for widespread, long‐term use, which would require evidence that repeated treatments maintain their efficacy and are free from side effects.",0,0,0,0,0,N,0,0,0,0,0
+100,There was not a significant difference in analgesic intake in the PST and control participants at baseline or at post.,0,0,0,0,0,N,0,0,0,0,0
+101,These findings may seem inconsistent with the demonstrated pain reduction at 6 weeks.,0,0,0,0,0,N,0,0,0,0,0
+102,"It is important to keep in mind, as noted above, that the magnitude of pain reduction experienced by participants who received PST was modest, thus continued intake of analgesics is not surprising.",0,0,0,0,0,N,0,0,0,0,0
+103,"Future studies may want to examine the synergistic efficacy of PST combined with other analgesic modalities (e.g., physical therapy and other complementary and alternative medicine modalities) to further reduce pain and eliminate exposure to potentially toxic analgesics.",0,0,0,0,0,N,0,0,0,0,0
+104,"Pain reduction was associated with improved self‐reported, but not performance‐based, physical function.",0,0,0,0,0,N,0,0,0,0,0
+105,"That is, when pain was reduced after the 6‐week intervention period, the WOMAC function scale improved significantly more in the PST group than in the control PST group (P=.04).",0,0,0,0,0,N,0,0,0,0,0
+106,"As expected, this improvement regressed at 3 months, in association with the regression of pain alleviation.",0,0,0,0,0,N,0,0,0,0,0
+107,"Mobility performance, as measured using the SPPB did not improve immediately after the intervention or at 3 months, which may account for the lack of difference in self‐rated global improvement between groups.",0,0,0,0,0,N,0,0,0,0,0
+108,"It has previously been demonstrated that self‐reported and performance‐based measures of physical function involve distinct constructs, consistent with the data from the current study.",0,0,0,0,0,N,0,0,0,0,0
+109,"The findings may also have important clinical implications, because the SPPB is a strong predictor of disability in older adults.",0,0,0,0,0,N,0,0,0,0,0
+110,"For older adults with chronic knee pain associated with advanced OA, pain reduction alone appears to be insufficient to affect disability risk.",0,0,0,0,0,N,0,0,0,0,0
+111,"Additional research is needed to determine the benefits of combining PST and physical rehabilitation in further reducing pain, improving function, and reducing disability risk.",0,0,0,0,0,N,0,0,0,0,0
+112,Seasoned acupuncture practitioners advise booster sessions for management of chronic disorders.,0,0,0,0,0,N,0,0,0,0,0
+113,The current study results suggest that booster treatments would be required every 2 months to maintain pain reduction.,0,0,0,0,0,N,0,0,0,0,0
+114,"Although this schedule may seem cumbersome, its risk:benefit ratio should be juxtaposed against that associated with other standard‐of‐care analgesic regimens (i.e., NSAIDs or opioid analgesics).",0,0,0,0,0,N,0,0,0,0,0
+115,NSAIDs have a multitude of well‐known and potentially serious adverse effects.,0,0,0,0,0,N,0,0,0,0,0
+116,"Opioids may cause delirium, constipation, impaired mobility, and hip fractures.",0,0,0,0,0,N,0,0,0,0,0
+117,"The mechanism of action of PST has not been established, although preliminary evidence points toward the contribution of antiinflammatory effects.",0,0,0,0,0,N,0,0,0,0,0
+118,"Electroacupuncture causes the release of endogenous opioids, and opioids have been shown in nonacupuncture studies to have antiinflammatory effects on peripheral receptors.",0,0,0,0,0,N,0,0,0,0,0
+119,"PST could, therefore, promote the release of endogenous opioids and, therefore, ameliorate the inflammatory process that plays a central role in OA pathogenesis.",0,0,0,0,0,N,0,0,0,0,0
+120,"Alternatively or in addition, PST may deplete substance P, which exists in periosteal nerve terminals.",0,0,0,0,0,N,0,0,0,0,0
+121,Previous acupuncture studies that have demonstrated a relationship between substance P levels and pain reduction support this.,0,0,0,0,0,N,0,0,0,0,0
+122,"Acupuncture also has been shown to affect a decrease in serum interleukin‐6, an inflammatory cytokine associated with cartilage degradation.",0,0,0,0,0,N,0,0,0,0,0
+123,"Although this study had a number of strengths, its limitations should also be highlighted.",0,0,0,0,0,N,0,0,0,0,0
+124,The sample size was modest compared with recently published trials examining the efficacy of traditional Chinese acupuncture.,0,0,0,0,0,N,0,0,0,0,0
+125,Additional larger studies are needed to further examine the efficacy of PST.,0,0,0,0,0,N,0,0,0,0,0
+126,"The frequency of electrical stimulation and needle placement also was constrained, as recommended by seasoned PST practitioners.",0,0,0,0,0,N,0,0,0,0,0
+127,"Whether alternate needle placement, different electrical frequencies, or a longer intervention period would have resulted in greater pain reduction or more‐sustained benefits cannot be determined from this study.",0,0,0,0,0,N,0,0,0,0,0
+128,These questions should be examined in future trials.,0,0,0,0,0,N,0,0,0,0,0
+129,Shortcomings of traditional analgesics have caused many older adults to use complementary and alternative modalities for the treatment of chronic musculoskeletal pain.,0,0,0,0,0,N,0,0,0,0,0
+130,"In 1997 alone, Americans spent more than $27 billion on complementary and alternative medicine.",0,0,0,0,0,N,0,0,0,0,0
+131,"This initial controlled clinical trial indicates that PST is safe and effective in providing modest, short‐term pain reduction for older adults with chronic knee pain associated with advanced OA.",0,0,0,0,0,N,0,0,0,0,0
+132,Additional research with long‐term follow‐up that combines efforts to reduce pain and improve function is needed to determine the safety and efficacy of PST in improving the lives of older adults.,0,0,0,0,0,N,0,0,0,0,0

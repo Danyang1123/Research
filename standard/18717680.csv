@@ -1,0 +1,178 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Background Skin cancer incidence rates have been increasing for decades and this increase is expected to continue.,0,0,0,0,0,0,N,0,N,0,0
+1,Surgical excision (SE) is the treatment of first choice for nodular basal cell carcinoma (nBCC).,0,0,0,0,0,0,N,0,N,0,0
+2,Photodynamic therapy (PDT) has proven to be an effective treatment for superficial basal cell carcinoma.,0,0,0,0,0,0,N,0,N,0,0
+3,Its long‐term efficacy in nBCC has not yet been established.,0,0,0,0,0,0,N,0,N,0,0
+4,Objectives Prospectively compare the efficacy of 5‐aminolaevulinic acid (ALA)–PDT and SE in terms of failure rates with long‐term follow‐up.,0,0,0,0,0,0,N,0,N,0,0
+5,"Determinants of failure in the study population, such as the effect of tumour depth, were analysed retrospectively.",0,0,0,0,0,0,N,0,N,0,0
+6,Methods A randomized controlled trial in 173 primary nBCCs in 149 patients.,0,0,0,0,0,0,N,0,N,0,0
+7,Primary nBCCs were randomly assigned either to PDT (n = 85) or to SE (n = 88).,0,0,0,0,0,0,N,0,N,0,0
+8,"Tumours treated with PDT were illuminated twice on the same day, 4 h after application of ALA cream, 3 weeks after debulking.",0,0,0,0,0,0,N,0,N,0,0
+9,"SE was performed under local anaesthesia with a 3‐mm margin, followed by histological examination.",0,0,0,0,0,0,N,0,N,0,0
+10,An intention‐to‐treat analysis was performed.,0,0,0,0,0,0,N,0,N,0,0
+11,"Results In total, 171 primary nBCCs in 149 patients were treated.",0,0,0,0,0,0,N,0,N,0,0
+12,A 3‐year interim analysis revealed that the cumulative incidence of failure was 2·3% for SE and 30·3% for PDT (P < 0·001).,0,0,0,0,0,0,N,0,N,0,0
+13,Tumour depth and other analysed determinants of failure were not significantly related to treatment failure.,0,0,0,0,0,0,N,0,N,0,0
+14,Conclusions SE proved to be significantly more effective than treatment with fractionated illumination ALA–PDT.,0,0,0,0,0,0,N,0,N,0,0
+15,"Therefore, in the treatment of primary nBCC, SE is preferred over PDT following this treatment regimen.",0,0,0,0,0,0,N,0,N,0,0
+16,Skin cancer incidence rates have been increasing for decades and this increase is expected to continue.,0,0,0,0,0,0,N,0,N,0,0
+17,From a recent review of the literature we know that surgical excision (SE) is the treatment of first choice.,0,0,0,0,0,0,N,0,N,0,0
+18,"However, photodynamic therapy (PDT) seems to be a promising treatment for basal cell carcinoma (BCC).",0,0,0,0,0,0,N,0,N,0,0
+19,PDT has proven to be effective with an excellent cosmetic outcome in the treatment of superficial BCC (sBCC).,0,0,0,0,0,0,N,0,N,0,0
+20,"Recently published guidelines state that PDT could be an effective and reliable treatment option for the treatment of thin nodular BCC (nBCC), with the advantage of good cosmetic outcome.",0,0,0,0,0,0,N,0,N,0,0
+21,"Methods to improve the outcome of PDT in nBCC are debulking of the tumour prior to treatment, repeated treatments and fractionation of the illumination.",0,0,0,0,0,0,N,0,N,0,0
+22,"We report the results of an interim analysis of a prospective randomized controlled trial (RCT) comparing SE with double‐illumination 5‐aminolaevulinic acid (ALA)–PDT after prior debulking in the treatment of primary nBCC with respect to the efficacy, expressed as long‐term failure rate.",0,0,0,0,0,0,N,0,N,0,0
+23,"Secondly, the effect of tumour thickness on failure after ALA–PDT was analysed retrospectively.",0,0,0,0,0,0,N,0,N,0,0
+24,"In total, 149 patients with 173 BCCs were recruited from the outpatient Department of Dermatology of the University Hospital in Maastricht, the Netherlands, between August 2002 and February 2006.",1,0,1,0,1,1,N,0,N,0,0
+25,"All patients older than 18 years, with previously untreated nBCC with a largest diameter of 20 mm, were eligible.",1,0,1,0,1,1,N,0,N,0,0
+26,This diagnosis had to be proven histologically by punch biopsy of the clinically thickest part of the tumour.,1,0,1,0,1,1,N,0,N,0,0
+27,"Patient‐related exclusion criteria comprised pregnancy, a life expectancy of less than 5 years, any known skin cancer syndromes, the use of phototoxic/photosensitive drugs and hypersensitivity to light or ALA cream.",1,0,1,0,1,1,N,0,N,0,0
+28,"Tumour‐related exclusion criteria comprised recurrent or pigmented BCC, histological subtypes other than nodular and a localization on concave areas or hairy skin.",1,0,1,0,1,1,N,0,N,0,0
+29,"After written informed consent was obtained from all patients, the nBCCs were randomly assigned to either SE or PDT.",0,1,0,0,0,0,N,0,N,0,0
+30,"A person who was not involved in the trial performed randomization per tumour, using a computer‐generated random allocation scheme.",0,1,0,0,0,0,N,0,N,0,0
+31,"As the practical execution of both treatments differs to a large extent, blinding with respect to the patients or the physicians appeared not to be possible.",0,0,0,0,0,0,N,0,N,0,0
+32,"However, dermatologists other than the research physician conducted the oncological follow‐up in most cases.",0,0,0,0,0,0,N,0,N,0,0
+33,The trial was approved by the Medical Ethics and Scientific Committee of the University Hospital Maastricht.,0,0,0,0,0,0,N,0,N,0,0
+34,"Three weeks prior to PDT, a partial tumour debulking under local anaesthesia was performed by removing all tumour tissue arising above the level of the skin with a Stiefel sharp curette (no.",0,0,0,0,0,0,N,0,N,0,0
+35,"On the day of the treatment, a felt ring was attached around the tumour and 20% ALA in Neribas® (Bayer, Leverkusen, Germany) cream was applied on the tumour including a 5‐mm clinically tumour‐free margin.",0,0,0,0,0,0,N,0,N,0,0
+36,"The area was then covered with occlusive polyurethane dressing (Tegaderm®; 3M, Leiden, Netherlands) and a light protection layer (tinfoil), fixed with a bandage.",0,0,0,0,0,0,N,0,N,0,0
+37,"After 4 h the area was illuminated with a broadband metal–halogen light source (585–720 nm) either with Medeikonos® AB (Göteborg, Sweden) or Waldmann PDT 1200® (Munich, Germany), both sources with comparable wavelengths, currently used in daily practice.",0,0,0,0,0,0,N,0,N,0,0
+38,"After illumination for 15 min with an intensity of 100 mW cm−2 and a light dose of 75 J cm−2, the treated area was covered again and subsequently re‐illuminated following the same procedure after 60 min, resulting in a single fractionated treatment on the same day with a total light dose of 150 J cm−2.",0,0,0,0,0,0,N,0,N,0,0
+39,Patients treated with PDT always received both illuminations from the same light source.,0,0,0,0,0,0,N,0,N,0,0
+40,An incomplete response or recurrent tumour was re‐treated surgically.,0,0,0,0,0,0,N,0,N,0,0
+41,After local anaesthesia with lidocaine 1% with adrenaline the tumour was excised including a 3‐mm clinically tumour‐free margin.,0,0,0,0,0,0,N,0,N,0,0
+42,"Closure of the defect was performed either primarily by suturing, or by transposition or transplantation techniques depending on the location and size of the final defect.",0,0,0,0,0,0,N,0,N,0,0
+43,"If routine histological examination of haematoxylin and eosin‐stained sections of the lateral and deep margins revealed residual tumour, this was registered as a treatment failure and one or more re‐excisions were performed until all margins were free of tumour.",0,0,0,0,0,0,N,0,N,0,0
+44,"Retrospectively, the maximum tumour thickness was measured in the PDT group.",0,0,0,0,0,0,N,0,N,0,0
+45,"Measurement (in mm) was performed in central tumour punch biopsies that had been used for diagnosis, using a microscope and a liner.",0,0,0,0,0,0,N,0,N,0,0
+46,An independent investigator examined all biopsies and 30 biopsies (35%) were randomly re‐examined by a pathologist and compared to confirm the accuracy.,0,0,0,0,0,0,N,0,N,0,0
+47,Follow‐up visits took place after 1–2 weeks in case of SE (removal of the stitches).,0,0,0,0,0,0,N,0,N,0,0
+48,"According to the former recommendation by the Dutch Society of Dermatology and Venereology, all patients were subsequently examined for recurrent tumours, at 3, 6, 12 and 18 months, and after 2, 3, 4 and 5 years.",0,0,0,0,0,0,N,0,N,0,0
+49,"With SE, incomplete treatment had been ruled out by histological examination.",0,0,0,0,0,0,N,0,N,0,0
+50,"Incomplete response after PDT was evaluated clinically, and when evidence for residual tumour was found this was confirmed histologically.",0,0,0,0,0,0,N,0,N,0,0
+51,A recurrent tumour was defined as a histologically confirmed BCC within 5 mm of the scar.,0,0,0,0,0,0,N,0,N,0,0
+52,Patients lost to follow‐up or patients who died during the trial were censored at the date of the last examination.,0,0,0,0,0,0,N,0,N,0,0
+53,"Data were analysed using SPSS‐PC for Windows version 15.0 (SPSS, Chicago, IL, U.S.A.).",0,0,0,0,0,0,N,0,N,0,0
+54,"We assumed that 95% of lesions would show complete response to SE, and that the response to PDT would not be inferior.",0,0,0,0,0,0,N,0,N,0,0
+55,Approximately 80 lesions per group were required to demonstrate with 95% confidence and a power of 80% that the difference in recurrence would not exceed 10%.,0,0,0,0,0,0,N,0,N,0,0
+56,"Taking into account an estimated loss of 10% in the follow‐up, we aimed at including 175 tumours.",0,0,0,0,0,0,N,0,N,0,0
+57,The cumulative probability of disease‐free lesions in both treatment groups was compared using a Kaplan–Meier survival analysis which compares the proportion of disease‐free lesions at each of the time points.,0,0,0,0,0,0,N,0,N,0,0
+58,The log rank test was used to test for significant differences in effectiveness between both treatment modalities during follow‐up.,0,0,0,0,0,0,N,0,N,0,0
+59,P ≤ 0·05 was considered to indicate statistical significance.,0,0,0,0,0,0,N,0,N,0,0
+60,The analysis was performed according to the intention‐to‐treat principle.,0,0,0,0,0,0,N,0,N,0,0
+61,Patient and tumour characteristics,0,0,0,1,0,0,N,1,N,1,1
+62,"In total, 171 primary nBCCs in 149 patients were treated, 88 with SE and 83 with ALA–PDT.",0,0,0,1,0,0,N,1,N,1,1
+63,"Men and women were equally represented, 75 and 74, respectively.",0,0,0,1,0,0,N,1,N,1,1
+64,The mean ± SD age of the patients at the time of inclusion was 64·7 ± 13 years.,0,0,0,1,0,0,N,1,N,1,1
+65,"Most of the BCCs were located on the forehead/temple (22·8%), on the back (14·6%) and on the nose/perinasal zone (14·0%).",0,0,0,1,0,0,N,1,N,1,1
+66,"Two BCCs were included from 13 patients, three BCCs from three patients and four BCCs from one patient.",0,0,0,0,0,0,N,0,N,0,0
+67,The remaining 132 patients all had one single BCC.,0,0,0,0,0,0,N,0,N,0,0
+68,"In patients with multiple BCCs, the tumours were assumed to be independent, as they were situated on different parts of the body.",0,0,0,0,0,0,N,0,N,0,0
+69,The tumours had a mean ± SD greatest diameter of 9·1 ± 4·1 mm.,0,0,0,0,0,0,N,0,N,0,0
+70,The distribution of tumour characteristics was comparable in both treatment groups (Table 1).,0,0,0,0,0,0,N,0,N,0,0
+71,Distribution of tumour characteristics,0,0,0,0,0,0,N,0,N,0,0
+72,The median follow‐up of the total study population was 28 months (range 0–57).,0,0,0,0,0,0,N,0,N,0,0
+73,As can be seen in the flow chart (Fig.,0,0,0,0,0,0,N,0,N,0,0
+74,"1), 91 tumours (53·2%) had a follow‐up period that exceeded 24 months and 66 tumours (38·6%) had a follow‐up period exceeding 36 months.",0,0,0,0,0,0,N,0,N,0,0
+75,The participant flow is summarized in the flow chart (Fig.,0,0,0,0,0,0,N,0,N,0,0
+76,"Two patients, each with one tumour, dropped out between randomization and treatment in the PDT group: one BCC turned out to be a recurrent tumour and one patient died before treatment.",0,0,0,0,0,0,N,0,N,0,0
+77,"After randomization, two tumours allocated to SE were treated with ALA–PDT, and three tumours allocated to ALA–PDT were treated with SE, because the patients favoured the opposite treatment.",0,0,0,0,0,0,N,0,N,0,0
+78,"According to the intention‐to‐treat principle of the protocol, the follow‐up and results of these five BCC were analysed as belonging to the group to which they were randomized.",0,0,0,0,0,0,N,0,N,0,0
+79,"After treatment, 12 patients with 22 tumours were lost to follow‐up of whom nine persons with 16 tumours died due to causes unrelated to the tumour or the treatment.",0,0,0,0,0,0,N,0,N,0,0
+80,At 3 months 78 of 83 (94%) nBCCs had resolved completely after treatment with ALA–PDT.,0,0,0,0,0,0,N,0,N,0,0
+81,In the SE group 86 of 88 (98%) nBCCs had resolved completely (P = 0·27).,0,0,0,0,0,0,N,0,N,0,0
+82,In Figure 2 a Kaplan–Meier survival analysis graph shows the treatment results in both groups.,0,0,0,0,0,0,N,0,N,0,0
+83,"The cumulative incidence of failure at different time intervals, summarized in Table 2, shows that the 3‐year cumulative incidence of failure probability based on the Kaplan–Meier survival analysis is 2·3% for SE and 30·3% for PDT (P < 0·001).",0,0,0,0,0,0,N,0,N,0,0
+84,"There were 23 failures in the whole study population, two after SE and 21 after PDT.",0,0,0,0,0,0,N,0,N,0,0
+85,The two failures in the SE group were caused by incomplete excision of the tumours.,0,0,0,0,0,0,N,0,N,0,0
+86,"The first tumour, located on the nose, remained incompletely excised after two more excisions and was finally eradicated completely by Mohs’ micrographic surgery (MMS).",0,0,0,0,0,0,N,0,N,0,0
+87,"The other tumour, located in the neck, was excised incompletely, but because the patient refused further treatment, no re‐excision was performed.",0,0,0,0,0,0,N,0,N,0,0
+88,In the SE group no recurrences appeared during follow‐up.,0,0,0,0,0,0,N,0,N,0,0
+89,Six of the 21 failures in the PDT group occurred within 6 months and 11 within the first year after treatment.,0,0,0,0,0,0,N,0,N,0,0
+90,"If the treatment failures that occurred in the first 3 months are excluded, 25·7% of the ALA–PDT‐treated tumours and 0% of the tumours treated with SE (P < 0·001) had recurred after 3 years of follow‐up.",0,0,0,0,0,0,N,0,N,0,0
+91,Failure rates (deduced from Kaplan–Meier analysis),0,0,0,0,0,0,N,0,N,0,0
+92,"SE, surgical excision; ALA, 5‐aminolaevulinic acid; PDT, photodynamic therapy.",0,0,0,0,0,0,N,0,N,0,0
+93,"Histological classification after SE indicated that of all 88 tumours that had been of the nodular subtype in the biopsy specimen, 65 tumours appeared to be solely nodular in the excised specimen.",0,0,0,0,0,0,N,0,N,0,0
+94,"The remaining tumours were classified as sBCC (n = 8), aggressively growing BCC (n = 8) and in seven excisions no residual tumour was found in the excised material.",0,0,0,0,0,0,N,0,N,0,0
+95,"Histological examination of the biopsy specimens of the treatment failures after PDT revealed 11 nBCCs, six aggressively growing BCCs and one sBCC.",0,0,0,0,0,0,N,0,N,0,0
+96,"Of those treatment failures, 14 were radically excised by SE, five were radically excised by MMS and two have not yet been treated, because the patient refused a second treatment.",0,0,0,0,0,0,N,0,N,0,0
+97,"To analyse the effect of tumour thickness on recurrence after PDT, we retrospectively measured the thickness of 78 tumours (94%) in the first biopsies performed in the PDT group.",0,0,0,0,0,0,N,0,N,0,0
+98,No interobserver differences were found.,0,0,0,0,0,0,N,0,N,0,0
+99,There was a wide range in tumour thickness in both groups (0·30–3·10 mm).,0,0,0,0,0,0,N,0,N,0,0
+100,We distinguished between tumours with a thickness < 1·3 mm (median thickness) and tumours with a thickness ≥ 1·3 mm.,0,0,0,0,0,0,N,0,N,0,0
+101,The risk of treatment failure was 15·5% in tumours with a thickness < 1·3 mm and 42·2% in tumours with a thickness ≥ 1·3 mm (P = 0·09).,0,0,0,0,0,0,N,0,N,0,0
+102,"The other determinants of failure analysed (gender, size, age and localization) revealed no significant risks.",0,0,0,0,0,0,N,0,N,0,0
+103,There were no differences in the efficacy of the two light sources that were used.,0,0,0,0,0,0,N,0,N,0,0
+104,"All side‐effects and adverse events of the two treatment modalities were documented, as were the extra visits and measurements that were necessary.",0,0,0,0,0,0,N,0,N,0,0
+105,Secondary wound infection was observed once after ALA–PDT treatment.,0,0,0,0,0,0,N,0,N,0,0
+106,No serious complications such as wound dehiscence or necrosis were observed after ALA–PDT or after SE.,0,0,0,0,0,0,N,0,N,0,0
+107,"The present study shows that ALA–PDT after debulking with fractionated, double illumination has a significantly higher treatment failure than SE.",0,0,0,0,0,0,N,0,N,0,0
+108,"The protocol used in this study of ALA–PDT would have been optimized by the use of two separated fractionated treatments instead of a single, fractionated illumination on the same day and the use of a very low initial light dose followed by a higher light dose at least 2 h after the initial treatment instead of an equal fractionation regimen.",0,0,0,0,0,0,N,0,N,0,0
+109,These items will be discussed.,0,0,0,0,0,0,N,0,N,0,0
+110,"In recently published guidelines on the use of PDT for nonmelanoma skin cancer, Braathen et al.",0,0,0,0,0,0,N,0,N,0,0
+111,"state that PDT is an effective and reliable treatment option for nBCC, possibly preferable for thin lesions.",0,0,0,0,0,0,N,0,N,0,0
+112,"Unfortunately, ‘thin’ nBCC was not defined and no methods of measuring the thickness of the tumours were described.",0,0,0,0,0,0,N,0,N,0,0
+113,"Based on our measurements of the tumour thickness, the risk of treatment failure could not be predicted significantly.",0,0,0,0,0,0,N,0,N,0,0
+114,We found failure to treatment of ‘thin’ nBCCs but also complete clearance of ‘thick’ tumours.,0,0,0,0,0,0,N,0,N,0,0
+115,A probable explanation is that the depth of a tumour measured in a biopsy specimen is not representative for the entire lesion.,0,0,0,0,0,0,N,0,N,0,0
+116,This theory is underlined by the finding that six treatment failures appeared to have a more aggressive histological subtype.,0,0,0,0,0,0,N,0,N,0,0
+117,"Although transformation in recurrent tumours is possible, incorrect diagnosis because the biopsy represents only part of the tumour is more likely.",0,0,0,0,0,0,N,0,N,0,0
+118,"The observation that many BCCs have mixed histology, which can be missed after diagnostic punch biopsy, has been confirmed in the literature.",0,0,0,0,0,0,N,0,N,0,0
+119,"Therefore, the thickness of the tumour measured on the biopsy specimen should not be used as a prognostic indicator for the effect of PDT on nBCC.",0,0,0,0,0,0,N,0,N,0,0
+120,"In the future, real‐time confocal laser scanning microscopy could possibly be used to predict the tumour thickness in the entire tumour.",0,0,0,0,0,0,N,0,N,0,0
+121,The literature generally shows lower recurrence rates than the results we found after PDT of nBCC.,0,0,0,0,0,0,N,0,N,0,0
+122,"The differences in treatment failure may be caused by four factors, that will be commented on below.",0,0,0,0,0,0,N,0,N,0,0
+123,"Firstly, RCTs generally show worse results than non‐RCTs.",0,0,0,0,0,0,N,0,N,0,0
+124,"Secondly, higher recurrence rates can be found after a longer follow‐up.",0,0,0,0,0,0,N,0,N,0,0
+125,"Thirdly, the use of a different definition of failure accounts for different results.",0,0,0,0,0,0,N,0,N,0,0
+126,"Finally, differences in treatment protocol lead to a different outcome.",0,0,0,0,0,0,N,0,N,0,0
+127,Results of noncomparative studies show a higher efficacy of PDT as a treatment of nBCC.,0,0,0,0,0,0,N,0,N,0,0
+128,showed disease‐free rates of 95% after 1 year.,0,0,0,0,0,0,N,0,N,0,0
+129,"However, they included only tumours that had responded completely to one or more ALA–PDT sessions.",0,0,0,0,0,0,N,0,N,0,0
+130,"More recently, the same group published long‐term follow‐up results of a selection of their study population.",0,0,0,0,0,0,N,0,N,0,0
+131,"Of the primary nBCCs that responded completely, 93% had no signs of recurrence after PDT with a mean follow‐up of 35 months.",0,0,0,0,0,0,N,0,N,0,0
+132,Another group treated 24 nBCCs with a single ALA–PDT illumination which resulted in histological clearance rates of 92%.,0,0,0,0,0,0,N,0,N,0,0
+133,"treated difficult to treat BCC, including recurrences, large BCCs and midface lesions, with double‐illumination methyl aminolaevulinate (MAL)–PDT and reported a recurrence rate of 14% in nBCCs after 24 months.",0,0,0,0,0,0,N,0,N,0,0
+134,Comparison of the studies mentioned is difficult due to differences in study design.,0,0,0,0,0,0,N,0,N,0,0
+135,"Because of the lack of control groups, a selection bias cannot be excluded.",0,0,0,0,0,0,N,0,N,0,0
+136,Most of the reviewed 12 studies published in the guidelines of Braathen et al.,0,0,0,0,0,0,N,0,N,0,0
+137,"have only short‐term follow‐up rates published, ranging from 3 weeks to 24 months.",0,0,0,0,0,0,N,0,N,0,0
+138,"As seen in our results, recurrences still occur after 51 months, with no clinical signs of residual tumour before.",0,0,0,0,0,0,N,0,N,0,0
+139,"Because our last failure until now occurred at 51 months and as about 40% of our patients do not have a longer follow‐up than 36 months, it is expected that more failures will occur further in follow‐up.",0,0,0,0,0,0,N,0,N,0,0
+140,The finding that recurrence rates after 5 years of follow‐up can be twice as high as after 2 years is confirmed in the literature.,0,0,0,0,0,0,N,0,N,0,0
+141,"In some studies, complete response was confirmed by histological examination of a biopsy specimen; however, an invisible recurrent tumour can easily be missed by investigating only a part of the treated area.",0,0,0,0,0,0,N,0,N,0,0
+142,"After PDT, clinicians usually rely on clinical evaluation.",0,0,0,0,0,0,N,0,N,0,0
+143,"Clinical assessment, however, underestimates the number of BCCs with residual tumour after a short follow‐up and the recurrences will appear after a long‐term follow‐up.8 Because we believe recurrences develop from incompletely responding tumours and that new tumours seldom develop at the treated site, we decided to record both the incomplete responders and the recurrences as treatment failures and expressed the efficacy as failure rate.",0,0,0,0,0,0,N,0,N,0,0
+144,"As a consequence, failures are expected to be higher than in other comparative studies where incomplete responses are not regarded as failures.",0,0,0,0,0,0,N,0,N,0,0
+145,"However, when comparing our results with some recent RCTs that specifically investigated the recurrences after histologically proven complete excision of the tumour, we find that our results are comparable or even better.",0,0,0,0,0,0,N,0,N,0,0
+146,"When comparing other published RCTs concerning topical MAL–PDT or ALA–PDT for nBCC, many differences in treatment protocol and in results of PDT are noticed.",0,0,0,0,0,0,N,0,N,0,0
+147,"compared ALA–PDT with cryotherapy for the treatment of sBCC and nBCC and found histologically confirmed recurrence rates of 13% after 12 months in the nBCCs treated with ALA–PDT, which is comparable with our results.",0,0,0,0,0,0,N,0,N,0,0
+148,Two identical studies compared the effect of PDT with MAL vs. PDT with placebo cream in 41 and 80 nBCCs that were previously debulked.,0,0,0,0,0,0,N,0,N,0,0
+149,Lesions with a partial response after 3 months were re‐treated.,0,0,0,0,0,0,N,0,N,0,0
+150,"Six months after the last treatment, the treated area was excised.",0,0,0,0,0,0,N,0,N,0,0
+151,"Histological examination revealed no signs of malignancy in, respectively, 73% and 78% of the lesions in the MAL–PDT groups.",0,0,0,0,0,0,N,0,N,0,0
+152,is the most comparable with our study.,0,0,0,0,0,0,N,0,N,0,0
+153,"Although not statistically significant, they also found a difference in recurrence rates (19% for PDT and 4% for SE after 24 months of follow‐up) in 105 nBCCs.",0,0,0,0,0,0,N,0,N,0,0
+154,Recently published results of 5‐year follow‐up showed recurrence rates of only 14% after PDT in the lesions with complete response after 3 months.,0,0,0,0,0,0,N,0,N,0,0
+155,"However, the actual ‘treatment failure’, with the nonresponders included, is 24%, which is more comparable with our result.",0,0,0,0,0,0,N,0,N,0,0
+156,There are many differences in inclusion criteria and treatment protocol.,0,0,0,0,0,0,N,0,N,0,0
+157,"As an example, MAL is sometimes used as a photosensitizer, whereas we used ALA. As ALA is a nonformulary preparation, this may account for reduced efficacy, especially if solutions are not prepared immediately before use and the pH of stock solutions exceeds 5.",0,0,0,0,0,0,N,0,N,0,0
+158,"Furthermore, ALA should be stored at low temperatures.",0,0,0,0,0,0,N,0,N,0,0
+159,These requirements of proper production and storage were taken into account.,0,0,0,0,0,0,N,0,N,0,0
+160,According to some literature the penetration of MAL is deeper than that of ALA.,0,0,0,0,0,0,N,0,N,0,0
+161,"However, these studies only investigated penetration depth of MAL without comparing it with ALA. A clinical pilot study that compared both photosensitizers in a randomized controlled design showed that treatment with MAL–PDT and ALA–PDT results in comparable effectiveness.",0,0,0,0,0,0,N,0,N,0,0
+162,Another RCT that compared both photosensitizers in the treatment of actinic keratosis also showed no significant difference in efficacy.,0,0,0,0,0,0,N,0,N,0,0
+163,"As the superiority of MAL has not been proven and the costs of ALA are much lower than those of MAL, ALA is still used in many hospitals.",0,0,0,0,0,0,N,0,N,0,0
+164,We based our treatment protocol on a pilot study in which nBCCs were treated with ALA–PDT using a prior debulking technique.,0,0,0,0,0,0,N,0,N,0,0
+165,Histological examination after excision of the treated area 3 months after treatment revealed a complete response of 92%.,0,0,0,0,0,0,N,0,N,0,0
+166,"We adjusted the illumination based on preliminary results of an animal model showing that a fractionated illumination scheme with both illuminations on the same day considerably increases the efficacy of ALA. For that reason our protocol consisted of illumination after an incubation of 4 h and re‐illumination after 1 h, both with 75 J cm−2.",0,0,0,0,0,0,N,0,N,0,0
+167,"Recent literature shows that optimal results in superficial BCC can be obtained with fractionated illumination with light fractions of 20 and 80 J cm−2, performed, respectively, 4 and 6 h after the application of ALA.",0,0,0,0,0,0,N,0,N,0,0
+168,The formulation of MAL–PDT for nBCC requires a second illumination after 1 week.,0,0,0,0,0,0,N,0,N,0,0
+169,"have investigated the effect of fractionated PDT in nodular BCC, but there was no significant improvement compared with the results in the literature of single illumination.",0,0,0,0,0,0,N,0,N,0,0
+170,The maximum penetration depth of the light or the photosensitizer is a possible limitation for PDT in nBCC.,0,0,0,0,0,0,N,0,N,0,0
+171,"However, it is questionable if this aspect could be influenced by fractionated illumination on the same day.",0,0,0,0,0,0,N,0,N,0,0
+172,"During this interval there might be reduction in total tumour mass, making penetration of the light or sensitizer to the bottom of the tumour possible.",0,0,0,0,0,0,N,0,N,0,0
+173,More studies have to be performed to determine whether PDT with this illumination schedule would improve the efficacy.,0,0,0,0,0,0,N,0,N,0,0
+174,"In conclusion, our results show that treatment of nBCC with SE is significantly more effective than treatment with ALA–PDT after debulking with single, fractionated illumination, on the same day.",0,0,0,0,0,0,N,0,N,0,0
+175,We therefore conclude that this method should not be used as a standard treatment of nBCC.,0,0,0,0,0,0,N,0,N,0,0
+176,Further investigations are necessary to investigate if other treatment regimens show better results.,0,0,0,0,0,0,N,0,N,0,0

@@ -1,0 +1,137 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Only a small percentage of Graves’ ophthalmopathy (GO) patients develop optic neuropathy with impending loss of visual acuity.,0,0,N,0,N,N,N,0,0,0,0
+1,Therapy with methylprednisolone pulses is the treatment of first choice in severe and active GO patients.,0,0,N,0,N,N,N,0,0,0,0
+2,"When the effect is insufficient, patients are usually treated with surgical decompression.",0,0,N,0,N,N,N,0,0,0,0
+3,"We investigated whether surgery could become the first‐line treatment, thus preventing treatment with steroids.",0,0,N,0,N,N,N,0,0,0,0
+4,We performed a randomized trial in 15 patients with very active GO and optic neuropathy.,1,0,N,0,N,N,N,0,0,0,0
+5,"Six patients were treated with surgical decompression, and nine with methylprednisolone i.v.",1,0,N,0,N,N,N,0,0,0,0
+6,"pulses for 2 weeks, followed by oral prednisone for 4 months.",0,0,N,0,N,N,N,0,0,0,0
+7,The primary outcome was determined by changes in visual acuity.,0,0,N,0,N,N,N,0,0,0,0
+8,"If the eye disease deteriorated despite treatment or did not improve sufficiently, patients were switched to the other treatment arm.",0,0,N,0,N,N,N,0,0,0,0
+9,The severity and activity of GO in both groups were similar at baseline.,0,0,N,1,N,N,N,1,1,1,1
+10,The Clinical Activity Score (CAS) was 6·3 ± 0·8 in the surgical group vs. 6·0 ± 0·5 in the steroids group and the Total Eye Score was 24 ± 6 vs. 25 ± 6.,0,0,N,1,N,N,N,1,1,1,1
+11,"In the surgery group, 5/6 patients (82%) did not respond because of insufficient improvement in vision (n = 3) or persistent chemosis (n = 2), and all needed further immunosuppression.",0,0,N,1,N,N,N,1,1,1,1
+12,"In the steroids group, 4/9 patients (45%) did not improve in visual acuity (P = 0·132 vs. surgery group), and these needed decompressive surgery.",0,0,N,1,N,N,N,1,1,1,1
+13,All patients in whom therapy failed were switched to the other treatment arm and visual acuity improved in almost all patients.,0,0,N,1,N,N,N,1,1,1,1
+14,Visual acuity improved from 0·36 (0·02–0·40) to 0·90 (0·63–1·0) in the surgery group and from 0·50 (0·32–0·63) to 0·75 (0·32–1·0) in the steroids group at 52 weeks.,0,0,N,0,N,N,N,0,0,0,0
+15,At long‐term follow‐up in the surgery group 3/6 patients required squint surgery and 5/9 patients in the steroids group.,0,0,N,0,N,N,N,0,0,0,0
+16,Eyelid surgery was performed in 5/6 patients in the surgery group and in 4/9 patients in the steroids group.,0,0,N,0,N,N,N,0,0,0,0
+17,Immediate surgery does not result in a better outcome and therefore methylprednisolone pulse therapy appears to be the first‐choice therapy.,0,0,N,0,N,N,N,0,0,0,0
+18,Very severe Graves’ ophthalmopathy (GO) occurs in only 5–10% of patients with GO.,0,0,N,0,N,N,N,0,0,0,0
+19,"The signs and symptoms are due to an increased orbital content (fat and muscles) in the confined bony orbit that impairs venous drainage, resulting in chemosis and periorbital oedema.",0,0,N,0,N,N,N,0,0,0,0
+20,The ensuing increase in retrobulbar pressure leads to compression of the optic nerve and this may result in blindness.,0,0,N,0,N,N,N,0,0,0,0
+21,"In other patients, the increase in volume can induce extreme proptosis, which may lead to subluxation of the globe, exposure keratitis and even corneal ulceration.1",0,0,N,0,N,N,N,0,0,0,0
+22,Optic neuropathy is usually treated with high doses of glucocorticoids (oral or intravenous) to reduce inflammation.,0,0,N,0,N,N,N,0,0,0,0
+23,"When there is insufficient improvement in visual acuity, or aggravation when tapering the dose of glucocorticoids, decompressive surgery to relieve the pressure on the optic nerve is often performed, sometimes combined with orbital irradiation.",0,0,N,0,N,N,N,0,0,0,0
+24,Surgery lowers the increased retrobulbar pressure by 8–12 mmHg.,0,0,N,0,N,N,N,0,0,0,0
+25,"Several studies have reported that surgical decompression, which is usually performed after immunosuppressive treatment, improves visual function in 76–90% of patients with optic neuropathy.",0,0,N,0,N,N,N,0,0,0,0
+26,"It seems that patients who are operated upon without pretreatment with glucocorticoids also show a decrease in eye disease activity, which might be due to either the relief of venous congestion or a decrease in inflammation.",0,0,N,0,N,N,N,0,0,0,0
+27,"However, there are no randomized controlled trials comparing different treatment strategies in optic neuropathy.",0,0,N,0,N,N,N,0,0,0,0
+28,The aim of our study was to determine whether immediate surgical decompression could replace methylprednisolone pulse therapy as standard treatment so that further treatment with glucocorticoids was unnecessary.,0,0,N,0,N,N,N,0,0,0,0
+29,"We therefore directly compared orbital decompressive surgery with methylprednisolone pulse treatment in a randomized trial, using improvement in visual function as the main outcome measure.",0,0,N,0,N,N,N,0,0,0,0
+30,The secondary aim of the study was to see how many other treatments were needed for these patients with severe GO in terms of immunosuppression and surgery before true improvement was reached.,0,0,N,0,N,N,N,0,0,0,0
+31,We performed a randomized controlled trial comparing intravenous pulse therapy with methylprednisolone and decompressive surgery.,0,0,N,0,N,N,N,0,0,0,0
+32,"The eligible patients were all consecutive patients, between 18 and 80 years of age, with very active GO and optic neuropathy, who were referred to our clinic, a tertiary referral centre.",0,0,N,0,N,N,N,0,0,0,0
+33,We did not include patients who had already been treated with adequate doses of corticosteroids or any other treatment such as surgery or radiotherapy.,0,0,N,0,N,N,N,0,0,0,0
+34,"To assess disease activity we used the Clinical Activity Score (CAS), consisting of the following 10 items: retrobulbar pain with movement and/or at rest, redness of the eyelids and/or the conjunctivae, swelling of the caruncle, swelling of the eyelids, chemosis, worsening of proptosis, extraocular muscle motility or visual acuity in the past 3 months.",0,0,N,0,N,N,N,0,0,0,0
+35,Patients were included if they had at least five or more of the first seven items and one of the last three items.,0,0,N,0,N,N,N,0,0,0,0
+36,In the analyses the seven‐point CAS was used.,0,0,N,0,N,N,N,0,0,0,0
+37,"This was done to prevent a flattered decrease in CAS due to inhibition of further deterioration instead of true improvement of eye disease activity, as the last three items are based on recent deterioration.",0,0,N,0,N,N,N,0,0,0,0
+38,"Regarding the severity, patients were included if there was a pinhole visual acuity of < 0·63 due to optic neuropathy and not due to corneal problems alone or other pre‐existing eye diseases.",0,0,N,0,N,N,N,0,0,0,0
+39,"We considered a decreased visual acuity to be due to optic neuropathy when we found a combination of the following: apical crowding on computed tomography (CT) scan of the orbit, and/or disturbances in visual fields examination compatible with optic neuropathy, and/or a low score in the Ishihara colour test, and/or an increased latency of visual evoked potential, and/or papilloedema on fundoscopic examination.",0,0,N,0,N,N,N,0,0,0,0
+40,Exclusion criteria were: (i) contraindication to either surgery or intravenous methylprednisolone pulse therapy; (ii) no informed consent.,0,0,N,0,N,N,N,0,0,0,0
+41,This study was approved by the Medical Ethics Committee of the Academic Medical Centre in Amsterdam.,0,0,N,0,N,N,N,0,0,0,0
+42,"Free T4 (fT4) and TSH were determined with a solid‐phase time‐resolved fluoroimmunoassay (Delfia, Wallac Oy, Turku, Finland).",0,0,N,0,N,N,N,0,0,0,0
+43,Total T3 was determined with an in‐house radioimmunoassay (RIA).,0,0,N,0,N,N,N,0,0,0,0
+44,"TSH binding inhibiting immunoglobulins (TBII) was measured by thyroid receptor anti‐korper (TRAK) assay (BRAHMS Diagnostica, Berlin, Germany).",0,0,N,0,N,N,N,0,0,0,0
+45,"Randomization was performed after stratification for pretreatment, and in two blocks of four per block using envelopes.",0,1,N,0,N,N,N,0,0,0,0
+46,Surgical decompression consisted of a three‐wall coronal decompression.,0,0,N,0,N,N,N,0,0,0,0
+47,Glucocorticoid treatment consisted of i.v.,0,0,N,0,N,N,N,0,0,0,0
+48,"pulses of methylprednisolone 1 g daily for three consecutive days, repeated after 1 week, followed from day 15 onwards by oral prednisone for 4 months in a tapering dose (2 weeks of 40 mg, 4 weeks of 30 mg, 4 weeks of 20 mg, tapering with 2·5 mg per week until zero).",0,0,N,0,N,N,N,0,0,0,0
+49,"Hence the cumulative dose of methylprednisolone was 6 g, including oral steroids it was approximately 8 g. All patients were treated for Graves’ hyperthyroidism with antithyroid drugs combined with thyroxine replacement, except for one patient who had primary hypothyroidism and was treated with thyroxine alone.",0,0,N,0,N,N,N,0,0,0,0
+50,Follow‐up and study end‐points,0,0,N,0,N,N,N,0,0,0,0
+51,"Response was evaluated 26 weeks after start of therapy, or earlier when initial therapy failed.",0,0,N,0,N,N,N,0,0,0,0
+52,"An intention‐to‐treat analysis was performed as follows: in the case of a premature stop, the last observation (in the primarily assigned treatment group) was carried forward.",0,0,N,0,N,N,N,0,0,0,0
+53,"A premature stop was called when (i) visual acuity decreased two or more lines on the Snellen chart combined with other signs of optic neuropathy, or insufficient improvement of visual acuity (defined as less than < 0·63 on the Snellen chart); (ii) development of a corneal ulcer or an increase in chemosis that could not be treated adequately with local therapy or tarsorrhaphy.",0,0,N,0,N,N,N,0,0,0,0
+54,These patients were then switched to the other treatment arm.,0,0,N,0,N,N,N,0,0,0,0
+55,"Standard follow‐up examinations took place after 7 and 14 days, and after 4, 13, 26, and 52 weeks.",0,0,N,0,N,N,N,0,0,0,0
+56,"At all visits the following ophthalmological investigations were conducted: best corrected visual acuity, fundoscopy, Ishihara colour vision test, signs of exposure keratitis, proptosis (measured by Hertel exophthalmometer), signs of soft tissue inflammation and CAS.",0,0,N,0,N,N,N,0,0,0,0
+57,"Severity of GO was evaluated using the Total Eye Score, which is calculated as the sum of each NOSPECS class present, times the grade in that class (for that purpose we substituted grades a, b and c with 1, 2 and 3, respectively).In the evaluation the most affected eye was used.",0,0,N,0,N,N,N,0,0,0,0
+58,"At 26 and 52 weeks (and more often if deemed necessary), visual field examination, orthoptic measurements including measurements of eye ductions and visual evoked potential were performed.",0,0,N,0,N,N,N,0,0,0,0
+59,"Diplopia was scored as no diplopia, intermittent, inconstant or constant diplopia present, according to Gorman.",0,0,N,0,N,N,N,0,0,0,0
+60,"At 26 weeks, treatment efficacy was determined by relief of optic neuropathy.",0,0,N,0,N,N,N,0,0,0,0
+61,Responders were defined as those who had a pinhole visual acuity > 0·63 and no signs of optic neuropathy.,0,0,N,0,N,N,N,0,0,0,0
+62,Patients who did not meet these criteria or had a premature stop were considered nonresponders to the initial therapy.,0,0,N,0,N,N,N,0,0,0,0
+63,"In these very severe GO patients we did not use other parameters, such as proptosis reduction, to determine treatment efficacy, as restoration of visual acuity was the primary goal.",0,0,N,0,N,N,N,0,0,0,0
+64,Study results were analysed with the SPSS statistical software package (version 11.5.1).,0,0,N,0,N,N,N,0,0,0,0
+65,"To analyse differences in continuous variables we used either t‐tests or, in the case of an abnormal distribution or zero values, the Mann–Whitney U‐test.",0,0,N,0,N,N,N,0,0,0,0
+66,"Paired samples were analysed with paired samples t‐tests or, in the case of abnormal distribution, with the Wilcoxon rank test.",0,0,N,0,N,N,N,0,0,0,0
+67,To analyse differences in categorical data the χ2‐test was used.,0,0,N,0,N,N,N,0,0,0,0
+68,Between December 1995 and May 2002 we saw 17 eligible patients of whom two were excluded for the following reasons: one patient preferred surgery and one patient had contraindications for surgery (i.e.,0,0,N,0,N,N,N,0,0,0,0
+69,cardiac failure and pulmonary emphysema).,0,0,N,0,N,N,N,0,0,0,0
+70,"Thus 15 patients with optic neuropathy were randomized, one of whom had been pretreated with a single dose of 500 mg methylprednisolone.",0,0,N,0,N,N,N,0,0,0,0
+71,Nine patients were randomized to receive i.v.,0,0,N,0,N,N,N,0,0,0,0
+72,methylprednisolone and six to immediate coronal decompressive surgery (Fig.,0,0,N,0,N,N,N,0,0,0,0
+73,This unequal allocation was due to the stratification procedure that we carried out.,0,0,N,0,N,N,N,0,0,0,0
+74,"Ten patients were euthyroid and on antithyroid drugs, and they remained euthyroid throughout the study.",0,0,N,0,N,N,N,0,0,0,0
+75,Five patients were not euthyroid at randomization but euthyroidism was achieved medically promptly.,0,0,N,0,N,N,N,0,0,0,0
+76,There were no statistically significant differences between euthyroid and hyper/hypothyroid patients.,0,0,N,0,N,N,N,0,0,0,0
+77,Baseline characteristics are presented in Table 1.,0,0,N,0,N,N,N,0,0,0,0
+78,"The stratification, randomization and response scheme for patients with very severe and active GO.",0,0,N,0,N,N,N,0,0,0,0
+79,Baseline characteristics of patients with very severe and active Graves’ ophthalmopathy.,0,0,N,0,N,N,N,0,0,0,0
+80,Data are presented as median and range or otherwise as indicated,0,0,N,0,N,N,N,0,0,0,0
+81,Visual acuity in GO patients with optic neuropathy in the (a) medical group and (b) surgical group before initiating treatment and at 26 weeks or premature stop.,0,0,N,0,N,N,N,0,0,0,0
+82,The open triangles connected by continuous lines represent patients who responded to therapy and the solid circles connected by broken lines are nonresponders.,0,0,N,0,N,N,N,0,0,0,0
+83,In the methylprednisolone group five patients were responders 26 weeks after initiating therapy (median visual acuity 0·8; range 0·63–0·8).,0,0,N,0,N,N,N,0,0,0,0
+84,"Four patients were considered not to have responded, all due to an insufficient improvement or a decrease in visual acuity.",0,0,N,0,N,N,N,0,0,0,0
+85,In the decompressive surgery group one patient was a responder 26 weeks after decompressive surgery (visual acuity increased from 0·4 to 0·8).,0,0,N,0,N,N,N,0,0,0,0
+86,"Five patients were considered not to have responded, three due to an insufficient improvement of the visual acuity and two due to very severe chemosis, untreatable with local measures or tarsorrhaphy.",0,0,N,0,N,N,N,0,0,0,0
+87,"There was no significant difference in the number of responders between the methylprednisolone group and the surgery group (χ2 = 5/9 vs. 1/6 patients, P = 0·13).",0,0,N,0,N,N,N,0,0,0,0
+88,"All responders also improved in visual function tests such as Ishihara colour vision, visual field examination and visual evoked potential.",0,0,N,0,N,N,N,0,0,0,0
+89,Apical crowding on CT scan was not present after 26 weeks.,0,0,N,0,N,N,N,0,0,0,0
+90,Follow‐up after primary outcome,0,0,N,0,N,N,N,0,0,0,0
+91,"At 52 weeks, the severity of GO as measured by the Total Eye Score had decreased, and visual acuity had increased, in all but two patients (Table 2).",0,0,N,0,N,N,N,0,0,0,0
+92,"One patient in the methylprednisolone group had a decreased visual acuity in one eye due to thrombosis of the vena centralis retina and another patient in the same group had retinitis pigmentosa, an X‐linked degenerative eye disease.",0,0,N,0,N,N,N,0,0,0,0
+93,The CAS decreased significantly in all groups (Table 2).,0,0,N,0,N,N,N,0,0,0,0
+94,Data on 15 active GO patients with optic neuropathy before initiating treatment with methylprednisolone or decompressive surgery and 1 year later after one or more treatments.,0,0,N,0,N,N,N,0,0,0,0
+95,Data are presented as mean ± SD or otherwise indicated,0,0,N,0,N,N,N,0,0,0,0
+96,Number of treatments in the first year,0,0,N,0,N,N,N,0,0,0,0
+97,In the methylprednisolone group (n = 9) four nonresponders were switched to decompressive surgery after 7–16 (median 11) weeks.,0,0,N,0,N,N,N,0,0,0,0
+98,One of the responders was later treated (after 26 weeks) with orbital irradiation because of persistent activity of GO.,0,0,N,0,N,N,N,0,0,0,0
+99,In the decompressive surgery group (n = 6) five patients required methylprednisolone therapy after 5–26 (median 11) weeks.,0,0,N,0,N,N,N,0,0,0,0
+100,Three patients then required additional orbital irradiation because of persisting activity of GO and one of them required a second treatment with methylprednisolone pulse therapy (Fig.,0,0,N,0,N,N,N,0,0,0,0
+101,Number of required treatments in the first year of 15 GO patients with optic neuropathy initially randomized to receive methylprednisolone or decompressive surgery.,0,0,N,0,N,N,N,0,0,0,0
+102,"Among 15 GO patients, 14 were treated with methylprednisolone pulse therapy, followed by oral prednisolone.",0,0,N,0,N,N,N,0,0,0,0
+103,"Side‐effects consisted of weight gain and a Cushing‐like appearance in 12/15 patients, hypertension and transient diabetes mellitus in one patient, and partial loss of sight in one eye due to thrombosis in the vena centralis retina in one patient.",0,0,N,0,N,N,N,0,0,0,0
+104,Ten out of 15 GO patients underwent decompressive surgery.,0,0,N,0,N,N,N,0,0,0,0
+105,"Side‐effects of surgery consisted of transient numbness of the facial skin in 4/14 patients, and in one patient a decrease in extraocular muscle motility.",0,0,N,0,N,N,N,0,0,0,0
+106,The median long‐term follow‐up time in the surgery group was 64 months (35–87) and in the steroids group 78 months (40–102) (P = 0·35).,0,0,N,0,N,N,N,0,0,0,0
+107,"In the surgery group 5/6 patients needed immunosuppression and 3/6 needed squint surgery, followed by eyelid treatment in 5/6.",0,0,N,0,N,N,N,0,0,0,0
+108,"In the steroids group, 4/9 had a decompression, and later 5/9 patients needed squint surgery, followed by eyelid surgery in 4/9.",0,0,N,0,N,N,N,0,0,0,0
+109,"In all, only 2/15 patients did not require rehabilitative surgical procedures (both in the steroids group).",0,0,N,0,N,N,N,0,0,0,0
+110,"In the steroids group, five patients never underwent a surgical decompression.",0,0,N,0,N,N,N,0,0,0,0
+111,"In this randomized controlled trial among 15 patients with optic neuropathy, we found that immediate decompressive surgery did not preclude the use of glucocorticoids.",0,0,N,0,N,N,N,0,0,0,0
+112,Eighty‐three per cent of optic neuropathy patients in the surgery group needed additional methylprednisolone and sometimes orbital irradiation and 56% of optic neuropathy patients in the methylprednisolone group needed either decompressive surgery or orbital irradiation to further inactivate GO.,0,0,N,0,N,N,N,0,0,0,0
+113,In five patients no surgical decompression was needed.,0,0,N,0,N,N,N,0,0,0,0
+114,"Therefore, decompressive surgery is not to be preferred as first‐line treatment in patients with very active and severe GO.",0,0,N,0,N,N,N,0,0,0,0
+115,"It thus seems that immediate surgery has no advantage over methylprednisolone pulse therapy, and based on our results it seems better to start with immunosuppressive treatment.",0,0,N,0,N,N,N,0,0,0,0
+116,Our study can be criticized because of the smaller number of patients in the surgery group.,0,0,N,0,N,N,N,0,0,0,0
+117,"This was due to our randomization procedure stratifying for pretreatment, and because of the paucity of eligible patients with untreated and severe plus active GO.",0,0,N,0,N,N,N,0,0,0,0
+118,It took almost 8 years to include 15 such patients with optic neuropathy.,0,0,N,0,N,N,N,0,0,0,0
+119,"Nevertheless, the two groups were comparable in disease severity and activity.",0,0,N,0,N,N,N,0,0,0,0
+120,"Because of the rarity of optic neuropathy, a large multicentre study in Europe by the EUGOGO group might be able to provide definite answers concerning the best therapy.",0,0,N,0,N,N,N,0,0,0,0
+121,"It is highly unlikely that a lack of surgical experience is the reason for the less favourable outcome, because our orbital surgeons have many years of experience in this tertiary referral centre.",0,0,N,0,N,N,N,0,0,0,0
+122,"The more likely explanation is that the surgery does not stop the active immune attack, which may even be stimulated because of the surgical stress.",0,0,N,0,N,N,N,0,0,0,0
+123,Patients with this kind of severe GO therefore do need corticosteroids as first‐line therapy.,0,0,N,0,N,N,N,0,0,0,0
+124,"This is unfortunate, because this treatment is associated with many side‐effects.",0,0,N,0,N,N,N,0,0,0,0
+125,In our patients we noted the development of hypertension and diabetes.,0,0,N,0,N,N,N,0,0,0,0
+126,"Another severe side‐effect may be acute liver failure, which can be fatal, as has been described in three out of seven patients with liver damage.",0,0,N,0,N,N,N,0,0,0,0
+127,This is why we limit the total cumulative dose of methylprednisolone to 6 g and we suggest measuring liver enzymes during treatment.,0,0,N,0,N,N,N,0,0,0,0
+128,"At the end of our follow‐up at 52 weeks, most patients had obtained a near‐normal visual acuity, except for two patients.",0,0,N,0,N,N,N,0,0,0,0
+129,"One patient had retinitis pigmentosa, which was diagnosed after both methylprednisolone therapy and decompressive surgery.",0,0,N,0,N,N,N,0,0,0,0
+130,"It is impossible to know if this patient really had optic neuropathy, although there was apical crowding on the CT scan, or the decreased visual acuity was solely due to the retinitis pigmentosa.",0,0,N,0,N,N,N,0,0,0,0
+131,The other patient had a visual acuity compatible with counting fingers in her right eye (visual acuity 1/60) due to thrombosis of the vena centralis retina.,0,0,N,0,N,N,N,0,0,0,0
+132,The visual acuity in her left eye improved from 0·5 before therapy to 0·9 at 26 weeks after methylprednisolone therapy.,0,0,N,0,N,N,N,0,0,0,0
+133,It is not known whether this is an adverse effect of the methylprednisolone.,0,0,N,0,N,N,N,0,0,0,0
+134,"Our favourable results in the remaining patients compare to those reported in the literature, where response rates vary between 76% and 90%.",0,0,N,0,N,N,N,0,0,0,0
+135,"We therefore suggest that patients with an optic neuropathy due to GO should be treated immediately with high doses of systemic glucocorticoids and if insufficient improvement is attained, decompressive surgery could be performed to restore visual acuity.",0,0,N,0,N,N,N,0,0,0,0

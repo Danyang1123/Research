@@ -1,0 +1,214 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To compare contrast acuity at different illumination levels and color vision and the subjective impression in patients after bilateral cataract surgery with a mixed implantation of a blue-light-filtering and an ultraviolet (UV)-filtering intraocular lens (IOL).,0,0,N,0,0,0,N,0,0,0,0
+1,"Randomized, controlled, double-masked, and bilateral study with intraindividual comparison.",0,0,N,0,0,0,N,0,0,0,0
+2,This study included 48 eyes of 24 consecutive patients with age-related cataract.,0,0,N,0,0,0,N,0,0,0,0
+3,Each patient had standardized small incision cataract surgery with IOL implantation into the capsular bag.,1,1,N,1,1,1,N,1,1,0,1
+4,"Patients were randomly assigned to receive a blue-light-filtering Hoya AF-1 (UY) YA-60BB IOL in one eye and a UV-filtering Hoya AF-1 (UV) VA-60BB IOL (Hoya Medical Europe, Frankfurt/Main, Germany) in the contralateral eye.",1,0,N,1,1,1,N,1,1,0,1
+5,"Contrast acuity was measured at illumination levels of 500, 5, and 0.5 lux and contrast levels of 100%, 50%, 25%, 12.5%, and 6.25%.",1,0,N,1,1,1,N,1,1,0,1
+6,"Color vision was assessed using the Lanthony desaturated D-15 test, the Lanthony new color test (Munsell chroma 2 and 4), and an anomaloscope.",1,0,N,1,1,1,N,1,1,0,1
+7,Blue/yellow foveal threshold was tested applying short-wave automated perimetry.,1,0,N,1,1,1,N,1,1,0,1
+8,The subjective visual impression of patients was evaluated using a questionnaire.,0,0,N,0,0,0,N,0,0,0,0
+9,"Contrast acuity, color vision, and foveal threshold.",0,0,N,0,0,0,N,0,0,0,0
+10,The blue-light-filtering IOLs had worse contrast acuity (P = 0.0004) and foveal threshold (P = 0.008) compared with the UV-filtering IOLs.,0,0,N,0,0,0,N,0,0,1,0
+11,Color vision tests and high-contrast visual acuity did not show any statistically significant differences between IOLs (P>0.05).,0,0,N,0,0,0,N,0,0,1,0
+12,"On questioning, 3 of 24 patients noticed a difference between the implanted IOLs concerning visual impression.",0,0,N,0,0,0,N,0,0,1,0
+13,This study shows that blue-light-filtering IOLs negatively affect contrast acuity and blue/yellow foveal threshold when compared with UV-filtering IOLs.,0,0,N,0,0,0,N,0,0,0,0
+14,"Although the differences were small, the results suggest bilateral implantation of the same IOL type and avoidance of a mixed implantation of a blue-light-filtering IOL in one and a non–blue-light-filtering IOL in the contralateral eye in patients with high demands in color vision.",0,0,N,0,0,0,N,0,0,0,0
+15,The author(s) have no proprietary or commercial interest in any materials discussed in this article.,0,0,N,0,0,0,N,0,0,0,0
+16,"Blue-light-filtering intraocular lenses (IOLs) were introduced in cataract surgery in the 1990s because there were data suggesting improvements in clarity of vision, contrast acuity, and reaction time, and reduced glare.",0,0,N,0,0,0,N,0,0,0,0
+17,"In addition to filtering ultraviolet (UV) light, blue-light-filtering.",0,0,N,0,0,0,N,0,0,0,0
+18,IOLs absorb a larger part of the high-energetic visible blue-light between approximately 380 and 500 nm.,0,0,N,0,0,0,N,0,0,0,0
+19,"In recent years, these IOLs have experienced a renaissance because of evidence showing that visible blue-light is a contributing factor in the development of age-related macular degeneration after cataract surgery.",0,0,N,0,0,0,N,0,0,0,0
+20,"Several studies hypothesized and experimentally showed the protective effect of blue-light-filtering IOLs on A2E-laden retinal pigment epithelial cells against short-wave visible light, which is speculated to be one of the causes for age-related macular degeneration after cataract surgery.",0,0,N,0,0,0,N,0,0,0,0
+21,"Another study reported on an inhibiting effect of blue-light-filtering IOLs on vascular endothelial growth factor, which is one of the proangiogenetic factors in the pathogenesis of exudative age-related macular degeneration.",0,0,N,0,0,0,N,0,0,0,0
+22,"Currently, the age of patients undergoing cataract surgery is decreasing, which is inversely proportional to life expectancy and therefore elongates the period of pseudophakia.",0,0,N,0,0,0,N,0,0,0,0
+23,"Furthermore, the acceptance for refractive lens exchange is growing.",0,0,N,0,0,0,N,0,0,0,0
+24,This implies a potential long-term effect or even a cumulative effect of short-wave visible light and its possible consequence.,0,0,N,0,0,0,N,0,0,0,0
+25,"On the other hand, with the absorption spectrum of the blue-light-filtering IOLs, concerns were raised that they could negatively affect visual performance.",0,0,N,0,0,0,N,0,0,0,0
+26,Several studies were performed to test visual function with the main focus on color vision and contrast acuity.,0,0,N,0,0,0,N,0,0,0,0
+27,Some studies described a better or worse performance of the blue-light-filtering IOLs.,0,0,N,0,0,0,N,0,0,0,0
+28,"The majority of the studies, however, did not find any statistically significant differences in comparison with UV-filtering IOLs.",0,0,N,0,0,0,N,0,0,0,0
+29,"These varying study results imply that differences between blue-light- and UV-filtering IOLs, if existent, are probably small.",0,0,N,0,0,0,N,0,0,0,0
+30,"To detect small differences it is necessary to have a suitable study design and selective criteria for patient inclusion to control variability, as well as measuring methods that are sensitive enough to allow determination of subtle changes.",0,0,N,0,0,0,N,0,0,0,0
+31,"The purpose of this study was to compare blue-light- and UV-filtering IOLs in their effect on contrast acuity, foveal threshold, color vision, and subjective patient symptoms.",0,0,N,0,0,0,N,0,0,0,0
+32,"A randomized, controlled, double-masked, bilateral design allowing within-patient comparison in a group of cataract patients with no other detectable eye disease was chosen.",0,0,N,0,0,0,N,0,0,0,0
+33,"This prospective, randomized, double-masked, and bilateral clinical trial with intraindividual comparison was conducted at the Department of Ophthalmology, Hietzing Hospital, Vienna, Austria.",0,0,N,0,0,0,N,0,0,0,0
+34,This study followed the guidelines of the Declaration of Helsinki and was carried out according to the European Union Good Clinical Practice guidelines.,0,0,N,0,0,0,N,0,0,0,0
+35,"The study protocol was approved by the ethics committee of the City of Vienna, Austria, and was registered in the National Institutes of Health database at http://clinicaltrials.gov (NCT 00612781; accessed November 2, 2007).",0,0,N,0,0,0,N,0,0,0,0
+36,Written informed consent was obtained from all patients after the nature and possible consequences of the study had been explained.,0,0,N,0,0,0,N,0,0,0,0
+37,"Patients were recruited from a continuous cohort who presented with bilateral age-related cataract in the outpatient center of the Department of Ophthalmology, Hietzing Hospital, Vienna.",0,0,N,0,0,0,N,0,0,0,0
+38,"Patients with amblyopia, pseudoexfoliation syndrome, primary or secondary glaucoma, ocular hypertension, uveitis, diabetes, history of intraocular surgery, laser treatment, or retinal pathology, and patients with other relevant ophthalmic diseases were excluded.",0,0,N,0,0,0,N,0,0,0,0
+39,"Furthermore, the systemic medication of patients entering the study screening were recorded and checked for possible ophthalmologic side effects.",0,0,N,0,0,0,N,0,0,0,0
+40,"Patients with medication known to potentially cause ophthalmologic side effects were excluded from the study, as well as patients with an expected postoperative visual acuity less than 1.0 (20/20).",0,0,N,0,0,0,N,0,0,0,0
+41,"Patients with congenital color vision anomaly, ocular surface disease, or ametropia of more than 3 diopters, and patients with nicotine or alcohol abuse were not included in this trial.",0,0,N,0,0,0,N,0,0,0,0
+42,Twenty-eight patients scheduled for small-incision cataract surgery and implantation of an IOL were included in the study screening.,0,0,N,0,0,0,N,0,0,0,0
+43,Intraocular lens randomization was performed before patient recruitment.,0,0,N,0,0,0,N,0,0,0,0
+44,Patients and examiner were masked for IOL assignment.,0,0,N,0,0,0,N,0,0,0,0
+45,"The first eye was randomly assigned to receive a multipiece acrylic foldable IOL: either a Hoya AF-1 (UY) YA-60BB (both blue and UV light filter) or a Hoya AF-1 (UV) VA-60BB (only UV light filter) (both IOLs from Hoya Medical Europe, Frankfurt/Main, Germany).",0,0,N,0,0,0,N,0,0,0,0
+46,The contralateral eye received the other IOL.,0,0,N,0,0,0,N,0,0,0,0
+47,"Apart from the light filtering properties, both IOLs are identical, having a hydrophobic acrylic optic with a diameter of 6.0 mm and a polymethylmethacrylate haptic with an angulation of 5 degrees with an overall diameter of 12.5 mm.",0,0,N,0,0,0,N,0,0,0,0
+48,The Hoya AF-1 (UV) VA-60BB incorporates UV radiation absorbing chromophores in its optic material (UV-filtering IOL).,0,0,N,0,0,0,N,0,0,0,0
+49,The Hoya AF-1 (UY) YA-60BB additionally contains blue-light-filtering chromophores in its optic material creating a light yellow appearance (blue-light-filtering IOL).,0,0,N,0,0,0,N,0,0,0,0
+50,"In each patient, the eye with the higher degree of cataract had surgery first.",0,0,N,0,0,0,N,0,0,0,0
+51,"Surgery was performed between December of 2005 and February of 2007 by 4 surgeons (MP, NK, MR, and FS) using a standardized surgical technique, which is described in detail below.",0,0,N,0,0,0,N,0,0,0,0
+52,Both eyes of each patient had surgery performed on different days.,0,0,N,0,0,0,N,0,0,0,0
+53,The maximum time span between the surgeries in a patient was 4 days.,0,0,N,0,0,0,N,0,0,0,0
+54,Surgery was done under topical anesthesia through a 3.0-mm temporal clear corneal incision.,0,0,N,0,0,0,N,0,0,0,0
+55,"After exchange of the aqueous for ophthalmic viscosurgical device (Healon hyaluronic acid 5000 10 mg/mL, AMO, Irvine, CA), a well-centered 5- to 5.5-mm continuous curvilinear capsulorrhexis was created with a bent needle.",0,0,N,0,0,0,N,0,0,0,0
+56,"After phacoemulsification of the nucleus, the residual cortex was removed by coaxial I/A, followed by polishing of the posterior capsule.",0,0,N,0,0,0,N,0,0,0,0
+57,"After filling the anterior chamber and the capsular bag with ophthalmic viscosurgical device, the IOL was implanted.",0,0,N,0,0,0,N,0,0,0,0
+58,The residual ophthalmic viscosurgical device was aspirated with a coaxial I/A-tip followed by hydrating the incision and filling up the globe.,0,0,N,0,0,0,N,0,0,0,0
+59,"Postoperative treatment consisted of a fixed tobramycin-dexamethasone combination (Tobradex, Alcon Ophthalmics, Vienna, Austria) and diclofenac (Voltaren Ophtha, Novartis Pharma, Vienna, Austria) eye drops 4 times per day for 1 month.",0,0,N,0,0,0,N,0,0,0,0
+60,"No attempt was made to mask the surgeon for IOL assignment, because both IOLs used in this study have a typical color of the optic.",0,0,N,0,0,0,N,0,0,0,0
+61,"However, the surgeon was unaware of the type of IOL to be used until the eye was prepared for implantation.",0,0,N,0,0,0,N,0,0,0,0
+62,Study testing was performed in 1 single test session 90±10 days after surgery of the second eye by the same experienced and masked examiner.,0,0,N,0,0,0,N,0,0,0,0
+63,Test duration was approximately 75±15 minutes.,0,0,N,0,0,0,N,0,0,0,0
+64,"After evaluating the best corrected distance visual acuity, several color vision tests and contrast acuity tests were performed under standardized conditions as described in detail below.",0,0,N,0,0,0,N,0,0,0,0
+65,All tests were performed monocularly.,0,0,N,0,0,0,N,0,0,0,0
+66,The patients were allowed to relax between tests if they wanted.,0,0,N,0,0,0,N,0,0,0,0
+67,"To avoid bias, the testing sequence of eyes was randomized using a table of random numbers.",0,0,N,0,0,0,N,0,0,0,0
+68,"After the vision tests, the patient was interviewed using a patient questionnaire.",0,0,N,0,0,0,N,0,0,0,0
+69,Lanthony Desaturated D-15 Test,0,0,N,0,0,0,N,0,0,0,0
+70,"This test was designed to evaluate smaller color vision disturbances that cannot be detected with the Farnsworth-Munsell dichotomous D-15 test.Because the test uses Munsell chroma 2, the color differences between the taps are substantially smaller than in the Farnsworth-Munsell dichotomous D-15 test.",0,0,N,0,0,0,N,0,0,0,0
+71,"In addition, the gap between the start- and end-cap is smaller, resulting in more color pairs along the tritan confusion line that might be misaligned.",0,0,N,0,0,0,N,0,0,0,0
+72,"The test was performed using an illumination device with a standardized spectrum, which is described in detail below.",0,0,N,0,0,0,N,0,0,0,0
+73,The level of illumination was set to 500 lux.,0,0,N,0,0,0,N,0,0,0,0
+74,Patients' eyes were tested separately by occluding the not tested eye with an eye-patch and with best distance correction and an addition for the working distance.,0,0,N,0,0,0,N,0,0,0,0
+75,Two glasses were used in all cases to standardize light absorption.,0,0,N,0,0,0,N,0,0,0,0
+76,"The Lanthony new color test has 4 levels of difficulty (Munsell chroma 2, 4, 6, and 8).",0,0,N,0,0,0,N,0,0,0,0
+77,"Given the lower chromaticity values, the test is harder than the Farnsworth-Munsell 100 test.",0,0,N,0,0,0,N,0,0,0,0
+78,The test was performed monocularly in both eyes with best distance correction and a near addition for the working distance (two glasses in every case) with an illumination of 500 lux.,0,0,N,0,0,0,N,0,0,0,0
+79,"In the classification stage of the test, the patients were asked to arrange the colored caps step-by-step, similar to the Lanthony Desaturated D-15 test, except that no starting cap is provided.",0,0,N,0,0,0,N,0,0,0,0
+80,Only the 2 more desaturated color sets (Munsell chroma 2 and 4) were used in this examination.,0,0,N,0,0,0,N,0,0,0,0
+81,"For statistical evaluation, a color confusion index (CCI) was calculated for the Lanthony desaturated D-15, as well as the Lanthony new color tests using the Color Vision Recorder, Version 2.1 (Copyright 2003 Optical Diagnostics, distributed by Richmond Products Inc., Albuquerque, NM).",0,0,N,0,0,0,N,0,0,0,0
+82,The CCI scores the patients' arrangement of the color caps compared with the perfect arrangement.,0,0,N,0,0,0,N,0,0,0,0
+83,"A CCI of 1 or less was considered as normal, whereas a CCI more than 1 showed a color error increasing with the value.",0,0,N,0,0,0,N,0,0,0,0
+84,"The HMC Anomaloscope MR (Oculus Optikgeraete GmbH, Wetzlar, Germany) was used to test blue/green color vision.",0,0,N,0,0,0,N,0,0,0,0
+85,It uses the additive color mixing method and evaluates blue/green color vision using the Moreland 2 equation (blue [436 nm] + green [490 nm] = cyan [480 nm] + yellow [589 nm]).,0,0,N,0,0,0,N,0,0,0,0
+86,"After the testing procedure was explained and a trial run was performed, the patients were tested monocularly with best distance correction.",0,0,N,0,0,0,N,0,0,0,0
+87,"The test was started with the presentation of a white fluorescent field, which is comparable to the standard light source C (6770° Kelvin).",0,0,N,0,0,0,N,0,0,0,0
+88,This field was repeatedly presented every 3 seconds for a defined period to provide neutral adaptation throughout the test.,0,0,N,0,0,0,N,0,0,0,0
+89,"The patient was then looking at a circular, horizontally divided test field through an eyepiece that provides a viewing angle of 4 degrees.",0,0,N,0,0,0,N,0,0,0,0
+90,"The upper half of the field was a mixed color field of green and blue, and the lower comparison field consists of cyan, which is desaturated by yellow.",0,0,N,0,0,0,N,0,0,0,0
+91,The upper mixed color field can be adjusted on a scale from 0 (turquoise-free) to 100 (blue-free).,0,0,N,0,0,0,N,0,0,0,0
+92,The brightness of the lower field can be adjusted on a scale from 0 to 100.,0,0,N,0,0,0,N,0,0,0,0
+93,The normal values range between 42 to 58 mixed color and 43 to 57 brightness value.,0,0,N,0,0,0,N,0,0,0,0
+94,"By starting with a mixed color of 100 and a brightness of 85, a stepwise reduction in mixed color was presented, until the subjective matching point was passed.",0,0,N,0,0,0,N,0,0,0,0
+95,The patients had to make the 2 fields similar by adjusting the brightness of the lower comparison field.,0,0,N,0,0,0,N,0,0,0,0
+96,"After this orientating testing procedure, a fine adjustment was performed, resulting in a lower and upper subjective matching point.",0,0,N,0,0,0,N,0,0,0,0
+97,The HMC Anomaloscope automatically calculated the tritanomaly quotient (TAQ).,0,0,N,0,0,0,N,0,0,0,0
+98,The TAQ represents an instantaneous observation of the blue sensitive visual system and is subject to change during lifetime.,0,0,N,0,0,0,N,0,0,0,0
+99,"A TAQ of 1 or less was considered as normal, whereas a TAQ higher 1 showed a color error increasing with the value.",0,0,N,0,0,0,N,0,0,0,0
+100,"Near contrast sensitivity function was tested using the Holladay contrast acuity test (Stereo Optical Co., Inc., Chicago, IL).",0,0,N,0,0,0,N,0,0,0,0
+101,Patients were positioned at 40 cm from the reading chart with best distance correction plus a correction to set the reading point to 40 cm (+2.5 diopters).,0,0,N,0,0,0,N,0,0,0,0
+102,"In all cases, 2 glasses were used to standardize light absorption.",0,0,N,0,0,0,N,0,0,0,0
+103,Reading distance of 40 cm was controlled several times during testing using a measuring chain.,0,0,N,0,0,0,N,0,0,0,0
+104,"Contrast sensitivity testing was performed with a 100% contrast chart and repeated with 50%, 25%, 12.5%, and 6.25% contrast charts.",0,0,N,0,0,0,N,0,0,0,0
+105,All contrast testing was performed at 3 illumination levels.,0,0,N,0,0,0,N,0,0,0,0
+106,"It was set at 500 lux for photopic, 5 lux for high-mesopic, and 0.5 lux for low-mesopic conditions.",0,0,N,0,0,0,N,0,0,0,0
+107,"Illumination level was checked using a light meter (Digital Luxmeter MS-1500, Voltcraft, Conrad Electronic, Hirschau, Germany).",0,0,N,0,0,0,N,0,0,0,0
+108,The test was stopped when 3 or more errors were made in 1 line.,0,0,N,0,0,0,N,0,0,0,0
+109,The achieved line for each contrast was recorded plus the correct letters in the next line; each letter was given a value of 0.2.,0,0,N,0,0,0,N,0,0,0,0
+110,"In the next step, the values recorded in lines were converted to logarithm of the minimum angle of resolution for statistical analysis.",0,0,N,0,0,0,N,0,0,0,0
+111,"After computation, data were reconverted for data presentation.",0,0,N,0,0,0,N,0,0,0,0
+112,Blue/Yellow Foveal Threshold Test,0,0,N,0,0,0,N,0,0,0,0
+113,"Short wavelength automated perimetry (SWAP) examinations were performed using the macula threshold program on the Humphrey Field Analyzer II (Humphrey Instruments Inc., Dublin, CA).",0,0,N,0,0,0,N,0,0,0,0
+114,"For the 10-degree macula field test, a yellow background illumination of 100 candela/m2 and a 440 nm blue stimulus with a Goldmann target size V presented for a duration of 200 ms was used.",0,0,N,0,0,0,N,0,0,0,0
+115,The tests were performed monocularly with best distance correction plus near addition.,0,0,N,0,0,0,N,0,0,0,0
+116,The foveal threshold in decibels (dB) was used for statistical evaluation.,0,0,N,0,0,0,N,0,0,0,0
+117,"Because the participants did not have previous experience with any visual field testing, they underwent an initial SWAP test to learn how the examination was performed.",0,0,N,0,0,0,N,0,0,0,0
+118,This initial test was not included in the analysis.,0,0,N,0,0,0,N,0,0,0,0
+119,"The more intense the light stimulus needs to be presented to be seen from the patient, the lower the foveal threshold value in dB.",0,0,N,0,0,0,N,0,0,0,0
+120,"A Richmond Daylight Illuminator (Richmond Products Inc., Albuquerque, NM) was used for color vision tests (Lanthony desaturated D-15 test and Lanthony new color test) and contrast sensitivity testing.",0,0,N,0,0,0,N,0,0,0,0
+121,"The bulb gives off 6280° Kelvin light, which closely matches the standards set by the International Commission of Illumination.",0,0,N,0,0,0,N,0,0,0,0
+122,The daylight illuminator has been approved by the U.S. Food and Drug Administration and provides a color rendering index of 94 as recommended in clinical studies.,0,0,N,0,0,0,N,0,0,0,0
+123,Daylight illumination and consistency of lightning have been found to be important in testing acquired color vision defects.,0,0,N,0,0,0,N,0,0,0,0
+124,The illumination level of the daylight illuminator was set by dimmer switch and controlled by means of a digital light meter as described above.,0,0,N,0,0,0,N,0,0,0,0
+125,"The luminance was set for photopic, high-mesopic, and low-mesopic light conditions at 500, 5, and 0.5 lux, respectively.",0,0,N,0,0,0,N,0,0,0,0
+126,"After having completed visual tests, the patients were asked if they noticed any difference between both eyes regarding color vision or contrast vision or vision under poor light conditions.",0,0,N,0,0,0,N,0,0,0,0
+127,"If not, the survey was stopped.",0,0,N,0,0,0,N,0,0,0,0
+128,"If yes, they were asked which eye they thought had the blue-light-filtering IOL and were asked to describe their vision and if they were disturbed by the difference.",0,0,N,0,0,0,N,0,0,0,0
+129,The statistical evaluation of the questionnaire is described below.,0,0,N,0,0,0,N,0,0,0,0
+130,Statistical Analysis and Data Presentation,0,0,N,0,0,0,N,0,0,0,0
+131,All 24 patients (48 eyes) in this trial were included in the statistical analysis.,0,0,N,0,0,0,N,0,0,0,0
+132,"During study preparation, the sample size was calculated.",0,0,N,0,0,0,N,0,0,0,0
+133,"The following assumptions for contrast sensitivity, color vision, and foveal threshold were made at the time of study planning: a clinically relevant difference of 10%, 2-sided significance level alpha of 5%, and power of 90%.",0,0,N,0,0,0,N,0,0,0,0
+134,"The expected standard deviation (SD) of the difference, which was unknown, was calculated after data of the first 10 patients were available and without unmasking the randomization (SD = 13.4%).",0,0,N,0,0,0,N,0,0,0,0
+135,This calculation resulted in a total required sample size of 21 patients.,0,0,N,0,0,0,N,0,0,0,0
+136,A suspected study subject dropout rate of 15% recommended a sample size of 24 patients.,0,0,N,0,0,0,N,0,0,0,0
+137,"After all data had been cross-checked and entered into the database, the seal of the envelope with the randomization list was broken and the IOL implantation sequences of the patients were unmasked.",0,0,N,0,0,0,N,0,0,0,0
+138,"The contrast sensitivity test was analyzed using a general linear mixed model, including the fixed within-block factors “contrast” (the levels were 100%, 50%, 25%, 12.5%, and 6.25%), “illumination level” (500 lux, 5 lux, 0.5 lux), and “type of IOL” (UV or blue-light-filtering), and the random factor “patient.” Interactions between the fixed factors were hierarchically tested and dropped from the model if not significant.",0,0,N,0,0,0,N,0,0,0,0
+139,Lanthony desaturated D-15 test and Lanthony new color test were analyzed simultaneously using a paired Hotelling's T-square test.,0,0,N,0,0,0,N,0,0,0,0
+140,The blue/yellow foveal threshold test and the blue/green color vision test were both analyzed using paired t tests.,0,0,N,0,0,0,N,0,0,0,0
+141,Each of these analyses yields a P value for the comparison of UV- and blue-light-filtering IOL.,0,0,N,0,0,0,N,0,0,0,0
+142,These P values were finally corrected for multiple testing using the Bonferroni-Holm procedure.,0,0,N,0,0,0,N,0,0,0,0
+143,Test results are presented as mean ± SD under each type of IOL and as mean difference (95% confidence interval [CI]) of the 2 types of IOL.,0,0,N,0,0,0,N,0,0,0,0
+144,Visual acuity data are presented in decimal fraction.,0,0,N,0,0,0,N,0,0,0,0
+145,"For statistical purposes, the visual acuities were converted to logarithm of the minimum angle of resolution and then reconverted for data presentation.",0,0,N,0,0,0,N,0,0,0,0
+146,Patients' questionnaires were statistically evaluated using a score test for comparison of paired proportions.,0,0,N,0,0,0,N,0,0,0,0
+147,Two-sided P values less than 0.05 were considered as statistically significant.,0,0,N,0,0,0,N,0,0,0,0
+148,"The SAS System V 9.1 (2003 SAS Inc., Cary, NC) was used for statistical analysis.",0,0,N,0,0,0,N,0,0,0,0
+149,Twenty-four patients (48 eyes) of the 28 screened were included in this study (Fig 1).,0,0,N,0,0,0,N,0,0,1,0
+150,The mean age of the 18 female and 6 male patients was 74 years ± 8 SD (range 58–88).,0,0,N,0,0,0,N,0,0,1,0
+151,All included patients completed the scheduled vision tests and questionnaire.,0,0,N,0,0,0,N,0,0,0,0
+152,Study data showed statistically significantly lower contrast acuity in blue-light-filtering IOLs and higher foveal threshold values when intraindividually compared with UV-filtering IOLs.,0,0,N,0,0,0,N,0,0,0,0
+153,Study flow chart illustrating the flow of the patients through the study.,0,0,N,0,0,0,N,0,0,0,0
+154,UV = ultraviolet; IOL = intraocular lens.,0,0,N,0,0,0,N,0,0,0,0
+155,Absolute values of the contrast sensitivity tests are presented in Figure 2.,0,0,N,0,0,0,N,0,0,0,0
+156,Intraindividual comparison showed a statistically significantly (P = 0.0004) lower contrast acuity in blue-light-filtering IOLs compared with UV-filtering IOLs (Fig 3).,0,0,N,0,0,0,N,0,0,0,0
+157,"The largest mean intraindividual differences were found at 5 lux illumination with contrast levels of 100% and 6.25%, and 0.5 lux illumination with contrast levels of 50%, 25%, and 12.5%: 4.7% (95% CI, 0.0–9.4) and 4.2% (95% CI, 1.0–7.3), and 4.7% (95% CI, 1.3–8.2), 4.8% (95% CI, 1.3–8.3) and 3.2% (95% CI, 0.5–5.8), respectively.",0,0,N,0,0,0,N,0,0,0,0
+158,"However, these outcomes are based on single within-patient comparisons showing lower contrast acuity in blue-light-filtering IOLs of up to 40%.",0,0,N,0,0,0,N,0,0,0,0
+159,The result of the foveal threshold testing is presented in Figure 4.,0,0,N,0,0,0,N,0,0,0,0
+160,It shows a statistically significant higher dB value in the blue-light-filtering IOLs compared with the UV-filtering IOLs (P = 0.008).,0,0,N,0,0,0,N,0,0,0,0
+161,"The mean difference in the intraindividual comparison was 2.7 dB (95% CI, 1.1–4.4).",0,0,N,0,0,0,N,0,0,0,0
+162,The TAQ in HMC Anomaloscope testing showed no statistically significant difference between the blue-light-filtering IOLs and the UV-filtering IOLs (P = 0.06).,0,0,N,0,0,0,N,0,0,0,0
+163,"However, before correction for multiple testing the blue-light-filtering IOLs showed a statistically significant higher TAQ, which would depict a color deficiency (P = 0.03).",0,0,N,0,0,0,N,0,0,0,0
+164,"The mean difference in TAQ in the intraindividual comparison was 0.08 (95% CI, 0.006–0.15).",0,0,N,0,0,0,N,0,0,0,0
+165,Lanthony desaturated D-15 and Lanthony new color test Munsell chroma 2 and 4 did not show any statistically significant difference in CCI between the tested IOL types (P = 0.22).,0,0,N,0,0,0,N,0,0,0,0
+166,"Intraindividual comparison showed a mean difference in CCI of 0.06 (95% CI, −0.03–0.15), and 0.08 (95% CI, −0.003–0.16) and 0.001 (95% CI, −0.07–0.07), respectively.",0,0,N,0,0,0,N,0,0,0,0
+167,"Although not statistically significant, all 3 tests showed a higher CCI in the blue-light-filtering IOLs.",0,0,N,0,0,0,N,0,0,0,0
+168,Best corrected distance visual acuity did not show statistically significant differences between the 2 IOL types (P = 0.42).,0,0,N,0,0,0,N,0,0,0,0
+169,Mean best corrected distance visual acuity was 0.94±0.17 SD.,0,0,N,0,0,0,N,0,0,0,0
+170,"Mean difference in intraindividual comparison was 1.04% (95% CI, −2.5–4.6).",0,0,N,0,0,0,N,0,0,0,0
+171,"Contrast acuity in patients with UV-filtering (white boxes) and blue-light-filtering (grey boxes) IOLs at illumination levels of 500 lux (top), 5 lux (middle), and 0.5 lux (bottom) with contrast levels of 100%, 50%, 25%, 12.5%, and 6.25%.",0,0,N,0,0,0,N,0,0,0,0
+172,"Mean contrast acuity values (lines in the boxes), interquartile range (boxes), last observation within 1.5 times the interquartile range from the upper/lower quartiles (whiskers), and outliers (circles).",0,0,N,0,0,0,N,0,0,0,0
+173,"Intraindividual difference in contrast acuity in percent (%) in patients with UV-filtering and blue-light-filtering IOLs at illumination levels of 500 lux (top), 5 lux (middle), and 0.5 lux (bottom) with contrast levels of 100%, 50%, 25%, 12.5%, and 6.25%.",0,0,N,0,0,0,N,0,0,0,0
+174,"Mean difference in contrast acuity (lines), interquartile range (boxes), last observation within 1.5 times the interquartile range from the upper/lower quartiles (whiskers); outliers (circles), and extreme (asterisk).",0,0,N,0,0,0,N,0,0,0,0
+175,Blue/yellow foveal threshold in patients with UV-filtering (white boxes) and blue-light-filtering (grey boxes) IOLs.,0,0,N,0,0,0,N,0,0,0,0
+176,"Mean blue/yellow foveal threshold values (lines in the boxes), interquartile range (boxes), and last observation within 1.5 times the interquartile range from the upper/lower quartiles (whiskers).",0,0,N,0,0,0,N,0,0,0,0
+177,dB = decibel; UV = ultraviolet.,0,0,N,0,0,0,N,0,0,0,0
+178,Twenty-one of the included 24 patients did not notice any difference between both eyes.,0,0,N,0,0,0,N,0,0,0,0
+179,Three patients did notice a difference and could all correctly identify the eye with the blue-light-filtering IOL implanted.,0,0,N,0,0,0,N,0,0,0,0
+180,"One of these patients described a considerable yellowish tone, and one patient described a subtle yellowish tone in the eye with the blue-light-filtering IOL.",0,0,N,0,0,0,N,0,0,0,0
+181,The third patient described poor vision in the dark on the eye with the blue-light-filtering lens compared with the contralateral eye.,0,0,N,0,0,0,N,0,0,0,0
+182,All 3 patients said that they were not disturbed in binocular vision.,0,0,N,0,0,0,N,0,0,0,0
+183,These 3 patients have or had jobs dealing with colors.,0,0,N,0,0,0,N,0,0,0,0
+184,"One of them is an employed paperhanger, and the other patients are retired, one being an architect and the other a florist.",0,0,N,0,0,0,N,0,0,0,0
+185,"Statistical evaluation of the questionnaire did not reach the level of significance (P = 0.08, 95% CI, −0.03–0.31).",0,0,N,0,0,0,N,0,0,0,0
+186,The present study shows statistically significant worse contrast acuity and blue/yellow foveal threshold in eyes with blue-light-filtering IOLs compared with UV-filtering IOLs.,0,0,N,0,0,0,N,0,0,0,0
+187,The largest differences between blue-light- and UV-filtering IOLs were detected under low-mesopic light conditions.,0,0,N,0,0,0,N,0,0,0,0
+188,"Our results confirm the calculations of Mainster and Sparrow, and Mainster, and the results of Pierre et al.,who found a significant lower scotopic luminance contrast in eyes with a blue-light-filtering IOL.",0,0,N,0,0,0,N,0,0,0,0
+189,"In contrast, some studies with a within-patient comparison did not show differences in contrast vision or even showed better contrast acuity with blue-light-filtering IOLs.",0,0,N,0,0,0,N,0,0,0,0
+190,"These studies, however, did not meet our methodologic standards, that is, restrictive patient selection criteria, possible effects of systemic medication on vision, use of sensitive measuring methods, and performance of a sample size calculation.",0,0,N,0,0,0,N,0,0,0,0
+191,Studies with a between-patient comparison of contrast acuity did not find any statistically significant differences or found a better contrast acuity with blue-light-filtering IOLs.,0,0,N,0,0,0,N,0,0,0,0
+192,"Because differences between both IOLs are rather small, between-patient comparison suffers from additional variations between study subjects and is therefore less powerful and would need a higher number of patients tested.",0,0,N,0,0,0,N,0,0,0,0
+193,"A paired study design, such as used in our trial, eliminates this additional data variation in the first place and therefore allows for an immediate treatment comparison.",0,0,N,0,0,0,N,0,0,0,0
+194,"Although previous studies have found significant differences in color contrast sensitivity, to our knowledge this is the first published trial that shows a difference in achromatic contrast sensitivity under low light conditions.",0,0,N,0,0,0,N,0,0,0,0
+195,Color vision testing did not show any statistically significant differences between the 2 tested IOLs.,0,0,N,0,0,0,N,0,0,0,0
+196,"Although prior correction for multiple testing, the HMC Anomaloscope test did show a color deficiency in the blue-light-filtering IOLs eyes.",0,0,N,0,0,0,N,0,0,0,0
+197,The results of this study are in accordance with the literature.,0,0,N,0,0,0,N,0,0,0,0
+198,None of the previous studies showed differences in color vision comparing blue-light- and UV-filtering IOLs.,0,0,N,0,0,0,N,0,0,0,0
+199,"However, 2 studies reported on a systematic deterioration in color vision with cutoff wavelength yellow filter spectacle lenses, which resulted in an enhancement of contrast vision when viewing bright objects against a blue-based background, such as the sky.",0,0,N,0,0,0,N,0,0,0,0
+200,The SWAP testing showed worse blue/yellow foveal thresholds in the blue-light-filtering IOLs compared with the UV-filtering IOLs.,0,0,N,0,0,0,N,0,0,0,0
+201,Our result is in contrast with that in a previously published study.,0,0,N,0,0,0,N,0,0,0,0
+202,The SWAP test has been considered to be a valuable tool in early diagnosis of glaucoma.,0,0,N,0,0,0,N,0,0,0,0
+203,The mean raw sensitivity scores reported above were similar to those that can be found in the normal age-matched phakic population.,0,0,N,0,0,0,N,0,0,0,0
+204,It demonstrates the abnormally high transmission of blue-light through a conventional UV-filtering IOL when compared with a phakic patient or a patient with a blue-light-filtering IOL.,0,0,N,0,0,0,N,0,0,0,0
+205,"This should be considered when comparing SWAP test mean raw sensitivity scores of patients with a mixed implantation of blue-light- and UV-filtering IOLs, as well as in patients with 1 phakic and 1 pseudophakic eye with a UV-filtering IOL implanted.",0,0,N,0,0,0,N,0,0,0,0
+206,The questionnaire did not show statistical significant differences when comparing both IOL types.,0,0,N,0,0,0,N,0,0,0,0
+207,"However, 3 of 24 tested patients described a difference in color vision or contrast acuity between the eyes.",0,0,N,0,0,0,N,0,0,0,0
+208,"These results are in line with those from previous studies.The literature reports on 1 case, in which a patient was intolerant for a mixed implantation of blue-light- and UV-filtering IOLs and required an IOL exchange.",0,0,N,0,0,0,N,0,0,0,0
+209,"In this case, the color vision disturbance ended after uncomplicated IOL exchange.",0,0,N,0,0,0,N,0,0,0,0
+210,The present study shows that there are differences in contrast acuity and foveal threshold when comparing blue-light- and UV-filtering IOLs.,0,0,N,0,0,0,N,0,0,0,0
+211,"However, the subjective patients' impression was small and only differed in 3 of 24 patients tested.",0,0,N,0,0,0,N,0,0,0,0
+212,Our recommendation is to avoid a mixed implantation of a blue-light-filtering IOL in one eye and a non–blue-light-filtering IOL in the contralateral eye in patients with a high demand in either color or contrast vision.,0,0,N,0,0,0,N,0,0,0,0

@@ -1,0 +1,199 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"To estimate the cost utility and cost effectiveness of long‐term, high‐intensity exercise classes compared with usual care in rheumatoid arthritis (RA) patients.",0,0,N,N,N,N,0,0,N,N,N
+1,RA patients (n = 300) were randomly assigned to either exercise classes or UC; followup lasted for 2 years.,0,1,N,N,N,N,0,0,N,N,N
+2,"Outcome measures were quality‐adjusted life years (QALYs) according to the EuroQol (EQ‐5D), Short Form 6D (SF‐6D), and a transformed visual analog scale (VAS) rating personal health; functional ability according to the Health Assessment Questionnaire (HAQ) and McMaster Toronto Arthritis Patient Preference Interview (MACTAR); and societal costs.",0,0,N,N,N,N,0,0,N,N,N
+3,"QALYs in both randomization groups were similar according to the EQ‐5D and SF‐6D, but were in favor of usual care according to the VAS (annual difference 0.037 QALY; 95% confidence interval [95% CI] 0.002, 0.069).",0,0,N,N,N,N,0,0,N,N,N
+4,"Functional ability was similar according to the HAQ, but in favor of the exercise classes according to the MACTAR (annual difference 2.9 QALY; 95% CI 0.9, 4.9).",0,0,N,N,N,N,0,0,N,N,N
+5,Annual medical costs of the exercise program were estimated at €780 per participating patient (€1 ≈ $1.05).,0,0,N,N,N,N,0,0,N,N,N
+6,"The increase per patient in total medical costs of physical therapy was estimated at €430 (95% CI €318, 577), and the increase in total societal costs at €602 (95% CI €−490, 1,664).",0,0,N,N,N,N,0,0,N,N,N
+7,"For societal willingness‐to‐pay equal to €50,000 per QALY, usual care had better cost utility than exercise classes, and significantly so according to the VAS.",0,0,N,N,N,N,0,0,N,N,N
+8,"From a societal perspective and without taking possible preventive health effects into account, long‐term, high‐intensity exercise classes provide insufficient improvement in the valuation of health to justify the additional costs.",0,0,N,N,N,N,0,0,N,N,N
+9,"It has long been accepted that physical activity improves health by preventing mortality and morbidity from cardiovascular diseases, osteoporosis, anxiety, and depression .",0,0,N,N,N,N,0,0,N,N,N
+10,"Increasingly, exercise programs are developed and implemented for specific patient groups.",0,0,N,N,N,N,0,0,N,N,N
+11,"For rheumatoid arthritis (RA) patients, despite their increased susceptibility for the mentioned comorbidities , exercise programs have for a long time included only low‐intensity training aimed at preserving joint mobility.",0,0,N,N,N,N,0,0,N,N,N
+12,"Patients were discouraged from performing intensive physical activity, for fear of damage to the large joints and exacerbation of joint inflammation .",0,0,N,N,N,N,0,0,N,N,N
+13,"Only relatively recently, it was shown that RA patients benefit from both short‐term  and long‐term  high‐intensity exercise, without worsening of inflammation or progression of joint damage.",0,0,N,N,N,N,0,0,N,N,N
+14,"This was confirmed by the Rheumatoid Arthritis Patients In Training (RAPIT) study  that compared a long‐term, high‐intensity exercise program with usual care consisting of individual physical therapy only if regarded necessary by the attending physician.",0,0,N,N,N,N,0,0,N,N,N
+15,"The study demonstrated that RA patients were able to improve their functional ability, physical capacity, emotional status, and bone mineral density, without an increase in disease activity or additional damage to the large joints.",0,0,N,N,N,N,0,0,N,N,N
+16,"However, studies have so far not reported on whether these exercise programs provide good value for money from the societal perspective.",0,0,N,N,N,N,0,0,N,N,N
+17,"Here we will present the economic evaluation of the RAPIT study, estimating the cost utility and cost effectiveness of long‐term, high‐intensity exercise classes compared with usual care, in RA patients.",0,0,N,N,N,N,0,0,N,N,N
+18,"The RAPIT study was a multicenter, single‐blinded randomized controlled trial , comparing safety, effectiveness, and costs of a long‐term intensive exercise program (RAPIT) with those of usual care physical therapy.",0,0,N,N,N,N,0,0,N,N,N
+19,Patients registered in 2 university and 2 nonuniversity outpatient rheumatology clinics in the Netherlands were invited to participate.,0,0,N,N,N,N,0,0,N,N,N
+20,"In May and June 1998, 300 RA patients who fulfilled the eligibility criteria for the trial (Tables 1 and 2) were included and randomized to receive the RAPIT program or usual care.",0,1,N,N,N,N,0,0,N,N,N
+21,Eligibility criteria for participation in the RAPIT trial,0,0,N,N,N,N,0,0,N,N,N
+22,Trial flow and baseline characteristics of 300 RA patients with baseline assessment,0,0,N,N,N,N,0,0,N,N,N
+23,"The RAPIT program consisted of long‐term, high‐intensity weight‐bearing exercise classes aimed at maintaining and improving physical ability.",0,0,N,N,N,N,0,0,N,N,N
+24,"Patients participated in the group exercise classes for 2 years, with two 75‐minute sessions each week.",0,0,N,N,N,N,0,0,N,N,N
+25,"In general, sessions consisted of warming up, bicycle training, an exercise circuit, sport or game, and cooling down.",0,0,N,N,N,N,0,0,N,N,N
+26,"The classes were supervised by 2 physical therapists and, on average, consisted of 14 patients.",0,0,N,N,N,N,0,0,N,N,N
+27,"Patients were encouraged to communicate possible physical problems with the physical therapists and, if necessary, the program was adapted to individual needs.",0,0,N,N,N,N,0,0,N,N,N
+28,"Patients in the control group received usual care, consisting of individual physical therapy, only if this was regarded necessary by the attending physician.",0,0,N,N,N,N,0,0,N,N,N
+29,"Utility is the valuation of the health of the patient , ranging from 0 (as bad as death) to 1 (full health), and was assessed in 3 different ways every 6 months, using questionnaires that were filled out by the patients without supervision.",0,0,N,N,N,N,0,0,N,N,N
+30,"Patients described their general health status using the EuroQol classification system (EQ‐5D), consisting of 5 questions on mobility, self care, usual activities, pain/discomfort, and anxiety/depression .",0,0,N,N,N,N,0,0,N,N,N
+31,"From the EQ‐5D classification system, the EQ‐5D utility index was calculated ).",0,0,N,N,N,N,0,0,N,N,N
+32,"This utility measure reflects how the general public values the health status described by the patient, which is preferred for economic evaluations from a societal perspective.",0,0,N,N,N,N,0,0,N,N,N
+33,Quality of life was also assessed using the RAND‐36 questionnaire .,0,0,N,N,N,N,0,0,N,N,N
+34,"The RAND‐36 consists of 36 items on physical and social functioning, role limitations, mental health, vitality, pain, and general health perception.",0,0,N,N,N,N,0,0,N,N,N
+35,"From the RAND‐36, the Short Form 6D (SF‐6D) utility index was calculated .",0,0,N,N,N,N,0,0,N,N,N
+36,"Like the EQ‐5D, this SF‐6D reflects the general public's valuation of the health described by the patient.",0,0,N,N,N,N,0,0,N,N,N
+37,"The SF‐6D is a recent instrument that has not been used much, but its richer classification system could make it a more sensitive utility measure than the EQ‐5D.",0,0,N,N,N,N,0,0,N,N,N
+38,Patients rated their personal health using a visual analog scale (VAS) ranging from worst imaginable health to best imaginable health.,0,0,N,N,N,N,0,0,N,N,N
+39,"Because the VAS has repeatedly been found to render less favorable valuations than more valid (but also more complicated) utility measures, the obtained VAS values were transformed using the power function 1–(1–VAS)1.61 .",0,0,N,N,N,N,0,0,N,N,N
+40,"Because patients experience all the subtleties of their health status, the VAS is potentially more sensitive to change, but it is not preferred for economic evaluations from a societal perspective .",0,0,N,N,N,N,0,0,N,N,N
+41,Assessments of functional ability.,0,0,N,N,N,N,0,0,N,N,N
+42,"The primary clinical endpoint of the RAPIT study was functional ability, assessed every 6 months by the Health Assessment Questionnaire (HAQ) and by the McMaster Toronto Arthritis Patient Preference Interview (MACTAR).",0,0,N,N,N,N,0,0,N,N,N
+43,The HAQ consists of 20 questions concerning 8 domains of problems in the activities of daily living .,0,0,N,N,N,N,0,0,N,N,N
+44,The total HAQ score ranges from 0 (without any difficulty) to 3 (unable to do).,0,0,N,N,N,N,0,0,N,N,N
+45,"The MACTAR is a semistructured interview, assessed by a trained interviewer, consisting of status and transitional questions .",0,0,N,N,N,N,0,0,N,N,N
+46,"The status questions elicit the patient's health status through 5 questions on general health; satisfaction with quality of life; and physical, social, and emotional wellbeing.",0,0,N,N,N,N,0,0,N,N,N
+47,The transitional questions focus on perceived change in disease activity and change in ability to perform a set of 5 impaired activities.,0,0,N,N,N,N,0,0,N,N,N
+48,These activities were selected and ranked by each individual patient at the beginning of the study.,0,0,N,N,N,N,0,0,N,N,N
+49,"To improve sensitivity to relevant change, a new set of activities could be chosen after a year if the original activities were no longer impaired or no longer of interest to the patient.",0,0,N,N,N,N,0,0,N,N,N
+50,The MACTAR scores during the second year were calculated by adding the MACTAR score at the end of the first year to the change during the second year.,0,0,N,N,N,N,0,0,N,N,N
+51,"The weighted MACTAR score ranges from 21 to 77 points, with higher scores reflecting better functional ability.",0,0,N,N,N,N,0,0,N,N,N
+52,Societal costs during the 2‐year followup period were assessed in strict accordance to current guidelines for economic evaluations.,0,0,N,N,N,N,0,0,N,N,N
+53,"The estimated costs included the costs of the RAPIT program, other medical costs (like individual physical therapy and hospitalizations), and nonmedical costs (like time, travel, and informal care).",0,0,N,N,N,N,0,0,N,N,N
+54,Costs of the RAPIT program and of disease‐modifying antirheumatic drugs were estimated from the study registration.,0,0,N,N,N,N,0,0,N,N,N
+55,All other costs were estimated from quarterly cost questionnaires filled out by the patients.,0,0,N,N,N,N,0,0,N,N,N
+56,"Costs were not discounted, to facilitate averaging over the short 2‐year study period.",0,0,N,N,N,N,0,0,N,N,N
+57,"Costs are reported as annual costs, converted to price level 2002 euros using the price index rate for the Dutch health care sector (obtained from Statistics Netherlands).",0,0,N,N,N,N,0,0,N,N,N
+58,Euros can be converted to US dollars using the Dutch purchasing power parity index for 2004: €1 = $1.05 .,0,0,N,N,N,N,0,0,N,N,N
+59,The costing analysis of the RAPIT program was based on experience acquired during the study.,1,0,N,N,N,N,0,0,N,N,N
+60,The classes were organized by 2 physical therapists.,1,0,N,N,N,N,0,0,N,N,N
+61,"Each class took them 100 minutes, of which 25 minutes were for traveling and preparation and 75 minutes were for the classes themselves.",1,0,N,N,N,N,0,0,N,N,N
+62,"This time was valued at €25.60 per hour, i.e., the income component of the Dutch reimbursement for individual physical therapy (available at: www.ctgzorg.nl).",1,0,N,N,N,N,0,0,N,N,N
+63,"Because physical therapists obtain their income from these reimbursements, they are a reasonable reflection of the true costs for physical therapists.",1,0,N,N,N,N,0,0,N,N,N
+64,"The exercise classes are assumed to take place in gyms, rented at €27 per class.",0,0,N,N,N,N,0,0,N,N,N
+65,This includes the costs for simple materials and 7 exercise bikes.,0,0,N,N,N,N,0,0,N,N,N
+66,"An exercise class, on average, consisted of 14 patients, with 94 planned classes per year of 75 minutes each.",0,0,N,N,N,N,0,0,N,N,N
+67,"Patients, on average, attended 72% of the classes.",0,0,N,N,N,N,0,1,N,N,N
+68,"For individual patients, costs for the exercise classes were counted for as long as the patient remained in the program.",0,0,N,N,N,N,0,0,N,N,N
+69,Time and travel costs were included in analyses from a societal perspective.,0,0,N,N,N,N,0,0,N,N,N
+70,"Time costs were estimated at 95 minutes per patient per class, valued at €5 per hour.",0,0,N,N,N,N,0,0,N,N,N
+71,Travel costs were estimated at €3 per patient per class.,0,0,N,N,N,N,0,0,N,N,N
+72,"In the quarterly cost questionnaires, patients reported physical therapy other than the RAPIT program, consultations (general practitioner visits, specialist consultations, paramedical professionals other than physical therapists, and alternative medicine), hospitalizations, home nursing care, and purchased medication.",0,0,N,N,N,N,0,0,N,N,N
+73,Most cost prices were obtained from Dutch standard prices that were designed to reflect societal costs and to standardize economic evaluations .,0,0,N,N,N,N,0,0,N,N,N
+74,Physical therapy other than the RAPIT program was valued at €47 per hour (www.ctgzorg.nl).,0,0,N,N,N,N,0,0,N,N,N
+75,"The general practitioner was valued at €18 per consultation , half for telephone, and double for home consultations.",0,0,N,N,N,N,0,0,N,N,N
+76,"Specialist consultations were on average valued at €49 , ranging from €25 to €76 for different specialties.",0,0,N,N,N,N,0,0,N,N,N
+77,"Paramedical professionals other than physical therapists were valued at €20 per consultation , and alternative medicine, on average, at €29 per consultation.",0,0,N,N,N,N,0,0,N,N,N
+78,"Day care hospitalizations in rheumatology departments were valued at €758 per admission plus €236 per day, and clinical hospitalizations at €909 per admission plus €243 per day .",0,0,N,N,N,N,0,0,N,N,N
+79,Other hospitalizations were valued at €431 per day for nonuniversity hospitals and €599 per day for university hospitals .,0,0,N,N,N,N,0,0,N,N,N
+80,Home nursing care was valued at €34 per hour .,0,0,N,N,N,N,0,0,N,N,N
+81,"Purchased medication was valued according to the Pharmacotherapeutic Compass, plus €6 for each purchase other than over‐the‐counter medications .",0,0,N,N,N,N,0,0,N,N,N
+82,"Nonmedical costs included time and travel costs required to obtain health care, sports expenses, other out‐of‐pocket costs (like special appliances and house adaptations), absenteeism, unpaid labor, domestic help, and informal care.",0,0,N,N,N,N,0,0,N,N,N
+83,"Time was valued at €5 per hour , with the amount of time varying from 10 minutes per telephone consultation to 8 hours per hospitalization day.",0,0,N,N,N,N,0,0,N,N,N
+84,"Travel was valued at €1.22 plus €0.29 per kilometer, with national averages for the travel distances to different types of medical care.",0,0,N,N,N,N,0,0,N,N,N
+85,Sports expenses and other out‐of‐pocket costs were valued as reported by the patients.,0,0,N,N,N,N,0,0,N,N,N
+86,"Paid labor was valued using the friction cost method in which productivity costs are calculated for at most 4 months, which is the estimated time needed to find a replacement .",0,0,N,N,N,N,0,0,N,N,N
+87,"Time spent on unpaid labor was compared with the average over the entire sample (for men and women separately, corrected for the individual amount of domestic and informal care), and the difference was valued at €5 per hour (the value of time).",0,0,N,N,N,N,0,0,N,N,N
+88,"With this method, patients who reported more unpaid labor than average have negative costs (profits).",0,0,N,N,N,N,0,0,N,N,N
+89,"Domestic help was valued at €19 per hour , and reported informal care was valued at minimum wages (€9 per hour, with a maximum of 28 hours per week).",0,0,N,N,N,N,0,0,N,N,N
+90,"All patients were evaluated according to intention to treat, with correction for baseline differences (by subtracting from all effectiveness scores the individual baseline score and adding the overall average baseline score).",0,0,N,N,N,N,0,0,N,N,N
+91,Missing measurements were imputed by carrying forward the last available previous measurement.,0,0,N,N,N,N,0,0,N,N,N
+92,"On average, 4% of the utility measurements, 4% of the HAQ measurements, 6% of the MACTAR measurements, and 8% of the cost questionnaires were missing, with missing measurements about twice as frequent in the RAPIT group.",0,0,N,N,N,N,0,0,N,N,N
+93,"Because in economic evaluations it is sustained improvement that counts, not the separate measurements but the areas under the measurement curves were used in the analyses.",0,0,N,N,N,N,0,0,N,N,N
+94,"For utility measures, the area under the curves is known as quality‐adjusted life years (QALYs).",0,0,N,N,N,N,0,0,N,N,N
+95,QALYs are an accepted measure for resource allocation decisions involving diverse treatments and patient populations.,0,0,N,N,N,N,0,0,N,N,N
+96,Cost‐effectiveness analyses with QALYs as a measure of effectiveness are known as cost‐utility analyses.,0,0,N,N,N,N,0,0,N,N,N
+97,"In our economic evaluation, both randomization groups were compared with respect to their net benefit  by subtracting the costs associated with the interventions from society's willingness to pay (WTP) for the obtained effectiveness:",0,0,N,N,N,N,0,0,N,N,N
+98,This net benefit was calculated for each patient individually.,0,0,N,N,N,N,0,0,N,N,N
+99,"The more cost‐effective treatment is the one with the higher average net benefit, which also depends on the value of the WTP.",0,0,N,N,N,N,0,0,N,N,N
+100,"If one treatment is more effective than the other at higher costs, then the differences in costs divided by the difference in effectiveness is called the incremental cost‐effectiveness ratio (ICER) of the treatment under investigation.",0,0,N,N,N,N,0,0,N,N,N
+101,"According to the original study protocol, the primary economic evaluation compared 2‐year QALYs based on the EQ‐5D with 2‐year total societal costs.",0,0,N,N,N,N,0,0,N,N,N
+102,"Sensitivity analysis was, however, also performed by considering different utility and effectiveness measures (EQ‐5D, SF‐6D, VAS, HAQ, and MACTAR) and different cost measures (total societal costs and societal costs of all physical therapy).",0,0,N,N,N,N,0,0,N,N,N
+103,"For all outcome measures, differences between the randomization groups were tested using double‐sided bootstrapping , with 1,000,000 replications and 0.05 significance threshold.",0,0,N,N,N,N,0,0,N,N,N
+104,Reported confidence intervals are the corresponding 95% trimmed asymmetric confidence intervals (95% CIs).,0,0,N,N,N,N,0,0,N,N,N
+105,"Bootstrapping explicitly compares the means in both groups, without making distributional assumptions and thus allowing for skewed distributed costs.",0,0,N,N,N,N,0,0,N,N,N
+106,Utility and effectiveness analyses.,0,0,N,N,N,N,0,0,N,N,N
+107,"Compared with the usual care group, the average valuation of health (utility) in the RAPIT group was somewhat more favorable according to the SF‐6D measure, but was less favorable according to the EQ‐5D and the VAS measures (Figure 1).",0,0,N,N,N,N,0,0,N,N,N
+108,"Over the 2‐year followup period, only the difference according to the VAS was significant (Table 3), with an estimated annual difference of 0.037 QALY in favor of usual care (95% CI 0.002, 0.069).",0,0,N,N,N,N,0,0,N,N,N
+109,VAS = visual analog scale; SF‐6D = Short Form 6D; EQ‐5D = EuroQol 5D; RAPIT = Rheumatoid Arthritis Patients In Training; UC = usual care.,0,0,N,N,N,N,0,0,N,N,N
+110,Average QALYs and functional ability per patient,0,0,N,N,N,N,0,0,N,N,N
+111,HAQ = Health Assessment Questionnaire; RAPIT = Rheumatoid Arthritis Patients In Training; UC = usual care; MACTAR = McMaster Toronto Arthritis Patient Preference Interview.,0,0,N,N,N,N,0,1,N,N,N
+112,"The medical costs of the RAPIT program were estimated at €10,800 per group annually, of which 24% was for materials and accommodation and 76% for the 2 physical therapists (160 hours per therapist annually).",0,0,N,N,N,N,0,0,N,N,N
+113,"With, on average, 14 patients per group, these estimated costs amount to €780 per patient.",0,0,N,N,N,N,0,0,N,N,N
+114,"Based on 94 planned sessions per year with 72% attendance of patients, the costs per patient per attended class were €11.40.",0,0,N,N,N,N,0,0,N,N,N
+115,"If supervision would be provided by only a single physical therapist, or by a single therapist assisted by a trained lay person valued at minimum wages, then the medical costs of the RAPIT program could be reduced by 35% and 23%, respectively.",0,0,N,N,N,N,0,0,N,N,N
+116,"From a societal perspective, costs also include the patients' invested time and travel costs.",0,0,N,N,N,N,0,0,N,N,N
+117,"These costs amounted to €7,100 (for 107 hours per patient annually) and €2,600, respectively.",0,0,N,N,N,N,0,0,N,N,N
+118,"This almost doubled the costs of the exercise classes to €20,500 per group annually.",0,0,N,N,N,N,0,0,N,N,N
+119,Costs of all physical therapy per patient.,0,0,N,N,N,N,1,0,N,N,N
+120,"Because participation gradually decreased over time, the average medical costs per patient for the RAPIT program decreased from €733 in the first year to €634 in the second year (Figure 3, Table 4).",0,0,N,N,N,N,0,0,N,N,N
+121,"In both randomization groups, patients could seek individual physical therapy.",0,0,N,N,N,N,0,0,N,N,N
+122,"During the first quarter, the medical costs for individual physical therapy were comparable, but later on they were considerably lower for the RAPIT patients.",0,0,N,N,N,N,0,0,N,N,N
+123,"Over the 2‐year period, the medical costs for individual physical therapy were reduced by 62%, which partly compensated the costs of the RAPIT program.",0,0,N,N,N,N,0,0,N,N,N
+124,"Nevertheless, the annual medical costs of all physical therapy (both the RAPIT program and individual physical therapy) were still €430 in favor of usual care (95% CI €318, 577).",0,0,N,N,N,N,0,0,N,N,N
+125,"Including time and travel costs, the annual difference in societal costs of all physical therapy was €996 (95% CI €860, 1,170).",0,0,N,N,N,N,0,0,N,N,N
+126,Medical costs of all physical therapy per quarter (purchasing power parity index: €1 = $1.05).,0,0,N,N,N,N,0,0,N,N,N
+127,RAPIT = Rheumatoid Arthritis Patients In Training; UC = usual care.,0,0,N,N,N,N,0,0,N,N,N
+128,Average annual health care consumption and costs per patient*,0,0,N,N,N,N,0,0,N,N,N
+129,Total societal costs per patient.,0,0,N,N,N,N,0,0,N,N,N
+130,All medical and nonmedical cost categories that were not directly associated with physical therapy did not show a significant difference between the randomization groups (Table 4).,0,0,N,N,N,N,0,0,N,N,N
+131,"Patients in the RAPIT group did report considerably more out‐of‐pocket costs, which was mainly due to house adaptations (annual cost difference €312, 95% CI €−84, 585).",0,0,N,N,N,N,0,0,N,N,N
+132,"On the other hand, they also reported more unpaid labor than the usual care group (annual cost difference €540, 95% CI €−240, 1,310).",0,0,N,N,N,N,0,0,N,N,N
+133,"The estimated annual difference in total societal costs was €602 per patient (95% CI €−490, 1,664).",0,0,N,N,N,N,0,0,N,N,N
+134,Cost‐utility and cost‐effectiveness analyses.,0,0,N,N,N,N,0,0,N,N,N
+135,The primary economic evaluation of the RAPIT study was the cost‐utility analysis comparing the €602 difference in total societal costs to the 0.029‐year difference in QALYs based on the EQ‐5D.,0,0,N,N,N,N,1,0,N,N,N
+136,"If society values QALYs at (the often quoted) €50,000 per QALY, then the difference in net benefit is 0.029 × €50,000 + €602 = €2,052 per patient annually.",0,0,N,N,N,N,0,0,N,N,N
+137,"Because both costs and QALYs are in favor of usual care, the net benefit is also in favor of usual care, regardless society's WTP.",0,0,N,N,N,N,0,0,N,N,N
+138,"The difference in net benefit did not reach statistical significance for any WTP (P ≥ 0.06, with P = 0.06 for WTP = €50,000 and P < 0.10 for €16,000 ≤ WTP ≤ €1,200,000).",0,0,N,N,N,N,0,0,N,N,N
+139,"In sensitivity analyses, we considered other utility (SD‐6D and VAS), effectiveness (HAQ and MACTAR), and costs measures.",0,0,N,N,N,N,0,0,N,N,N
+140,"According to the SF‐6D, patients in the RAPIT program had higher QALYs than patients receiving usual care.",0,0,N,N,N,N,0,0,N,N,N
+141,"The additional total societal costs of €602 rendered a 0.009 QALY improvement, with an estimated ICER of €67,000 per QALY.",0,0,N,N,N,N,0,0,N,N,N
+142,"However, the net benefit was again not significantly different for any WTP (P ≥ 0.27 and P = 0.83 for WTP = €50,000).",0,0,N,N,N,N,0,0,N,N,N
+143,"According to the VAS, patients in the RAPIT program had lower QALYs than patients receiving usual care, so cost utility was in favor of usual care for all levels of society's WTP.",0,0,N,N,N,N,0,0,N,N,N
+144,"Here, the difference was significant for all WTP above €19,000 per QALY (P ≤ 0.05 and P = 0.02 for WTP = €50,000).",0,0,N,N,N,N,0,0,N,N,N
+145,Both measures of functional ability were in favor of the RAPIT program.,0,0,N,N,N,N,0,0,N,N,N
+146,"For the HAQ, the ICER was estimated at €24,000 per HAQ point, but the net benefit was not significantly different for any WTP (P ≥ 0.27).",0,0,N,N,N,N,0,1,N,N,N
+147,"For the MACTAR, the ICER was estimated at €210 per MACTAR point, and the net benefit was significantly different for WTP greater than €1,200 per MACTAR point (P ≤ 0.05).",0,0,N,N,N,N,0,1,N,N,N
+148,We also performed sensitivity analyses including only the costs associated with physical therapy because all other cost categories showed no significant difference.,0,0,N,N,N,N,0,0,N,N,N
+149,"The results basically remained the same, except that the reduced variability in costs considerably increased the statistical significance of the economic differences in favor of usual care, and the estimated ICERs were less favorable for the RAPIT program by 66% (Table 5).",0,0,N,N,N,N,0,0,N,N,N
+150,"Cost‐utility and cost‐effectiveness analyses of the RAPIT exercise program compared with usual care for different utility, effectiveness, and cost measures*",0,0,N,N,N,N,0,0,N,N,N
+151,"In line with previous studies , the RAPIT study has shown that for RA patients a long‐term, high‐intensity exercise program is safe and effective in improving physical capacity and emotional status, without an increase in disease activity or radiographic joint damage .",0,0,N,N,N,N,0,0,N,N,N
+152,It also proved to be effective in improving functional ability and in slowing down age‐related bone loss.,0,0,N,N,N,N,0,0,N,N,N
+153,"In the economic evaluation reported here, we studied whether from the societal perspective clinical effectiveness is attained at reasonable costs.",0,0,N,N,N,N,0,0,N,N,N
+154,"The costs of exercise programs can vary considerably, depending on the number of participating patients, the accommodation, and the agreed income of the physical therapists.",0,0,N,N,N,N,0,0,N,N,N
+155,"In the Dutch setting, the annual medical costs were estimated at €10,800 per RAPIT group, which is €780 per participating patient (€1 ≈ $1.05).",0,0,N,N,N,N,0,0,N,N,N
+156,The additional time and travel costs incurred by the patients almost doubled these costs and can seriously discourage participation by the patients.,0,0,N,N,N,N,0,0,N,N,N
+157,Costs of the RAPIT program were partly compensated by a decrease in individual physical therapy.,0,0,N,N,N,N,0,0,N,N,N
+158,"As a result, the annual increase in medical costs of all physical therapy for patients participating in the RAPIT program was estimated at €430.",0,0,N,N,N,N,0,0,N,N,N
+159,The annual increase in total societal costs was estimated at €602 per patient.,0,0,N,N,N,N,0,0,N,N,N
+160,More research is needed on the development of less expensive exercise interventions.,0,0,N,N,N,N,0,0,N,N,N
+161,"If effectiveness could be maintained with less therapists' supervision and more home‐based exercises, this would cut down on costs.",0,0,N,N,N,N,0,0,N,N,N
+162,"However, until now, home‐based exercise programs designed for patients with RA did prove effective with respect to the improvement of physical capacity but, perhaps due to their low intensity or lack of impact, did not accomplish significant changes in functional capacity or bone mineral density .",0,0,N,N,N,N,0,0,N,N,N
+163,"For policy making from a societal perspective, costs need to be weighed against an effectiveness measure that is applicable and comparable for a wide range of diseases and treatments.",0,0,N,N,N,N,0,0,N,N,N
+164,"The 3 QALY measures used in our study satisfy this requirement and, despite their conceptual differences, led to the same conclusion.",0,0,N,N,N,N,0,0,N,N,N
+165,"An often‐quoted rule of thumb is that costs up to €50,000 per QALY are acceptable .",0,0,N,N,N,N,0,0,N,N,N
+166,"At that threshold, the cost utility of usual care was better than for the RAPIT program, and significantly so according to the VAS.",0,0,N,N,N,N,0,0,N,N,N
+167,"We conclude that, according to current societal standards, the exercise classes did not improve the health valuation of the RA patients sufficiently to provide good value for money.",0,0,N,N,N,N,0,0,N,N,N
+168,A number of remarks need to be made that temper the sharpness of this conclusion.,0,0,N,N,N,N,0,0,N,N,N
+169,"Most importantly, our analysis has not taken into account preventive effects on cardiovascular and fracture risks and the associated cost savings , because the available data were insufficient for a quantitative extrapolation of future participation, effectiveness, damage, and costs.",0,0,N,N,N,N,0,0,N,N,N
+170,"Second, although corrected for, results may have been influenced by some statistically significant baseline differences that we attribute to early dropout among healthier patients randomized to obtain usual care.",0,0,N,N,N,N,0,0,N,N,N
+171,"Third, the used utility measures may be less appropriate for evaluation of the health of RA patients in clinical trials , because trials are usually powered for more sensitive primary outcome measures and patients continually adjust to their worsening health status .",0,0,N,N,N,N,0,0,N,N,N
+172,The few economic evaluations of physical therapy in somewhat similar patient groups either did not include utility measures  or also found insufficient improvement .,0,0,N,N,N,N,0,0,N,N,N
+173,"Finally, the societal perspective ignores important financial considerations.",0,0,N,N,N,N,0,0,N,N,N
+174,"For example, patients could be asked to contribute to the amount of what they would have to pay at a fitness center.",0,0,N,N,N,N,0,0,N,N,N
+175,"In economic evaluations, effectiveness is preferably estimated using utility measures because they aim to estimate the overall value of a treatment.",0,0,N,N,N,N,0,0,N,N,N
+176,"A remarkable discrepancy revealed in our analysis is that significant and clinically important improvements on the effectiveness measures targeted by the intervention, like physical capacity and functional ability, did not translate into a significant improvement on the utility measures.",0,0,N,N,N,N,0,0,N,N,N
+177,There can be several explanations for this finding.,0,0,N,N,N,N,0,0,N,N,N
+178,"First, utility measures may not be sensitive enough to detect true improvements in overall value or, equivalently, true improvements in overall value may be too small to be detected by available utility measures.",0,0,N,N,N,N,0,0,N,N,N
+179,"This explanation does not invalidate their use in economic evaluations, provided that the utility measures include the relevant domains, as was the case in our study.",0,0,N,N,N,N,0,0,N,N,N
+180,"Second, the value of the improvements on the targeted effectiveness measures may be countered by unexpected or unknown changes in other domains, which is suggested here by the significant difference in the VAS.",0,0,N,N,N,N,0,0,N,N,N
+181,"To compare the efficiency of different treatments in rheumatology, disease‐specific outcome measures can be used.",0,0,N,N,N,N,0,0,N,N,N
+182,"We analyzed the primary clinical endpoints of the study, both measuring functional ability.",0,0,N,N,N,N,0,0,N,N,N
+183,"The HAQ is used extensively in rheumatology research, but has been reported to be insensitive to changes due to exercise therapy .",0,0,N,N,N,N,0,0,N,N,N
+184,This was confirmed in the RAPIT study.,0,0,N,N,N,N,1,0,N,N,N
+185,"Patients in the RAPIT group on average showed only a 0.01 improvement on a scale from 0 to 3, at the annual costs of €24,000 per HAQ point.",0,0,N,N,N,N,0,0,N,N,N
+186,"The above‐mentioned rule of thumb of €50,000 per QALY suggests that the estimated costs per HAQ point are unacceptably high.",0,0,N,N,N,N,0,0,N,N,N
+187,"The most sensitive measure in our study was the MACTAR: over the 2‐year period, patients following the RAPIT program had an average MACTAR score that was 2.9 points better than for patients receiving usual care.",0,0,N,N,N,N,0,0,N,N,N
+188,Most of the difference in the MACTAR score was attributable to the items that assessed difficulty performing the individually selected impaired activities.,0,0,N,N,N,N,0,0,N,N,N
+189,"Because the weighted MACTAR score, on average, assigns 3 points to these activities, the estimated 2.9 difference can be interpreted as that patients following the RAPIT program had 1 less relevant activity problem, at the annual cost of €630 per problem.",0,0,N,N,N,N,0,0,N,N,N
+190,"Unfortunately, at this moment there are no data on what constitutes a clinically relevant MACTAR change, nor is there previous literature to decide whether the estimated costs per MACTAR point compare favorably with other interventions in rheumatology.",0,0,N,N,N,N,0,0,N,N,N
+191,"From the individual patient's perspective, costs need not play a role in the decision on whether or not to participate in exercise classes.",0,0,N,N,N,N,0,0,N,N,N
+192,"During the study, most patients reported personal willingness to pay that was insufficient to cover the costs (on average €300 annually).",0,0,N,N,N,N,0,0,N,N,N
+193,"Nevertheless after the study ended, 58% of the patients continued to follow exercise classes at their own costs for at least a year.",0,0,N,N,N,N,0,0,N,N,N
+194,"If funding does not provide a problem, then there is no reason to discourage participation, provided qualified supervision is available to prevent injuries and to adjust the exercises to individual needs.",0,0,N,N,N,N,0,0,N,N,N
+195,"Moreover, the reduction in costs for individual physical therapy could provide some scope for reimbursement.",0,0,N,N,N,N,0,0,N,N,N
+196,"From an individual patient perspective, there is much to be said for participating in long‐term, high‐intensity exercise classes.",0,0,N,N,N,N,0,0,N,N,N
+197,"However, from a societal perspective and without taking possible preventive health effects into account, they provide insufficient improvement in the valuation of health to justify the additional costs.",0,0,N,N,N,N,0,0,N,N,N

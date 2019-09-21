@@ -1,0 +1,161 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Importance  There is limited evidence supporting use of physical therapy for hip osteoarthritis.,0,0,0,0,0,N,0,N,0,0,0
+1,Objective  To determine efficacy of physical therapy on pain and physical function in patients with hip osteoarthritis.,0,0,0,0,0,N,0,N,0,0,0
+2,"Design, Setting, and Participants  Randomized, placebo-controlled, participant- and assessor-blinded trial involving 102 community volunteers with hip pain levels of 40 or higher on a visual analog scale of 100 mm (range, 0-100 mm; 100 indicates worst pain possible) and hip osteoarthritis confirmed by radiograph.",0,0,0,0,0,N,0,N,0,0,0
+3,Forty-nine patients in the active group and 53 in the sham group underwent 12 weeks of intervention and 24 weeks of follow-up (May 2010-February 2013),0,0,0,0,0,N,0,N,0,0,0
+4,Interventions  Participants attended 10 treatment sessions over 12 weeks.,0,0,0,0,0,N,0,N,0,0,0
+5,"Active treatment included education and advice, manual therapy, home exercise, and gait aid if appropriate.",0,0,0,0,0,N,0,N,0,0,0
+6,Sham treatment included inactive ultrasound and inert gel.,0,0,0,0,0,N,0,N,0,0,0
+7,"For 24 weeks after treatment, the active group continued unsupervised home exercise while the sham group self-applied gel 3 times weekly.",0,0,0,0,0,N,0,N,0,0,0
+8,"Main Outcomes and Measures  Primary outcomes were average pain (0 mm, no pain; 100 mm, worst pain possible) and physical function (Western Ontario and McMaster Universities Osteoarthritis Index, 0 no difficulty to 68 extreme difficulty) at week 13.",0,0,0,0,0,N,0,N,0,0,0
+9,"Secondary outcomes were these measures at week 36 and impairments, physical performance, global change, psychological status, and quality of life at weeks 13 and 36.",0,0,0,0,0,N,0,N,0,0,0
+10,Results  Ninety-six patients (94%) completed week 13 measurements and 83 (81%) completed week 36 measurements.,0,0,0,0,0,N,0,N,0,0,0
+11,The between-group differences for improvements in pain were not significant.,0,0,0,0,0,N,0,N,0,0,0
+12,"For the active group, the baseline mean (SD) visual analog scale score was 58.8 mm (13.3) and the week-13 score was 40.1 mm (24.6); for the sham group, the baseline score was 58.0 mm (11.6) and the week-13 score was 35.2 mm (21.4).",0,0,0,0,0,N,0,N,0,0,0
+13,"The mean difference was 6.9 mm favoring sham treatment (95% CI, −3.9 to 17.7).",0,0,0,0,0,N,0,N,0,0,0
+14,The function scores were not significantly different between groups.,0,0,0,0,0,N,0,N,0,0,0
+15,"The baseline mean (SD) physical function score for the active group was 32.3 (9.2) and the week-13 score was 27.5 (12.9) units, whereas the baseline score for the sham treatment group was 32.4 (8.4) units and the week-13 score was 26.4 (11.3) units, for a mean difference of 1.4 units favoring sham (95% CI, −3.8 to 6.5) at week 13.",0,0,0,0,0,N,0,N,0,0,0
+16,There were no between-group differences in secondary outcomes (except greater week-13 improvement in the balance step test in the active group).,0,0,0,0,0,N,0,N,0,0,0
+17,Nineteen of 46 patients (41%) in the active group reported 26 mild adverse effects and 7 of 49 (14%) in the sham group reported 9 mild adverse events (P = .003).,0,0,0,0,0,N,0,N,0,0,0
+18,"Conclusions and Relevance  Among adults with painful hip osteoarthritis, physical therapy did not result in greater improvement in pain or function compared with sham treatment, raising questions about its value for these patients.",0,0,0,0,0,N,0,N,0,0,0
+19,Trial Registration  anzctr.org.au Identifier: ACTRN12610000439044,0,0,0,0,0,N,0,N,0,0,0
+20,Hip osteoarthritis is a prevalent and costly chronic musculoskeletal condition.,0,0,0,0,0,N,0,N,0,0,0
+21,"Clinical guidelines recommend conservative nonpharmacological physiotherapeutic treatments for symptomatic hip osteoarthritis irrespective of disease severity, pain levels, and functional status.",0,0,0,0,0,N,0,N,0,0,0
+22,"However, the costs of physical therapy are significant and evidence about the efficacy of physical therapy is inconclusive.",0,0,0,0,0,N,0,N,0,0,0
+23,"Physical therapy typically takes a multimodal approach, which invovles exercise, manual therapy, education and advice, and prescription of gait aids, if indicated.Although there is limited support for some components, namely, exercise and manual therapy, there is a paucity of trials evaluating multimodal approaches.",0,0,0,0,0,N,0,N,0,0,0
+24,"Given the substantial contribution of the placebo effect to improvements following treatment of osteoarthritis,which includes contact with a caring therapist,these trials also require a sham control.",0,0,0,0,0,N,0,N,0,0,0
+25,"The primary aim of this study was to test the hypothesis that a 12-week multimodal physical therapy program, with components typical of clinical practice, leads to greater improvements in pain and physical function than sham physical therapy among people with symptomatic hip osteoarthritis.",0,0,0,0,0,N,0,N,0,0,0
+26,"We performed a randomized, participant- and assessor-blinded, parallel-group, placebo-controlled trial with a 12-week intervention and a 24-week follow-up.",0,0,0,0,0,N,0,N,0,0,0
+27,"Data were collected at the Department of Physiotherapy, University of Melbourne.",0,0,0,0,0,N,0,N,0,0,0
+28,The protocol and description of the intervention are reported elsewhere.,0,0,0,0,0,N,0,N,0,0,0
+29,The institutional human ethics committee approved the study.,0,0,0,0,0,N,0,N,0,0,0
+30,All participants provided written informed consent.,0,0,0,0,0,N,0,N,0,0,0
+31,Participants were recruited from the community between May 2010 and April 2012 with follow-up completed February 2013.,0,0,0,0,0,N,0,N,0,0,0
+32,"Inclusion criteria were 50 years or older, hip osteoarthritis fulfilling American College of Rheumatology classification criteria of pain and radiographic changes,10 pain in groin or hip for more than 3 months, average pain intensity in past week of 40 or higher on a 100 mm visual analogue scale (VAS), and at least moderate difficulty with daily activities.",0,0,0,0,0,N,0,N,0,0,0
+33,"Major exclusions were hip or knee joint replacements or both, planned lower limb surgery, physical therapy, chiropractic treatment or prescribed exercises for hip, lumbar spine, or both in past 6 months, walking continuously more than 30 minutes daily, and regular structured exercise more than once weekly (eMethods in the Supplement).",0,0,0,0,0,N,0,N,0,0,0
+34,Participants were informed that we were testing whether physical therapy was more effective than sham physical therapy but were not provided with any description about the treatments.,0,0,0,0,0,N,0,N,0,0,0
+35,Volunteers underwent telephone screening followed by a weight-bearing anteroposterior pelvic x-ray and clinical examination.,0,0,0,0,0,N,0,N,0,0,0
+36,"After baseline assessment, those eligible were randomized in permuted blocks of varying size (using a computer-generated random numbers table generated by A.F.",0,0,0,0,0,N,0,N,0,0,0
+37,"), stratified by physical therapist, to receive either active or sham treatment.",0,0,0,0,0,N,0,N,0,0,0
+38,Allocations were sealed in opaque consecutively numbered envelopes by an independent person not involved in recruitment and kept in a central locked location.,0,0,0,0,0,N,0,N,0,0,0
+39,"Just before the participant presented for treatment, another independent administrator opened the next sequential envelope and informed the relevant therapist of treatment allocation by email.",0,0,0,0,0,N,0,N,0,0,0
+40,Eight physical therapists (with ≥5 years of clinical experience and postgraduate qualifications) in 9 private clinics were trained to deliver both treatments.,0,0,0,0,0,N,0,N,0,0,0
+41,Treatment fidelity was assessed by observation of sessions and completion of treatment notes.,0,0,0,0,0,N,0,N,0,0,0
+42,"Participants attended  individual physical therapy sessions over 12 weeks; twice in the first week, once weekly for 6 weeks, then approximately once every 2 weeks with the last visit in week 11 or 12, depending on scheduling.",0,0,0,0,0,N,0,N,0,0,0
+43,The initial 2 sessions were 45 to 60 minutes in duration.,0,0,0,0,0,N,0,N,0,0,0
+44,The remainder were 30 minutes.,0,0,0,0,0,N,0,N,0,0,0
+45,The active intervention was semistandardized comprising core components plus optional techniques and exercises depending on assessment findings.,0,0,0,0,0,N,0,N,0,0,0
+46,"All participants received manual therapy techniques (hip thrust manipulation, hip-lumbar spine mobilization, deep tissue massage, and muscle stretches), 4 to 6 home exercises (performed 4 times/wk and including strengthening of the hip abductors and quadriceps, stretching and range of motion, and functional balance and gait drills), education and advice, and provision of a walking stick if appropriate (eTable 1 in the Supplement).",0,0,0,0,0,N,0,N,0,0,0
+47,"During the 6-month follow-up, participants were instructed to perform unsupervised home exercises 3 times weekly.",0,0,0,0,0,N,0,N,0,0,0
+48,The sham intervention included inactive ultrasound and inert gel lightly applied to the anterior and posterior hip region by the unblinded therapist.,0,0,0,0,0,N,0,N,0,0,0
+49,This group received no exercise instructions and no manual therapy.,0,0,0,0,0,N,0,N,0,0,0
+50,"During the 6-month follow-up, participants were asked to gently apply the gel for 5 minutes 3 times weekly.",0,0,0,0,0,N,0,N,0,0,0
+51,Participants were assessed by the same blinded assessor at baseline and at 13 weeks and were mailed questionnaires at 36 weeks.,0,0,0,0,0,N,0,N,0,0,0
+52,Primary outcomes were 2 valid and reliable self-report measures recommended for osteoarthritis clinical trials.,0,0,0,0,0,N,0,N,0,0,0
+53,"Overall average hip pain intensity in the past week was rated using a 100 mm horizontal VAS, for which 0 mm represented no pain and 100 mm, the worst pain possible.",0,0,0,0,0,N,0,N,0,0,0
+54,A minimal clinically important difference is 18 mm.,0,0,0,0,0,N,0,N,0,0,0
+55,"Physical function was measured using the 17-item Western Ontario and McMaster Universities Osteoarthritis Index Likert version 3.1 physical function subscale with hip-specific questions with scores ranging from 0 representing no difficulty to 68, extreme difficulty.",0,0,0,0,0,N,0,N,0,0,0
+56,The minimal clinically important difference is 6 units.,0,0,0,0,0,N,0,N,0,0,0
+57,"Secondary measures and their minimal clinically important differences included average hip pain intensity while walking in past week using a VAS (minimal clinically important difference, 18 mm); the Hip Osteoarthritis Outcome Scale (minimal clinically important difference recommended is 20%); Assessment of Quality of Life instrument version 2 (minimal clinically important difference, 0.06 units); participant global rating of overall change, change in pain, and change in physical function using a 7-point ordinal scale—1 indicates much worse; 7, much better; Arthritis Self Efficacy Scale (minimal clinically important difference, 0.3 effect size); the Pain Catastrophizing Scale; the Physical Activity Scale for the Elderly ; and number of daily steps using a pedometer (HJ-005, Omron Healthcare).",0,0,0,0,0,N,0,N,0,0,0
+58,"Musculoskeletal impairments and functional performance tests at baseline and week 13 included hip range of motion (minimal clinically important difference, 5°); maximum isometric strength of hip and thigh muscles; stair climb test; 30-second sit-to-stand test (minimal clinically important difference, 2 stands); fast-paced walking velocity (m/s) over 20 m (minimal clinically important difference, 0.3 m/s); and dynamic standing balance assessed by step test and 4-square step test.",0,0,0,0,0,N,0,N,0,0,0
+59,"Adherence, adverse events, cointerventions, and medication use were collected via log book during treatment and via questionnaires administered during follow-up.",0,0,0,0,0,N,0,N,0,0,0
+60,"To assess blinding at weeks 13 and 36, participants were asked whether they believed they had received real or sham physical therapy.",0,0,0,0,0,N,0,N,0,0,0
+61,The Treatment Credibility Scale was completed after the first and last physical therapy sessions.,0,0,0,0,0,N,0,N,0,0,0
+62,The minimum clinically important difference in osteoarthritis trials is a change in pain of 18 mm and a change of 6 physical function units on the Western Ohio McMaster Universities Osteoarthritis Index.,0,0,0,0,0,N,0,N,1,0,0
+63,"Based on our previous data, we assumed a between-participant standard deviation of change of 30 mm for pain and 12 units for physical function and assumed a baseline-to-week-13 follow-up correlation of 0.60.",0,0,0,0,0,N,0,N,1,0,0
+64,"The required sample for analysis of covariance of change in physical function scores to detect a 6-unit difference, controlling for baseline values with 90% power and type I error of 0.05 is 54 participants per group.",0,0,0,0,0,N,0,N,1,0,0
+65,This provides 97% power for pain to detect a difference of 18 mm.,0,0,0,0,0,N,0,N,1,0,0
+66,"Allowing for a 15% drop-out rate, we aimed to recruit 64 participants per group.",0,0,0,0,0,N,0,N,1,0,0
+67,"Because recruitment was slower than anticipated, we revised the power for physical function to 80% yielding a revised sample size of 100.",0,0,0,0,0,N,0,N,0,0,0
+68,This decision was made without examining the trial data.,0,0,0,0,0,N,0,N,0,0,0
+69,Analyses were performed using Stata version 12 software (StataCorp) on an intention-to-treat basis including all randomized participants.,0,1,0,0,0,N,0,N,0,0,0
+70,Testing was 2-sided with a significance level set at P < .05.,0,0,0,0,0,N,0,N,0,0,0
+71,Between-group differences in mean change from baseline to each time point were compared between groups using linear regression modeling adjusting for baseline levels of the outcome measure.,0,0,0,0,0,N,0,N,0,0,0
+72,Ratings of global change were dichotomized a priori as improved (moderately or much better) and not improved (slightly better or below).,0,0,0,0,0,N,0,N,0,0,0
+73,Between-group comparisons were made using log binomial regression and presented as relative risks.,0,0,0,0,0,N,0,N,0,0,0
+74,"To account for missing data, primary analyses included multiple imputation using data augmentation on the assumption that a multivariate normal distribution for the outcome variables at both follow-up time points regressed on baseline variables.",0,0,0,0,0,N,0,N,0,0,0
+75,Imputation of global change variables were conducted on the original 7-point scale then dichotomized.,0,0,0,0,0,N,0,N,0,0,0
+76,Ten imputed data sets were formed using the “mi impute mvn” procedure (Stata v 12).,0,0,0,0,0,N,0,N,0,0,0
+77,"Analyses of the 10 data sets were performed as described above with treatment effect estimates combined using the Rubin rules.27 These analyses are valid assuming data were missing at random, meaning that missing outcomes at a follow-up time point have the same distribution as observed outcomes at that time point, conditional on values of observed outcomes at that and earlier time points and on baseline covariates.",0,0,0,0,0,N,0,N,0,0,0
+78,Secondary analyses were performed using all available data without imputation (complete cases).,0,0,0,0,0,N,0,N,0,0,0
+79,These analyses are valid if data are missing at random among participants with similar values of the baseline variable within each treatment group.,0,0,0,0,0,N,0,N,0,0,0
+80,Secondary analyses were also undertaken to estimate between-group differences that would have occurred if all active treatment participants fully adhered to the protocol (attended all treatment sessions).,0,0,0,0,0,N,0,N,0,0,0
+81,"Analytical methods for each primary outcome used the instrumental variables methods, which involved 2-stage least squares estimation.",0,0,0,0,0,N,0,N,0,0,0
+82,"In brief, the instrument was the randomized treatment and the approach jointly modeled (1) outcome in terms of adherence and the baseline value of the outcome and (2) adherence in terms of randomized allocation (eMethods in the Supplement).",0,0,0,0,0,N,0,N,0,0,0
+83,"The overall success of participant blinding was formally assessed by the James blinding index (with bootstrap 95% confidence intervals), for which 1.0 indicates complete blinding and 0.5 indicates random guessing.",0,0,0,0,0,N,0,N,0,0,0
+84,A statistically significant amount of blinding beyond chance is indicated if the 95% confidence interval lies completely above 0.50.,0,0,0,0,0,N,0,N,0,0,0
+85,The Figure shows the flow of participants through the trial.,1,0,1,1,1,N,1,N,0,1,1
+86,"Of the 1441 volunteers, 1339 (93%) were ineligible or did not wish to participate.",1,0,1,1,1,N,1,N,0,1,1
+87,"In total, 102 participants were randomized and 96 (94%) completed week 13 and 83 (81%) completed week 36 measurements.",1,0,1,1,1,N,1,N,0,1,1
+88,Characteristics of treatment groups were similar at baseline (Table 1).,1,0,1,1,1,N,1,N,0,1,1
+89,"Those who withdrew were comparable with those completing except that at week 36, those who withdrew were younger (59.9 years vs 64.4 years, P = .02).",1,0,1,1,1,N,1,N,0,1,1
+90,"The median number of participants treated by each therapist was 5.5 (interquartile range [IQR], 3.25; 4-11) in the active group and 6.0 (IQR, 2.5; 4-11) in the sham group.",0,0,0,0,0,N,0,N,0,0,0
+91,Details of the treatment techniques received by the active group are shown in eTable 2 in the Supplement.,0,0,0,0,0,N,0,N,0,0,0
+92,The between-group differences for changes in pain were not significantly different.,0,0,0,0,0,N,0,N,0,0,0
+93,"The mean (SD) baseline overall pain score in the active group was 58.8 mm (13.3) and the week-13 score, 40.1 mm (24.6).",0,0,0,0,0,N,0,N,0,0,0
+94,"For the sham group, the baseline overall pain score was 58.0 mm (11.6) and the week-13 score, 35.2 mm (21.4), for a mean difference of 6.9 mm in favor of sham treatment (95% CI, −3.9 to 17.7).",0,0,0,0,0,N,0,N,0,0,0
+95,"Similarly, no between-group differences existed for physical function.",0,0,0,0,0,N,0,N,0,0,0
+96,"The baseline function score for the active group was 32.3 (9.2) and the week-13 score, 27.5 (12.9).",0,0,0,0,0,N,0,N,0,0,0
+97,"The baseline function score for the sham group was 32.4 (8.4) and the week-13 score, 26.4 (11.3) for a mean difference of 1.4 units in favor of sham therapy (95% CI, −3.8 to 6.5) at week 13 (Table 2).",0,0,0,0,0,N,0,N,0,0,0
+98,"Both groups showed statistically significant improvements in pain: the active group improved a mean 17.7 mm and the sham treatment group, 22.9 mm.",0,0,0,0,0,N,0,N,0,0,0
+99,"In function, the active group improved a mean 5.2 units and the sham treatment group, 5.5 units (Table 2).",0,0,0,0,0,N,0,N,0,0,0
+100,These within-group improvements met criteria for clinical relevance except for function in the active group.,0,0,0,0,0,N,0,N,0,0,0
+101,"No significant between-group differences in change were observed in secondary outcomes at weeks 13 or 36 (Table 3 and Table 4), except for a statistically significantly greater improvement in the balance step test at week 13 favoring the active group (Table 4).",0,0,0,0,0,N,0,N,0,0,0
+102,"In multiple imputed analyses, pain and function improvements were not significantly different between groups.",0,0,0,0,0,N,0,N,0,0,0
+103,"Twenty-two of 46 participants (48%) in the active group and 26 of 50 participants (52%) in the sham treatment group reported overall improved pain relief at week 13 (relative risk [RR], 0.91; 95% CI, 0.61 to 1.37).",0,0,0,0,0,N,0,N,0,0,0
+104,"For week-36 data, 15 of 39 participants (38%) in the active group and 16 of 44 (36%) in the sham treatment group reported improved pain relief (RR, 1.06; 95% CI, 0.65-1.86; Table 3).",0,0,0,0,0,N,0,N,0,0,0
+105,"At week 13, 26 of 46 participants (57%) in the active group and 24 of 50 (48%) in the sham treatment group reported improvement in pain relief (RR, 1.16; 95% CI, 0.79-1.70).",0,0,0,0,0,N,0,N,0,0,0
+106,"Twenty-four of 46 participants (52%) in the active group and 20 of 50 (40%) in the sham treatment group reported improvement in function (RR, 1.28 (95% CI, 0.82-1.99).",0,0,0,0,0,N,0,N,0,0,0
+107,"At week 36, 15 of 39 participants (38%) in the active group and 17 of 44 (39%) in the sham treatment group reported improved pain relief (RR, 1.00; 95% CI, 0.58-1.72) and 15 of 39 (38%) in the active group and 12 of 44 (27%) in the sham treatment group reported improvement in function (RR, 1.43; 95% CI, 0.75-2.74; Table 3).",0,0,0,0,0,N,0,N,0,0,0
+108,"Results for the complete case analyses (eTable 3 and eTable 4 in Supplement) were consistent with those presented in Table 2, Table 3, and Table 4, with similar point estimates but slightly narrower confidence intervals.",0,0,0,0,0,N,0,N,0,0,0
+109,Forty-one of 49 patients (84%) in the active group and 42 of 53 (79%) in the sham treatment group attended all 10 treatment sessions (Table 5).,0,0,0,0,0,N,0,N,0,0,0
+110,Adherence to home exercise or gel application was good (Table 5).,0,0,0,0,0,N,0,N,0,0,0
+111,Analyses assuming full adherence also yielded results consistent with the intention-to-treat analyses (eTable 5 in the Supplement).,0,0,0,0,0,N,0,N,0,0,0
+112,Significantly more participants in the active group reported adverse events during treatment: 19 of 46 (41%) in the active group reported 26 adverse events vs 7 of 49 (14%) in the sham treatment group reported 9 adverse events (P = .003; Table 5).,0,0,0,0,0,N,0,N,0,0,0
+113,"All were mild and transient, comprising increased hip pain or stiffness or pain in the back or in other regions.",0,0,0,0,0,N,0,N,0,0,0
+114,Medication use and cointerventions were similar for both groups (Table 5).,0,0,0,0,0,N,0,N,0,0,0
+115,None of the sham group received any physiotherapeutic or other cointerventions during the treatment phase.,0,0,0,0,0,N,0,N,0,0,0
+116,"There was a statistically significant amount of blinding beyond what was expected by chance at week 13, but this reduced to blinding compatible with chance guessing at week 36 due largely to a shift from “don’t know” responses to correct guesses in the active group (Table 5).",0,0,0,0,0,N,0,N,0,0,0
+117,"Treatment credibility ratings after the first treatment sessions were significantly higher in the active group than in the sham treatment group, indicating greater participant confidence in his/her treatment and its effectiveness but were not different after the last session (Table 5).",0,0,0,0,0,N,0,N,0,0,0
+118,"We found that a 12-week multimodal physical therapy treatment typical of current practice for people with symptomatic hip osteoarthritis,2 did not confer additional benefits over a realistic sham treatment that controlled for the therapeutic environment, therapist contact time, and home tasks.",0,0,0,0,0,N,0,N,0,0,0
+119,Both groups showed significant improvements in pain and function following treatment.,0,0,0,0,0,N,0,N,0,0,0
+120,The active group reported a significantly greater number of adverse events although these were relatively mild in nature.,0,0,0,0,0,N,0,N,0,0,0
+121,There are several possible explanations for our findings including a type II error.,0,0,0,0,0,N,0,N,0,0,0
+122,"However, we had adequate statistical power (80% for physical function and higher for pain) to detect clinically relevant differences if these had been present.",0,0,0,0,0,N,0,N,0,0,0
+123,"Indeed, observed between-group differences favored the sham group and the 95% confidence intervals indicated it was unlikely that we missed any important benefit of active treatment.",0,0,0,0,0,N,0,N,0,0,0
+124,The absence of significant between-group differences despite use of skilled therapists and excellent adherence rates to home exercise (85%) suggest that the active physical therapy program was truly ineffective.,0,0,0,0,0,N,0,N,0,0,0
+125,Multimodal interventions are common in physical therapy.,0,0,0,0,0,N,0,N,0,0,0
+126,"We included both exercise and manual therapy, based on evidence at the time this trial was initiated supporting their individual benefit.",0,0,0,0,0,N,0,N,0,0,0
+127,"However, 2 more recent randomized controlled trials have found that combining the 2 does not confer additional benefits and may even have an adverse interaction effect in hip osteoarthritis.Given a fixed clinic visit time, combining manual and exercise therapy necessitates reducing the dose of both.",0,0,0,0,0,N,0,N,0,0,0
+128,This compromise might have reduced the efficacy of our multimodal program.,0,0,0,0,0,N,0,N,0,0,0
+129,"The active physical therapy program may not have adequately targeted and changed physical impairments, such as muscle weakness and restricted range, that are associated with hip pain and dysfunction.",0,0,0,0,0,N,0,N,0,0,0
+130,Participants may not have performed the home program to the same intensity as a supervised program.,0,0,0,0,0,N,0,N,0,0,0
+131,"However, even if they did not, research in knee osteoarthritis suggests that both low- and high-intensity exercise produces similar benefits.",0,0,0,0,0,N,0,N,0,0,0
+132,A systematic review of exercise clinical trials involving people with knee osteoarthritis showed that a greater number of therapist contacts improves outcomes.,0,0,0,0,0,N,0,N,0,0,0
+133,It is not known whether a more intensive protocol may have been more effective than sham treatment.,0,0,0,0,0,N,0,N,0,0,0
+134,The improvements observed in the sham group and the fact that patients with hip osteoarthritis not undergoing treatment show little change over similar time frames suggest we used a credible and effective sham intervention.,0,0,0,0,0,N,0,N,0,0,0
+135,"The observed benefits, particularly in patient-reported outcomes, are consistent with meta-analysis findings of significant placebo effects in hip osteoarthritis,and the magnitude of these benefits are comparable with or larger than improvements seen in other hip osteoarthritis trials with exercise and analgesic drug therapies.",0,0,0,0,0,N,0,N,0,0,0
+136,The sham intervention included 10 individual sessions with an attentive therapist and treatment that involved skin stimulation and touch.,0,0,0,0,0,N,0,N,0,0,0
+137,"These components, together with patient confidence in the treatment and its effectiveness, are all known to contribute to an effective placebo response.",0,0,0,0,0,N,0,N,0,0,0
+138,"There is evidence that the quality of the therapeutic relationship influences outcomes such as pain and function and that a more patient-focused communication style (eg, listening, providing reassurance, encouragement) enhances this relationship.",0,0,0,0,0,N,0,N,0,0,0
+139,"It is possible that this was a strong element of the sham intervention, whereas in the active intervention the therapists’ focus on content delivery may have reduced the time available for this element.",0,0,0,0,0,N,0,N,0,0,0
+140,Thus both active and sham physical therapy may have contained different therapeutic elements that resulted in similar clinical improvements.,0,0,0,0,0,N,0,N,0,0,0
+141,There are no placebo-controlled trials of physiotherapeutic interventions for hip osteoarthritis and previous trials using a no treatment or usual care comparator have yielded conflicting results.,0,0,0,0,0,N,0,N,0,0,0
+142,"However positive trials are likely to have overestimated treatment benefit, an inherent bias of trials that measure subjective patient-reported outcomes but fail to blind participants.",0,0,0,0,0,N,0,N,0,0,0
+143,Our negative findings are therefore not inconsistent with the current literature.,0,0,0,0,0,N,0,N,0,0,0
+144,The rigorous methodology is a strength of our study.,0,0,0,0,0,N,0,N,0,0,0
+145,"We minimized potential for bias by including a credible sham treatment, concealing treatment allocation, and blinding the participants, outcome assessor, and biostatistician.",0,0,0,0,0,N,0,N,0,0,0
+146,Participants had radiographically confirmed hip osteoarthritis and a sufficient level of pain and physical dysfunction to ensure ample scope for improvement.,0,0,0,0,0,N,0,N,0,0,0
+147,Lack of therapist blinding is a potential limitation of the trial.,0,0,0,0,0,N,0,N,0,0,0
+148,"Similarly, the absence of more blinding than expected by chance among participants at the final follow-up assessment is a potential limitation.",0,0,0,0,0,N,0,N,0,0,0
+149,"However, these potential biases would likely favor the active group.",0,0,0,0,0,N,0,N,0,0,0
+150,"Furthermore, there was no contamination of the sham group in terms of cointerventions.",0,0,0,0,0,N,0,N,0,0,0
+151,The amount of missing outcome data was relatively small.,0,0,0,0,0,N,0,N,0,0,0
+152,We applied 2 analyses valid under slightly different assumptions about the missing data mechanism and arrived at consistent results with no important difference in study conclusions.,0,0,0,0,0,N,0,N,0,0,0
+153,"The width of the confidence intervals for estimated treatment effects was slightly larger for the multiple imputed analyses, likely reflecting the absence of a strongly predictive imputation model using the available trial information.",0,0,0,0,0,N,0,N,0,0,0
+154,Not all participants adhered fully to treatment.,0,0,0,0,0,N,0,N,0,0,0
+155,"However, modeling the results under the assumption of complete treatment session attendance did not alter outcomes.",0,0,0,0,0,N,0,N,0,0,0
+156,Because reasons for withdrawal could not be ascertained for several participants it is unknown whether these differed between groups.,0,0,0,0,0,N,0,N,0,0,0
+157,"Lastly, our results cannot necessarily be generalized to different physical therapy programs or to cohorts of younger patients or those with milder symptoms.",0,0,0,0,0,N,0,N,0,0,0
+158,A multimodal physical therapy program conferred no additional clinical benefit over a realistic sham for people with hip osteoarthritis and was associated with relatively frequent but mild adverse effects.,0,0,0,0,0,N,0,N,0,0,0
+159,These results question the benefits of such a physical therapy program for this patient population.,0,0,0,0,0,N,0,N,0,0,0

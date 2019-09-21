@@ -1,0 +1,157 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Background The effects of fish oil (FO) in rheumatoid arthritis (RA) have not been examined in the context of contemporary treatment of early RA.,0,0,0,N,0,0,0,0,0,0,0
+1,This study examined the effects of high versus low dose FO in early RA employing a ‘treat-to-target’ protocol of combination disease-modifying anti-rheumatic drugs (DMARDs).,0,0,0,N,0,0,0,0,0,0,0
+2,Methods Patients with RA <12 months’ duration and who were DMARD-naïve were enrolled and randomised 2:1 to FO at a high dose or low dose (for masking).,0,0,0,N,0,0,0,0,0,0,0
+3,"These groups, designated FO and control, were given 5.5 or 0.4 g/day, respectively, of the omega-3 fats, eicosapentaenoic acid + docosahexaenoic acid.",0,0,0,N,0,0,0,0,0,0,0
+4,"All patients received methotrexate (MTX), sulphasalazine and hydroxychloroquine, and DMARD doses were adjusted according to an algorithm taking disease activity and toxicity into account.",0,0,0,N,0,0,0,0,0,0,0
+5,"DAS28-erythrocyte sedimentation rate, modified Health Assessment Questionnaire (mHAQ) and remission were assessed three monthly.",0,0,0,N,0,0,0,0,0,0,0
+6,The primary outcome measure was failure of triple DMARD therapy.,0,0,0,N,0,0,0,0,0,0,0
+7,"Results In the FO group, failure of triple DMARD therapy was lower (HR=0.28 (95% CI 0.12 to 0.63; p=0.002) unadjusted and 0.24 (95% CI 0.10 to 0.54; p=0.0006) following adjustment for smoking history, shared epitope and baseline anti–cyclic citrullinated peptide.",0,0,0,N,0,0,0,0,0,0,0
+8,The rate of first American College of Rheumatology (ACR) remission was significantly greater in the FO compared with the control group (HRs=2.17 (95% CI 1.07 to 4.42; p=0.03) unadjusted and 2.09 (95% CI 1.02 to 4.30; p=0.04) adjusted).,0,0,0,N,0,0,0,0,0,0,0
+9,"There were no differences between groups in MTX dose, DAS28 or mHAQ scores, or adverse events.",0,0,0,N,0,0,0,0,0,0,0
+10,Conclusions FO was associated with benefits additional to those achieved by combination ‘treat-to-target’ DMARDs with similar MTX use.,0,0,0,N,0,0,0,0,0,0,0
+11,These included reduced triple DMARD failure and a higher rate of ACR remission.,0,0,0,N,0,0,0,0,0,0,0
+12,"The omega-3 fatty acids, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) can suppress synthesis of the omega-6 proinflammatory eicosanoids, prostaglandin E2 and leukotriene B4.This provided the initial rationale for examining the effects of fish oil dietary supplements in rheumatoid arthritis (RA).",0,0,0,N,0,0,0,0,0,0,0
+13,"Meta-analyses of randomised controlled trials (RCTs) reported a benefit of fish oil for patient-assessed pain, morning stiffness, number of painful and/or tender joints and non-steroidal anti-inflammatory drug (NSAID) consumption.Collectively, these studies determined that symptomatic benefits were seen above doses of 2.7 g EPA+DHA per day after a delay of 2 to 3 months.",0,0,0,N,0,0,0,0,0,0,0
+14,There were at least two features common to these RCTs that are problematic for interpreting the effect of fish oil in modern RA treatment.,0,0,0,N,0,0,0,0,0,0,0
+15,"First, participants had established disease, with the average disease duration being 10.2±5.2 years across all studies.",0,0,0,N,0,0,0,0,0,0,0
+16,"Second, disease-modifying anti-rheumatic drug (DMARD) use was not ‘real life’.",0,0,0,N,0,0,0,0,0,0,0
+17,"DMARDs were held constant with the need for change being a withdrawal criterion, or if drug variation was allowed, it was not according to predefined rules.",0,0,0,N,0,0,0,0,0,0,0
+18,The goal of contemporary RA treatment is clinical remission.,0,0,0,N,0,0,0,0,0,0,0
+19,"Guidelines recommend using standardised measures of disease activity and adjustments in DMARDs until a predefined target of low disease activity (LDA) is achieved.We reported that the ‘treat-to-target’ approach can achieve high rates of remission with conventional DMARDs in combination and without high doses of corticosteroids or biologic agents, using frequent assessments and a predefined protocol of dose adjustments according to an agreed disease activity target.RCTs of adjunctive therapies such as fish oil need to be conducted in this treatment framework, especially in early RA where the treat-to-target strategy could be considered ‘best practice’.",0,0,0,N,0,0,0,0,0,0,0
+20,"We have conducted an investigator-initiated, double-blind RCT with fish oil in recent onset RA with disease duration less than 12 months, using a study design that examines the effects of fish oil on treatment outcomes in the context of contemporary best practice therapy.",0,0,0,N,0,0,0,0,0,0,0
+21,"A treatment algorithm for DMARD use that is responsive to disease activity and tolerability/toxicity, according to predefined rules, allows the extent of DMARD use to be an outcome measure.",0,0,0,N,0,0,0,0,0,0,0
+22,Results after 52 weeks follow-up are presented.,0,0,0,N,0,0,0,0,0,0,0
+23,Consecutive patients presenting with recent-onset polyarthritis to the Early Arthritis Clinic at the Royal Adelaide Hospital (RAH) were assessed for eligibility by the principal investigator (SP).,0,0,0,N,0,0,0,0,1,0,0
+24,"Of 187 patients screened, 12 originated from The Queen Elizabeth Hospital clinics, but all who entered the trial were evaluated by the RAH metrologist who did not change for the duration of the study.",0,0,0,N,0,0,0,0,1,0,0
+25,"Inclusion required subjects to be 18 years or older, to have RA according to the 1987 revised American College of Rheumatology (ACR) criteria, with polyarthritis of <12 months’ duration, at least three swollen joints and erythrocyte sedimentation rate (ESR) ≥28 mm/hour and/or C-reactive protein (CRP) ≥10 mg/dL and for subjects to be DMARD-naïve.",0,0,0,N,0,0,0,0,1,0,0
+26,"Exclusion criteria were use of DMARDs other than antimalarials, use of antimalarials for more than 1 month, recent seroconversion to parvovirus, Ross River virus, Barmah Forest or rubella viruses, antinuclear antibody titre ≥1:320, evidence of hepatitis B, hepatitis C or HIV infection, known sensitivity to methotrexate (MTX), sulphasalazine or hydroxychloroquine and systemic disease likely to increase the risk of toxicity to one or more of these drugs.",0,0,0,N,0,0,0,0,1,0,0
+27,The study was approved by the RAH Research Ethics Committee.,0,0,0,N,0,0,0,0,1,0,0
+28,Participants gave informed consent.,0,0,0,N,0,0,0,0,0,0,0
+29,The Australian New Zealand Clinical Trials Registration number is ACTRN12613000579796.,0,0,0,N,0,0,0,0,0,0,0
+30,Participants were randomly allocated 2:1 to high-dose or low-dose fish oil.,1,1,1,N,1,1,1,0,0,0,0
+31,The randomisation schedule was prepared using an online random number generator and involved randomly permuted blocks of size six.,1,1,1,N,1,1,1,0,0,0,0
+32,"Within each block four and two allocations were for high-dose and low-dose fish oil groups, respectively.",0,0,0,N,0,0,0,0,0,0,0
+33,"Randomisation was performed by the RAH pharmacy, which also prepared and provided the study oils in 500 mL identical dark brown bottles labelled with consecutive study numbers.",0,0,0,N,0,0,0,0,0,0,0
+34,Both participants and investigators/assessors were blinded to the group allocation.,0,0,0,N,0,0,0,0,0,0,0
+35,"Although the control oil was paler in colour than the fish oil, this was not evident in the brown bottles.",0,0,0,N,0,0,0,0,0,0,0
+36,The ‘fishy’ odour of each oil was similar.,0,0,0,N,0,0,0,0,0,0,0
+37,Subjects in the high-dose group received 10 mL/day fish oil concentrate (BLT Incromega TG3525) providing 5.5 g/day EPA+DHA and the low-dose group received 10 mL/day sunola oil: capelin oil (2:1) providing 400 mg/d EPA+DHA.,0,0,0,N,0,0,0,0,0,0,0
+38,"Sunola oil is a monounsaturated oil, capelin oil has 6.6%EPA and 5.7% DHA and Incromega TG3525 has 35% EPA and 25% DHA.",0,0,0,N,0,0,0,0,0,0,0
+39,The high-dose and low-dose groups are designated the fish oil and control groups.,0,0,0,N,0,0,0,0,0,0,0
+40,"In the control group, a low-dose of capelin fish oil was added to the sunola oil for the purposes of masking smell and taste but with little addition of EPA+DHA.",0,0,0,N,0,0,0,0,0,0,0
+41,Participants were requested to take 10 mL oil per day for the duration of the study and suggestions were provided on how to do this (see online supplementary data 1).,0,0,0,N,0,0,0,0,0,0,0
+42,This was taken on a background of DMARD use that was rules-based and responsive to disease activity (figure 1).,0,0,0,N,0,0,0,0,0,0,0
+43,Use of triple disease-modifying anti-rheumatic drug (DMARD) therapy depicting initiation of leflunomide in the event of DMARD failure.,0,0,0,N,0,0,0,0,0,0,0
+44,The rules for determination of disease activity leading to drug escalation or drug maintenance are described in the text.,0,0,0,N,0,0,0,0,0,0,0
+45,"Participants commenced MTX 10 mg orally weekly, folic acid 500 μg daily, sulphasalzine 500 mg daily, increasing over 4 weeks to 1 g twice daily and hydroxycholoroquine 200 mg twice daily (‘triple therapy’).",0,0,0,N,0,0,0,0,0,0,0
+46,DMARD therapy was increased as shown in figure 1 if the swollen joint count was ≥2 and at least one of ESR or CRP was elevated above the upper limit of the normal range.,0,0,0,N,0,0,0,0,0,0,0
+47,"If only one of these criteria was fulfilled, then DMARD therapy was increased if two or more of the following were present: early morning stiffness ≥30 min, fatigue ≥30 on a 100 mm visual analog scale (VAS), joint pain ≥ 30 on a 100 mm VAS and tender joint count ≥2.",0,0,0,N,0,0,0,0,0,0,0
+48,"DMARDs were not withdrawn for lack of efficacy, and parenteral MTX was substituted for oral dosing in the event of gastrointestinal intolerance.",0,0,0,N,0,0,0,0,0,0,0
+49,We have determined previously that these rules of dose adjustment provide a treatment target of LDA corresponding to a DAS28 score <3.2.,0,0,0,N,0,0,0,0,0,0,0
+50,Participants were assessed every 3 weeks until 12 weeks and then every 6 weeks thereafter by at least one rheumatologist or by a rheumatology registrar who sought consensus from a rheumatologist in the case of uncertainty in how to apply the protocol.,0,0,0,N,0,0,0,0,0,0,0
+51,"The predetermined disease activity criteria were used to increase doses for disease suppression as previously described.Once maximal tolerated doses of triple therapy were achieved, leflunomide was added (figure 1).",0,0,0,N,0,0,0,0,0,0,0
+52,NSAIDs were actively discouraged and parenterally administered corticosteroids were permitted as clinically indicated.,0,0,0,N,0,0,0,0,0,0,0
+53,"Oral corticosteroids were discouraged and if used at screening, they were tapered and ceased where possible (table 1).",0,0,0,N,0,0,0,0,0,0,0
+54,Demographics and baseline clinical characteristics of the randomised population,0,0,0,N,0,0,0,0,0,0,0
+55,Drug toxicity was assessed at every visit and with laboratory tests every 3 weeks.,0,0,0,N,0,0,0,0,0,0,0
+56,"In the event of toxicity or intolerance, the dose of the DMARD most likely to be responsible was reduced or the drug was discontinued at the discretion of the treating physician.",0,0,0,N,0,0,0,0,0,0,0
+57,The primary outcome measure was failure of triple DMARD therapy defined as progression to leflunomide according to the drug treatment algorithm (figure 1).,0,0,0,N,0,0,0,0,0,0,0
+58,"This had been chosen as the primary outcome because the fish oil effect was examined in the context of modern ‘real life’ treatment, which involves drug adjustments in a treat-to-target approach where the target is LDA, and ultimately, remission.",0,0,0,N,0,0,0,0,0,0,0
+59,The use of a rules-based drug algorithm allowed drug usage to be used as a measure of the intensity of treatment required to achieve and maintain disease in a state of remission or low activity.,0,0,0,N,0,0,0,0,0,0,0
+60,"Secondary outcomes were defined by disease activity and included fulfilment of ACR criteria for remission on at least one occasion, DAS28-ESR and European League Against Rheumatism (EULAR) response, and physical disability using the modified Health Assessment Questionnaire (mHAQ).",0,0,0,N,0,0,0,0,0,0,0
+61,Sample size and statistical analysis,0,0,0,N,0,0,0,0,0,0,0
+62,Previous data indicate that 16% of patients treated with high-dose fish oil fail triple DMARD therapy in the first 12 months of follow-up.,0,0,0,N,0,0,0,0,0,0,0
+63,"With 53 and 86 patients in the two treatment groups, we estimated that the study would have 80% power (α=0.05 two-sided) to detect a decrease in the percentage of patients failing triple DMARD therapy at 12 months from 45% in patients receiving low-dose fish oil to 16% with the addition of high-dose fish oil.",0,0,0,N,0,0,0,0,0,0,0
+64,Calculations allow for 10% loss to follow-up in each group.,0,0,0,N,0,0,0,0,0,0,0
+65,All analyses were performed according to the intention-to-treat principle.,0,0,0,N,0,0,0,0,0,0,0
+66,"Time from randomisation to failure of triple DMARD therapy (commencement of leflunomide), ACR remission and EULAR Good Response were compared between groups using Cox proportional hazards models.",0,0,0,N,0,0,0,0,0,0,0
+67,Observations were censored at 1 year follow-up where appropriate.,0,0,0,N,0,0,0,0,0,0,0
+68,DAS28 and mHAQ scores were compared between groups over time using linear mixed effects models.,0,0,0,N,0,0,0,0,0,0,0
+69,"Group, time and the interaction between group and time were fitted as categorical fixed effects in the models, while patient was included as a random effect.",0,0,0,N,0,0,0,0,0,0,0
+70,"Where the interaction between group and time was not statistically significant, a second model excluding the interaction term was fitted so as to assess the main effects of group and time.",0,0,0,N,0,0,0,0,0,0,0
+71,"For all outcomes both unadjusted and adjusted analyses were performed, with adjustment for the prespecified baseline confounders of smoking history (ever/never), anti-cyclic citrullinated peptide (CCP) (positive/negative) and shared epitope (present/absent).",0,0,0,N,0,0,0,0,0,0,0
+72,We considered results based on the adjusted analyses to be primary.,0,0,0,N,0,0,0,0,0,0,0
+73,Statistical significance was assessed at the two-sided 0.05 level.,0,0,0,N,0,0,0,0,0,0,0
+74,"All analyses were performed using SAS V.9.3 (SAS Institute Inc, Cary, North Carolina, USA).",0,0,0,N,0,0,0,0,0,0,0
+75,A total of 187 consecutive patients triaged to attend the Early Arthritis Clinics between September 2001 and December 2008 were assessed for eligibility.,0,0,0,N,0,0,0,0,0,0,0
+76,"Of these, 32 did not fulfil the eligibility criteria due variously to the following reasons: did not fulfil ACR criteria for RA, were not DMARD-naïve, did not have active disease and unable to give informed consent.",0,0,0,N,0,0,0,0,0,0,0
+77,"An additional 15 participants fulfilled the eligibility criteria but declined to participate through choice, or because they were planning pregnancy in the next 2 months, or died before they could be enrolled (figure 2).",0,0,0,N,0,0,0,0,0,0,0
+78,"In total, 140 patients were randomised, 87 patients to receive high-dose fish oil and 53 to low-dose fish oil (controls).",0,0,0,N,0,0,0,0,0,0,0
+79,"Baseline disease activity, HAQ scores and steroid use were similar between the two groups (table 1).",0,0,0,N,0,0,0,0,0,0,0
+80,Flow diagram of participant recruitment and completion.,0,0,0,N,0,0,0,0,0,0,0
+81,Eleven (12.7%) withdrew from the fish oil group and 6 (11.3%) withdrew from the control group.,0,0,0,N,0,0,0,0,0,0,0
+82,One person was withdrawn from the fish oil group by the investigators due to a change in diagnosis (figure 2).,0,0,0,N,0,0,0,0,0,0,0
+83,Investigators and subjects remained blinded for all withdrawals.,0,0,0,N,0,0,0,0,0,0,0
+84,Failure of triple DMARD therapy,0,0,0,N,0,0,0,0,0,0,0
+85,"At 1 year, 9/86 (10.5%) subjects in the fish oil group and 17/53 (32.1%) subjects in the control group had commenced leflunomide, an indicator of failure of triple DMARD therapy.",0,0,0,N,0,0,0,0,0,0,0
+86,Time-to-event analysis demonstrated a lower failure rate of triple DMARD therapy in the fish oil group (HRs=0.28 (95% CI 0.12 to 0.63; p=0.002) unadjusted and 0.24 (95% CI 0.10 to 0.54; p=0.0006) adjusted) (figure 3).,0,0,0,N,0,0,0,0,0,0,0
+87,Time to (A) disease-modifying anti-rheumatic drug failure measured as commencement of leflunomide.,0,0,0,N,0,0,0,0,0,0,0
+88,"aThe HR is adjusted for smoking, shared epitope and anti–cyclic citrullinated peptide.",0,0,0,N,0,0,0,0,0,0,0
+89,Failure of triple DMARD therapy led to commencement of leflunomide and failure of leflunomide led to commencement of biological agents.,0,0,0,N,0,0,0,0,0,0,0
+90,"At 1 year, only one participant had commenced a biological agent.",0,0,0,N,0,0,0,0,0,0,0
+91,This subject was in the control group.,0,0,0,N,0,0,0,0,0,0,0
+92,The time to first ACR remission in the first year of treatment was significantly less in the fish oil group compared with the control group (figure 3).,0,0,0,N,0,0,0,0,0,0,0
+93,"The HRs (95% CI) were 2.17 (1.07 to 4.42; p=0.03) unadjusted and 2.09 (1.02 to 4.30; p=0.04) adjusted for smoking history, presence of shared epitope and anti-CCP.",0,0,0,N,0,0,0,0,0,0,0
+94,"Although the time to a Good EULAR response was decreased in the fish oil group, the difference was not statistically significant (figure 3).",0,0,0,N,0,0,0,0,0,0,0
+95,The HRs (95% CI) were 1.32 (0.85 to 2.06; p=0.22) unadjusted and 1.41 (0.89 to 2.21; p=0.14) adjusted.,0,0,0,N,0,0,0,0,0,0,0
+96,"Importantly, disease activity as measured by DAS28 decreased in both groups but there was no statistically significant effect of fish oil (group*time p=0.85 adjusted) (figure 4).",0,0,0,N,0,0,0,0,0,0,0
+97,Change in DAS28-ESR and modified Health Assessment Questionnaire (mHAQ) over 1 year.,0,0,0,N,0,0,0,0,0,0,0
+98,"The analyses are adjusted for smoking, shared epitope and anti–cyclic citrullinated peptide.",0,0,0,N,0,0,0,0,0,0,0
+99,The mHAQ scores decreased substantially in both groups with the largest decrease in the first 3 months of treatment.,0,0,0,N,0,0,0,0,0,0,0
+100,There was no effect of group allocation (group*time p=0.86 adjusted) (figure 4).,0,0,0,N,0,0,0,0,0,0,0
+101,"There was no difference between groups in the proportion of participants who received oral and/or parenteral steroids at any time after enrolment; 57% control, 58% fish oil (p=0.86, Fisher's Exact Test).",0,0,0,N,0,0,0,0,0,0,0
+102,"Also there was no difference between groups in the cumulative dose of prednisolone and parenteral steroids combined among participants receiving glucocorticoids by any route of administration; median (IQR) prednisolone mg equivalents 221 (138–360) control, 206 (148–412), p=0.83 (Mann–Whitney U test).",0,0,0,N,0,0,0,0,0,0,0
+103,See online supplementary data 2 for oral and parenteral steroid use.,0,0,0,N,0,0,0,0,0,0,0
+104,"The mean (±SD) doses of MTX were 12.1±6.9 and 11.9±6.0 mg/week in the control and fish oil groups, respectively (t test, p=0.92).",1,0,1,N,1,1,1,0,0,0,0
+105,"The proportions of subjects who reached a maximum dose of ≥20 mg/week MTX were 52% and 43% in the control and fish oil groups, respectively (p=0.38, Fisher's Exact Test).",1,0,1,N,1,1,1,0,0,0,0
+106,See online supplementary table for MTX cessation data.,1,0,1,N,1,1,1,0,0,0,0
+107,"At baseline, 34% of the control group and 38% of the fish oil group were taking NSAIDs (p=0.72, Fisher's Exact Test).",0,0,0,N,0,0,0,0,0,0,0
+108,"Of these, 44% and 72% had ceased their NSAIDs by 12 weeks in the control and fish oil groups, respectively (p=0.07, Fisher's exact Test).",0,0,0,N,0,0,0,0,0,0,0
+109,"There was no difference in the median duration (IQR) of use after enrolment, which was 13.5 (5.7–24.2) and 7.0 (5.0–16.5) weeks in the control and fish oil groups, respectively (p=0.21, Mann-Whitney U Test).",0,0,0,N,0,0,0,0,0,0,0
+110,"At 12 months, one person was taking NSAIDs and they were in the control group.",0,0,0,N,0,0,0,0,0,0,0
+111,"At each visit, participants were asked about their study oil consumption in the intervening period.",0,0,0,N,0,0,0,0,0,0,0
+112,100% compliance would be consumption of 3650 mL oil at 12 months.,0,0,0,N,0,0,0,0,0,0,0
+113,"The fish oil group was less compliant than the control group with median intakes of 2482 mL and 3248 mL, respectively (p=0.015, Mann-Whitney U test).",0,0,0,N,0,0,0,0,0,0,0
+114,"This provided an average daily intake of EPA+DHA of 3.7 g and 0.36 g in the fish oil and control groups, respectively.",0,0,0,N,0,0,0,0,0,0,0
+115,The proportion of participants with a serious adverse event (SAE) or AE was similar in each group (table 2).,0,0,0,N,0,0,0,1,0,1,1
+116,"The proportion of participants with SAEs in the control and fish oil groups was 3.8% and 11.6%, respectively, and there was no difference between groups (Fisher's exact Test p=0.13).",0,0,0,N,0,0,0,1,0,1,1
+117,All of the SAEs were hospital admissions.,0,0,0,N,0,0,0,1,0,1,1
+118,"Despite the SAEs in the fish oil group being more numerous, there was no pattern suggesting a linkage with fish oil use.",0,0,0,N,0,0,0,0,0,0,0
+119,Six of the cardiac arrhythmic events and chest pain occurred in the same person who had pre-existing ischemic heart disease and paroxysmal atrial fibrillation.,0,0,0,N,0,0,0,0,0,0,0
+120,The intracerebral bleed occurred in a participant with severe hypertension who was taking clopidogrel but who had not taken fish oil for 5 months prior to the event.,0,0,0,N,0,0,0,0,0,0,0
+121,The study design has allowed the effects of fish oil to be assessed in the context of modern DMARD treatment for RA.,0,0,0,N,0,0,0,1,0,1,1
+122,Previous trials generally used DMARD monotherapy in combination with NSAIDs and change in DMARDs or NSAIDs was a withdrawal criterion in many studies.,0,0,0,N,0,0,0,1,0,1,1
+123,That approach to drug use reflected the treatment standards of that era where therapy aimed only for alleviation of signs and symptoms.,0,0,0,N,0,0,0,0,0,0,0
+124,The triple DMARD therapy that was used for recent onset RA in this trial has been shown to be equivalent to MTX plus etanercept and superior to MTX monotherapy for at least the first 6 months of treatment.The treatment regimen and criteria for drug escalation that were used in our study have been described.,0,0,0,N,0,0,0,0,0,0,0
+125,The level of disease activity above which drug dosing was escalated is equivalent to a DAS28 score of 3.2.,0,0,0,N,0,0,0,0,0,0,0
+126,"Because we used a structured treatment algorithm that was responsive to disease activity and tolerance, drug use could be used as an outcome measure for the effects of fish oil.",0,0,0,N,0,0,0,0,0,0,0
+127,Both experimental groups had decreased disease activity after commencement of triple DMARD therapy.,0,0,0,N,0,0,0,0,0,0,0
+128,"This is expected as participants had recent onset disease, were DMARD naïve at study entry and received DMARDs according to a treat-to-target strategy.",0,0,0,N,0,0,0,0,0,0,0
+129,The fish oil group had a lower failure rate of triple DMARD therapy compared with the control group.,0,0,0,N,0,0,0,0,0,0,0
+130,"Despite the decreased intensity of DMARD use in the fish oil group, there was an increased rate of ACR remission, which is a stringent measure of remission.",0,0,0,N,0,0,0,0,0,0,0
+131,"While there was no statistically significant difference in DAS28 scores between the fish oil and control groups, the scatter due to individual responses is large (figure 4).",0,0,0,N,0,0,0,0,0,0,0
+132,The compliance in the fish oil group was less than that in the control group.,0,0,0,N,0,0,0,0,0,0,0
+133,"Presumably, this reflects decreased tolerance to the fish oil concentrate.",0,0,0,N,0,0,0,0,0,0,0
+134,"Nevertheless, the mean reported intakes of the omega-3 fats EPA+DHA were 3.7 g/day and 0.36 g/day in the fish oil and control groups, respectively.",0,0,0,N,0,0,0,0,0,0,0
+135,"An effective anti-inflammatory dose estimated in previous RA trials was at least 2.7 g/day EPA+DHA.4 Thus, despite decreased compliance, the mean dose in the fish oil group exceeded this amount.",0,0,0,N,0,0,0,0,0,0,0
+136,This trial demonstrates the effectiveness of treat-to-target triple DMARD therapy.,0,0,0,N,0,0,0,0,0,0,0
+137,The decreased intensity of DMARD use for effective disease control in the fish oil group is an important finding because their failure leads to use of very costly biological agents.,0,0,0,N,0,0,0,0,0,0,0
+138,"In this trial, only one participant, who happened to be in the control group, had progressed to a biological agent at 12 months.",0,0,0,N,0,0,0,0,0,0,0
+139,"Nevertheless, it can be presumed that fish oil added to this real-life treatment regimen will at least delay progression to biological therapy and the effects may even exceed this minimal expectation.",0,0,0,N,0,0,0,0,0,0,0
+140,The beneficial effects of fish oil in RA have biological plausibility.,0,0,0,N,0,0,0,0,0,0,0
+141,"EPA and/or DHA can inhibit production of the proinflammatory lipid mediators, prostaglandin E2 and leukotriene B4, and peptide mediators, tumor necrosis factor (TNF)α and IL-1β.",0,0,0,N,0,0,0,0,0,0,0
+142,"These actions encompass the same molecular targets as NSAIDs (cyclo-oxygenase) and the TNF blockers, respectively.",0,0,0,N,0,0,0,0,0,0,0
+143,"Furthermore, EPA and DHA can be metabolised to the E and D resolvins, which have been shown to actively resolve experimentally-induced inflammation.",0,0,0,N,0,0,0,0,0,0,0
+144,"In addition to benefits of fish oil for articular disease in RA, there may be benefits for the increased cardiovascular risk of RA, which include increased risk of cardiovascular mortality,including an almost twofold increased risk of sudden cardiac death.",0,0,0,N,0,0,0,0,0,0,0
+145,"Fish and fish oil are recommended by the American Heart Association for primary and secondary prevention based on a body of epidemiological and clinical trial evidence for decreased cardiovascular mortality, and in particular, decreased sudden cardiac death.",0,0,0,N,0,0,0,0,0,0,0
+146,"Of the SAEs, all of which were hospital admissions, it is considered that only the cerebral bleed could be related to fish oil use although that participant had not taken fish oil for 5 months prior to the event.",0,0,0,N,0,0,0,0,0,0,0
+147,Increased risk of haemorrhagic stroke with high omega-3 intake has been inferred from the increased bleeding times and increased rate of ‘apoplexy’ in Greenland Inuits on their native diet.,0,0,0,N,0,0,0,0,0,0,0
+148,"However, the risk of excessive bleeding has not been evident in studies involving fish oil.",0,0,0,N,0,0,0,0,0,0,0
+149,Unpleasant upper GI effects of fish oil were not specifically sought in this study.,0,0,0,N,0,0,0,0,0,0,0
+150,The common upper GI effects of nausea were temporally related to use of MTX and sulfasalazine rather than fish oil and there was no difference between the two groups in these events (data not shown).,0,0,0,N,0,0,0,0,0,0,0
+151,"In summary, this novel trial design has allowed the examination of the efficacy of fish oil as adjunctive therapy in the context of modern treat-to-target drug treatment for recent onset RA.",0,0,0,N,0,0,0,0,0,0,0
+152,The results indicate both increased rates of remission and decreased drug use.,0,0,0,N,0,0,0,0,0,0,0
+153,"While the poor external validity of many RCTs in drug development have been highlighted,24 ,25 this clinical trial reflects current practice in recent onset RA.",0,0,0,N,0,0,0,0,0,0,0
+154,"In practice, the predefined rules for treatment have created efficiencies in decision making, which more than offset the need for timely and orderly assessments of disease activity.",0,0,0,N,0,0,0,0,0,0,0
+155,"That the protocol, with only minor adjustments, has remained standard practice within our busy clinic after completion of the trial, further underlines its applicability to real practice settings.",0,0,0,N,0,0,0,0,0,0,0

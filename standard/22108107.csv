@@ -1,0 +1,118 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To evaluate the possible side effects and potential protection 5 years after implantation of an intraocular lens (IOL) with a blue-light filter (yellow tinted).,0,0,N,0,N,N,N,0,0,0,0
+1,"Ophthalmology Department, University of São Paulo, São Paulo, Brazil.",0,0,N,0,N,N,N,0,0,0,0
+2,Prospective randomized clinical study.,0,0,N,0,N,N,N,0,0,0,0
+3,Patients with bilateral visually significant cataract randomly received an ultraviolet (UV) and blue light–filtering IOL (Acrysof Natural SN60AT) in 1 eye and an acrylic UV light–filtering only IOL (Acrysof SA60AT) in the fellow eye.,1,1,N,1,N,N,N,0,0,0,0
+4,"The primary outcome measures were contrast sensitivity, color vision, and macular findings 5 years after surgery.",1,0,N,1,N,N,N,0,0,0,0
+5,The study enrolled 60 eyes of 30 patients.,0,0,N,0,N,N,N,1,1,1,1
+6,There were no significant clinical or optical coherence tomography findings in terms of age-related macular degeneration in any eye.,0,0,N,0,N,N,N,1,1,1,1
+7,There were no statistically significant differences in central macular thickness between the 2 IOL groups ( P =.712).,0,0,N,0,N,N,N,1,1,1,1
+8,There were also no significant between-group differences under photopic or scotopic conditions at any spatial frequency studied.,0,0,N,0,N,N,N,1,1,1,1
+9,No statistically significant differences in the color discrimination test were found between the 2 IOL groups ( P =.674).,0,0,N,0,N,N,N,1,1,1,1
+10,"After 5 years, there were no significant differences in color perception, scotopic contrast sensitivity, or photopic contrast sensitivity between the blue light–filtering (yellow-tinted) IOL and the IOL with a UV-light filter only (untinted).",0,0,N,0,N,N,N,0,0,0,0
+11,The potential advantage of the tinted IOL in providing protection to macular cells remains unclear.,0,0,N,0,N,N,N,0,0,0,0
+12,No author has a financial or proprietary interest in any material or method mentioned.,0,0,N,0,N,N,N,0,0,0,0
+13,A leading risk factor for age-related macular degeneration (AMD) is exposure to sunlight.,0,0,N,0,N,N,N,0,0,0,0
+14,"Short-wavelength rays, such as those in the ultraviolet (UV) (200 to 400 nm) and the violet–blue visible light (400 to 450 nm) spectrum, are considered to be most harmful to the retina.",0,0,N,0,N,N,N,0,0,0,0
+15,A concern about implanting intraocular lenses (IOLs) that filter UV light only is a theoretically higher risk for retinal pathology because blue light can reach the retina without being blocked.,0,0,N,0,N,N,N,0,0,0,0
+16,"In an attempt to more closely approximate the light-transmittance characteristics of the natural lens at wavelengths below approximately 500 nm, IOL models containing a yellow chromophore that filters UV and blue–violet light were developed.",0,0,N,0,N,N,N,0,0,0,0
+17,"It is well known that with aging, the human lens accumulates yellow chromophores, which results in a steady reduction in the transmission of short-wavelength visible light (violet and blue light with wavelengths between 400 nm and 500 nm).",0,0,N,0,N,N,N,0,0,0,0
+18,"A concern with yellow-tinted IOLs is that theoretically, they could reduce blue-light transmission.",0,0,N,0,N,N,N,0,0,0,0
+19,"This would reduce color vision, decrease scotopic sensitivity (affecting visual performance in dim light), and disrupt sleep–wake timing.",0,0,N,0,N,N,N,0,0,0,0
+20,"The purpose of this prospective study was to evaluate the possible side effects and potential macular protection (ie, risk for AMD) over a long follow-up after implantation of an IOL with a blue-light filter (ie, yellow tinted).",0,0,N,0,N,N,N,0,0,0,0
+21,This prospective randomized bilateral double-masked clinical study comprised patients who had bilateral surgery for visually significant cataract.,1,0,N,1,N,N,N,0,0,0,0
+22,"Patients randomly received a UV light–filtering and blue light–filtering IOL (Acrysof Natural SN60AT, Alcon Laboratories, Inc.) (tinted IOL) in 1 eye and an acrylic UV light–filtering IOL (Acrysof SA60AT, Alcon Laboratories, Inc.) (untinted IOL) in the fellow eye.",1,0,N,1,N,N,N,0,0,0,0
+23,The tinted IOL is optically and structurally identical to the untinted IOL except for the blue light–filtering material.,1,0,N,1,N,N,N,0,0,0,0
+24,Both IOLs have an overall diameter of 13.0 mm and a 6.0 mm optic.,0,0,N,0,N,N,N,0,0,0,0
+25,Patients with visually significant bilateral cataract and no history of color vision deficiency were eligible for inclusion in the study.,0,0,N,0,N,N,N,0,0,0,0
+26,"Exclusion criteria were ocular disease such as corneal opacity or irregularity, dry eye, amblyopia, anisometropia, glaucoma, retinal abnormalities, surgical complications, IOL tilt, previous or current use of medications known to cause color-vision deficiencies, and incomplete follow-up.",0,0,N,0,N,N,N,0,0,0,0
+27,"The primary outcome measures were contrast sensitivity, color vision, and macular findings.",0,0,N,0,N,N,N,0,0,0,0
+28,One experienced surgeon (N.K.J.),0,0,N,0,N,N,N,0,0,0,0
+29,performed all surgeries with standard small-incision phacoemulsification and IOL implantation in the capsular bag.,0,0,N,0,N,N,N,0,0,0,0
+30,The time between first-eye surgery and second-eye surgery was 1 week in all cases.,0,0,N,0,N,N,N,0,0,0,0
+31,All eyes were targeted for emmetropia.,0,0,N,0,N,N,N,0,0,0,0
+32,"Patients were examined before surgery and 1, 7, and 30 days, 6 months, and 5 years after surgery.",0,0,N,0,N,N,N,0,0,0,0
+33,"At all visits, the corrected distance visual acuity (CDVA) and uncorrected distance visual acuity (UDVA) were measured.",0,0,N,0,N,N,N,0,0,0,0
+34,"At 5 years, color vision and contrast sensitivity were measured under photopic and scotopic conditions and a detailed macular examination was performed.",0,0,N,0,N,N,N,0,0,0,0
+35,Visual acuity was measured using Early Treatment of Diabetic Retinopathy Study charts under scotopic conditions (target luminance 1.5 candelas [cd]/m 2 ).,0,0,N,0,N,N,N,0,0,0,0
+36,Visual acuity values were converted to the logMAR scale for statistical analysis.,0,0,N,0,N,N,N,0,0,0,0
+37,The macula was evaluated in a detailed clinical examination performed by an experienced retina specialist who was unaware of the purposes of the study and by optical coherence tomography (OCT) analysis.,0,0,N,0,N,N,N,0,0,0,0
+38,"The central retinal thickness was measured with Stratus OCT Reading Software (version 4.1, Carl Zeiss Meditec, Inc.).",0,0,N,0,N,N,N,0,0,0,0
+39,The presence of proliferative or clinically significant macular change was also assessed clinically by slitlamp biomicroscopy with a +78.0 diopter lens.,0,0,N,0,N,N,N,0,0,0,0
+40,"Contrast sensitivity was measured with a VCTS 6500 system (Vistech Consultants, Inc.) with best spectacle correction under photopic (85.0 cd/m 2 ) and scotopic (1.5 cd/m 2 ) conditions.",0,0,N,0,N,N,N,0,0,0,0
+41,Light conditions were controlled with a luxometer (Gossen-Starlite).,0,0,N,0,N,N,N,0,0,0,0
+42,The log base 10 contrast sensitivity values were used to construct a graph for each spatial frequency tested and then presented using the original test scale.,0,0,N,0,N,N,N,0,0,0,0
+43,"Pupil diameter was measured with a Colvard pupillometer (Oasis Medical) under photopic (85.0 cd/m 2 ), mesopic (3.0 cd/m 2 ), and scotopic (1.5 cd/m 2 ) conditions.",0,0,N,0,N,N,N,0,0,0,0
+44,Color vision was tested as previously described.,0,0,N,0,N,N,N,0,0,0,0
+45,"6  Once the contrast sensitivity functions were obtained, the patients were allowed to rest for 15 minutes before taking the Farnsworth-Munsell 100-hue color test.",0,0,N,0,N,N,N,0,0,0,0
+46,"The first eye was chosen randomly, and the color test was performed monocularly with the best spectacle correction.",0,0,N,0,N,N,N,0,0,0,0
+47,All caps belonging to the box were taken off and placed on a table.,0,0,N,0,N,N,N,0,0,0,0
+48,The patients were asked to place them in the box in the correct order.,0,0,N,0,N,N,N,0,0,0,0
+49,"When the 4 boxes were completed, the examiner recorded the results in writing; the patient was not allowed to see the results.",0,0,N,0,N,N,N,0,0,0,0
+50,Farnsworth-Munsell error scores were calculated as described by Kinnear.,0,0,N,0,N,N,N,0,0,0,0
+51,"7 Following a previous study,  8  the color-vision examination was performed under photopic conditions (85 cd/m 2 ).",0,0,N,0,N,N,N,0,0,0,0
+52,"Statistical analysis was performed using SPSS for Windows software (version 11.5, SPSS, Inc.).",0,0,N,0,N,N,N,0,0,0,0
+53,Normality was checked using the Kolmogorov-Smirnov test.,0,0,N,0,N,N,N,0,0,0,0
+54,"When parametric analysis was not possible, the nonparametric Mann-Whitney U test was used to compare data between the 2 IOL groups.",0,0,N,0,N,N,N,0,0,0,0
+55,The analysis of primary outcome measures was based on a non-normal distribution of the data.,0,0,N,0,N,N,N,0,0,0,0
+56,"When parametric analysis was possible, the Student t test was used to compare the outcomes.",0,0,N,0,N,N,N,0,0,0,0
+57,Categorical variables were compared using the Fisher exact probability test.,0,0,N,0,N,N,N,0,0,0,0
+58,All the statistical tests were performed at an α level of 0.05.,0,0,N,0,N,N,N,0,0,0,0
+59,Sixty eyes of 30 patients were enrolled in this study.,0,0,N,0,N,N,N,0,0,0,0
+60,"During the 5-year study period, 5 patients were lost to follow-up; therefore, 25 patients were considered in the analyses.",0,0,N,0,N,N,N,0,0,0,0
+61,The mean age of the 15 men (60.0%) and 10 women (40.0%) was 59.9 years ± 7.0 (SD).,0,0,N,0,N,N,N,0,0,0,0
+62,There were no statistically significant differences in the mean IOL power ( P =.868) or mean axial length ( P =.631) between the 2 IOL groups.,0,0,N,0,N,N,N,0,0,0,0
+63,"There was also no statistically significant difference in the mean CDVA ( P =.714), corrected near visual acuity ( P =.735), manifest refraction spherical equivalent ( P =.813), mean astigmatism ( P =.810), corneal curvature before surgery, or pupil size after surgery ( Table 1 ).",0,0,N,0,N,N,N,0,0,0,0
+64,Three patients required neodymium:YAG laser capsulotomy for posterior capsule opacification.,0,0,N,0,N,N,N,0,0,0,0
+65,These patients were not excluded from the analysis of the results.,0,0,N,0,N,N,N,0,0,0,0
+66,There were no significant clinical or OCT findings with respect to AMD in any case.,0,0,N,0,N,N,N,0,0,0,0
+67,The mean central macular thickness was 205 ± 21 μm in the tinted IOL group and 203 ± 18 μm in the untinted IOL group; the difference between the groups was not statistically significant ( P =.712).,0,0,N,0,N,N,N,0,0,0,0
+68,"Analysis of contrast sensitivity showed no significant between-group differences under photopic conditions at 1.5 cycles per degree (cpd), 3 cpd, 6 cpd, 12 cpd, or 18 cpd ( P =.798, P =.809, P =.738, P =.915, and P =.887, respectively) or under scotopic conditions ( P =.819, P =.736, P =.714, P =.819, and P =.917, respectively) ( Figures 1 and 2 ).",0,0,N,0,N,N,N,0,0,0,0
+69,The mean pupil diameter under photopic and scotopic conditions was similar between the 2 groups ( Table 1 ).,0,0,N,0,N,N,N,0,0,0,0
+70,Contrast sensitivity under photopic conditions (cpd = cycles per degree; IOL = intraocular lens),0,0,N,0,N,N,N,0,0,0,0
+71,Contrast sensitivity under scotopic conditions (cpd = cycles per degree; IOL = intraocular lens).,0,0,N,0,N,N,N,0,0,0,0
+72,"On the color-discrimination test, no statistically significant differences were found between the 2 IOL groups.",0,0,N,0,N,N,N,0,0,0,0
+73,The mean test score at 5 years was 112 ± 23 in the tinted IOL group and 105 ± 21 in the untinted IOL group ( P =.674) ( Figure 3 ).,0,0,N,0,N,N,N,0,0,0,0
+74,Mean scores (and standard deviations) on the Farnsworth-Munsell 100-hue test (IOL = intraocular lens).,0,0,N,0,N,N,N,0,0,0,0
+75,Intraocular lenses with UV-light filters were introduced in the 1980s.,0,0,N,0,N,N,N,0,0,0,0
+76,"Ultraviolet light–filtering IOLs were designed to protect the eye against radiation below 400 nm; however, at longer wavelengths, lighted transmittance increases significantly compared with that of the normal aging crystalline lens.",0,0,N,0,N,N,N,0,0,0,0
+77,Blue light–filtering IOLs were developed to have a filtering effect that mimics that of the aging human lens by attenuating light from wavelengths between 400 nm and 500 nm.,0,0,N,0,N,N,N,0,0,0,0
+78,"However, there are several unresolved issues with respect to the potential benefits and possible side effects of these IOLs.",0,0,N,0,N,N,N,0,0,0,0
+79,"This prospective study was performed to evaluate the influence of blue light–filtering IOLs on color vision, contrast sensitivity, and macular clinical findings.",0,0,N,0,N,N,N,0,0,0,0
+80,Different IOLs from the same manufacturer were used to minimize bias.,0,0,N,0,N,N,N,0,0,0,0
+81,A long follow-up would be interesting to assess the potential benefits and side effects related to this filter.,0,0,N,0,N,N,N,0,0,0,0
+82,"Suggested benefits of blue light–filtering IOLs include protection against retinal damage from blue light, which may play a role in preventing the development or exacerbation of AMD.",0,0,N,0,N,N,N,0,0,0,0
+83,"In addition, by blocking blue light, the optical chromatic aberration is reduced.",0,0,N,0,N,N,N,0,0,0,0
+84,"Improvement in contrast sensitivity, reduced glare under photopic and mesopic conditions, and reduction in the disturbance of blue-color vision are also expected.",0,0,N,0,N,N,N,0,0,0,0
+85,"On the other hand, perception of the color blue can be affected by the yellow-tinted IOL, giving a yellow hue to the ocular image.",0,0,N,0,N,N,N,0,0,0,0
+86,Possible related side effects include a detrimental effect on color vision and scotopic sensitivity.,0,0,N,0,N,N,N,0,0,0,0
+87,"The main finding in our study is that both IOLs performed similarly; therefore, the blue light–filtering (yellow-tinted) IOL did not seem to affect color perception or scotopic and photopic contrast sensitivity compared with the IOL without the blue-light filter (untinted) 5 years after surgery.",0,0,N,0,N,N,N,0,0,0,0
+88,Both IOLs achieved satisfactory UDVA and CDVA.,0,0,N,0,N,N,N,0,0,0,0
+89,"In addition, a detailed study of the macula did not show signs of disease that could have progressed more rapidly in the eye with the untinted IOL (UV-light filter only).",0,0,N,0,N,N,N,0,0,0,0
+90,"One concern cataract surgeons have about blue light–filtering IOLs is that theoretically, they might decrease scotopic vision or dim-light vision,  9 10  especially considering that blue light is responsible for 35% of aphakic scotopic vision.",0,0,N,0,N,N,N,0,0,0,0
+91,"This is explained by a phenomenon called the Purkinje shift, which is characterized by the differing peaks of spectral sensitivity for scotopic and photopic vision (507 nm and 555 nm, respectively).",0,0,N,0,N,N,N,0,0,0,0
+92,The decrease in blue-light photoreception can significantly affect scotopic vision and is the basis for concerns about the effect of blue light–filtering IOLs on scotopic vision.,0,0,N,0,N,N,N,0,0,0,0
+93,"Theoretically, blue light–filtering IOLs offer 14% to 21% less scotopic sensitivity than UV light–filtering IOLs.",0,0,N,0,N,N,N,0,0,0,0
+94,"That is because violet light and blue light are much more important for vision in dim-light environments than in bright-light environments, providing 45% of rod-mediated aphakic scotopic sensitivity but only 7% of photopic sensitivity for an isoilluminance light source.",0,0,N,0,N,N,N,0,0,0,0
+95,"One reason we decided to follow patients for 5 years was because with the aging process, scotopic sensitivity tends to deteriorate more rapidly than photopic vision due to a large decrease in rods while the number of cones remains approximately the same.",0,0,N,0,N,N,N,0,0,0,0
+96,"The hypothesis that together with the aging process, implanting blue light–filtering IOLs could cause greater deterioration of scotopic sensitivity at a faster rate was not confirmed.",0,0,N,0,N,N,N,0,0,0,0
+97,"In our study we checked visual acuity under dim light conditions and contrast sensitivity under scotopic conditions, and the 2 IOL groups performed similarly.",0,0,N,0,N,N,N,0,0,0,0
+98,These findings led us to conclude that the effect of blue light–filtering IOLs on scotopic vision after 5 years was not significant enough to be clinically relevant compared with the results in fellow eyes with untinted IOLs.,0,0,N,0,N,N,N,0,0,0,0
+99,Our results agree with those in previous studies.,0,0,N,0,N,N,N,0,0,0,0
+100,"have shown that when taken in context of the entire visual spectrum, the decrease in scotopic sensitivity seen in the blue light range (450 to 500 nm) is not clinically relevant.",0,0,N,0,N,N,N,0,0,0,0
+101,"Even with a shorter follow-up, most previous studies found no detrimental effect of blue light–filtering IOLs on photopic or mesopic contrast sensitivity or on color vision between eyes with blue light–filtering IOLs and eyes with UV light–filtering IOLs.",0,0,N,0,N,N,N,0,0,0,0
+102,performed a study to determine whether implantation of the Acrysof Natural IOL worsened the severity of existing color deficit in patients with congenital partial red–green deficiency.,0,0,N,0,N,N,N,0,0,0,0
+103,They found no worsening in the preexisting severity of color defect in this group of patients.,0,0,N,0,N,N,N,0,0,0,0
+104,The randomized intraindividual design is a strong feature of this study.,0,0,N,0,N,N,N,0,0,0,0
+105,"It allowed us to avoid confounding variables that could affect interpretation of data, such as diet, concurrent illnesses, and ocular comorbidity.",0,0,N,0,N,N,N,0,0,0,0
+106,The property of the implanted IOL is theoretically the only influence in the transmission of specific wavelengths.,0,0,N,0,N,N,N,0,0,0,0
+107,The macular examination at 5 years showed no clinical differences between the 2 IOL groups.,0,0,N,0,N,N,N,0,0,0,0
+108,We hypothesize that it is still early to evaluate the results and outcomes of this new IOL in terms of the retina protection it provides.,0,0,N,0,N,N,N,0,0,0,0
+109,It may not be the lifetime light exposure that is important but rather exposure to specific spectral compositions or intensities of sunlight or artificial light.,0,0,N,0,N,N,N,0,0,0,0
+110,It is also important to highlight that the limited cohort size (25 patients) might have limited the possibility to detect significant differences between the study groups at any time.,0,0,N,0,N,N,N,0,0,0,0
+111,"In previous studies, there is little evidence that theoretical protection against AMD is clinically significant.",0,0,N,0,N,N,N,0,0,0,0
+112,"So far, the majority of the findings are theoretical or based on observations in cell culture or animal experiments.",0,0,N,0,N,N,N,0,0,0,0
+113,The purpose of this study was not to evaluate the role of this particular IOL model in protecting patients who already had the early stages of AMD and may be more susceptible to blue light exposure.,0,0,N,0,N,N,N,0,0,0,0
+114,"In conclusion, after a long follow-up, blue light–filtering (yellow-tinted) IOLs did not seem to significantly affect color perception or scotopic and photopic contrast sensitivity compared with UV light–filtering only (untinted) IOLs.",0,0,N,0,N,N,N,0,0,0,0
+115,"After 5 years, the potential advantages of the yellow-tinted IOL in providing protection to the macular cells remains unclear.",0,0,N,0,N,N,N,0,0,0,0
+116,Studies with a longer follow-up are still needed to confirm that protection provided by this IOL model is clinically significant.,0,0,N,0,N,N,N,0,0,0,0

@@ -1,0 +1,148 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Purpose: To compare the efficacy of topical cyclosporine [0.05% cyclosporine A (CsA)] and preservative-free artificial tears in the treatment of meibomian gland dysfunction (MGD).,0,0,N,0,0,0,0,0,0,0,0
+1,"Methods: A 3-month prospective, randomized, double-masked, parallel-group controlled trial enrolled 70 patients with symptomatic MGD and unstable tear film [tear breakup time (TBUT) <8 seconds].",0,0,N,0,0,0,0,0,0,0,0
+2,Patients were randomized to topical CsA (0.05%; group A) and 0.5% carboxymethylcellulose (control; group B) instilled twice daily for 3 months.,0,0,N,0,0,0,0,0,0,0,0
+3,"Ocular Surface Disease Index (OSDI), lid margin inflammation, meibomian gland expression, conjunctival injection, corneal and interpalpebral dye staining, noninvasive tear breakup time (NIBUT) using the Tearscope Plus and invasive fluorescein tear breakup time (FBUT), and Schirmer I test were performed.",0,0,N,0,0,0,0,0,0,0,0
+4,"Results: At the 3-month evaluation, mean OSDI, NIBUT and FBUT, lid margin inflammation, meibomian gland expressibility, and tarsal injection showed significant improvement from baseline in group A (P < 0.01, P < 0.01, P < 0.001, P < 0.05, and P < 0.001, respectively).",0,0,N,0,0,0,0,0,0,0,0
+5,"In group B, only the OSDI improved significantly from baseline at 3 months (P = 0.003).",0,0,N,0,0,0,0,0,0,0,0
+6,"TBUTs (NIBUT and FBUT) were significantly longer in group A at all visits, and the mean change of TBUTs from baseline was also significantly greater in group A at 3 months (P < 0.001).",0,0,N,0,0,0,0,0,0,0,0
+7,Conclusions: Topical CsA 0.05% twice daily may be helpful in the treatment of MGD mainly by improving tear film stability.,0,0,N,0,0,0,0,0,0,0,0
+8,Meibomian gland dysfunction (MGD) is one of the most common disorders encountered in ophthalmic practice and is the main cause of evaporative dry eye.,0,0,N,0,0,0,0,0,0,0,0
+9,"According to the report of the international workshop on MGD, the core mechanisms for development of obstructive MGD are hyperkeratinization of the ductal epithelium and increased meibum viscosity, which in turn are influenced by aging, hormonal changes, and use of contact lenses and topical medications.",0,0,N,0,0,0,0,0,0,0,0
+10,Other causes include acinar atrophy and inflammation.,0,0,N,0,0,0,0,0,0,0,0
+11,"Consequently, MGD is the major cause of lipid tear deficiency, which results in a lack of or an abnormal lipid tear layer and causes instability of the tear film and shortening of the tear breakup time (TBUT).",0,0,N,0,0,0,0,0,0,0,0
+12,"Conventional treatments for MGD include lid hygiene, warm compression, artificial tear supplements, topical erythromycin, topical corticosteroids, and oral tetracycline/doxycycline.",0,0,N,0,0,0,0,0,0,0,0
+13,These treatments can be challenging and are frequently ineffective.,0,0,N,0,0,0,0,0,0,0,0
+14,"Currently, there is no medication that acts on the core mechanism of this condition.",0,0,N,0,0,0,0,0,0,0,0
+15,"Also, degenerative changes of the meibomian gland, which might be irreversible, play a role in the pathogenesis of MGD.",0,0,N,0,0,0,0,0,0,0,0
+16,"Cyclosporine [cyclosporine A (CsA)] is a T-cell modulator that acts by decreasing inflammatory cytokines, resulting in a decrease in inflammation.CsA eye drops are widely used to treat ocular surface inflammation, for example, dry eyes due to aqueous tear deficiency (ATD); its efficacy has been demonstrated in several controlled clinical trials.",0,0,N,0,0,0,0,0,0,0,0
+17,"In addition, topical CsA has also demonstrated efficacy in atopic keratoconjunctivitis  and in ocular rosacea.Although inflammation does not seem to play a main role in the pathogenesis of MGD, there is evidence that an inflammatory process is partly involved in MGD.",0,0,N,0,0,0,0,0,0,0,0
+18,"Because CsA is known to inhibit and decrease inflammation, it was considered of interest to evaluate its efficacy in the treatment of MGD with or without ATD.",0,0,N,0,0,0,0,0,0,0,0
+19,The purpose of this study was to compare the efficacy of topical CsA 0.05% and a preservative-free artificial tears preparation in the treatment of MGD.,0,0,N,0,0,0,0,0,0,0,0
+20,"This was a prospective, randomized, double-masked, parallel-group clinical trial comparing the efficacy of 0.05% CsA ophthalmic emulsion with preservative-free artificial tears eye drops in patients with MGD.",0,0,N,0,0,0,0,0,0,0,0
+21,"The study was conducted in accordance with the principles of the Declaration of Helsinki and was approved by the Committee for the Protection of Human Participants in Research at the Faculty of Medicine, Siriraj Hospital, Mahidol University, Bangkok, Thailand [SiEC number 154/2551(EC1)].",0,0,N,0,0,0,0,0,0,0,0
+22,Adult patients with a diagnosis of MGD who were willing to comply with the protocol provided their written informed consent before enrollment.,0,0,N,0,0,0,0,0,0,0,0
+23,"The trial was registered with ClinicalTrials.gov (identification number, NCT00705510).",0,0,N,0,0,0,0,0,0,0,0
+24,Eligible patients from the eye clinic were aged at least 18 years and had a diagnosis of MGD.,0,0,N,0,0,0,0,1,1,0,1
+25,"Inclusion criteria were meibomian gland obstruction, abnormal secretion, and/or lid margin inflammation, noninvasive tear breakup time (NIBUT) <=8 seconds in each eye, and at least one of the following symptoms of tear film instability: irritation, photophobia, and tearing.",0,0,N,0,0,0,0,1,1,0,1
+26,"Patients were excluded from the study if they had any of the following: severe ocular surface abnormalities, the presence or history of systemic or ocular disorders that might interfere with the interpretation of the study (such as ocular surgery, glaucoma, or contact lens wear), a history of or known presence of an ophthalmic infection, such as herpes simplex virus keratitis, immunocompromised status, previous use of topical CsA within the past 1 year or use of oral CsA or anticholinergic agents within the past 2 months before the study, pregnancy or lactation, or a history of hypersensitivity to CsA or any components of the topical medications to be used in the study.",0,0,N,0,0,0,0,1,1,0,1
+27,Patients received treatment in both eyes but only the right eye was chosen for analysis.,0,0,N,0,0,0,0,1,1,0,1
+28,Commercially available products were used.,0,0,N,0,0,0,0,0,0,0,0
+29,"Patients in group A received 0.05% CsA ophthalmic emulsion (Restasis; Allergan, Inc., Irvine, CA), whereas those in group B (control group) received carboxymethylcellulose sodium (5 mg/mL, 0.5%) eye drops (Cellufresh; Allergan, Inc.).",0,0,N,0,0,0,0,0,0,0,0
+30,"Both the medications were preservative free, and patients received their assigned treatments twice daily in both eyes for 12 weeks.",0,0,N,0,0,0,0,0,0,0,0
+31,"The medications had their brand name identifications removed and were repackaged in dark plastic bags to mask both the patients and the investigators, including the principle investigator (P.P.).",0,0,N,0,0,0,0,0,0,0,0
+32,Patients were not permitted to compare their assigned medication with other participants.,0,0,N,0,0,0,0,0,0,0,0
+33,The assignment concealment was kept by the research assistant during the trial and was broken at the end of the trial.,0,0,N,0,0,0,0,0,0,0,0
+34,"Other preservative-free artificial tears preparations used previously were still permitted as an additional tear supplement throughout the study, and patients were asked to record the frequency of their use.",0,0,N,0,0,0,0,0,0,0,0
+35,"At the month 0 (baseline) visit, patients were checked for the protocol's inclusion and exclusion criteria, and the following baseline parameters were assessed: Ocular Surface Disease Index (OSDI), NIBUT using the Tearscope Plus (Keeler, Windsor, United Kingdom), invasive fluorescein tear breakup time (FBUT), lid margin inflammation, meibomian gland secretion and expressibility, bulbar and tarsal conjunctival injection, corneal dye staining with fluorescein and rose bengal, and tear volume measured by Schirmer I test.",0,0,N,0,0,0,0,0,0,0,0
+36,"Additionally, daily tear supplement usage was assessed.",0,0,N,0,0,0,0,0,0,0,0
+37,Fifteen minutes of warm compression combined with daily lid scrub with dilute baby shampoo and lid massage was encouraged in all patients.,0,0,N,0,0,0,0,0,0,0,0
+38,"Patients were randomized via a random number method into 2 groups, A and B.",0,0,N,0,0,0,0,0,0,0,0
+39,"Patients in group A received 0.05% CsA ophthalmic emulsion, whereas those in group B received the artificial tears preparation containing 0.5% carboxymethylcellulose sodium.",0,0,N,0,0,0,0,0,0,0,0
+40,Each treatment was administered into both eyes twice daily.,0,0,N,0,0,0,0,0,0,0,0
+41,"The objective parameters were reassessed at follow-up visits at 1, 2, and 3 months after the assigned treatments were begun, except for tear volume (Schirmer I test), which was assessed only at the 3-month visit.",0,0,N,0,0,0,0,0,0,0,0
+42,The objective parameters were assessed by 1 investigator (P.P.),0,0,N,0,0,0,0,0,0,0,0
+43,to reduce interobserver variability.,0,0,N,0,0,0,0,0,0,0,0
+44,Dry eye symptoms were assessed on a score of 0 to 100 by the OSDI.,0,0,N,0,0,0,0,0,0,0,0
+45,"Objective signs included slit-lamp examination of the lid and meibomian glands, conjunctival and corneal dye staining, TBUT (NIBUT and FBUT), and tear volume (Schirmer I test).",0,0,N,0,0,0,0,0,0,0,0
+46,"Lid margin inflammation and conjunctival (bulbar and tarsus) inflammation were graded as follows: 0 = no injection, 1 = mild injection, 2 = moderate injection, and 3 = severe injection (Fig.",0,0,N,0,0,0,0,0,0,0,0
+47,Meibomian gland dysfunction was defined as abnormal secretion and/or abnormal expressibility using a finger on both lids on a grading of 0 to 3 (Table 1).,0,0,N,0,0,0,0,0,0,0,0
+48,NIBUT was measured using the Tearscope Plus.,0,0,N,0,0,0,0,0,0,0,0
+49,measured the interval between a complete blink and the appearance of the first randomly distorted grid pattern on the corneal tear film and calculated the average value of 3 measurements.,0,0,N,0,0,0,0,0,0,0,0
+50,This test was performed before any treatment or dye staining was instilled into the eye.,0,0,N,0,0,0,0,0,0,0,0
+51,Tear film instability was shown by NIBUT using a tear scope.,0,0,N,0,0,0,0,0,0,0,0
+52,The noncontact nature of the tear scope without any substrate added into the eye enabled evaluation of the tear film in the natural environment.,0,0,N,0,0,0,0,0,0,0,0
+53,FBUT was measured by using 2 [mu]L of 2% fluorescein dye.,0,0,N,0,0,0,0,0,0,0,0
+54,"The first disappearance of the dye was recorded, and the average value of 3 measurements was calculated.",0,0,N,0,0,0,0,0,0,0,0
+55,The fluorescein and rose bengal scores were assessed using the National Eye Institute system.,0,0,N,0,0,0,0,0,0,0,0
+56,"Five regions of staining on the cornea and conjunctiva were evaluated, that is, the center, nasal, temporal, superior, and inferior regions, and were scored as 0 to 3 depending on the intensity of staining, yielding a maximum score of 15.",0,0,N,0,0,0,0,0,0,0,0
+57,Tear volume (Schirmer I test) was measured over a 5-minute period without anesthesia.,0,0,N,0,0,0,0,0,0,0,0
+58,Safety outcomes were assessed via ophthalmic examinations and the occurrence of adverse events throughout the study.,0,0,N,0,0,0,0,0,0,0,0
+59,"If an adverse event was severe or impacted on the patient's quality of life, the assigned treatment was stopped.",0,0,N,0,0,0,0,0,0,0,0
+60,The study aimed to compare the efficacy of 0.05% CsA ophthalmic emulsion (test group; group A) with that of artificial tears (control group; group B) mainly in a change in TBUT (seconds).,0,0,N,0,0,0,0,0,0,0,0
+61,"Based on the related literature, and the authors' pilot study (unpublished data), mean change in TBUT in the test group was estimated to be 2 +/- 4.5 seconds, with no change in the control group.",0,0,N,0,0,0,0,0,0,0,0
+62,"In estimating sample size using nQuery Advisor program, based on the difference in mean change with a significance level of 0.05, 80% power, and 1-sided test, a total of 64 eyes in each group were required.",0,0,N,0,0,0,0,0,0,0,0
+63,"Finally, to compensate for 10% drop-outs, a total of 70 eyes in each group were needed.",0,0,N,0,0,0,0,0,0,0,0
+64,The study was analyzed using results from the patients' right eyes.,0,0,N,0,0,0,0,0,0,1,0
+65,The primary efficacy parameter was the NIBUT.,0,0,N,0,0,0,0,0,0,1,0
+66,Descriptive statistics were represented as mean values and standard errors of the mean.,0,0,N,0,0,0,0,0,0,1,0
+67,Intragroup comparisons for continuous variables were analyzed using a paired t test or Wilcoxon signed-rank test (abnormal distribution) and using a marginal homogeneity test for categorical variables.,0,0,N,0,0,0,0,0,0,1,0
+68,Comparisons between groups for continuous variables were performed by an independent t test or Mann-Whitney U test (abnormal distribution) and by a [chi]2 test for categorical variables.,0,0,N,0,0,0,0,0,0,1,0
+69,Both comparisons used an intention-to-treat analysis.,0,0,N,0,0,0,0,0,0,0,0
+70,"Statistical significance was considered as a P < 0.05 (2 sided) and was performed using the Statistical Package for the Social Sciences software, version 11.0 (SPSS, Inc., Chicago, IL).",0,0,N,0,0,0,0,0,0,0,0
+71,"Seventy patients were enrolled in the study, 36 patients in group A and 34 patients in group B.",0,0,N,0,0,0,0,0,0,0,0
+72,"Six patients were withdrawn from the study, 4 of 36 (11.1%) from group A due to drug intolerance, and 1 from each group (2.8% of group A and 2.9% of group B) due to loss to follow-up.",0,0,N,0,0,0,0,0,0,0,0
+73,"Sixty-four patients completed the study, 31 (86.1%) in group A and 33 (97.0%) in group B.",0,0,N,0,0,0,0,0,0,0,0
+74,The mean age of group B patients (55.0 +/- 13.0 years) was significantly greater than that of group A patients (48.1 +/- 13.9 years; P = 0.038).,0,0,N,0,0,0,0,0,0,0,0
+75,"Most patients in both the groups were women, and the difference in gender distribution between the groups was not statistically significant.",0,0,N,0,0,0,0,0,0,0,0
+76,There were no significant differences in baseline signs and symptoms between the 2 groups.,0,0,N,0,0,0,0,0,0,0,0
+77,Demographic data and baseline signs and symptoms are shown in Table 1.,0,0,N,0,0,0,0,0,0,0,0
+78,"During the trial, both the investigators and the patients were blinded to the treatment assigned.",0,0,N,0,0,0,0,0,0,0,0
+79,"At baseline, mean values for NIBUT were 2.29 +/- 0.17 seconds and 2.28 +/- 0.12 seconds in groups A and B, respectively, whereas those for FBUT were 2.28 +/- 0.21 seconds and 1.91 +/- 2.18 seconds, respectively, with no statistically significant differences between the 2 groups (Table 1).",0,0,N,0,0,0,0,0,0,0,0
+80,"At each follow-up visit, mean NIBUT and FBUT values in group A were significantly increased compared with baseline and compared with group B, NIBUT were 3.82 +/- 0.28 seconds and 2.23 +/- 0.11 seconds in groups A and B, respectively, whereas those for FBUT were 3.33 +/- 0.3 seconds and 1.91 +/- 0.13 seconds, respectively (P < 0.001; Fig.",0,0,N,0,0,0,0,0,0,0,0
+81,"In the control group (group B), NIBUT and FBUT were not significantly different from baseline.",0,0,N,0,0,0,0,0,0,0,0
+82,"The NIBUT and FBUT values showed a significantly high correlation at each time point (P < 0.001; r = 0.408, r = 0.525, r = 0.703, and r = 0.763 at month 0, 1, 2, and 3, respectively).",0,0,N,0,0,0,0,0,0,0,0
+83,"Lid inflammation was decreased significantly from baseline at each follow-up visit in group A (P < 0.001), whereas group B showed significant improvements at 1 month and 2 months (P = 0.048 and P = 0.020, respectively).",0,0,N,0,0,0,0,0,0,0,0
+84,"There were no statistically significant differences in degrees of lid inflammation between the 2 treatment groups at each of the 3 visits (P = 0.448, P = 0.534, and P = 0.427, respectively; Fig.",0,0,N,0,0,0,0,0,0,0,0
+85,"Meibomian gland expressibility was significantly increased from baseline at 1 month and 3 months in group A (P = 0.12 and P = 0.048, respectively) and significantly improved compared with group B at 1 month (P = 0.03; Fig.",0,0,N,0,0,0,0,0,0,0,0
+86,"In group B, there was no change in expressibility at any visit.",0,0,N,0,0,0,0,0,0,0,0
+87,"Meibomian gland secretion was not significantly different between the 2 groups, and there was no change in secretion from baseline in both the groups at all visits.",0,0,N,0,0,0,0,0,0,0,0
+88,"Tarsal conjunctival injection was significantly decreased from baseline at 2 and 3 months in group A (P = 0.014 and P < 0.001, respectively) and at 2 months in group B (P = 0.001).",0,0,N,0,0,0,0,0,0,0,0
+89,"However, there was no statistically significant difference between the treatment groups (Fig.",0,0,N,0,0,0,0,0,0,0,0
+90,"Bulbar conjunctival injection showed no change from baseline in both the treatment groups, and there were no significant differences between the groups.",0,0,N,0,0,0,0,0,0,0,0
+91,"In both the groups, corneal and conjunctival fluorescein and rose bengal staining scores were not significantly different from baseline.",0,0,N,0,0,0,0,0,0,0,0
+92,"Although the scores were lower in group A at each follow-up visit, there were no significant differences between the 2 treatment groups.",0,0,N,0,0,0,0,0,0,0,0
+93,"Tear volumes, as measured by Schirmer I test without anesthesia, were normal at baseline in both the groups (mean 18.03 and 18.88 mm in groups A and B, respectively).",0,0,N,0,0,0,0,0,0,0,0
+94,"These values were not significantly changed from baseline at the 3-month visit in both the groups, and there was no significant difference between the 2 treatment groups.",0,0,N,0,0,0,0,0,0,0,0
+95,Symptoms of tear dysfunction were assessed using the OSDI.,0,0,N,0,0,0,0,0,0,0,0
+96,"Comparisons of OSDI scores before and after treatment showed a significant decrease in symptoms in both the treatment groups: in group A at 2 and 3 months (P = 0.006 and P < 0.001, respectively) and in group B at every time point (P = 0.009, P < 0.001, and P < 0.001, respectively).",0,0,N,0,0,0,0,0,0,0,0
+97,Comparisons between the 2 treatment groups showed significant improvements in symptoms at the 2-month visit in the control/artificial tears group when an intention-to-treat analysis was used (Fig.,0,0,N,0,0,0,0,0,0,0,0
+98,"6), but there was no significant difference between the groups when a per-protocol analysis was used.",0,0,N,0,0,0,0,0,0,0,0
+99,"In a subgroup analysis of patients with lipid tear deficiency without ATD (Schirmer I test >5.5 mm), which included 28 patients from group A and 27 patients from group B, there was an improvement in tear film stability with both treatments (as shown by NIBUT and FBUT values), with a significant difference between the 2 groups at each visit favoring group A (P < 0.001).",0,0,N,0,0,0,0,0,0,0,0
+100,The frequency with which additional tear supplements were used in the 2 treatment groups did not change from baseline throughout the study.,0,0,N,0,0,0,0,0,0,0,0
+101,No serious adverse events occurred during the study.,1,0,N,1,1,1,1,1,1,0,1
+102,"Four of 36 patients (11.1%) in the intention-to-treat analysis group reported burning, discomfort, and intolerance of CsA treatment.",1,0,N,1,1,1,1,0,0,0,0
+103,"One patient showed mild superficial punctate keratitis, and another patient had mild punctal swelling.",1,0,N,1,1,1,1,0,0,0,0
+104,"However, the latter patient had punctal occlusion before entering the study.",1,0,N,1,1,1,1,0,0,0,0
+105,These signs and symptoms of discomfort occurred within the first month of treatment and recovered immediately after stopping the medication.,1,0,N,1,1,1,1,0,0,0,0
+106,"In this study, the demographic data and base line characteristics of the patients in both the groups were similar, and the treatments were randomly applied to avoid bias.",0,1,N,0,0,0,0,0,0,0,0
+107,"At the final 3-month evaluation, the TBUT evaluated by 2 techniques, noninvasive tear scope and invasive fluorescein, showed that TBUT values in the CsA group were statistically significantly increased from baseline and were greater than those in the preservative-free artificial tears group.",0,0,N,0,0,0,0,0,0,0,0
+108,"Other objective clinical signs, which included lid margin inflammation, meibomian gland expressibility, and tarsal conjunctival injection, were also significantly improved from baseline with CsA.",0,0,N,0,0,0,0,0,0,0,0
+109,Comparison between the 2 treatment groups also showed a significant difference in gland expressibility at 1- and 3-month visits favoring CsA treatment.,0,0,N,0,0,0,0,0,0,0,0
+110,"However, symptoms evaluated by OSDI scores were significantly improved from baseline in both the treatment groups and significantly favored the control/artificial tears treatment at the 2-month visit by intention-to-treat analysis but not by per-protocol analysis.",0,0,N,0,0,0,0,0,0,0,0
+111,"Although the absolute changes in the TBUT in the CsA treatment group were small and the values were still in the abnormal range, it might have some clinical relevance from a patients' aspect.",0,0,N,0,0,0,0,0,0,0,0
+112,"At the end of the trial before treatment concealments were revealed, participants were asked if they were willing to continue their assigned treatment.",0,0,N,0,0,0,0,0,0,0,0
+113,"Eighty percent of patients (25 of 31 cases) in the CsA group chose to continue the treatment as compared with 48% (16 of 33 cases) of the control group (P = 0.01, [chi]2 test).",0,0,N,0,0,0,0,0,0,0,0
+114,"CsA ophthalmic emulsion has been shown in previous studies to benefit dry eyes due to ATD or other ocular surface inflammatory disorders, such as ocular rosacea and atopic keratoconjunctivitis.CsA has also been shown to improve subjective ocular symptoms, TBUTs, tear volumes, corneal staining, and inflammation of the lid and conjunctiva.These benefits may be due to the immunomodulatory properties of CsA via regulation of immune-mediated inflammatory processes in the lacrimal gland, conjunctiva, and goblet cells.",0,0,N,0,0,0,0,0,0,0,0
+115,"Pathogenesis of obstructive MGD is based mainly on hyperkeratinization and its consequences, such as ductal dilatation and acinar atrophy.",0,0,N,0,0,0,0,0,0,0,0
+116,"Other conditions leading to chronic inflammation of the ocular surface, such as atopy, pemphigoid, acne rosacea, and seborrhea, are associated with secondary MGD as shown in the schematic of MGD classification.",0,0,N,0,0,0,0,0,0,0,0
+117,"Altogether, these conditions may lead to clinically apparent inflammation, eye irritation, tear film alteration, and dry eye seen in MGD patients.",0,0,N,0,0,0,0,0,0,0,0
+118,"Inflammatory cytokines, such as epidermal growth factor, interleukin (IL)-1, IL-6, IL-8, IL-12, and tumor necrosis factor-alpha, have been reported to be increased in MGD, which may explain the irritative symptoms and lid inflammation observed in patients with this disorder.",0,0,N,0,0,0,0,0,0,0,0
+119,"Because of its immunomodulatory effect on T lymphocytes, topical CsA has been found to reduce proinflammatory cytokines, such as IL-6,in tears and thus might be useful in the treatment of clinical inflammation found in MGD.",0,0,N,0,0,0,0,0,0,0,0
+120,"Because degenerative change, such as hyperkeratinization of the gland itself, is the core pathophysiology of MGD, clinical inflammation found in these patients might be a result of the process rather than a cause.",0,0,N,0,0,0,0,0,0,0,0
+121,"Therefore, the role of anti-inflammatory treatment might not be as great as in aqueous deficiency dry eye, which might explain the results of our study, in which only TBUT and gland expressibility showed statistically significantly improvements, whereas lid and conjunctival inflammation did not.",0,0,N,0,0,0,0,0,0,0,0
+122,This study suggests that topical CsA may improve tear film stability in patients with lipid tear abnormality without ATD.,0,0,N,0,0,0,0,0,0,0,0
+123,"Our results are consistent with those of Perry et al  and Rubin and Rao, who reported randomized controlled studies of CsA in the treatment of MGD in 28 and 30 patients, respectively.",0,0,N,0,0,0,0,0,0,0,0
+124,"Perry et al  showed that topical CsA decreased meibomian gland inclusion and tarsal and lid inflammation and reduced corneal fluorescein staining significantly more than the preservative-free artificial tears control preparation; however, they did not show significant differences in TBUTs between the 2 treatment groups.",0,0,N,0,0,0,0,0,0,0,0
+125,"In a comparison of topical CsA with 0.3% tobramycin/0.1% dexamethasone in patients with posterior blepharitis, Rubin and Rao  demonstrated the efficacy of CsA in reducing the viscosity of meibomian gland secretions, TBUT, Schirmer test scores, and lid telangiectasia.",0,0,N,0,0,0,0,0,0,0,0
+126,"We found that corneal staining and Schirmer test scores did not change from baseline and did not differ between the 2 treatment groups, in contrast to previous studies of topical CsA in dry eye states  showing significantly decreased mean corneal staining scores and improvements in Schirmer test scores.",0,0,N,0,0,0,0,0,0,0,0
+127,Differences in the patient populations treated in the various studies may account for these differences.,0,0,N,0,0,0,0,0,0,0,0
+128,"In our study, 55 patients (78%) had a normal Schirmer score at baseline (mean, 18 mm), which may explain the lack of significant improvement in corneal staining and the Schirmer score.",0,0,N,0,0,0,0,0,0,0,0
+129,A major disadvantage in CsA treatment is ocular burning and stinging.,0,0,N,0,0,0,0,0,0,0,0
+130,"In our study, 4 patients (11.1%) in the CsA group were withdrawn because of drug intolerance.",0,0,N,0,0,0,0,0,0,0,0
+131,"Interestingly, 1 of these patients had punctal occlusion before study commencement.",0,0,N,0,0,0,0,0,0,0,0
+132,"This may have prolonged the contact time of the medication, leading to an increase in ocular irritation.",0,0,N,0,0,0,0,0,0,0,0
+133,The symptoms improved after CsA was discontinued.,0,0,N,0,0,0,0,0,0,0,0
+134,"This study had the advantage of being a double-masked, randomized prospective assessment, which may have minimized any possible bias.",0,0,N,0,0,0,0,0,0,0,0
+135,"The main efficacy outcome was tear film stability measured by both noninvasive and invasive techniques, and we showed a strong correlation between the 2 methods.",0,0,N,0,0,0,0,0,0,0,0
+136,"However, our study had some limitations.",0,0,N,0,0,0,0,0,0,0,0
+137,"First, when this trial was conducted, commercially available vehicle of CsA was not in the market, and nonpreservative artificial tear was used as a control treatment.",0,0,N,0,0,0,0,0,0,0,0
+138,"Thus, the emulsion effect of CsA vehicle in group A might influence the study result.",0,0,N,0,0,0,0,0,0,0,0
+139,"Second, the statistically significant improvement of TBUT in CsA treatment group, although nearly double from the base line, was small and still below the normal value.",0,0,N,0,0,0,0,0,0,0,0
+140,This might be related to the very low baseline TBUT of the study population.,0,0,N,0,0,0,0,0,0,0,0
+141,Greater differences may be been seen in a larger patient population.,0,0,N,0,0,0,0,0,0,0,0
+142,A multicenter and larger controlled study may be required to ascertain whether this improvement in TBUT is applicable to clinical practice.,0,0,N,0,0,0,0,0,0,0,0
+143,"In conclusion, this study demonstrated that topical CsA 0.05% in the treatment of MGD can increase TBUT.",0,0,N,0,0,0,0,0,0,0,0
+144,"However, the mechanism of action remains unclear, possibly by reducing ocular inflammation associated with MGD.",0,0,N,0,0,0,0,0,0,0,0
+145,This improvement was evident using both subjective and objective measures.,0,0,N,0,0,0,0,0,0,0,0
+146,"When conventional treatment with artificial tears has proved unsatisfactory, topical CsA may be an effective adjunctive treatment for patients with MGD.",0,0,N,0,0,0,0,0,0,0,0

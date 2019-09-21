@@ -1,0 +1,188 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Low back pain is a common medical and social problem associated with disability and absence from work.,0,0,0,0,N,N,N,0,0,0,0
+1,Knowledge on effective return to work (RTW) interventions is scarce.,0,0,0,0,N,N,N,0,0,1,1
+2,To determine the effectiveness of graded activity as part of a multistage RTW programme.,0,0,0,0,N,N,N,1,1,0,0
+3,Randomised controlled trial.,0,0,0,0,N,N,N,0,0,0,0
+4,Occupational healthcare.,0,0,0,0,N,N,N,0,0,0,0
+5,112 workers absent from work for more than eight weeks due to low back pain were randomised to either graded activity (n = 55) or usual care (n = 57).,0,0,0,0,N,N,N,0,0,0,0
+6,"Graded activity, a physical exercise programme aimed at RTW based on operant‐conditioning behavioural principles.",0,0,0,0,N,N,N,0,0,0,0
+7,"The number of days off work until first RTW for more then 28 days, total number of days on sick leave during follow up, functional status, and severity of pain.",0,0,0,0,N,N,N,0,0,0,0
+8,Follow up was 26 weeks.,0,0,0,0,N,N,N,0,0,0,0
+9,Graded activity prolonged RTW.,0,0,0,0,N,N,N,0,0,0,0
+10,"Median time until RTW was equal to the total number of days on sick leave and was 139 (IQR = 69) days in the graded activity group and 111 (IQR = 76) days in the usual care group (hazard ratio = 0.52, 95% CI 0.32 to 0.86).",0,0,0,0,N,N,N,0,0,0,0
+11,"An interaction between a prior workplace intervention and graded activity, together with a delay in the start of the graded activity intervention, explained most of the delay in RTW (hazard ratio = 0.86, 95% CI 0.40 to 1.84 without prior intervention and 0.39, 95% CI 0.19 to 0.81 with prior intervention).",0,0,0,0,N,N,N,0,0,0,0
+12,Graded activity did not improve pain or functional status clinically significantly.,0,0,0,0,N,N,N,0,0,0,0
+13,Graded activity was not effective for any of the outcome measures.,0,0,0,0,N,N,N,0,0,0,0
+14,Different interventions combined can lead to a delay in RTW.,0,0,0,0,N,N,N,0,0,0,0
+15,Delay in referral to graded activity delays RTW.,0,0,0,0,N,N,N,0,0,0,0
+16,In implementing graded activity special attention should be paid to the structure and process of care.,0,0,0,0,N,N,N,0,0,0,0
+17,"In this article, we describe the results of a randomised controlled trial (RCT) on the effectiveness of graded activity for workers on sick leave due to low back pain as part of an occupational back pain management programme.<sup><a href=""#ref1"">1",0,0,0,0,N,N,N,0,0,0,0
+18,Back pain is a common problem in Western societies.,0,0,0,0,N,N,N,0,0,0,0
+19,It causes major occupational disability and considerable financial costs.,0,0,0,0,N,N,N,0,0,0,0
+20,"Total costs estimates vary from 0.28 to 1.7% of the Dutch Gross National Product, depending on the method used.<sup><a href=""#ref2"">2</a></sup> Approximately 93% of total costs are caused by absenteeism from work.<sup><a href=""#ref3"">3</a></sup> In general most costs are caused by workers who are off work for more than six months.<sup><a href=""#ref4"">4</a></sup><sup><a href=""#ref5"">5</a></sup> Based on the report of the Quebec Task Force on Spinal Disorders<sup><a href=""#ref6"">6</a></sup> researchers at Sherbrooke University, Canada developed an occupational back pain management programme which aims at treating subacute back pain and preventing chronicity.",0,0,0,0,N,N,N,0,0,0,0
+21,The Sherbrooke programme consists of a workplace intervention and a clinical intervention comparable to graded activity.,0,0,0,0,N,N,N,0,0,0,0
+22,"It has been evaluated in an RCT.<sup><a href=""#ref7"">7</a></sup><sup><a href=""#ref8"">8</a></sup><sup><a href=""#ref9"">9</a></sup> The back pain management programme appeared to be an effective tool in hastening return to work (RTW).<sup><a href=""#ref7"">7",0,0,0,0,N,N,N,0,0,0,0
+23,"We adapted the Sherbrooke intervention to Dutch occupational healthcare practice.<sup><a href=""#ref1"">1</a></sup> We designed an occupational back pain management programme consisting of two interventions.",0,0,0,0,N,N,N,0,0,0,0
+24,"At inclusion, workers could be randomised to a workplace intervention based on the participatory ergonomics approach<sup><a href=""#ref10"">10</a></sup><sup><a href=""#ref11"">11</a></sup> or usual care by the occupational physician (OP).",0,0,0,0,N,N,N,0,0,0,0
+25,"Participatory ergonomics is a method aiming at solving barriers for RTW with the input from the worker, the worker's supervisor, and an ergonomics expert from the occupational health service.",0,0,0,0,N,N,N,0,0,0,0
+26,Workers still off work after eight weeks could be randomised to the graded activity intervention.,0,0,0,0,N,N,N,0,0,0,0
+27,"Graded activity is a submaximal, gradually increasing exercise programme, with an operant‐conditioning behavioural approach, based on the results of functional capacity tests, the demands from the patient's work, and the patient's expectations on time to RTW.",0,0,0,0,N,N,N,0,0,0,0
+28,"Graded activity has been developed and evaluated by Lindström <span class=""italic"">et al</span><sup><a href=""#ref12"">12</a></sup><sup><a href=""#ref13"">13</a></sup> and was adjusted to the Dutch situation and evaluated by Staal <span class=""italic"">et al</span>.<sup><a href=""#ref14"">14</a></sup> It has proven to be an effective tool in hastening RTW for workers on sick leave due to low back pain in the subacute phase.<sup><a href=""#ref12"">12</a></sup><sup><a href=""#ref14"">14</a></sup> The question emerges whether graded activity can be equally effective as part of a multistage RTW back pain management programme.",0,0,0,0,N,N,N,0,0,0,0
+29,In this paper the results of the graded activity intervention versus usual care are presented.,0,0,0,0,N,N,N,0,0,0,0
+30,"Before being randomised to graded activity, workers had been randomised to an earlier intervention.",0,0,0,0,N,N,N,0,0,0,0
+31,"The participatory ergonomics intervention was evaluated in a two armed RCT, followed by a second randomisation within these two arms (see fig 1) (usual care, graded activity only, workplace intervention only, and workplace intervention followed by graded activity).",0,0,0,0,N,N,N,0,0,0,0
+32,"It was executed in 13 occupational health services and 16 physiotherapy centres.<sup><a href=""#ref1"">1</a></sup> This article has a special emphasis on the effectiveness of the second intervention in a back pain management programme: graded activity.",0,0,0,0,N,N,N,0,0,0,0
+33,View larger version,0,0,0,0,N,N,N,0,0,0,0
+34,"The Medical Ethics Committee of VU University Medical Center approved the study design, protocols, procedures, and informed consent; all participants provided written informed consent.",1,0,0,0,N,N,N,0,0,0,0
+35,The source population for this study consisted of about 100 000 workers from 99 occupational physicians (OP).,1,0,0,0,N,N,N,0,0,0,0
+36,Subjects were randomised for the graded activity intervention at the workers level.,0,0,0,0,N,N,N,1,1,0,0
+37,The inclusion criteria were:,0,0,0,0,N,N,N,0,0,0,0
+38,"low back pain (ICD‐10 codes: M54.5, M54.4, M54.3, M54.1, M54.8, and M54.9);",0,0,0,0,N,N,N,0,0,0,0
+39,included in the multistage RTW back pain management programme at 2–6 weeks of sick leave;,0,0,0,0,N,N,N,0,0,0,0
+40,sick leave for more than eight weeks and no plans to return to work within a week;,0,0,0,0,N,N,N,0,0,1,1
+41,age 18–65 years;,0,0,0,0,N,N,N,0,0,0,0
+42,able to give informed consent and to complete questionnaires in Dutch.,0,0,0,0,N,N,N,0,0,1,1
+43,The exclusion criteria were:,0,0,0,0,N,N,N,0,0,0,0
+44,low back pain due to specific causes;,0,0,0,0,N,N,N,0,0,0,0
+45,"coexisting cardiovascular, psychiatric contraindications, or juridical procedures;",0,0,0,0,N,N,N,0,0,0,0
+46,pregnancy;,0,0,0,0,N,N,N,0,0,0,0
+47,sick leave due to low back pain less than one month prior to the current episode.,0,0,0,0,N,N,N,0,0,0,0
+48,An independent researcher (HCWdV) performed the randomisation by using a list of random numbers.,0,1,1,0,N,N,N,0,0,0,0
+49,The result of the randomisation was sent to the OP in an opaque envelope.,0,0,1,0,N,N,N,0,0,0,0
+50,If a patient was eligible (not at work) the envelope had to be opened by the OP.,0,0,0,0,N,N,N,0,0,0,0
+51,In case of randomisation to graded activity the OP referred the worker to the physiotherapist (PT).,0,0,1,0,N,N,N,1,1,0,0
+52,Randomisation for graded activity was on the patient level and independent from earlier randomisation for the prior intervention.,0,0,0,0,N,N,N,0,0,0,0
+53,View larger version,0,0,0,0,N,N,N,0,0,0,0
+54,"To detect a 30% difference in recovery rate (RTW) we needed a minimum of 45 workers in both treatment arms.<sup><a href=""#ref1"">1</a></sup> This difference can be detected with a power (1 − β) of 80% at α = 0.05.<sup><a href=""#ref15"">15",0,0,0,0,N,N,N,0,0,0,0
+55,"Workers, OPs, and PTs could not be blinded for the allocated treatment.",0,0,0,0,N,N,N,0,0,0,0
+56,Treatment allocation was made known to the worker after informed consent and completion of the first questionnaire.,0,0,0,0,N,N,N,1,1,0,0
+57,Therefore blinding of self‐reported outcome measurements during follow up was not possible.,0,0,0,0,N,N,N,0,0,0,0
+58,"However, as all follow up questionnaires were mailed to the worker, no direct influence by the researchers or treating professionals was likely to happen.",0,0,0,0,N,N,N,0,0,0,0
+59,Data on RTW were extracted from automated databases so bias from a lack of blinding was prevented.,0,0,0,0,N,N,N,0,0,0,0
+60,"In the Netherlands workers who are absent from work due to low back pain are guided throughout their sick leave according to the Dutch OP guidelines for low back pain.<sup><a href=""#ref1"">1</a></sup><sup><a href=""#ref16"">16</a></sup><sup><a href=""#ref17"">17</a></sup> By informing the patients' general practitioner (GP) on the interventions performed we tried to minimise co‐interventions.",0,0,0,0,N,N,N,0,0,0,0
+61,All interventions in our study are in line with the Dutch OP guideline.,0,0,0,0,N,N,N,0,0,0,0
+62,"Information on the study and the low back pain management by the OP was transferred to the GP by the worker by means of a information sheet on the study and a communication form on the OP's back pain management,<sup><a href=""#ref18"">18</a></sup> including information on possible randomisation to graded activity.",0,0,0,0,N,N,N,0,0,0,0
+63,See full table,0,0,0,0,N,N,N,0,0,0,0
+64,The graded activity intervention was performed by 47 PTs from 16 in‐company and out‐company physiotherapy centres.,0,0,0,0,N,N,N,0,0,0,0
+65,"A team of specialised PTs from the Staal <span class=""italic"">et al</span><sup><a href=""#ref14"">14</a></sup> trial trained all PTs in the graded activity protocol.",0,0,0,0,N,N,N,0,0,0,0
+66,Two‐hour feedback sessions were held every few months and protocols were handed out to standardise the intervention.,0,0,0,0,N,N,N,0,0,0,0
+67,"However, complete uniformity cannot be reached and is not realistic either in clinical practice.",0,0,0,0,N,N,N,0,0,0,0
+68,"Graded activity aims to restore occupational function—that is, return to previous work.",0,0,0,0,N,N,N,0,0,1,1
+69,"During the programme the worker has an active role in RTW and the PT acts as a coach and supervisor, using a hands‐off approach.<sup><a href=""#ref1"">1</a></sup><sup><a href=""#ref14"">14</a></sup> The intervention consisted of an individual, submaximal, gradually increasing exercise programme, with an operant‐conditioning behavioural approach based on the findings from patient history, physical examination, functional capacity evaluation, the demands from the patient's work and the patient's expectations on time to RTW.",0,0,0,0,N,N,N,0,0,0,0
+70,"The entire programme consisted of 26 one‐hour sessions maximally, with a frequency of two sessions a week.",0,0,0,0,N,N,N,0,0,0,0
+71,The first session took half an hour longer because it included a physical examination.,0,0,0,0,N,N,N,0,0,0,0
+72,"The programme stopped as soon as a lasting return to own or equal work had been established, according to an earlier agreed upon individual schedule.<sup><a href=""#ref1"">1</a></sup> Costs of this intervention were approximately €1000.",0,0,0,0,N,N,N,0,0,0,0
+73,View larger version,0,0,0,0,N,N,N,0,0,0,0
+74,"De Vet <span class=""italic"">et al</span><sup><a href=""#ref19"">19</a></sup> pointed out the importance of defining episodes of low back pain.",0,0,0,0,N,N,N,0,0,0,0
+75,We restricted our analyses to time to RTW defined as:,0,0,0,0,N,N,N,0,0,0,0
+76,1,0,0,0,0,N,N,N,0,0,0,0
+77,"Lasting return to own or equal work—that is, duration of work absenteeism in calendar days from the first day of sick leave to full RTW in own or other work with equal earnings, lasting for at least four weeks without (partial or full) dropout.",0,0,0,0,N,N,N,0,0,0,0
+78,2,0,0,0,0,N,N,N,0,0,0,0
+79,"Total number of days on sick leave due to low back pain in the follow up period, because possible recurrences can be considered as a negative outcome of the interventions.",0,0,0,0,N,N,N,0,0,0,0
+80,"Secondary outcomes in this study were functional status, measured with the Roland‐Morris Disability‐24 questionnaire<sup><a href=""#ref20"">20</a></sup><sup><a href=""#ref21"">21</a></sup><sup><a href=""#ref22"">22</a></sup><sup><a href=""#ref23"">23</a></sup><sup><a href=""#ref24"">24</a></sup> and pain intensity, measured on a 10 point visual analogue scale.<sup><a href=""#ref25"">25</a></sup><sup><a href=""#ref26"">26",0,0,0,0,N,N,N,0,0,0,0
+81,Data are available on the first 26 weeks of sick leave.,0,0,0,0,N,N,N,0,0,0,0
+82,"The first assessment of workers took place at the first visit of the OP's office at 2–6 weeks after the first day of sick leave, with follow up assessments at 12 weeks and 26 weeks after the first day of sick leave.",0,0,0,0,N,N,N,0,0,0,0
+83,"Data on prognostic factors for duration of sick leave were gathered at baseline—that is, history of low back pain neurological signs, economical and insurance status of the company,<sup><a href=""#ref27"">27</a></sup><sup><a href=""#ref28"">28</a></sup><sup><a href=""#ref29"">29</a></sup><sup><a href=""#ref30"">30</a></sup><sup><a href=""#ref31"">31</a></sup><sup><a href=""#ref32"">32</a></sup><sup><a href=""#ref33"">33</a></sup> job content data,<sup><a href=""#ref34"">34</a></sup><sup><a href=""#ref35"">35</a></sup> workload<sup><a href=""#ref36"">36</a></sup> and co‐interventions, fear avoidance beliefs,<sup><a href=""#ref37"">37</a></sup> and kinesiophobia, which is a fear of moving caused by irrational ideas on low back pain.<sup><a href=""#ref38"">38</a></sup><sup><a href=""#ref39"">39",0,0,0,0,N,N,N,0,0,0,0
+84,See full table,0,0,0,0,N,N,N,0,0,0,0
+85,All analyses were performed at the patient level.,0,0,0,0,N,N,N,0,0,0,0
+86,"To check whether multilevel analysis on the OP level was required, independency of observations within and among OPs was determined by calculation of intraclass correlation coefficients.",0,0,0,0,N,N,N,0,0,0,0
+87,"To examine the success of randomisation, descriptive statistics were used to compare baseline characteristics.",0,0,0,1,N,N,N,0,0,0,0
+88,All covariates were forced into the multivariable models to adjust for prognostic dissimilarities.,0,0,0,0,N,N,N,0,0,0,0
+89,Cox regression analysis was used to analyse differences in time to RTW between the graded activity and usual care group.,0,0,0,0,N,N,N,0,0,0,0
+90,A time dependent covariate was used to adjust for the fact that randomisation took place eight weeks after first day of sick leave.,0,0,0,0,N,N,N,0,0,0,0
+91,A Kaplan‐Meier curve was plotted to describe survival in both groups.,0,0,0,0,N,N,N,0,0,0,0
+92,Analysis of covariance was used to examine differences in improvement in secondary outcomes.,0,0,0,0,N,N,N,0,0,0,0
+93,The baseline values of the particular outcome variable were added to the model to adjust for possible regression to the mean.,0,0,0,0,N,N,N,0,0,0,0
+94,"The coefficients of the analysis of covariance were estimated with random coefficient analysis<sup><a href=""#ref40"">40</a></sup> separately at 12 and 26 weeks as there was an interaction effect between intervention and time.",0,0,0,0,N,N,N,0,0,0,0
+95,See full table,0,0,0,0,N,N,N,0,0,0,0
+96,"The analyses of primary and secondary outcomes were adjusted for gender and the effect of an earlier component of the back pain management programme—that is, the workplace intervention.",1,0,0,0,N,N,N,0,0,0,0
+97,All statistical analyses were performed according to the intention‐to‐treat principle.,0,0,0,0,N,N,N,0,0,0,0
+98,Stratified analyses were performed for groups that did and did not receive the earlier workplace intervention.,0,0,0,0,N,N,N,0,0,0,0
+99,"In addition, per protocol analyses were performed, excluding all workers who were not treated according to protocol.",0,0,0,0,N,N,N,0,0,0,0
+100,Values of p&lt;0.05 were considered statistically significant.,0,0,0,0,N,N,N,0,0,0,0
+101,Mann‐Whitney U tests were used to analyse differences in total days on sick leave due to low back pain during follow up because of the skewed distribution of this outcome.,0,0,0,0,N,N,N,0,0,0,0
+102,"All analyses were performed with SPSS (version 11), except intraclass correlation coefficients for the OP level, which were calculated using STATA (version 7), and the covariance analyses which were performed with MLWin (version 1.10).",0,0,0,0,N,N,N,0,0,0,0
+103,The occupational physicians referred 243 workers to the study from October 2000 to October 2002.,0,0,0,0,N,N,N,0,0,0,0
+104,Forty seven workers did not meet the inclusion criteria.,0,0,0,1,N,N,N,0,0,0,0
+105,"Eighty four had recovered before eight weeks, leaving 112 workers to be randomised: 55 to graded activity and 57 to usual care.",0,0,0,0,N,N,N,0,0,0,0
+106,The characteristics of workers in both groups are presented in table 1.,0,0,0,0,N,N,N,0,0,0,0
+107,Workers from industry were craftsmen and production employees.,0,0,0,0,N,N,N,0,0,0,0
+108,Intraclass correlation coefficients among and within OPs were estimated as &lt;0.01 so all regression analyses were performed on the workers level.,0,0,0,0,N,N,N,0,0,0,0
+109,The interaction between the workplace intervention and the graded activity intervention was not statistically significant (p = 0.40).,0,0,0,0,N,N,N,0,0,0,0
+110,Therefore adjusting for the effect of the workplace intervention seems appropriate before stratifying in our analyses.,0,0,0,0,N,N,N,0,0,0,0
+111,See full table,0,0,0,0,N,N,N,0,0,0,0
+112,The median time until lasting return to own or equal work in calendar days as calculated in the Kaplan‐Meier survival calculation (see fig 3) differed significantly (p&lt;0.01) between the graded activity group (139 days (IQR = 69)) and the usual care group (111 days (IQR = 76)) in favour of the usual care group.,0,0,0,0,N,N,N,0,0,0,0
+113,"As there were no recurrences, for the median number of total days on sick leave due to low back pain in the 26 weeks we found similar numbers (139 and 111, p = 0.03).",0,0,0,0,N,N,N,0,0,0,0
+114,"Cox regression analysis adjusting for time of randomisation, the effect of the workplace intervention, and gender resulted in a hazard ratio of 0.52 (95% CI 0.32 to 0.86, p = 0.01), which is in favour of the usual care group (see table 2).",0,0,0,0,N,N,N,0,0,0,0
+115,Other confounding factors did not alter the results.,0,0,0,0,N,N,N,0,0,0,0
+116,In studying the process of referring workers to graded activity a substantial time lag was found between randomisation and start of the graded activity intervention.,0,0,0,0,N,N,N,1,1,0,0
+117,We gathered information on the actual start of therapy from the physiotherapists' files.,0,0,0,0,N,N,N,0,0,0,0
+118,"Median delay was 13 days (IQR = 0–28), mean delay was 19.27 (SD 21.16).",0,0,0,0,N,N,N,0,0,0,0
+119,"Repeating the earlier Cox regression analysis while taking this delay into account the hazard ratio was 0.66 (95% CI 0.40 to 1.10, p = 0.11).",0,0,0,0,N,N,N,0,0,0,0
+120,"Again, other confounding factors did not alter results.",0,0,0,0,N,N,N,0,0,0,0
+121,We stratified our population into subgroups that did and did not receive the workplace intervention in the first eight weeks.,0,0,0,0,N,N,N,0,0,0,0
+122,The workers in both strata did not differ in baseline characteristics except for gender.,0,0,0,1,N,N,N,0,0,0,0
+123,Fifty three workers received the workplace intervention (see fig 2).,0,0,0,0,N,N,N,0,0,0,0
+124,"Cox regression analysis adjusting for time of randomisation, the effect of the workplace intervention, gender, and the delay in referral resulted in a hazard ratio for this stratum of 0.39 (95% CI 0.19 to 0.81, p = 0.01), in favour of the usual care group (see table 2).",0,0,0,0,N,N,N,0,0,0,0
+125,Fifty nine workers did not receive the workplace intervention (see fig 2).,0,0,0,0,N,N,N,0,0,0,0
+126,"Repeating the earlier Cox regression analysis for this stratum resulted in a hazard ratio of 0.86 (95% CI 0.40 to 1.84, p = 0.69).",0,0,0,0,N,N,N,0,0,0,0
+127,The p value for the interaction between both interventions was 0.27.,0,0,0,0,N,N,N,0,0,0,0
+128,"Nineteen workers were not compliant to the protocol (for reasons, see fig 2) leaving 36 workers in the graded activity group for this analysis.",0,0,0,0,N,N,N,0,0,0,0
+129,Four workers had returned to work within eight weeks after first day of sick leave and were falsely randomised by the occupational physician leaving 53 workers in the usual care group for this analysis.,0,0,0,0,N,N,N,0,0,0,0
+130,Workers in both groups differed neither in baseline characteristics nor from the workers in the intention to treat analysis.,0,0,0,1,N,N,N,0,0,0,0
+131,The unadjusted median time until lasting return to own or equal work was 114 (IQR = 77) calendar days for the usual care group and 143.5 (IQR = 61) calendar days for the graded activity group.,0,0,0,0,N,N,N,0,0,0,0
+132,"The hazard ratio for lasting RTW, adjusting for time of randomisation, the effect of the workplace intervention, and gender was 0.57 (95% CI 0.33 to 0.98, p = 0.04), again in favour of the usual care group.",0,0,0,0,N,N,N,0,0,0,0
+133,"The hazard ratio, adjusting for time of randomisation, delay in start of therapy, the effect of the workplace intervention, and gender was 0.68 (95% CI 0.38 to 1.20, p = 0.18).",0,0,1,0,N,N,N,0,0,0,0
+134,We again stratified our sample into subgroups that had and had not received the workplace intervention in the first eight weeks.,0,0,0,0,N,N,N,0,0,0,0
+135,"Workers in both strata did not differ in baseline characteristics, except for gender.",0,0,0,1,N,N,N,0,0,0,0
+136,The p value for the interaction between both interventions was 0.12.,0,0,0,0,N,N,N,0,0,0,0
+137,Forty four workers had received the first intervention.,0,0,0,0,N,N,N,0,0,0,0
+138,"The hazard ratio for this stratum, adjusting for time of randomisation, delay in start of therapy, and gender, was 0.32 (95% CI 0.14 to 0.71, p = 0.005) in favour of usual care.",0,0,1,0,N,N,N,0,0,0,0
+139,Forty five workers had not received the first intervention.,0,0,0,0,N,N,N,0,0,0,0
+140,"The hazard ratio for this stratum, adjusting for gender and start of therapy, was 1.02 (95% CI 0.44 to 2.38, p = 0.97) (see table 2).",0,0,0,0,N,N,N,0,0,0,0
+141,"The effect is the regression coefficient derived from random coefficient analysis which can be interpreted as the difference in adjusted improvement between the groups from baseline to 12 and 26 weeks, respectively.",0,0,0,0,N,N,N,0,0,0,0
+142,"The effects reported in table 3 are the regression coefficients derived from random coefficient analysis adjusted for the OP level, baseline value of the outcome measure, gender, and the workplace intervention.",0,0,0,0,N,N,N,0,0,0,0
+143,They can be interpreted as the differences in improvement between graded activity and usual care at both moments in time.,0,0,0,0,N,N,N,0,0,0,0
+144,Both treatment groups improved on all variables over time.,0,0,0,0,N,N,N,0,0,0,0
+145,The differences in pain between the groups at 26 weeks were statistically significant and in favour of usual care.,0,0,0,0,N,N,N,0,0,0,0
+146,Visits to a physiotherapist were comparable between all groups (see table 4).,0,0,0,0,N,N,N,0,0,0,0
+147,The graded activity intervention took three sessions more on average then interventions by physiotherapists in usual care.,0,0,0,0,N,N,N,0,0,0,0
+148,Costs of the graded activity intervention were €942.,0,0,0,0,N,N,N,0,0,0,0
+149,"A visit to a physiotherapist is €21.23 per visit.<sup><a href=""#ref41"">41",0,0,0,0,N,N,N,0,0,0,0
+150,The objective of this paper was to answer the question of whether graded activity can be effective as part of a multistage RTW back pain management programme.,1,0,0,0,N,N,N,0,0,0,0
+151,"None of our results shows that graded activity improved RTW (see table 2), for either functional status or for pain in the first 26 weeks after the first day of sick leave.",0,0,0,0,N,N,N,0,0,0,0
+152,In our study graded activity actually delayed RTW.,0,0,0,0,N,N,N,0,0,0,0
+153,A delay in the referral process may provide an explanation for these negative results.,0,0,0,0,N,N,N,0,0,0,0
+154,"However, even after adjustment for the delay in referral there is no positive effect from graded activity on RTW.",0,0,0,0,N,N,N,0,0,0,0
+155,"Stratifying results for the workplace intervention gives another explanation—that is, combining interventions led to a delay in RTW whereas the graded activity intervention without the workplace intervention had no effect on RTW.",0,0,0,0,N,N,N,0,0,0,0
+156,These findings are underpinned by the results from the per protocol analyses (see table 2).,0,0,0,0,N,N,N,0,0,0,0
+157,A total of 112 workers were randomised for graded activity.,0,0,0,0,N,N,N,0,0,0,0
+158,All of these workers were included in the intention to treat analysis.,0,0,0,0,N,N,N,0,0,0,0
+159,"When sick leave data were gathered, four workers seem to have officially returned to work before the official randomisation date.",0,0,0,0,N,N,N,0,0,0,0
+160,"However, after omitting these workers from the analysis we found out that results remained unchanged, which is because of the use of a time dependent covariate.",0,0,0,0,N,N,N,0,0,0,0
+161,The time dependent covariate models a possible effect of the intervention starting at the intended time of randomisation and not at the start of follow up.,0,0,0,0,N,N,N,0,0,0,0
+162,Follow up in this study started earlier than time of the second randomisation.,0,0,0,0,N,N,N,0,0,0,0
+163,Only 65% of workers randomised to the graded activity intervention complied with the protocol.,0,0,0,0,N,N,N,0,0,0,0
+164,This was probably caused by the fact that most workers at the inception point did not consider the consequences of randomisation to the graded activity programme at eight weeks of sick leave.,1,0,0,0,N,N,N,0,0,0,0
+165,"Therefore, low compliance may be a sign for low motivation in these subjects, who were probably drawn into the study by the first intervention.",0,0,0,0,N,N,N,0,0,0,0
+166,"However, the per protocol analysis did not show a beneficial effect for graded activity intervention on RTW after 26 weeks either (see table 2).",0,0,0,0,N,N,N,0,0,0,0
+167,"Low compliance however implies low acceptance of the intervention by workers in daily practice, which should be considered by OPs when advising workers on possible treatments.",0,0,0,0,N,N,N,0,0,0,0
+168,"Total days of sick leave from low back pain in the first 26 weeks equalled the number of days on sick leave until lasting RTW, as no recurrences of sick leave from low back pain occurred in either group.",0,0,0,0,N,N,N,0,0,0,0
+169,"We did not find a statistically significant interaction between the interventions in our intention to treat analysis (p = 0.40), but the interaction increased (p = 0.12) in the per protocol analysis suggesting an interactive effect.",0,0,0,0,N,N,N,0,0,0,0
+170,"If this interaction were the main point of interest in this study, the sample size should have been roughly four times the sample size we calculated for detecting the main effect.<sup><a href=""#ref42"">42</a></sup> Our results indicate that the OP should not refer a worker to both interventions.",0,0,0,0,N,N,N,0,0,0,0
+171,"This is not in line with the additive effect of the clinical intervention found in the study by Loisel <span class=""italic"">et al</span>.<sup><a href=""#ref7"">7",0,0,0,0,N,N,N,0,0,0,0
+172,"In implementing graded activity, special attention should be paid to the structure and process of care, because graded activity seemed effective in RTW for workers on sick leave for eight weeks<sup><a href=""#ref12"">12</a></sup> or less.<sup><a href=""#ref14"">14</a></sup> However the studies by Lindström <span class=""italic"">et al</span><sup><a href=""#ref12"">12</a></sup> and Staal <span class=""italic"">et al</span><sup><a href=""#ref14"">14</a></sup> were performed in specialised in‐company physiotherapy clinics by a limited number of PTs.",0,0,0,0,N,N,N,0,0,0,0
+173,"In our study workers were referred to 16 in‐company and out‐company physiotherapy clinics, with 47 physiotherapists who had received additional training.",0,0,0,0,N,N,N,0,0,0,0
+174,"In addition, referral in our study was done according to daily practice by the OP after notification by the researchers, instead of by the researchers in the previous studies.<sup><a href=""#ref12"">12</a></sup><sup><a href=""#ref14"">14</a></sup> Consequently, in order to have graded activity reach its potential in daily practice, referral to a physiotherapy clinic must be improved, because a delay in referral delays RTW.",0,0,0,0,N,N,N,0,0,0,0
+175,"There are two characteristics in which our study differs from the previous studies: the number of blue‐collar workers and the number of men, which were both considerably lower in our study.",0,0,0,0,N,N,N,0,0,0,0
+176,Graded activity prolongs return to work when referral is delayed or graded activity is combined with an other intervention.,0,0,0,0,N,N,N,0,0,0,0
+177,Referral to interventions should be done with great care.,0,0,0,0,N,N,N,0,0,0,0
+178,Doing more for a worker on sick leave does not necessarily mean improvement of return to work.,0,0,0,0,N,N,N,0,0,1,1
+179,"In implementing graded activity, special care should be paid to the structure and process of care because of the potential for introducing delays in return to work if the care process is not streamlined.",0,0,0,0,N,N,N,0,0,0,0
+180,We did not monitor content of usual care interventions.,0,0,0,0,N,N,N,0,0,0,0
+181,"The Society for Dutch Physiotherapists (KNGF) promotes giving adequate information and advice for (sub)acute low back pain.<sup><a href=""#ref43"">43</a></sup> However, these interventions were not initiated by the OP, therefore receiving therapy and work was not linked as strongly.",0,0,0,0,N,N,N,0,0,0,0
+182,This link between work and therapy might be considered as a justification for work absenteeism in the short term.,0,0,0,0,N,N,N,0,0,0,0
+183,"Considering these points, our study should be characterised as an effectiveness trial, whereas the two previous studies were efficacy trials.",0,0,0,0,N,N,N,0,0,0,0
+184,A cost effectiveness analysis will be the subject of further analyses.,0,0,0,0,N,N,N,0,0,0,0
+185,"Considering the price of the intervention, the estimated prices by usual care physiotherapists, and the negative results from this study, graded activity following an earlier intervention does not seem to be a cost effective option for treatment for workers on sick leave for more then eight weeks.",0,0,0,0,N,N,N,0,0,0,0
+186,"A longer follow up might give a more definite answer on the effectiveness of graded activity as suggested by the study by Staal <span class=""italic"">et al</span>.<sup><a href=""#ref14"">14</a></sup> They found an effect of graded activity starting at approximately 15.6 weeks after first day of sick leave suggesting no effect in the short term but a positive effect in the long term.",0,0,0,0,N,N,N,0,0,0,0

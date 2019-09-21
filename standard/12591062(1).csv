@@ -1,0 +1,218 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"Normalization of Lactulose Breath Testing Correlates With Symptom Improvement in Irritable Bowel Syndrome: A Double-Blind, Randomized, Placebo-Controlled Study",0,0,0,0,0,N,N,N,N,N,N
+1,OBJECTIVE: We have recently found an association between abnormal lactulose breath test (LBT) findings and irritable bowel syndrome (IBS).,0,0,0,0,0,N,N,N,N,N,N
+2,The current study was designed to test the effect of antibiotic treatment for IBS in a doubleblind fashion.,0,0,0,0,0,N,N,N,N,N,N
+3,METHODS: Consecutive IBS subjects underwent an LBT with the results blinded.,0,0,0,0,0,N,N,N,N,N,N
+4,All subjects were subsequently randomized into two treatment groups (neomycin or placebo).,0,0,0,0,0,N,N,N,N,N,N
+5,The prevalence of abnormal LBT was compared with a gender-matched control group.,0,0,0,0,0,N,N,N,N,N,N
+6,"Seven days after completion of treatment, subjects returned for repeat LBT.",0,0,0,0,0,N,N,N,N,N,N
+7,A symptom questionnaire was administered on both days.,0,0,0,0,0,N,N,N,N,N,N
+8,"RESULTS: After exclusion criteria were met, 111 IBS subjects (55 neomycin, 56 placebo) entered the study, with 84% having an abnormal LBT, compared with 20% in healthy controls (p  0.01).",0,0,0,0,0,N,N,N,N,N,N
+9,"In an intention-to-treat analysis of all 111 subjects, neomycin resulted in a 35.0% improvement in a composite score, compared with 11.4% for placebo (p  0.05).",0,0,0,0,0,N,N,N,N,N,N
+10,"Additionally, patients reported a percent bowel normalization of 35.3% after neomycin, compared with 13.9% for placebo (p  0.001).",0,0,0,0,0,N,N,N,N,N,N
+11,"There was a graded response to treatment, such that the best outcome was observed if neomycin was successful in normalizing the LBT (75% improvement) (one-way ANOVA, p  0.0001).",0,0,0,0,0,N,N,N,N,N,N
+12,"LBT gas production was associated with IBS subgroup, such that methane excretion was 100% associated with constipationpredominant IBS.",0,0,0,0,0,N,N,N,N,N,N
+13,"Methane excretors had a mean constipation severity of 4.1, compared with 2.3 in all other subjects (p  0.001).",0,0,0,0,0,N,N,N,N,N,N
+14,CONCLUSIONS: An abnormal LBT is common in subjects with IBS.,0,0,0,0,0,N,N,N,N,N,N
+15,Normalization of LBT with neomycin leads to a significant reduction in IBS symptoms.,0,0,0,0,0,N,N,N,N,N,N
+16,The type of gas seen on LBT is also associated with IBS subgroup.,0,0,0,0,0,N,N,N,N,N,N
+17,(Am J Gastroenterol 2003;98:412– 419.,0,0,0,0,0,N,N,N,N,N,N
+18,"Irritable bowel syndrome (IBS) is a common GI disorder, seen in more than 15% of the population.",0,0,0,0,0,N,N,N,N,N,N
+19,"Despite this high prevalence and much research interest, the cause of IBS remains unknown.",0,0,0,0,0,N,N,N,N,N,N
+20,"Over the last few years, progress has been made in characterizing IBS.",0,0,0,0,0,N,N,N,N,N,N
+21,"Studies have demonstrated altered gut motility , peripheral and central sensory dysfunction, as well as an exaggerated response to stress in this syndrome.",0,0,0,0,0,N,N,N,N,N,N
+22,"However, there is no finding that can be identified in a majority of patients, and by extension there is no diagnostic test that is associated with IBS.",0,0,0,0,0,N,N,N,N,N,N
+23,"As a result, investigators have created complex diagnostic schema, such as the Rome criteria, to help diagnose and categorize the syndrome.",0,0,0,0,0,N,N,N,N,N,N
+24,"One consistent clinical finding in IBS is gas in combination with bloating and visible distention (9, 10).",0,0,0,0,0,N,N,N,N,N,N
+25,"recently found small intestinal gas to be significantly increased in IBS patients compared with control subjects (11), regardless of whether subjects conform to diarrhea, constipation, or pain subgroups.",0,0,0,0,0,N,N,N,N,N,N
+26,Excessive small intestinal gas can occur as a result of increased production of gas within the gut by bacterial fermentation.,0,0,0,0,0,N,N,N,N,N,N
+27,A condition known to produce excessive small bowel gas is small intestinal bacterial overgrowth (SIBO).,0,0,0,0,0,N,N,N,N,N,N
+28,"We recently reported that 78% of subjects with IBS have a positive lactulose breath test (LBT), suggesting the presence of SIBO (12).",0,0,0,0,0,N,N,N,N,N,N
+29,"Although provocative, this study had some intrinsic design issues, and the data do not account for how an abnormal breath test might produce the diarrhea and constipation in IBS.",0,0,0,0,0,N,N,N,N,N,N
+30,Recent data suggest that children with encopresis have excessive breath methane on LBT (13).,0,0,0,0,0,N,N,N,N,N,N
+31,This finding has not been extended to adults with constipation-predominant IBS.,0,0,0,0,0,N,N,N,N,N,N
+32,"In this double-blind, randomized, placebo-controlled study, we test whether an abnormal LBT is more prevalent in IBS subjects than in normal control subjects, whether antibiotic treatment in IBS leads to an improvement in symptoms, and whether this is based on antibiotic-induced normalization of breath test.",0,0,0,0,0,N,N,N,N,N,N
+33,"Secondly, LBT profiles are evaluated to determine if gaseous constituents vary between IBS subgroups.",0,0,0,0,0,N,N,N,N,N,N
+34,"Study subjects were recruited by advertisements in local newspapers, radio, and IBS support groups throughout the greater Los Angeles area.",0,0,0,0,0,N,N,N,N,N,N
+35,"To avoid referral bias, subjects were not recruited through the GI motility clinic or any gastroenterology practice based at Cedars-Sinai Medical Center.",0,0,0,0,0,N,N,N,N,N,N
+36,Subjects were included if they met Rome I criteria for IBS.,1,0,0,0,0,N,N,N,N,N,N
+37,"Rome I was chosen because it does not prejudice between diarrhea and constipation, and no peer-reviewed publications were available to validate Rome II as a diagnostic strategy.",1,0,0,0,0,N,N,N,N,N,N
+38,"Subjects were excluded if they had taken antibiotics within the previous 3 months, had a previous lactulose breath test (LBT), or a history of diabetes, thyroid disease, intestinal surgery (except cholecystectomy or appendectomy), connective tissue disease, narcotic use, or known GI disease.",1,0,0,0,0,N,N,N,N,N,N
+39,"Subjects with renal insufficiency, hearing impairment, probiotic use, or allergy to aminoglycosides were also excluded.",0,0,0,0,0,N,N,N,N,N,N
+40,"Approval from the institutional review board and written, informed consent from the participating subjects were obtained.",0,0,0,0,0,N,N,N,N,N,N
+41,"In an initial comparison, 15 gender-matched normal controls were identified based on the absence of all Rome I criteria.",0,0,0,0,0,N,N,N,N,N,N
+42,"These subjects underwent lactulose breath testing, and the prevalence of abnormal breath test was compared with subjects with IBS.",0,0,0,0,0,N,N,N,N,N,N
+43,Subjects presented to the GI Motility Laboratory having fasted from 7:00 PM the night before.,0,0,0,0,0,N,N,N,N,N,N
+44,They were instructed not to ingest legumes or a heavy meal for dinner the night before evaluation.,0,0,0,0,0,N,N,N,N,N,N
+45,"Good oral hygiene was recommended, and smoking was not permitted on the day of testing.",0,0,0,0,0,N,N,N,N,N,N
+46,"Before the LBT, subjects completed a symptom questionnaire asking them to grade nine IBS symptoms (abdominal pain, diarrhea, constipation, bloating, sense of incomplete evacuation, straining, urgency, mucus, and gas) on a severity score of 0–5, as has been previously used and recommended .",0,0,0,0,0,N,N,N,N,N,N
+47,All questions were answered based on subjects’ recall of the preceding 7 days.,0,0,0,0,0,N,N,N,N,N,N
+48,"Subjects then underwent an LBT by ingesting 10 g of lactulose (Inalco, Milano, Italy; packaged by Xactdose, South Beloit, IL) followed by 1–2 ounces of water after an initial baseline breath sample.",0,0,0,0,0,N,N,N,N,N,N
+49,Breath samples were then collected at 15-min intervals for 180 min.,0,0,0,0,0,N,N,N,N,N,N
+50,End expiratory breath samples were taken to ensure alveolar gas sampling.,0,0,0,0,0,N,N,N,N,N,N
+51,"This was achieved via a 750-ml gas collection bag (Quintron Instrument, Milwaukee, WI).",0,0,0,0,0,N,N,N,N,N,N
+52,"Samples were analyzed for hydrogen, methane, and carbon dioxide using a Model SC, Quintron gas chromatograph (Quintron Instrument).",0,0,0,0,0,N,N,N,N,N,N
+53,Carbondioxide measurements were used to correct for the quality of alveolar sampling.,0,0,0,0,0,N,N,N,N,N,N
+54,Measurements were plotted graphically as previously described.,0,0,0,0,0,N,N,N,N,N,N
+55,Patients and investigators were blinded to the result of the breath test.,0,0,0,0,1,N,N,N,N,N,N
+56,"All subjects were randomized by personnel not associated with the study to receive, in a double-blind fashion, either neomycin (500 mg) (Teva Pharmaceuticals USA, Sellersville, PA) or matching placebo b.i.d.",0,1,0,0,0,N,N,N,N,N,N
+57,"Seven days after completion of the antibiotic or placebo, subjects returned for a repeat questionnaire and LBT.",0,0,0,0,0,N,N,N,N,N,N
+58,A 7-day follow- up was chosen because in our experience the abnormal breath test in IBS can recur as early as 2 wk after antibiotic normalization.,0,0,0,0,0,N,N,N,N,N,N
+59,"As part of the follow-up questionnaire, subjects were asked to subjectively rate the amount of improvement they experienced as a percent normalization of bowel function, and they again rated the perceived severity of the nine bowel symptoms described earlier.",0,0,0,0,0,N,N,N,N,N,N
+60,Compliance was assessed by pill count.,0,0,0,0,0,N,N,N,N,N,N
+61,"To comply with institutional review board requirements, follow-up LBT results could not be blinded, so patients could seek appropriate medical therapy for their test result.",0,0,0,0,0,N,N,N,N,N,N
+62,"At the completion of enrollment, all initial and follow-up breath tests were coded and randomized by personnel not involved in the interpretation of the test.",0,0,1,0,0,N,N,N,N,N,N
+63,interpreted the results and was asked to categorize the breath tests based on whether the test met the criteria for normal LBT.,0,0,0,0,0,N,N,N,N,N,N
+64,"A normal LBT was defined as no rise of breath hydrogen (H2) or methane (CH4) concentration before 90 min of lactulose, with a definitive rise never more than 20 ppm during 180 min of measurement.",0,0,0,0,0,N,N,N,N,N,N
+65,Studies that fell out of this range were categorized as abnormal.,0,0,0,0,0,N,N,N,N,N,N
+66,"A second set of criteria for breath test interpretation was also used, whereby the traditional two peaks to suggest bacterial overgrowth were required.",0,0,0,0,0,N,N,N,N,N,N
+67,"Because the two peak method was not as well validated a technique as the ppm method, this finding was only used to compare the prevalence of this finding with healthy controls.",0,0,0,0,0,N,N,N,N,N,N
+68,Data were analyzed using an intention-to-treat method.,0,0,0,0,0,N,N,N,N,N,N
+69,"The primary outcome measure was based on a composite score (CS) calculated from the three main IBS symptoms (abdominal pain, diarrhea, and constipation, each on a scale of 0–5) to generate a score out of 15 (most severe).",0,0,0,0,0,N,N,N,N,N,N
+70,This was done to account for the severity of all potential IBS subgroups.,0,0,0,0,0,N,N,N,N,N,N
+71,"Because other IBS symptoms (such as straining) would worsen or improve depending on whether patients started with diarrhea or constipation, respectively, minor criteria were not included in the CS.",0,0,0,0,0,N,N,N,N,N,N
+72,"In addition, because reduction in colonic organisms could result in an improvement in gas and bloating, irrespective of bacterial overgrowth, gaseous symptoms too were excluded from the score.",0,0,0,0,0,N,N,N,N,N,N
+73,The percent improvement in the CS was then compared between placebo and neomycin.,0,0,0,0,0,N,N,N,N,N,N
+74,"In addition, the overall percent bowel normalization as determined by patient reporting was likewise compared.",0,0,0,0,0,N,N,N,N,N,N
+75,The prevalence of a true clinical response was then determined and compared between placebo and neomycin.,0,0,0,0,0,N,N,N,N,N,N
+76,A true clinical response was defined as a 50% reduction in CS.,0,0,0,0,0,N,N,N,N,N,N
+77,"Secondarily, a true clinical response was also assessed based on subjects reporting their overall percent bowel normalization.",0,0,0,0,0,N,N,N,N,N,N
+78,A 50% normalization implied a true clinical response.,0,0,0,0,0,N,N,N,N,N,N
+79,This method of analysis closely followed the multinational consensus recommended guidelines for data analysis in IBS clinical studies.,0,0,0,0,0,N,N,N,N,N,N
+80,Secondary endpoints included a similar analysis of gender subgroups.,0,0,0,0,0,N,N,N,N,N,N
+81,"Subsequently, IBS subgroups were identified, whereby diarrhea-predominant IBS was deemed present when diarrhea severity (0–5 scale) was greater than constipation in any individual subject.",0,0,0,0,0,N,N,N,N,N,N
+82,The opposite proportion determined constipation predominance.,0,0,0,0,0,N,N,N,N,N,N
+83,This means of identifying diarrhea- and constipation-predominant subgroups was chosen because criteria for these subgroups are not validated and are based subjectively on physician interview .,0,0,0,0,0,N,N,N,N,N,N
+84,This approach further reduced bias because subjects would not be aware of the interest in subgrouping their predominant feature.,0,0,0,0,0,N,N,N,N,N,N
+85,A post hoc analysis was then conducted on all abnormal breath test results to determine if the type of gas produced on LBT was related to IBS subgroup.,0,0,0,0,0,N,N,N,N,N,N
+86,The abnormal breath tests were divided into two abnormal test groups: hydrogen production only and any methane production.,0,0,0,0,0,N,N,N,N,N,N
+87,The relationship between constipation-predominant IBS and diarrheapredominant IBS to the type of gas seen was determined.,0,0,0,0,0,N,N,N,N,N,N
+88,"Subsequently, in a more objective fashion, the severity score for diarrhea and constipation were then compared between gas types.",0,0,0,0,0,N,N,N,N,N,N
+89,"Finally, a score based on the difference between constipation and diarrhea severity (C-D) was determined.",0,0,0,0,0,N,N,N,N,N,N
+90,The C-D score was used to examine the relative weight of constipation to diarrhea in individual subjects (the more positive the score the greater was the dominance of constipation compared with diarrhea).,0,0,0,0,0,N,N,N,N,N,N
+91,Subjects with identical score for constipation and diarrhea severity were excluded from these analyses.,0,0,0,0,0,N,N,N,N,N,N
+92,This C-D score was also compared between gas types.,0,0,0,0,0,N,N,N,N,N,N
+93,"Finally, to support the principal that the abnormal test in IBS was not due to rapid transit, the mean breath test profile in constipation- and diarrhea-predominant IBS was compared.",0,0,0,0,0,N,N,N,N,N,N
+94,"Because it is suggested in the literature that diarrheapredominant IBS is associated with rapid transit and constipation predominant IBS with slow transit, the hydrogen profile should be different in both groups.",0,0,0,0,0,N,N,N,N,N,N
+95,The number of subjects enrolled in the study was determined based on the detection of a 10% difference between placebo and neomycin.,0,0,0,0,0,N,N,N,N,N,N
+96,This further assumed a 15% variance and an   0.05 with power of 90% in a two-sided analysis.,0,0,0,0,0,N,N,N,N,N,N
+97,"Quantitative data were compared using the Student’s t test, with results expressed as mean  SE.",0,0,0,0,0,N,N,N,N,N,N
+98,Comparisons of qualitative data used the Fisher exact test for comparison ofIBS subjects with healthy controls.,0,0,0,0,0,N,N,N,N,N,N
+99,All other qualitative data comparisons used the 2 test.,0,0,0,0,0,N,N,N,N,N,N
+100,"A one-way analysis of variance (ANOVA) was used to compare the results of the three groups: placebo-treated, neomycin with unsuccessful normalization of LBT, and neomycin-treated with successful normalization of LBT.",0,0,0,0,0,N,N,N,N,N,N
+101,Subject Demographics A total of 231 subjects were screened (Fig.,0,0,0,0,0,N,N,N,N,N,N
+102,"Of these, 111 met enrollment criteria.",0,0,0,0,0,N,N,N,N,N,N
+103,"However, 10 of these 111 subjects had incomplete data (six in neomycin group and four in placebo group).",0,0,0,0,0,N,N,N,N,N,N
+104,"The specific reasons for incomplete data were voluntary premature withdrawal (n  3), no follow-up breath test (n  4), failure to return for follow-up (n  1), no follow-up questionnaire (n  1), and premature withdrawal by subject due to severe diarrhea (n  1).",0,0,0,0,0,N,N,N,N,N,N
+105,"Despite the incomplete data, these subjects were included in the intention- to-treat analyses and counted as no (0%) improvement.",0,0,0,0,0,N,N,N,N,N,N
+106,The baseline characteristics were similar for the neomycin and placebo groups (Table 1).,0,0,0,1,0,N,N,N,N,N,N
+107,Comparison of Demographics Between Placebo and Neomycin Groups,0,0,0,0,0,N,N,N,N,N,N
+108,"Case-Control Comparison IBS subjects had a higher prevalence of abnormal LBT than gender-matched controls, with 93 of 111 (84%) subjects fulfilling these criteria, compared with three of 15 (20%) gender-matched controls (OR  26.2, CI  4.7–103.9, p  0.00001).",0,0,0,0,0,N,N,N,N,N,N
+109,"When comparing the prevalence of abnormal LBT with double peak, 55 of 111 IBS subjects (50%) were positive, compared with two of 15 healthy controls (13%) (p  0.01).",0,0,0,0,0,N,N,N,N,N,N
+110,"In the intention-to-treat analysis, neomycin resulted in a 35.0  5.0% reduction in CS, compared with a 11.4  9.3% reduction in the placebo group (p  0.05).",0,0,0,0,0,N,N,N,N,N,N
+111,"In the subgroup of patients with abnormal baseline LBT (n  93), neomycin produced a 35.4  5.6% reduction in CS, compared with a 3.7  10.6% reduction in the placebo group (p  0.01).",0,0,0,0,0,N,N,N,N,N,N
+112,"No difference was seen in subjects with a normal baseline breath test, although a higher placebo rate was reported in this very small group (51%).",0,0,0,0,0,N,N,N,N,N,N
+113,"Of the 111 subjects, 91 completed their percent bowel normalization question after treatment.",0,0,0,0,0,N,N,N,N,N,N
+114,"Of these 91 subjects, neomycin resulted in a 40.1  5.3% reported bowel normalization, compared with 15.1  3.6% for placebo (p  0.001).",0,0,0,0,0,N,N,N,N,N,N
+115,"Among the subgroup of subjects with abnormal initial breath tests, neomycin resulted in a 44.8  5.6% normalization, compared with 11.0  3.3% for placebo (p  0.00001).",0,0,0,0,0,N,N,N,N,N,N
+116,Neomycin was more likely to result in a true clinical response than placebo.,0,0,0,0,0,N,N,N,N,N,N
+117,"Among all subjects receiving neomycin, 24 of 55 (43%) experienced a 50% improvement in CS, compared with 13 of 56 (23%) in the placebo group (OR  4.3, CI  1.05–6.3, p  0.05).",0,0,0,0,0,N,N,N,N,N,N
+118,"In the subgroup of subjects with abnormal breath tests, 21 of 46 (46%) receiving neomycin had a clinical response, compared with seven of 47 (15%) in the placebo group (OR  4.8, CI  1.62– 14.7, p  0.01).",0,0,0,0,0,N,N,N,N,N,N
+119,"Using patients’ subjective report of percent bowel normalization, in the whole group of subjects who answered this question (n  91), 50% of subjects receiving neomycin had a true clinical response, in contrast to 17% of subjects getting placebo (OR  4.8, CI  1.7–14.4, p  0.01).",0,0,0,0,0,N,N,N,N,N,N
+120,"In those with abnormal initial breath test, 55% of neomycin- and 11% of placebo-treated subjects had a true clinical response (OR  9.6, CI  2.5–39.7, p  0.0001).",0,0,0,0,0,N,N,N,N,N,N
+121,"Finally, seven of the eight subjects (88%) who had a normal follow-up LBT after neomycin reported more than 50% normalization of bowel function.",0,0,0,0,0,N,N,N,N,N,N
+122,"Of the 111 subjects, only the 101 subjects with complete data were used in the remainder of the analyses.",0,0,0,0,0,N,N,N,N,N,N
+123,"Of 84 out of 101 subjects with an abnormal baseline LBT, 41 were treated with neomycin.",0,0,0,0,0,N,N,N,N,N,N
+124,"Of those 41, eight (20%) achieved normalization of LBT.",0,0,0,0,0,N,N,N,N,N,N
+125,One of 43 subjects in the placebo group went from an abnormal breath test to normal.,0,0,0,0,0,N,N,N,N,N,N
+126,"A significant difference in symptom response was seen, depending on the outcome of treatment in these abnormal subjects.",0,0,0,0,0,N,N,N,N,N,N
+127,"Specifically, the percent reduction in CS was different in the following three groups: subjects receiving placebo (4.1  11.7%), neomycin-treated group that did not achieve LBT normalization (34.4  6.2%), and neomycintreated group with LBT normalization (61.7  9.4%) (p  0.01, one-way ANOVA) (Fig.",0,0,0,0,0,N,N,N,N,N,N
+128,"Using patients’ self-report of percent bowel normalization, the three groups were more different.",0,0,0,0,0,N,N,N,N,N,N
+129,"Subjects receiving placebo reported 11.0  3.7% normalization, subjects receiving neomycin but not successful normalization of LBT, 36.7  6.1%, and those subjects with normal follow-up LBT after neomycin reported 75.0  6.4% bowel normalization (p  0.0000001, one-way ANOVA).",0,0,0,0,0,N,N,N,N,N,N
+130,Percent improvement in composite score based on treatment and success in normalizing the LBT.,0,0,0,0,0,N,N,N,N,N,N
+131,"Data  mean percent reduction in composite score; the difference in the composite score was significant (p  0.01, one-way ANOVA).",0,0,0,0,0,N,N,N,N,N,N
+132,"The difference in patient-reported improvement was also significant (p  0.000001, one-way ANOVA).",0,0,0,0,0,N,N,N,N,N,N
+133,"In the neomycin (Neo)-treated groups, the data were analyzed according to success of treatment.",0,0,0,0,0,N,N,N,N,N,N
+134,Both male and female neomycin-treated subjects were noted to have a significantly greater improvement in percent bowel normalization over those receiving placebo (Fig.,0,0,0,0,0,N,N,N,N,N,N
+135,"Furthermore, there was no difference in response rate between male and female patients.",0,0,0,0,0,N,N,N,N,N,N
+136,The type of gas produced by IBS subjects on LBT was predictive of their subtype of IBS among the 84 subjects with abnormal baseline.,0,0,0,0,0,N,N,N,N,N,N
+137,"After exclusion of subjects with no gas production (n  4) and subjects in whom constipation severity was equal to diarrhea (n  15), 34 diarrhea-predominant and 31 constipation-predominant IBS subjects were analyzed.",0,0,0,0,0,N,N,N,N,N,N
+138,"Of 31 constipation-predominant subjects, 12 (39%) excreted methane, whereas no methane excretion was seen in the 34 diarrhea-predominant subjects (OR  , CI  3.7–4.3, p  0.001, positive predictive value  100%) (Table 2).",0,0,0,0,0,N,N,N,N,N,N
+139,The severity of constipation was 4.1  0.3 in subjects with methane excretion but only 2.3  0.2 in nonmethane excretors (p  0.01) (Table 3).,0,0,0,0,0,N,N,N,N,N,N
+140,"In a similar comparison, the C-D score was 2.8  0.5 in methane excretors and 0.7  0.3 for hydrogen excretors (p  0.00001) (Table 3).",0,0,0,0,0,N,N,N,N,N,N
+141,"When the mean hydrogen breath test profile was compared between diarrhea- and constipation-predominant IBS subjects, there was no evidence that diarrhea predominance had earlier hydrogen appearance (Fig.",0,0,0,0,0,N,N,N,N,N,N
+142,"In fact, diarrhea and constipation profiles were both virtually superimposable and not different at any time point, with a mean of 20 ppm at 90 min in both groups.",0,0,0,0,0,N,N,N,N,N,N
+143,One subject developed profuse watery diarrhea while taking placebo.,0,0,0,0,0,N,N,N,N,N,N
+144,The cause of the diarrhea was later found to be food poisoning.,0,0,0,0,0,N,N,N,N,N,N
+145,Two of the enrolled subjects were found to have other diagnoses.,0,0,0,0,0,N,N,N,N,N,N
+146,The first subject had an 8-cm mass in the abdomen.,0,0,0,0,0,N,N,N,N,N,N
+147,The surgical specimen demonstrated non- Hodgkin’s lymphoma.,0,0,0,0,0,N,N,N,N,N,N
+148,This subject was in the placebo group.,0,0,0,0,0,N,N,N,N,N,N
+149,"The second subject was noted to have urinary retention, which precipitated bowel complaints.",0,0,0,0,0,N,N,N,N,N,N
+150,The second subject was in the neomycin group.,0,0,0,0,0,N,N,N,N,N,N
+151,Both these subjects had a normal initial LBT.,0,0,0,0,0,N,N,N,N,N,N
+152,Both were included as part of the intention-to-treat analysis.,0,0,0,0,0,N,N,N,N,N,N
+153,Comparison of percent reported bowel normalization between and within gender groups.,0,0,0,0,0,N,N,N,N,N,N
+154,Comparison of IBS Subgroups Based on Methane and,0,0,0,0,0,N,N,N,N,N,N
+155,Evaluation of the Severity of Constipation or Diarrhea,0,0,0,0,0,N,N,N,N,N,N
+156,"In this double-blind, randomized, placebo-controlled study, we found a higher prevalence of abnormal LBTs in IBS subjects than in controls.",0,0,0,0,0,N,N,N,N,N,N
+157,"In addition, we found that antibiotics were more effective than placebo in terms of symptom improvement.",0,0,0,0,0,N,N,N,N,N,N
+158,"Normalization of the breath test produced an even greater improvement of IBS symptoms, substantiating results from a previous study.",0,0,0,0,0,N,N,N,N,N,N
+159,"Furthermore, methane excretion on breath testing was highly associated with the constipation-predominant subgroup of IBS.",0,0,0,0,0,N,N,N,N,N,N
+160,These findings continue to support an association between abnormal LBT and IBS.,0,0,0,0,0,N,N,N,N,N,N
+161,The main question regarding the LBT findings in IBS is its meaning.,0,0,0,0,0,N,N,N,N,N,N
+162,A simple explanation could be that it represents bacterial overgrowth or an increased number of enteric organisms.,0,0,0,0,0,N,N,N,N,N,N
+163,Critics argue that the abnormal LBT might be due to rapid transit.,0,0,0,0,0,N,N,N,N,N,N
+164,"Without bacterial culture, the exact explanation is difficult to isolate.",0,0,0,0,0,N,N,N,N,N,N
+165,A modest attempt has been made in this study to answer the question of transit.,0,0,0,0,0,N,N,N,N,N,N
+166,Studies have suggested that small bowel transit is accelerated in diarrhea-predominant IBS .,0,0,0,0,0,N,N,N,N,N,N
+167,Similar studies suggest that subjects with constipation- predominant IBS have delayed transit.,0,0,0,0,0,N,N,N,N,N,N
+168,"If transit is the explanation for the abnormal breath test findings, then subjects with constipation-predominant IBS should have delayed gas rise on breath test compared with subjects with diarrhea.",0,0,0,0,0,N,N,N,N,N,N
+169,"On the contrary, in our study, breath tests were abnormal irrespective of subgroup of IBS, suggesting that transit alone cannot explain the findings.",0,0,0,0,0,N,N,N,N,N,N
+170,"Figure 4 shows that constipation- and diarrhea-predominant IBS subjects have identical LBT profiles, with early excessive hydrogen production in both.",0,0,0,0,0,N,N,N,N,N,N
+171,"In addition, the transit argument cannot explain the clinical improvement that depends on the normalization of the LBT.",0,0,0,0,0,N,N,N,N,N,N
+172,"Regarding the explanation of altered intestinal flora in IBS, there is some support in the literature.",0,0,0,0,0,N,N,N,N,N,N
+173,Fully one third of subjects with acute bacterial gastroenteritis have persistent IBS-like symptoms 6 months after recovering from their acute illness.,0,0,0,0,0,N,N,N,N,N,N
+174,"However, no model of sustained microbial challenge is available to explain the chronic symptoms of IBS.",0,0,0,0,0,N,N,N,N,N,N
+175,Our finding of a high prevalence of abnormal LBT suggests that SIBO might be the persistent antigenic challenge in IBS.,0,0,0,0,0,N,N,N,N,N,N
+176,There is also support for the association between altered breath test results and enteric flora in IBS.,0,0,0,0,0,N,N,N,N,N,N
+177,"In one study, 56% of diarrhea-predominant IBS subjects were found to have a positive 14C-xylose breath test.",0,0,0,0,0,N,N,N,N,N,N
+178,"In another study, Flagyl was reported to be superior to placebo in reducing clinical symptoms in IBS.",0,0,0,0,0,N,N,N,N,N,N
+179,The authors of that article were uncertain of the mechanism for this improvement.,0,0,0,0,0,N,N,N,N,N,N
+180,"In a recent study, we showed that a large percent of IBS subjects may have SIBO as diagnosed by LBT.",0,0,0,0,0,N,N,N,N,N,N
+181,"Despite some skepticism about the reliability of LBT to diagnose SIBO, there are similarities between SIBO and IBS.",0,0,0,0,0,N,N,N,N,N,N
+182,"Bloating, a feature of SIBO, is also classically associated with IBS.",0,0,0,0,0,N,N,N,N,N,N
+183,"In SIBO, bloating is due to small intestinal fermentation of nutrients.",0,0,0,0,0,N,N,N,N,N,N
+184,"Until recently, gas studies in IBS have been limited to the investigation of flatus.",0,0,0,0,0,N,N,N,N,N,N
+185,Yet even these studies suggest the presence of excessive bacteria in IBS.,0,0,0,0,0,N,N,N,N,N,N
+186,"found the production of hydrogen by IBS subjects to be elevated fivefold, implying excessive enteric bacteria.",0,0,0,0,0,N,N,N,N,N,N
+187,"Recently, data suggest that IBS patients have excessive gas and that this gas is localized to the small intestine.",0,0,0,0,0,N,N,N,N,N,N
+188,One explanation for excessive small bowel gas might be SIBO.,0,0,0,0,0,N,N,N,N,N,N
+189,Comparison of the breath hydrogen profiles in diarrhea- and constipation-predominant IBS subjects.,0,0,0,0,0,N,N,N,N,N,N
+190,No difference was seen at any time point between the constipation- and diarrhea-predominant IBS breath test profiles.,0,0,0,0,0,N,N,N,N,N,N
+191,"To further substantiate abnormal enteric flora as a contributing cause of IBS, it is necessary to account for the physiological changes seen in IBS.",0,0,0,0,0,N,N,N,N,N,N
+192,"Certainly, bacteria-triggered immune responses can produce many of the classic physiological changes in IBS.",0,0,0,0,0,N,N,N,N,N,N
+193,"However, the contrasting diarrhea- and constipation-predominant subgroups in IBS remain unexplained.",0,0,0,0,0,N,N,N,N,N,N
+194,"In our study, we show that methane excretion on breath test has a positive predictive value of 100% for constipation-predominant IBS.",0,0,0,0,0,N,N,N,N,N,N
+195,This may be another important step in linking bacteria and IBS.,0,0,0,0,0,N,N,N,N,N,N
+196,There is other literature supporting this idea.,0,0,0,0,0,N,N,N,N,N,N
+197,"Methane is noted to be common in diverticulosis and encopresis and less prevalent in diarrheal conditions, such as Crohn’s disease or ulcerative colitis.",0,0,0,0,0,N,N,N,N,N,N
+198,There are some technical limitations with the LBT.,0,0,0,0,0,N,N,N,N,N,N
+199,"First, some groups criticize the reliability of LBT to diagnose SIBO, because in the identification of any infectious process, culture is the gold standard.",0,0,0,0,0,N,N,N,N,N,N
+200,The main issue with culture is accessibility.,0,0,0,0,0,N,N,N,N,N,N
+201,compared breath testing with direct culture and found the breath test to lack reliability.,0,0,0,0,0,N,N,N,N,N,N
+202,"This and other similar studies were confounded by their selection of subjects who had surgically altered anatomy, predisposing to the development of upper GI tract SIBO.",0,0,0,0,0,N,N,N,N,N,N
+203,"Because SIBO (in surgically naı¨ve patients) is often an expansion of colonic bacteria, the direction of expansion is retrograde, involving first the distal small intestine.",0,0,0,0,0,N,N,N,N,N,N
+204,"As such, direct culture is only practical in the patient whose SIBO is so severe that the bacteria has expanded proximally into the duodenum or proximal jejunum.",0,0,0,0,0,N,N,N,N,N,N
+205,"Regardless of the argument as to whether the breath test reliably detects SIBO, excessive flora, or rapid transit, the data in our study support a role of the LBT in IBS treatment, as it is only when the subsequent LBT is normal that the greatest symptom improvements are realized.",0,0,0,0,0,N,N,N,N,N,N
+206,One difficult-to-explain result of the study is the high placebo response in subjects without abnormal breath test.,0,0,0,0,0,N,N,N,N,N,N
+207,The most likely possibility is the low number of subjects in the placebo group (n  9).,0,0,0,0,0,N,N,N,N,N,N
+208,"As a result, the variation was large.",0,0,0,0,0,N,N,N,N,N,N
+209,"Lastly, an important issue to discuss is antibiotic use in IBS.",0,0,0,0,0,N,N,N,N,N,N
+210,"Neomycin, although statistically more effective than placebo, was only able to normalize the breath test 20% of the time.",0,0,0,0,0,N,N,N,N,N,N
+211,"This may be because of the large numbers and types of enteric organisms or bacterial resistance.Furthermore, the widespread use of antibiotics may not be wise before more effective antibiotics are tested.",0,0,0,0,0,N,N,N,N,N,N
+212,"In summary, we have shown that a high percentage of IBS subjects have abnormal LBT.",0,0,0,0,0,N,N,N,N,N,N
+213,"Antibiotic treatment results in a significant improvement in IBS symptoms and clinical response rates, and this correlates with normalization of LBT.",0,0,0,0,0,N,N,N,N,N,N
+214,"Furthermore, the LBT appears associated with constipation-predominant IBS when methane is present during testing.",0,0,0,0,0,N,N,N,N,N,N
+215,Evidence also suggests the abnormal LBT results in IBS are not due to transit alone.,0,0,0,0,0,N,N,N,N,N,N
+216,Work is needed to characterize the role of methanogenic and nonmethanogenic bacteria in the GI manifestations of this common condition.,0,0,0,0,0,N,N,N,N,N,N

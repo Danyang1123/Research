@@ -1,0 +1,185 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Knee OA is a chronic disease associated with significant morbidity and economic cost.,0,0,0,0,0,N,0,N,0,0,0
+1,The efficacy of acupuncture in addition to traditional physical therapy has received little study.,0,0,0,0,0,N,0,N,0,0,0
+2,To compare the efficacy and safety of integrating a standardized true acupuncture protocol versus non-penetrating acupuncture into exercise-based physical therapy (EPT).,0,0,0,0,0,N,0,N,0,0,0
+3,"This was a randomized, double-blind, controlled trial at 3 physical therapy centers in Philadelphia, PA. We studied 214 patients (66% African-American) with at least 6 months of chronic knee pain and X-ray confirmed Kellgren scores of 2 or 3.",0,0,0,0,0,N,0,N,0,0,0
+4,Patients received 12 sessions of acupuncture directly following EPT over 6–12 weeks.,0,0,0,0,0,N,0,N,0,0,0
+5,"Acupuncture was performed at the same 9 points dictated by the Traditional Chinese “Bi” syndrome approach to knee pain, using either standard needles or Streitberger non-skin puncturing needles.",0,0,0,0,0,N,0,N,0,0,0
+6,The primary outcome was the proportion of patients with at least a 36% improvement in Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) score at 12 weeks.,0,0,0,0,0,N,0,N,0,0,0
+7,Both treatment groups showed improvement from combined therapy with no difference between true (31.6%) and non-penetrating acupuncture (30.3%) in WOMAC response rate (p=0.5) or report of minor adverse events.,0,0,0,0,0,N,0,N,0,0,0
+8,A multivariable logistic regression prediction model identified an association between a positive expectation of relief from acupuncture and reported improvement.,0,0,0,0,0,N,0,N,0,0,0
+9,"No differences were noted by race, sex, or age.",0,0,0,0,0,N,0,N,0,0,0
+10,Puncturing acupuncture needles did not perform any better than non-puncturing needles integrated with EPT.,0,0,0,0,0,N,0,N,0,0,0
+11,"Whether EPT, acupuncture, or other factors accounted for any improvement noted in both groups could not be determined in this study.",0,0,0,0,0,N,0,N,0,0,0
+12,Expectation for relief was a predictor of reported benefit.,0,0,0,0,0,N,0,N,1,0,0
+13,"Acupuncture is a Traditional Chinese Medicine treatment modality that has gained popularity in the United States (U.S.), especially for painful conditions[<a href=""#R1"">1</a>].",0,0,0,0,0,N,0,N,0,0,0
+14,"Its use among U.S. adults increased from 2 million individuals in 2002 to 3.1 million per year in 2007[<a href=""#R2"">2</a>, <a href=""#R3"">3</a>].",0,0,0,0,0,N,0,N,0,0,0
+15,"Recent high quality clinical trials of acupuncture, suggest that acupuncture may offer clinically relevant benefits when compared to standard medical care or wait listed controls for acupuncture[<a href=""#R4"">4</a>–<a href=""#R8"">8</a>]; however, studies that compare standard to non-standard needling, either without puncturing the skin or in the wrong acupuncture points have demonstrated smaller or negligible effects [<a href=""#R4"">4</a>, <a href=""#R6"">6</a>–<a href=""#R11"">11</a>].",0,0,0,0,0,N,0,N,0,0,0
+16,"A possible interpretation is that much of the acupuncture effects as compared to standard medical care are mediated through the entire process of acupuncture care (including patient-provider interaction, and patient engagement) rather than the specific needling location or techniques[<a href=""#R12"">12</a>].",0,0,0,0,0,N,0,N,0,0,0
+17,"Factors that influence this type of non-specific effect include the patient’s expectation of benefit from the therapy[<a href=""#R13"">13</a>–<a href=""#R15"">15</a>].",0,0,0,0,0,N,0,N,0,0,0
+18,"Following a review of the literature on acupuncture with physical therapy[<a href=""#R16"">16</a>], we examined these issues using a 2-arm multicenter prospective randomized clinical trial (RCT) designed to determine the specific efficacy and safety of acupuncture integrated with standard exercise-based physical therapy (EPT) for knee OA, in a population that included a large African-American community.",0,0,0,0,0,N,0,N,0,0,0
+19,"We recruited patients for this trial from September 2001 through December 2006 at 3 physical therapy sites in Philadelphia, Pennsylvania, specifically the physical therapy departments at the Hospital of the University of Pennsylvania, Pennsylvania Hospital, and the Philadelphia VA Medical Center.",1,0,0,0,0,N,0,N,0,0,0
+20,All patients referred for physical therapy treatment of osteoarthritis of the knee were considered for this trial.,1,0,0,0,1,N,1,N,0,0,0
+21,"Most patients were referred by primary care, rheumatologic, and physical medicine and rehabilitation physicians.",1,0,0,0,0,N,0,N,0,0,0
+22,The study protocol was approved by the institutional review boards at these hospitals and written informed consent was obtained from all study participants.,1,0,0,0,0,N,0,N,0,0,0
+23,A screening interview was conducted at the first exercise-based physical therapy (EPT) evaluation visit.,1,0,0,0,0,N,0,N,0,0,0
+24,Eligible patients who signed informed consent provided initial demographic data and were scheduled for 12 combined EPT and acupuncture sessions.,0,0,0,0,0,N,0,N,0,0,0
+25,At the initial treatment visit the patient underwent EPT therapy and was randomized and administered either real needle acupuncture or non-penetrating needle acupuncture.,0,0,0,0,0,N,0,N,0,0,0
+26,The same treatment was given during this and all subsequent EPT visits targeting 12 combined treatments.,0,0,0,0,0,N,0,N,0,0,0
+27,Inclusion criteria required that patients be age 40 years or older to focus on classic knee OA.,0,0,0,0,0,N,0,N,0,0,0
+28,Patients had to have pain in 1 or both knee joints for more than 6 months and moderate pain &gt;4/10 for more than 5 out of 7 consecutive days in the week before enrollment.,0,0,0,0,0,N,0,N,0,0,0
+29,"Between the enrollment and first treatment visit, the degree of knee OA was radiologically confirmed as Kellgren–Lawrence score 2 or 3[<a href=""#R17"">17</a>], in 1 or both knees on a radiograph obtained within the last year or on an X-ray performed as part of the study.",0,0,0,0,0,N,0,N,0,0,0
+30,"Patients were excluded if they had other diseases known to affect the knee including gout, rheumatoid arthritis and significant trauma; neurologic, cardiac or psychiatric disease that would interfere with a standard EPT program; pregnancy; significant coagulopathy or taking anti-coagulants that would interfere with the safe administration of acupuncture; or previous acupuncture treatment within the last 12 months.",0,0,0,0,0,N,0,N,0,0,0
+31,Exercise-based Physical Therapy (EPT),0,0,0,0,0,N,0,N,0,0,0
+32,All participants received treatment once or twice a week for a maximum of 12 total treatments.,0,0,0,0,0,N,0,N,0,0,0
+33,"The standardized exercise-based program was as vigorous as the subjects could tolerate with routine encouragement by the staff, and included range of motion exercises, muscle strengthening, and aerobic conditioning (bike and/or treadmill apparatus).",0,0,0,0,0,N,0,N,0,0,0
+34,Resistance was increased as appropriate beginning with a 10-minute program of aerobic activity progressing as tolerated to a goal of 20–30 minutes over the course of therapy.,0,0,0,0,0,N,0,N,0,0,0
+35,Acupuncture protocol,0,0,0,0,0,N,0,N,0,0,0
+36,"In keeping with the STRICTA checklist [<a href=""#R18"">18</a>], acupuncture sessions with the puncturing (and non-puncturing) needles were administered following every EPT session once or twice a week by fully trained and licensed acupuncturists, without electrical stimulation or co-intervention.",0,0,0,0,0,N,0,N,0,0,0
+37,"The AsianMed[<a href=""#R16"">16</a>] penetrating (Gauge 8 × 1.2″) and identical appearing non-penetrating Streitberger needles were used.",0,0,0,0,0,N,0,N,0,0,0
+38,"Nine acupuncture points for each knee were chosen to be consistent with the traditional Chinese Bi syndrome therapy for knee pain and to be consistent with a previously positive acupuncture study[<a href=""#R19"">19</a>].",0,0,0,0,0,N,0,N,0,0,0
+39,"The primary knee points were GB 34, SP 9, ST 36, ST 35 and Xiyan, and the distal points (located near the ankles) selected were UB 60, GB 39, SP 6, and KI 3 for a total of 9 points.",0,0,1,0,0,N,0,N,0,0,0
+40,The same points were used for each affected leg.,0,0,0,0,0,N,0,N,0,0,0
+41,"If both knees had pain &gt;3/10, both were treated.",0,0,0,0,0,N,0,N,0,0,0
+42,The insertion depth for standard needles was between 0.2 to 3 cm depending on the location of the point and patient’s body size.,0,0,0,0,0,N,0,N,0,0,0
+43,"The needles were left in place for 20 minutes, with a brief manipulation at the beginning and end of the treatment.",0,0,0,0,0,N,0,N,0,0,0
+44,"The de qi sensation, a local sensation of achy, distension, and tingling[<a href=""#R20"">20</a>], was not required and not specifically recorded.",0,0,0,0,0,N,0,N,0,0,0
+45,Non-penetrating acupuncture,0,0,0,0,0,N,0,N,0,0,0
+46,The Streitberger non-penetrating needle was used in the control group.,0,0,0,0,0,N,0,N,0,0,0
+47,"The needle appears identical to the real needle except that it is blunt and retracts into the handle when it is pressed against the skin, giving the appearance, and sensation of needle insertion[<a href=""#R21"">21</a>].",0,0,0,0,0,N,0,N,0,0,0
+48,Both real and non-puncturing needles were placed at exactly the same acupuncture points and held in place by being inserted through a single-layer gauze-retaining mechanism held on by a small doughnut-shaped bandage.,0,0,0,0,0,N,0,N,0,0,0
+49,Acupuncturists were instructed to not to attempt to stimulate with the Streitberger needle and did not ask about the achievement of de qi to minimize the interaction between the acupuncturist and the patient.,0,0,0,0,0,N,0,N,0,0,0
+50,The acupuncturists participating in the study included five licensed physicians trained in acupuncture and three non-physician acupuncturists.,0,0,0,0,0,N,0,N,0,0,0
+51,Physician acupuncturists all had received at least 300 hours of medical acupuncture training.,0,0,0,0,0,N,0,N,0,0,0
+52,All non-physician acupuncturists were graduates of accredited schools and licensed in the state of Pennsylvania.,0,0,1,0,0,N,0,N,0,0,0
+53,All practitioners were trained in the study procedures and their technique was personally observed at least once during the study by an experienced acupuncturist (not participating as an acupuncturist in the trial) to promote consistency of their technique.,0,0,0,0,0,N,0,N,0,0,0
+54,"All patients were randomized with a block size of 6, stratified by acupuncturist.",0,1,1,0,0,N,0,N,0,0,0
+55,"The randomization coding was computer generated by an independent statistician, sealed in individual opaque envelopes, and kept in a lock box in a private room only accessible by the acupuncturist at each site.",0,1,0,0,0,N,0,N,0,0,0
+56,"As each eligible patient was enrolled they were assigned a number in numerical order by the research coordinator, and the matching envelope was retrieved by the acupuncturist.",0,0,1,0,0,N,0,N,0,0,0
+57,"The patients, physical therapists, data collectors, and statistician were blinded throughout the study period.",0,0,0,1,1,N,1,N,0,0,0
+58,Acupuncture was performed in a separate room to limit the observation by other personnel.,0,0,0,1,0,N,0,N,0,0,0
+59,The acupuncturists were not blinded due to the nature of the intervention but were trained to interact with each patient in a formalized manner to prevent unblinding.,0,0,0,1,0,N,0,N,0,0,0
+60,"To evaluate the effectiveness of the blinding, each participant was asked at their final intervention to guess which group they were assigned (true, non-penetrating, or unsure).",0,0,0,1,0,N,0,N,0,0,0
+61,"The <span class=""underline"">a priori</span> primary outcome was the change in the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) total score between baseline and 12 weeks.",0,0,0,1,0,N,0,N,0,0,0
+62,"A clinically important patient response was defined as a change of at least 36% in the WOMAC score, as recommended by the Outcome Measures in Rheumatoid Arthritis Clinical Trials (OMERACT) group[<a href=""#R22"">22</a>, <a href=""#R23"">23</a>].",0,0,0,0,0,N,0,N,0,0,0
+63,"Our major secondary outcomes included the Brief Pain Inventory (BPI)[<a href=""#R24"">24</a>]; the mean change in the physical and mental component scores of the 36-item Short-Form Health Survey (SF-36)[<a href=""#R25"">25</a>] and the patient global impression of change (PGIC)[<a href=""#R26"">26</a>], using better or much better as a cut-off; and the 6-minute walk test (evaluating the distance a patient could walk comfortably on a flat surface in 6 minutes before EPT) using a 50-ft. increase in distance as the cut-off[<a href=""#R27"">27</a>].",0,0,0,0,0,N,0,N,0,0,0
+64,Standard demographic and clinical data were obtained via self-report.,0,0,0,0,0,N,0,N,0,0,0
+65,"Patients were also asked before the first treatment to rate whether they expected acupuncture to be helpful for their knee OA, or anyone’s knee OA, with response options of “No”, “Maybe”, and “Yes.”",0,0,0,0,0,N,0,N,0,0,0
+66,Our primary end point was the change from baseline to after completion of 12 treatments.,0,0,0,0,0,N,0,N,0,0,0
+67,We evaluated patients in person during week 6 (mid-treatment) and week 12.,0,0,0,0,0,N,0,N,1,0,0
+68,For the week 26 assessment we mailed the questionnaire with telephone follow-up.,0,0,0,0,0,N,0,N,0,0,0
+69,"Potential adverse events were actively assessed by asking about any changes in their pain, physical function, psychological state, or other health related areas at each of the physical therapy visits throughout the treatment and 12-week primary outcome period.",0,0,0,0,0,N,0,N,0,0,0
+70,"Any reported changes were noted in the categories listed in <a href=""#T4"">Table 3</a>.",0,0,0,0,0,N,0,N,0,0,0
+71,Standard descriptive statistics were used to evaluate all baseline characteristics.,0,0,0,0,0,N,0,N,0,0,0
+72,"Summary statistics were used for means, medians, and proportions to assess differences between the treatment groups.",0,0,0,0,0,N,0,N,0,0,0
+73,Graphical methods were used to examine distributions and to assess the need for data transformations.,0,0,0,0,0,N,0,N,0,0,0
+74,The primary outcome analysis was an intention-to-treat comparison between the groups.,0,0,0,0,0,N,0,N,1,0,0
+75,Baseline observation carry forward was used for any missing data.,0,0,0,0,0,N,0,N,0,1,1
+76,The unadjusted comparison between the treatment groups was analyzed using a chi square test for the primary dichotomous outcome (WOMAC total change &gt;36%).,0,0,0,0,0,N,0,N,1,0,0
+77,"For secondary analyses, data for continuous variables are presented as mean with a 95% confidence limit; and the 2-sided Wilcoxon rank-sum test was used to compare treatment arms.",0,0,0,0,0,N,0,N,0,0,0
+78,The chi-square test was used to compare proportions in the two groups.,0,0,0,0,0,N,0,N,0,0,0
+79,A logistic regression model was used to evaluate the association between baseline characteristics of the population and the outcomes.,0,0,0,0,0,N,0,N,0,0,0
+80,"Characteristics significant at the 0.10 level were entered into a multivariable logistic regression model, where both stepwise and forward selection (criteria of p= 0.2 to enter the model and p= 0.05 to stay in the model) were used to develop a multivariable model to predict response.",0,0,0,0,0,N,0,N,0,0,0
+81,"All analyses were two-sided using SAS 9.2 (SAS Incorporated, Cary, NC).",0,0,0,0,0,N,0,N,0,0,0
+82,Sample size estimate,0,0,0,0,0,N,0,N,0,1,1
+83,"The original study was designed to detect a difference of 15% in response between patients getting real and non-puncturing acupuncture, with an estimate of 50% improvement in the control group.",0,0,0,0,0,N,0,N,0,0,0
+84,We estimated that 169 patients per group would be necessary to detect this difference.,0,0,0,0,0,N,0,N,0,0,0
+85,"With a slower-than-expected accrual, we chose to examine the data for futility, blinded to group treatment, with 65% of the patients collected, which was confirmed and the study was stopped.",0,0,0,0,0,N,0,N,0,0,0
+86,The National Center for Complementary and Alternative Medicine provided funding for this study.,0,0,0,0,1,N,1,N,0,0,0
+87,"The agency had no role in the design, collection, analysis, or interpretation of the data.",0,0,0,0,1,N,1,N,0,0,0
+88,"Out of a total of 1,957 patients evaluated for the study, 1,262 presented to EPT for reasons other than knee OA and 455 did not meet study criteria on initial screening or refused to participate.",0,0,0,0,0,N,0,N,0,0,0
+89,"Of the 240 consented by the study coordinators, 11 were excluded for not meeting X-ray diagnosed criteria, 12 patients chose not to continue in the study, and 3 did not attend further EPT due to illness.",0,0,0,0,0,N,0,N,0,0,0
+90,"A total of 214 eligible patients were randomized between January 2000 and December 2006 (<a href=""#F1"">Figure 1</a>).",0,0,0,0,0,N,0,N,0,0,0
+91,"The median number of EPT/acupuncture sessions was 11, with 81% of subjects attending more than 8 sessions, and 28% completing all 12 treatments (See <a href=""#F1"">Figure 1</a>).",0,0,0,0,0,N,0,N,0,0,0
+92,"We stopped the trial with 214 subjects given the results were highly negative, with 31.6% response rate for the standard acupuncture, and 30.3% for the non-puncturing acupuncture.",0,0,0,0,0,N,0,N,0,0,0
+93,Our original design was to collect 169 subjects per group to achieve 80% power to detect a 15% difference in response rates.,0,0,0,0,0,N,0,N,0,0,0
+94,"Using a futility analysis, if we were to continue collecting the remaining 62 subjects for each group assuming the response rate of the control group to remain the same at 30.3%, the response rate of the remaining 62 subjects in the standard treatment group would have had to reach 71% in order to produce an overall 15% between-group difference.",0,0,0,0,0,N,0,N,0,0,0
+95,This means that the remaining 62 subjects in the treatment group would have had to be from a totally different population compared with the first 107 subjects (p&lt;0.001).,0,0,0,0,0,N,0,N,0,0,0
+96,This amount of difference is highly unlikely.,0,0,0,0,0,N,0,N,0,0,0
+97,"Of the 214 eligible patients, 141 (66%) were African Americans; 111 (52%) were female, and the mean age was 60.",0,0,0,0,0,N,0,N,0,0,0
+98,The mean BMI was 33 (SD - 7) with 64 (30%) participants having a BMI greater than 35.,0,0,0,0,0,N,0,N,0,0,0
+99,The average duration of knee symptoms was almost 10 years.,0,0,0,0,0,N,0,N,0,0,0
+100,"Approximately 50% of participants reported that they thought that acupuncture would help their knee OA symptoms, and the rest reported acupuncture “may be helpful.” No participants reported that acupuncture would not help.",0,0,0,0,0,N,0,N,0,0,0
+101,"Only the 6 minute walk distance was statistically significantly different, between the groups.",0,0,0,0,0,N,0,N,0,0,0
+102,No pretreatment differences were found to be clinically relevant among the two experimental groups in any socio-demographic or other clinical factors.,0,0,0,0,0,N,0,N,0,0,0
+103,"(<a href=""#T1"">Table 1</a>)",0,0,0,0,0,N,0,N,0,0,0
+104,"The African-American subjects were predominantly female, less often married, and with a higher BMI than their Caucasian counterparts.",0,0,0,0,0,N,0,N,0,0,0
+105,Their WOMAC and 6 minute walk distance were worse.,0,0,0,0,0,N,0,N,0,0,0
+106,A higher percentage tended to think that acupuncture would help them but this was not statistically significant (p=0.349).,0,0,0,0,0,N,0,N,0,0,0
+107,"In the context of EPT, the observed success rates (defined as at least 36% improvement in WOMAC scores) were essentially identical with 31.6% for the true acupuncture and 30.3% for the non-penetrating acupuncture at week 12, p=0.5 (<a href=""#T2"">Table 2</a>).",0,0,0,0,0,N,0,N,0,0,0
+108,"Between baseline and week 12, both interventions were associated with an 18–19% mean improvement in WOMAC total score (p=0.27 for the two group comparison) and 24% mean improvement in BPI (p=0.52 for the two group comparison).",0,0,0,0,0,N,0,N,0,0,0
+109,"At the end of the intervention, 74% of patients considered their knee OA symptoms to be at least slightly better, 38% at least better, 13% much better.",0,0,0,0,0,N,0,N,0,0,0
+110,No outcomes differed at any interval of evaluation.,0,0,0,0,0,N,0,N,0,0,0
+111,"Based on the cumulative distribution function curves[<a href=""#R28"">28</a>] displaying every possible definition of a clinical response on the WOMAC, no appreciable clinical or statistical differences were observed (<a href=""#F2"">Figure 2</a>).",0,0,0,0,0,N,0,N,0,0,0
+112,All secondary outcomes were also examined and showed no separation between the treatment groups.,0,0,0,0,0,N,0,N,0,0,0
+113,"An identical series of analyses were carried out for subgroups by race, with essentially identical negative results.",0,0,0,0,0,N,0,N,0,0,0
+114,"Overall, the acupuncture process was found to be safe.",0,0,0,0,0,N,0,N,0,1,1
+115,"Seventy-eight adverse events were elicited among 214 subjects over the course of over 2,000 acupuncture and placebo acupuncture treatments, with no difference by race.",0,0,0,0,0,N,0,N,0,0,0
+116,Most were mild events and few resulted in discontinuation of therapy.,0,0,0,0,0,N,0,N,0,0,0
+117,"A few more events were reported with true needling acupuncture versus placebo acupuncture, which approached a statistically significant difference (n=47 vs. 31 p=0.08).",0,0,0,0,0,N,0,N,0,0,0
+118,"The most commonly reported side effects were increased pain (n=38), muscle soreness (n=8), and swelling (n=11) (<a href=""#T4"">Table 3</a>).",0,0,0,0,0,N,0,N,0,0,0
+119,"Because acupuncture was given immediately following EPT, it was not always possible to associate the event with acupuncture or EPT separately.",0,0,0,0,0,N,0,N,0,0,0
+120,"In multivariate logistic regression modeling combining both patient groups and adjusting for all covariates that met criteria, those who anticipated acupuncture to be definitely helpful were significantly more likely to report that they responded to therapy with an adjusted odds ratio (AOR, 95% CI) of 2.14 (1.13–4.10), p=0.02.",0,0,0,0,0,N,0,N,0,0,0
+121,"Higher baseline 6-minute walk distance was also associated with significant success AOR 1.14 (1.02 – 1.29), p=0.026 for every 100-foot incremental increase (<a href=""#T5"">Table 4</a>).",0,0,0,0,0,N,0,N,0,0,0
+122,"The patients enrolled in this study were significantly more obese than earlier studies, with preponderance in the African-American group.",0,0,0,0,0,N,0,N,0,0,0
+123,"In secondary exploratory analysis, we identified significant BMI (≤35 vs. &gt;35) and treatment true vs. non-penetrating) interaction (p=0.01 for the interaction term) adjusting for baseline WOMAC score, age, sex, and race.",0,0,0,0,0,N,0,N,0,0,0
+124,"In the BMI ≤35 group (N = 142), no significant WOMAC response difference was seen between real and control acupuncture (22.8% vs. 33.8%, p=0.18); however, in the BMI &gt;35 group (N = 61), the real acupuncture group had significantly more responders than the placebo acupuncture group (52.0% vs. 23.1%, p=0.03) (Figure 4).",0,0,0,0,0,N,0,N,0,0,0
+125,"At the end of the intervention, most participants in the real and placebo acupuncture groups believed that they were receiving real acupuncture (76% vs. 67%); most of the remainder were unsure (20% vs. 24%), respectively (p=0.36).",0,0,0,0,0,N,0,N,0,0,0
+126,This study evaluated the efficacy of true acupuncture versus acupuncture with a non-puncturing needle integrated with standardized exercise-based physical therapy (EPT) for the treatment of knee OA in a racially mixed group of patients with a mean BMI of 33.,0,0,0,0,0,N,0,N,0,0,0
+127,No differences between the true and non-penetrating acupuncture groups were demonstrated for any of the primary or secondary end points.,0,0,0,0,0,N,0,N,0,0,0
+128,"Across both treatment groups, subjects experienced improvement over the course of their therapy.",0,0,0,0,0,N,0,N,0,0,0
+129,"Secondary analyses showed that <span class=""underline"">a priori</span> positive expectation for the efficacy of acupuncture was strongly predictive of treatment success.",0,0,0,0,0,N,0,N,0,0,0
+130,The patient’s walking ability at baseline was also statistically significant but had only a very small total effect.,0,0,0,0,1,N,1,N,0,0,0
+131,"We also found a potentially interesting interaction between the degree of obesity and the treatment outcome, with heavier patients (BMI &gt; 35) receiving real acupuncture improving significantly more than those receiving placebo acupuncture.",0,0,0,0,0,N,0,N,0,0,0
+132,"However, this subgroup analysis was not defined <span class=""underline"">a priori</span> so this result should be considered hypothesis generating and would need further evaluation.",0,0,0,0,0,N,0,N,0,0,0
+133,"One possibility is that after this trial is contributed to the Acupuncture Trialists’ Collaboration individual patient data meta-analysis project, this association could be examined across all acupuncture trials.",0,0,0,0,0,N,0,N,0,0,0
+134,The lack of differences between the true versus the non-penetrating needle group is not totally unexpected.,0,0,0,0,0,N,0,N,0,0,0
+135,"Recent studies and systematic reviews have found modest differences, if any, between true acupuncture and different sham and placebo controls[<a href=""#R3"">3</a>, <sup><a href=""#R4"">4</a></sup>, <a href=""#R6"">6</a>–<a href=""#R11"">11</a>].",0,0,0,0,0,N,0,N,0,0,0
+136,Our study similarly provides evidence for the lack of specificity of the puncturing component of the therapy.,0,0,0,0,0,N,0,N,0,0,0
+137,"Given our control of a non-puncturing needle applied to the appropriate acupuncture points, we cannot rule out the possibility that the tactile stimulation of the skin may have activated cutaneous afferent nerve endings, as has been postulated for “acupressure,”[<a href=""#R29"">29</a>] improving overall function, albeit to an extent similar to that reported by the real acupuncture group.",0,0,0,0,0,N,0,N,0,0,0
+138,"Our data support the overall benefit of providing a therapy or combination of therapies in which the patient has confidence, including the important role of expectation on the impact of a non-specific effect on the outcome.",0,0,0,0,0,N,0,N,0,0,0
+139,"In the analysis of our full dataset, we found that those patients who reported thinking acupuncture would definitely help them (“positive expectancy”) had a 2-fold increase in the likelihood of reporting a positive response, which was equally true in both racial groups.",0,0,0,0,0,N,0,N,0,0,0
+140,"This is in agreement with other studies that emphasized the correlation of improvement with high expectations[<a href=""#R9"">9</a>, <sup><a href=""#R14"">14</a></sup>, <a href=""#R15"">15</a>].",0,0,0,0,0,N,0,N,0,0,0
+141,"This is also consistent with reviews[<a href=""#R30"">30</a>] and with a recent German study that examined expectancy in pooled data from several large acupuncture trials for chronic pain[<a href=""#R13"">13</a>].",0,0,0,0,0,N,0,N,0,0,0
+142,"We could not compare response to patients who thought that acupuncture would not help, since patients who felt negatively about acupuncture were unlikely to enroll.",0,0,1,0,0,N,0,N,0,0,0
+143,"It is also possible that the patient’s interest in receiving acupuncture improved their performance in the exercise component of the trial, or was associated with attendance at a higher number of EPT sessions, as suggested in other research [<a href=""#R3"">3</a>].",0,0,0,0,0,N,0,N,0,0,0
+144,We do not have such data from our trial.,0,0,0,0,0,N,0,N,0,0,0
+145,Matching the patient’s expectation with a clinically effective therapy might have the potential to improve arthritis care.,0,0,0,0,0,N,0,N,0,0,0
+146,It is important to acknowledge the limitations of this study.,0,0,0,0,0,N,0,N,0,0,0
+147,"The lack of a physical therapy only group did not allow an estimate of whether the combination with acupuncture was better or worse than the EPT alone, but overall patients reported improvement with their therapies and the amount of improvement was greater in those who expected the acupuncture to work.",0,0,0,0,0,N,0,N,0,0,0
+148,Our study with greater numbers of treatments is in considerable agreement with a study providing only 6 sessions over 3 weeks of true and sham acupuncture regimens added to physiotherapy for OA of the knee.,0,0,0,0,0,N,0,N,0,0,0
+149,"This latter study produced no additional benefit at 6 months although findings suggested that there may have been some attenuation of pain with both types of acupuncture at 2 and 6 weeks[<a href=""#R19"">19</a>].",0,0,0,0,0,N,0,N,0,0,0
+150,"We did not reach our proposed sample size due to the slower than expected recruitment; however, a futility analysis demonstrated that we would not have found a difference in our groups even if the full sample size had been obtained.",0,0,0,0,0,N,0,N,0,0,0
+151,"Although 26 weeks was a secondary end point, 29% of subjects did not provide evaluable week 26 data, which could have biased our analysis at that time point but is unlikely to have changed our results.",0,0,0,0,0,N,0,N,0,0,0
+152,In our study acupuncture therapy was provided immediately following the EPT.,0,0,0,0,0,N,0,N,0,0,0
+153,"It is possible that the exercise therapy, which is known to produce a positive effect[<a href=""#R31"">31</a>] may have made the evaluation of an additional specific benefit from acupuncture more difficult (i.e., the law of diminishing returns), but if so the acupuncture effect would be small and of questionable clinical importance.",0,0,0,0,0,N,0,N,0,0,0
+154,"Studies that test the efficacy of the entire process of the administration of acupuncture are more likely to find a positive result, such as the positive findings of Berman et al.",0,0,0,0,0,N,0,N,0,0,0
+155,"in the comparison of acupuncture to no acupuncture[<a href=""#R19"">19</a>].",0,0,0,0,0,N,0,N,0,0,0
+156,"Our acupuncturists reported achieving a de qi sensation in some of the real acupuncture needle patients, we did not formally record the sensations reported by the patient, so we do not know how often this occurred in either group of patients.",0,0,0,0,0,N,0,N,0,0,0
+157,"Experience in the original validation studies [<a href=""#R21"">21</a>, <a href=""#R32"">32</a>] and a more recent RCT of acupuncture for osteoarthritis[<a href=""#R33"">33</a>], found a substantial number of participants in the sham control group reported sensations consistent with a description of the de qi raising concerns about the inert nature of the sham.",0,0,0,0,0,N,0,N,0,0,0
+158,Since the beginning of this study there has been a significant discussion of this issue in the literature.,0,0,0,0,0,N,0,N,0,0,0
+159,"Clearly, it is possible that a reason for the identical results in both the real and sham acupuncture groups is that both are active but our study cannot address this issue specifically.",0,0,0,0,0,N,0,N,0,0,0
+160,"Lastly, we did not test to see if the timing of the acupuncture could affect the outcome.",0,0,0,0,0,N,0,N,0,0,0
+161,Might acupuncture before the EPT have facilitated the EPT by alleviating pain?,0,0,0,0,0,N,0,N,0,0,0
+162,Some recent work in rodent models suggests that acupuncture may involve connective tissue displacement and remodeling.,0,0,0,0,0,N,0,N,0,0,0
+163,"[<a href=""#R34"">34</a>, <a href=""#R35"">35</a>] If EPT changes the effect of the puncturing needle on local connective tissue, it may have reduced the effect.",0,0,0,0,0,N,0,N,0,0,0
+164,"As acupuncture is frequently used concurrently with conventional care, studies of the timing of integration may be an area to explore in order to better understand the contributions of the combined effects of different therapies.",0,0,0,0,0,N,0,N,0,0,0
+165,"A recent individual patient meta-analysis[<a href=""#R36"">36</a>] and an accompanying editorial[<a href=""#R37"">37</a>] on studies of acupuncture used for a variety of types of pain concluded that true acupuncture was modestly more effective than a variety of different types of sham acupunctures.",0,0,0,0,0,N,0,N,0,0,0
+166,These also highlighted the limitations of studies and suggested that factors in addition to specific effects of needling can be important contributors to the therapeutic effects of acupuncture.,0,0,0,0,0,N,0,N,0,0,0
+167,"Despite the limitations, we have conducted a large acupuncture clinical trial in a population with a broad spectrum of body habitus and a large African-American component.",0,0,0,0,0,N,0,N,0,0,0
+168,We did not find any differences in effect of the puncturing and nonpuncturing acupuncture therapy when used in conjunction with EPT.,0,0,0,0,0,N,0,N,0,0,0
+169,Our study also highlights that positive expectation may impact treatment outcomes.,0,0,0,0,0,N,0,N,0,0,0
+170,"View larger version</a></span><span class=""fig-label"">Figure 1.",0,0,0,0,0,N,0,N,0,0,0
+171,"</span>Flowchart of the disposition of all study participants in the real and placebo acupuncture groups, with the reason for any drop-outs from screening through 26 weeks.",0,0,0,0,0,N,0,N,0,0,0
+172,"View larger version</a></span><span class=""fig-label"">Figure 2.",0,0,0,0,0,N,0,N,0,0,0
+173,</span>Cumulative distribution of the proportion of participants achieving the level of response as a percentage change in the WOMAC score from baseline to week 12.,0,0,0,0,0,N,0,N,0,0,0
+174,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,0,0,N,0,N,0,0,0
+175,</span>Participant Demographic and Baseline Characteristics,0,0,0,0,0,N,0,N,0,0,0
+176,"See full table</a></span><span class=""fig-label"">Table 2a.",0,0,0,0,0,N,0,N,0,0,0
+177,"</span>Primary Outcomes, Differences between Groups, and Changes over Time*",0,0,0,0,0,N,0,N,1,0,0
+178,"See full table</a></span><span class=""fig-label"">Table 2b.",0,0,0,0,0,N,0,N,0,1,1
+179,"</span>Secondary Outcomes, Differences between Groups, and Changes over Time*",0,0,0,0,0,N,0,N,0,0,0
+180,"See full table</a></span><span class=""fig-label"">Table 3.",0,0,0,0,0,N,0,N,0,0,0
+181,</span>Adverse Events (N=78) and Withdrawals (32) Reported during Trial*,0,0,0,0,0,N,0,N,0,0,0
+182,"See full table</a></span><span class=""fig-label"">Table 4.",0,0,0,0,0,N,0,N,0,1,1
+183,</span>Predictors of Response to Acupuncture and EPT Regimens,0,0,0,0,0,N,0,N,0,0,0

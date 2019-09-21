@@ -1,0 +1,402 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,There has been little robust evaluation of the outcome of speech and language therapy (SLT) intervention for post‐stroke dysarthria.,0,0,0,0,0,0,0,0,0,0,0
+1,Non‐speech oro‐motor exercises (NSOMExs) are a common component of dysarthria intervention.,0,0,0,0,0,0,0,0,0,0,0
+2,"A feasibility study was designed and executed, with participants randomized into two groups, in one of which NSOMExs were a component of the intervention programme.",0,0,0,0,0,0,0,0,0,0,0
+3,"To examine (1) operational feasibility of the programme; (2) participants’ views of the programme; and (3) speech intelligibility, communication effectiveness and tongue and lip movement at four points (A1 and A2 before, and A3 and A4 after intervention).",0,0,0,0,0,0,0,0,0,0,0
+4,Thirty‐nine participants were randomized into Group A (n = 20) and Group B (n = 19).,1,1,1,0,1,1,1,0,0,0,0
+5,Groups were equivalent at enrolment in demographic variables and A1 measures.,1,0,1,0,1,1,1,0,0,0,0
+6,"Intervention was behavioural, delivered in eight home‐based SLT sessions, and included practise of individually appropriate words, sentences and conversation, and for Group B also NSOMExs.",1,0,1,0,1,1,1,0,0,0,0
+7,Between‐session practice was recorded in a diary.,1,0,1,0,1,1,1,0,0,0,0
+8,"Data on speech intelligibility, effectiveness of communication in conversation, self‐rated situational communication effectiveness, and tongue and lip movement were collected at 8‐week intervals, twice before and twice after intervention.",1,0,1,0,1,1,1,0,0,0,0
+9,Anonymous evaluation (AE) questionnaires were completed.,0,0,0,0,0,0,0,0,0,0,0
+10,The recruited number was 20% below the target of 50.,0,0,0,1,0,0,0,1,0,1,1
+11,Thirty‐six participants completed the intervention and 32 were followed through to A4.,0,0,0,1,0,0,0,1,0,1,1
+12,The programme was delivered to protocol and fidelity was verified.,0,0,0,1,0,0,0,1,0,1,1
+13,Thirty‐four AEs were returned.,0,0,0,1,0,0,0,1,0,1,1
+14,These showed high satisfaction with the programme and its outcome.,0,0,0,1,0,0,0,1,0,1,1
+15,"According to diary records from 32 participants, 59% carried out at least the recommended practice amount.",0,0,0,0,0,0,0,0,0,0,0
+16,Outcome measure performance across the four assessment points did not indicate any group effect.,0,0,0,0,0,0,0,0,0,0,0
+17,"For the whole sample both externally rated and self‐rated communication effectiveness measures showed statistically significant gains across the intervention period (A2/A3), which were maintained for 2 months after intervention (A2/A4).",0,0,0,0,0,0,0,0,0,0,0
+18,Non‐intervention period changes (A1/A2 and A3/A4) were not present.,0,0,0,0,0,0,0,0,0,0,0
+19,"There were no intervention‐related gains in tongue and lip movement or speech intelligibility, but the latter is likely to be attributable to a ceiling effect on scores.",0,0,0,0,0,0,0,0,0,0,0
+20,The results indicate positive outcomes associated with a short period of behavioural SLT intervention in the post‐stroke dysarthria population.,0,0,0,0,0,0,0,0,0,0,0
+21,"The inclusion of NSOMExs, delivered in accordance with standard clinical practice, did not appear to influence outcomes.",0,0,0,0,0,0,0,0,0,0,0
+22,The results must be viewed in relation to the nature of feasibility study and provide a foundation for suitably powered trials.,0,0,0,0,0,0,0,0,0,0,0
+23,What is already known on this subject?,0,0,0,0,0,0,0,0,0,0,0
+24,The benefits of intervention for post‐stroke dysarthria are under‐researched.,0,0,0,0,0,0,0,0,0,0,0
+25,"Non‐speech oro‐motor exercises are commonly included in intervention, despite a lack of evidence of an influence on communication outcomes.",0,0,0,0,0,0,0,0,0,0,0
+26,The paper documents the successful conduct of a feasibility study in which participants were randomized into groups for which intervention included and did not include non‐speech oro‐motor exercises.,0,0,0,0,0,0,0,0,0,0,0
+27,The behavioural intervention programme was very positively received and assessment results show gains in communication effectiveness associated with the intervention period.,0,0,0,0,0,0,0,0,0,0,0
+28,No added benefit for the exercise group was indicated.,0,0,0,0,0,0,0,0,0,0,0
+29,The results provide a foundation for further trials.,0,0,0,0,0,0,0,0,1,0,0
+30,"Speech and language therapists (SLTs) use a variety of interventions in their management of acquired dysarthria, including behavioural and compensatory methods, conversation partner training, counselling, and speech supplementation  The evidence base for improved dysarthria outcomes associated with SLT is limited, especially for stable presentations, such as are associated with stroke.",0,0,0,0,0,0,0,0,0,0,0
+31,Most studies of post‐stroke dysarthria involve fewer than 10 participants and some include stroke with other aetiological groups .,0,0,0,0,0,0,0,0,0,0,0
+32,"Stroke is the most common cause of complex adult disability , and the presence of dysarthria is frequently documented in both acute and 3‐month post‐stroke clinical trial data.",0,0,0,0,0,0,0,0,0,0,0
+33,Even mild dysarthria may have marked social and psychological effects  and SLT input is highly valued by people with dysarthria.,0,0,0,0,0,0,0,0,0,0,0
+34,Thus the paucity of robust research that informs on the results of intervention with the dysarthria stroke population is anomalous.,0,0,0,0,0,0,0,0,0,0,0
+35,Tongue and lip exercises are often included in dysarthria intervention.,0,0,0,0,0,0,0,0,0,0,0
+36,"There is a long tradition of use of such exercises, known as speech mechanism exercises or non‐speech oro‐motor exercises (NSOMExs).",0,0,0,0,0,0,0,0,0,0,0
+37,"Publications in English, which promote these exercises in acquired dysarthria, date from around 1940.",0,0,0,0,0,0,0,0,0,0,0
+38,"Advocates believe that NSOMExs increase levels of tension, endurance and power of weak muscles, viewing speech as a multi‐component motor skill and maintaining that exercises provide a foundation for and lead to enhancement of speech.",0,0,0,0,0,0,0,0,0,0,0
+39,"An alternative view is that the motor activities of speech are highly specific, so even if improvement through practice occurs for non‐speech activities, speech will not be affected .",0,0,0,0,0,0,0,0,0,0,0
+40,The case against NSOMExs is supported by the limited relationship between non‐speech oro‐motor performance and dysarthria severity and the demonstration that physiological capacity in healthy individuals far exceeds speech requirements.,0,0,0,0,0,0,0,0,0,0,0
+41,Recent research in both the United Kingdom and the United States confirms the continuing and widespread inclusion of NSOMExs in SLT.,0,0,0,0,0,0,0,0,0,0,0
+42,"From a survey of SLTs in the UK working with acquired dysarthria, Mackenzie et al.",0,0,0,0,0,0,0,0,0,0,0
+43,reported 76% of respondents used NSOMExs in stroke‐related dysarthria.,0,0,0,0,0,0,0,0,0,0,0
+44,"Exercises were used with all dysarthria severities, and at both acute and chronic stages.",0,0,0,0,0,0,0,0,0,0,0
+45,Their use was much more common in stroke than in any other acquired neurological disorder.,0,0,0,0,0,0,0,0,0,0,0
+46,This continued practice is not supported by any firm evidence of benefit to speech and is inconsistent with much current expert opinion.,0,0,0,0,0,0,0,0,0,0,0
+47,Two small studies reported gains following therapy in a dysarthria assessment and in single‐word intelligibility.,0,0,0,0,0,0,0,0,0,0,0
+48,"Both show methodological limitations, including the absence of demonstrated baseline stability.",0,0,0,0,0,0,0,0,0,0,0
+49,"Lass and Pannbacker concluded, from theoretical and empirical evidence, that NSOMExs ‘should be excluded from use as a mainstream treatment’.",0,0,0,0,0,0,0,0,0,0,0
+50,"SLTs who include NSOMExs in acquired dysarthria intervention cite reasons for use, such as their own informal evidence of benefit, discussion with and observation of colleagues, patient expectations, educational focus and tradition.",0,0,0,0,0,0,0,0,0,0,0
+51,There is no association between using or not using NSOMExs and years of SLT experience.,0,0,0,0,0,0,0,0,0,0,0
+52,Resolution of the question of the efficacy of NSOMExs is regarded as a dysarthria research priority.,0,0,0,0,0,0,0,0,0,0,0
+53,"called for ‘well‐designed single‐subject and group experimental studies that provide adequate descriptions of participants and interventions, control for the influences of variables outside of treatment, and incorporate reliable and valid outcome measures’ .",0,0,0,0,0,0,0,0,0,0,0
+54,"We report a feasibility study involving people with chronic post‐stroke dysarthria, randomized to receive an SLT programme comprising speech practice alone or speech practice plus NSOMExs, carried out at usual clinical practice intensity.",0,0,0,0,0,0,0,0,0,0,0
+55,We aimed to examine the following:,0,0,0,0,0,0,0,0,0,0,0
+56,Participants’ views of the intervention programme.,0,0,0,0,0,0,0,0,1,0,0
+57,"Speech intelligibility, communication effectiveness and tongue and lip movement at four points (two before and two after intervention), comparing outcomes in the two groups (intervention including and not including NSOMExs).",0,0,0,0,0,0,0,0,0,0,0
+58,"Inclusion criteria were: minimum 3 months since the last stroke; no co‐existing neurological condition; dysarthria, with articulatory imprecision, diagnosed by a referring SLT; Mini Mental State Examination score ≥ 24; Boston Diagnostic Aphasia Examination aphasia severity rating of 4–5; community residence at time of intervention; first language English and vision and hearing adequate, with any required augmentation, for reception of spoken stimuli, following instructions, and reading enlarged stimulus material, as informally judged by self‐report and by referring SLT.",0,0,0,0,0,0,0,0,0,0,0
+59,"The target enrolment total for the study was 50 participants within a 1‐year period, with 40 completing to final assessment.",0,0,0,0,0,0,0,0,0,0,0
+60,"As a feasibility study this number was not devised from power calculation, but was considered appropriate to address the aims and provide data that could be utilized in a sample size calculation for a larger trial.",0,0,0,0,0,0,0,0,0,0,0
+61,Participants were identified by SLT managers in six health boards.,0,0,0,0,0,0,0,0,0,0,0
+62,"From 121 identified cases, 39 were enrolled, randomized and allocated to two groups: Group A: 20; and Group B: 19.",0,0,0,0,0,0,0,0,0,0,0
+63,Reasons for non‐enrolment are shown in the participant flow figure (figure 1).,0,0,0,0,0,0,0,0,0,0,0
+64,An individual external to the research team managed the process of allocation to Group A (intervention without NSOMExs) or Group B (intervention with NSOMExs).,0,0,0,0,0,0,0,0,0,0,0
+65,"Randomization was computer generated in blocks of around eight, in line with referrals, and group allocation was concealed and communicated only to the intervention SLT, via opaque envelopes, which were opened just before the first intervention session.",0,0,0,0,0,0,0,0,0,0,0
+66,Participant summary data and group allocation are given in table 1.,0,0,0,0,0,0,0,0,0,0,0
+67,Time post the most recent stroke was 3–32 months.,0,0,0,0,0,0,0,0,0,0,0
+68,"Dysarthria severity was qualitatively rated at point of referral by referring SLTs using the mild, moderate, severe and profound descriptions applied in Mackenzie et al.",0,0,0,0,0,0,0,0,0,0,0
+69,"Stroke aetiology was verified medically by clinical presentation and confirmed by tomography or imaging in all but four cases, for whom scan results were not obtainable.",0,0,0,0,0,0,0,0,0,0,0
+70,"Methods of lesion reporting were inconsistent due to variation across services, and are summarized according to stroke type (infarct, haemorrhage, not known), hemisphere (right, left, bilateral), location (supratentorial, infratentorial, mixed, not known).",0,0,0,0,0,0,0,0,0,0,0
+71,"Aphasia (minimal) was deemed present if Boston Diagnostic Aphasia Examination severity rating scale at referral was 4, rather than 5 (no aphasia).",0,0,0,0,0,0,0,0,0,0,0
+72,"Group A and B profiles were equivalent at enrolment in respect of age (t(37) = 1.31, p = 0.20), months post‐stroke (t(37) = –0.78, p = 0.44), dysarthria severity (chi‐square (1) = 1.29; p = 0.26), gender balance (chi‐square (1) = 0.21, p = 0.65), living situation (chi‐square (1) = 0.30; p = 0.58), stroke type (chi‐square (2) = 0.01; p = 0.99), hemisphere (chi‐square (2) = 0.36, p = 0.84) and location (chi‐square (2) = 4.00, p = 0.14) and presence of minimal aphasia (chi‐square (1) = 0.01, p = 0.92).",0,0,0,0,0,0,0,0,0,0,0
+73,Both groups received eight once weekly SLT‐led sessions of around 40 min.,0,0,0,0,0,0,0,0,0,0,0
+74,"This regime was agreed with a consultation group of SLT managers, who deemed it consistent with practice and a dysarthria advisory group, comprising people with stroke‐related dysarthria and family members, who considered it suitable for participant compliance.",0,0,0,0,0,0,0,0,0,0,0
+75,Sessions were conducted in participants’ homes.,0,0,0,0,0,0,0,0,0,0,0
+76,"The intervention was behavioural, and focused on articulatory imprecision, the component of motor speech most clearly linked to tongue and lip activity, and the most commonly reported feature of post‐stroke dysarthria.",0,0,0,0,0,0,0,0,0,0,0
+77,"In each session, intervention for both groups included practice of individually relevant speech sounds in words, sentences and conversation, throughout which appropriate clear speech maximization strategies were encouraged.",0,0,0,0,0,0,0,0,0,0,0
+78,"Concurrent impairments such as poor breath support and reduced stress were not directly targeted through specific exercises, but strategies for optimizing participants’ speech (e.g.",0,0,0,0,0,0,0,0,0,0,0
+79,slowed rate; emphasis of key syllables; deliberate articulation) involved manipulation of individually relevant parameters in addition to articulation.,0,0,0,0,0,0,0,0,0,0,0
+80,In addition Group B carried out NSOMExs.,0,0,0,0,0,0,0,0,0,0,0
+81,"Intervention for the two groups differed only in that where Group A had 20‐min practice of words and sentences, for Group B there was 10 min of this and 10 min of NSOMExs.",0,0,0,0,0,0,0,0,0,0,0
+82,"A minimum of two research team members, who were also experienced SLT clinicians, carried out detailed listening, review and discussion of the data available from the first assessment.",0,0,0,0,0,0,0,0,0,0,0
+83,Affected speech sounds and contexts were identified and transcribed with particular attention to loss of phonemic contrasts and phonetic imprecision.,0,0,0,0,0,0,0,0,0,0,0
+84,"From these data, relevant speech targets, contexts and response lengths were individually determined for each participant .",0,0,0,0,0,0,0,0,0,0,0
+85,"All sessions for all participants were carried out by one experienced SLT (AJ), who devised the aims for each session and individually relevant practice materials, where possible reflecting the interests of the participant.",0,0,0,0,0,0,0,0,0,0,0
+86,"On each visit she introduced the treatment material, with written stimuli, provided modelling, practice opportunities, feedback, reinforcement of desired responses, verbal reward, review, correction of non‐desired responses, and encouragement, endeavouring to maximize and maintain motivation.",0,0,0,0,0,0,0,0,0,0,0
+87,There were at least five attempts at each verbal stimulus at each practice occasion.,0,0,0,0,0,0,0,0,0,0,0
+88,The criterion level for progress to a new stimulus set was 80% success.,0,0,0,0,0,0,0,0,0,0,0
+89,Conversation was an integral component of the sessions and was structured to incorporate opportunities to use material practised earlier in the sessions.,0,0,0,0,0,0,0,0,0,0,0
+90,"In each session, before introducing and practising the individually specific speech stimuli, a core set of carefully modelled words and sentences were practised, chosen for variety of articulatory placement and complexity (e.g.",0,0,0,0,0,0,0,0,0,0,0
+91,paper; which; Scotland; where are you going; in Scotland it often snows in winter).,0,0,0,0,0,0,0,0,0,0,0
+92,Participants were instructed to make speech ‘as good as possible’ and ‘use clear lip and tongue shapes’ and to attempt to maintain clear speech in the succeeding individually tailored practice and in conversation.,0,0,0,0,0,0,0,0,0,0,0
+93,These stimuli were given in written form and demonstrated on a DVD using a ‘practise with me’ format.,0,0,0,0,0,0,0,0,0,0,0
+94,"For Group B only, NSOMExs were also included on the DVD.",0,0,0,0,0,0,0,0,0,0,0
+95,"These comprised repetitions of tongue and lip movements which had relevance to positions for speech sounds, e.g.",0,0,0,0,0,0,0,0,0,0,0
+96,"mouth opening and closing, and tongue elevation behind the upper teeth.",0,0,0,0,0,0,0,0,0,0,0
+97,"Each exercise was carried out five times with positions held for 5 s, followed by a pause.",0,0,0,0,0,0,0,0,0,0,0
+98,"In addition to practice within sessions, a practice regime of two to three periods of 10–15 min, 5 days a week, carried out independently or with available support, was promoted.",0,0,0,0,0,0,0,0,0,0,0
+99,"In the absence of guidelines on optimum amounts of practice and how to maximize compliance, the proposed practice amount was influenced by clinicians’ typical practice for NONSOMExs, and documented participant adherence.",0,0,0,0,0,0,0,0,0,0,0
+100,"The recommended practice included conversation, the core word and sentence set, using speech maximization strategies, the individually relevant stimuli introduced in the sessions; and for Group B the NSOMExs practising along with the DVD model.",0,0,0,0,0,0,0,0,0,0,0
+101,"Where required, a DVD player was provided, with full instructions and demonstration for use.",0,0,0,0,0,0,0,0,0,0,0
+102,"A practice diary was issued for recording amounts of time spent between therapy sessions in practice of words and sentences, conversation, and for Group B, NSOMExs.",0,0,0,0,0,0,0,0,0,0,0
+103,A total independent practice time of 1050 min was deemed consistent with recommendation (30 min × 5 days × 7 between‐session practice weeks).,0,0,0,0,0,0,0,0,0,0,0
+104,"The intervention SLT guided participants on diary completion, collected and reviewed records at each session, and encouraged full compliance in those whose records indicated low amounts of practice.",0,0,0,0,0,0,0,0,0,0,0
+105,Assessment and outcome measures,0,0,0,0,0,0,0,0,0,0,0
+106,Data were collected at four points (table 3).,0,0,0,0,0,0,0,0,0,0,0
+107,"All data were collected by a single experienced SLT research assessor (MM), who was blind to group allocation.",0,0,0,0,0,0,0,0,0,0,0
+108,Average assessment time at each point was 45 min.,0,0,0,0,0,0,0,0,0,0,0
+109,Speech intelligibility at sentence level with Speech Intelligibility Test.,0,0,0,0,0,0,0,0,0,0,0
+110,"Eleven sentences, one each of length five to 15 words, are computer‐generated from pools of 100 sentences of each length.",0,0,0,0,0,0,0,0,0,0,0
+111,Sentences were presented individually at font point size 24 for reading aloud.,0,0,0,0,0,0,0,0,0,0,0
+112,"Imitation was used where there were reading difficulties, with the model subsequently deleted.",0,0,0,0,0,0,0,0,0,0,0
+113,Each listener‐identified stimulus word receives a score of 1 (maximum score: 110).,0,0,0,0,0,0,0,0,0,0,0
+114,Communication effectiveness in conversation with Communication Effectiveness Measure.,0,0,0,0,0,0,0,0,0,0,0
+115,"A one‐ to seven‐point equal appearing interval scale (1 = not at all effective, 7 = very effective) provides a single indicator of listener‐perceived overall communication effectiveness during conversation.",0,0,0,0,0,0,0,0,0,0,0
+116,"Five to 10 min of conversation with the research assessor (MM) about topics such as a typical day, life since stroke, recent activities, work, family and friends were recorded.",0,0,0,0,0,0,0,0,0,0,0
+117,Lip and tongue movement tasks from Frenchay Dysarthria Assessment—2 .,0,0,0,0,0,0,0,0,0,0,0
+118,"Six items, each scored on a five‐point equal appearing interval scale, with the provision for between‐point ratings, allowing for ratings from 1 (low) to 9 (high) (maximum = 54).",0,0,0,0,0,0,0,0,0,0,0
+119,"Lip and tongue at rest status and movement in speech are also rated in FDA‐2, but these are excluded here as the intended focus was non‐speech activity.",0,0,0,0,0,0,0,0,0,0,0
+120,Data were recorded using consistent procedures in as quiet an environment as possible in the participants’ homes.,0,0,0,0,0,0,0,0,0,0,0
+121,"SIT responses were recorded on a Roland Edirol digital audio recorder directly onto an SD card, at a sample rate of 48 kHz.",0,0,0,0,0,0,0,0,0,0,0
+122,For CEM and FDA‐2 a Canon Legria FS200 digital camcorder recording directly to an SD memory card was used.,0,0,0,0,0,0,0,0,0,0,0
+123,This recorded very mildly compressed audio at a 48 kHz sample rate.,0,0,0,0,0,0,0,0,0,0,0
+124,For all of the above an Audio‐Technica ATR35s omni‐directional condenser Lavalier tie‐clip microphone was positioned approximately 20 cm beneath the speaker's mouth.,0,0,0,0,0,0,0,0,0,0,0
+125,Self‐rating of communication effectiveness with Communicative Effectiveness Survey.,0,0,0,0,0,0,0,0,0,0,0
+126,"‘having a conversation with family or friends at home’ and ‘conversing with a stranger over the telephone’, are rated on a 1 (not at all effective) to 4 (very effective) scale (maximum = 32).",0,0,0,0,0,0,0,0,0,0,0
+127,Participants did not have sight of their previous ratings at any point.,0,0,0,0,0,0,0,0,0,0,0
+128,Audio and video data preparation and handling,0,0,0,0,0,0,0,0,0,0,0
+129,"Audio and video clips for SIT, CEM and FDA‐2 (see above) were copied to a hard drive and edited using Sony Vegas Movie Studio 10 Platinum, to cut them into easily identifiable files.",0,0,0,0,0,0,0,0,0,0,0
+130,"For CEM, extracts of around 4 min were taken from each sample.",0,0,0,0,0,0,0,0,0,0,0
+131,These included both assessor and participant contributions and excluded opening and closing elements and clues to assessment point.,0,0,0,0,0,0,0,0,0,0,0
+132,Audio was normalized to prevent differences in volume across clips.,0,0,0,0,0,0,0,0,0,0,0
+133,Some gentle noise reduction was done using Izotope RX (on the highest quality setting) to remove hiss and background noise without affecting the dialogue.,0,0,0,0,0,0,0,0,0,0,0
+134,"To facilitate management of the high volume of data, participant samples were divided into two participant sets (SET 1 and SET 2), with samples for all assessment points included in the same set.",0,0,0,0,0,0,0,0,0,0,0
+135,"Data samples were then randomized for transcription (SIT) and rating (CEM and FDA‐2), which was carried out by groups of graduating SLT students, blind to assessment point and group, over a single week.",0,0,0,0,0,0,0,0,0,0,0
+136,"For SET 1 and SET 2 students, group sizes were respectively: SIT: 3, 4; CEM: 7, 7; and FDA‐2: 3, 3.",0,0,0,0,0,0,0,0,0,0,0
+137,All transcribers and raters had normal hearing by self‐report were native English speakers and familiar with the relevant Scottish accents.,0,0,0,0,0,0,0,0,0,0,0
+138,They had no previous contact with the participants or their data.,0,0,0,0,0,0,0,0,0,0,0
+139,Intelligibility: SIT data were distributed as files and transcribed orthographically.,0,0,0,0,0,0,0,0,0,0,0
+140,"Each sentence was heard twice, with 5‐s gaps, using headphones.",0,0,0,0,0,0,0,0,0,0,0
+141,"Following practice data, listeners proceeded at their own rate, pausing the recordings as required.",0,0,0,0,0,0,0,0,0,0,0
+142,They were able to select and adjust playback volume.,0,0,0,0,0,0,0,0,0,0,0
+143,The transcriptions were divided between two researchers for calculations of correctly identified words.,0,0,0,0,0,0,0,0,0,0,0
+144,A total of 21% of the transcribed data were scored independently by both researchers.,0,0,0,0,0,0,0,0,0,0,0
+145,Point‐to‐point agreement was 99.79%.,0,0,0,0,0,0,0,0,0,0,0
+146,"Word identification variation across the three listeners was anticipated and present, and is likely to be influenced by factors such as extent of previous exposure to speech disorders, level of attention and individual discrimination ability.",0,0,0,0,0,0,0,0,0,0,0
+147,Individual words omitted in participants’ reading of the stimuli were deducted from the possible scores.,0,0,0,0,0,0,0,0,0,0,0
+148,"Scores are therefore presented as percentages of words correctly identified, using the listeners’ mean.",0,0,0,0,0,0,0,0,0,0,0
+149,"Data were distributed as a DVD‐Video disc, viewed together by raters on a video projector and sound system.",0,0,0,0,0,0,0,0,0,0,0
+150,"Training included discussion of ‘communication effectiveness’ as it relates to dysarthria, using Hustad's (1999) concept of an effective communicator as ‘active and efficient in getting the message across […] in real‐world social contexts’ (p. 483).",0,0,0,0,0,0,0,0,0,0,0
+151,"Raters were instructed to attend to intelligibility, speech naturalness, efficiency and non‐verbal aspects of communication which might contribute to overall comprehensibility and to be aware of any dependence on the communication partner's contribution for understanding the message.",0,0,0,0,0,0,0,0,0,0,0
+152,They were directed not to evaluate language.,0,0,0,0,0,0,0,0,0,0,0
+153,"Three samples representing CEM levels 2, 4 and 6 were used in training.",0,0,0,0,0,0,0,0,0,0,0
+154,"Data samples were then rated in sets of five, with each sample viewed twice, and each set followed by a short break.",0,0,0,0,0,0,0,0,0,0,0
+155,The level 4 example was played before each set of five samples.,0,0,0,0,0,0,0,0,0,0,0
+156,"Intra‐class correlations across the data for SETs 1 and 2 respectively were 0.99, F = 73.80, p < 0.001; and 0.98, F = 49.74, p < 0.001.",0,0,0,0,0,0,0,0,0,0,0
+157,Mean rater scores were utilized for data reporting and analysis.,0,0,0,0,0,0,0,0,0,0,0
+158,"Lip and tongue movement: Data were distributed as a DVD‐Video disc, viewed together by raters on a video projector and sound system.",0,0,0,0,0,0,0,0,0,0,0
+159,"Each response was viewed twice, with 5‐s gaps.",0,0,0,0,0,0,0,0,0,0,0
+160,The relevant FDA‐2 scoring descriptors were used to rate performance.,0,0,0,0,0,0,0,0,0,0,0
+161,"Training included full consideration of these descriptors, and practice followed by discussion, using three samples representing varied severities.",0,0,0,0,0,0,0,0,0,0,0
+162,"Consistent with the direction given in the test manual, raters were instructed to apply the ‘best fit’ rating.",0,0,0,0,0,0,0,0,0,0,0
+163,Breaks were taken after each set of five or six samples.,0,0,0,0,0,0,0,0,0,0,0
+164,Items from the practice samples were reviewed at several points during the rating process.,0,0,0,0,0,0,0,0,0,0,0
+165,"Intra‐class correlations across the data for SETs 1 and 2 respectively were 0.88, F = 8.01, p < 0.001; and 0.92, F = 11.74, p < 0.001.",0,0,0,0,0,0,0,0,0,0,0
+166,Mean rater scores were utilized for data reporting and analysis.,0,0,0,0,0,0,0,0,0,0,0
+167,Self‐rated communicative effectiveness: Participants’ totals on CES were tallied by one researcher.,0,0,0,0,0,0,0,0,0,0,0
+168,A second researcher independently tallied 40% of the data.,0,0,0,0,0,0,0,0,0,0,0
+169,Participants’ views of the programme,0,0,0,0,0,0,0,0,0,0,0
+170,A post‐intervention anonymous evaluation (AE) questionnaire was issued to participants following the final intervention session.,0,0,0,0,0,0,0,0,0,0,0
+171,The intervention therapist was not involved in this nor did she see the returns.,0,0,0,0,0,0,0,0,0,0,0
+172,"No validated measure was available that would provide informative study‐specific anonymous feedback, so a questionnaire was modelled on that used in a previous stroke dysarthria intervention study.",0,0,0,0,0,0,0,0,0,0,0
+173,"It comprised (1) 15 statements on therapy sessions and results, for response on a one to five scale (1 = strongly disagree; 2 = disagree; 3 = neither agree nor disagree; 4 = agree; 5 = strongly agree); (2) 12 suggested programme improvements, using a ‘tick all that apply’ response, covering session difficulty, pace, length, number, amount of content and of home practice; (3) a question on preferred therapy location; and (4) two open questions requesting further suggestions for programme improvement and ‘anything else you would like to tell us’.",0,0,0,0,0,0,0,0,0,0,0
+174,Group equivalence at A1 (n = 39) was measured by t‐tests and for categorical data by chi‐square.,0,0,0,0,0,0,0,0,0,0,0
+175,Assessment point and group effects were examined by analysis of variance (ANOVA) (n = 32).,0,0,0,0,0,0,0,0,0,0,0
+176,"Where across assessment variance was established, assessment point pairwise comparisons were used, with Bonferroni adjustments applied.",0,0,0,0,0,0,0,0,0,0,0
+177,"Analysis was also carried out with results imputed for the seven additional cases with incomplete intervention and/or post‐intervention assessments, by last observation carried forward and multiple imputation.",0,0,0,0,0,0,0,0,0,0,0
+178,Association between amount of practice and A2/A3 performance change was examined by Pearson tests.,0,0,0,0,0,0,0,0,0,0,0
+179,The target number of 50 participants had been agreed with collaborating SLT managers as a realistic aim within a 1‐year period.,0,0,0,0,0,0,0,0,0,0,0
+180,Identification and recruitment strategy was active: a research assistant at the university base liaised with the local collaborators and followed up all leads.,0,0,0,0,0,0,0,0,0,0,0
+181,"Initially four health boards were involved, and two more distant locations were later added, alongside a 4‐month extension of the recruitment period.",0,0,0,0,0,0,0,0,0,0,0
+182,"As participants were seen at home, some travelling distances for assessor and intervention therapist were more than anticipated, the furthest being 87 miles from base.",0,0,0,0,0,0,0,0,0,0,0
+183,"From 121 individuals, whose clinical records suggested suitability for the project, 58 were excluded because they were not contactable, unwell or frail, did not meet criteria, were not interested or for whom social or work circumstances or inconvenience precluded participation.",0,0,0,0,0,0,0,0,0,0,0
+184,"Similar reasons, with the exception of contact failure, applied to a further 24 who were excluded after the sending of recruitment literature.",0,0,0,0,0,0,0,0,0,0,0
+185,"Thirty‐six people completed the intervention programme and 32 (Group A: 16; Group B: 16) completed to final assessment, 8 weeks after intervention (figure 1).",0,0,0,0,0,0,0,0,0,0,0
+186,There was no movement from one group to another.,0,0,0,0,0,0,0,0,0,0,0
+187,Two participants from each group missed one session each.,0,0,0,0,0,0,0,0,0,0,0
+188,Attrition was within the 20% projection and was mainly due to ill‐health.,0,0,0,0,0,0,0,0,0,0,0
+189,Fidelity to intervention protocol was monitored by a member of the research team during two sessions with each of six participants representing four health boards.,0,0,0,0,0,0,0,0,0,0,0
+190,"Intervention consistent with protocol was verified, in relation to time distribution within sessions, therapy materials, and appropriate inclusion of modelling, practice opportunities, feedback, reinforcement, verbal reward, review, response correction, encouragement, communication maximization strategies, and achievement of 80% threshold success on stimulus sets before progression.",0,0,0,0,0,0,0,0,0,0,0
+191,Records of practice were obtained from the 32 participants who completed through to A4.,0,0,0,0,0,0,0,0,0,0,0
+192,"The total amount of time recorded for practice varied greatly (range = 0–4482 min, mean (SD) = 1559 (1300.58).",0,0,0,0,0,0,0,0,0,0,0
+193,A total of 19/32 (59%) completed at least the recommended practice total of 1050 min (30 min × 5 days a week × 7 between‐session weeks).,0,0,0,0,0,0,0,0,0,0,0
+194,"Four participants recorded less than 1 h in total throughout the programme, whereas five people exceeded 3000 min.",0,0,0,0,0,0,0,0,0,0,0
+195,"Although Group B, with three practice conditions rather than the two conditions for Group A, had a higher mean total practice minute score (figure 2), the difference did not approach significance.",0,0,0,0,0,0,0,0,0,0,0
+196,"Groups A and B did not differ in practice totals across all conditions (t(30) = –0.90, p = 0.38), nor in totals for word and sentences stimuli (t(30) = 0.70, p = 0.49), nor conversation (t(30) = 0.80, p = 0.43).",0,0,0,0,0,0,0,0,0,0,0
+197,"Correlations of total practice and A2/A3 score changes on the four outcome measures were not significant, with the exception of FDA‐2 (SIT: r = 0.02, p = 0.92; CES: r = 0.17, p = 0.35; CEM: r = 0.25, p = 0.16; FDA‐2: r = 0.38, p = 0.03).",0,0,0,0,0,0,0,0,0,0,0
+198,"For the Group B who carried out NSOMExs, correlation of A2/A3 score change on FDA‐2 (tongue and lip status) and total time recorded for NSOMExs practice did not reach significance (r = 0.39, p = 0.14).",0,0,0,0,0,0,0,0,0,0,0
+199,Total practice between sessions.,0,0,0,0,0,0,0,0,0,0,0
+200,Participants’ views of the programme,0,0,0,0,0,0,0,0,0,0,0
+201,Thirty‐four participants returned the AE.,0,0,0,0,0,0,0,0,0,0,0
+202,Responses to the 15 statements indicated high satisfaction with the programme and its outcome.,0,0,0,0,0,0,0,0,0,0,0
+203,Few responses were not ‘strongly agree’ or ‘agree’.,0,0,0,0,0,0,0,0,0,0,0
+204,A total of 82% thought their speech had improved and 88% felt they were more confident in communication.,0,0,0,0,0,0,0,0,0,0,0
+205,A total of 82% had been able to carry out the home practice.,0,0,0,0,0,0,0,0,0,0,0
+206,The usefulness of the DVD was confirmed in that 82% found it helpful and 76% found it easy to use.,0,0,0,0,0,0,0,0,0,0,0
+207,A total of 73% found the practice diary easy to complete.,0,0,0,0,0,0,0,0,0,0,0
+208,"In relation to the content of sessions, only one participant reported that the sessions had not met expectations.",0,0,0,0,0,0,0,0,0,0,0
+209,"Over 85% respondents thought the activities useful, at an appropriate level of difficulty and pace.",0,0,0,0,0,0,0,0,0,0,0
+210,"Excepting one non‐respondent, all thought they had been given enough feedback by a helpful and well prepared SLT.",0,0,0,0,0,0,0,0,0,0,0
+211,A total of 76% thought the sessions included enough practice.,0,0,0,0,0,0,0,0,0,0,0
+212,Further details are given in figure 3.,0,0,0,0,0,0,0,0,0,0,0
+213,Anonymous evaluations (AEs): responses to statements.,0,0,0,0,0,0,0,0,0,0,0
+214,"For the 12 suggested improvements to the programme, the largest responses were ‘have more sessions’ (56%), ‘give more home practice’ (44%), ‘make sessions more difficult’ (32%) and ‘make sessions longer’ (32%).",0,0,0,0,0,0,0,0,0,0,0
+215,All other responses were from few individuals.,0,0,0,0,0,0,0,0,0,0,0
+216,No one thought there should be fewer sessions or less home practice.,0,0,0,0,0,0,0,0,0,0,0
+217,No suggestions for improvement additional to those provided were offered.,0,0,0,0,0,0,0,0,0,0,0
+218,The domestic situation was preferred over hospital‐based therapy by 73% and 15% had no preference.,0,0,0,0,0,0,0,0,0,0,0
+219,"The final open question of ‘anything else you would like to tell us’ produced only positive remarks about the sessions, their enjoyment and usefulness, the SLT and belief that improvements had occurred e.g.",0,0,0,0,0,0,0,0,0,0,0
+220,"‘Friends and family have commented on how my speech has improved as I now take my time and any difficult words I break them down which I have learned through this programme.’ One respondent endorsed the individualization of practice stimuli and another indicated that he/she continued to practise: ‘We felt the sessions were more useful when the sentences, words and phrases were interesting to the participant’; and ‘I thought the idea was good and has helped my speech.",0,0,0,0,0,0,0,0,0,0,0
+221,"I am looking forward to improving each week as I practise more and more.’ Two respondents conveyed a need for SLT feedback: ‘Speech practice alone is no good without an SLT's feedback—this is one of the main benefits of SLT’; and ‘There is no benefit in tongue exercises if you don’t get any feedback.’ One respondent referred to the usefulness of the DVD: ‘I found it helpful to practise along with the DVD, imitating the speech models presented on it.’",0,0,0,0,0,0,0,0,0,0,0
+222,Participant status on outcome measures,0,0,0,0,0,0,0,0,0,0,0
+223,"Group A (n = 20) and Group B (n = 19) performance was equivalent at A1 on all outcome measures: SIT t(37) = –0.69, p = 0.49, CEM t(37) = –1.18, p = 0.25, CES t(37) = 0.55, p = 0.59, FDA‐2 t(37) = –1.05, p = 0 .30.",0,0,0,0,0,0,0,0,0,0,0
+224,"Figure 4 shows performance of Group A (n = 16) and Group B (n = 16), and the combined groups on the four measures (n = 32) at the four assessment points.",0,0,0,0,0,0,0,0,0,0,0
+225,Mean scores at assessments 1–4.,0,0,0,0,0,0,0,0,0,0,0
+226,"Group A versus Group B difference was not indicated on any of the four measures, based on data for 32 completing participants: SIT F(1, 30) = 1.46, p = 0.24; CEM F(1, 30) = 2.39, p = 0.13, CES F(1, 30) = 0.58, p = 0.45; FDA‐2 F(1, 30) = 2.61, p = 0.12.",0,0,0,0,0,0,0,0,0,0,0
+227,"There was no significant interaction between group allocation and assessment point on any of the four measures for these participants: SIT F(3, 90) = 0.88, p = 0.97; CEM F(3, 90) = 0.34, p = 0.80; CES F(3, 90) = 0.16, p = 0.92; FDA F(3, 90) = 0.12, p = 0.95.",0,0,0,0,0,0,0,0,0,0,0
+228,"In view of the scale nature of the CEM measure, non‐parametric analysis was also undertaken and provided similar results.",0,0,0,0,0,0,0,0,0,0,0
+229,"Imputation of results for seven additional cases with incomplete intervention and/or post‐intervention assessments, by last observation carried forward and multiple imputation provided similar results for all measures.",0,0,0,0,0,0,0,0,0,0,0
+230,"Whole sample (n = 32) variance across assessment points was demonstrated for all measures, except SIT.",0,0,0,0,0,0,0,0,0,0,0
+231,"SIT F(3,90) = 1.02, p = 0.39, CEM F(3,90) = 8.87, p < 0.001, CES F(3, 90) = 21.70, p < 0.001, FDA‐2 F(3, 90) = 10.34, p < 0.001.",0,0,0,0,0,0,0,0,0,0,0
+232,"Pairwise comparison of assessment points for CEM, CES and FDA‐2 were justified.",0,0,0,0,0,0,0,0,0,0,0
+233,"Table 4 shows significance levels, with Bonferroni correction, effect sizes and 95% confidence intervals.",0,0,0,0,0,0,0,0,0,0,0
+234,"For all three measures, performance did not change significantly across non‐intervention periods (A1/A2 and A3/A4).",0,0,0,0,0,0,0,0,0,0,0
+235,"CEM and CES showed significant gains across the intervention period (A2/A3), between A2 and A4 and also between A1 and A4.",0,0,0,0,0,0,0,0,0,0,0
+236,The intervention period effect size was small for the CEM and at the high end of medium for CES.,0,0,0,0,0,0,0,0,0,0,0
+237,"For FDA‐2 performance across the intervention period (A2/A3) did not change, but significant gains were present between A2 and A4 and A1 and A4, the latter with a medium effect size.",0,0,0,0,0,0,0,0,0,0,0
+238,"Assessment point pairwise comparisons: CEM, CES and FDA‐2",0,0,0,0,0,0,0,0,0,0,0
+239,"Because of the close relationship between the FDA‐2 tasks and the NSOMExs in the Group B intervention, Groups A and B were examined separately on this measure.",0,0,0,0,0,0,0,0,0,0,0
+240,"This confirmed significant A1/A4 change for both groups (Group A t(15) = –3.947, p < 0.01; Group B, t(15) = –3.551 p < 0.05).",0,0,0,0,0,0,0,0,0,0,0
+241,No other pairwise comparisons were significant.,0,0,0,0,0,0,0,0,0,0,0
+242,"To examine further the results for the two measures (SIT and FDA‐2) for which an intervention effect was not indicated, A2/A3 results were inspected for high and low scorers.",0,0,0,0,0,0,0,0,0,0,0
+243,For SIT at A2 21 participants scored above and 11 below the sample mean (76%).,0,0,0,0,0,0,0,0,0,0,0
+244,The A2 and A3 means (SD) respectively were 93.52(4.43) and 92.86 (6.61) for high scorers and 43.55 (24.18) and 52.91 (29.45) for low scorers.,0,0,0,0,0,0,0,0,0,0,0
+245,"For the high scoring subgroup there was no A2/A3 gain: (t(20) = 0.46, p = 0.65, CI = –2.39 to 3.72).",0,0,0,0,0,0,0,0,0,0,0
+246,"For the lower subgroup change was significant (t(10) = –3.12, p = 0.01, CI = –16.05, –2.68).",0,0,0,0,0,0,0,0,0,0,0
+247,The data and results suggest that a ceiling effect may contribute to the non‐variance of SIT scores across assessment points.,0,0,0,0,0,0,0,0,0,0,0
+248,This subgroup comprised seven Group A and four Group B members.,0,0,0,0,0,0,0,0,0,0,0
+249,For FDA‐2 at A2 20 participants scored above and 12 below the sample mean (38.22/54).,0,0,0,0,0,0,0,0,0,0,0
+250,The A2 and A3 means (SD) respectively were 43.43 (3.16) and 43.00 (3.60) for high scorers and 29.53 (4.91) and 32.89 (6.00) for low scorers.,0,0,0,0,0,0,0,0,0,0,0
+251,"For the high scoring subgroup there was no A2/A3 gain; (t(19) = 0.61, p = 0.55, CI = –1.06, 1.92).",0,0,0,0,0,0,0,0,0,0,0
+252,"For the lower subgroup change was significant (t(11) = –2.36, p = 0.04, CI = –6.50, –0.22).",0,0,0,0,0,0,0,0,0,0,0
+253,This subgroup comprised seven Group A and five Group B members.,0,0,0,0,0,0,0,0,0,0,0
+254,The behavioural management provided was positively received by the dysarthric stroke population and the evidence of benefit includes both external measures and participant evaluation.,0,0,0,0,0,0,0,0,0,0,0
+255,The inclusion of NSOMExs in the intervention programme did not appear to provide additional benefit.,0,0,0,0,0,0,0,0,0,0,0
+256,"The results presented contribute to the limited literature on outcome of SLT intervention for post‐stroke dysarthria and should be viewed in the context of the sample size, the content and amount of intervention and the outcome measures used.",0,0,0,0,0,0,0,0,0,0,0
+257,"A feasibility study design, rather than a fully powered trial, was appropriate to the current state of progress of intervention research for chronic post‐stroke dysarthria.",0,0,0,0,0,0,0,0,0,0,0
+258,Participants were randomized into groups that differed only in respect of the inclusion of NSOMExs.,0,0,0,0,0,0,0,0,0,0,0
+259,The same amount of therapy time was provided to both groups by a single SLT.,0,0,0,0,0,0,0,0,0,0,0
+260,There was not a non‐intervention control group.,0,0,0,0,0,0,0,0,1,0,0
+261,"The inclusion of non‐intervention periods, equal in length to the intervention period, allowed evaluation of participant status on the outcome measures with and without intervention.",0,0,0,0,0,0,0,0,0,0,0
+262,Feasibility and participant feedback,0,0,0,0,0,0,0,0,0,0,0
+263,"Feasibility is considered in relation to recruitment, retention and engagement, delivery of and adherence to the intervention protocol, and suitability of outcome measures.",0,0,0,0,0,0,0,0,0,0,0
+264,"Recruitment, retention and engagement",0,0,0,0,0,0,0,0,1,0,0
+265,Recruitment was lower and slower than projected.,0,0,0,0,0,0,0,0,0,0,0
+266,"Even with extension of the recruitment period and inclusion of two further, more distant, health boards, the enrolled number was 20% below target.",0,0,0,0,0,0,0,0,0,0,0
+267,From the original 121 identifications 32% were enrolled to the study and allocated to an intervention group.,0,0,0,0,0,0,0,0,0,0,0
+268,There were then two stages of exclusion: 48% of those whose records indicated suitability were not sent recruitment literature and 38% of those who were sent literature were not enrolled.,0,0,0,0,0,0,0,0,0,0,0
+269,"Taking these two stages together, a high number of exclusions related to poor health and this is not unexpected in a stroke population.",0,0,0,0,0,0,0,0,0,0,0
+270,"An equally high proportion of exclusions were due to non‐fulfilment of inclusion criteria, such as speech standard now being good, diagnosis of additional neurological disease or cognitive deficit, hospital residence or markedly poor vision or hearing.",0,0,0,0,0,0,0,0,0,0,0
+271,A relatively small number of people on initial contact indicated that they were not interested in participating and further people declined after receiving the participant information sheet.,0,0,0,0,0,0,0,0,0,0,0
+272,"This conformed to NHS ethical guidelines, and was formatted and worded appropriately for the population.",0,0,0,0,0,0,0,0,0,0,0
+273,"In many cases we did not determine the reason for not wishing to join the study, but there were instances where speech was not a priority for the individual or he/she did not want to commit to the schedule of assessment and intervention.",0,0,0,0,0,0,0,0,0,0,0
+274,"Consideration should be given in future research to seeking this information systematically from individuals who decline to participate, via anonymous questionnaires.",0,0,0,0,0,0,0,0,0,0,0
+275,"For some people non‐participation was linked to personal and domestic situations, including work commitments and family member health or support factors.",0,0,0,0,0,0,0,0,0,0,0
+276,"The recruitment experience showed that for a stroke dysarthria intervention study, even with a tenacious approach, it is likely that many apparently eligible people will not be enrolled, and for very varied reasons.",0,0,0,0,0,0,0,0,0,0,0
+277,"Conducting further, larger scale research in this field would require a wider geographical radius.",0,0,0,0,0,0,0,0,0,0,0
+278,"Consistency of approach, with one assessor and one intervention therapist carrying out all sessions, was a strength of the current study.",0,0,0,0,0,0,0,0,0,0,0
+279,"Further training and monitoring steps are required to maintain such consistency across researchers in future, larger studies.",0,0,0,0,0,0,0,0,0,0,0
+280,Attrition on health grounds is inevitable with stroke populations and the 18% attrition (three people during the intervention phase and four others before follow‐up) was as expected.,0,0,0,0,0,0,0,0,0,0,0
+281,"Participant sustained engagement was indicated by there being no withdrawals or loss to follow‐up through reduction in interest, and very few missed sessions.",0,0,0,0,0,0,0,0,0,0,0
+282,Further evidence of interest and engagement is provided from participant feedback (see below).,0,0,0,0,0,0,0,0,0,0,0
+283,"It is likely that the domestic location, about which participants were almost unanimously positive, supported attendance.",0,0,0,0,0,0,0,0,0,0,0
+284,The project does not inform on aspects of efficiency and economics of home versus hospital models and that is a topic for future research.,0,0,0,0,0,0,0,0,0,0,0
+285,Also the participant sample represented broad spectra of age and time post‐stroke.,0,0,0,0,0,0,0,0,0,0,0
+286,Evaluation of programme response with reference to these two potentially important variables was not appropriate in a study of this size.,0,0,0,0,0,0,0,0,0,0,0
+287,Intervention protocol delivery and adherence,0,0,0,0,0,0,0,0,1,0,0
+288,"Currently post‐stroke dysarthria research and practice guidelines do not inform on optimum dosage and duration of intervention, or amounts of independent practice.",0,0,0,0,0,0,0,0,0,0,0
+289,A regime of eight once‐weekly sessions was consistent with previous behavioural intervention in post‐stroke dysarthria which reported positive outcomes.,0,0,0,0,0,0,0,0,0,0,0
+290,"The people with dysarthria, family members and clinicians consulted when planning the project thought this appropriate and that recruitment and attrition may be affected by a longer programme length.",0,0,0,0,0,0,0,0,0,0,0
+291,Via AE over half of the participants recommended having more sessions.,0,0,0,0,0,0,0,0,0,0,0
+292,No one thought there should be fewer sessions.,0,0,0,0,0,0,0,0,0,0,0
+293,"This feedback, and attrition being mainly related to health issues, indicates the course length was appropriate for many.",0,0,0,0,0,0,0,0,0,0,0
+294,The effects of a longer and/or more intense programme are unknown.,0,0,0,0,0,0,0,0,0,0,0
+295,"Outcomes associated with different dosage and duration of intervention, which is a current topic in aphasia research, requires to be viewed in conjunction with what is acceptable to and sustainable by the dysarthric stroke population.",0,0,0,0,0,0,0,0,0,0,0
+296,"The programme of assessment and intervention was delivered to plan and we monitored and confirmed fidelity to protocol in relation to time management, session content and a broad range of behavioural intervention features.",0,0,0,0,0,0,0,0,0,0,0
+297,Participant satisfaction with the sessions was demonstrated by the level of sustained attendance and also by AE responses.,0,0,0,0,0,0,0,0,0,0,0
+298,"Session content was individualized to take account of not only dysarthria severity and the profile of affected speech sounds and contexts, but also to incorporate material of interest to participants, e.g.",0,0,0,0,0,0,0,0,0,0,0
+299,song lyrics and scripture excerpts.,0,0,0,0,0,0,0,0,0,0,0
+300,Endorsement of this approach is indicated by there being no disagreement in the AE that the ‘activities were useful for me’.,0,0,0,0,0,0,0,0,0,0,0
+301,"Much pre‐session preparation was involved and in the AE there was unanimous agreement that ‘the therapist was well prepared’, ‘helpful’ and gave ‘enough feedback’.",0,0,0,0,0,0,0,0,0,0,0
+302,Response agreement was high as regards the difficulty level of materials and the pacing of sessions.,0,0,0,0,0,0,0,0,0,0,0
+303,"A strong majority thought there was enough practice in the sessions, though some participants felt they could have tackled more, and this was evident also in 26% agreement with the suggestion to ‘include more in each session’.",0,0,0,0,0,0,0,0,0,0,0
+304,"Clinicians should discuss the amount of practice in sessions, at an early stage, and make relevant adjustments to optimize this for individuals.",0,0,0,0,0,0,0,0,0,0,0
+305,Behavioural dysarthria therapy is practice based and between‐session practice typically is a component of management programmes.,0,0,0,0,0,0,0,0,0,0,0
+306,"Structured practice, to supplement the SLT led sessions was recommended for two to three short periods (10–15 min) for each of 5 days each week.",0,0,0,0,0,0,0,0,0,0,0
+307,"There was much variation in amounts of practice recorded, and its distribution across word and sentence stimuli, conversation, and NSOMExs (Group B).",0,0,0,0,0,0,0,0,0,0,0
+308,"The data do not indicate any quantifiable relationship between group membership, practice and improved outcome.",0,0,0,0,0,0,0,0,0,0,0
+309,"According to the AE only a few people had been unable to carry out the home practice but the diary records indicate that over 40% did not complete the recommended amount, although the importance of adhering to the home practice schedule was regularly emphasized by the intervention SLT and the participants appeared well motivated.",0,0,0,0,0,0,0,0,0,0,0
+310,No one agreed with the AE suggestion that there should be less home practice and over 40% agreed that more home practice should be provided.,0,0,0,0,0,0,0,0,0,0,0
+311,"As with amount of session content, clinicians should gauge the extent of practice appropriate for individuals and be flexible in their approach to this.",0,0,0,0,0,0,0,0,0,0,0
+312,(2013) similarly reported variation in attitude to home practice in the Living with Dysarthria group programme.,0,0,0,0,0,0,0,0,0,0,0
+313,"The availability of a practice partner appeared to be influential, leading Mackenzie et al.",0,0,0,0,0,0,0,0,0,0,0
+314,(2013) to suggest volunteer assistance to maximize home practice.,0,0,0,0,0,0,0,0,0,0,0
+315,A total of 36% of the participants in the current study lived alone and involving volunteers in between‐session practice should be considered.,0,0,0,0,0,0,0,0,0,0,0
+316,"Some people find it difficult to maintain records of practice and there may be reason to question the reliability of the records, although according to the AEs a strong majority found the practice diary easy to complete.",0,0,0,0,0,0,0,0,0,0,0
+317,The intervention SLT reported that some participants were vague about independent practice amounts and some needed assistance to complete records retrospectively.,0,0,0,0,0,0,0,0,0,0,0
+318,We learned the importance of full engagement of available family.,0,0,0,0,0,0,0,0,0,0,0
+319,Volunteers might assist in maintaining records as well as in carrying out practice.,0,0,0,0,0,0,0,0,0,0,0
+320,"The practice records inform only on the amount of time individuals reported that they spent practising, and not on how they approached this and with what success.",0,0,0,0,0,0,0,0,0,0,0
+321,The gathering of such valuable information would be facilitated by the full involvement of a practice partner.,0,0,0,0,0,0,0,0,0,0,0
+322,"To aid home practice a DVD was given, and used also in the sessions.",0,0,0,0,0,0,0,0,0,0,0
+323,"This demonstrated clear, careful articulation and for Group B included the NSOMExs.",0,0,0,0,0,0,0,0,0,0,0
+324,"As we anticipated, the DVD format was difficult to use for some less fit people who lived alone, and some were unable to use it consistently.",0,0,0,0,0,0,0,0,0,0,0
+325,"Nevertheless three‐quarters of respondents agreed this material ‘was easy to use’, and an even higher proportion thought it was helpful.",0,0,0,0,0,0,0,0,0,0,0
+326,We conclude that for many people this is a useful adjunct to written format materials.,0,0,0,0,0,0,0,0,0,0,0
+327,Suitability of outcome measures,0,0,0,0,0,0,0,0,0,0,0
+328,We aimed to obtain outcome information that was relevant to everyday communication.,0,0,0,0,0,0,0,0,0,0,0
+329,"The SIT, CEM and CES are concerned with intelligibility and effectiveness of connected speech and the CES provides the perspective of the person with dysarthria.",0,0,0,0,0,0,0,0,0,0,0
+330,"In contrast to these three measures that have face validity as regards how much of speech is understood and how effective communication is, the lip and tongue tasks from FDA‐2 inform on movements and their rate and were included because lip and tongue movements were practised by one participant group.",0,0,0,0,0,0,0,0,0,0,0
+331,"Informal feedback from the assessor indicates that these measures, including the use of audio and video, which were necessary for data analysis, were acceptable to the participants and the time involved, at an average of 45 min on each occasion, was not excessive.",0,0,0,0,0,0,0,0,0,0,0
+332,"The FDA‐2, SIT and CES are widely used in dysarthria and are validated and standardized measures.",0,0,0,0,0,0,0,0,0,0,0
+333,"The CEM is an informal measure, used in the absence of a reputable single external rating of communication effectiveness, applicable to the stroke dysarthria population.",0,0,0,0,0,0,0,0,0,0,0
+334,Standardization and validation testing are required.,0,0,0,0,0,0,0,0,0,0,0
+335,We detected a possible ceiling effect for SIT scores for this population.,0,0,0,0,0,0,0,0,0,0,0
+336,"Scores may have been inflated by the volume normalization applied in the data editing process and by listeners being graduating speech SLTs, who were permitted to select and adjust playback volume.",0,0,0,0,0,0,0,0,0,0,0
+337,These decisions were made because all data were collected in participants’ homes and we wished to avoid ratings being negatively affected by issues which were reflective of recording rather than patient status.,0,0,0,0,0,0,0,0,0,0,0
+338,"Although every effort was made to keep conditions constant there were inevitably occasions where individual circumstances and conditions, such as posture and background noise affected recordings.",0,0,0,0,0,0,0,0,0,0,0
+339,Collecting data under laboratory conditions would allow more objective measurement.,0,0,0,0,0,0,0,0,0,0,0
+340,Further consideration should also be given to the most appropriate indexes of intelligibility.,0,0,0,0,0,0,0,0,0,0,0
+341,Miller (2013) points out that sensitivity may be increased by supplementary listener confidence or ease of listening ratings.,0,0,0,0,0,0,0,0,0,0,0
+342,Also future research might add a measure that captures the impact of dysarthria.,0,0,0,0,0,0,0,0,0,0,0
+343,"Several tools are in development, including Communicative Participation Item Bank, Dysarthria Impact Profile, and Living With Dysarthria questionnaire.",0,0,0,0,0,0,0,0,0,0,0
+344,There was no apparent advantage on any of the four outcome measures for the participants whose intervention included NSOMExs.,0,0,0,0,0,0,0,0,0,0,0
+345,"Thus this study provides no support for the inclusion of these exercises, as used in this programme, in SLT management of people with post‐stroke dysarthria.",0,0,0,0,0,0,0,0,0,0,0
+346,To date no robust study has demonstrated speech gains attributable to NSOMExs.,0,0,0,0,0,0,0,0,0,0,0
+347,"The results for the combined groups data indicate intervention related improvements in communication effectiveness, based on external rating of conversational samples and participants’ self‐ratings.",0,0,0,0,0,0,0,0,0,0,0
+348,"The effect size for the self‐ratings, at just below large, shows that participants viewed themselves as more effective communicators following the programme and maintained this increased confidence with their communication two months after the end of the programme, suggesting a lasting effect.",0,0,0,0,0,0,0,0,0,0,0
+349,"The effect size for the externally rated effectiveness measure, CEM, was lower, but here too the significant gain was maintained, indicating that this improved communication was not dependent on ongoing SLT input.",0,0,0,0,0,0,0,0,0,0,0
+350,"SLT behavioural interventions comprise several interacting components, linked to participant, therapy and therapist.",0,0,0,0,0,0,0,0,0,0,0
+351,"Variables relevant to this study included practice of individually selected word and sentence stimuli and conversation, both incorporating speech maximization strategies, a therapist with whom participants had favourable rapport, and also for Group B, NSOMExs.",0,0,0,0,0,0,0,0,0,0,0
+352,"It is impossible to tease out the relative contributions of these factors in a feasibility study of this nature, but controls built into future research might include comparisons of outcomes associated with conversational practice only versus the specific stimuli plus conversational model used here.",0,0,0,0,0,0,0,0,0,0,0
+353,Relevant also is input from a non‐SLT versus planning and provision by an experienced SLT.,0,0,0,0,0,0,0,0,0,0,0
+354,'s (2012) results for the acute stroke population indicated no added benefit of SLT over social contact from an employed visitor.,0,0,0,0,0,0,0,0,0,0,0
+355,Significant variance across assessment points was also evident for the FDA‐2 tasks.,0,0,0,0,0,0,0,0,0,0,0
+356,However the absence of A2/A3 gain suggests no intervention effect but gradual changes over the assessment time period.,0,0,0,0,0,0,0,0,0,0,0
+357,Assessment may be identifying slight ongoing improvements in tongue and lip activity.,0,0,0,0,0,0,0,0,0,0,0
+358,"Also it is possible that there is some familiarity effect with this motor task, with participants feeling more comfortable with what initially may be perceived as strange demands.",0,0,0,0,0,0,0,0,0,0,0
+359,These changes did not appear to be related to group allocation in that across assessment profiles of Group A and Group B were similar.,0,0,0,0,0,0,0,0,0,0,0
+360,"Furthermore the low scoring group, for whom significant A2/A3 change was present, comprised members of both groups in almost equal numbers.",0,0,0,0,0,0,0,0,0,0,0
+361,It would seem that the NSOMExs regime used in this study has no specific effect on the tongue and lip movement tasks of the FDA‐2.,0,0,0,0,0,0,0,0,0,0,0
+362,"This challenges even the sceptical position on the use of NSOMExs in dysarthria that, while speech is not likely to improve, ability to do the exercises should improve .",0,0,0,0,0,0,0,0,0,0,0
+363,The exercises were practised at an intensity that was consistent with clinical practice.,0,0,0,0,0,0,0,0,0,0,0
+364,"The results do not inform on outcome that may be associated with high intensity repetitive practice, an approach which is thought to show promise for limb activity.",0,0,0,0,0,0,0,0,0,0,0
+365,Future research might examine the outcome of high‐intensity practice with selected motivated participants who have the required stamina.,0,0,0,0,0,0,0,0,0,0,0
+366,Intervention was not structured to adhere to motor learning principles concerning practice and feedback conditions.,0,0,0,0,0,0,0,0,0,0,0
+367,"With the exception of one small randomized study of dysarthria in Parkinson's disease , which showed that skill retention is aided by low rather than high‐frequency feedback, the effects of the implementation of motor‐learning principles have not been explored in acquired dysarthria.",0,0,0,0,0,0,0,0,0,0,0
+368,"Nevertheless, taken together with evidence from studies of healthy adults and apraxia of speech a motor learning approach is considered promising and worthy of further investigation.",0,0,0,0,0,0,0,0,0,0,0
+369,"We considered whether intervention for the exercise group should comprise solely exercises, which might permit a purer comparison with speech treatment.",0,0,0,0,0,0,0,0,0,0,0
+370,This was not acceptable to our clinical collaborators because of its inconsistency with usual practice.,0,0,0,0,0,0,0,0,0,0,0
+371,Furthermore it would be difficult to achieve group parity of session length where intervention was limited to exercises.,0,0,0,0,0,0,0,0,0,0,0
+372,"Given the significant improvements in effectiveness of communication and the intervention emphasis on clarity of articulation, the absence of parallel gains in the intelligibility measure was anomalous.",0,0,0,0,0,0,0,0,0,0,0
+373,Dysarthria affects not only intelligibility but also dimensions such as naturalness and rate and while all had articulatory imprecision many participants entered the study with relatively good intelligibility.,0,0,0,0,0,0,0,0,0,0,0
+374,A prevailing mild–moderate impairment level is documented in the literature on dysarthria in stroke.,0,0,0,0,0,0,0,0,0,0,0
+375,The additional analysis of A2/A3 SIT results suggested a ceiling effect for this test in that change was significant in low‐scoring participants.,0,0,0,0,0,0,0,0,0,0,0
+376,Participants’ positive views of outcome were further demonstrated via the AE.,0,0,0,0,0,0,0,0,0,0,0
+377,Only one participant disagreed with the statement ‘I feel the sessions and practice helped my speech’ and four responded neutrally.,0,0,0,0,0,0,0,0,0,0,0
+378,One strongly disagreed that ‘I feel the sessions and practice have made me more confident in communication’ and three responded neutrally.,0,0,0,0,0,0,0,0,0,0,0
+379,"Thus from the CES and AE results, it may be concluded that the majority of participants thought the programme beneficial, rating themselves as having improved speech, being more confident in speech, and being more effective communicators in everyday functional situations.",0,0,0,0,0,0,0,0,0,0,0
+380,This ‘participant voice’ strengthens the relevance of SLT to the management of post‐stroke dysarthria demonstrated in outcome measurement.,0,0,0,0,0,0,0,0,0,0,0
+381,"SLT practice currently lacks the tested and validated patient experience tools which are widely used in primary healthcare, such as the Scottish Health and Care Experience Survey and the development of appropriate instruments is an important area for future research.",0,0,0,0,0,0,0,0,0,0,0
+382,"Methods of collecting data to evaluate patient satisfaction such as focus groups, interviews and questionnaires, each have advantages and disadvantages.",0,0,0,0,0,0,0,0,0,0,0
+383,"Questionnaires of the type used in this study have the benefits of convenience, anonymity and ease of completion and obviate the possibilities of fatigue and perceived confrontation which interviews may present, but do not permit detailed exploration of responses.",0,0,0,0,0,0,0,0,0,0,0
+384,For example it would be informative to probe as to why the recommended amount of practice was not carried out and the perceived usefulness of the DVD.,0,0,0,0,0,0,0,0,0,0,0
+385,"The use of more than one method may increase the richness, completeness and robustness of information.",0,0,0,0,0,0,0,0,0,0,0
+386,"We will be separately reporting on a subgroup of participants who took part in individual interviews, the data from which may provide further insights into the therapeutic experience and the perceived value of the programme.",0,0,0,0,0,0,0,0,0,0,0
+387,"As a disorder of the integrated motor speech system, dysarthria in stroke variably affects articulatory accuracy, but also respiration, phonation, resonance and prosody.",0,0,0,0,0,0,0,0,0,0,0
+388,"Behavioural SLT intervention may therefore incorporate several areas in addition to articulatory accuracy, which were not directly targeted in this study, and which may impact on articulatory accuracy and evaluations of intelligibility and communicative effectiveness.",0,0,0,0,0,0,0,0,0,0,0
+389,Future stroke intervention research may attend to a broader profile of impairment and incorporate outcome measures relevant to these.,0,0,0,0,0,0,0,0,0,0,0
+390,This research confirms the feasibility of delivering and evaluating a randomized SLT trial in post‐stroke chronic dysarthria to examine and compare outcomes in groups where intervention includes and does not include NSOMExs.,0,0,0,0,0,0,0,0,0,0,0
+391,"Although recruitment was below target, the study involved a higher number of participants than has previously been reported in post‐stroke dysarthria intervention research, and contributes to a limited evidence base for the relevance of behavioural intervention.",0,0,0,0,0,0,0,0,0,0,0
+392,"The recruitment experience, with a strategy that was appropriately active and focused, indicates a future requirement for an approach that is not only multicentre but also widely based geographically.",0,0,0,0,0,0,0,0,0,0,0
+393,The wide age span of the participant sample was representative of SLT caseloads and time post‐stroke was also diverse.,0,0,0,0,0,0,0,0,0,0,0
+394,These variables would be controllable in a larger study.,0,0,0,0,0,0,0,0,0,0,0
+395,Careful attention would be required to maintain and monitor consistency of approach across an increased number of assessors and intervention therapists.,0,0,0,0,0,0,0,0,0,0,0
+396,"The study informs on outcomes associated with a small number of SLT sessions targeting articulatory precision, supplemented by a home practice regime.",0,0,0,0,0,0,0,0,0,0,0
+397,"The significant post‐intervention gains in the effectiveness of communication during conversation, and in self‐ratings of situational effectiveness, maintained 2 months after the conclusion of the programme, were demonstrated on a background of pre‐intervention stability.",0,0,0,0,0,0,0,0,0,0,0
+398,"The inclusion of NSOMExs, delivered in accordance with standard clinical practice, did not appear to influence outcomes.",0,0,0,0,0,0,0,0,0,0,0
+399,There is a need to incorporate additional steps to maximize practice compliance in order to facilitate completion of the recommended amount of between‐session practise.,0,0,0,0,0,0,0,0,0,0,0
+400,For able and motivated participants future research might examine the acceptability and effects of higher intensity and prolonged practice and an increased number of sessions.,0,0,0,0,0,0,0,0,0,0,0

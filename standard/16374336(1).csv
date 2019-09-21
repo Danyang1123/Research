@@ -1,0 +1,73 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Docosahexaenoic acid (DHA) is an [omega]-3 long-chain polyunsaturated fatty acid found in all biologic membranes.,N,0,N,N,N,0,N,N,N,N,N
+1,It is the major constituent of photoreceptor membranes and is most highly concentrated in photoreceptor outer segments.,N,0,N,N,N,0,N,N,N,N,N
+2,"Although it is not possible to measure outer segment DHA levels in patients with retinitis pigmentosa (RP), it is possible to infer fatty acid status by measuring the DHA content of erythrocyte (RBC) membranes.",N,0,N,N,N,0,N,N,N,N,N
+3,Many studies have reported that RBC-DHA levels are lower than normal in patients with RP.,N,0,N,N,N,1,N,N,N,N,N
+4,"Docosahexaenoic acid influences membrane fluidity, and several studies now show that it can affect phototransduction parameters.",N,0,N,N,N,0,N,N,N,N,N
+5,"From animal work during the last 20 to 30 years, we know that DHA deficiency can also cause decreases in the electroretinogram (ERG).",N,0,N,N,N,0,N,N,N,N,N
+6,Docosahexaenoic Acid Studies in Infants,N,0,N,N,N,0,N,N,N,N,N
+7,"One of the clues that sparked our interest in the role of DHA in retinal function came from work with preterm infants.1 Preterm infants form DHA and arachidonic acid (ARA), an [omega]-6 fatty acid, from precursors at rates insufficient to adequately support the rapid growth and maturation of their brain and retina.",N,0,N,N,N,0,N,N,N,N,N
+8,Infants who are breast-fed receive both DHA and ARA from breast milk.,N,0,N,N,N,0,N,N,N,N,N
+9,"In contrast, in the 1980s, infants fed commercial formulas received no long-chain fatty acids.",N,0,N,N,N,0,N,N,N,N,N
+10,"Comparing breast-fed preterm infants to formula-fed preterm infants showed that, in their first few weeks of life, the latter group had a precipitous drop in their blood DHA levels.",N,0,N,N,N,0,N,N,N,N,N
+11,"It is not until approximately 60 weeks postconception, when other foods are added to the diet, that DHA synthetic pathways become more efficient in producing DHA from [alpha]-linolenic acid (LNA).",N,0,N,N,N,0,N,N,N,N,N
+12,"Therefore, supplementing infant formula with DHA could prevent the drop in DHA in the early postbirth period.",N,0,N,N,N,0,N,N,N,N,N
+13,It was of most interest to us that we could detect differences in visual function among infants in four groups: breast-fed infants; commercial formula-fed infants; infants fed formula supplemented with LNA; and infants fed formula supplemented with LNA plus DHA.,N,0,N,N,N,0,N,N,N,N,N
+14,"In the commercial formula-fed infants, the thresholds were further away from adult values than the thresholds in either the LNA group or the LNA plus DHA group.",N,0,N,N,N,0,N,N,N,N,N
+15,"There were similar differences among the groups in visual acuity, with the LNA plus DHA-supplemented infants showing clear benefits.",N,0,N,N,N,0,N,N,N,N,N
+16,"Much of this work (performed in conjunction with Eileen Birch, Dennis Hoffman, and Ricardo Uauy) showed differences in acuity that were small at 36 weeks but increased up to at least 6 months after birth.",N,0,N,N,N,0,N,N,N,N,N
+17,It seemed that a nutritional source of DHA was necessary for optimal visual development during the early postnatal period in very low birthweight infants.,N,0,N,N,N,0,N,N,N,N,N
+18,The findings were not quite as dramatic with infants born at term.,N,0,N,N,N,0,N,N,N,N,N
+19,"In full-term babies receiving commercial formula, a precipitous drop in blood DHA levels (2%-3% of total fatty acid) would still be seen in the first year of life.",N,0,N,N,N,0,N,N,N,N,N
+20,"In full-term babies fed human milk, the DHA level would stay higher.",N,0,N,N,N,0,N,N,N,N,N
+21,"If commercial formula was supplemented with DHA or DHA plus ARA, the DHA level in the blood increased.",N,0,N,N,N,0,N,N,N,N,N
+22,A similar functional benefit occurred.,N,0,N,N,N,0,N,N,N,N,N
+23,"The infants receiving DHA or DHA plus ARA supplementation had better visual acuities, as measured by sweep visual evoked potentials, than infants fed nonsupplemented commercial formula.",N,0,N,N,N,0,N,N,N,N,N
+24,These differences in visual acuity were seen at least until 18 months of age.,N,0,N,N,N,0,N,N,N,N,N
+25,We have continued to follow these infants as they mature.,N,0,N,N,N,1,N,N,N,N,N
+26,"Because differences related to DHA intake can be measured in IQ and other cognitive functions, we think of vision as a window to neurologic development.",N,0,N,N,N,0,N,N,N,N,N
+27,There are clear differences in the development of the infants denied DHA during their early weeks.,N,0,N,N,N,0,N,N,N,N,N
+28,Docosahexaenoic Acid Studies in Patients with X-linked Retinitis Pigmentosa,N,0,N,N,N,0,N,N,N,N,N
+29,"Because DHA played a demonstrable role in the vision of infants, we investigated the possible role of DHA levels in patients with X-linked RP (XLRP), one of the most severe forms of retinal degeneration.",N,0,N,N,N,0,N,N,N,N,N
+30,We matched patients by age and looked at the relationship between DHA level and ERG amplitude.,N,0,N,N,N,0,N,N,N,N,N
+31,"We found that blood DHA levels correlated with both rod and cone ERG function, such that patients with low DHA had lower ERG response amplitudes.",N,0,N,N,N,0,N,N,N,N,N
+32,"Even more interesting were the b-wave implicit times, which did not vary with age and which were more prolonged in patients with low levels of RBC-DHA.",N,0,N,N,N,0,N,N,N,N,N
+33,"Based on the observation that patients with high levels of blood DHA seemed to have better ERG function, we decided to conduct a randomized, placebo-controlled clinical trial  to test the following three major hypotheses:",N,0,N,N,N,0,N,N,N,N,N
+34,Daily nutritional supplementation with DHA elevates RBC lipid concentrations of DHA in patients with XLRP.,N,0,N,N,N,0,N,N,N,N,N
+35,Elevated RBC-DHA levels are associated with a slowing in the progression of ERG measures of retinal degeneration.,N,0,N,N,N,0,N,N,N,N,N
+36,The RBC-DHA levels in XLRP are inversely correlated to the rate of ERG loss.,N,0,N,N,N,1,N,N,N,N,N
+37,The most important measure of the clinical trial outcome would be whether there was a difference in the rate of progression of cone ERG loss between the group that was supplemented with DHA and the group that received a placebo.,N,0,N,N,N,0,N,N,N,N,N
+38,A secondary outcome would be a relationship between RBC levels of DHA in these supplemented patients and the rate of ERG loss.,N,0,N,N,N,0,N,N,N,N,N
+39,"We focused on patients with XLRP, because of its rapid progression, especially at early ages, compared with dominant RP.",N,0,N,N,N,0,N,N,N,N,N
+40,"We conducted a traditional randomized, placebo-controlled supplementation trial.",N,0,N,N,N,0,N,N,N,N,N
+41,We saw the patients twice within eight weeks each year to measure variability.,N,0,N,N,N,0,N,N,N,N,N
+42,"Measures at each visit included ERG, visual field, ophthalmic examination, and fundus photography.",N,0,N,N,N,0,N,N,N,N,N
+43,Fatty acids were analyzed to monitor compliance.,N,0,N,N,N,1,N,N,N,N,N
+44,"In addition, a number of analyses associated with biologic safety of long-term DHA supplementation were conducted.",N,0,N,N,N,0,N,N,N,N,N
+45,"In this Phase I trial, we randomized 44 patients, 21 to the placebo group and 23 to the DHA supplementation group.",N,1,N,N,N,0,N,N,N,N,N
+46,Overall follow-up was better than 90%.,N,0,N,N,N,0,N,N,N,N,N
+47,"During the four-year duration of the trial, patients in the supplementation group took two 500-mg capsules/d of DHA, which is 400 mg of DHA.",N,0,N,N,N,0,N,N,N,N,N
+48,"We limited the dose, because we were not sure whether higher levels were safe, particularly for young people.",N,0,N,N,N,0,N,N,N,N,N
+49,"Since then, trials for Alzheimer and heart disease have used DHA levels 5 to 10 times higher.",N,0,N,N,N,0,N,N,N,N,N
+50,Our dose was based on body weight calculations from our infant nutrition studies.,N,0,N,N,N,0,N,N,N,N,N
+51,Consistent differences in RBC-DHA levels were found between the two groups.,N,0,N,N,N,0,N,N,N,N,N
+52,The average level in the DHA-supplemented group was approximately three times that in the placebo group (6.9% versus 2.7% of total fatty acids in RBC lipids).,N,0,N,N,N,0,N,N,N,N,N
+53,"Across nearly all patients (see below for exceptions), the DHA levels were constant, with no real indication that any patients in the placebo group changed their diet or modified their intake during the course of the study.",N,0,N,N,N,0,N,N,N,N,N
+54,There was a slight trend for DHA levels to decline in the DHA group.,N,0,N,N,N,0,N,N,N,N,N
+55,The loss of cone ERG function was our major outcome measure.,N,0,N,N,N,0,N,N,N,N,N
+56,Our conclusion from the intent-to-treat analysis was that there was no significant benefit on the rate of cone ERG decline and only a modest benefit on the rate of rod ERG loss.,N,0,N,N,N,0,N,N,N,N,N
+57,We also evaluated changes in fundus appearance during the four-year trial.,N,0,N,N,N,0,N,N,N,N,N
+58,We compared fundus photographs from each possible combination of years.,N,0,N,N,N,0,N,N,N,N,N
+59,"Evaluation was performed by four trained judges who, without knowing the group to which the patient belonged, graded the amount of change on a scale of 0 to 3.",N,0,N,N,N,0,N,N,N,N,N
+60,The DHA-supplemented group showed less change in fundus appearance than the placebo group.,N,0,N,N,N,0,N,N,N,N,N
+61,"Eight (38%) of the 21 patients in the placebo group received a high score (3), indicating a major change in fundus appearance during the 4 years, whereas 2 (9%) of 23 patients in the DHA group were judged to have progressed this maximum amount.",N,0,N,N,N,0,N,N,N,N,N
+62,We found no safety issues of concern.,N,0,N,N,N,0,N,N,N,N,N
+63,"Platelet aggregation, lipoprotein cholesterol, plasma vitamins A and E, and total antioxidant capacity were all comparable in the DHA supplementation and placebo groups.",N,0,N,N,N,0,N,N,N,N,N
+64,We observed no major adverse events.,N,0,N,N,N,0,N,N,N,N,N
+65,We concluded that we were able to elevate the DHA levels in patients with XLRP.,N,0,N,N,N,1,N,N,N,N,N
+66,"We did not show benefits in terms of visual outcome that would meet criteria for a change in clinical practice, although there was an indication that the levels of DHA were inversely correlated with the rate of ERG loss.",N,0,N,N,N,0,N,N,N,N,N
+67,The trial raises the possibility that very high levels of DHA may have a more substantial effect on slowing ERG progression.,N,0,N,N,N,0,N,N,N,N,N
+68,This remains to be determined in future work.,N,0,N,N,N,0,N,N,N,N,N
+69,Docosahexaenoic acid and vitamin A are the most promising of the supplements that have been studied in clinical trials for treating RP.,N,0,N,N,N,0,N,N,N,N,N
+70,"In our studies, we did not require the patients to take vitamin A, although 2 of the 44 patients were using it.",N,0,N,N,N,0,N,N,N,N,N
+71,"Thus, it is difficult to compare our results with a recently published trial in which the two supplements were combined.",N,0,N,N,N,0,N,N,N,N,N

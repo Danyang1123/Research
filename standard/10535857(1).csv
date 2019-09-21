@@ -1,0 +1,126 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,AIM To investigate the effect of additional oral vitamins C and E on acute anterior uveitis.,0,0,0,0,0,0,0,0,N,0,0
+1,METHODS A placebo controlled double masked study on the effect of vitamin C 500 mg in combination with vitamin E 100 mg twice daily in 145 patients with acute anterior uveitis.,0,0,0,0,0,0,0,0,N,0,0
+2,"As a primary end point variable, laser cell/flare measurements were performed.",0,0,0,0,0,0,0,0,N,0,0
+3,Best corrected and stenopeic visual acuity (VA) testing and clinical variable scores were measured.,0,0,0,0,0,0,0,0,N,0,0
+4,RESULTS Laser flare measurements (ph/s) before treatment were 207.1 (SD 258) in the vitamin group and 143.6 (156) in the placebo group.,0,0,0,0,0,0,0,0,N,0,0
+5,"After 3 days corresponding values were 80.2 (129) and 54.7 (82), after 7 days 89.2 (187) (12.5) and 85.8 (208), after 14 days 47.1 (109.5) and 40.5 (116) after 28 days 23.1 (53.6) and 23.1 (48), and after 56 days 15.6 (26) and 15.3 (17).",0,0,0,0,0,0,0,0,N,0,0
+6,There was no significant difference in time trend between the two treatment groups (RMANOVA; p = 0.53).,0,0,0,0,0,0,0,0,N,0,0
+7,Baseline VA (logMAR) was 0.106 (0.241) in the vitamin group and 0.128 (0.456) in the placebo group.,0,0,0,0,0,0,0,0,N,0,0
+8,"VA after 3 days was 0.236 (0.293) and 0.344 ( 0.489), after 7 days 0.204 (0.292) and 0.292 (0.479), after 14 days 0.162 (0.274) and 0.193 (0.454), after 28 days 0.096 (0.232) and 0.158 (0.436), and 0.026 (0.213) and 0.106 (0.437) after 56 days.",0,0,0,0,0,0,0,0,N,0,0
+9,"Although no significant difference in time trend was detected, evaluation of the VA data of the last time point (56 days) by means of the Mann–Whitney test showed a significantly better VA in the vitamin group (p = 0.01).",0,0,0,0,0,0,0,0,N,0,0
+10,CONCLUSIONS There was no significant effect of vitamins C and E on laser flare measurements.,0,0,0,0,0,0,0,0,N,0,0
+11,The significant effect of the oral vitamins on visual acuity at 8 weeks after start of the oral vitamins C and E may indicate a protective effect in patients with acute anterior uveitis.,0,0,0,0,0,0,0,0,N,0,0
+12,Free oxygen radicals have an important role in the initiation and perpetuation of inflammation associated with experimental uveitis.,0,0,0,0,0,0,0,0,N,0,0
+13,These radicals are generated locally by polymorphonuclear leucocytes as well as by retinal cells.,0,0,0,0,0,0,0,0,N,0,0
+14,Morphological and biochemical investigations indicated that free radicals are generated on sites of uveoretinitis and that retinal damage associated with experimental uveitis is initiated by oxygen radicals causing peroxidation of retinal cell membrane lipids.,0,0,0,0,0,0,0,0,N,0,0
+15,In the anterior segment of eyes with experimental uveitis free radical tissue damage could be detected.,0,0,0,0,0,0,0,0,N,0,0
+16,"In experimental uveitis, several antioxidants and scavengers of free radicals were shown to act as anti-inflammatory agents and to protect the eye from inflammation mediated tissue damage.",0,0,0,0,0,0,0,0,N,0,0
+17,"For instance, vitamin E (α-tocopherol) diminished inflammation and tissue damage associated with both lens and S-antigen induced uveitis in rats.",0,0,0,0,0,0,0,0,N,0,0
+18,"Vitamin C (ascorbic acid) has radical scavenging, as well as antioxidant, properties.",0,0,0,0,0,0,0,0,N,0,0
+19,One function of the normally existing high concentration of ascorbic acid in the aqueous humour is inhibition of the activity of polymorphonuclear leucocytes.,0,0,0,0,0,0,0,0,N,0,0
+20,"During experimental uveitis and alkali burns, vitamin C concentration in the aqueous diminishes significantly.",0,0,0,0,0,0,0,0,N,0,0
+21,"The antioxidant and radical scavenging properties of vitamin E (α-tocopherol) are well established, although the limited mobility of α-tocopherol in membranes may interfere with in vivo activity.",0,0,0,0,0,0,0,0,N,0,0
+22,Vitamin E inhibits both cyclo-oxygenase and lipo-oxygenase activity and consequently prostaglandin synthesis.,0,0,0,0,0,0,0,0,N,0,0
+23,"In experimental uveitis, high concentrations of prostaglandin and inhibition of the active accumulation of prostaglandins by the anterior uvea were associated with disease activity.",0,0,0,0,0,0,0,0,N,0,0
+24,From the above it follows that additional treatment with vitamins E and C may have an effect on the duration and intensity of uveitis and that the deleterious effects of radicals on retinal cells may be diminished.,0,0,0,0,0,0,0,0,N,0,0
+25,There are several reasons to administer both compounds simultaneously.,0,0,0,0,0,0,0,0,N,0,0
+26,Vitamin E is a lipophilic compound and is mainly active in structures with a high lipid content such as cell membranes or serum lipids.,0,0,0,0,0,0,0,0,N,0,0
+27,"Vitamin C is hydrophilic and therefore is mainly active in compartments like blood serum, intracellular and extracellular compartments.",0,0,0,0,0,0,0,0,N,0,0
+28,"By using a combination of the two compounds, both the lipophilic and hydrophilic compartments are reached.",0,0,0,0,0,0,0,0,N,0,0
+29,"Additionally, vitamin C plays a role in regeneration of oxidised vitamin E. Toxic reactions to vitamin C and to moderate doses of vitamin E are very rare.",0,0,0,0,0,0,0,0,N,0,0
+30,"In this study, the potential additional effect of oral vitamins C and E on inflammation and visual acuity changes associated with acute anterior uveitis treated with local steroids and a mydriatic were investigated.",0,0,0,0,0,0,0,0,N,0,0
+31,All patients presenting with a first or recurrent episode of anterior uveitis between May 1994 and April 1996 at the first aid department of the Eye Hospital Rotterdam were asked to participate.,1,0,0,0,0,0,0,0,N,0,0
+32,"Exclusion criteria were signs of posterior uveitis, Fuchs’s iridocyclitis, retinitis pigmentosa (as prescription of vitamin E might be deleterious to patients with retinitis pigmentosa), severe cataract, corneal graft, stromal opacities, or corneal oedema in the eye under study, and patients who already were on corticoid treatment or any other treatment for uveitis.",1,0,0,0,0,0,0,0,N,0,0
+33,"To prevent adverse effects of the vitamins administered, patients were not allowed to enter the study if they had a history of a coagulation disorder or regular treatment with anticoagulants, severe hypertension (diastolic pressure > 95 mg Hg despite therapy), a history of breast cancer, a history of renal impairment or kidney stones, haemochromatosis, polycythaemia, leukaemia, current use of illegal drugs or excessive alcohol consumption, pregnancy, lactation or inadequate use of contraception during the trial, or who took any kind of vitamin preparation.",0,0,0,0,0,0,0,0,N,0,0
+34,Patient characteristics are presented in Table 1.,0,0,0,1,0,0,0,0,N,0,0
+35,Table 1Patient characteristics,0,0,0,1,0,0,0,0,N,0,0
+36,The study was submitted to the ethics committee of the Eye Hospital Rotterdam and all subjects gave written acknowledgment of informed consent to participate before the start of the study.,0,0,0,0,0,0,0,0,N,0,0
+37,"Immediately after inclusion, all patients were treated with one drop of prednisolone acetate 1% six times daily in the affected eye, one drop of scopolamine 0.25% three times daily, and 1 cm of prednisolone 0.5% ointment before sleeping.",0,0,0,0,0,0,0,0,N,0,0
+38,All local treatment was tapered according to clinical resolution.,0,0,0,0,0,0,0,0,N,0,0
+39,All patients were randomised to treatment for 30 days with either two capsules daily each of which contained 500 mg of ascorbic acid and 100 IU of α-tocopherol (vitamin E) or with two matching placebo capsules.,0,1,0,0,1,0,0,0,N,0,0
+40,The vitamin capsules were manufactured at and distributed by the hospital pharmacy.,0,0,1,0,0,0,0,0,N,0,0
+41,A randomisation table prepared by the statistician was sent directly to the pharmacy; only the treatment number was visible during the follow up visits.,0,0,1,0,0,1,0,0,N,0,0
+42,Treatment allocations were kept double masked until the last patient completed the study.,0,0,1,0,1,0,1,0,N,0,0
+43,"After inclusion, patients were scheduled to visit one of the investigators at 3, 7, 14, 28, and 56 days after initiation of therapy.",0,0,0,0,0,0,0,0,N,0,0
+44,"On each visit, cells and flare were quantified with the aid of a laser cell flare meter (Kowa FC1000).",0,0,0,0,0,0,0,0,N,0,0
+45,"As laser flare measurements are an objective, reproducible, and quantitative variable of anterior segment inflammation, these were considered as the primary end point.",0,0,0,0,0,0,0,0,N,0,0
+46,"Clinical variables such as best corrected visual acuity (VA) and semiquantitative scores according to the Hogan-Kimura scale for uveitis (that is, pain, photophobia, hyperaemia, keratic precipitates, fibrin, synechiae, cells, flare, and ocular pressure) were assessed, as well as the number of prednisolone and mydriatic drops taken by the patient.",0,0,0,0,0,0,0,0,N,0,0
+47,A venous serum sample was taken from each patient 1–2 weeks after start of the therapy.,0,0,0,0,0,0,0,0,N,0,0
+48,In this serum sample the vitamin E concentration and HLA-B27 status were determined.,0,0,0,0,0,0,0,0,N,0,0
+49,From all patients dietary intakes of vitamin C and E were assessed by means of an extensive interview performed by the hospital dietician.,0,0,0,0,0,0,0,0,N,0,0
+50,Flare and cell measurements were analysed after log transformation and visual acuity (VA) measurements were transformed to logMAR equivalents.,0,0,0,0,0,0,0,0,N,0,0
+51,A repeated measures analysis of variance (RMANOVA) was used to estimate a linear time trend of these variables and to test whether this time trend differed between the two treatment groups (vitamins and placebo).,0,0,0,0,0,0,0,0,N,0,0
+52,"For flare data, additional analyses were performed with vitamin E serum concentrations as a covariate, and with exclusion of subjects receiving parabulbar steroid injection(s).",0,0,0,0,0,0,0,0,N,0,0
+53,The clinical variables were analysed (also after log transformation) using a linear random coefficients model with time.,0,0,0,0,0,0,0,0,N,0,0
+54,A RMANOVA was used to estimate an average time trend across all patients and to test whether this time trend differed between the two treatment groups.,0,0,0,0,0,0,0,0,N,0,0
+55,"As the difference in VA at the end of the study was considered of clinical importance and a time trend was observed in the RMANOVA, an additional analysis was performed.",0,0,0,0,0,0,0,0,N,0,0
+56,VA data of the separate measuring time points were compared using the Mann–Whitney test.,0,0,0,0,0,0,0,0,N,0,0
+57,Logistic regression analysis was used to test the effect of the two treatments on VA data; this was followed by the same analysis of the VA data stratified by HLAB27 status.,0,0,0,0,0,0,0,0,N,0,0
+58,"Statistical analysis was performed with the aid of SPSS PC+ version 5 and module 5V of BMDP (BMDP Statistical Software Inc, Los Angeles) statistical software.",0,0,0,0,0,0,0,0,N,0,0
+59,A total of 145 patients were included in the study.,0,0,0,0,0,0,0,1,N,0,0
+60,Five patients were excluded because a posterior or granulomatous uveitis developed after randomisation.,0,0,0,0,0,0,0,1,N,0,0
+61,Five patients were lost to follow up; four did not adhere to the study protocol and in one patient cataract flare measurements were not possible.,0,0,0,0,0,0,0,1,N,0,0
+62,The average daily dietary intake of vitamin E was 14.4 (8.6) mg for the vitamin group and 12.2 (6.2) mg for the placebo group.,0,0,0,0,0,0,0,0,N,0,0
+63,For vitamin C dietary intake this was 120.6 (76.6) mg and 124.2 (63.6) mg respectively.,0,0,0,0,0,0,0,0,N,0,0
+64,Average vitamin E serum concentrations were 36.8 (13.3) μmol/l for the vitamin group and 24.0 (13.3) μmol/l for the placebo group.,0,0,0,0,0,0,0,0,N,0,0
+65,In seven patients of the group treated with vitamin capsules the serum vitamin E concentration was below 23 μmol/l; in these patients compliance was doubted or absorption was not adequate.,0,0,0,0,0,0,0,0,N,0,0
+66,"As serum vitamin E concentration was used as a covariate in statistical analysis, these subjects were not excluded.",0,0,0,0,0,0,0,0,N,0,0
+67,"No statistically significant differences between the two treatment groups were found for any of the semiquantitative clinical variables, nor for the daily number of prednisolone drops taken (p>0.1 for all time points; χ2 test).",0,0,0,0,0,0,0,0,N,1,0
+68,"Laser flare measurements before treatment were 207.1 (258) photons per second (ph/s) in the vitamin group and 143.6 (156) ph/s in the placebo group (Fig 1, Table 2).",0,0,0,0,0,0,0,0,N,0,0
+69,"After 3 days corresponding values were 80.2 (129) ph/s and 54.7 (82) ph/s, after 7 days 89.2 (187) ph/s and 85.8 (208) ph/s, after 14 days 47.1 (109.5) ph/s and 40.5 (116) ph/s, after 28 days 23.1 (53.6) ph/s and 23.1 (48) ph/s, and after 56 days 15.6 (26) ph/s and 15.3 (17) ph/s.",0,0,0,0,0,0,0,0,N,0,0
+70,"Concerning the laser flare data, repeated measures analysis of variance did not reveal a significant difference in time trend between the two treatment groups (p = 0.53).",0,0,0,0,0,0,0,0,N,0,0
+71,"No significant differences were detected in the additional analyses with vitamin E serum concentrations as a covariate (p=0.19), or with exclusion of subjects receiving parabulbar steroid injection (p=0.63).",0,0,0,0,0,0,0,0,N,0,0
+72,Comparison of the flare data of the last measuring point (56 days) by means of the Mann–Whitney test did not reveal a significant difference (p = 0.9).,0,0,0,0,0,0,0,0,N,0,0
+73,Average laser flare measurements for the vitamin (triangle; n = 68) and placebo (circle; n = 67) treated patients.,0,0,0,0,0,0,0,0,N,0,0
+74,Average laser cell and flare measurements (SD) for the placebo and vitamin treated groups,0,0,0,0,0,0,0,0,N,0,0
+75,The average number of cells/0.075 mm3 as measured by the laser cell flare meter before treatment was 16.2 (18) in the vitamin group and 15.9 (19) in the placebo group (Table 2).,0,0,0,0,0,0,0,0,N,0,0
+76,"After 3 days corresponding values were 5.7 (8) and 9.0 (35), after 7 days 6.0 (10) and 5.9 (10), after 14 days 2.7 (6) and 2.2 (5) after 28 days 2.2 (5) and 1.8 (4), after 56 days 2.1 (5) ph/s and 1.9 (5).",0,0,0,0,0,0,0,0,N,0,0
+77,There was no significant difference in time trend between the two treatment groups for the laser cell data (p = 0.74); the same was the case when the data of the last measuring point were compared (p = 0.41).,0,0,0,0,0,0,0,0,N,0,0
+78,Baseline visual acuity was 0.106 (0.241) logMAR in the vitamin group and 0.128 (0.456) logMAR in the placebo group (Fig 2; Table 3) Corresponding Snellen visual acuity data are visualised in Figure 3.,0,0,0,0,0,0,0,0,N,0,0
+79,"LogMAR visual acuity values were 0.236 (0.293) logMAR and 0.344 (0.489) logMAR after 3 days, 0.204 (0.292) logMAR and 0.292 (0.479) logMAR after 7 days, 0.162 (0.274) logMAR and 0.193 (0.454) logMAR after 14 days, 0.096 (0.232) logMAR and 0.158 (0.436) logMAR after 28 days, and 0.026 (0.213) logMAR and 0.106 (0.437) logMAR after 56 days.",0,0,0,0,0,0,0,0,N,0,0
+80,"No significant difference between the two treatments was detected with RMANOVA; however, evaluation of the VA data of the last time point (56 days) by means of the Mann–Whitney test showed a significantly better VA in the vitamin group (p = 0.013; Table 3).",0,0,0,0,0,0,0,0,N,0,0
+81,Logistic regression analysis on the influence of the type of treatment (vitamins or placebo) on VA data also revealed a significant effect for the last time point (p = 0.021 for 56 days).,0,0,0,0,0,0,0,0,N,0,0
+82,The vitamin treatment effect on VA data was not altered significantly by HLA-B27 status (p value for the effect of HLA status on VA data: 0.67 for 28 days and 0.22 for 56 days).,0,0,0,0,0,0,0,0,N,0,0
+83,Average visual acuity in logMAR for the vitamin (triangle; n = 68) and placebo (circle; n = 67) treated patients.,0,0,0,0,0,0,0,0,N,0,0
+84,*p Value for Mann-Whitney test on delta VA (relative to day 0).,0,0,0,0,0,0,0,0,N,0,0
+85,Average visual acuity (logMAR (SD)) for the placebo and vitamin treated groups,0,0,0,0,0,0,0,0,N,0,1
+86,Average visual acuity in Snellen equivalents for the vitamin (triangle; n = 68) and placebo (circle; n = 67) treated patients.,0,0,0,0,0,0,0,0,N,0,0
+87,In this study no significant difference between oral vitamins C and E and placebo could be detected regarding the effect on laser flare and cell measurements.,0,0,0,0,0,0,0,0,N,0,0
+88,"In spite of higher initial flare values in the vitamin treatment group and faster decline during treatment, the comparison of the course of flare measurements of the two treatment groups over time by means of RMANOVA did not indicate statistical significance.",0,0,0,0,0,0,0,0,N,0,0
+89,"The reason for this may be either that free radical scavengers do not influence the blood-aqueous barrier in acute anterior uveitis in humans, or that treating all patients with potent local steroids possibly prevented the detection of an effect of the vitamins on vascular leakage.",0,0,0,0,0,0,0,0,N,0,0
+90,"In studies using experimental uveitis models, free radical scavengers were demonstrated to have an effect on uveal and retinal inflammation.",0,0,0,0,0,0,0,0,N,0,0
+91,"In the only animal study with assessment of effects on the anterior chamber reaction, in contrast with posterior segment reactions no effect on cells or on flare could be detected.",0,0,0,0,0,0,0,0,N,0,0
+92,"Although the possibility that a higher vitamin E dosage exerts more effect cannot be excluded, it is improbable that the vitamin dosages used in this study were insufficient.",0,0,0,0,0,0,0,0,N,0,0
+93,The daily dosage of 200 mg of vitamin E as used in this study was demonstrated to be effective in reducing oxidised serum low density lipoprotein (LDL) cholesterol.,0,0,0,0,0,0,0,0,N,0,0
+94,"After oral administration to rats, a clear relation exists between dose and total ocular vitamin E concentrations.",0,0,0,0,0,0,0,0,N,0,0
+95,The fact that in several studies a preventive effect of vitamin E on retinopathy of prematurity could be detected indicates that the bioavailability of this vitamin in the human eye is also proportional (it should be remembered that high vitamin E dosages in newborns can be hazardous).,0,0,0,0,0,0,0,0,N,0,0
+96,In this study the serum vitamin E concentration was determined in each patient in order to be able to adjust for therapy compliance.,0,0,0,0,0,0,0,0,N,0,0
+97,"The average plasma vitamin E concentration in the subjects treated with vitamins (36.8 (13.3) μmol/l) is comparable with plasma concentrations found in subjects taking 440–1320 mg of vitamin E. Concerning vitamin C, in guinea pigs concentrations of ascorbate in aqueous humour and vitreous were proportional to oral doses with a plateau being reached at higher doses.",0,0,0,0,0,0,0,0,N,0,0
+98,"This, in combination with the probability that most of a daily dosage above 200 mg of vitamin C will be excreted by the kidneys,suggests that a dosage of vitamin C higher than used in this study will have no additional effect.",0,0,0,0,0,0,0,0,N,0,0
+99,"Although baseline visual acuity in both treatment groups was similar (Figs 2 and 3), the curve of the vitamin treated patients consistently describes a better average visual acuity on all time points.",0,0,0,0,0,0,0,0,N,0,0
+100,"For the last measurement performed at 2 months after the start of the treatments, the difference in visual acuity compared with baseline values was statistically significant (p=0.01).",0,0,0,0,0,0,0,0,N,0,0
+101,The difference between the average end point VA values expressed in Snellen equivalents was 0.16; 0.94 for the vitamin group and 0.78 for the placebo group.,0,0,0,0,0,0,0,0,N,0,0
+102,"RMANOVA analysis did not show a significant time-treatment interaction; however, a time trend was detected, which can also be read from the curve of the VA data (Figs 2 and 3).",0,0,0,0,0,0,0,0,N,0,0
+103,"For this reason and the clinical significance of the difference in VA, additional analyses by means of Mann–Whitney tests were performed at the separate time points, revealing a significant difference at 2 months after start of the treatments.",0,0,0,0,0,0,0,0,N,0,0
+104,This result was confirmed by the logistic regression analysis of the visual acuity data.,0,0,0,0,0,0,0,0,N,0,0
+105,"At the last measuring point (56 days), treatments (including mydriatics and drops containing preservatives possibly affecting the corneal epithelium) were stopped in virtually all patients, omitting effects of these on visual acuity.",0,0,0,0,0,0,0,0,N,0,0
+106,"Additionally, in virtually all patients disease activity can be expected to have subsided 2 months after the start of the treatments, permitting correct comparisons of VA data at this time point.",0,0,0,0,0,0,0,0,N,0,0
+107,"As the average course of HLAB27 positive anterior uveitis treated in a similar way as in this study does not extend beyond 10–14 days for most patients, results of a longer follow up are not expected to be very different.",0,0,0,0,0,0,0,0,N,0,0
+108,We examined the effect of HLAB27 (+ or −) status on the vitamin treatment effects exerted on visual acuity data.,0,0,0,0,0,0,0,0,N,0,0
+109,"Logistic regression resulted in a p value of 0.22, indicating that there was no effect of HLAB27 status on VA data.",0,0,0,0,0,0,0,0,N,0,0
+110,This means that in our patients HLAB27(+) or HLAB27(−) status did not affect the protective effect of free radical scavengers on photoreceptors.,0,0,0,0,0,0,0,0,N,0,0
+111,The better preservation of visual acuity in the patients treated with vitamins is possibly achieved by the free radical and antioxidant properties of one or both of the vitamins used.,0,0,0,0,0,0,0,0,N,0,0
+112,The existence of free radicals in the posterior segment of animals with experimental uveitis was studied with the aid of histochemical methods and chemiluminescence and free radical tissue damage could be detected in the anterior segment of eyes with experimental uveitis.,0,0,0,0,0,0,0,0,N,0,0
+113,In experimental uveoretinitis lipids of the membranes of retinal cells are oxidised by the free radicals.,0,0,0,0,0,0,0,0,N,0,0
+114,The membranes of the rod outer segments are particularly vulnerable to peroxidation as in this segment more than 65% of the membrane fatty acids are polyunsaturated.Peroxidation of cell membrane lipids can lead to necrosis of photoreceptors and other retinal cells.,0,0,0,0,0,0,0,0,N,0,0
+115,"Several antioxidants and scavengers of free radicals, including vitamin E, were shown to protect the eye from inflammation mediated tissue damage.",0,0,0,0,0,0,0,0,N,0,0
+116,"The data of the aforementioned experimental studies may indicate that, in the patients in this study who were treated with vitamins C and E, the photoreceptors were protected from free radical damage leading to a better preservation of VA.",0,0,0,0,0,0,0,0,N,0,0
+117,The fact that in experimental uveitis vitamin C concentration in the aqueous diminishes significantly suggests that oxygen radicals are indeed scavenged during uveitis and that there may be an insufficient buffer of vitamin C during moderate to severe uveitis.,0,0,0,0,0,0,0,0,N,0,0
+118,"Apart from the possible protective effect of the vitamins on photoreceptors, other mechanisms may explain the difference in VA. Cystoid macular oedema (CMO) is a well recognised mechanism of transient or definite loss of VA in uveitis patients, and this may not be detected on indirect funduscopy (as was performed on each follow up occasion).",0,0,0,0,0,0,0,0,N,0,0
+119,"Although the pathophysiology of CMO is not well understood, prostaglandins may have a role, and vitamin E was reported to influence prostaglandin metabolism.",0,0,0,0,0,0,0,0,N,0,0
+120,"As free oxygen radicals are generated early in the inflammatory cascade, a protective effect on CMO of free radical scavengers cannot be excluded.",0,0,0,0,0,0,0,0,N,0,0
+121,"There was no significant effect of HLAB27 status on end point visual acuity, suggesting that a possible protective effect of free radical scavengers applies to both HLAB27 positive and negative patients.",0,0,0,0,0,0,0,0,N,0,0
+122,"We conclude that in this study no effect of oral vitamins C and E on flare or cell measurements could be detected in patients with acute anterior uveitis, possibly because all patients were treated with potent local steroids.",0,0,0,0,0,0,0,0,N,0,0
+123,"Visual acuity at 2 months after start of the treatment was significantly better for the patients treated with vitamins C and E, although this was not confirmed by RMANOVAs.",0,0,0,0,0,0,0,0,N,0,0
+124,This suggests a protective effect of free radical scavengers on photoreceptors in uveitis patients; possible mechanisms include prevention of photoreceptor damage or cystoid macular oedema.,0,0,0,0,0,0,0,0,N,0,0

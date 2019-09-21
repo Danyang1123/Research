@@ -1,0 +1,103 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To determine whether topical ketorolac (Acular) is more effective than artificial tears in treating the signs and symptoms of idiopathic episcleritis.,N,0,N,N,N,N,N,N,N,0,0
+1,"In this prospective, randomised, double-blind study, 38 eyes of 37 patients presenting with idiopathic episcleritis were allocated to receive either topical ketorolac (0.5%) or artificial tears three times a day for 3 weeks.",N,0,N,N,N,N,N,N,N,0,0
+2,The severity of patients’ signs (episcleral injection and the number of clock hours affected) were recorded at weekly intervals.,N,0,N,N,N,N,N,N,N,0,0
+3,Patients' symptoms (perceived redness and pain scores) were recorded using a daily diary.,N,0,N,N,N,N,N,N,N,0,0
+4,"There was no significant difference in the ophthalmic signs between the two groups at each assessment, including intensity of episcleral injection and the number of clock hours affected.",N,0,N,N,N,N,N,N,N,0,0
+5,"No significant difference was found in the time to halve the baseline redness intensity scores (4.4 vs 6.1 days, P=0.2) or pain scores (3.6 vs 4.3 days, P=0.55).",N,0,N,N,N,N,N,N,N,0,0
+6,Significantly more patients on ketorolac reported stinging at the first follow-up visit (P<0.001).,N,0,N,N,N,N,N,N,N,0,0
+7,Topical ketorolac is not significantly better than artificial tears in treating the signs or symptoms of idiopathic episcleritis.,N,0,N,N,N,N,N,N,N,0,0
+8,"Episcleritis is an inflammation of the loose, highly vascular connective tissue lying deep to Tenon's capsule and superficial to the sclera.",N,0,N,N,N,N,N,N,N,0,0
+9,"The condition is usually idiopathic but may be associated with serious underlying ophthalmic and systemic disorders such as ocular rosacea, keratoconjunctivitis sicca, atopy, systemic vasculitis, and inflammatory bowel disease.1",N,0,N,N,N,N,N,N,N,0,0
+10,"Usually a self-limiting condition, episcleritis typically lasts approximately for 21 days.",N,0,N,N,N,N,N,N,N,0,0
+11,"Patients may request treatment because of discomfort or redness, and a number of options have been shown to speed recovery.",N,0,N,N,N,N,N,N,N,0,0
+12,These include topical steroids and systemic nonsteroidal anti-inflammatory drugs (NSAIDs) such as flurbiprofen and oxyphenbutazone.,N,0,N,N,N,N,N,N,N,0,0
+13,"However, these therapies are associated with potentially harmful side effects.",N,0,N,N,N,N,N,N,N,0,0
+14,"A number of topical NSAIDs have become available in recent years, offering the potential to reduce these side effects significantly.",N,0,N,N,N,N,N,N,N,0,0
+15,"While these drugs have been shown to be safe and effective in the treatment of postcataract surgery inflammation and seasonal allergic conjunctivitis, studies into their use for treating episcleritis have shown mixed results.",N,0,N,N,N,N,N,N,N,0,0
+16,"Beneficial effects were demonstrated for topical oxyphenbutazone and 2-(2-hydroxy-4-methylphenyl) aminothiazole hydrochloride, although neither is available commercially, while topical flurbiprofen is no better than placebo.",N,0,N,N,N,N,N,N,N,0,0
+17,"As a result of the conflicting data on the efficacy of topical NSAIDs, we conducted a randomised, double-blind trial of topical ketorolac (Acular) vs placebo for the treatment of episcleritis.",N,0,N,N,N,N,N,N,N,0,0
+18,"In this prospective study, patients presenting to one eye casualty department diagnosed with either nodular or diffuse episcleritis were recruited to take part.",N,0,N,N,N,N,N,N,N,0,0
+19,The study received approval from the local Research and Ethics committee and all patients gave written informed consent before participation.,N,0,N,N,N,N,N,N,N,0,0
+20,"A detailed history was taken with particular emphasis on previous episodes of episcleritis, history of atopy, bowel disturbance, or joint problems.",N,0,N,N,N,N,N,N,N,0,0
+21,Each patient received a thorough anterior and posterior segment examination and the intraocular pressure was measured before recruitment.,N,0,N,N,N,N,N,N,N,0,0
+22,Patients with the typical clinical profile of episcleritis were recruited; episcleral injection with or without overlying conjunctival injection and with or without nodule formation.,N,0,N,N,N,N,N,N,N,0,0
+23,No patient with scleral involvement was recruited.,N,0,N,N,N,N,N,N,N,0,0
+24,Patients were excluded if other ocular pathology or systemic disease existed or there was a contraindication to receiving NSAIDs.,N,0,N,N,N,N,N,N,N,0,0
+25,It was not considered necessary to perform further systemic investigations in the recruited patients.,N,0,N,N,N,N,N,N,N,0,0
+26,The severity of the patients’ signs was graded by assessing both the intensity and area of episcleral injection.,N,0,N,N,N,N,N,N,N,0,0
+27,"Intensity was graded on a scale of 0–4 using a system similar to that previously described (0=no injection, 1= very mild, 2=mild, 3=moderate, and 4=severe).",N,0,N,N,N,N,N,N,N,0,0
+28,The area of injection was measured as the number of clock hours affected.,N,0,N,N,N,N,N,N,N,0,0
+29,"In addition, patients were given a diary sheet to record their daily pain and redness scores on a visual analogue scale for the duration of treatment (0 = no pain or redness, 10= severe pain or redness).",N,0,N,N,N,N,N,N,N,0,0
+30,"Each patient was randomly allocated to receive either topical ketorolac trometamol 0.5% (Acular; Allergan, High Wycombe, Bucks, UK) or Liquifilm tears (Allergan) three times a day for 3 weeks.",N,1,N,N,N,N,N,N,N,0,0
+31,The bottles used in the study had their original labels removed and were labelled with a unique identifying code.,N,0,N,N,N,N,N,N,N,0,0
+32,A nurse not involved in the study selected a sealed envelope containing a prewritten card and dispensed the appropriate bottle according to the card instructions.,N,0,N,N,N,N,N,N,N,0,0
+33,Both patients and observers were therefore masked to the treatment group allocated to the patient.,N,0,N,N,N,N,N,N,N,0,0
+34,"Patients were reviewed at weekly intervals for 3 weeks and their visual acuity, intensity of redness, number of clock hours affected, intraocular pressure, and the state of the corneal epithelium recorded.",N,0,N,N,N,N,N,N,N,0,0
+35,"At each visit, the signs were graded as detailed above by an observer masked to the patient's treatment group.",N,0,N,N,N,N,N,N,N,0,0
+36,Enquiry was made into treatment-related side effects.,N,0,N,N,N,N,N,N,N,0,0
+37,"Treatment was continued for the full 3 weeks unless the patient requested otherwise or their condition deteriorated significantly requiring a change in treatment, or it had resolved.",N,0,N,N,N,N,N,N,N,0,0
+38,Those patients whose episcleritis resolved were subsequently graded ‘zero’ for signs and symptoms for the purpose of statistical evaluation.,N,0,N,N,N,N,N,N,N,0,0
+39,"The Mann–Whitney test was used to compare the two treatment groups’ data with respect to the grading scores for signs (eg redness intensity, clock hours).",N,0,N,N,N,N,N,N,N,0,1
+40,An unpaired Student's t-test was used to compare the time to half baseline diary scores for redness and discomfort for the two groups.,N,0,N,N,N,N,N,N,N,0,0
+41,A P-value of less than 0.05 was considered to be statistically significant.,N,0,N,N,N,N,N,N,N,0,0
+42,A 2-day reduction in the time to half baseline symptom scores was considered a clinically relevant result.,N,0,N,N,N,N,N,N,N,0,0
+43,"Using these criteria and data from previous studies regarding the natural history of episcleritis, a power calculation revealed that 15 subjects per group would give an 80% chance of detecting a significant difference.",N,0,N,N,N,N,N,N,N,0,0
+44,"In all, 38 eyes of 37 patients were recruited into the study.",N,0,N,N,N,N,N,N,N,0,0
+45,This sample included one patient who represented with episcleritis in the fellow eye some months after the first and was recruited a second time for the study.,N,0,N,N,N,N,N,N,N,0,0
+46,One patient failed to attend any further follow-up and was therefore excluded from the analysis.,N,0,N,N,N,N,N,N,N,0,0
+47,"Thus, 19 eyes received ketorolac and 18 Liquifilm tears.",N,0,N,N,N,N,N,N,N,0,0
+48,"The mean age of the patients was 48.4 years (range 27–73) in the ketorolac group and 45.9 (21–69) in the controls (P=0.62, t-test).",N,0,N,N,N,N,N,N,N,1,1
+49,There were nine males in the ketorolac group and 12 in the control group.,N,0,N,N,N,N,N,N,N,0,0
+50,There was no statistical difference between the two groups for visual acuity (P=0.41) or intraocular pressure (P=0.34).,N,0,N,N,N,N,N,N,N,0,0
+51,"Regarding patient signs, Table 1 shows the redness intensity gradings at each visit.",N,0,N,N,N,N,N,N,N,0,0
+52,At no time was there a statistical difference between the two groups.,N,0,N,N,N,N,N,N,N,0,0
+53,Table 2 shows a similar result for the number of clock hours affected at each visit.,N,0,N,N,N,N,N,N,N,0,0
+54,The change from baseline scores for both redness intensity and clock hours were also calculated for each visit.,N,0,N,N,N,N,N,N,N,0,0
+55,"Again, there was no statistical difference between the treatment groups at any time.",N,0,N,N,N,N,N,N,N,0,0
+56,Table 1 Average redness intensity grading scores assessed by doctor at each visit,N,0,N,N,N,N,N,N,N,0,0
+57,Table 2 Average number of clock hours affected at each visit,N,0,N,N,N,N,N,N,N,0,0
+58,Patient symptoms recorded as daily redness and pain scores in the diaries are illustrated in Figures 1 and 2 respectively.,N,0,N,N,N,N,N,N,N,0,0
+59,At no time was there a statistical difference between the two groups.,N,0,N,N,N,N,N,N,N,0,0
+60,The mean number of days to halve baseline redness score was 4.4 for ketorolac and 6.1 for artificial tears (P=0.2).,N,0,N,N,N,N,N,N,N,1,1
+61,Power calculation on this data confirmed the study had a power of 80% to detect a difference of 1.8 days.,N,0,N,N,N,N,N,N,N,0,0
+62,"The mean number of days to halve the baseline pain scores were 3.6 and 4.3, respectively (P=0.55), the study having an 80% power to detect a difference of 1.9 days.",N,0,N,N,N,N,N,N,N,1,1
+63,There was no significant difference between the two groups for mean intraocular pressure measurement at any time.,N,0,N,N,N,N,N,N,N,0,0
+64,"Two patients from each group developed a few areas of punctate keratopathy, not deemed to be clinically significant.",N,0,N,N,N,N,N,N,N,0,0
+65,"Of the patients receiving ketorolac, 63% reported stinging, compared to 5% of patients using artificial tears (P<0.001, Fisher's-exact).",N,0,N,N,N,N,N,N,N,0,0
+66,Two patients receiving artificial tears had to withdraw early (at days 7 and 11) due to worsening of symptoms.,N,0,N,N,N,N,N,N,N,0,0
+67,Both were treated with topical steroids and recovered.,N,0,N,N,N,N,N,N,N,0,0
+68,Their data were included in the statistical analysis up to the point of withdrawal from the study.,N,0,N,N,N,N,N,N,N,0,0
+69,"Episcleritis is usually a benign, self-limiting condition associated with episcleral injection and discomfort.",N,0,N,N,N,N,N,N,N,0,0
+70,"Most cases do not need treatment, although some patients may request or require medication, particularly if the disease is severe or becomes recurrent.",N,0,N,N,N,N,N,N,N,0,0
+71,A number of studies have shown that topical steroids are effective in the treatment of episcleritis.,N,0,N,N,N,N,N,N,N,0,0
+72,"Unfortunately, they are associated with potentially serious side effects, such as raised intraocular pressure, cataracts, and the possible reactivation of ocular herpetic disease.",N,0,N,N,N,N,N,N,N,0,0
+73,Oral NSAIDs are an alternative therapy.,N,0,N,N,N,N,N,N,N,0,0
+74,"These are also effective, but again have a number of potentially serious side effects such as gastrointestinal irritation, peptic ulceration, and exacerbation of asthma.",N,0,N,N,N,N,N,N,N,0,0
+75,"An ideal treatment for episcleritis would utilise the clinical effectiveness of oral NSAIDs, thereby avoiding steroids usage, but which could be locally applied to the site of disease to reduce systemic side effects.",N,0,N,N,N,N,N,N,N,0,0
+76,Topical NSAIDs may fit these criteria.,N,0,N,N,N,N,N,N,N,0,0
+77,Topical NSAIDS have been widely used in the treatment of a number of anterior segment disorders.,N,0,N,N,N,N,N,N,N,0,0
+78,"They are as effective as steroids in controlling mild-to-moderate inflammation after phacoemulcification cataract surgery and are also useful in the maintenance of intraoperative mydriasis, treatment of corneal abrasions, pain relief after refractive surgery and the treatment of seasonal allergic conjunctivitis.",N,0,N,N,N,N,N,N,N,0,0
+79,Previous studies into the use of topical NSAIDs for the treatment of episcleritis have produced conflicting results.,N,0,N,N,N,N,N,N,N,0,0
+80,"A randomised study comparing topical flurbiprofen (0.03%) with placebo and topical steroids found no significant benefit for the NSAID compared to topical normal saline (0.5%), while confirming the benefit of steroid3.",N,0,N,N,N,N,N,N,N,0,0
+81,"A double-blind study comparing topical oxyphenbutazone (10%) with topical steroid showed a similar level of effectiveness, both being significantly better than placebo.",N,0,N,N,N,N,N,N,N,0,0
+82,"Our study failed to demonstrate a significant difference between topical ketorolac and placebo, despite being of sufficient power to detect a difference between the two groups of under two days for the halving of redness and pain scores.",N,0,N,N,N,N,N,N,N,0,0
+83,"Our placebo agent was Liquifilm tears, a proprietary ocular lubricant.",N,0,N,N,N,N,N,N,N,0,0
+84,Previous authors have not always specified the nature of their placebo while others have used ‘normal saline’ or ‘drug vehicle’.,N,0,N,N,N,N,N,N,N,0,0
+85,"Although this agent itself might conceivably be effective in treating episcleritis, we know of no studies to support this and we therefore considered it a suitable choice of placebo.",N,0,N,N,N,N,N,N,N,0,0
+86,"Apart from the active nonsteroidal ingredient, the two preparations have similar constituents including benzalkonium chloride preservative.",N,0,N,N,N,N,N,N,N,0,0
+87,"Ketorolac acts by inhibiting cyclo-oxygenase, essential for the biosynthesis of prostaglandins.",N,0,N,N,N,N,N,N,N,0,0
+88,"As mentioned previously, it is effective in the treatment of a number of different inflammatory anterior segment conditions.",N,0,N,N,N,N,N,N,N,0,0
+89,It is therefore surprising that the topical preparation has no demonstrable effect on the signs or symptoms of episcleritis.,N,0,N,N,N,N,N,N,N,0,0
+90,"While the underlying disease process of episcleritis is unknown, it is conceivable that it is not a prostaglandin-dependent process, hence the lack of effectiveness of topical ketorolac.",N,0,N,N,N,N,N,N,N,0,0
+91,"However, oral NSAIDs are effective in treating episcleritis, conflicting with this theory.",N,0,N,N,N,N,N,N,N,0,0
+92,"Ketorolac is known to penetrate the cornea well, with the epithelium acting as a reservoir to maintain aqueous levels with a half-life of 3.77 h in rabbits.",N,0,N,N,N,N,N,N,N,0,0
+93,"Animal studies also show that topically instilled ketorolac leads to distribution of the drug throughout ocular tissues, including the conjunctiva and sclera.",N,0,N,N,N,N,N,N,N,0,0
+94,"Therefore, nonpenetration of the conjunctiva and episclera by the drug would seem not to explain the lack of effect seen in our study.",N,0,N,N,N,N,N,N,N,0,0
+95,It is generally accepted that topical application allows higher concentrations of the drug to be achieved locally.,N,0,N,N,N,N,N,N,N,0,0
+96,"However, the minimum local concentration of ketorolac necessary to control episcleritis is unknown.",N,0,N,N,N,N,N,N,N,0,0
+97,It is feasible that a dose regimen of three times a day is insufficient.,N,0,N,N,N,N,N,N,N,0,0
+98,Several studies conducted outside the UK have used ketorolac at a frequency of four times a day for the treatment of postoperative inflammation and cystoid macular oedema without significant side effects.,N,0,N,N,N,N,N,N,N,0,0
+99,"Potential undesirable effects of more frequent dosing with topical NSAIDs may include corneal thinning and melting, particularly in patients with rheumatoid arthritis or dry eyes.",N,0,N,N,N,N,N,N,N,0,0
+100,"In conclusion, topical ketorolac given three times a day is not significantly better than artificial tears at treating the signs and symptoms of episcleritis.",N,0,N,N,N,N,N,N,N,0,0
+101,Further studies are needed to determine whether ketorolac is safe enough to allow dosage escalation in a manner similar to topical steroids for the treatment of episcleritis in patients without ocular comorbidity.,N,0,N,N,N,N,N,N,N,0,0

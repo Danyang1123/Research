@@ -1,0 +1,155 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Axonal sensory peripheral neuropathy is the major dose-limiting side effect of paclitaxel.Omega-3 fatty acids have beneficial effects on neurological disorders from their effects on neurons cells and inhibition of the formation of proinflammatory cytokines involved in peripheral neuropathy.,0,0,0,0,0,0,0,0,0,0,0
+1,This study was a randomized double blind placebo controlled trial to investigate the efficacy of omega-3 fatty acids in reducing incidence and severity of paclitaxel-induced peripheral neuropathy (PIPN).,0,0,0,0,0,0,0,0,0,0,0
+2,"Eligible patients with breast cancer randomly assigned to take omega-3 fatty acid pearls, 640 mg t.i.d during chemotherapy with paclitaxel and one month after the end of the treatment or placebo.",0,0,0,0,0,0,0,0,0,0,0
+3,"Clinical and electrophysiological studies were performed before the onset of chemotherapy and one month after cessation of therapy to evaluate PIPN based on ""reduced Total Neuropathy Score"".",0,0,0,0,0,0,0,0,0,0,0
+4,Twenty one patients (70%) of the group taking omega-3 fatty acid supplement (n = 30) did not develop PN while it was 40.7%( 11 patients) in the placebo group(n = 27).,0,0,0,1,0,0,0,1,1,1,1
+5,"A significant difference was seen in PN incidence (OR = 0.3, .95% CI = (0.10-0.88), p = 0.029).",0,0,0,1,0,0,0,1,1,1,1
+6,"There was a non-significant trend for differences of PIPN severity between the two study groups but the frequencies of PN in all scoring categories were higher in the placebo group (0.95% CI = (−2.06 -0.02), p = 0.054).",0,0,0,1,0,0,0,1,1,1,1
+7,Omega-3 fatty acids may be an efficient neuroprotective agent for prophylaxis against PIPN.,0,0,0,0,0,0,0,0,0,0,0
+8,Patients with breast cancer have a longer disease free survival rate with the aid of therapeutical agents.,0,0,0,0,0,0,0,0,0,0,0
+9,Finding a way to solve the disabling effects of PIPN would significantly improve the patients’ quality of life.,0,0,0,0,0,0,0,0,0,0,0
+10,This trial was registered at ClinicalTrials.gov (NCT01049295),0,0,0,0,0,0,0,0,0,0,0
+11,"Paclitaxel is one of the taxane-derived chemotherapeutic agents used for treatment of solid tumors including those of the breast, ovary, lung, and Kaposi’s sarcoma.",0,0,0,0,0,0,0,0,0,0,0
+12,"It was originated from the Pacific yew <span class=""italic"">Taxus brevifolia</span>.",0,0,0,0,0,0,0,0,0,0,0
+13,"Paclitaxel is an antimicrotubular agent that polymerizes tubulin, resulting in formation of stabilized disordered microtubules without dynamic instability that holds up cell division [<a href=""#B1"">1</a>,<a href=""#B2"">2</a>].",0,0,0,0,0,0,0,0,0,0,0
+14,"Paclitaxel-induced peripheral neuropathy (PIPN) is the major dose-limiting side effect of paclitaxel [<a href=""#B2"">2</a>].",0,0,0,0,0,0,0,0,0,0,0
+15,The precise pathology of PIPN is not fully understood.,1,0,0,0,0,0,0,0,0,0,0
+16,Paclitaxel induces an axonal sensory peripheral neuropathy (PN) as a result of aggregation of microtubules in axons and Schwann cells.,0,0,0,0,0,0,0,0,0,0,0
+17,"It may also cause fiber demyelination in some severs cases [<a href=""#B1"">1</a>].",0,0,0,0,0,0,0,0,0,0,0
+18,"Signs of paclitaxel neurotoxicity usually take three weeks to appear, mainly affecting the sensory, rather than motor or autonomic nervous systems.",0,0,0,0,0,0,0,0,0,0,0
+19,"The most common symptoms of PIPN include numbness, tingling, paresthesias, and a burning pain in a stocking-glove distribution.",0,0,0,0,0,0,0,0,0,0,0
+20,"The onset of symptoms is often in hands and feet simultaneously, and some patients complain of facial discomfort [<a href=""#B3"">3</a>,<a href=""#B4"">4</a>].",0,0,0,0,0,0,0,0,0,0,0
+21,"Omega-3 fatty acids eicosapentaenoic acid ( EPA) and docosahexaenoic acid (DHA) are polyunsaturated fatty acids(PUFAs) incorporated into the phospholipid membrane of cells including those of the central and peripheral nervous systems [<a href=""#B5"">5</a>].",0,0,0,0,0,0,0,0,0,0,0
+22,They have many beneficial effects in some psychiatric and neurodegenerative diseases.,0,0,0,0,0,0,0,0,0,0,0
+23,"They determine the biophysical properties of neuronal membranes and regulate signal transduction by their effect on ion channels and receptor functions [<a href=""#B6"">6</a>].",0,0,0,0,0,0,0,0,0,0,0
+24,"Moreover, the production of proinflammatory cytokines which induce neuropathy is attenuated by EPA and DHA, in particular DHA [<a href=""#B5"">5</a>,<a href=""#B6"">6</a>].",0,0,0,0,0,0,0,0,0,0,0
+25,"DHA-induced myelinogenesis has been reported in the previous studies [<a href=""#B7"">7</a>].",0,0,0,0,0,0,0,0,0,0,0
+26,"Most adverse effects associated with chemotherapy are ameliorated after cessation of the therapy, but PN maybe partly reversible or even irreversible in some patients and as such can significantly decrease the patients’ quality of life.",0,0,0,0,0,0,0,0,0,0,0
+27,"Taken together, we designed a randomized placebo-controlled trial to evaluate the possible effect of omega-3 fatty acid supplementation on PIPN in patients with breast cancer.",0,0,0,0,0,0,0,0,0,0,0
+28,"To our knowledge, there have been no previous studies done to demonstrate the possible effects of omega-3 fatty acid supplementation on PIPN.",0,0,0,0,0,0,0,0,0,0,0
+29,This study was a randomized double blind placebo-controlled trial.,1,1,0,0,0,0,0,0,0,0,0
+30,"Subjects were recruited for the study from April, 2010 to October 2011 from Sheiqorrais University Clinic.",0,0,0,0,0,0,0,0,0,0,0
+31,The study protocol was approved by the ethical committee of Tehran University of Medical Sciences (No: 9683).,0,0,0,0,0,0,0,0,0,0,0
+32,"Figure <a href=""#F1"">1</a> shows a summary of the study design.",0,0,0,0,0,0,0,0,0,0,0
+33,"View larger version</a></span><span class=""fig-label"">Figure 1 .",0,0,0,0,0,0,0,0,0,0,0
+34,</span>Flow diagram of the study design.,0,0,0,0,0,0,0,0,0,0,0
+35,"Eighty patients were enrolled in the study .Eleven patients were excluded before randomization, 6 patients did not meet the inclusion criteria and 5 patients declined to participate.",0,0,0,0,0,0,0,0,0,0,0
+36,"Therefore, 69 patients were randomly allocated to receive omega-3 fatty acids (n = 35) or placebo (n = 34).",0,1,0,0,0,0,0,0,0,0,0
+37,"Four patients discontinued the study due to a critical health conditions and 8 patients were unwilling to continue after the first cycle of therapy (lost to follow up, n = 12).",0,0,0,0,0,0,0,0,0,0,0
+38,"So 57 female patients completed the study (Figure <a href=""#F1"">1</a>).",0,0,0,0,0,0,0,0,0,0,0
+39,"Inclusion criteria were: being female, age between 30 to 70 years, treatment with 4 courses of 175 mg/m<sup>2</sup> paclitaxel for a positive node breast cancer, satisfactory kidney and liver function, and WHO performance scores of 0 to 1.",0,0,0,0,0,0,0,0,0,0,0
+40,"All factors which predisposed patients to PN including a medical history of prior chemotherapy treatment, pre-existing peripheral neuropathy due to diabetes mellitus, HIV, alcohol abuse, thyroid dysfunction and hereditary PN associated disorders, and taking any form of nutritional supplement (fish oil, vitamins and minerals) at least three months before enrollment were exclusion criteria.",0,0,0,0,0,0,0,0,0,0,0
+41,Written informed consent was obtained from all the patients before any intervention.,1,0,0,0,0,0,0,0,0,0,0
+42,Eligible enrolled patients were randomly assigned to receive omega-3 fatty acid oral supplements as soft gelatin capsules (Mor DHA Mini I.Q.,0,0,0,0,0,0,0,0,0,0,0
+43,"Minami Nutrition NV, Drie Eikenstraat 661,2650 Edegem, Belgium) at a dose of 640 mg (54% DHA, 10% EPA) three times a day during chemotherapy with paclitaxel and one month after the end of therapy or placebo of Sun flower soft gelatin capsules, (Dana Pharma, Tabriz, Iran) that were similar in appearance to omega-3 fatty acid soft gelatin capsules and similarly administered.",0,0,0,0,0,0,0,0,0,0,0
+44,"All patients treated with paclitaxel (Ebetaxel®,Ebewe Pharmaceutical Company, Austria), at a dose of 175 mg/m² given over a 3-hour infusion every three weeks for 4 cycles.",0,0,0,0,0,0,0,0,0,0,0
+45,The randomization plan was based on a permuted block randomization.,0,0,1,0,1,1,1,0,0,0,0
+46,Sealed closed envelopes containing random codes (A or B) were used to assign subjects to either the intervention group or the control group.,0,0,0,0,0,0,0,0,0,0,0
+47,The allocation of patients was only known to the randomization coordinator of the study.,0,0,1,0,1,1,1,0,0,0,0
+48,All the study patients were evaluated both pre-chemotherapy and one month after the end of chemotherapy by the same neurologist who carried out both clinical examination and electrophysiologic studies and the patients’allocation to study groups was concealed to him.,0,0,0,0,0,0,0,0,0,0,0
+49,Reduced Total Neuropathy Score (rTNS) was used to evaluate the existence and severity of PIPN in patients as the primary outcome measures.,0,0,0,0,0,0,0,0,0,0,0
+50,"rTNS consists of subjective sensory symptoms, pin sensibility, deep tendon reflexes, and nerve conduction studies of sural and peroneal nerves, ranging from 0–28 points.",0,0,0,0,0,0,0,0,0,0,0
+51,Any changes in parameters under evaluation in the tests were given a score from 0 to 4 (depending on the measured severity).,0,0,0,0,0,0,0,0,0,0,0
+52,By adding these seven scores together an “rTNS” score from 0 to 28 was obtained for each patient.,0,0,0,0,0,0,0,0,0,0,0
+53,"The severity of PIPN then was graded as follows: mild (total score 1–10), moderate (total score 11-19); and severe (total score 20–28).",0,0,0,0,0,0,0,0,0,0,0
+54,"rTNS can be easily applied in clinical settings [<a href=""#B8"">8</a>].",0,0,0,0,0,0,0,0,0,0,0
+55,"rTNS included all the TNS items except those for motor symptoms, autonomic symptoms, and quantitative sensory testing of the vibration threshold [<a href=""#B8"">8</a>].",0,0,0,0,0,0,0,0,0,0,0
+56,"These three items were excluded based on the following: 1) probability of occurrences with paclitaxel chemotherapy [<a href=""#B3"">3</a>,<a href=""#B4"">4</a>,<a href=""#B9"">9</a>], and 2) the availability of the necessary device for the examination.",0,0,0,0,0,0,0,0,0,0,0
+57,"Nerve conduction studies were conducted unilaterally (right side), using a Nicolet/ VIASYS Viking Quest EMG Machine based on standard methods [<a href=""#B10"">10</a>].",0,0,0,0,0,0,0,0,0,0,0
+58,"Distal motor latency (DML), peak to baseline amplitude of compound muscle action potential (a-CMAP), and motor conduction velocity were measured for tibial, peroneal, and ulnar nerves as the motor conduction assessment.",0,0,0,0,0,0,0,0,0,0,0
+59,Sensory nerve conduction of sural and ulnar nerves was evaluated with peak-to-peak amplitude measurement of sensory action potentials (a-SAP) and sensory conduction velocity (antidromic technique).,0,0,0,0,0,0,0,0,0,0,0
+60,"Concentrations of EPA and DHA in serum phospholipids were measured by gas liquid chromatography using the method described by Noori M and his colleagues [<a href=""#B11"">11</a>].",0,0,0,0,0,0,0,0,0,0,0
+61,Data were summarized using mean (SD) and frequency (percent) for quantitative and qualitative variables respectively.,0,0,0,0,0,0,0,0,0,0,0
+62,"Analysis of covariance was used to determine the differences of nerve conduction measurements and the serum phospholipids concentrations of omega-3 fatty acids between the two study groups, adjusting baseline measurements.",0,0,0,0,0,0,0,0,0,0,0
+63,"To investigate the difference of PN incidence between the omega-3 supplemented group and the control group, logistic regression performed to estimate the odds ratio.",0,0,0,0,0,0,0,0,0,0,0
+64,Ordinal regression analysis was used to compare the severity of PN between the two study groups.,0,0,0,0,0,0,0,0,0,0,0
+65,All tests were two-sided and significance level was set at 0.05.,0,0,0,0,0,0,0,0,0,0,0
+66,"Statistical power of the study was considered as 80% [<a href=""#B12"">12</a>].",0,0,0,0,0,0,0,0,0,0,0
+67,"Analysis was done using spss software, (spss Inc., Chicago, IL).",0,0,0,0,0,0,0,0,0,0,0
+68,Sample size was determined based on primary information obtained from the study by Okuda et.,0,0,0,0,0,0,0,0,0,0,0
+69,"al [<a href=""#B13"">13</a>] for vibratory perception threshold(VPT): By considering α = 0.05 and a power of 80%, the sample size was computed as 23.24 (≈24) per group [<a href=""#B12"">12</a>].",0,0,0,0,0,0,0,0,0,0,0
+70,"This number was increased to 28 per group to accommodate the anticipated 20% dropout rate, although more patients were enrolled.",0,0,0,0,0,0,0,0,0,0,0
+71,Fifty seven female breast cancer patients were randomly assigned to either the omega-3 supplemented group (n = 30) or the placebo group (n = 27).,0,0,0,1,0,0,0,1,1,1,1
+72,From now on we pointed out the omega-3 supplemented group as group I and the placebo group as group II.,0,0,0,1,0,0,0,1,1,1,1
+73,The mean age of group I was 46.19 ± 9.76 and it was 45.70 ± 12.00 for group II.,0,0,0,0,0,0,0,0,0,0,0
+74,There was no statistical significant difference between the two groups according to age (P = 0.86).,0,0,0,0,0,0,0,0,0,0,0
+75,"The means of body mass index (BMI) for the omega-3 supplemented group and the control group were 45.99 ± 9.01 and 44.14 ± 8.89 respectively, without statistical differences (p = 0.43).",0,0,0,0,0,0,0,0,0,0,0
+76,All the patients treated with 4 courses of 175 mg/m<sup>2</sup> paclitaxel for a positive node breast cancer.,0,0,0,0,0,0,0,0,0,0,0
+77,"They all had a satisfactory kidney and liver function, and WHO performance scores of 0 to 1.",0,0,0,0,0,0,0,0,0,0,0
+78,"The “reduced Total Neuropathy Score (rTNS)” of the 30 patients in group I was as follows: 21 patients (70%) did not develop PN and 9 patients (30%) manifested some grade of neurotoxicity: Four patients (13.3%) developed mild PN; five patients (16.7%) developed moderate PN and sever PN was not observed in this group of study subjects (Table <a href=""#T1"">1</a>).",0,0,0,0,0,0,0,0,0,0,0
+79,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,0,0,0,0,0,0,0,0,0
+80,</span>Paclitaxel-induced peripheral neuropathy in the study groups,0,0,0,0,0,0,0,0,0,0,0
+81,"In group II, PN was not revealed in 11 patients (40.7%), while 10 patients (37%) developed mild PN and 5 patients (18.5%) developed moderate PN.",0,0,0,0,0,0,0,0,0,0,0
+82,"Also, severe neuropathy was seen in one patient (3.7%) (Table <a href=""#T1"">1</a>).",0,0,0,0,0,0,0,0,0,0,0
+83,"A significant difference was observed between the omega-3 supplemented group and the placebo group in PN incidence (OR = 0.3, .95% CI = (0.10-0.88), p = 0.029).",0,0,0,0,0,0,0,0,0,0,0
+84,So group I had 70% lower risk of PN incidence.,0,0,0,0,0,0,0,0,0,0,0
+85,The number needed to treat (NNT) to prevent one PN event was 3.,0,0,0,0,0,0,0,0,0,0,0
+86,"In addition, there were not statistically significant differences in severity of PN between these two groups (B = −1.02, .95% CI = (−2.06 - 0.02), p = 0.054).",0,0,0,0,0,0,0,0,0,0,0
+87,"Using analysis of covariance adjusting baseline measurements to determine the differences of quantitative values between two study groups, a significant difference of sural a-SAP was observed between the omega-3 supplemented group and the control (p = 0.015) with a sharp decrease of sural a-SAP in the placebo group.",0,0,0,0,0,0,0,0,0,0,0
+88,"The other differences of NCS parameters did not reach statistical significance (Table <a href=""#T2"">2</a> and <a href=""#T3"">3</a>).",0,0,0,0,0,0,0,0,0,0,0
+89,"See full table</a></span><span class=""fig-label"">Table 2.",0,0,0,0,0,0,0,0,0,0,0
+90,</span>Motor nerve conduction measurements,0,0,1,0,1,1,1,0,0,0,0
+91,"See full table</a></span><span class=""fig-label"">Table 3.",0,0,0,0,0,0,0,0,0,0,0
+92,</span>Sensory nerve conduction measurements,1,0,1,0,1,1,1,0,0,0,0
+93,"Serum phospholipid concentrations of EPA and DHA were significantly different between the omega-3 supplemented group and the placebo group (P = 0.005 and P = 0.001 respectively): in the omega-3 supplemented group, EPA concentrations increased from 0.53 ± 0.32 at the baseline to 0.61 ± 0.37 at the end of the intervention and DHA concentrations changed from 0.64 ± 48 at the baseline to 1.05 ± 0.79 after the cessation of supplementation with omega-3 fatty acids.",0,0,0,0,0,0,0,0,0,0,0
+94,"In the placebo group, measured changes were 0.63 ± 0.39 to 0.59 ± 0.41 for EPA and 0.71 ± 0.54 to 0.63 ± 0.33 for DHA serum levels, respectively.",0,0,0,0,0,0,0,0,0,0,0
+95,No statistically significant differences were observed between the two study groups in incidence and severity of the PIPN according to the changes of serum DHA and EPA levels.,0,0,0,0,0,0,0,0,0,0,0
+96,"Cumulative neurotoxicity along with axonal disorders are common in PIPN [<a href=""#B3"">3</a>].",0,0,0,0,0,0,0,0,0,0,0
+97,"The cellular microtubules of malignant cells and axons of peripheral nerves are the targets of paclitaxel and it inhibits tubulin depolymerization [<a href=""#B4"">4</a>].",0,0,0,0,0,0,0,0,0,0,0
+98,"It was estimated that 60%-70% of patients who received this chemotherapeutic agent developed dose-dependent neurotoxicity [<a href=""#B4"">4</a>,<a href=""#B14"">14</a>].",0,0,0,0,0,0,0,0,0,0,0
+99,"The aim of the current double-blind placebo-controlled trial was to trace the efficacy of omega-3 fatty acids (mainly DHA), in prophylaxis against paclitaxel induced neurotoxicity.",0,0,0,0,0,0,0,0,0,0,0
+100,"To do this, eligible patients with node positive breast cancer undergoing chemotherapy with paclitaxel were randomly assigned to take oral supplements of omega-3 fatty acids or a placebo during the course of their therapy cycles and one month after the end of chemotherapy.",0,0,0,0,0,0,0,0,0,0,0
+101,There was a significant difference in PIPN incidence between the two study groups so that 70% of patients taking omega-3 fatty acid supplements did not develop PN while incidence was 40.7% in the placebo group.,0,0,0,0,0,0,0,0,0,0,0
+102,"It seems that omega-3 fatty acids, in particular DHA, had neuroprotective effects and that they decreased the paclitaxel-associated neurotoxicity considerably.",0,0,0,0,0,0,0,0,0,0,0
+103,Our results are in accordance with previous studies that have investigated the efficacy of these fatty acids in diabetic neuropathy.,0,0,0,0,0,0,0,0,0,0,0
+104,"They showed that omega-3 fatty acids could attenuate the severity of neuropathy in patients with type 2 diabetes mellitus [<a href=""#B13"">13</a>,<a href=""#B15"">15</a>].",0,0,0,0,0,0,0,0,0,0,0
+105,"They also prevented the lowering of nerve conduction velocity in the sciatic nerve of diabetic rats by improving the activity of Na+/K + ATPase [<a href=""#B16"">16</a>].",0,0,0,0,0,0,0,0,0,0,0
+106,"There was a considerable trend that did not reach significance for the differences of PIPN severity between group I and II, while the frequencies of PN were higher in the placebo group almost in all scoring categories (Table <a href=""#T1"">1</a>) and severe neuropathy was not seen in the omega-3 supplemented group.",0,0,0,0,0,0,0,0,0,0,0
+107,"Neurophysiologic studies improve the accuracy and precision of peripheral neuropathy evaluation and help to identify patients at risk of peripheral neuropathy even before the onset of clinical symptoms [<a href=""#B4"">4</a>,<a href=""#B17"">17</a>].",0,0,0,0,0,0,0,0,0,0,0
+108,"rTNS is a composite scale used to assess the incidence and severity of PIPN that can be easily used in the research and clinical centers [<a href=""#B8"">8</a>].",0,0,0,0,0,0,0,0,0,0,0
+109,"Generally, rTNS is well correlated with the oncologic toxicity scales including National Cancer Institute- Common Toxicity Criteria (NCI-CTS), Eastern Cooperative Oncology Group (ECOG), Ajani, and the extended TNS version with these additional parameters: motor symptoms, autonomic symptoms and quantitative sensory testing (QST) [<a href=""#B8"">8</a>].",0,0,0,0,0,0,0,0,0,0,0
+110,"PIPN is associated with a decrease of a-SAP without significant changes of nerve conduction velocity as it was seen in this study and these changes are indicators of axonal dysfunction rather than myelin disorders [<a href=""#B4"">4</a>].",0,0,0,0,0,0,0,0,0,0,0
+111,"In the current study, a considerable difference was observed in sural nerve a-SAP between the two groups with a sharp decrease in the placebo group.",0,0,0,0,0,0,0,0,0,0,0
+112,Argyriou et al.,0,0,0,0,0,0,0,0,0,0,0
+113,"[<a href=""#B18"">18</a>], evaluated the role of clinical and NCS measurements to predict the outcomes of CIPN.",0,0,0,0,0,0,0,0,0,0,0
+114,They found that only the decrease of the sural a-SAP was associated with the worse neurological outcomes.,0,0,0,0,0,0,0,0,0,0,0
+115,Our results showed that omega-3 fatty acids prevented the significant decrease of sural nerve a-SAP in group I that it may be related to their ability of PIPN reduction in this group.,0,0,0,0,0,0,0,0,0,0,0
+116,Previous studies have shown that there are no known pharmacologic agents to prevent or to cure PN in cancer patients.,0,0,0,0,0,0,0,0,0,0,0
+117,"In recent years, the efficacy of some vitamins and minerals, amino acids, cytokines, carnitines, antidepressants and anticonvulsants have been tested [<a href=""#B19"">19</a>].",0,0,0,0,0,0,0,0,0,0,0
+118,"Vitamin E, acetyl-L carnitine, and glutamine are among the oral supplements which have been studied to prevent or attenuate PIPN, but they were not evaluated in large randomized placebo-controlled trials or they had little success in this regard [<a href=""#B19"">19</a>].",0,0,0,0,0,0,0,0,0,0,0
+119,"An ideal neuroprotective agent for prophylaxis against PIPC should be safe for the patients without reducing the efficacy of the therapy, DHA may be the answer.",0,0,0,0,0,0,0,0,0,0,0
+120,"Growing evidences have demonstrated the positive influences of omega-3 fatty acids in the prevention of a wide range of psychiatric, arrhythmic, and neurological disorders such as Alzheimer’s and Parkinson’s diseases, major depression.",0,0,0,0,0,0,0,0,0,0,0
+121,schizophrenia and dementia.,0,0,1,0,1,1,1,0,0,0,0
+122,"Omega-3 fatty acids are a branch of long chain polyunsaturated fatty acids, originated from marine and plant sources.",0,0,0,0,0,0,0,0,0,0,0
+123,"By incorporating into the neuronal cell membrane phospholipids, they influence critical membrane-associated functions like signal transduction, ion channel dependent transportations (via voltage-dependent sodium channels and L-type calcium channels), receptors physiological properties, and neurotransmission [<a href=""#B6"">6</a>,<a href=""#B20"">20</a>].",0,0,0,0,0,0,0,0,0,0,0
+124,"In addition to their direct effect on neuropathic pain, omega-3 fatty acids inhibit the production of proinflammatory cytokines associated with neuropathic pain (i.e., IL-1β, IL-6, and TNF-α) [<a href=""#B5"">5</a>], and the role of DHA in myelogenesis has been documented in the previous studies [<a href=""#B6"">6</a>,<a href=""#B7"">7</a>,<a href=""#B20"">20</a>].",0,0,0,0,0,0,0,0,0,0,0
+125,"Lauretania F et.al, have shown that DHA was an effective agent that improved axonal degeneration in the patients [<a href=""#B20"">20</a>].",0,0,0,0,0,0,0,0,0,0,0
+126,"In another study accomplished by Ward R et.al, DHA had a significant neuroprotective role in the axonal damage due to spinal cord injury [<a href=""#B21"">21</a>].",0,0,0,0,0,0,0,0,0,0,0
+127,"With respect to DHA, it was conjugated with paclitaxel to form DHA-paclitaxel, a taxane-fatty acid conjugate with intratumoral activation.",0,0,0,0,0,0,0,0,0,0,0
+128,"DHA-paclitaxel was more efficient treating cancer and caused significantly less toxicity over existing paclitaxel [<a href=""#B22"">22</a>].",0,0,0,0,0,0,0,0,0,0,0
+129,"In addition, neurotoxicity may be prevented by cox-2 inhibition [<a href=""#B23"">23</a>] and omega-3 fatty acids inhibit the generation of cox-2 mRNA [<a href=""#B24"">24</a>].",0,0,0,0,0,0,0,0,0,0,0
+130,"US Food and Drug Administration (FDA) has recommended that a total maximum dose of 3 grams per day of DHA and EPA omega-3 fatty acids can be safely consumed [<a href=""#B25"">25</a>].",0,0,0,0,0,0,0,0,0,0,0
+131,"In this study, the total dose of omega-3 fatty acids administered was 1244.1 mg per day (640 mg: 54% DHA, 10% EPA, three times a day) which was far below the maximum daily allowance of omega-3 fatty acids consumption for more caution.",0,0,0,0,0,0,0,0,0,0,0
+132,"Although in a number of placebo-controlled prospective trials no considerable adverse effects were reported of omega-3 fatty acids, to prevent patients from experiencing nausea and gastrointestinal disturbances, they were advised to take fish oil pearls with meals and to keep them in a freezer [<a href=""#B25"">25</a>].",0,0,0,0,0,0,0,0,0,0,0
+133,"There was a dramatic increase of serum concentrations of EPA &amp; DHA in the group taking omega-3 fatty acid supplements and a significant difference was observed between two the study groups in terms of this issue, which could be an indicator of participant compliance.",0,0,0,0,0,0,0,0,0,0,0
+134,"Although the survival rate of breast cancer patients improved by significant advances in treatment strategies, disabling and dose-limiting peripheral neuropathy due to chemotherapy with paclitaxel decreases the patients’ quality of life and sometimes forces the oncologist to change or even end the treatment [<a href=""#B18"">18</a>].",0,0,0,0,0,0,0,0,0,0,0
+135,"No standard therapeutic agent exists for the prevention or treatment of chemotherapy-induced neuropathy [<a href=""#B19"">19</a>].",0,0,0,0,0,0,0,0,0,0,0
+136,"Thus, finding a novel neuroprotective agent seems to be critical.",1,0,0,0,0,0,0,0,0,0,0
+137,Omega-3 fatty acids were efficient for prophylaxis against PIPN in this study.,0,0,0,0,0,0,0,0,0,0,0
+138,"According to our knowledge, this is the first time that the efficacy of omega-3 fatty acids has been assessed for their ability to reduce incidence and severity of PIPN.",0,0,0,0,0,0,0,0,0,0,0
+139,There were some limitations in the design of this double-blind placebo-controlled randomized trial.,0,0,0,0,0,0,0,0,0,0,0
+140,The lack of long term follow up of outcomes measured was a potential limitation of the study.,0,0,0,0,0,0,0,0,0,0,0
+141,"In addition, Sun flower soft gelatin capsules used as placebo had no fishy taste, and the psychological status of the patients was not evaluated in this study although it may has been affected by omega-3 fatty acids.",0,0,0,0,0,0,0,0,0,0,0
+142,Relatively small sample size was another possible limitation of the current trial.,0,0,0,0,0,0,0,0,0,0,0
+143,"Polymorphisms of corresponding cytochrome P-450 enzymes could influence the paclitaxel clearance and drug-related side effects [<a href=""#B17"">17</a>].",0,0,0,0,0,0,0,0,0,0,0
+144,"Therefore, genotyping could help to identify those cancer patients who are at risk of developing neurotoxicity so that they may be advised to take neuroprotectant supplements before the onset of painful and disabling PIPN.",0,0,0,0,0,0,0,0,0,0,0
+145,The effectiveness of omega-3 fatty acids supplementation for neuroprotection of patients with breast cancer treated with paclitaxel is supported by results from the present study.,0,0,0,0,0,0,0,0,0,0,0
+146,Another double-blind placebo-controlled randomized clinical trial with larger sample size is needed to confirm these findings.,0,0,0,0,0,0,0,0,0,0,0
+147,"PIPN, Paclitaxel-induced peripheral neuropathy; PN, Peripheral neuropathy; EPA, Eicosapentaenoic acid; DHA, Docosahexaenoic acid; PUFAs, Polyunsaturated fatty acids; rTNS, Reduced total neuropathy score; DML, Distal motor latency; a-CMAP, Compound muscle action potential amplitude; a-SAP, Sensory action potential amplitude; NCI-CTC, National cancer institute-common toxicity criteria; ECOG, European cooperative oncology group; QST, Quantitative sensory testing.",0,0,0,0,0,0,0,0,0,0,0
+148,The authors declare that they have no competing interests.,0,0,0,0,0,0,0,0,0,0,0
+149,"Zohreh Ghoreishi participated in the study design and coordinations and helped to prepare the draft of the manuscript and interpreting of the results, Ali Esfahani was the oncologist contributor of the study and helped to recruitment of the eligible patients and implementation the chemotherapy and intervention for the study subjects, Abolghasem Djazayeri participated in the study design, Mahmoud Djalali participated in the laboratory testing, Banafsheh Golestan participated in the study design from the statistical view of point, Hormoz Ayromlou performed the clinical and electrophysiological examinations, Shahriar Hashemzade and Vahid Montazeri participated in the recruitment of the eligible patients, Mahammad Asghari Jafarabadi, helped to analyze data and preparing tables and figures.",0,0,0,0,0,0,0,0,0,0,0
+150,"Seyed ali Keshavarz participated in the study design, interpreting the results and he also helped to draft the manuscript.",0,0,0,0,0,0,0,0,0,0,0
+151,Masoud Darabi helped to set up the measuring the serum concentrations of omega-3 fatty acids.,0,0,0,0,0,0,0,0,0,0,0
+152,The pre-publication history for this paper can be accessed here:,0,0,0,0,0,0,0,0,0,0,0
+153,http://www.biomedcentral.com/1471-2407/12/355/prepub,0,0,0,0,0,0,0,0,0,0,0

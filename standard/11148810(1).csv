@@ -1,0 +1,179 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Increased intraocular pressure (IOP) has been shown to be one of the most important risk factors for developing glaucoma.,0,0,0,0,0,0,0,0,0,0,0
+1,Yet it has not been clearly demonstrated that IOP-lowering treatment can reduce the incidence of glaucoma damage in patients with ocular hypertension.,0,0,0,0,0,0,0,0,0,0,0
+2,The aim of the current paper was to report the results of a long-term study addressing this very problem.,0,0,0,0,0,0,0,0,0,0,0
+3,"We conducted a randomised, double-masked study comparing timolol and placebo treatment in 90 patients with ocular hypertension plus some additional risk factor.",0,0,0,0,1,1,1,0,0,0,0
+4,Patients were followed at 3-month intervals prospectively for 10 years,0,0,0,0,0,0,0,0,0,0,0
+5,or until glaucomatous field loss could be demonstrated with computerised perimetry.,0,0,0,0,0,0,0,0,0,0,0
+6,"A post-study analysis was performed including all available data, thus extending",0,0,0,0,0,0,0,0,0,0,0
+7,maximum follow-up to 17 years.,0,0,0,0,0,0,0,0,0,0,0
+8,After 5 years of follow-up eight patients in the placebo group and five patients in the timolol group had developed glaucomatous field loss (NS); the corresponding figures after 10 years were 15 patients in the placebo group and seven patients in the timolol group.,0,0,0,0,0,0,0,0,0,0,0
+9,Survival analysis showed a tendency but no statistically significant difference between treatment groups (P=0.07).,0,0,0,0,0,0,0,0,0,0,0
+10,Eighteen patients in each group had developed glaucomatous field loss when also post-study data were included.,0,0,0,0,0,0,0,0,0,0,0
+11,"IOP reduction was greater in eyes passing the 10-year visit without field loss (5.7 mmHg), than in those that reached an endpoint (2.3 mmHg; P=0.0002).",0,0,0,0,0,0,0,0,0,0,0
+12,The views on glaucoma have changed considerably from several decades ago when “glaucoma” and “elevated intraocular pressure” were used synonymously.,0,0,0,0,0,0,0,0,0,0,0
+13,Epidemiological studies clearly demonstrated as early as the 1960s that elevated intraocular pressure (IOP) without evidence of glaucoma damage is common.,0,0,0,0,0,0,0,0,0,0,0
+14,The acceptance of the term “ocular hypertension” was a result of this knowledge.,0,0,0,0,0,0,0,0,0,0,0
+15,"Several follow-up studies have demonstrated that the majority of patients with elevated IOP do not develop glaucoma damage, even after very long follow-up.",0,0,0,0,0,0,0,0,0,0,0
+16,"As a result, the recommended management of patients with ocular hypertension today, while differing among countries,often implies that such patients should be left untreated but closely monitored for evidence of glaucoma.",0,0,0,0,0,0,0,0,0,0,0
+17,"It is also clear, however, that the prevalence of glaucoma is highly dependent on IOP, and elevated IOP is usually considered the most important risk factor for glaucoma.",0,0,0,0,0,0,0,0,0,0,0
+18,"One could, therefore, hope that reduction of IOP should reduce the incidence of glaucoma damage in patients with ocular hypertension.",0,0,0,0,0,0,0,0,0,0,0
+19,"Several studies addressed this problem during the 1980s with differing results , and Rossetti and co-workers later concluded that clinical trials still had not been able to show that pressure-reducing treatment is of benefit in this group of patients.",0,0,0,0,0,0,0,0,0,0,0
+20,"This prevailing uncertainty is reflected by the ongoing large multi-centre Ocular Hypertension Treatment Study and European Glaucoma Prevention Study, which were started to answer the same basic clinical question as the three studies that were initiated more than 10 years earlier.",0,0,0,0,0,0,0,0,0,0,0
+21,"The present study was started in 1981, at approximately the same time as the three randomised ocular hypertension trials previously mentioned , and it had the same primary aim.",0,0,0,0,0,0,0,0,0,0,0
+22,"To increase study power, the study included hypertensive patients who at that time were believed to be at increased risk of developing glaucoma damage.",0,0,0,0,0,0,0,0,0,0,0
+23,The long follow-up time also increased study power; patients were followed prospectively for 10 years after randomisation.,0,0,0,0,0,0,0,0,0,0,0
+24,An interim analysis published in 1993 [8] showed no clear effects of treatment.,0,0,0,0,0,0,0,0,0,0,0
+25,"The aims of the current paper are primarily to report the final results of this prospective controlled trial, but also to include those primary outcomes that are available at the time of this report, i.e.",0,0,0,0,0,0,0,0,0,0,0
+26,including additional poststudy clinical follow-up.,0,0,0,0,0,0,0,0,0,0,0
+27,"The study was a single-centre, randomised, prospective, doublemasked trial comparing topical timolol treatment with placebo treatment in patients with ocular hypertension plus one or more additional risk features.",0,0,0,0,0,0,0,0,0,0,0
+28,"The study included patients with ocular hypertension, defined as elevated IOP and absence of glaucomatous field defects.",1,0,0,0,0,0,0,0,0,0,0
+29,Patients fulfilled the following eligibility criteria in at least one eye: 1.,0,0,0,0,0,0,0,0,0,0,0
+30,"IOP was defined as the mean of three measurements with the Goldmann applanation tonometer obtained at 8.00, 11.30 and 15.30 hours.",0,0,0,0,0,0,0,0,0,0,0
+31,Previously treated eyes were eligible if they had been washed out for a minimum of 2 weeks.,0,0,0,0,0,0,0,0,0,0,0
+32,Normal visual fields using the threshold program of the Competer perimeter completed with peripheral and nasal midperipheral testing on the Goldmann perimeter.,0,0,0,0,0,0,0,0,0,0,0
+33,"At least one of the following “risk factors” also had to be present: a) Suspicious disk, defined as the presence of a disc haemorrhage,localised complete or incomplete rim notch, cup-disc .",0,0,0,0,0,0,0,0,0,0,0
+34,"The study included patients with ocular hypertension, defined as elevated IOP and absence of glaucomatous field defects.",0,0,0,0,0,0,0,0,0,0,0
+35,Patients fulfilled the following eligibility criteria in at least one eye:,0,0,0,0,0,0,0,0,0,0,0
+36,"IOP was defined as the mean of three measurements with the Goldmann applanation tonometer obtained at 8.00, 11.30 and 15.30 hours.",0,0,0,0,0,0,0,0,0,0,0
+37,Previously treated eyes were eligible if they had been washed out for a minimum of 2 weeks.,0,0,0,0,0,0,0,0,0,0,0
+38,Normal visual fields using the threshold program of the Competer perimeter completed with peripheral and nasal midperipheral testing on the Goldmann perimeter.,0,0,0,0,0,0,0,0,0,0,0
+39,"At least one of the following “risk factors” also had to be present: a) Suspicious disk, defined as the presence of a disc haemorrhage, localised complete or incomplete rim notch, cup-discratio ≥0.6, cup-disc ratio discrepancy of ≥0.2 between the two eyes, or marked vertical cup asymmetry defined as vertical cup-disc ratio exceeding horizontal cup-disc ratio by ≥0.2.",0,0,0,0,0,0,0,0,0,0,0
+40,b) Positive family history of glaucoma.,0,0,0,0,0,0,0,0,0,0,0
+41,c) Pseudoexfoliation or pigment dispersion syndrome.,0,0,0,0,0,0,0,0,0,0,0
+42,e) A mean IOP ≥27 mmHg was sufficient to permit entry into the study even if no other risk factors were found.,0,0,0,0,0,0,0,0,0,0,0
+43,Open angles by gonioscopy (grades II-IV).,0,0,0,0,0,0,0,0,0,0,0
+44,Exclusion criteria Exclusion criteria were: 1.,0,0,0,0,0,0,0,0,0,0,0
+45,Mean untreated IOP ≥35 mmHg 2.,0,0,0,0,0,0,0,0,0,0,0
+46,"Concomitant medication known to affect IOP, including beta–blocking drugs, clonidine and carbonic anhydrase inhibitors 3.",0,0,0,0,0,0,0,0,0,0,0
+47,History of intraocular surgery 4.,0,0,0,0,0,0,0,0,0,0,0
+48,Lens opacities or pupils which would not dilate sufficiently for disc photography 6.,0,0,0,0,0,0,0,0,0,0,0
+49,Unreliable patient or patient who could not perform adequately at visual field testing 7.,0,0,0,0,0,0,0,0,0,0,0
+50,Systemic illness reducing the possibility of the patient complying with schedule and completing the study 8.,0,0,0,0,0,0,0,0,0,0,0
+51,History of pulmonary or cardiac disease contraindicating the use of beta-blocking agents Recruitment and informed consent,0,0,0,0,0,0,0,0,0,0,0
+52,Patient visits and methods of examination V,0,0,0,0,0,0,0,0,0,0,0
+53,Patient eligibility was assessed and informed consent obtained at a pre-study examination and confirmed at the baseline examination.,0,0,0,0,0,0,0,0,0,0,0
+54,Patients were assigned allocation numbers at this visit.,0,0,0,0,0,0,0,0,0,0,0
+55,Treatment started immediately thereafter.,0,0,0,0,0,0,0,0,0,0,0
+56,Eligible eyes always received treatment.,0,0,0,0,0,0,0,0,0,0,0
+57,"In patients with only one eligible eye, the fellow eye was either left untreated or received the same treatment as the study eye.",0,0,0,0,0,0,0,0,0,0,0
+58,Fellow eyes were usually left untreated if IOP was normal.,0,0,0,0,0,0,0,0,0,0,0
+59,"Patients returned for follow-up examinations after 1 month, and then every 3 months after the baseline examination.",0,0,0,0,0,0,0,0,0,0,0
+60,"The baseline visit included ophthalmic and general medical history and a full ocular examination including determination of visual acuity and refraction, slit-lamp examination, ophthalmoscopy after dilation, gonioscopy, tonometry, disc photography and visual field testing with the Competer and Goldmann perimeters.",0,0,0,0,0,0,0,0,0,0,0
+61,"All follow-up examinations included medical and ophthalmic history recording possible adverse events and compliance, visual acuity, computerised visual fields, applanation tonometry in the same way as at baseline, ophthalmoscopy after dilation concentrating on the optic disc and macula and disc photography.",0,0,0,0,0,0,0,0,0,0,0
+62,Ophthalmoscopy of the peripheral retina was performed every year after baseline.,0,0,0,0,0,0,0,0,0,0,0
+63,Withdrawal during the study Patients were withdrawn from the study if any of the following occurred: 1.,0,0,0,0,0,0,0,0,0,0,0
+64,Appearance of reproducible glaucomatous visual field defects.,0,0,0,0,0,0,0,0,0,0,0
+65,Non-compliance with treatment or study protocol,0,0,0,0,0,0,0,0,0,0,0
+66,Death or severe systemic illness that made further followup impossible,0,0,0,0,0,0,0,0,0,0,0
+67,Patient received systemic beta-blocker therapy,0,0,0,0,0,0,0,0,0,0,0
+68,Patient underwent intraocular surgery,0,0,0,0,0,0,0,0,0,0,0
+69,Cataract preventing meaningful ophthalmoscopy or fundus photography,0,0,0,0,0,0,0,0,0,0,0
+70,Appearance of visual field defects caused by disease other than glaucoma,0,0,0,0,0,0,0,0,0,0,0
+71,Adverse reaction motivating withdrawal of treatment in the opinion of patient or physician,0,0,0,0,0,0,0,0,0,0,0
+72,"Evidence of confirmed glaucomatous field loss was the main outcome of the trial (see below, Examination methods).",0,0,0,0,0,0,0,0,0,0,0
+73,"Tonometry Measurements of IOP were always performed as office tension curves at approximately 8.00, 11.30 and 15.30 hours with Goldmann applanation tonometry.",0,0,0,0,0,0,0,0,0,0,0
+74,Perimetry Computerised static threshold perimetry was performed at every visit using the threshold program of the Competer perimeter.,0,0,0,0,0,0,0,0,0,0,0
+75,The Competer threshold program tests 64 test point locations 5–20° from fixation.,0,0,0,0,0,0,0,0,0,0,0
+76,The same instrument was used throughout the study.,0,0,0,0,0,0,0,0,0,0,0
+77,"In addition we performed peripheral and mid-peripheral kinetic testing on the Goldmann perimeter before study inclusion, to exclude existing glaucomatous field loss in those areas of the visual field.",0,0,0,0,0,0,0,0,0,0,0
+78,Goldmann perimetry was also used in situations of equivocal field loss during follow-up and was concentrated in areas of suspected loss.,0,0,0,0,0,0,0,0,0,0,0
+79,Computerised static profile or high-density perimetry was sometimes performed in such situations to confirm or reject uncertain loss.,0,0,0,0,0,0,0,0,0,0,0
+80,"Field charts were classified as normal, tentatively abnormal or definitely abnormal.",0,0,0,0,0,0,0,0,0,0,0
+81,Interpretation focused on detection of areas of decreased sensitivity and nasal steps following rules that have been previously described.,0,0,0,0,0,0,0,0,0,0,0
+82,Sensitivity values were compared to those of surrounding areas and with test locations in the opposite hemifield.,0,0,0,0,0,0,0,0,0,0,0
+83,"For ethical reasons it was felt necessary to strive for early identification of field loss; therefore, predetermined numerical criteria were not used, but instead eyes with suspicious findings were generously retested.",0,0,0,0,0,0,0,0,0,0,0
+84,"Thus, if a test result indicated possibly abnormal findings, the examination was repeated on the same day.",0,0,0,0,0,0,0,0,0,0,0
+85,"If a similar abnormal finding could not be confirmed in the second field, no further field testing was performed until the next protocol visit unless strong suspicion of field loss remained.",0,0,0,0,0,0,0,0,0,0,0
+86,In the latter situation the patient was called back for extra field testing before the next scheduled visit.,0,0,0,0,0,0,0,0,0,0,0
+87,If both fields indicated abnormal results we performed further detailed perimetry (see above) for confirmation.,0,0,0,0,0,0,0,0,0,0,0
+88,"Only then was a visual field defined as definitely abnormal, thus forming a main outcome.",0,0,0,0,0,0,0,0,0,0,0
+89,Monoscopic optic disc photographs were obtained through a dilated pupil on Kodachrome film using the same Zeiss fundus camera during the entire study.,0,0,0,0,0,0,0,0,0,0,0
+90,Follow-up photographs were compared with baseline photographs.,0,0,0,0,0,0,0,0,0,0,0
+91,"Optic disc appearance was monitored for safety reasons, but change in the architecture of the disc did not form a main outcome.",0,0,0,0,0,0,0,0,0,0,0
+92,"In this study, ocular hypertension was defined as elevated IOP and absence of visual field defects regardless of disc appearance.",0,0,0,0,0,0,0,0,0,0,0
+93,"The study favoured patients with extra risk features including signs that are associated with early glaucomatous damage (see above, Inclusion criteria).",0,0,0,0,0,0,0,0,0,0,0
+94,An interim analysis showed close correspondence in time between appearance of visual field loss and development of disc changes relative to baseline.,0,0,0,0,0,0,0,0,0,0,0
+95,The analyses aimed at finding differences between placebo- and timolol-treated patients.,0,0,0,0,0,0,0,0,0,0,0
+96,All analyses were based on patients rather than eyes.,0,0,0,0,0,0,0,0,0,0,0
+97,"When both eyes of a patient were eligible, the first eye to reach the outcome was included in the analyses.",0,0,0,0,0,0,0,0,0,0,0
+98,"When visual fields of both eyes remained normal, one was randomly selected.",0,0,0,0,0,0,0,0,0,0,0
+99,"Baseline characteristics of patients were compared between the two treatment groups using t-tests for continuous data, and chisquare tests of contingency tables for discrete data.",0,0,0,0,0,0,0,0,0,0,0
+100,"Incidence of glaucomatous field loss was compared including patients followed in the prospective part of the study for 5 years, and for 10 years.",0,0,0,0,0,0,0,0,0,0,0
+101,"We also performed an intent-to-treat analysis, i.e.",0,0,0,0,0,0,0,0,1,0,0
+102,"including all data from all patients, who were randomised.",0,1,0,0,0,0,0,0,1,0,0
+103,We applied the Kaplan-Meier method and compared “survival” functions across treatment groups using the logrank Mantel-Cox test.,0,0,0,0,0,0,0,0,0,1,0
+104,"For the intent-to-treat analysis, all available post-study patient records were searched except those of patients who reached the main outcome, i.e.",0,0,0,0,0,0,0,0,0,0,0
+105,"developed glaucomatous field loss (n=22), died (n=7) or were lost to follow-up (n=3) while included in the study.",0,0,0,0,0,0,0,0,0,0,0
+106,"Change in IOP between baseline and follow-up was compared between treatment groups and also between eyes reaching the endpoint or remaining in the study during the 10-year follow-up period (n=41), using two-sided analysis of variance.",0,0,0,0,0,0,0,0,0,0,0
+107,Table 1 Baseline characteristics,0,0,0,0,0,0,0,0,0,0,0
+108,Ninety patients were randomised.,0,1,0,0,0,0,0,0,0,0,0
+109,Their baseline characteristics are shown in Table 1.,0,0,0,0,0,0,0,0,0,0,0
+110,There were no statistically significant differences between treatment groups.,0,0,0,0,0,0,0,0,0,0,0
+111,"Eleven patients had been on pressure-reducing therapy, but only one patient had been on timolol.",0,0,0,0,0,0,0,0,0,0,0
+112,The intervals between any earlier such treatment and study baseline ranged from 12 months to 10 years.,0,0,0,0,0,0,0,0,0,0,0
+113,"Thus, 79 patients were previously untreated.",0,0,0,0,0,0,0,0,0,0,0
+114,"The number of missed visits during the study period was small, only 0.3%.",0,0,0,0,0,0,0,0,0,0,0
+115,and physician (A.H.) handled more than 99% of study visits.,0,0,0,0,0,0,0,0,0,0,0
+116,The main outcomes and study attrition for the two treatment groups are shown in Table 2.,0,0,0,0,0,0,0,1,0,0,0
+117,"It is evident that attrition was considerable during the long follow-up, owing to a variety of reasons.",0,0,0,0,0,0,0,0,0,0,0
+118,The main outcomes are presented in the Kaplan-Meier survival plots in Figs.,0,0,0,0,0,0,0,0,0,1,0
+119,"After 5 years of follow-up, eight patients in the placebo group, and five patients in the timolol group had developed glaucomatous field loss.",0,0,0,0,0,0,0,0,0,0,0
+120,There was no significant difference (P=0.53) in survival function between treatment groups during this period.,0,0,0,0,0,0,0,0,0,0,0
+121,"At the end of the formal study period after 10 years, 15 patients in the placebo group and seven patients in the timolol group had developed glaucoma.",0,0,0,0,0,0,0,0,0,0,0
+122,No treatment crossovers had been registered during the entire 10 years of follow-up.,0,0,0,0,0,0,0,0,0,0,0
+123,"The Kaplan-Meier plot suggests a difference between the treatment groups, but the difference is not significant (P=0.07).",0,0,0,0,0,0,0,0,0,0,0
+124,1 Kaplan-Meier survival function for all patients followed within the study.,0,0,0,0,0,0,0,0,0,0,0
+125,Endpoints are development of glaucomatous visual field defects.,0,0,0,0,0,0,0,0,0,0,0
+126,After 5 years of follow-up there was no difference between treatment groups.,0,0,0,0,0,0,0,0,0,0,0
+127,"After 10 years fewer patients had developed endpoints in the timolol group, but this difference did not reach statistical significance (P=0.07)",0,0,0,0,0,0,0,0,0,0,0
+128,2 Kaplan-Meier survival curves of all patients including post-study data.,0,0,0,0,0,0,0,0,0,0,0
+129,No difference between treatment groups is seen (P=0.98),0,0,0,0,0,0,0,0,0,0,0
+130,2) used data which were collected up to 17 years after study inclusion.,0,0,0,0,0,0,0,0,0,0,0
+131,"Two patients in the timolol group died shortly after withdrawal from the study, leaving 32 timolol-treated patients to be included in the post-study analysis.",0,0,0,0,0,0,0,0,0,0,0
+133,Twentynine of these patients continued with timolol therapy.,0,0,0,0,0,0,0,0,0,0,0
+134,"During the post-study period, glaucomatous field defects developed in 11 of the 29 patients who continued with timolol.",0,0,0,0,0,0,0,0,0,0,0
+135,In the placebo group 13 patients continued without treatment and 12 patients started with anti-glaucoma therapy.,0,0,0,0,0,0,0,0,0,0,0
+136,"Three of these 12 treated patients developed field defects during the post-study phase, while none of the 13 untreated patients developed such loss.",0,0,0,0,0,0,0,0,0,0,0
+137,"Thus, when using all available post-study data, the same number of patients (18) in each treatment group had developed glaucomatous field loss.",0,0,0,0,0,0,0,0,0,0,0
+138,"3a, b Baseline and mean follow-up IOP during the prospective part of the study for timolol-treated eyes (a) and placebotreated eyes (b).",0,0,0,0,0,0,0,0,0,0,0
+139,"Eyes that developed glaucomatous field loss are marked with filled circles, while eyes whose fields remained normal are marked with open circles.",0,0,0,0,0,0,0,0,0,0,0
+140,Glaucomatous field loss developed at all IOP levels,0,0,0,0,0,0,0,0,0,0,0
+141,The decrease in IOP between baseline and follow-up visits was significantly larger in eyes treated with timolol than in,0,0,0,0,0,0,0,0,0,0,0
+142,"Thus, the mean IOP decline was 6.7 mmHg in the timolol group and 1.0 mmHg in the placebo",0,0,0,0,0,0,0,0,0,0,0
+143,The IOP reduction was also significantly larger in the eyes passing the 10 year visit without developing field,0,0,0,0,0,0,0,0,0,0,0
+144,"loss, than in those that reached an endpoint (P=0.0002).",0,0,0,0,0,0,0,0,0,0,0
+145,The mean IOP reduction was 2.3 mm in the eyes that developed,0,0,0,0,0,0,0,0,0,0,0
+146,field defects before the end of the prospective part of the study (5.5 mmHg in timolol-treated eyes and 0.6 mmHg,0,0,0,0,0,0,0,0,0,0,0
+147,in placebo eyes) and 5.7 mmHg in eyes that still had normal fields at the 10-year visit (6.6 mmHg in the timolol group,0,0,0,0,0,0,0,0,0,0,0
+148,and 1.8 mmHg in the placebo group).,0,0,0,0,0,0,0,0,0,0,0
+149,Baseline and mean follow-up IOP values for each study eye are shown in Fig.,0,0,0,1,0,0,0,0,0,0,0
+150,At each visit all patients were asked whether test medication had been taken according to the protocol during the preceding period.,0,0,0,0,0,0,0,0,0,0,0
+151,"Very few doses were reported as missed, except for one patient who interrupted medication",0,0,0,0,0,0,0,0,0,0,0
+152,after his 1-month visit and was excluded at the 3-month visit because he wished to withdraw.,0,0,0,0,0,0,0,0,0,0,0
+153,"Excluding this outlier, self-reported patient compliance was high.",0,0,0,0,0,0,0,0,0,0,0
+154,"Thus, only 0.35% of all doses were reported as missed:",0,0,0,0,0,0,0,0,0,0,1
+155,0.40% (range 0–4.4%) in the placebo group and 0.31% (range 0–2.6%) in the timolol group; this may or may not reflect better-than-average real compliance.,0,0,0,0,0,0,0,0,0,0,1
+156,"This study has the advantage of long follow-up, but it also demonstrates the difficulties encountered with long periods of follow-up in elderly patients.",0,0,0,0,0,0,0,0,0,0,0
+157,"Thus, attrition increased with time, and at 10 years a large proportion of patients had left the study without developing a main outcome.",0,0,0,0,0,0,0,0,0,0,0
+158,The study design and the examination methods used,0,0,0,0,0,0,0,0,0,0,0
+159,were obviously decided upon in the early 1980s.,0,0,0,0,0,0,0,0,0,0,0
+160,"Standards for clinical trials have evolved, and today follow- up would have been stricter for those patients who left the study without having",0,0,0,0,0,0,0,0,0,0,0
+161,"developed glaucoma The study design also showed foresight, however; few studies at that time used computerised threshold perimetry.",0,0,0,0,0,0,0,0,0,0,0
+162,The results illustrate the importance of follow-up duration,0,0,0,0,0,0,0,0,0,0,0
+163,for the results of prospective clinical trials.,0,0,0,0,0,0,0,0,0,0,0
+164,At 5 years there were no significant differences between the two treatment groups.,0,0,0,0,0,0,0,0,0,0,0
+165,At 10 years fewer eyes had developed field loss in the timolol,0,0,0,0,0,0,0,0,0,0,0
+166,"group than in the placebo group, and this difference was almost significant.",0,0,0,0,0,0,0,0,0,0,0
+167,"When an intent-to-treat analysis including post-study data was performed, the differences disappeared;",0,0,0,0,0,0,0,0,0,0,0
+168,the same number of patients had developed glaucoma damage in both treatment groups.,0,0,0,0,0,0,0,0,0,0,0
+169,Such intent-to-treat analyses are today often preferred for results of clinical trials.,0,0,0,0,0,0,0,0,0,0,0
+170,"By choosing patients believed to be at extra risk, we designed the study to increase the likelihood of encountering patients that would develop main outcomes.",0,0,0,0,0,0,0,0,0,0,0
+171,"This was indeed the case; our results show higher proportions of patients developing glaucoma than found in studies involving non-selected patients with ocular hypertension, where the risk is often said to approximate 1% per eye per year, or 30% for as long a follow-up as 20 years.",0,0,0,0,0,0,0,0,0,0,0
+172,"Thus, in this study we found a tendency but failed to prove a beneficial effect of topical long-term timolol treatment in patients with elevated IOP, normal visual fields and some additional risk factor.",0,0,0,0,0,0,0,0,0,0,0
+173,"The very long follow- up was associated with considerable attrition, but",0,0,0,0,0,0,0,0,0,0,0
+174,an intent-to-treat analysis including post-study data demonstrated a relatively high proportion of patients developing,0,0,0,0,0,0,0,0,1,0,0
+175,"glaucomatous field loss, without any difference between timolol and placebo groups.",0,0,0,0,0,0,0,0,0,0,0
+176,The present results would not change Rossetti’s conclusions from 1993 that IOP reduction has not been shown to prevent,0,0,0,0,0,0,0,0,0,0,0
+177,"The results also indicate that larger prospective studies of IOP-lowering treatment in ocular hypertension, like the ongoing Ocular",0,0,0,0,0,0,0,0,0,0,0
+178,"Hypertension Treatment Study and European Glaucoma Prevention Study, remain clearly motivated.",0,0,0,0,0,0,0,0,0,0,0

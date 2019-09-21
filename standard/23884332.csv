@@ -1,0 +1,161 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Purpose: Supplementation with gamma-linolenic acid (GLA) and omega-3 (n-3) polyunsaturated fatty acids (PUFAs) has been found to decrease the production of disease-relevant inflammatory mediators that are implicated in the pathogenesis of chronic dry eye.,0,0,0,0,0,0,0,N,0,0,0
+1,This study evaluated the effect of a supplement containing both GLA and n-3 PUFAs on signs and symptoms of moderate-to-severe keratoconjunctivitis sicca in postmenopausal patients.,0,0,0,0,0,0,0,N,0,0,0
+2,"Methods: This multicenter, double-masked placebo-controlled clinical trial enrolled 38 patients (both eyes) with tear dysfunction who were randomized to supplemental GLA + n-3 PUFAs or placebo for 6 months.",0,0,0,0,0,0,0,N,0,0,0
+3,"Disease parameters, including Ocular Surface Disease Index, Schirmer test, tear breakup time, conjunctival fluorescein and lissamine green staining, and topographic corneal smoothness indexes (surface asymmetry index and surface regularity index), were assessed at baseline and at 4, 12, and 24 weeks.",0,0,0,0,0,0,0,N,0,0,0
+4,The intensity of dendritic cell CD11c integrin and HLA-DR expression was measured in conjunctival impression cytologies.,0,0,0,0,0,0,0,N,0,0,0
+5,"Results: The Ocular Surface Disease Index score improved with supplementation and was significantly lower than placebo (21 +/- 4 vs. 34 +/- 5) after 24 weeks (P = 0.05, n = 19 per group).",0,0,0,0,0,0,0,N,0,0,1
+6,"The surface asymmetry index was significantly lower in supplement-treated subjects (0.37 +/- 0.03, n = 15) than placebo (0.51 +/- 0.03, n = 16) at 24 weeks (P = 0.005).",0,0,0,0,0,0,0,N,0,0,0
+7,"Placebo treatment also significantly increased HLA-DR intensity by 36% +/- 9% and CD11c by 34% +/- 7% when compared with supplement treatment (n = 19 per group, P = 0.001, 24 weeks).",0,0,0,0,0,0,0,N,0,0,0
+8,"Neither treatment had any effect on tear production, tear breakup time, or corneal or conjunctival staining.",0,0,0,0,0,0,0,N,0,0,0
+9,"Conclusions: Supplemental GLA and n-3 PUFAs for 6 months improved ocular irritation symptoms, maintained corneal surface smoothness, and inhibited conjunctival dendritic cell maturation in patients with postmenopausal keratoconjunctivitis sicca.",0,0,0,0,0,0,0,N,0,0,0
+10,Dry eye or keratoconjunctivitis sicca (KCS) results from disease or dysfunction of 1 or more components of the integrated lacrimal functional unit that is no longer able to maintain tear stability.,0,0,0,0,0,0,0,N,0,0,0
+11,"Patients with dry eye typically complain of eye irritation, foreign body sensation, burning and dryness, and visual symptoms including photophobia and fluctuating vision.",0,0,0,0,0,0,0,N,0,0,0
+12,"A number of risk factors, such as age, female gender, contact lens wear, smoking, exposure to dry environments, diabetes mellitus, and dietary factors, contribute to dry eye.",0,0,0,0,0,0,0,N,0,0,0
+13,Ocular surface inflammation also contributes to the irritation symptoms and ocular surface disease that develops in dry eye.,0,0,0,0,0,0,0,N,0,0,0
+14,"Ocular surface inflammation produces inflammatory mediators, such as prostaglandin E2 11,12 and inflammatory cytokines,13-16 some of which sensitize ocular surface nociceptors, disrupt corneal barrier function, and promote epithelial apoptosis and conjunctival goblet cell loss in dry eye.",0,0,0,0,0,0,0,N,0,0,0
+15,"The n-3 polyunsaturated fatty acids (PUFAs), eicosapentaenoic acid (EPA) and/or docosahexaenoic acid (DHA), found in fish oil decrease the production of these proinflammatory mediators and also inhibit natural killer cell activity.",0,0,0,0,0,0,0,N,0,0,0
+16,The n-6 PUFA gamma-linolenic acid (GLA) also provides similar antiinflammatory activity.,0,0,0,0,0,0,0,N,0,0,0
+17,GLA is not present in commonly consumed foods but is generated in the body through desaturation of linoleic acid by the rate-limiting enzyme delta-6-desaturase (D6D).,0,0,0,0,0,0,0,N,0,0,0
+18,"D6D is under hormonal and metabolic regulation and may decrease with smoking, stress, and alcohol use, and with age.",0,0,0,0,0,0,0,N,0,0,0
+19,"Supplementation with EPA potentiates the antiinflammatory activity of GLA by decreasing the synthesis of arachidonic acid and prostaglandin E2.Formulations containing these PUFAs have been observed to be effective in treating chronic inflammatory diseases, such as rheumatoid arthritis and inflammatory bowel disease.",0,0,0,0,0,0,0,N,0,0,0
+20,"Clinical trials of supplements containing linoleic acid and GLA  alone, or combined with fish oil, for the treatment of dry eye have reported improvement in symptoms, clinical signs, or inflammatory biomarkers.",0,0,0,0,0,0,0,N,0,0,0
+21,"According to the 2010 Dietary Guidelines for Americans, the average US consumption of seafood, and thus EPA and DHA, is [almost equal to]99 g ([almost equal to]3.5 oz) weekly and below the recommended 250 g ([almost equal to]9 oz) per week.",0,0,0,0,0,0,0,N,0,0,0
+22,"Based on these data, we initiated a multicenter, randomized double-masked clinical trial of an oral supplement containing fish oil, black currant seed oil (GLA source), antioxidant vitamins C and E, and cofactors in fatty acid metabolism for the treatment of moderate-to-severe KCS defined by the presence of signs and symptoms in postmenopausal women.",0,0,0,0,0,0,0,N,0,0,0
+23,"The purpose of this trial was to evaluate the effect of this formulation on the severity of irritation symptoms, ocular surface disease measured by corneal and conjunctival dye staining, topographic corneal smoothness indexes, and inflammation measured by average mean signal intensity of CD11c-positive and HLA class II-positive dendritic cells in conjunctival impression cytology.",0,0,0,0,0,0,0,N,0,0,0
+24,"This was a multicenter, randomized, double-masked parallel-group safety and efficacy trial conducted in 2 US clinical centers: Virginia Eye Consultants (Norfolk, VA), a private clinic, and the Cullen Eye Institute, Baylor College of Medicine, an academic center.",0,0,0,0,0,0,0,N,0,0,0
+25,"Patients who met the inclusion and exclusion criteria were enrolled in the study and instructed to take 2 softgels twice each day, a total of 4 daily.",1,0,0,0,0,0,0,N,0,0,0
+26,"Patients were provided with Refresh artificial tears (Allergan, Inc., Irvine, CA) to use as needed for the duration of the study.",0,0,0,0,0,0,0,N,0,0,0
+27,No other topical medications were allowed.,0,0,0,0,0,0,0,N,0,0,0
+28,The institutional review board at each study center approved the study.,0,0,0,0,0,0,0,N,0,0,0
+29,Each patient signed a written informed consent.,1,0,0,0,0,0,0,N,0,0,0
+30,Patient inclusion and exclusion criteria are presented in Appendix 1.,1,0,0,0,0,0,0,N,0,0,0
+31,Eligible patients were randomized 1:1 using a computer-generated randomization procedure.,0,1,0,0,0,0,0,N,0,0,0
+32,"Investigators, subjects, and staff were masked to the identity of the supplement and placebo.",0,0,0,0,1,1,1,N,0,0,0
+33,Compliance to the study medication was assessed by patient interview and by measurement of remaining medications.,0,0,0,0,0,0,0,N,0,0,0
+34,"The study duration was 6 months, with a total of 4 study visits: day 0 (screening and baseline, visit 1), week 4 (+/-3 days, visit 2), week 12 (+/-3 days, visit 3), and week 24 (+/-3 days, visit 4).",0,0,0,0,0,0,0,N,0,0,0
+35,Supplement and Placebo Compositions,1,0,0,0,0,0,0,N,0,0,0
+36,"Analytical results of the test supplement (HydroEye US Patent 6,506,412; ScienceBased Health, Houston, TX) are shown in Supplemental Digital Content 1 (see Table,",0,0,0,0,0,0,0,N,0,0,0
+37,"Analyses were performed at the Covance Laboratories Inc (Madison, WI) and Eurofins Scientific Inc (Petaluma, CA).",0,0,0,0,0,0,0,N,0,0,0
+38,"The placebo was identical in appearance to the test supplement and contained sunflower oil as the main ingredient along with beeswax, lecithin, and calcium carbonate.",0,0,0,0,0,0,0,N,0,0,0
+39,Sunflower oil was chosen because it is generally well tolerated and typically contains <0.1% of n-6 GLA and n-3 alpha-linolenic acid (ALA) and undetectable levels of n-3 EPA and DHA.,0,0,0,0,0,0,0,N,0,0,0
+40,"Efficacy outcomes included a 12-item Ocular Surface Disease Index (OSDI) symptom severity questionnaire, Schirmer tear flow measurement (Eagle Vision, Memphis, TN), tear breakup time (TBUT), corneal staining with fluorescein (BioGlo; Rose Stone Enterprises, Alta Loma, CA), conjunctival staining with lissamine green (GreenGlo; Rose Stone Enterprises), and conjunctival impression cytology HLA-DR and CD11c staining.",0,0,0,0,0,0,0,N,0,0,0
+41,"Additional efficacy outcomes included the frequency of artificial tear usage, facial expression discomfort scale, surface regularity (SRI) and surface asymmetry (SAI) corneal topography smoothness indexes (Tomey TMS-4, Phoenix, AZ), and high- and 10% low-contrast logMAR visual acuity measures with an ETDRS chart (Vector Vision, Greenville, OH).",0,0,0,0,0,0,0,N,0,0,0
+42,Clinical safety measures included slit-lamp biomicroscopic signs of inflammation and applanation intraocular pressure (IOP) measurements.,0,0,0,0,0,0,0,N,0,0,0
+43,Adverse events and their related relative treatment were also recorded.,0,0,0,0,0,0,0,N,0,0,0
+44,"During the 4 visits, patients responded to the facial expression subjective scale and the OSDI questionnaire.",0,0,0,0,0,0,0,N,0,0,0
+45,"Frequency of artificial tear use was recorded, and best-corrected visual acuity, corneal topography, slit-lamp biomicroscopy, TBUT, corneal staining with fluorescein and lissamine green, Schirmer tear flow, and IOP were measured at each time point.",0,0,0,0,0,0,0,N,0,0,0
+46,"Impression cytology was obtained only at visits 1, 3, and 4.",0,0,0,0,0,0,0,N,0,0,0
+47,HLA-DR and CD11c Immunostaining,0,0,0,0,0,0,0,N,0,0,0
+48,"Conjunctival cells were obtained by placing a Biopore membrane (catalog number PICM 01250; Millipore Corp, Billerica, MA) against the inferonasal bulbar conjunctiva of each eye.",0,0,0,0,0,0,0,N,0,0,0
+49,These membranes were immediately frozen at -80[degrees]C until they were processed for immunostaining.,0,0,0,0,0,0,0,N,0,0,0
+50,"Dual color immunofluorescent staining of the membranes was performed as previously reported  using mouse anti-human HLA-DR (catalog number L243; Santa Cruz Biotechnology, Santa Cruz, CA) with Alexa Fluor 488 Goat Anti-Mouse IgG secondary antibody (Life Technologies, Grand Island, NY) and rabbit anti-human CD11c (AB52632; Abcam, Cambridge, MA) with Alexa Fluor 594 Goat Anti-Rabbit IgG secondary antibody (Life Technologies).",0,0,0,0,0,0,0,N,0,0,0
+51,Cell nuclei were stained with Hoechst 333482 dye.,0,0,0,0,0,0,0,N,0,0,0
+52,"Stained membranes were examined, and 5 images from representative areas of each specimen were captured with a Nikon Eclipse E400 epifluorescent microscope equipped with a DS-Fi1 digital camera (Nikon, Garden City, NY).",0,0,0,0,0,0,0,N,0,0,0
+53,"The intensity of each color channel in the image (green: HLA-DR, red: CD11c, and blue: Hoechst 333482) was measured in each image by Nikon Elements software (Fig.",0,0,0,0,0,0,0,N,0,0,0
+54,The green (HLA-DR) and red (CD11c) signals were multiplied by a correction factor based on the average cell density in the sample.,0,0,0,0,0,0,0,N,0,0,0
+55,This correction factor was necessary to account for variations in signal based on the density of cells on the sample membranes.,0,0,0,0,0,0,0,N,0,0,0
+56,A ratio of the average of the baseline signal (visit 1) to week 12 (visit 3) or week 24 (visit 4) signal determined whether the average mean intensity of the signal (HLA-DR or CD11c) increased or decreased compared with the baseline.,0,0,0,0,0,0,0,N,0,0,0
+57,Patients who met the inclusion evaluation criteria were formally enrolled in the study and randomized to either the supplement treatment or placebo group.,0,0,0,0,0,0,0,N,0,0,0
+58,Patients were randomized using a permuted-block randomization design with a block size of 4 for each center.,0,0,0,0,0,0,0,N,0,0,0
+59,The distribution of patients in either group was 1:1 with a block pattern set to equalize the distribution into each group every 4 patients.,0,0,0,0,0,0,0,N,0,0,0
+60,"An independent statistician, who was also masked to the identity of the subjects until after the analyses were complete, generated these allocation sequences.",0,0,1,0,1,1,1,N,0,0,0
+61,All subjects and research staff were masked to the identity of the subject treatment group until the end of the study.,0,0,0,0,1,1,1,N,0,0,0
+62,Supplements and placebo tablets were packaged uniformly.,0,0,0,0,1,1,0,N,0,0,0
+63,Codes linking the randomization number for each subject to the actual treatment were secured in a sealed opaque envelope and were maintained in a locked drawer in each research center.,0,0,1,0,0,0,0,N,0,0,0
+64,Research subjects were also provided emergency contact information to report any adverse events.,0,0,0,0,0,0,0,N,0,0,0
+65,"A sample size analysis performed before the initiation of the study required an enrollment of at least 32 patients to detect a statistically significant difference in efficacy endpoints, with an 80% power and an alpha of 0.05.",0,0,0,0,0,0,0,N,0,0,0
+66,"Although the target enrollment was achieved (n = 19 per group), 2 impression cytology membranes were lost during shipping, with a total of 17 membranes analyzed per group.",0,0,0,0,0,0,0,N,0,0,0
+67,Also SRI and SAI values were only recorded for 15 patients in the supplement and 16 patients in the placebo group.,1,0,1,0,0,0,0,N,0,0,0
+68,"Unless noted otherwise, analysis of variance was the preferred statistical evaluation method.",0,0,0,0,0,0,0,N,0,0,0
+69,Subjects were enrolled over a 27-month period from September 2008 to December 2010.,0,0,0,0,0,0,0,N,1,0,0
+70,The trial ended in December 2010 because the target enrollment was met.,0,0,0,0,0,0,0,N,0,0,0
+71,"Of the 62 participants consented, 17 failed screening and 7 withdrew from the trial.",0,0,0,0,0,0,0,N,1,0,0
+72,"Three patients did not return after signing the consent, 2 before visit 1 and 1 after week 4; 1 patient withdrew because fish consumption exceeded what was allowed; 1 patient entered another study; 1 patient withdrew for health reasons; and 1 patient withdrew after developing a rash.",0,0,0,0,0,0,0,N,0,0,0
+73,"Therefore, a total of 38 patients completed the study.",0,0,0,0,0,0,0,N,0,0,0
+74,There were no statistically significant differences in baseline characteristics between the treatment groups (Table 1).,0,0,0,1,0,0,0,N,1,0,0
+75,Patient Compliance With Medications,0,0,0,0,0,0,0,N,0,0,0
+76,"During the course of the study, approximately 650 +/- 158 pills of either supplement or placebo were dispensed to the patients.",0,0,0,0,0,0,0,N,0,0,0
+77,"Compliance was documented using patient self-reporting logs, and data were reported as a percentage of pills dispensed and pills returned.",0,0,0,0,0,0,0,N,0,0,0
+78,"No significant differences were noted in compliance between the supplement (88 +/- 30%) and placebo (86 +/- 57%) groups (P = 0.9, n = 19 per group).",0,0,0,1,0,0,0,N,0,1,0
+79,The OSDI was used as an instrument to measure the severity of eye discomfort.,0,0,0,0,0,0,0,N,0,0,0
+80,"Mean (+/-SEM) OSDI scores were obtained at baseline and at 4, 12, and 24 weeks after the initiation of treatment (Fig.",0,0,0,0,0,0,0,N,0,0,0
+81,"At baseline, OSDI scores were not significantly different between the treatment groups (P = 0.8).",0,0,0,1,0,0,0,N,0,0,0
+82,"A progressive improvement in OSDI was noted with supplement treatment throughout the study period and was significant after 12 and 24 weeks compared to baseline (P = 0.004, n = 19).",0,0,0,0,0,0,1,N,1,1,1
+83,"After 24 weeks, supplement treatment significantly improved OSDI scores when compared with placebo treatment (P = 0.05, n = 19 per group).",0,0,0,0,0,0,0,N,0,1,1
+84,CD11c is a marker for a subset of conjunctival dendritic cells.,0,0,0,0,0,0,0,N,0,0,0
+85,We evaluated the expression of CD11c-positive dendritic cells in the conjunctival epithelium during the study period (Fig.,0,0,0,0,0,0,0,N,0,0,0
+86,"There was no change from baseline in the intensity of CD11c at any time point in the supplement-treated group (P = 0.9, n = 17).",0,0,0,0,1,1,0,N,0,0,1
+87,"In contrast, CD11c intensity was significantly higher than baseline in the placebo-treated group at 12 and 24 weeks (P = 0.001, n = 17).",0,0,0,0,0,0,0,N,0,0,0
+88,"CD11c cell staining was also significantly greater after 12 and 24 weeks of placebo treatment when compared with supplement treatment (P = 0.001, n = 17 per group).",0,0,0,0,0,0,1,N,0,0,0
+89,"HLA-DR antigen is expressed by antigen-presenting dendritic cells, and its level of expression increases after activation and maturation of these cells.",0,0,0,0,0,0,0,N,0,0,0
+90,"Increased HLA-DR expression in the conjunctiva has been observed in dry eye, and it has been found to decrease in response to topical immunomodulatory therapy.39 We observed that the level of HLA-DR-stained conjunctival dendritic cells did not change at 12 or 24 weeks in the supplement-treated group (Fig.",0,0,0,0,0,0,0,N,0,0,0
+91,"4, P = 0.8, n = 17), whereas the intensity significantly increased in the placebo-treated group after 24 weeks when compared to baseline (P = 0.03, n = 17).",0,0,0,0,0,0,0,N,0,0,1
+92,"Placebo treatment also significantly increased cell-staining density in comparison with supplement treatment at 24 weeks (P = 0.001, n = 17 per group).",0,0,0,0,0,0,0,N,0,0,0
+93,Topographic corneal regularity indexes (SRI and SAI) have been reported to increase in dry eye.37 These indexes were used as measures of corneal smoothness (Table 2).,0,0,0,0,0,0,0,N,0,0,0
+94,There was no difference in the SRI between the supplement- and placebo-treated subjects over the course of the study.,0,0,0,0,0,0,0,N,0,0,0
+95,"There was no change in the SAI in the supplement-treated group, whereas the SAI increased in the vehicle-treated subjects reaching statistical significance between the groups at 24 weeks (P = 0.005).",0,0,0,0,0,0,0,N,0,0,0
+96,"Efficacy parameters such as Schirmer test, TBUT, fluorescein and lissamine green staining, IOP, visual acuity (standard and low contrast), adjunctive tear use, facial expression, and slit-lamp examination were analyzed (see Table, Supplemental Digital Content 2,",0,0,0,0,0,0,0,N,0,0,0
+97,"For each study visit, data from OS and OD were pooled and expressed as mean (+/-SEM).",0,0,0,0,0,0,0,N,0,0,0
+98,"Tear flow, as measured by Schirmer test and TBUT, maintained baseline values throughout the study with no statistically significant differences observed either when compared with the placebo or within the group (P = 0.3-0.8, n = 19 per group).",0,0,0,0,0,0,0,N,0,0,0
+99,"There were no significant changes in superior, inferior, temporal, nasal, and central fluorescein staining parameters and lissamine corneal staining when compared within the group or with the placebo (P = 0.1-0.9, n = 19 per group).",0,0,0,0,0,0,0,N,0,0,0
+100,"For IOP measurement, there was no change from baseline IOP in either treatment group for the duration of the study (P = 0.7, n = 19 per group).",0,0,0,0,0,0,0,N,0,0,0
+101,"Values for visual acuity, both standard and low contrast, showed no difference either within the group or when compared with the placebo.",0,0,0,0,0,0,0,N,0,0,0
+102,"The low-contrast visual acuity is a more sensitive parameter for subtle change (P = 0.3-0.9, n = 19 per group).",0,0,0,0,0,0,0,N,0,0,0
+103,Adjunctive tear use is expressed as the number of times the patient uses artificial tears during the day.,0,0,0,0,0,0,0,N,0,0,0
+104,"At baseline, the artificial tear use was 1.4 +/- 0.3 times per day in the supplement-treated group and 1.3 +/- 0.3 times per day for the placebo group.",0,0,0,0,0,0,0,N,0,0,0
+105,"The adjunctive tear use for this population in either group was approximately 2 times a day and did not change throughout the study period with either treatment (P = 0.9, n = 19 per group).",0,0,0,0,0,0,0,N,0,1,0
+106,"Facial expression improved significantly from baseline values in both the treatment groups (P = 0.01 for supplement, P = 0.03 for placebo); however, this improvement was only sustained in the supplement-treated group.",0,0,0,0,0,0,0,N,0,0,0
+107,"There were also no significant changes in facial expression between the 2 treatment groups throughout the study period (P = 0.3, n = 19 per group).",0,0,0,1,0,0,0,N,0,1,0
+108,"Slit-lamp criteria including skin swelling, bulbar and palpebral, tear film debris, endothelium, anterior chamber, and flare showed no change in values throughout the study period when compared with the placebo or within the group (P = 0.1-1.0, n = 10 per group).",0,0,0,0,0,0,0,N,0,0,0
+109,"In contrast, lid margin erythema decreased significantly after 12 weeks of supplementation (P = 0.03), whereas erythema significantly increased after 4 weeks of placebo treatment (P = 0.04) when compared to baseline.",0,0,0,0,0,0,0,N,0,0,0
+110,"At baseline, lid margin erythema was significantly greater in the supplement group (P = 0.02) compared with the placebo group, but thereafter, no differences were observed between the groups throughout the study period (P = 0.6, n = 19 per group).",0,0,0,0,0,0,0,N,0,0,0
+111,"Chemosis improved significantly after treatment with either placebo (P = 0.0001) or supplement (P = 0.0001) from baseline values, but there was no significant difference between the 2 groups (P = 0.2, n = 19 per group).",0,0,0,0,0,0,0,N,0,0,0
+112,There were no reported ocular adverse events directly attributed to either the study supplement or placebo.,0,0,0,0,0,0,0,N,0,0,0
+113,"Also, no significant systemic adverse events were reported, including dyspepsia, dysgeusia, nausea, vomiting, anorexia, diarrhea, constipation, bruising, or increased infections.",0,0,0,0,0,0,0,N,0,0,0
+114,One supplement-treated patient withdrew after a rash appeared [almost equal to]2 weeks after the initiation of treatment.,0,0,0,0,0,0,0,N,0,0,0
+115,The efficacy of PUFA supplementation for the treatment of KCS has been reported in a handful of studies.,0,0,1,0,0,0,0,N,0,0,0
+116,"Among these, robust treatment effects were observed in 2 studies that evaluated supplements containing both n-3 and n-6 PUFAs.",0,0,1,0,0,0,0,N,0,0,0
+117,The study by Brignole-Baudouin et al 34 also assessed the effects of these fatty acids on conjunctival HLA-DR expression as a marker for inflammation.,0,0,0,0,0,0,0,N,0,0,0
+118,Our trial builds on the study design of the previously reported studies by Brignole-Baudouin et al and Creuzot et al.,0,0,0,0,0,0,0,N,0,0,0
+119,The 6-month duration of this study was chosen to allow incorporation of the PUFAs into cell membrane phospholipids and to adequately assess their safety and tolerability profile.,0,0,0,0,0,0,0,N,0,0,0
+120,The findings of our study are consistent with those reported in 2 previously published clinical trials of oral supplements containing n-6 and n-3 PUFAs for the treatment of dry eye.,0,0,0,0,0,0,0,N,1,0,0
+121,Supplementation with the PUFA formulation used in this trial significantly improved OSDI scores and corneal smoothness and suppressed conjunctival inflammation in this relatively small cohort of subjects.,0,0,0,0,0,0,0,N,0,0,0
+122,The significant improvements observed in this trial may be attributed to adequate statistical power and selection of subjects based on strict inclusion criteria designed to show treatment effect (Appendix 1).,0,0,0,0,0,0,0,N,0,0,0
+123,Ocular surface dendritic cells are essential for the initiation of adaptive immune response in dry eye.,0,0,0,0,0,0,0,N,0,0,0
+124,"Dendritic cells are activated by exposure to inflammatory cytokines such as interferon-gamma, followed by an increase in their HLA class 2 antigen (HLA-DR).",0,0,0,0,0,0,0,N,0,0,0
+125,The HLA-DR expression in the placebo group continued to increase significantly compared with the supplement-treated group that had no change in HLA-DR expression.,0,0,0,0,0,0,0,N,0,0,0
+126,"The observed relative stability in HLA-DR expression after supplementation may indicate gradual mitigation of the inflammation, although a trial of longer duration would be necessary to confirm this.",0,0,0,0,0,0,0,N,0,0,0
+127,"In the previously reported PUFA trial by Brignole-Baudouin et al, a significant decrease in irritation symptoms was observed, but there was no difference in corneal fluorescein staining between the drug and vehicle.",0,0,0,0,0,0,0,N,0,0,0
+128,"Our study results were consistent with these findings and suggest the HLA-DR biomarker, with regard to irritation symptoms, may be a more relevant efficacy parameter than ocular surface dye staining.",0,0,0,0,0,0,0,N,0,0,0
+129,The increased conjunctival HLA-DR expression noted in the placebo group in our study is comparable with that of the tofacitinib trial.,0,0,0,0,0,0,0,N,0,0,0
+130,Results suggest that left untreated ocular surface inflammation in certain patients with irritation symptoms and clinically evident ocular surface disease associated with tear dysfunction may actually worsen or show intermittent exacerbation over a 6-month period.,0,0,0,0,0,0,0,N,0,0,0
+131,CD11c is a dendritic cell marker.CD11c-positive dendritic cells are the resident antigen-presenting cells in the conjunctival epithelium.,0,0,0,0,0,0,0,N,0,0,0
+132,Their HLA class II expression increases with maturation.,0,0,0,0,0,0,0,N,0,0,0
+133,"The number of these cells in the conjunctival epithelium remained stable in the supplement-treated group, whereas the level of expression increased in the placebo group.",0,0,0,0,0,0,0,N,0,0,0
+134,"Although the lower level of staining can be interpreted as beneficial and attributable to supplementation, it may have resulted from suppression of HLA class II antigen by dendritic cells already residing in the conjunctival epithelium or by inhibiting further migration of these cells to the conjunctival epithelium.",0,0,0,0,0,0,0,N,0,0,0
+135,"Although supplementation with n-3 and n-6 PUFAs, GLA, EPA, and DHA has the potential to reduce inflammation, these PUFAs can also influence pain associated with inflammatory conditions, such as rheumatoid arthritis, inflammatory bowel disease, and diabetic neuropathy.",0,0,0,0,0,0,0,N,0,0,0
+136,"Although pain associated with KCS was not individually evaluated in this study, the OSDI questionnaire includes criteria that assess pain.",0,0,0,0,0,0,0,N,0,0,0
+137,A significant improvement in OSDI score after supplementation indicates that pain associated with KCS was also improved.,0,0,0,0,0,0,0,N,0,0,0
+138,No difference in corneal fluorescein staining between the treatment groups was observed in our trial.,0,0,0,1,0,0,0,N,0,0,0
+139,This may be because of the difficulty in demonstrating a treatment effect that is greater than the visit-to-visit variability in corneal dye staining in patients with a low level of primarily inferior corneal fluorescein staining.,0,0,0,0,0,0,0,N,0,0,0
+140,"To effectively demonstrate this effect, a larger sample size that accounts for the variability in obtaining fluorescein data is necessary.",0,0,0,0,0,0,0,N,0,0,0
+141,"However, significant between-group difference was observed for the SAI corneal topography smoothness index at 24 weeks.",0,0,0,0,0,0,0,N,0,0,0
+142,This index compares corneal surface irregularity in opposite semi-meridians of the cornea and has previously been found to increase in dry eye.,0,0,0,0,0,0,0,N,0,0,0
+143,It is possible that this objective software-defined parameter has greater sensitivity for assessing corneal epithelial health than fluorescein staining.,0,0,0,0,0,0,0,N,0,0,0
+144,The main PUFA ingredients in the study formulation are derived from black currant seed oil and fish oil.,0,0,0,0,0,0,0,N,0,0,0
+145,"Although the formulation was generally well tolerated by patients, use of fish oil has been known to induce certain hypersensitivity reactions in individuals who are allergic to fish.",0,0,0,0,0,0,0,N,0,0,0
+146,"One report indicates that there could be a gender-related difference in the metabolism of PUFA, whereas another study reported that individuals with fish allergies could safely tolerate fish oil supplements.Black currant seed oil has been used safely in a number of human clinical studies, and no reports of rash associated with this oil appear in the Food and Drug Administration MedWatch Adverse Effects Reporting System Database.",0,0,0,0,0,0,0,N,0,0,0
+147,"In our study, 1 of 19 supplement-treated patients reported a rash during the course of the study.",0,0,0,0,0,0,0,N,0,0,0
+148,"Further evaluation of the patient determined that the rash was not study related, and no further adverse reactions were noted after the subject withdrew.",0,0,0,0,0,0,0,N,0,0,0
+149,Patient compliance in this study was obtained by a tertiary method of counting the number of pills dispensed and returned.,0,0,0,0,0,0,0,N,0,0,0
+150,This type of self-reporting is inaccurate because it assumes that the unreturned capsules were actually ingested by the subject.,0,0,0,0,0,0,0,N,0,0,0
+151,"Although methods exist to directly measure the levels of these PUFAs in the blood, a decision was made to forgo this invasive method and instead emphasize to subjects the importance of taking the therapy as instructed.",0,0,0,0,0,0,0,N,0,0,0
+152,This is a potential limitation of the study.,0,0,0,0,0,0,0,N,0,0,0
+153,Another limitation of the study might be that the effects of individual nutrients on KCS were not separately evaluated.,0,0,0,0,0,0,0,N,0,0,0
+154,"For example, the test supplement contains a higher level of vitamin C than is typically consumed from the diet.",0,0,0,0,0,0,0,N,0,0,0
+155,"Although the beneficial effects of vitamin C have been reported in cases of KCS and moderate Sjogren syndrome, our study only evaluated the effect of the test supplement as a whole.",0,0,0,0,0,0,0,N,0,0,0
+156,"Other than accounting for intake of fish, our study did not evaluate consumption of individual nutrients.",0,0,0,0,0,0,0,N,0,0,0
+157,"In conclusion, results of this trial indicate that nutritional supplementation with black currant seed oil (GLA) and fish oil should be considered in the treatment of tear dysfunction to decrease irritation symptoms and prevent exacerbations in ocular surface inflammation and corneal epithelial disease.",0,0,0,0,0,0,0,N,0,0,0
+158,Supplement-treated subjects experienced a significant improvement in dry eye syndrome symptoms and had a significantly smoother corneal surface than the placebo-treated group.,0,0,0,0,0,0,0,N,0,0,0
+159,"Furthermore, placebo-treated subjects had a significant increase in the number of activated CD11c-positive dendritic cells in the conjunctival epithelium compared with the supplement-treated group at the end of the treatment period.",0,0,0,0,0,0,0,N,0,0,0

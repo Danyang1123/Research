@@ -1,0 +1,162 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Aims To determine if screening with an ultrasound A-scan and prophylactic treatment of primary angle closure (PAC) with laser peripheral iridotomy (LPI) can reduce the incidence of primary angle closure glaucoma (PACG) in Mongolia.,N,0,N,N,N,N,N,N,N,0,N
+1,Methods A single-masked randomised controlled trial was initiated in 1999.,N,0,N,N,N,N,N,N,N,0,N
+2,"4725 volunteer Mongolian participants ≥50 years old from the capital Ulaanbaatar or the rural province of Bayankhongor were recruited, of which 128 were excluded with glaucoma.",N,0,N,N,N,N,N,N,N,0,N
+3,"4597 were randomly allocated to the control, no-screening arm or screening with ultrasound central anterior chamber depth (cACD), with the cut-off set at <2.53 mm.",N,1,N,N,N,N,N,N,N,0,N
+4,"685 screen-positive participants were examined and angle closure was identified by gonioscopy in 160, of which 156 were treated with prophylactic LPI.",N,0,N,N,N,N,N,N,N,0,N
+5,"Primary outcome of incident PACG was determined using both structural and functional evidence from objective grading of paired disc photographs from baseline and follow-up, objective grading of follow-up visual fields and clinical examination.",N,0,N,N,N,N,N,N,N,0,N
+6,"Results Six years later, 801 (17.42%) participants were known to have died, and a further 2047 (53.92%) were traced and underwent full ophthalmic examination.",N,0,N,N,N,N,N,N,N,0,N
+7,"In an intention to treat analysis using available data, PACG was diagnosed in 33 participants (1.61%, 95% CI 1.11% to 2.25%), of which 19 were in the screened group and 14 in the non-screened group (OR 1.29, 95% CI 0.65 to 2.60, p=0.47), indicating no difference between groups.",N,0,N,N,N,N,N,N,N,0,N
+8,Conclusions We were not able to identify a reduction in the 6 year incidence of PACG after screening with cACD <2.53 mm and prophylactic treatment of PAC.,N,0,N,N,N,N,N,N,N,0,N
+9,Primary angle closure glaucoma (PACG) is a major cause of blindness.,N,0,N,N,N,N,N,N,N,0,N
+10,"By 2020, an estimated 5.9 million will be blind from PACG worldwide, 60% of which will be in East Asia.",N,0,N,N,N,N,N,N,N,0,N
+11,"Chronic PACG is the more prevalent form of the disease, with only a third having a history of an acute episode.",N,0,N,N,N,N,N,N,N,0,N
+12,Historical studies have shown that prophylactic peripheral iridotomy can prevent acute angle closure (AAC) in fellow eyes.,N,0,N,N,N,N,N,N,N,0,N
+13,"More recent studies have also demonstrated that laser iridotomy can stabilise elevated intraocular pressure (IOP) in non-glaucomatous eyes with occludable angles and primary angle closure (PAC).Therefore, early detection and treatment can potentially reduce the incidence of PACG.",N,0,N,N,N,N,N,N,N,0,N
+14,A shallow central anterior chamber depth (cACD) is a strong risk factor for PAC in populations with a high prevalence of PACG.Measurement of cACD is effective in detecting occludable angles and PAC when compared with gonioscopy.,N,0,N,N,N,N,N,N,N,0,N
+15,Occludable angles and PAC therefore fulfil many of the Wilson–Jungner criteria for screening.,N,0,N,N,N,N,N,N,N,0,N
+16,We report the primary outcome of a randomised controlled trial of screening and prophylactic treatment of PAC to prevent PACG in Mongolia.,N,0,N,N,N,N,N,N,N,0,N
+17,Details of methods at baseline have been published.The International Society for Geographical and Epidemiological Ophthalmology (ISGEO) criteria10 were used for diagnosis of glaucoma and angle closure throughout the study This trial is reported in line with the CONSORT statement.,N,0,N,N,N,N,N,N,N,0,N
+18,Prior to field work a computer-generated allocation sequence was produced in London and stored in sealed envelopes.,N,0,N,N,N,N,N,N,N,0,N
+19,Mongolian volunteers aged ≥50 years old living in the capital Ulaanbaatar or the rural province of Bayankhongor for >3 months were recruited.,N,0,N,N,N,N,N,N,N,0,N
+20,"After obtaining consent and randomisation, all underwent optic disc assessment to exclude those with glaucomatous optic neuropathy (GON).",N,0,N,N,N,N,N,N,N,0,N
+21,"Optic discs of both eyes in all participants were photographed using a non-mydratic fundus camera (Canon CR4-45NM, Japan).",N,0,N,N,N,N,N,N,N,0,N
+22,"Participants randomised to intervention were screened with cACD measurement using a slit-lamp-mounted ultrasound biometer (Allergan–Humphrey model 820, Allergan, London, UK).",N,0,N,N,N,N,N,N,N,0,N
+23,"IOP was measured with a Tonopen (Mentor Ophthalmics, Norwell, Massachusetts, USA).",N,0,N,N,N,N,N,N,N,0,N
+24,A positive screening test was defined as cACD <2.53 mm or IOP ≥24 mm Hg.,N,0,N,N,N,N,N,N,N,0,N
+25,"A cut-off of <2.53 mm produced a sensitivity of 77% and a specificity of 83%, with a positive predictive value of 32%.",N,0,N,N,N,N,N,N,N,0,N
+26,This method performed better than a hand-held A-scan and is a relatively cheap and convenient instrument for screening.11 A Tonopen IOP of 24 mm Hg was selected as the mean plus two standard deviations based on a random sample of 769 Mongolians.,N,0,N,N,N,N,N,N,N,0,N
+27,"Participants who screened positive underwent a detailed ophthalmic examination including visual acuity, slit-lamp biomicroscopy, Goldmann applanation tonometry (GAT) and dilated fundus examination.",N,0,N,N,N,N,N,N,N,0,N
+28,"Visual fields were tested using a 56 point threshold strategy (Henson 3000, Topcon Medical Instruments, Newbury, UK) on patients with evidence of optic disc characteristics indicating possible GON.",N,0,N,N,N,N,N,N,N,0,N
+29,"The drainage angle was assessed with a two mirror Goldmann lens and graded as open or occludable.Participants with occludable or closed angles were offered bilateral laser peripheral iridotomies (LPIs) using a portable YAG laser (Visualas II, Carl Zeiss, Jena, Germany) prior to dilated examination.",N,0,N,N,N,N,N,N,N,0,N
+30,"Participants randomised to the control, non-screening group received no further examination or treatment.",N,1,N,N,N,N,N,N,N,0,N
+31,Neither participants nor baseline staff were masked to group allocation.,N,0,N,N,N,N,N,N,N,0,N
+32,The flow of participants is shown in figure 1.,N,0,N,N,N,N,N,N,N,0,N
+33,"Between baseline and follow-up, participants had access to the usual care provided by local services.",N,0,N,N,N,N,N,N,N,0,N
+34,Flow chart of participants in the trial.,N,0,N,N,N,N,N,N,N,0,N
+35,All participants were Mongolian volunteers.,N,0,N,N,N,N,N,N,N,0,N
+36,Glaucoma was excluded in all randomised participants prior to receiving screening or no screening using direct ophthalmoscopy and slit-lamp examination with or without visual field assessment where indicated.,N,0,N,N,N,N,N,N,N,0,N
+37,Thirty-two participants from the control arm were examined due to observations on direct ophthalmoscopy.,N,0,N,N,N,N,N,N,N,0,N
+38,All clinical diagnoses of primary angle closure were based on International Society for Geographical and Epidemiological Ophthalmology (ISGEO) definitions.,N,0,N,N,N,N,N,N,N,0,N
+39,Participants were traced using available records from the baseline study.,N,0,N,N,N,N,N,N,N,0,N
+40,The names of untraceable participants were submitted to the central registration office in Ulaanbaatar to check for deaths and new addresses.,N,0,N,N,N,N,N,N,N,0,N
+41,"All traced participants received a detailed examination, similar to that performed at baseline.",N,0,N,N,N,N,N,N,N,0,N
+42,"One ophthalmologist assessed the presence and patency of an LPI at follow-up, while gonioscopy and dilated examination of the lens and optic disc was undertaken by a second ophthalmologist, masked to the allocation status of the participant throughout the field work.",N,0,N,N,N,N,N,N,N,0,N
+43,The same instrument and observer measured the cACD on all patients.,N,0,N,N,N,N,N,N,N,0,N
+44,"A dilated examination was also performed on all who consented, to determine the presence of posterior synechiae, lens opacity and assessment of the optic disc using an eyepiece-mounted graticule to record the cup/disc ratio (CDR).",N,0,N,N,N,N,N,N,N,0,N
+45,All participants underwent dilated disc photography.,N,0,N,N,N,N,N,N,N,0,N
+46,Patients with evidence of structural glaucomatous damage or glaucoma suspects had a visual field assessment.,N,0,N,N,N,N,N,N,N,0,N
+47,"If the visual field was considered abnormal, the participant was advised to return for a repeat assessment.",N,0,N,N,N,N,N,N,N,0,N
+48,"Because of the high numbers of subjects in the trial and the fact that many people travelled long distances to attend the clinic and could not stay for a long time, we were unable to perform visual fields on all participants due to the limited time available.",N,0,N,N,N,N,N,N,N,0,N
+49,People diagnosed with occludable angles were provided with one dose of acetazolamide 500 mg and offered laser treatment the following day.,N,0,N,N,N,N,N,N,N,0,N
+50,All patients diagnosed with glaucoma were treated appropriately with topical medication and referred to the local ophthalmologist.,N,0,N,N,N,N,N,N,N,0,N
+51,Criteria for visual field tests at follow-up,N,0,N,N,N,N,N,N,N,0,N
+52,"Previous AAC was diagnosed at follow-up based on a history of sudden onset of severe pain and blurred vision with evidence of glaucomflecken, iris whorling or the presence of an LPI which had not been performed at the baseline study.",N,0,N,N,N,N,N,N,N,0,N
+53,The primary outcome was incident PACG.,N,0,N,N,N,N,N,N,N,0,N
+54,"This was diagnosed either clinically in the field, or based on optic disc progression with visual field evidence of glaucomatous defect using objective criteria.",N,0,N,N,N,N,N,N,N,0,N
+55,PACG was diagnosed where there was evidence of both an occludable angle and GON with no evidence of secondary causes of glaucoma.,N,0,N,N,N,N,N,N,N,0,N
+56,Optic disc progression was determined by side by side comparison of baseline and follow-up monoscopic photographs at the Moorfields Image Reading Centre.,N,0,N,N,N,N,N,N,N,0,N
+57,"The disc grading protocol was based on the Ocular Hypertension Treatment Study disc grading protocol, and used the same criteria to determine optic disc progression.12 A standardised set of photographs was developed by glaucoma specialists and used to illustrate each aspect of disc progression.",N,0,N,N,N,N,N,N,N,0,N
+58,"Evidence of glaucomatous visual field defect was determined by two independent glaucoma specialists (PJF and WN), masked to the intervention allocation of the participant using standardised criteria.",N,0,N,N,N,N,N,N,N,0,N
+59,Agreement on visual field status was required for overall grading for each participant by both graders.,N,0,N,N,N,N,N,N,N,0,N
+60,"When disagreement occurred, the visual fields for that participant were reassessed by both graders together and a consensus was reached.",N,0,N,N,N,N,N,N,N,0,N
+61,"Incident PACG was identified by any or a combination of the methods above, based on structural and functional changes or structural changes only.",N,0,N,N,N,N,N,N,N,0,N
+62,Structural changes were identified from clinical examination and/or photographic evidence of optic disc progression.,N,0,N,N,N,N,N,N,N,0,N
+63,"The study was conducted according to the Declaration of Helsinki, and ethical approval was obtained from the Ministry of Health, Ulaanbaatar, Mongolia (baseline and follow-up) and the London School of Hygiene and Tropical Medicine (follow-up).",N,0,N,N,N,N,N,N,N,0,N
+64,All participants gave informed consent in the local language.,N,0,N,N,N,N,N,N,N,0,N
+65,The sample size calculations were based on a 5 year incidence of PACG of 1.4% (95% CI 0.68% to 2.1%).,N,0,N,N,N,N,N,N,N,0,N
+66,An estimated sample size of 5000 participants would have 85% power to detect a 70% reduction in risk of incident PACG and allow for 33% loss to follow-up.,N,0,N,N,N,N,N,N,N,0,N
+67,"We followed an intention to treat analysis strategy, where all patients were analysed according to randomisation group.",N,0,N,N,N,N,N,N,N,0,N
+68,Comparison of PACG incidence was patient based using the χ2 test.,N,0,N,N,N,N,N,N,N,0,N
+69,Analyses for primary outcome were performed on observed data only.,N,0,N,N,N,N,N,N,N,0,N
+70,"Due to the limitations of missing data from loss to follow-up, we used a multiple imputation procedure13 in a sensitivity analysis.",N,0,N,N,N,N,N,N,N,0,N
+71,The purpose of this part of the analysis was to determine whether the main results were within limits of estimates obtained from imputed data.,N,0,N,N,N,N,N,N,N,0,N
+72,The multiple imputation procedure substitutes missing values with several versions of imputed values.,N,0,N,N,N,N,N,N,N,0,N
+73,Fifty sets of imputed data were generated.,N,0,N,N,N,N,N,N,N,0,N
+74,Logistic regression models were fitted to the imputed data.,N,0,N,N,N,N,N,N,N,0,N
+75,"All statistical analyses were carried out using Stata 10 (StatCorp, College Station, Texas).",N,0,N,N,N,N,N,N,N,0,N
+76,The multiple imputation procedure and analysis were implemented with multiple imputation using chained equations commands ‘ice’ and ‘mim’.14 15 This procedure is described further in the appendix.,N,0,N,N,N,N,N,N,N,0,N
+77,The baseline study has previously been described in detail.,N,0,N,N,N,N,N,N,N,1,N
+78,"Of 4725 volunteers randomised and assessed for eligibility in 1999, 128 were excluded at baseline with glaucoma.",N,0,N,N,N,N,N,N,N,1,N
+79,"Due to the logistical limitations and participant flow in the clinic during the baseline study, glaucoma was excluded after randomisation.",N,0,N,N,N,N,N,N,N,1,N
+80,"In 2005, a total 33 of 2047 examined participants (1.61%, 95% CI 1.11% to 2.25%) were diagnosed with incident PACG, of which 19 (1.81%, 95% CI 1.09% to 2.81%) were in the screened arm and 14 (1.40%, 95% CI 0.77% to 2.34%) were in the no screening arm, with no evidence of a statistically significant difference between groups (OR 1.29, 95% C 0.65 to 2.60, p=0.47)(Table 2).",N,0,N,N,N,N,N,N,N,1,N
+81,"Nineteen patients had both structural and functional evidence of PACG, of which 17 patients had reproducible field defects.",N,0,N,N,N,N,N,N,N,1,N
+82,Fourteen patients were diagnosed using structural evidence only.,N,0,N,N,N,N,N,N,N,0,N
+83,"For all types of evidence, there were greater or equal numbers of patients diagnosed with PACG in the screening arm, but there was no evidence of a statistical difference between groups from any diagnostic category.",N,0,N,N,N,N,N,N,N,0,N
+84,Ten of 19 participants from the screening arm diagnosed with PACG were screen positive and examined in 1999.,N,0,N,N,N,N,N,N,N,0,N
+85,"Of these, four had been diagnosed with occludable angles (PAC) and treated with LPI, and six did not have occludable angles.",N,0,N,N,N,N,N,N,N,0,N
+86,A further nine participants in the screening arm were screen negative.,N,0,N,N,N,N,N,N,N,0,N
+87,Incident cases of primary angle closure glaucoma as identified by different methods,N,0,N,N,N,N,N,N,N,0,N
+88,Forty-two participants had been treated between the baseline and follow-up studies: 19 (1.81%) were in the screened arm and 23 (2.31%) in the non-screened arm (table 3).,N,0,N,N,N,N,N,N,N,0,N
+89,"Of the 33 patients diagnosed with incident PACG, 17 had evidence of a patent iridotomy, of which only four (of 17) had been performed at baseline.",N,0,N,N,N,N,N,N,N,0,N
+90,Diagnoses of participants treated with peripheral iridotomy between baseline and follow-up studies,N,0,N,N,N,N,N,N,N,0,N
+91,"Six cases ofAAC were elicited based on clinical examination and history at follow-up, two of which were in the intervention group and four in the control group.",N,0,N,N,N,N,N,N,N,0,N
+92,All were seen to have patent peripheral iridotomies that had been performed between 1999 and 2005.,N,0,N,N,N,N,N,N,N,0,N
+93,The two patients with previous AAC in the screened group both had baseline cACD >2.53 mm and did not undergo a slit-lamp examination in 1999; both were diagnosed with PACG at follow-up.,N,0,N,N,N,N,N,N,N,0,N
+94,"Of the four patients in the control group with previous AAC, two were diagnosed with PACG and two with PAC.",N,0,N,N,N,N,N,N,N,0,N
+95,"Death was verified in similar proportions of participants from both arms (17.58% vs 17.27%, p>0.79).",N,0,N,N,N,N,N,N,N,0,N
+96,There was no evidence of localised lens opacity in any participants treated with LPI at baseline.,N,0,N,N,N,N,N,N,N,0,N
+97,"Out of 80 participants with follow-up who had LPI at baseline , dilated examination was available for 75 right eyes and 73 left eyes.",N,0,N,N,N,N,N,N,N,0,N
+98,New posterior synechiae were identified in four right eyes and three left eyes.,N,0,N,N,N,N,N,N,N,0,N
+99,"Compared with participants who were examined but did not receive LPI, there was no evidence of increased risk of posterior synechiae associated with LPI at baseline (4/75=5.33% vs 4/229=1.75%, p=0.09 right eye; 3/73=4.11% vs 5/229=2.18%, p=0.37 left eye).",N,0,N,N,N,N,N,N,N,0,N
+100,A sensitivity analysis with imputed data to include all 4597 participants without glaucoma randomised supported the findings from the complete case analysis.,N,0,N,N,N,N,N,N,N,0,N
+101,"The observed ORs fell within the range of 95% CIs generated from analyses from imputed data (overall 95% CI from 0.57 to 2.20, all p>0.7)",N,0,N,N,N,N,N,N,N,0,N
+102,We found that screening with a cACD cut-off value <2.53 mm and prophylactic treatment with LPI did not reduce the 6 year incidence of PACG.,N,0,N,N,N,N,N,N,N,0,N
+103,"The overall incidence of PACG was 1.61%, 95% CI 1.10% to 2.25%, which was within the range of estimates predicted at baseline (0.68–2.10%).",N,0,N,N,N,N,N,N,N,0,N
+104,"There were more cases of AAC in the control arm compared with the screening arm (4 vs 2, OR 2.12, 95% CI 0.39 to 11.61), which could suggest a protective effect of prophylactic LPI for incident AAC, although the association was also not statistically significant in this small group of cases.",N,0,N,N,N,N,N,N,N,0,N
+105,"Overall there was a low incidence of AAC (0.29%, 95% CI 0.11% to 0.64%).",N,0,N,N,N,N,N,N,N,0,N
+106,"No localised lens opacities or increased risk of posterior synechiae was observed in those treated with LPI at baseline, which suggests that LPI is a safe prophylactic treatment.",N,0,N,N,N,N,N,N,N,0,N
+107,This was a pragmatic and unique trial in a high risk population.,N,0,N,N,N,N,N,N,N,0,N
+108,"The sample calculations allowed for 33% loss to follow-up, due to mortality in this older population.",N,0,N,N,N,N,N,N,N,0,N
+109,"The observed death rate in the study population was 17.42% (95% CI 16.33% to 18.55%), which was lower than expected, as unrecorded deaths may have occurred.",N,0,N,N,N,N,N,N,N,0,N
+110,Glaucoma was excluded after randomisation in line with the trial protocol.,N,0,N,N,N,N,N,N,N,0,N
+111,Postrandomisation exclusion in trials can introduce selection bias where participants are excluded in a systematic way to favour the intervention.,N,0,N,N,N,N,N,N,N,0,N
+112,"In this trial, fewer participants were excluded with glaucoma in the control group at baseline, and greater numbers of missed glaucoma in the control group would have increased the likelihood of producing a positive result.",N,0,N,N,N,N,N,N,N,0,N
+113,"However, objective criteria for diagnosis of glaucoma were clearly defined before the study and did not involve value judgements.",N,0,N,N,N,N,N,N,N,0,N
+114,"Also, photographs were taken of all optic discs at baseline to determine the effect of missed glaucoma.",N,0,N,N,N,N,N,N,N,0,N
+115,"Grading of baseline photographs suggests that out of 33 PACG cases detected at follow-up, six may have been missed at baseline, of which three were in the screened group and three in the control group.",N,0,N,N,N,N,N,N,N,0,N
+116,"These factors suggest that exclusion bias did not affect the study; furthermore, this trial did not demonstrate an effect, and this type of bias is less pertinent.",N,0,N,N,N,N,N,N,N,0,N
+117,We were unable to trace 46% of participants thought to be still alive.,N,0,N,N,N,N,N,N,N,0,N
+118,This was partly due to unexpected social changes including renumbering dwellings in the outskirts of Ulaanbaatar.,N,0,N,N,N,N,N,N,N,0,N
+119,We examined differences in baseline characteristics between participants with and without follow-up.,N,0,N,N,N,N,N,N,N,0,N
+120,"Traced participants were older and more likely to be male, but there were no differences in screening IOP or CDR at baseline between groups (right CDR: 0.31 without follow-up and 0.30 with follow-up).",N,0,N,N,N,N,N,N,N,0,N
+121,"As baseline IOP and CDR were associated with incident PACG, these results would suggest that there were no observable clinical differences between groups in ocular parameters.",N,0,N,N,N,N,N,N,N,0,N
+122,"Assuming that there were no differences between groups with and without follow-up with respect to primary outcome, then the effect on the trial would be loss of power.",N,0,N,N,N,N,N,N,N,0,N
+123,"With the observed follow-up, the effective power for this trial would have been 56%.",N,0,N,N,N,N,N,N,N,0,N
+124,"In order to address the loss to follow-up, we used multiple imputation as part of a sensitivity analysis with different imputation models, and the results supported the observations from the complete case analysis.",N,0,N,N,N,N,N,N,N,0,N
+125,"This suggests that a plausible estimate was obtained despite the loss to follow-up; however, in this instance, it cannot compensate for the missing data.",N,0,N,N,N,N,N,N,N,0,N
+126,Sixty-nine more participants in the control arm were not followed up.,N,0,N,N,N,N,N,N,N,0,N
+127,People in the control group who were not screened may be less likely to remember their participation in the study and therefore less likely to return.,N,0,N,N,N,N,N,N,N,0,N
+128,"If there were many cases of PACG in this group, then an effect may have occurred but not been detected.",N,0,N,N,N,N,N,N,N,0,N
+129,"However, assuming a high incidence of 2.1% (based on an estimated incidence of 1.4%, 95% CI 0.68% to 2.1%), there would only have been an additional 1–2 cases of glaucoma.",N,0,N,N,N,N,N,N,N,0,N
+130,A further 17 cases would be required in the control group to detect a statistically significant difference.,N,0,N,N,N,N,N,N,N,0,N
+131,"It is very unlikely that the incidence of PACG in these 69 participants was nearly 25%, and for a true effect to have been missed due to unequal loss to follow-up.",N,0,N,N,N,N,N,N,N,0,N
+132,The higher incidence of PACG in the intervention group may have occurred by chance.,N,0,N,N,N,N,N,N,N,0,N
+133,More participants who were not screened received treatment between baseline and follow-up; this may have also reduced the incidence of PACG in the control arm.,N,0,N,N,N,N,N,N,N,0,N
+134,"However, excluding all participants with interim LPI, there remains a higher incidence of PACG in the screening arm (12 in the screening arm and eight in the control arm).",N,0,N,N,N,N,N,N,N,0,N
+135,The intervention in question was both screening with cACD and prevention of PACG with prophylactic LPI treatment.,N,0,N,N,N,N,N,N,N,0,N
+136,"Therefore, we may not have been able to identify an effect because of poor performance of cACD in detection of appropriate cases to treat, or failure of LPI to prevent PACG, or both.",N,0,N,N,N,N,N,N,N,0,N
+137,"Only nine of 19 participants in the intervention group with incident PACG were screen positive at baseline, of which four had LPI.",N,0,N,N,N,N,N,N,N,0,N
+138,Shallow cACD is a risk factor for PAC and PACG.,N,0,N,N,N,N,N,N,N,0,N
+139,Important risk factors that are important causal factors can perform poorly as screening tests.,N,0,N,N,N,N,N,N,N,0,N
+140,Figure 2 shows that there is a large overlap in the distributions of both cACD and screening IOP between participants with incident PACG and those without.,N,0,N,N,N,N,N,N,N,0,N
+141,This suggests that cACD may not be a good discriminatory test to detect cases that develop incident PACG in this population.,N,0,N,N,N,N,N,N,N,0,N
+142,Distribution of (A) central anterior chamber depth (cACD) and (B) intraocular pressure (IOP) in participants with incident primary angle closure glaucoma (PACG) and those with no PACG at follow-up.,N,0,N,N,N,N,N,N,N,0,N
+143,The cACD readings were calculated from the mean of three slit-lamp-mounted ultrasound measurements of cACD.,N,0,N,N,N,N,N,N,N,0,N
+144,The IOP readings were obtained from Tonopen IOP readings.,N,0,N,N,N,N,N,N,N,0,N
+145,All measurements were from the right eye only.,N,0,N,N,N,N,N,N,N,0,N
+146,"Previous studies which have explored screening with ACD include an observational study from Greenland.Alsbirk identified occludable angles in 20/69 participants based on a cumulative Shaffer grade <8, which is less stringent than the present ISGEO criteria.",N,0,N,N,N,N,N,N,N,0,N
+147,"Ten years later, seven of the 20 (35%) with occludable angles, and four of the 49 (8%) without occludable angles were diagnosed with ISGEO equivalent of PAC (RR=4.3).",N,0,N,N,N,N,N,N,N,0,N
+148,More stringent criteria would have classified more progressive cases as non-occludable at baseline.,N,0,N,N,N,N,N,N,N,0,N
+149,"The ISGEO criteria were used in this study; therefore, some participants who may have been at risk of progression did not receive prophylactic treatment.",N,0,N,N,N,N,N,N,N,0,N
+150,Natural history studies have shown that approximately a quarter of PACs progress to PACG over 5 years.Table 4 shows the clinical progression of disease in participants referred for examination.,N,0,N,N,N,N,N,N,N,0,N
+151,No participants with treated occludable angles progressed to PACG and 6.7% progressed to PAC over 6 years.,N,0,N,N,N,N,N,N,N,0,N
+152,"This compares favourably with an untreated Indian population of occludable angles where 22% progressed to PAC over 5 years.19 Similarly, 11.8% of participants with PAC progressed to PACG over 6 years in this study compared with 28.5% over 5 years in the Indian population.18 Although there are differences in population and diagnostic procedures, this comparison suggests that there was a lower rate of disease progression in those treated with LPI.",N,0,N,N,N,N,N,N,N,0,N
+153,Clinical progression of disease from baseline diagnosis,N,0,N,N,N,N,N,N,N,0,N
+154,This trial did not demonstrate a reduction in PACG incidence by screening with ultrasound cACD <2.53 mm and prophylactic treatment of PAC with LPI.,N,0,N,N,N,N,N,N,N,0,N
+155,The trial was marred by high loss to follow-up.,N,0,N,N,N,N,N,N,N,0,N
+156,"However, this was a pragmatic trial on screening, undertaken in a challenging environment.",N,0,N,N,N,N,N,N,N,0,N
+157,"Screening for angle closure remains a feasible strategy, although newer technologies have been investigated as potential screening tools in this area, and may be more effective than ultrasound cACD.",N,0,N,N,N,N,N,N,N,0,N
+158,There is some evidence to suggest that LPI is effective in preventing PAC progression.,N,0,N,N,N,N,N,N,N,0,N
+159,Further work to determine the efficacy of LPI in the prevention of PACG in those with occludable angles and PAC would remove uncertainty about this prophylactic treatment.,N,0,N,N,N,N,N,N,N,0,N
+160,Such trials are currently underway in East Asia.,N,0,N,N,N,N,N,N,N,0,N

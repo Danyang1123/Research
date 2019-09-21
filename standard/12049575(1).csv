@@ -1,0 +1,160 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Background  The Ocular Hypertension Treatment Study (OHTS) has shown that topical ocular hypotensive medication is effective in delaying or preventing the onset of primary open-angle glaucoma (POAG) in individuals with elevated intraocular pressure (ocular hypertension) and no evidence of glaucomatous damage.,0,0,N,0,N,N,N,N,N,N,N
+1,Objective  To describe baseline demographic and clinical factors that predict which participants in the OHTS developed POAG.,0,0,N,0,N,N,N,N,N,N,N
+2,"Methods  Baseline demographic and clinical data were collected prior to randomization except for corneal thickness measurements, which were performed during follow-up.",0,0,N,0,N,N,N,N,N,N,N
+3,Proportional hazards models were used to identify factors that predicted which participants in the OHTS developed POAG.,0,0,N,0,N,N,N,N,N,N,N
+4,"Results  In univariate analyses, baseline factors that predicted the development of POAG included older age, race (African American), sex (male), larger vertical cup-disc ratio, larger horizontal cup-disc ratio, higher intraocular pressure, greater Humphrey visual field pattern standard deviation, heart disease, and thinner central corneal measurement.",0,0,N,0,N,N,N,N,N,N,N
+5,"In multivariate analyses, baseline factors that predicted the development of POAG included older age, larger vertical or horizontal cup-disc ratio, higher intraocular pressure, greater pattern standard deviation, and thinner central corneal measurement.",0,0,N,0,N,N,N,N,N,N,N
+6,"Conclusions  Baseline age, vertical and horizontal cup-disc ratio, pattern standard deviation, and intraocular pressure were good predictors for the onset of POAG in the OHTS.",0,0,N,0,N,N,N,N,N,N,N
+7,Central corneal thickness was found to be a powerful predictor for the development of POAG.,0,0,N,0,N,N,N,N,N,N,N
+8,THE OCULAR Hypertension Treatment Study (OHTS) was a multicenter randomized trial designed to evaluate the safety and efficacy of topical ocular hypotensive medication in delaying or preventing the onset of primary open-angle glaucoma(POAG) in individuals with elevated intraocular pressure (IOP) and no detectable glaucomatous damage.,0,0,N,0,N,N,N,N,N,N,N
+9,The results of the OHTS are described in detail in our companion article.,0,0,N,0,N,N,N,N,N,N,N
+10,"The cumulative probability of developing POAG was reduced by 60% among participants randomized to receive topical ocular hypotensive medication compared with those randomized to observation (hazard ratio, 0.40; 95% confidence interval[CI], 0.27-0.59).",0,1,N,0,N,N,N,N,N,N,N
+11,"At 60 months, the cumulative probability of developing POAG was 4.4% in the medication group and 9.5% in the observation group.",0,0,N,0,N,N,N,N,N,N,N
+12,"During the planning phase of the OHTS, we identified several baseline demographic and clinical factors that might predict which participants in the trial would develop POAG.",0,0,N,0,N,N,N,N,N,N,N
+13,"If some of these factors proved to be good predictors, clinicians could use this information to decide the appropriateness of initiating, continuing, or discontinuing topical ocular hypotensive medication in patients with ocular hypertension.",0,0,N,0,N,N,N,N,N,N,N
+14,"The protocol is described in detail in the study manual, in the baseline design article,and on the World Wide Web at http://www.vrcc.wustl.edu.",0,0,N,0,N,N,N,N,N,N,N
+15,The protocol was approved by the institutional review board of each participating clinic.,0,0,N,0,N,N,N,N,N,N,N
+16,"In brief, 1636 participants who had ocular hypertension, with an IOP between 24 mm Hg and 32 mm Hg in one eye and between 21 mm Hg and 32 mm Hg in the other eye and no evidence of glaucomatous damage, were randomized to either observation or treatment with commercially available topical ocular hypotensive medication.",0,0,N,0,N,N,N,N,N,N,N
+17,"The goal of treatment with topical ocular hypotensive medication was to achieve an IOP of 24 mm Hg or less and a minimum 20% reduction from the average of the qualifying IOP and IOP at the baseline randomization visit, except that an IOP of less than 18 mm Hg was not required.",0,0,N,0,N,N,N,N,N,N,N
+18,The primary outcome was the development of reproducible visual field abnormality or clinically significant reproducible optic disc deterioration attributable to POAG.,0,0,N,0,N,N,N,N,N,N,N
+19,"Abnormalities were determined by masked certified readers at the Visual Field and Optic Disc Reading Centers, and attribution to POAG was decided by the masked Endpoint Committee.",0,0,N,0,N,N,N,N,N,N,N
+20,Baseline demographic and clinical information was collected for each participant prior to randomization.,0,0,N,1,N,N,N,N,N,N,N
+21,"The baseline clinical examination included refraction, best-corrected visual acuity, full-threshold white-on-white Humphrey 30-2 visual field tests, IOP measurement, a dilated fundus examination, and stereoscopic optic disc photographs.",0,0,N,0,N,N,N,N,N,N,N
+22,Myopia was defined as a spherical equivalent of −1.0 diopter (D) or more.,0,0,N,0,N,N,N,N,N,N,N
+23,Horizontal and vertical cup-disc ratios by contour were estimated visually from stereoscopic optic disc photographs by masked certified readers in the Optic Disc Reading Center.,0,0,N,0,N,N,N,N,N,N,N
+24,"Information collected by participant report included ocular and medical history, family history of glaucoma, current use of medications including oral calcium channel blockers, and oral β-adrenergic antagonists.",0,0,N,0,N,N,N,N,N,N,N
+25,"Medical history was obtained by asking, ""Has a doctor ever told you that you have any of the following conditions?""",0,0,N,0,N,N,N,N,N,N,N
+26,and reading a list of medical conditions.,0,0,N,0,N,N,N,N,N,N,N
+27,"Family history of glaucoma was determined by asking, ""Do any of your blood relatives (biological mother or father, biological brother or sister, biological aunt or uncle, or biological grandmother or grandfather) have glaucoma?""",0,0,N,0,N,N,N,N,N,N,N
+28,A first-degree relative was defined as a biological parent or sibling.,0,0,N,0,N,N,N,N,N,N,N
+29,"During the planning phase of the OHTS, we identified several factors as possible predictors for the development of POAG.",0,0,N,0,N,N,N,N,N,N,N
+30,"These included age, self-identified race, sex, vertical and horizontal cup-disc ratio, IOP, family history of glaucoma, visual field indexes, myopia, heart disease, high blood pressure, low blood pressure, treatment of medical conditions with oral calcium channel blockers or oral β-adrenergic antagonists, cerebrovascular accident, diabetes mellitus, and migraine.",0,0,N,0,N,N,N,N,N,N,N
+31,"During the course of the OHTS, increasing information indicated that thick corneas could cause overestimation of the true IOP and that individuals classified as having ocular hypertension had thicker corneas on average.",0,0,N,0,N,N,N,N,N,N,N
+32,"We began to collect central corneal thickness measurements in early 1999, about 2 years after randomization of the last participant.",0,0,N,0,N,N,N,N,N,N,N
+33,The protocol for the measurement of central corneal thickness is described in a previously published article.,0,0,N,0,N,N,N,N,N,N,N
+34,"New conditions or signs that occurred during follow-up, such as optic disc hemorrhage, are not included in this article.",0,0,N,0,N,N,N,N,N,N,N
+35,"For eye-specific variables, we calculated the mean for each eye and then averaged these 2 values to determine the baseline predictive factor.",0,0,N,0,N,N,N,N,N,N,N
+36,The IOP predictive factor was calculated from 4 to 6 baseline IOP measurements per eye.,0,0,N,0,N,N,N,N,N,N,N
+37,"The visual field predictive factors (mean deviation, pattern standard deviation, and corrected pattern standard deviation) were calculated from 2 normal and reliable baseline visual fields per eye.",0,0,N,0,N,N,N,N,N,N,N
+38,The central corneal thickness predictive factor was calculated from 5 measurements per eye obtained during the same visit.,0,0,N,0,N,N,N,N,N,N,N
+39,"Cox proportional hazards models as implemented in the PHREG program in the SAS statistical software (SAS Institute Inc, Cary, NC) were used to estimate and test factors for their association with the development of POAG.",0,0,N,0,N,N,N,N,N,N,N
+40,The analysis sample for the proportional hazards models consisted of 125 randomized participants who developed POAG and 1493 randomized participants with at least 1 follow-up visit (18 of 1636 participants did not have any follow-up visits) who did not develop POAG.,0,1,N,0,N,N,N,N,N,N,N
+41,"The analysis data set included all data through November 8, 2001, as recommended by the Data and Safety Monitoring Committee.",0,0,N,0,N,N,N,N,N,N,N
+42,Median participant follow-up was 72 months.,0,0,N,0,N,N,N,N,N,N,N
+43,A parsimonious model was selected using the score criterion in PHREG for comparing models containing 1 predictive factor with those containing combinations of all predictive factors.,0,0,N,0,N,N,N,N,N,N,N
+44,"We report hazard ratios from univariate models, which do not adjust for the presence of other factors, as well as adjusted hazard ratios from the multivariate Cox proportional hazards models.",0,0,N,0,N,N,N,N,N,N,N
+45,Univariate and multivariate hazard ratios for developing POAG and their 95% CIs are reported for each putative predictive factor.,0,0,N,0,N,N,N,N,N,N,N
+46,Statistical significance was defined as P<.05.,0,0,N,0,N,N,N,N,N,N,N
+47,Baseline demographic and clinical factors of participants who did and did not develop POAG in the OHTS are reported in Table 1 and Table 2.,0,0,N,0,N,N,N,N,N,N,N
+48,The percentages in Table 1 were calculated by dividing the number of participants who developed POAG by the number of randomized participants with at least 1 follow-up visit (1618).,0,0,N,0,N,N,N,N,N,N,N
+49,These values are not adjusted for duration of follow-up.,0,0,N,0,N,N,N,N,N,N,N
+50,"Corneal thickness measurements, which began in 1999, were completed in 1398 participants.",0,0,N,0,N,N,N,N,N,N,N
+51,Univariate and multivariate Cox proportional hazards models were evaluated in the observation group alone and in the entire study sample using randomization group as a stratification variable.,0,0,N,0,N,N,N,N,N,N,N
+52,"Both analyses identified similar predictive factors; therefore, we report the results from models based on the entire sample because that approach provides greater statistical power.",0,0,N,0,N,N,N,N,N,N,N
+53,Univariate and multivariate hazard ratios with 95% CIs are reported for each putative predictive factor for the development of POAG (Table 3).,0,0,N,0,N,N,N,N,N,N,N
+54,"In univariate analyses, baseline factors significantly predictive of the development of POAG were older age, race (African American), sex (male), higher IOP, larger vertical cup-disc ratio, larger horizontal cup-disc ratio, greater pattern standard deviation, heart disease, and thinner central corneal measurement.",0,0,N,0,N,N,N,N,N,N,N
+55,"Factors significantly predictive of the development of POAG in both the univariate and multivariate models included older age, higher IOP, greater pattern standard deviation, thinner central corneal measurement, and larger vertical cup-disc ratio.",0,0,N,0,N,N,N,N,N,N,N
+56,"Although horizontal and vertical cup-disc ratios were highly correlated (r = 0.92), vertical cup-disc ratio was a slightly better predictor for the development of POAG than horizontal cup-disc ratio.",0,0,N,0,N,N,N,N,N,N,N
+57,"Therefore, vertical cup-disc ratio was included in the multivariate risk model, and horizontal cup-disc ratio was not.",0,0,N,0,N,N,N,N,N,N,N
+58,A history of diabetes mellitus appeared to be significantly protective against developing POAG in both univariate and multivariate models.,0,0,N,0,N,N,N,N,N,N,N
+59,"Among the 191 participants who reported a history of diabetes mellitus at baseline, 6 (3.1%) developed POAG compared with 119 (8.3%) of 1427 participants who did not report a history of diabetes mellitus.",0,0,N,0,N,N,N,N,N,N,N
+60,"The univariate hazard ratio for diabetes mellitus was 0.40 (95% CI, 0.18-0.92), and the multivariate hazard ratio was 0.37 (95% CI, 0.15-0.90).",0,0,N,0,N,N,N,N,N,N,N
+61,"Baseline factors associated with developing POAG that were statistically significant in the univariate model but not in the multivariate model were race, heart disease, and sex (male).",0,0,N,0,N,N,N,N,N,N,N
+62,"In the univariate model, race (African American) was associated with a 59% increase in the risk of developing POAG(hazard ratio, 1.59; 95% CI, 1.09-2.32).",0,0,N,0,N,N,N,N,N,N,N
+63,"In this study, African American participants had a larger mean ± SD baseline vertical cup-disc ratio (0.45 ± 0.18) compared with other participants (0.37 ± 0.20) and a thinner mean ± SD central corneal measurement (554.9 ± 38.5 µm) than other participants (578.3 ± 36.5 µm).",0,0,N,0,N,N,N,N,N,N,N
+64,The inclusion of either baseline vertical cup-disc ratio or corneal thickness caused race to become statistically nonsignificant in the multivariate model.,0,0,N,0,N,N,N,N,N,N,N
+65,The OHTS enrolled 56 participants who identified themselves as Hispanic.,0,0,N,0,N,N,N,N,N,N,N
+66,"Eight (14.3%) of these 56 participants (95% CI, 5%-23%) developed POAG during follow-up.",0,0,N,0,N,N,N,N,N,N,N
+67,Hispanic participants resembled the other participants in terms of demographic and baseline clinical features.,0,0,N,0,N,N,N,N,N,N,N
+68,"Because of the small sample size, we did not include Hispanic ethnic identity as a separate predictive factor and grouped Hispanic participants with ""others"" in the analyses.",0,0,N,0,N,N,N,N,N,N,N
+69,"Baseline factors that were not associated with the risk of developing POAG in both univariate and multivariate models included family history of glaucoma (first-degree relative or any relative), mean deviation, corrected pattern standard deviation, myopia, migraine, cerebrovascular accident, high blood pressure, low blood pressure, and use of oral β-adrenergic antagonists or oral calcium channel blockers.",0,0,N,0,N,N,N,N,N,N,N
+70,"No association with POAG was found for myopia of −1.0 D or less, greater than −1.0 D to −3.0 D (moderate myopia), or greater than −3.0 D (high myopia).",0,0,N,0,N,N,N,N,N,N,N
+71,A thinner central corneal measurement predicted the development of POAG in both univariate and multivariate models.,0,0,N,0,N,N,N,N,N,N,N
+72,"Among participants who developed POAG, the mean ± SD central corneal thickness was 553.1 ± 38.8µm compared with 574.3 ± 37.8 µm among those who did not develop POAG.",0,0,N,0,N,N,N,N,N,N,N
+73,We examined whether the effect of corneal thickness on the development of POAG was present across the range of corneal thickness measurements observed in the OHTS.,0,0,N,0,N,N,N,N,N,N,N
+74,"We divided the entire sample into 3 approximately equal-sized groups of participants (n = 450-480) with corneal thickness measurements of 555 µm or less (mean, 530.8 µm), greater than 555 µm to less than or equal to 588 µm (mean, 571.7 µm), and more than 588µm (mean, 613.5 µm).",0,0,N,0,N,N,N,N,N,N,N
+75,"For each group, we computed the multivariate hazard ratio for the development of POAG using the group with the thickest corneas as a reference.",0,0,N,0,N,N,N,N,N,N,N
+76,"Compared with the participants with the thickest corneas(>588 µm), participants with intermediate central corneal measurements(>555 µm to ≤588 µm) had a hazard ratio of 1.7 (95% CI, 0.97-3.0), and participants with the thinnest central corneal measurements (≤555 µm) had a hazard ratio of 3.4 (95% CI, 2.1-5.6).",0,0,N,0,N,N,N,N,N,N,N
+77,"Similar analyses conducted using 4 to 8 categories of corneal thickness supported the conclusion that the risk of developing POAG was inversely correlated with central corneal thickness, with no apparent threshold effect.",0,0,N,0,N,N,N,N,N,N,N
+78,Next we examined whether the effect of corneal thickness on the development of POAG was present across the range of baseline IOP observed in the OHTS.,0,0,N,0,N,N,N,N,N,N,N
+79,"The entire sample was divided into 3 approximately equal groups of participants(n = 531-567) with an IOP of 23.75 mm Hg or less (mean, 22.2 mm Hg), greater than 23.75 mm Hg to less than or equal to 25.75 mm Hg (mean, 24.8 mm Hg), and more than 25.75 mm Hg (mean, 27.9 mm Hg).",0,0,N,0,N,N,N,N,N,N,N
+80,"For each IOP group, we computed a multivariate hazard ratio for participants with the thinnest, intermediate, and thickest central corneal measurements as described previously.",0,0,N,0,N,N,N,N,N,N,N
+81,The risk of developing POAG was highest among participants with the thinnest central corneal measurements within each IOP group.,0,0,N,0,N,N,N,N,N,N,N
+82,The relationship between corneal thickness and risk of developing POAG did not differ substantially between the 3 IOP groups (P = .14).,0,0,N,0,N,N,N,N,N,N,N
+83,"Figure 1 illustrates the percentage of participants in the observation group who developed POAG, grouped by central corneal measurements and IOP.",0,0,N,0,N,N,N,N,N,N,N
+84,We then examined whether the effect of central corneal thickness on the development of POAG was present across the range of baseline vertical cup-disc ratios observed in the OHTS.,0,0,N,0,N,N,N,N,N,N,N
+85,"We divided the entire sample into 3 approximately equal groups of participants (n = 524-569) with baseline vertical cup-disc ratios of 0.30 or less (mean, 0.16), greater than 0.30 to less than 0.50 (mean, 0.40), and 0.50 or higher (mean, 0.60).",0,0,N,0,N,N,N,N,N,N,N
+86,"For each vertical cup-disc ratio group, we computed a multivariate hazard ratio for participants with the thinnest, intermediate, and thickest central corneal measurements.",0,0,N,0,N,N,N,N,N,N,N
+87,The risk of developing POAG was highest among participants with the thinnest central corneal measurements within each vertical cup-disc ratio group.,0,0,N,0,N,N,N,N,N,N,N
+88,The relationship between corneal thickness and the risk of developing POAG did not differ substantially between the 3 cup-disc ratio groups (P = .32).,0,0,N,0,N,N,N,N,N,N,N
+89,"Figure 2 illustrates the percentage of participants in the observation group who developed POAG, grouped by central corneal measurements and vertical cup-disc ratio.",0,0,N,0,N,N,N,N,N,N,N
+90,We were concerned that the apparent predictive power of central corneal thickness on the development of POAG could be explained by the correlation between corneal thickness and other predictors of POAG.,0,0,N,0,N,N,N,N,N,N,N
+91,"However, we found little evidence for this.",0,0,N,0,N,N,N,N,N,N,N
+92,"Pearson correlation coefficients for the association between corneal thickness and other baseline factors were as follows: age(r = −0.14), vertical cup-disc ratio (r = −0.12), IOP (r = −0.03), pattern standard deviation (r = −0.07), and mean deviation (r = 0.01).",0,0,N,0,N,N,N,N,N,N,N
+93,"The correlations between central corneal thickness and these baseline factors were also computed using the Kendall τ-b and Spearman rank order tests, with similar results.",0,0,N,0,N,N,N,N,N,N,N
+94,Almost all previous studies of risk factors for POAG collected risk factor data retrospectively or at the time that POAG was ascertained.,0,0,N,0,N,N,N,N,N,N,N
+95,"In the OHTS, risk factors were measured at baseline prior to the onset of POAG, so that predictive factors could be differentiated with greater precision.",0,0,N,0,N,N,N,N,N,N,N
+96,Only corneal thickness was measured after randomization.,0,0,N,0,N,N,N,N,N,N,N
+97,Stringent eligibility criteria ensured that each case of POAG detected during follow-up was a new case and not one that had escaped detection at baseline.,0,0,N,0,N,N,N,N,N,N,N
+98,"Determination of abnormality was made independently by masked certified readers at the reading centers, and confirmation of abnormality required multiple tests separated by several weeks or months.",0,0,N,0,N,N,N,N,N,N,N
+99,Attribution of abnormality to POAG was made by the masked Endpoint Committee.,0,0,N,0,N,N,N,N,N,N,N
+100,"Thus, the OHTS protocol ensured that incident cases of POAG were truly new cases and that the diagnosis of POAG was made with high specificity.",0,0,N,0,N,N,N,N,N,N,N
+101,"The OHTS confirmed that age, cup-disc ratio, and IOP are predictive factors for the development of POAG in individuals with ocular hypertension.",1,0,N,0,N,N,N,N,N,N,N
+102,"Similar findings have been reported previously in population surveys, case-control studies, and prospective studies.",0,0,N,0,N,N,N,N,N,N,N
+103,"Leske, Tielsch, and Wilson and Martone have published detailed articles on risk factors for glaucoma.",0,0,N,0,N,N,N,N,N,N,N
+104,"The predictive factors identified in our study are most likely to be helpful for assessing the risk of patients who resemble the OHTS participants; that is, individuals who have ocular hypertension, an IOP between 24 and 32 mm Hg, and no evidence of glaucomatous damage.",0,0,N,0,N,N,N,N,N,N,N
+105,Some scientists might argue that a larger cup-disc ratio is not a risk factor for developing POAG but rather an indicator of early glaucomatous damage.,0,0,N,0,N,N,N,N,N,N,N
+106,"However, when a clinician examines a patient for the first time, there is no way to determine whether the cup-disc ratio observed has been stable during the patient's lifetime or has enlarged as part of the disease process, assuming that no previous photographs or measurements are available for comparison.",0,0,N,0,N,N,N,N,N,N,N
+107,A patient with a large cup-disc ratio unaltered by glaucoma may be at greater risk for developing POAG.,0,0,N,0,N,N,N,N,N,N,N
+108,"Thus, we decided to include baseline cup-disc ratio in the predictive models.",0,0,N,0,N,N,N,N,N,N,N
+109,A similar reasoning process was followed to include baseline visual field indexes in these models as well.,0,0,N,0,N,N,N,N,N,N,N
+110,"In the OHTS, 3 putative predictive factors (race, sex, and heart disease) were identified in univariate analyses but were not statistically significant in multivariate models.",0,0,N,0,N,N,N,N,N,N,N
+111,"The statistical power to detect the association between these factors and the development of POAG ranged from 0.50 to 0.90, assuming conventional levels of statistical significance.",0,0,N,0,N,N,N,N,N,N,N
+112,"Some of these factors might have been statistically significant in multivariate models if a greater number of participants with the risk factor had been enrolled (eg, only 101 participants reported heart disease at baseline) or if a larger number of incident POAG cases had occurred.",0,0,N,0,N,N,N,N,N,N,N
+113,"On the other hand, the number of incident POAG cases in the OHTS (125 of 1636 participants with ocular hypertension) exceeds that in previous reports of large prospective studies of glaucoma, including the Iowa Study (4 eyes of 1628 individuals), the Collaborative Glaucoma Study (93 eyes of 5886 subjects), the Dalby Study (12 eyes of 599 individuals), and the Barbados Incidence Study of Eye Diseases (67 of 3427 participants).",0,0,N,0,N,N,N,N,N,N,N
+114,Univariate analyses indicated that self-identified African American participants had a 59% increase in the risk of developing POAG.,0,0,N,0,N,N,N,N,N,N,N
+115,Many studies have reported a substantially higher prevalence and incidence of POAG in black individuals compared with white individuals.,0,0,N,0,N,N,N,N,N,N,N
+116,"However, African American participants in the OHTS had thinner central corneal measurements and larger baseline vertical cup-disc ratios.",0,0,N,0,N,N,N,N,N,N,N
+117,"In multivariate analyses that adjusted for these factors, race was no longer a statistically significant predictor.",0,0,N,0,N,N,N,N,N,N,N
+118,"In the OHTS, 8 of 56 Hispanic participants developed POAG.",0,0,N,0,N,N,N,N,N,N,N
+119,"Although this small sample size prevented detailed analysis, the results were consistent with a recent population survey that found a higher prevalence of POAG in Hispanic subjects.",0,0,N,0,N,N,N,N,N,N,N
+120,Family history of glaucoma is a well-established risk factor for POAG.,0,0,N,0,N,N,N,N,N,N,N
+121,"Forty-seven(8.5%) of 553 participants who reported at least 1 first-degree relative with glaucoma developed POAG, compared with 78 (7.3%) of 1065 who did not.",0,0,N,0,N,N,N,N,N,N,N
+122,"Of all OHTS participants, 42% reported either a first-degree relative or any relative with glaucoma.",0,0,N,0,N,N,N,N,N,N,N
+123,No attempt was made to verify the participants' reports or to corroborate the diagnoses with family members or clinicians.,0,0,N,0,N,N,N,N,N,N,N
+124,The high proportion of participants who reported a family history of glaucoma suggests that this condition is not always distinguished from ocular hypertension.,0,0,N,0,N,N,N,N,N,N,N
+125,Population surveys and genetic studies are likely to provide stronger tests of the heritability of POAG.,0,0,N,0,N,N,N,N,N,N,N
+126,"In the OHTS, male sex predicted the development of POAG in the univariate analyses but was of borderline significance in multivariate models.",0,0,N,0,N,N,N,N,N,N,N
+127,"Other studies of the relationship between sex and POAG have yielded conflicting results, with some studies finding men at higher risk, some finding women at higher risk, and some finding no association.",0,0,N,0,N,N,N,N,N,N,N
+128,Myopia was not predictive of the development of POAG in the OHTS.,0,0,N,0,N,N,N,N,N,N,N
+129,"In contrast, several well-performed case-control and population-based studies have reported an association between myopia, particularly high myopia, and POAG.",0,0,N,0,N,N,N,N,N,N,N
+130,"Low perfusion pressure has been associated with POAG30 and may be an important consideration in the decision to treat elevated IOP.38 However, in the OHTS, a history of low blood pressure at baseline was ascertained only by self-report.",0,0,N,0,N,N,N,N,N,N,N
+131,We did not perform blood pressure readings and are unable to test this interesting hypothesis.,0,0,N,0,N,N,N,N,N,N,N
+132,"In both our univariate and multivariate analyses, a history of diabetes mellitus at baseline appeared to be protective against developing POAG.",0,0,N,0,N,N,N,N,N,N,N
+133,"This contradicts all previously published studies, which either found that diabetes is associated with POAG or that there is no association.",0,0,N,0,N,N,N,N,N,N,N
+134,We did not confirm the diagnosis of diabetes mellitus in OHTS participants with blood tests or medication use.,0,0,N,0,N,N,N,N,N,N,N
+135,"Because individuals with diabetic retinopathy were excluded from the OHTS, we probably enrolled an unrepresentative group of patients with diabetes.",0,0,N,0,N,N,N,N,N,N,N
+136,These factors may explain the paradoxical relationship between diabetes mellitus and POAG in the OHTS.,0,0,N,0,N,N,N,N,N,N,N
+137,"We found that small differences in pattern standard deviation at baseline predicted the development of POAG, even among participants who had normal and reliable results on Humphrey 30-2 visual field tests.",0,0,N,0,N,N,N,N,N,N,N
+138,"Such small differences can be detected only by taking an average from multiple visual fields, as was done in the OHTS.",0,0,N,0,N,N,N,N,N,N,N
+139,The visual field predictive factor was computed from 4 normal and reliable visual field test results (2 from each eye) per participant.,0,0,N,0,N,N,N,N,N,N,N
+140,It is unlikely that pattern standard deviation would be a useful predictive factor in general practice.,0,0,N,0,N,N,N,N,N,N,N
+141,"To our knowledge, the OHTS is the first study to prospectively document that a thinner central corneal measurement predicts the development of POAG.",0,0,N,0,N,N,N,N,N,N,N
+142,"Corneal thickness appeared to be a strong predictive factor for the development of POAG, even after adjusting for the effects of baseline age, IOP, vertical cup-disc ratio, and pattern standard deviation.",0,0,N,0,N,N,N,N,N,N,N
+143,Participants with a corneal thickness of 555 µm or less had a 3-fold greater risk of developing POAG compared with participants who had a corneal thickness of more than 588µm.,0,0,N,0,N,N,N,N,N,N,N
+144,This inverse relationship was found across the ranges of baseline IOP and baseline vertical cup-disc ratios.,0,0,N,0,N,N,N,N,N,N,N
+145,It is well known that corneal thickness influences the measurement of IOP.,0,0,N,0,N,N,N,N,N,N,N
+146,Eyes with thicker corneas have a true IOP that is lower than the measured IOP.,0,0,N,0,N,N,N,N,N,N,N
+147,"Conversely, eyes with thin corneas have a true IOP that is greater than the measured IOP.",0,0,N,0,N,N,N,N,N,N,N
+148,"Thus, individuals with thicker corneas may be misclassified as having ocular hypertension.",0,0,N,0,N,N,N,N,N,N,N
+149,Cross-sectional studies have documented that central corneal thickness is greater in individuals with measured ocular hypertension compared with normotensive individuals or those with glaucoma.,0,0,N,0,N,N,N,N,N,N,N
+150,It is likely that the predictive power of corneal thickness is due to its effect on the measured IOP.,0,0,N,0,N,N,N,N,N,N,N
+151,"However, we cannot exclude the possibility that corneal thickness is related to other factors affecting susceptibility to glaucomatous damage.",0,0,N,0,N,N,N,N,N,N,N
+152,"Baseline IOP was not correlated with corneal thickness in the OHTS, partly because of the narrow range of IOP.",0,0,N,0,N,N,N,N,N,N,N
+153,We did not use available formulas to correct the IOP for corneal thickness because they are theoretical in nature or derived from small samples with limited racial variation.,0,0,N,0,N,N,N,N,N,N,N
+154,"In the OHTS, the mean central corneal thickness among African Americans was 23.5 µm thinner than that of other participants.",0,0,N,0,N,N,N,N,N,N,N
+155,"The central corneal thickness of the African American participants more closely resembles the norm, whereas the other participants had thicker corneas than the norm.",0,0,N,0,N,N,N,N,N,N,N
+156,"We conclude that central corneal thickness provides new information about the risk of developing POAG, and we recommend its measurement in the clinical evaluation of patients with ocular hypertension.",0,0,N,0,N,N,N,N,N,N,N
+157,"In summary, the OHTS data suggest that a clinician caring for a patient with ocular hypertension can assess that individual's risk of developing POAG by considering age, IOP, cup-disc ratio, and central corneal thickness.",0,0,N,0,N,N,N,N,N,N,N
+158,"By combining these factors, the clinician can identify patients at moderate to high risk for developing POAG and who are more likely to benefit from early medical treatment.",0,0,N,0,N,N,N,N,N,N,N

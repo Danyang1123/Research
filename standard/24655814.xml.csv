@@ -1,0 +1,199 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,Improving adherence to ocular hypertension (OH)/glaucoma therapy is highly likely to prevent or reduce progression of optic nerve damage.,0,0,N,0,N,N,0,N,0,0,0
+1,The present study used a behaviour change counselling intervention to determine whether education and support was beneficial and cost-effective in improving adherence with glaucoma therapy.,0,0,N,0,N,N,0,N,0,0,0
+2,A randomised controlled trial with a 13-month recruitment and 8-month follow-up period was conducted.,1,0,N,1,N,N,1,N,0,0,0
+3,Patients with OH/glaucoma attending a glaucoma clinic and starting treatment with travoprost were approached.,1,0,N,1,N,N,1,N,0,0,0
+4,"Participants were randomised into two groups and adherence was measured over 8 months, using an electronic monitoring device (Travalert® dosing aid, TDA).",1,1,N,1,N,N,1,N,0,0,0
+5,"The control group received standard clinical care, and the intervention group received a novel glaucoma education and motivational support package using behaviour change counselling.",1,0,N,1,N,N,1,N,0,0,0
+6,Cost-effectiveness framework analysis was used to estimate any potential cost benefit of improving adherence.,1,0,N,1,N,N,1,N,0,0,0
+7,"Two hundred and eight patients were recruited (102 intervention, 106 control).",0,0,N,0,N,N,0,N,0,1,1
+8,"No significant difference in mean adherence over the monitoring period was identified with 77.2% (CI, 73.0, 81.4) for the control group and 74.8% (CI, 69.7, 79.9) for the intervention group (p = 0.47).",0,0,N,0,N,N,0,N,0,1,1
+9,"Similarly, there was no significant difference in percentage intraocular pressure reduction; 27.6% (CI, 23.5, 31.7) for the control group and 25.3% (CI, 21.06, 29.54) for the intervention group (p = 0.45).",0,0,N,0,N,N,0,N,0,1,1
+10,"Participants in the intervention group were more satisfied with information about glaucoma medication with a mean score of 14.47/17 (CI, 13.85, 15.0) compared with control group which was 8.51 (CI, 7.72, 9.30).",0,0,N,0,N,N,0,N,0,1,1
+11,The mean intervention cost per patient was GB£10.35 (&lt;US$16) and not cost-effective.,0,0,N,0,N,N,0,N,0,1,1
+12,Adherence with travoprost was high and not further increased by the intervention.,0,0,N,0,N,N,0,N,0,0,0
+13,"Nevertheless, the study demonstrated that provision of information, tailored to the individual, was inexpensive and able to achieve high patient satisfaction with respect to information about glaucoma medication.",0,0,N,0,N,N,0,N,0,0,0
+14,Measurement of adherence remains problematic since awareness of study participation may cause a change in participant behaviour.,0,0,N,0,N,N,0,N,0,0,0
+15,"Current Controlled Trials, <a href=""http://www.controlled-trials.com/ISRCTN89683704"">ISRCTN89683704</a>.",0,0,N,0,N,N,0,N,0,0,0
+16,"Sub-optimal adherence to prescribed glaucoma therapy is associated with progressive visual field loss and unnecessary additional prescribing or surgery [<a href=""#B1"">1</a>].",0,0,N,0,N,N,0,N,0,0,0
+17,"A cross-sectional glaucoma study has found that participants with adherence rates less than 80% have worse visual field defects than those with greater adherence rates [<a href=""#B2"">2</a>].",0,0,N,0,N,N,0,N,0,0,0
+18,"Patients that have a stronger belief in the necessity for eye drops are more adherent [<a href=""#B3"">3</a>] and studies that have targeted patient beliefs have been effective in improving adherence [<a href=""#B4"">4</a>,<a href=""#B5"">5</a>].",0,0,N,0,N,N,0,N,0,0,0
+19,"Conversely, whilst poor glaucoma education has been cited as an explanation for non-adherence to therapy [<a href=""#B6"">6</a>-<a href=""#B8"">8</a>], interventions that purely focus on providing education have failed to achieve significant improvement in adherence [<a href=""#B9"">9</a>-<a href=""#B11"">11</a>].",0,0,N,0,N,N,0,N,0,0,0
+20,"However, studies using multifaceted intervention components including education and tailoring of information, and encouraging patients to discuss strategies for incorporating the medication administration into their daily activities, have detected a significant improvement in adherence [<a href=""#B12"">12</a>,<a href=""#B13"">13</a>].",0,0,N,0,N,N,0,N,0,0,0
+21,"Thus, the aim of the present study was to determine whether an intervention designed to both target beliefs and provide tailored education about glaucoma and its management by using a behaviour change counselling (BCC) technique [<a href=""#B14"">14</a>], could be beneficial and cost-effective in improving adherence with topical therapy.",0,0,N,0,N,N,0,N,0,0,0
+22,"The intervention was designed to address the multifactorial nature of unintentional and intentional non-adherence [<a href=""#B15"">15</a>].",0,0,N,0,N,N,0,N,0,0,0
+23,"The design, justification of such an intervention and methodology of outcome measures is the subject of a previous published protocol paper by the same authors [<a href=""#B16"">16</a>].",0,0,N,0,N,N,0,N,0,0,0
+24,"Previous research with the same patient population highlighted that an intervention that provided glaucoma and treatment information and motivational support was required at the point of medication initiation [<a href=""#B7"">7</a>].",0,0,N,0,N,N,0,N,0,0,0
+25,"Therefore, paramount to the design of the intervention was the feasibility of the randomisation and delivery of the intervention during the same clinic visit as initiation of treatment and an 8 month follow-up period to establish the longevity of any intervention effect on adherence.",0,0,N,0,N,N,0,N,0,0,0
+26,The Norwich Adherence Glaucoma Study (NAGS) was a randomised controlled trial conducted in the Glaucoma Clinic of a UK National Health Service (NHS) teaching hospital.,0,0,N,0,N,N,0,N,0,0,0
+27,"The study received ethical approval from the Norfolk Research Ethics Committee, UK.",0,0,N,0,N,N,0,N,0,0,0
+28,"A summary of the methods are provided since the full details have been described previously [<a href=""#B16"">16</a>].",0,0,N,0,N,N,0,N,0,0,0
+29,"Consecutive patients newly initiated onto travoprost monotherapy for the treatment of primary open angle glaucoma (POAG), ocular hypertension (OH) or glaucoma suspect using the European Glaucoma Society Guidelines [<a href=""#B17"">17</a>], were invited to participate; no financial stipend or travoprost samples were given, and patients collected their own repeat prescription for travoprost as per standard UK practice.",0,0,N,0,N,N,0,N,0,0,0
+30,"Patients interested in study participation were referred by their clinician to the research staff and were informed that they may be randomised to either the standard care or the intervention group (allocation ratio 1:1), and that their adherence to travoprost would be monitored for the study duration.",0,0,N,0,N,N,0,N,0,0,0
+31,No standardized script was used during recruitment.,0,0,N,0,N,N,0,N,0,0,0
+32,"Participants giving written consent were randomised, stratified by diagnosis (either POAG, or OH/glaucoma suspect) and experience of the glaucoma service (new patient or follow-up patient but commencing active treatment) by research staff using a centralized automated telephone randomisation system.",0,0,N,0,N,N,0,N,0,0,0
+33,"Given the interventional nature of the study, patients and research staff were not masked to their intervention allocation, but clinicians were masked as to which patients were participating in the study.",0,0,N,0,N,N,0,N,0,0,0
+34,The statistician (AC) was also masked to which data belonged to the intervention/control group during analysis.,0,0,N,0,N,N,0,N,0,0,0
+35,"Once randomised, all participants were followed through to study completion regardless of changes to therapy, including travoprost discontinuation.",0,0,N,0,N,N,0,N,0,0,0
+36,Basic demographic information were collected for non-consenting patients.,0,0,N,0,N,N,0,N,0,0,0
+37,"Five nurses/research technicians working within the glaucoma clinic were trained to deliver the intervention and study related tasks as previously described [<a href=""#B16"">16</a>]; they were titled ‘Glaucoma Support Assistants (GSAs)’ during the study.",0,0,N,0,N,N,0,N,0,0,0
+38,Two of the five GSAs were Glaucoma Specialist Nurses delivering routine nurse-led glaucoma patient review clinics.,0,0,N,0,N,N,0,N,0,0,0
+39,The GSA specialist nurses separated split roles by delivering routine care three days a week and undertaking the GSA role on one separate day a week.,0,0,N,0,N,N,0,N,0,0,0
+40,"To prevent the roles of GSAs influencing the provision of routine care, administrative staff ensured that participants did not attend nurse-led follow-up glaucoma clinics run by nurses with split roles.",0,0,N,0,N,N,0,N,0,0,0
+41,"Furthermore, pre-randomisation, patients were unlikely to have received care from the GSA nurses as Glaucoma Specialist Nurses do not prescribe medication and would not have been exposed to patients newly requiring treatment.",0,0,N,0,N,N,0,N,0,0,0
+42,Standard care was provided which involved appropriate tests to establish POAG/OH diagnosis and initiation of treatment if indicated before entering the study.,0,0,N,0,N,N,0,N,0,0,0
+43,"All participants received basic information and leaflets about glaucoma as deemed appropriate by their clinicians, who were not associated with the research.",0,0,N,0,N,N,0,N,0,0,0
+44,Follow-up was in accordance with standard clinical protocols.,0,0,N,0,N,N,0,N,0,0,0
+45,"Before leaving the Glaucoma Clinic, intervention participants received an individualised glaucoma education and motivational support package using BCC from a GSA.",0,0,N,0,N,N,0,N,0,0,0
+46,"The development and standardisation of the intervention has been previously described [<a href=""#B16"">16</a>].",0,0,N,0,N,N,0,N,0,0,0
+47,"A telephone advice-line from Monday to Friday, 9 am–5 pm was provided by the GSAs to respond to glaucoma related queries from participants and their carers.",0,0,N,0,N,N,0,N,0,0,0
+48,"Data sources: adherence monitoring, questionnaires, medical records and interviews",0,0,N,0,N,N,0,N,0,0,0
+49,"The Travalert® dosing aid (TDA, Alcon Laboratories, Inc., Forth Worth, TX, USA) was used to collect adherence data from all participants.",0,0,N,0,N,N,0,N,0,0,0
+50,Each participant had their adherence calculated using a computer programme specifically designed for the purpose.,0,0,N,0,N,N,0,N,0,0,0
+51,"The Steering Committee for the study, which included glaucoma specialist clinicians, adherence experts, a patient using eye drops for glaucoma and public representative, discussed and agreed what would determine an adherent dose; at least one recorded application (regardless of bi- or uni-lateral dosing) within a 4-hour window either side of an individual’s average dosing time; the mean of each daily dose administered between 5 pm and 5 am was calculated for the duration of the study period.",0,0,N,0,N,N,0,N,0,0,0
+52,"Eye drop application using the TDA was demonstrated to all participants by a GSA, irrespective of group allocation.",0,0,N,0,N,N,0,N,0,0,0
+53,New TDAs were dispensed at visit-2 (2 months) if the GSA found the battery or TDA to have failed during patient use.,0,0,N,0,N,N,0,N,0,0,0
+54,"A participant self-administered questionnaire was completed after visits-1 (study initiation), 2 (2 months) and 3 (8 months) and returned by post.",0,0,N,0,N,N,0,N,0,0,0
+55,"The questionnaire included self-reported satisfaction with information received about Travoprost using the validated ‘Satisfaction with Information about Medicines Scale’ (SIMS) [<a href=""#B18"">18</a>].",0,0,N,0,N,N,0,N,0,0,0
+56,"SIMS comprises 17 questions which are detailed in Figure <a href=""#F1"">1</a> and scores range from 0 to 17 with high scores indicating greater satisfaction.",0,0,N,0,N,N,0,N,0,0,0
+57,"View larger version</a></span><span class=""fig-label"">Figure 1.",0,0,N,0,N,N,0,N,0,0,0
+58,</span>Comparison of the control and intervention group SIMS at visit 1 categorised according to items that relate to potential problems with travoprost and action and usage of travoprost.,0,0,N,0,N,N,0,N,0,0,0
+59,"Glaucoma Clinic held records were accessed for IOP measured by Goldmann tonometry at baseline, and visit-3 (8 months) plus co-morbidity data which was classified using the Charlson Co-morbidity Index [<a href=""#B19"">19</a>].",0,0,N,0,N,N,0,N,0,0,0
+60,"A structured interview undertaken at the time of recruitment was used to collect patient age, ethnicity (classified by participants), index of multiple deprivation (IMD) (a UK specific measure of relative deprivation using postal addresses), type of housing, educational qualifications and family history of glaucoma; these characteristics were used to describe the participant population and explore predictors of adherence (not reported in this publication).",0,0,N,0,N,N,0,N,0,0,0
+61,"Adherence was determined using the number of adherent doses using electronic monitoring divided by the expected number of doses for the monitoring period for both the total 8 month study duration and the final 2 months of follow-up [<a href=""#B16"">16</a>].",0,0,N,0,N,N,0,N,0,0,0
+62,"Additionally, a dichotomous classification of adherence score based on the final 2 months of follow-up was used (‘adherent’ if the average number of TDA recorded doses was ≥80% of expected and ‘non-adherent’ if &lt;80%).",0,0,N,0,N,N,0,N,0,0,0
+63,The IOP measure for each treated eye was used as a clinical outcome measure.,0,0,N,0,N,N,0,N,0,0,0
+64,The percentage reduction in IOP from baseline and visit-3 was calculated and compared between intervention and control groups.,0,0,N,0,N,N,0,N,0,0,0
+65,The SIMS score was used to establish differences between the control and intervention groups’ satisfaction with information received about their medication.,0,0,N,0,N,N,0,N,0,0,0
+66,The SIMS score was also used compared with participants adherence score to ascertain if satisfaction with information improved adherence to medication.,0,0,N,0,N,N,0,N,0,0,0
+67,"A resource log book captured all Glaucoma Clinic care activity and GSA time spent with each participant delivering the education and support package, in addition to answering any queries on the telephone helpline.",0,0,N,0,N,N,0,N,0,0,0
+68,Patient costs were excluded from the study.,0,0,N,0,N,N,0,N,0,0,0
+69,The health economic analysis was based upon the NHS for England perspective.,0,0,N,0,N,N,0,N,0,0,0
+70,The primary outcome measure was incremental hospital cost per percentage gain in adherence.,0,0,N,0,N,N,0,N,0,0,0
+71,"The specific costs associated with secondary care ophthalmic activity were identified on review of the patient pathway by an expert clinician (DCB), glaucoma health care professional (HC), and health economist (RF).",0,0,N,0,N,N,0,N,0,0,0
+72,"The costs captured in the resource logs were described using direct hospital treatment costs [<a href=""#B16"">16</a>].",0,0,N,0,N,N,0,N,0,0,0
+73,"Missing data were imputed using a multivariate normal imputation model after suitable transformations, to ensure that the variables were normally distributed.",0,0,N,0,N,N,0,N,0,0,0
+74,A sensitivity analysis was carried out to assess the effects of missing data.,0,0,N,0,N,N,0,N,0,0,0
+75,The results (not shown) indicated that results were not sensitive to the missing data.,0,0,N,0,N,N,0,N,0,0,0
+76,"Since the intervention was intended to improve adherence by motivating patient behaviour, all GSA interventions were examined to test for any potential ‘therapist bias’.",0,0,N,0,N,N,0,N,0,0,0
+77,Interventions were grouped by the GSA delivering the intervention and the number of adherent participants per GSA compared using a Chi-squared test.,0,0,N,0,N,N,0,N,0,0,0
+78,"Any GSA showing greater or lesser adherence outcome per participant, may have suggested a potential significant bias in the way that an individual GSA had delivered the intervention to their allocated participants.",0,0,N,0,N,N,0,N,0,0,0
+79,Descriptive statistics were used to characterise the demographics of the study population.,0,0,N,0,N,N,0,N,1,0,0
+80,All analyses were based on an intention-to-treat principle.,0,0,N,0,N,N,0,N,1,0,0
+81,The primary analysis compared the percentage of intervention and control group ‘adherers’ using a Chi-squared test for the total 8 months of follow-up and separately for the final 2 months.,0,0,N,0,N,N,0,N,1,0,0
+82,"Additionally, the combined month-7 and −8 post-randomisation percentage adherence values were analysed using a Student’s t-test to compare the intervention and control group.",0,0,N,0,N,N,0,N,1,0,0
+83,A repeated measures analysis-of-variance (ANOVA) was carried out (with time measured in months) to assess for any difference between intervention and control over time.,0,0,N,0,N,N,0,N,1,0,0
+84,"Reduction in IOP, and SIMS were compared between the control and intervention groups using Student’s t-tests and at different time points (SIMS and IOP at visit-1, visit-2 and visit-3) to compare any differences.",0,0,N,0,N,N,0,N,0,0,0
+85,Adherence was correlated with SIMS using a Spearman’s rank correlation coefficient (SRCC) test.,0,0,N,0,N,N,0,N,0,0,0
+86,The difference in total costs and adherence percentage was calculated incrementally between the intervention and control group to provide the incremental cost effectiveness ratio (ICER) of additional adherence from the intervention.,0,0,N,0,N,N,0,N,0,0,0
+87,A deterministic sensitivity analysis was performed on the base case ICER using patient variability in cost and outcome to determine the robustness of the economic analysis.,0,0,N,0,N,N,0,N,0,0,0
+88,"At the time of calculating the sample size, there was less available data to suggest likely adherence rates with once daily glaucoma medication [<a href=""#B20"">20</a>] and limited research to indicate the effect of an intervention on adherence.",0,0,N,0,N,N,0,N,0,0,0
+89,"Thus sample size estimates were derived from general medicine where average non-adherence rates of 25% have been reported [<a href=""#B21"">21</a>,<a href=""#B22"">22</a>].",0,0,N,0,N,N,0,N,0,0,0
+90,"Available data at the time for glaucoma adherence studies using medication monitors had shorter follow-up time and more complicated dosing regimens than the proposed study [<a href=""#B23"">23</a>,<a href=""#B24"">24</a>].",0,0,N,0,N,N,0,N,0,0,0
+91,"Therefore, without a comparable study, a 20% increase in adherence was estimated and adherence defined as ≥ 80% of expected doses recorded by the TDA.",0,0,N,0,N,N,0,N,0,0,0
+92,"Assuming an adherence rate of 60% in the control group and 80% in the intervention group, 81 people in each group provided 80% power to detect a difference using a Chi-squared test with 5% significance.",0,0,N,0,N,N,0,N,0,0,0
+93,Based on an estimated 20% drop-out a target of 200 participants was set.,0,0,N,0,N,N,0,N,0,0,0
+94,"Eligible participants were recruited from November 2009 for 13 months as illustrated in Figure <a href=""#F2"">2</a>.",0,0,N,0,N,N,0,N,0,0,0
+95,Previous use of glaucoma therapy was the most frequent reason for exclusion.,0,0,N,0,N,N,0,N,0,0,0
+96,There was no suggestion that the failure of the TDA device differed between those who were adherent and those who were not.,0,0,N,0,N,N,0,N,0,0,0
+97,"Furthermore, participants who changed treatment were not associated with poorer adherence.",0,0,N,0,N,N,0,N,0,0,0
+98,"View larger version</a></span><span class=""fig-label"">Figure 2.",0,0,N,0,N,N,0,N,0,0,0
+99,</span>The Consolidated Standards of Reporting Trials diagram including detailed information on excluded participants and missing TDA data.,0,0,N,0,N,N,0,N,0,0,0
+100,"The demographic characteristics of the sample population are summarised in Table <a href=""#T1"">1</a> and were evenly balanced.",0,0,N,0,N,N,0,N,0,0,0
+101,"The participants were predominantly of white British ethnicity and, at the time of recruitment, had been diagnosed with POAG as opposed to OH or glaucoma suspect.",0,0,N,0,N,N,0,N,0,0,0
+102,The cohort was evenly matched as to whether they were new patients or had been seen previously in the Glaucoma Clinic.,0,0,N,0,N,N,0,N,0,0,0
+103,"There were no statistically significant differences in age (p = 0.257), gender (p = 0.253) and IMD (p = 0.379) between study participants and the 46 individuals who declined participation.",0,0,N,0,N,N,0,N,0,0,0
+104,"See full table</a></span><span class=""fig-label"">Table 1.",0,0,N,0,N,N,0,N,0,0,0
+105,</span>Baseline characteristics for control and intervention groups,0,0,N,0,N,N,0,N,0,0,0
+106,"There were no significant differences between observed and imputed data, thus all analyses were conducted on observed data and there were no therapist effects (Chi-Squared p = 0.860).",0,0,N,0,N,N,0,N,0,0,0
+107,"Mean adherence over the total 8-month monitoring period was slightly greater in the control group (77.2%), but the difference (2.4%; 95% CI, −4.2, 9.0) between the two groups was small and not statistically significant (p = 0.471).",0,0,N,0,N,N,0,N,0,0,0
+108,"There was also no difference in the mean adherence for the final 2 months of monitoring which was 79.3% in the control group, the difference (1.6%; 95% CI, −6.8, 10.0) between the two groups being minimal (p = 0.703).",0,0,N,0,N,N,0,N,0,0,0
+109,There was no statistically significant difference in the proportion of individuals with ≥ 80% adherence (p = 0.631) between the two groups: control group 62.5% and intervention group 66.7%.,0,0,N,0,N,N,0,N,0,0,0
+110,"A repeated measures analysis of percentage adherence rate for each month found no difference in adherence between the two groups (p = 0.685) or any interaction between month and group (p = 0.894), the details of which are provided in Figure <a href=""#F3"">3</a>.",0,0,N,0,N,N,0,N,0,0,0
+111,"View larger version</a></span><span class=""fig-label"">Figure 3.",0,0,N,0,N,N,0,N,0,0,0
+112,</span>Monthly mean % adherence (CI) for control and intervention groups.,0,0,N,0,N,N,0,N,0,0,0
+113,"The mean IOP at baseline for subsequently treated right and/or left eyes was 23.7 mmHg (95% CI, 22.6, 24.8) for the control group and 22.4 mmHg (95% CI, 21.3, 23.5) for the intervention group which was not statistically different (p = 0.096, 1.3, CI −0.2, 2.9).",0,0,N,0,N,N,0,N,0,0,0
+114,"There was no significant difference in percentage reduction in IOP from baseline to visit-3 between the two groups with control group being 27.6% (SD, 19.2) and intervention group being 25.3% (SD 19.7) (2.3 mean difference, CI −3.6, 8.2, p = 0.448).",0,0,N,0,N,N,0,N,0,0,0
+115,"SIMS scores for the intervention group were significantly higher than the control group at all three time points post intervention (visit-1 mean score = 14.47 (95% CI, 13.85, 15.09) for the intervention group and 8.51 for the control group (95% CI, 7.72, 9.30, p &lt; 0.001).",0,0,N,0,N,N,0,N,0,0,0
+116,"The same high level of satisfaction was maintained for the intervention group, whilst control group SIMS score did increased significantly over time with a difference in mean score between visit-1 and visit-3 of 2.91, SD 4.74 p = &lt;0.001.",0,0,N,0,N,N,0,N,0,0,0
+117,SIMS was not significantly related to medication adherence (r = −0.015 p = 0.883).,0,0,N,0,N,N,0,N,0,0,0
+118,"Figure <a href=""#F1"">1</a> provides a comparative illustration of the specific items of SIMS information that intervention and control participants felt they lacked and these were categorised into items related to ‘action and usage’ or ‘potential problems of travoprost’ [<a href=""#B18"">18</a>].",0,0,N,0,N,N,0,N,0,0,0
+119,"Both groups had a higher degree of satisfaction with information about ‘action and usage of travoprost’ (control group mean average 65%, intervention group 86%) than the ‘potential problems’ (control group 33%, intervention group 80%) but the difference was considerably more marked in the control group.",0,0,N,0,N,N,0,N,0,0,0
+120,The mean intervention cost per participant was GB£10.35 with a total expenditure GB£746.17 greater than the control group.,0,0,N,0,N,N,0,N,0,0,0
+121,"Since no significantly greater effectiveness was found (percentage gain in adherence) but it was delivered at a higher cost, the intervention was not cost-effective.",0,0,N,0,N,N,0,N,0,0,0
+122,The present trial of an adherence intervention failed to achieve greater adherence to newly initiated topical glaucoma treatment.,0,0,N,0,N,N,0,N,0,0,0
+123,"Adherence in the control group was considerably higher than the previously reported estimates used in general medicine, that were used in the present study power calculations [<a href=""#B22"">22</a>] and ophthalmology [<a href=""#B25"">25</a>].",0,0,N,0,N,N,0,N,0,0,0
+124,"Thus, improving adherence, in an already adherent population, would have been difficult to achieve.",0,0,N,0,N,N,0,N,0,0,0
+125,"Previous studies examining interventions to improve adherence to glaucoma medication have enrolled patients identified to be poorly adherent in an attempt to create the best conditions to measure greater effect sizes [<a href=""#B26"">26</a>] or have measured adherence pre- and post- intervention to make comparison of individual differences [<a href=""#B13"">13</a>].",0,0,N,0,N,N,0,N,0,0,0
+126,"However, the present study examined the potential of an intervention to improve adherence at the point of medication initiation in accordance with previous research findings [<a href=""#B7"">7</a>].",0,0,N,0,N,N,0,N,0,0,0
+127,"Since patients were medication naïve, targeting unintentionally non-adherent patients was not feasible.",0,0,N,0,N,N,0,N,0,0,0
+128,"Furthermore, clinical practice at the time of the study could not have accurately predicted patients likely to have poor adherence [<a href=""#B27"">27</a>] and measuring such behaviour would have required several months to perform and these observational methods often alert patients to the fact that their behaviour is being monitored which can cause a reactivity bias resulting in increased adherence to medication [<a href=""#B28"">28</a>,<a href=""#B29"">29</a>].",0,0,N,0,N,N,0,N,0,0,0
+129,"Thus, it was neither appropriate nor feasible to target a poorly adherent cohort in the present study.",0,0,N,0,N,N,0,N,0,0,0
+130,The present study result may indicate that standard care offered by an NHS Glaucoma Clinic was sufficient to promote high adherence with travoprost for the population studied.,0,0,N,0,N,N,0,N,0,0,0
+131,"An alternative interpretation of the high level of adherence is that Hawthorne effects may have occurred, whereby the act of study participation improved motivation and thus increased adherence in both groups [<a href=""#B26"">26</a>,<a href=""#B28"">28</a>,<a href=""#B30"">30</a>].",0,0,N,0,N,N,0,N,0,0,0
+132,Future studies may benefit from including a placebo ‘attention’ arm in order to control for the extra attention that participants receive when they agree to take part in research.,0,0,N,0,N,N,0,N,0,0,0
+133,Standardisation of instructions given to participants at the time of recruitment may also control for external variances in measured adherence caused by the way information is conveyed and comprehended.,0,0,N,0,N,N,0,N,0,0,0
+134,"However, these phenomena are not well documented and further research is required to establish the extent that study participation and reactivity to adherence monitoring may inflate adherence relative to the natural environment.",0,0,N,0,N,N,0,N,0,0,0
+135,"Furthermore, studies of adherence may be intrinsically biased through selection of patients who attend appointments and engage in healthcare; thus non-adherent patients are more likely to be missing from the sample and those agreeing to participate may be more adherent to medication than those who decline [<a href=""#B31"">31</a>].",0,0,N,0,N,N,0,N,0,0,0
+136,Another consideration is that the fidelity of intervention delivery may have been compromised.,0,0,N,0,N,N,0,N,0,0,0
+137,"However, as described in the protocol paper [<a href=""#B16"">16</a>], a rigorous training process for GSAs was undertaken and quality assured by 3 experts in motivational interviewing.",0,0,N,0,N,N,0,N,0,0,0
+138,"Finally, the intervention may have been flawed in its design.",0,0,N,0,N,N,0,N,0,0,0
+139,"Since conception of the intervention used in the present study, the large body of evidence to identify the domains that explain behaviour change has been collated into the Theoretical Domains Framework [<a href=""#B32"">32</a>,<a href=""#B33"">33</a>].",0,0,N,0,N,N,0,N,0,0,0
+140,"The present intervention design which was informed by empirical evidence as described in the protocol paper [<a href=""#B16"">16</a>] maps comprehensively onto the Theoretical Domains Framework [<a href=""#B34"">34</a>].",0,0,N,0,N,N,0,N,0,0,0
+141,"However, given that the participants were treatment naïve, after using their eye drops in daily life, their underlying behavioural processes may have altered.",0,0,N,0,N,N,0,N,0,0,0
+142,"For example, the domain called beliefs about capabilities, is particularly susceptible to change after the participant has experienced using their eye drops.",0,0,N,0,N,N,0,N,0,0,0
+143,"Whilst the participant may have felt empowered and capable within the clinic environment, the home environment may present new unanticipated challenges.",0,0,N,0,N,N,0,N,0,0,0
+144,It may therefore be appropriate for a subsequent study to include a second consultation perhaps targeted at non-adherent participants.,0,0,N,0,N,N,0,N,0,0,0
+145,"In so far as the authors know, the present study is the first that has attempted to report 8-months of follow-up using a TDA.",0,0,N,0,N,N,0,N,0,0,0
+146,"Previous studies have reported that the TDA accurately records drop administration, but the longest of these studies was for only a 3-month duration [<a href=""#B35"">35</a>-<a href=""#B37"">37</a>].",0,0,N,0,N,N,0,N,0,0,0
+147,"At month 2 only 10% of the TDA was missing, which suggests it was the longevity of the present study that lead to the high failure of the TDA.",0,0,N,0,N,N,0,N,0,0,0
+148,"Whilst the failure of the TDA increased the uncertainty around the adherence estimate, there was no evidence that the failure of the TDA differed between those who were adherent and those who were not, and thus did not bias the results.",0,0,N,0,N,N,0,N,0,0,0
+149,"Reduction of IOP did not correlate with TDA measured adherence, most likely due to limitations of the methodological approach and the pharmacodynamics of prostaglandin analogues, rather than conclusive evidence that the intervention failed to improve IOP control.",0,0,N,0,N,N,0,N,0,0,0
+150,"However, previous studies using similar methods have also found that IOP reduction had no relationship to adherence [<a href=""#B13"">13</a>,<a href=""#B37"">37</a>].",0,0,N,0,N,N,0,N,0,0,0
+151,"Assessing IOP due to individual differences (types of glaucoma and diurnal variance) together with regression to the mean, led to ‘noisy data’ [<a href=""#B38"">38</a>,<a href=""#B39"">39</a>].",0,0,N,0,N,N,0,N,0,0,0
+152,"Better measures of both adherence and clinical outcomes are needed for future glaucoma research, but what these might be, remains difficult to establish.",0,0,N,0,N,N,0,N,0,0,0
+153,"Contrary to evidence from previous studies, whilst the NAGS intervention group were more satisfied with information received about travoprost, this had no measurable effect on adherence which may be due to any number of the reasons already discussed.",0,0,N,0,N,N,0,N,0,0,0
+154,"Since the most marked difference between intervention and control groups related to potential problems of using travoprost, standard care would appear to require greater information provision with respect to these aspects, but whether this would improve adherence has not been established.",0,0,N,0,N,N,0,N,0,0,0
+155,The increase over time in information satisfaction demonstrated by the control group is interesting and suggests that patients seek/obtain information from additional sources post treatment initiation or that the desire for information declines.,0,0,N,0,N,N,0,N,0,0,0
+156,The NAGS cost effectiveness analysis was based upon improvement in adherence between the two groups and as such the data were dominated by the control treatment.,0,0,N,0,N,N,0,N,0,0,0
+157,Utilising a quality-adjusted life-years (QALY) analysis to measure the impact of the intervention on health may have provided useful additional information.,0,0,N,0,N,N,0,N,0,0,0
+158,"However, generic preference instruments such as the Sickness Impact Profile and Short Form Health Survey-6D were not considered specific enough to detect the asymptomatic nature of glaucoma in its early stages.",0,0,N,0,N,N,0,N,0,0,0
+159,"Furthermore, it is unlikely that glaucoma specific tools would detect patient quality of life changes associated with early stages of disease in an 8 month period of follow-up, since in the majority of treated and monitored patients, disease progression is slow [<a href=""#B40"">40</a>-<a href=""#B42"">42</a>].",0,0,N,0,N,N,0,N,0,0,0
+160,There is little published evidence to suggest that adherence interventions can consistently improve adherence to medication within the resources available in clinical settings.,0,0,N,0,N,N,0,N,0,0,0
+161,"Interventions are commonly led by research teams which cannot easily be translated into clinical practice [<a href=""#B22"">22</a>].",0,0,N,0,N,N,0,N,0,0,0
+162,"However, in this study the intervention was led by specialist nurses and allied health professionals already working within the hospital eye service.",0,0,N,0,N,N,0,N,0,0,0
+163,"The economic costs associated with the provision of the intervention were also based upon local costs, which provided a more realistic consideration of associated costs.",0,0,N,0,N,N,0,N,0,0,0
+164,"Whilst this gave confidence in the ease as to how such an intervention could be incorporated into clinical practice and its relative cost, ensuring that there was no contamination between allied health professionals who worked in the Eye Clinic (and had received enhanced training in motivational interviewing skills), was more problematic.",0,0,N,0,N,N,0,N,0,0,0
+165,"Every effort was made to ensure that participants did not come into contact with GSAs during their follow-up period, but it was not possible to account for any influences these staff and the study itself had on routine practices of all clinical staff during the study period.",0,0,N,0,N,N,0,N,0,0,0
+166,"The results of the present study relate to a relatively affluent, primarily white British population prescribed glaucoma mono-therapy, and may not be generalisable to other populations that may have different cultural practices.",0,0,N,0,N,N,0,N,0,0,0
+167,"Mono-therapy is also thought to aid adherence, with more complex regimens being problematic for patients, [<a href=""#B7"">7</a>,<a href=""#B43"">43</a>] so the results should not be extrapolated to patients prescribed dual or multiple therapies.",0,0,N,0,N,N,0,N,0,0,0
+168,It would be of value to study the effect of the present intervention on a population expected to have lower adherence and using multiple topical anti-glaucoma therapies.,0,0,N,0,N,N,0,N,0,0,0
+169,"Whilst a standardised measure for adherence remains undefined, studies continue to produce heterogeneous adherence results which may be due to variations in adherence measurement, duration of monitoring and definition of adherence.",0,0,N,0,N,N,0,N,0,0,0
+170,"In the present study, we used multiple measures and reporting methods of adherence which provided consistent findings and ensured that comparisons could be made with studies of shorter duration and those using differing statistical analyses.",0,0,N,0,N,N,0,N,0,0,0
+171,"In conclusion, the present study did not demonstrate improved adherence with a behaviour change intervention, despite the intervention producing high levels of patient satisfaction.",0,0,N,0,N,N,0,N,0,0,0
+172,"However, whilst previous negative results have often been under-reported in favour of studies with significant findings [<a href=""#B44"">44</a>] publication of this study, which was informed by theory plus empirical evidence and adhering to rigorous study methods, is therefore of significance to researchers and health professionals in this field.",0,0,N,0,N,N,0,N,0,0,0
+173,The model described in the present study requires further development as a potential service to give better support to patients prescribed topical glaucoma therapy.,0,0,N,0,N,N,0,N,0,0,0
+174,"However, measurement of adherence itself and determination of the long-term clinical benefits of improving adherence remain problematic.",0,0,N,0,N,N,0,N,0,0,0
+175,"In particular, further research is required to determine the size of any Hawthorne effects.",0,0,N,0,N,N,0,N,0,0,0
+176,"Whilst a standardised and accurate measure for adherence remains undefined, future adherence studies may benefit from utilising multiple methods to quantify and classify adherence in parallel to help clarify true adherence levels.",0,0,N,0,N,N,0,N,0,0,0
+177,The authors declare that they have no competing interests.,0,0,N,0,N,N,0,N,0,0,0
+178,"HC, DB, DCB, AC, RF, RH conceived of the study, and participated in its design and coordination and helped to draft the manuscript.",0,0,N,0,N,N,0,N,0,0,0
+179,AC also performed the statistical analysis.,0,0,N,0,N,N,0,N,0,0,0
+180,RF also advised on the health economic analysis.,0,0,N,0,N,N,0,N,0,0,0
+181,All authors read and approved the final manuscript.,0,0,N,0,N,N,0,N,0,0,0
+182,The pre-publication history for this paper can be accessed here:,0,0,N,0,N,N,0,N,0,0,0
+183,http://www.biomedcentral.com/1471-2415/14/32/prepub,0,0,N,0,N,N,0,N,0,0,0
+184,"The authors thank Jenny Lacey, for her contribution to the study design/implementation and Barbara Talbot and Michael Cudby for their contribution to the project as patient and public representatives.",0,0,N,0,N,N,0,N,0,0,0
+185,"The authors also wish to thank the optometrists, clinical practitioners and ophthalmologists working in the Norfolk and Norwich University Hospital NHS Foundation Trust Eye Clinic during the recruitment period who referred patients.",0,0,N,0,N,N,0,N,0,0,0
+186,The present paper presents independent research commissioned by the National Institute for Health Research (NIHR) under its Research for Patient Benefit (RfPB) Programme (Grant Reference Number PB-PG-1207-14119).,0,0,N,0,N,N,0,N,0,0,0
+187,"The views expressed are those of the authors and not necessarily those of the NHS, the NIHR or the Department of Health.",0,0,N,0,N,N,0,N,0,0,0
+188,Neither the sponsor nor funding organization had any role in the design or conduct of this research.,0,0,N,0,N,N,0,N,0,0,0
+189,"Alcon Laboratories Inc., Forth Worth, TX, USA, supplied the Travalert<span class=""bold""><span class=""italic"">®</span></span> Dosing Aid but the organization had no role in the design or conduct of this research.",0,0,N,0,N,N,0,N,0,0,0
+190,"Articles from BMC Ophthalmology are provided here courtesy of <span class=""bold"">BioMed Central",0,0,N,0,N,N,0,N,0,0,0
+191,PMC Copyright Notice,0,0,N,0,N,N,0,N,0,0,0
+192,"The articles available from the PMC site are protected by copyright, even though access is free.",0,0,N,0,N,N,0,N,0,0,0
+193,Copyright is held by the respective authors or publishers who provide these articles to PMC.,0,0,N,0,N,N,0,N,0,0,0
+194,Users of PMC are responsible for complying with the terms and conditions defined by the copyright holder.,0,0,N,0,N,N,0,N,0,0,0
+195,"Users should assume that standard copyright protection applies to articles in PMC, unless an article contains an explicit license statement that gives a user additional reuse or redistribution rights.",0,0,N,0,N,N,0,N,0,0,0
+196,PMC does not allow automated/bulk downloading of articles that have standard copyright protection.,0,0,N,0,N,N,0,N,0,0,0
+197,"See the copyright notice on the PMC site, <a href=""https://www.ncbi.nlm.nih.gov/pmc/about/copyright/"">https://www.ncbi.nlm.nih.gov/pmc/about/copyright/</a>, for further details and specific exceptions.",0,0,N,0,N,N,0,N,0,0,0

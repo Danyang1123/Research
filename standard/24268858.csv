@@ -1,0 +1,201 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,To compare the efficacy and safety between low-fluence photodynamic therapy (PDT) and the intravitreal ranibizumab in the treatment of chronic central serous chorioretinopathy (CSC).,0,0,N,N,N,N,0,0,0,0,0
+1,"Prospective, randomized, single-center, parallel-arm, controlled trial.",0,0,N,N,N,N,0,0,0,0,0
+2,Thirty-four eyes of 32 patients with chronic CSC with >6 months' duration of symptoms or recurrent CSC were randomly placed into the low-fluence PDT group (n = 18) or the ranibizumab group (n = 16).,0,0,N,N,N,N,0,0,0,0,0
+3,The patients underwent a single session of low-fluence PDT or 3 consecutive monthly injections of ranibizumab.,1,0,N,N,N,N,1,0,1,0,0
+4,Rescue treatment was available from month 3 if the subretinal fluid (SRF) persisted or recurred after primary treatment; low-fluence PDT was given to the ranibizumab group and intravitreal ranibizumab to the low-fluence PDT group.,0,0,N,N,N,N,0,0,0,0,0
+5,The primary outcome was the proportion of eyes with complete resolution of SRF without rescue treatment.,0,0,N,N,N,N,0,0,0,0,0
+6,"Secondary outcomes included the mean changes in logarithm of the minimum angle of resolution best-corrected visual acuity (BCVA), central retinal thickness (CRT), and angiographic findings from baseline to 12 months.",0,0,N,N,N,N,0,0,0,0,0
+7,"At month 12, 16 eyes (88.9%) of the low-fluence PDT group maintained complete resolution of SRF without rescue treatment versus 2 eyes (12.5%) in the ranibizumab group (P <0.001).",0,0,N,N,N,N,0,1,0,1,1
+8,Two eyes (11.1%) in the low-fluence PDT group and 11 eyes (68.8%) in the ranibizumab group met the criteria for rescue treatment (P = 0.001).,0,0,N,N,N,N,0,1,0,1,1
+9,"In the low-fluence PDT group, the mean decrease in CRT from baseline was significantly greater than that in the ranibizumab group until month 6 (P <0.05), but the differences became insignificant thereafter.",0,0,N,N,N,N,0,1,0,1,1
+10,"The improvement in BCVA from baseline was superior in the low-fluence PDT group to that in the ranibizumab group, but the differences were not statistically significant except at month 3 (P = 0.025).",0,0,N,N,N,N,0,1,0,1,1
+11,"On indocyanine green angiography, a significantly greater proportion of the low-fluence PDT group (16 eyes; 88.9%) showed a marked reduction in choroidal hyperpermeability after primary treatment than that of the ranibizumab group (0 eyes; P <0.001).",0,0,N,N,N,N,0,1,0,1,1
+12,No serious adverse events related to the drugs or procedures were observed.,0,0,N,N,N,N,0,0,0,0,0
+13,This study represents the overall superiority of low-fluence PDT compared with intravitreal ranibizumab in the treatment of chronic CSC.,0,0,N,N,N,N,0,0,0,0,0
+14,Chronic central serous chorioretinopathy (CSC) is characterized by long-standing serous neurosensory detachment and diffuse decompensation of the retinal pigment epithelium (RPE).,0,0,N,N,N,N,0,0,0,0,0
+15,"Gass postulated that choroidal vascular hyperpermeability is the main cause of CSC, which results in damage to the overlying RPE and the subsequent serous retinal detachment.",0,0,N,N,N,N,0,0,0,0,0
+16,"Increased use of indocyanine green angiography (ICGA) has provided evidence of choroidal circulatory disturbances in the development of CSC, such as hyperpermeability from choriocapillaries,along with venous dilation and vascular congestion.",0,0,N,N,N,N,0,0,0,0,0
+17,"Although the acute form of CSC is generally a self-limited disease with a favorable natural course, patients with chronic CSC may experience permanent visual deterioration owing to persistent or recurrent serous detachment, which leads to foveal atrophy, RPE degeneration, cystoid retinal degeneration, or choroidal neovascularization (CNV).1 Until now, several interventions have been proposed to treat chronic CSC.",0,0,N,N,N,N,0,0,0,0,0
+18,"Photodynamic therapy (PDT) with verteporfin (Visudyne; Novartis AG, Basel, Switzerland) has been reported to be efficacious in the treatment of chronic CSC.Photodynamic therapy is considered to be effective by inducing short-term choroidal hypoperfusion and long-term choroidal vascular remodeling, leading to the reduction of choroidal exudation.However, several adverse events (AEs) may develop after conventional PDT, such as RPE atrophy, persistent choriocapillaris hypoperfusion, and secondary CNV at the treated area.To improve the safety of PDT, the protocol for PDT has been modified to include a half-dose of verteporfin,a shortened duration of laser emission,and a reduced fluence rate.The modified PDT demonstrated merits in safety over the conventional PDT with favorable treatment outcomes for chronic CSC.",0,0,N,N,N,N,0,0,0,0,0
+19,Several recent studies speculated that anti-vascular endothelial growth factor (VEGF) therapy might lead to the resolution of subretinal fluid (SRF) in CSC by reducing choroidal vascular hyperpermeability based on its antipermeability properties.These case series of bevacizumab reported variable success rates ranging from 40% to 80%.,0,0,N,N,N,N,0,0,0,0,0
+20,"However, the published results of ranibizumab (Lucentis; Novartis Pharma AG) in the treatment of chronic CSC are limited.",0,0,N,N,N,N,0,0,0,0,0
+21,"Our previously reported pilot study showing a relatively low success rate at 6 months after primary treatment in the ranibizumab group (25%) compared with the low-fluence PDT group (75%) has provided some insight into the effect of ranibizumab compared with that of low-fluence PDT in the treatment of chronic CSC.In this study, we report the extended results of this pilot study to a 12-month randomized, controlled trial designed to compare the efficacy and safety outcomes between low-fluence PDT and intravitreal injections of ranibizumab in the treatment of chronic CSC.",0,0,N,N,N,N,0,0,0,0,0
+22,"This prospective, single-center, randomized, parallel-arm, 1-year, controlled clinical trial of the patients with chronic CSC was prospectively approved by the Institutional Review Board and Ethics Committee at Seoul National University Hospital and the Korean Food and Drug Administration.",1,1,N,N,N,N,1,0,1,0,0
+23,The study was conducted in accordance with the tenets of the Declaration of Helsinki.,1,0,N,N,N,N,1,0,1,0,0
+24,"Written, informed consent was obtained from each participant before enrollment.",1,0,N,N,N,N,1,0,1,0,0
+25,"This study was registered at clinicaltrial.gov as NCT01325181 on March 27, 2011 (accessed April 7, 2013).",1,0,N,N,N,N,1,0,1,0,0
+26,This study enrolled patients aged ≥18 years with chronic CSC with visual disturbance persisting for >6 months or recurrent CSC.,0,0,N,N,N,N,0,0,0,0,0
+27,Recurrent CSC was defined as the recurrence of serous retinal detachment on optical coherence tomography (OCT) associated with visual symptoms after complete recovery of ocular manifestations; the first episode occurred >6 months before screening and the current episode persisted >3 months with sustained SRF on OCT.,0,0,N,N,N,N,0,0,0,0,0
+28,"The inclusion criteria were (1) best-corrected visual acuity (BCVA) between 0.0 and 1.0 logarithm of the minimal angle of resolution (logMAR), (2) the presence of subfoveal fluid persisting for ≥3 months on OCT, (3) presence of multifocal/diffuse RPE decompensation with leakage on the fluorescein angiography (FA), and (4) choroidal vascular hyperpermeability and abnormal dilation of the choroidal vasculature on the indocyanine green angiography (ICGA).",0,0,N,N,N,N,0,0,0,0,0
+29,"The exclusion criteria were (1) history of treatment including PDT, focal laser photocoagulation, intravitreal injection of steroid or anti-VEGF agent in the study eye; (2) evidence of CNV or polypoidal choroidal vasculopathy; (3) any other ocular diseases that can affect visual acuity, including diabetic retinopathy, retinal vascular occlusion, or ocular inflammatory diseases; (4) media opacity that interferes with adequate image acquisition; (5) history of any intraocular surgery except uncomplicated cataract surgery >3 months before enrollment; (6) history of systemic steroid or anti-VEGF treatment in the preceding 12 months; (7) uncontrolled glaucoma with intraocular pressure >21 mmHg despite treatment; (8) uncontrolled hypertension, diabetes, or history of cerebrovascular accident or myocardial infarction; and (9) pregnancy.",0,0,N,N,N,N,0,0,0,0,0
+30,"Patients were randomized to receive low-fluence PDT or the intravitreal injections of ranibizumab with an equal allocation ratio by means of permuted block randomization (Fig 1, available at http://aaojournal.org.).",0,1,N,N,N,N,0,0,0,0,0
+31,Subjects and the treating ophthalmologist (S.H.B.),0,0,N,N,N,N,0,0,0,0,0
+32,were not masked to the treatment modalities.,0,0,N,N,N,N,0,0,0,0,0
+33,"and the other examiners for BCVA measurement, OCT, FA, and ICGA were masked to treatment allocation.",0,0,N,N,N,N,0,0,0,0,0
+34,"At screening, ocular and medical histories were recorded and vital signs measured.",0,0,N,N,N,N,0,0,0,0,0
+35,"Ophthalmologic examinations were performed at baseline and then monthly thereafter until 12 months, including assessment of BCVA, applanation tonometry, slit-lamp examination of the anterior segment, and dilated fundus examinations.",0,0,N,N,N,N,0,0,0,0,0
+36,"The masked examiners assessed BCVA using the Early Treatment of Diabetic Retinopathy Study charts at 4 m. The masked technicians performed spectral-domain OCT (Cirrus; Carl Zeiss Meditec AG, Jena, Germany) imaging monthly.",0,0,N,N,N,N,0,0,0,0,0
+37,"At baseline and every 3 months thereafter, they performed FA and ICGA (Heidelberg Retina Angiography; Heidelberg Engineering, Heidelberg, Germany).",0,0,N,N,N,N,0,0,0,0,0
+38,The masked investigator (J.H.),0,0,N,N,N,N,0,0,0,0,0
+39,evaluated the findings of the OCT and angiography.,0,0,N,N,N,N,0,0,0,0,0
+40,The presence of SRF and pigment epithelial detachment were evaluated through 5-line raster scans of the OCT. Central retinal thickness (CRT) was measured with the Macular Cube 512 × 128 mode of the spectral-domain OCT.,0,0,N,N,N,N,0,0,0,0,0
+41,"The status of the RPE was evaluated, including RPE depigmentation or atrophy based on the fundus examination and FA findings.",0,0,N,N,N,N,0,0,0,0,0
+42,We recorded AEs at each visit and whether they were related to the treatment.,0,0,N,N,N,N,0,0,0,0,0
+43,"During the follow-up period, ocular surgeries such as cataract surgery and laser treatment in the study eye were not permitted.",0,0,N,N,N,N,0,0,0,0,0
+44,The allocated treatments were initiated within 14 days of screening.,0,0,N,N,N,N,0,0,0,0,0
+45,All procedures of low-fluence PDT and intravitreal injections were conducted by the unmasked treating ophthalmologist (S.H.B.).,0,0,N,N,N,N,0,0,0,0,0
+46,"In the low-fluence PDT group, verteporfin was administered intravenously at a dose of 6 mg/m2 over 10 minutes.",0,0,N,N,N,N,0,0,0,0,0
+47,"Fifteen minutes after the start of infusion, the laser light at 689 nm was delivered for 83 seconds with a reduced light dose of 25 J/cm2 and an intensity of 300 mW/cm2.",0,0,N,N,N,N,0,0,0,0,0
+48,The size of the PDT spot was determined as the greatest linear dimension of the choroidal hyperpermeable lesion responsible for the subfoveal fluid.,0,0,N,N,N,N,0,0,0,0,0
+49,"To avoid unnecessary irradiation of large areas, a separate laser spot was applied consecutively without overlap in cases with multifocal lesions of choroidal hyperpermeability responsible for the subfoveal fluid.",0,0,N,N,N,N,0,0,0,0,0
+50,"If the multifocal lesions were too close to irradiate separately, a single spot was delivered, covering the whole area of choroidal hyperpermeability.",0,0,N,N,N,N,0,0,0,0,0
+51,"In the ranibizumab group, 0.5 mg/0.05 ml of ranibizumab was administered into the vitreous cavity under sterile conditions.",0,0,N,N,N,N,0,0,0,0,0
+52,Three consecutive injections of ranibizumab were performed at baseline and months 1 and 2.,0,0,N,N,N,N,0,0,0,0,0
+53,"If the SRF was entirely absorbed before completion of 3 consecutive injections, the scheduled injections were stopped.",0,0,N,N,N,N,0,0,0,0,0
+54,"The need for rescue treatment was determined based on the BCVA and OCT findings, beginning at month 3.",0,0,N,N,N,N,0,0,0,0,0
+55,"As a rescue treatment, a single session of low-fluence PDT was available for the ranibizumab group, and ≤3 ranibizumab injections for the low-fluence PDT group.",0,0,N,N,N,N,0,0,0,0,0
+56,"Rescue treatment was determined if any of the following criteria was satisfied: (1) a visual acuity loss of ≥0.2 logMAR with persistent subfoveal fluid on the OCT, (2) evidence of persistent subfoveal fluid on the OCT without evident reduction of the SRF from the prior visit, or (3) in recurrent cases, persistent fluid in 2 sequential visits without any evident reduction.",0,0,N,N,N,N,0,0,0,0,0
+57,"After completion of the allowed rescue treatment, additional treatments were not conducted even if the criteria for rescue treatment were met.",0,0,N,N,N,N,0,0,0,0,0
+58,Outcome Measures and Statistical Analysis,0,0,N,N,N,N,0,0,0,0,0
+59,The primary efficacy outcome was the proportion of eyes that maintained the complete absorption of the SRF until 12 months without any rescue treatment.,0,0,N,N,N,N,0,0,0,0,0
+60,"Secondary outcome measurements included serial changes from baseline of (1) the mean change in logMAR BCVA, (2) the mean change in CRT obtained by OCT, (3) the proportion of eyes with resolved leakage on the FA, (4) the proportion of eyes with resolved choroidal hyperpermeability on the ICGA, and (5) the fluid-free interval, which was defined as the interval between the time when the SRF was completely absorbed without any rescue treatment and when reaccumulation of the fluid occurred.",0,0,N,N,N,N,0,0,0,0,0
+61,"To calculate the sample size, it was assumed that 95% of low-fluence PDT–treated subjects would achieve complete absorption of the SRF at month 12.",0,0,N,N,N,N,0,0,0,0,0
+62,"Powering for the ranibizumab group was based on the studies of bevacizumab for chronic CSC that reported an estimated rate of complete fluid absorption of 50%.With a 2-sided significance level of 0.05 and a study power of 80%, a total of 34 eyes were calculated assuming 10% losses to follow-up (17 eyes in each treatment group).",0,0,N,N,N,N,0,0,0,0,0
+63,Statistical analysis was based on the treatment groups according to the initial randomization.,0,0,N,N,N,N,0,0,0,0,0
+64,Continuous variables between the 2 groups were analyzed using the Mann–Whitney U test.,0,0,N,N,N,N,0,0,0,0,0
+65,The comparisons of categorical variables were performed using chi-square or Fisher exact test.,0,0,N,N,N,N,0,0,0,0,0
+66,Serial comparisons of the mean BCVA and CRT were conducted using Wilcoxon signed-rank test.,0,0,N,N,N,N,0,0,0,0,0
+67,The analysis was performed using the intention-to-treat principle.,0,0,N,N,N,N,0,0,0,0,0
+68,The intention-to-treat population comprised all randomized subjects.,0,0,N,N,N,N,0,0,0,0,0
+69,The last observation carried forward method was used to impute missing values for the intention-to-treat population for measurement outcomes.,0,0,N,N,N,N,0,0,0,0,0
+70,"SPSS software version 15.0 (SPSS, Inc., Chicago, IL) was used for data analysis.",0,0,N,N,N,N,0,0,0,0,0
+71,P < 0.05 was considered significant.,0,0,N,N,N,N,0,0,0,0,0
+72,"Thirty-four eyes from 32 patients with chronic CSC were enrolled, of which 18 eyes (52.9%) were randomly placed into the low-fluence PDT group and 16 eyes (47.1%) into the ranibizumab group.",0,0,N,N,N,N,0,0,0,0,0
+73,All 18 eyes in the low-fluence PDT group completed the 12 months of follow-up.,0,0,N,N,N,N,0,0,0,0,0
+74,"In the ranibizumab group, 2 patients were lost to follow-up at months 4 and 8 owing to refusal of rescue treatment.",0,0,N,N,N,N,0,0,0,0,0
+75,"The mean age of the patients was 50.8±7.7 years (range, 35–65 years), with 26 male (81.3%) and 6 female (18.8%) patients.",0,0,N,N,N,N,0,0,0,0,0
+76,"The mean logMAR BCVA was 0.37±0.21 (range, 0.0–0.84) and the mean CRT was 301.5±54.6 μm (range, 220–430 μm) at baseline.",0,0,N,N,N,N,0,0,0,0,0
+77,Seven eyes (20.6%) had pigment epithelial detachment.,0,0,N,N,N,N,0,0,0,0,0
+78,The demographic and baseline characteristics of the 2 treatment groups are summarized in Table 1.,0,0,N,N,N,N,0,0,0,0,0
+79,"The treatment groups were generally balanced for the baseline characteristics including age, sex, duration of symptoms, baseline logMAR BCVA, and baseline CRT.",0,0,N,N,N,N,0,0,0,0,0
+80,"The mean size of the PDT spot in the low-fluence PDT group was 2550.0±895.9 μm (range, 1600–4500 μm).",0,0,N,N,N,N,0,0,0,0,0
+81,Baseline Demographic Characteristics of Patients with Chronic Central Serous Chorioretinopathy Treated Either with Low-Fluence Photodynamic Therapy or Intravitreal Ranibizumab,0,0,N,N,N,N,0,0,0,0,0
+82,Complete Resolution of Subretinal Fluid,0,0,N,N,N,N,0,0,0,0,0
+83,"In the low-fluence PDT group, 16 of the 18 eyes (88.9%) had resolution of fluid after low-fluence PDT: 14 eyes at month 1 and 2 eyes at month 2.",0,0,N,N,N,N,0,0,0,0,0
+84,All patients with resolved fluid maintained complete resolution of the SRF until the end of the study.,0,0,N,N,N,N,0,0,0,0,0
+85,The remaining 2 eyes (11.1%) with persistent SRF met the requirements for rescue treatment and underwent 3 ranibizumab injections.,0,0,N,N,N,N,0,0,0,0,0
+86,"Subsequently, 1 eye had absorption of SRF at month 12 after completion of 3 injections, whereas the other showed persistent SRF despite ranibizumab treatment.",0,0,N,N,N,N,0,0,0,0,0
+87,"In the ranibizumab group, 5 of 16 eyes (31.3%) had resolution of the SRF after ranibizumab injections: 3 eyes at month 1 after a single ranibizumab injection and 2 eyes at month 2 after 2 consecutive injections.",0,0,N,N,N,N,0,0,0,0,0
+88,"However, the SRF recurred in 3 of the 5 eyes (60%), with 1 eye requiring rescue treatment of low-fluence PDT and achieving resolution of SRF until the end of the study.",0,0,N,N,N,N,0,0,0,0,0
+89,The remaining 2 eyes with recurrent fluid did not satisfy the requirements for rescue treatment; 1 eye showed reaccumulation of fluid at month 12 and the other at month 10 with a fluctuating pattern of fluid amount thereafter.,0,0,N,N,N,N,0,0,0,0,0
+90,"Among the 11 of the 16 eyes (68.8%) with persistent SRF after completion of the ranibizumab injections, 10 eyes met the criteria for rescue treatment, of which 2 refused subsequent low-fluence PDT.",0,0,N,N,N,N,0,0,0,0,0
+91,The remaining 1 eye with sustained fluid did not satisfy the requirements for rescue treatment because of a fluctuating pattern of fluid amount.,0,0,N,N,N,N,0,0,0,0,0
+92,"Of the 8 eyes that underwent rescue low-fluence PDT, 7 achieved resolution of fluid until the end of the study, but 1 showed reaccumulated fluid 4 months after low-fluence PDT.",0,0,N,N,N,N,0,0,0,0,0
+93,The treatment progress is summarized in Fig 2.,0,0,N,N,N,N,0,0,0,0,0
+94,Flow chart of treatment progress.,0,0,N,N,N,N,0,0,0,0,0
+95,CSC = central serous chorioretinopathy; PDT = photodynamic therapy; Tx = treatment.,0,0,N,N,N,N,0,0,0,0,0
+96,*Two of 3 patients refused rescue treatment and 1 did not meet the criteria for rescue treatment.,0,0,N,N,N,N,0,0,0,0,0
+97,†All patients did not meet the criteria for rescue treatment.,0,0,N,N,N,N,0,0,0,0,0
+98,"In the comparisons between the 2 treatment groups, a greater proportion of the low-fluence PDT group (16 eyes [88.9%]) had complete resolution of the SRF after primary treatment than that of the ranibizumab group (5 eyes [31.3%]; P = 0.001).",0,0,N,N,N,N,0,0,0,0,0
+99,A significantly greater proportion of the ranibizumab group (11 eyes [68.8%]) met the criteria for rescue treatment than that of the low-fluence PDT group (2 eyes [11.1%]; P = 0.001).,0,0,N,N,N,N,0,0,0,0,0
+100,"Rescue treatment was conducted in 2 eyes of the low-fluence PDT group at 4.0±1.4 months (months 3 and 5, respectively) and in 9 eyes of the ranibizumab group at 4.8±1.4 months (2 eyes each at months 3, 4, 5, and 6 and 1 eye at month 7; P = 0.494).",0,0,N,N,N,N,0,0,0,0,0
+101,"At month 12, the presence of SRF was more frequent in the ranibizumab group (5 eyes [31.3%]) compared with that in the low-fluence PDT group (1 eye [5.6%]; P = 0.078).",0,0,N,N,N,N,0,0,0,0,0
+102,The mean fluid-free interval was significantly shorter in the ranibizumab group (2.9±4.5 months) than that in the low-fluence PDT group (9.7±3.5 months; P < 0.001).,0,0,N,N,N,N,0,0,0,0,0
+103,"Sixteen of the 18 eyes (88.9%) in the low-fluence PDT group maintained complete absorption of the SRF without rescue treatment until the completion of the study, whereas only 2 of the 16 eyes (12.5%) in the ranibizumab group (P < 0.001) maintained no SRF (Fig 3).",0,0,N,N,N,N,0,0,0,0,0
+104,Proportion of patients that maintained complete resolution of subretinal fluid (SRF) without rescue treatment after either low-fluence photodynamic therapy (PDT) or intravitreal ranibizumab injection in chronic central serous chorioretinopathy.,0,0,N,N,N,N,0,0,0,0,0
+105,Changes in Central Retinal Thickness,0,0,N,N,N,N,0,0,0,0,0
+106,"In the low-fluence PDT group, the reduction of CRT within 1 and 3 months after primary treatment was 94.3±47.3 and 97.5±51.3 μm, respectively.",0,0,N,N,N,N,0,0,0,0,0
+107,"In the ranibizumab group, there was a reduction in CRT by 36.9±66.8 and 33.4±79.3 μm within 1 and 3 months, respectively.",0,0,N,N,N,N,0,0,0,0,0
+108,Comparisons between the 2 groups revealed a significantly greater reduction in CRT from baseline in the low-fluence PDT group than that in the ranibizumab group up to 5 months (P < 0.05); the decrease in CRT from baseline ranged from 92% to 97.5% of the total reduction in CRT in the low-fluence PDT group and from 43.7% to 51.9% in the ranibizumab group during 5 months.,0,0,N,N,N,N,0,0,0,0,0
+109,"From month 6, the changes in CRT from baseline became statistically insignificant between the treatment groups (P > 0.05); the reduction in CRT from baseline to month 12 was 102.4±42.1 μm in the low-fluence PDT group and 71.1±55.0 μm in the ranibizumab group (P = 0.091).",0,0,N,N,N,N,0,0,0,0,0
+110,The mean CRT in the low-fluence PDT group was significantly reduced at each follow-up visit compared with the baseline value (P < 0.001).,0,0,N,N,N,N,0,0,0,0,0
+111,"In the ranibizumab group, there was no reduction in mean CRT compared with the baseline value until month 6 (P > 0.05).",0,0,N,N,N,N,0,0,0,0,0
+112,"Then, from month 6 to month 12, the mean CRT was significantly reduced compared with the baseline (P < 0.05).",0,0,N,N,N,N,0,0,0,0,0
+113,"When comparing between the 2 groups, the eyes in the ranibizumab group showed a significantly thicker mean CRT than those in the low-fluence PDT group at months 1 and 3 (P = 0.013 and 0.038, respectively), but the differences became insignificant thereafter (P > 0.05).",0,0,N,N,N,N,0,0,0,0,0
+114,"The time course of changes in CRT from baseline is shown in Fig 4, and the serial mean values of CRT over time are presented in Table 2.",0,0,N,N,N,N,0,0,0,0,0
+115,The changes in central retinal thickness from baseline through the 12 months' follow-up of patients with chronic serous chorioretinopathy treated with either low-fluence photodynamic therapy (PDT) or intravitreal ranibizumab injections.,0,0,N,N,N,N,0,0,0,0,0
+116,Circles and triangles indicate mean values.,0,0,N,N,N,N,0,0,0,0,0
+117,Vertical lines indicate 1 standard error of the means.,0,0,N,N,N,N,0,0,0,0,0
+118,Asterisks denote significant differences (P < 0.05) between the 2 groups at each follow-up visit.,0,0,N,N,N,N,0,0,0,0,0
+119,Mean Central Retinal Thickness in Patients with Chronic Central Serous Chorioretinopathy Treated with Either Low-Fluence Photodynamic Therapy or Intravitreal Ranibizumab for 12 Months,0,0,N,N,N,N,0,0,0,0,0
+120,Changes in Best-Corrected Visual Acuity,0,0,N,N,N,N,0,0,0,0,0
+121,"In the low-fluence PDT group, there was a logMAR BCVA improvement of 0.16±0.22 and 0.25±0.19 at months 1 and 3, respectively, after low-fluence PDT.",0,0,N,N,N,N,0,0,0,0,0
+122,"In the ranibizumab group, there was a logMAR BCVA improvement of 0.10±0.13 and 0.12±0.16 at months 1 and 3, respectively, after the first ranibizumab injection.",0,0,N,N,N,N,0,0,0,0,0
+123,"When comparing the 2 groups, the change in logMAR BCVA from baseline was significantly greater in the low-fluence PDT group than that in the ranibizumab group at month 3 (P = 0.025); the change in logMAR BCVA from baseline to month 3 was 96.2% of the total improvement in the low-fluence PDT group and it was 61.6% in the ranibizumab group.",0,0,N,N,N,N,0,0,0,0,0
+124,"However, the changes in logMAR BCVA from baseline became similar thereafter; the improvement in logMAR BCVA from baseline to month 12 was 0.26±0.22 and 0.19±0.19 in the low-fluence PDT group and ranibizumab group, respectively (P = 0.293).",0,0,N,N,N,N,0,0,0,0,0
+125,"The mean logMAR BCVA was significantly improved at month 1 compared with the baseline values in both groups (P = 0.013 and 0.004, respectively).",0,0,N,N,N,N,0,0,0,0,0
+126,"Thereafter, the mean BCVA continued to gradually improve until the completion of the study in each treatment group.",0,0,N,N,N,N,0,0,0,0,0
+127,There was no difference in the mean logMAR BCVA between the 2 groups at each follow-up visit (P > 0.05).,0,0,N,N,N,N,0,0,0,0,0
+128,"The changes in logMAR BCVA from baseline are shown in Fig 5, and the serial mean values of logMAR BCVA over time are presented in Table 3.",0,0,N,N,N,N,0,0,0,0,0
+129,Changes in best-corrected visual acuity (BCVA) from baseline through the 12 months' follow-up of patients with chronic central serous chorioretinopathy treated with either low-fluence photodynamic therapy (PDT) or intravitreal ranibizumab injections.,0,0,N,N,N,N,0,0,0,0,0
+130,Circles and triangles indicate mean values.,0,0,N,N,N,N,0,0,0,0,0
+131,Vertical lines indicate 1 standard error of the means.,0,0,N,N,N,N,0,0,0,0,0
+132,Asterisks denote significant differences (P < 0.05) between the 2 groups at each follow-up visit.,0,0,N,N,N,N,0,0,0,0,0
+133,logMAR = logarithm of the minimal angle of resolution.,0,0,N,N,N,N,0,0,0,0,0
+134,Mean Best-Corrected Visual Acuity in Patients with Chronic Central Serous Chorioretinopathy Treated with Either Low-Fluence Photodynamic Therapy or Intravitreal Ranibizumab for 12 Months,0,0,N,N,N,N,0,0,0,0,0
+135,Fluorescein leakage was observed in 31 eyes (91.2%) at baseline: Active leakage in 19 eyes and relatively weak leakage in 12 eyes.,0,0,N,N,N,N,0,0,0,0,0
+136,The presence of leakage on the FA was not different between the 2 groups: 17 eyes (94.4%) in the low-fluence PDT group and 14 eyes (87.5%) in the ranibizumab group (P = 0.591).,0,0,N,N,N,N,0,0,0,0,0
+137,"The remaining 3 eyes showed multiple, mottled, hyperfluorescent areas without notable leakage at baseline.",0,0,N,N,N,N,0,0,0,0,0
+138,"After primary treatment, 16 of the 17 eyes (94.1%) in the low-fluence PDT group showed regression of leakage, 15 of which had accompanying complete resolution of SRF.",0,0,N,N,N,N,0,0,0,0,0
+139,"However, 1 eye showed persistent SRF despite the regression of leakage, leading to rescue ranibizumab injections.",0,0,N,N,N,N,0,0,0,0,0
+140,"Even after ranibizumab treatment, there was recurrence of fluorescein leakage at the same site with persistent SRF until the end of the study.",0,0,N,N,N,N,0,0,0,0,0
+141,"One of the 17 eyes (5.9%) showed persistent leakage with sustained SRF in the low-fluence PDT group, but after rescue ranibizumab injections, there was regression of fluorescein leakage with resolution of the SRF.",0,0,N,N,N,N,0,0,0,0,0
+142,"In the ranibizumab group, 4 of the 14 eyes (28.6%) showed regression of leakage on the FA after primary treatment along with resolution of SRF, but the leakage recurred at the same or new sites in 3 eyes, resulting in reaccumulation of fluid; 1 eye underwent rescue low-fluence PDT, leading to the resolution of the leakage and SRF, but the remaining 2 eyes did not satisfy the criteria for rescue treatment and showed sustained fluorescein leakage and SRF.",0,0,N,N,N,N,0,0,0,0,0
+143,Ten of the 14 eyes (71.4%) showed sustained leakage along with persistent SRF after ranibizumab treatment.,0,0,N,N,N,N,0,0,0,0,0
+144,"Among them, 8 eyes underwent rescue low-fluence PDT, bringing about complete regression of fluorescein leakage with resolution of the SRF, but 1 eye showed subsequent recurrence of leakage at the same site, resulting in reaccumulation of the SRF.",0,0,N,N,N,N,0,0,0,0,0
+145,The remaining 2 eyes with persistent leakage refused rescue low-fluence PDT and showed sustained leakage on the FA with persistent SRF.,0,0,N,N,N,N,0,0,0,0,0
+146,Three eyes without notable leakage at baseline did not show active leakage throughout the follow-up period regardless of the treatment.,0,0,N,N,N,N,0,0,0,0,0
+147,"On baseline ICGA, choroidal hyperpermeability and extravascular leakage were seen in all study eyes.",0,0,N,N,N,N,0,0,0,0,0
+148,"After primary treatment, a marked reduction in choroidal hyperpermeability was detected in a significantly greater proportion of the low-fluence PDT group (16 eyes [88.9%]) than that of the ranibizumab group (0 eyes; P < 0.001).",0,0,N,N,N,N,0,0,0,0,0
+149,"In the low-fluence PDT group, all eyes with marked reduction in choroidal hyperpermeability were accompanied with the resolution of the SRF, but the remaining 2 eyes showed a subtle reduction in choroidal hyperpermeability along with persistent SRF after primary treatment.",0,0,N,N,N,N,0,0,0,0,0
+150,There were no remarkable changes in choroidal hyperpermeability after subsequent rescue ranibizumab injections regardless of the resolution of the SRF.,0,0,N,N,N,N,0,0,0,0,0
+151,"In the ranibizumab group, there was no marked reduction in choroidal hyperpermeability after primary treatment regardless of the regression of fluorescein leakage.",0,0,N,N,N,N,0,0,0,0,0
+152,"Eight of the 9 eyes that underwent rescue low-fluence PDT showed a prominent reduction in choroidal hyperpermeability along with resolution of the SRF, but 1 eye had a subtle reduction in choroidal hyperpermeability after rescue low-fluence PDT followed by recurrence of the fluorescein leakage and SRF.",0,0,N,N,N,N,0,0,0,0,0
+153,Two eyes in the ranibizumab group had reduced perfusion of the choriocapillaris on the ICGA at the site of the laser application after rescue treatment.,0,0,N,N,N,N,0,0,0,0,0
+154,None of the eyes showed any RPE changes such as RPE depigmentation or atrophy.,0,0,N,N,N,N,0,0,0,0,0
+155,Figures 6 and 7 (available at http://aaojournal.org.),0,0,N,N,N,N,0,0,0,0,0
+156,show the anatomic and angiographic changes of typical patients in the ranibizumab group.,0,0,N,N,N,N,0,0,0,0,0
+157,"During the follow-up period, 3 eyes (18.8%) in the ranibizumab group experienced ocular AEs of ocular pain or conjunctival hemorrhage secondary to the intravitreal injections, whereas none in the low-fluence PDT group experienced any AEs.",0,0,N,N,N,N,0,0,0,0,0
+158,"None of the study eyes in either group developed serious ocular AEs such as retinal hemorrhage, vitreous hemorrhage, retinal detachment, retinal pigment epithelial tear, endophthalmitis, intraocular inflammation, or CNV.",0,0,N,N,N,N,0,0,0,0,0
+159,"There were no systemic serious AEs from the treatment drugs, such as thromboembolic events, verteporfin infusion site irritation, and lower back pain in either group.",0,0,N,N,N,N,0,0,0,0,0
+160,"At month 5, 1 subject in the ranibizumab group underwent thyroidectomy owing to thyroid cancer, which was not suspected to be related to the treatment drug.",0,0,N,N,N,N,0,0,0,0,0
+161,This clinical trial compared treatment outcomes between low-fluence PDT and intravitreal ranibizumab in patients with chronic CSC.,0,0,N,N,N,N,0,0,0,0,0
+162,This study demonstrates the overall superiority of low-fluence PDT compared with intravitreal ranibizumab in terms of efficacy outcomes.,0,0,N,N,N,N,0,0,0,0,0
+163,"Regarding anatomic outcomes, a significantly greater proportion of subjects in the low-fluence PDT group (88.9%) maintained complete resolution of the SRF without rescue treatment compared with the ranibizumab group (12.5%).",0,0,N,N,N,N,0,0,0,0,0
+164,"The success rate of low-fluence PDT in this study was consistent with values shown in previous studies, with anatomic success rates ranging from 83% to 100% with modified PDT.However, in the ranibizumab group, the proportion of eyes with resolved fluid (12.5%) was numerically lower than those of previously reported case series using bevacizumab injections, with variable success rates ranging from 40% to 80%.Previous studies had different study designs, treatment regimens, and outcome measures with small sample sizes and short follow-up periods.",0,0,N,N,N,N,0,0,0,0,0
+165,"Thus, our study may represent the proper long-term effects of ranibizumab compared with the other studies.",0,0,N,N,N,N,0,0,0,0,0
+166,"In addition, low-fluence PDT led to a more rapid anatomic restoration than that of the ranibizumab treatment.",0,0,N,N,N,N,0,0,0,0,0
+167,"The low-fluence PDT group showed a significant reduction in CRT within 1 month, whereas the ranibizumab group did not show a significant reduction in CRT until month 6.",0,0,N,N,N,N,0,0,0,0,0
+168,"Additionally, this significant reduction in CRT after month 5 is thought to be influenced by the rescue treatment of low-fluence PDT, which was conducted at month 4.8 on average.",0,0,N,N,N,N,0,0,0,0,0
+169,The recovery of angiographic abnormalities also showed differences between the 2 treatment groups.,0,0,N,N,N,N,0,0,0,0,0
+170,"Overall, fluorescein leakage and choroidal hyperpermeability on the ICGA were regressed after low-fluence PDT, which is in agreement with previous studies.Although a few eyes showed a reduction in fluorescein leakage after ranibizumab treatment, no subjects exhibited a remarkable reduction in choroidal hyperpermeability on the ICGA.",0,0,N,N,N,N,0,0,0,0,0
+171,"Our results suggest that ranibizumab monotherapy could not normalize choroidal vascular hyperpermeability, although it might induce a temporary cessation of active leaks from the level of RPE in some patients.",0,0,N,N,N,N,0,0,0,0,0
+172,"Taken together, the results show that ranibizumab monotherapy is insufficient for maintaining long-lasting anatomic restoration compared with low-fluence PDT.",0,0,N,N,N,N,0,0,0,0,0
+173,"With regard to functional outcomes, our data show that the time course for improvement in visual acuity did not parallel that of the anatomic restoration.",0,0,N,N,N,N,0,0,0,0,0
+174,"In the low-fluence PDT group, significant improvement in visual acuity began as early as month 1 accompanied by a significant reduction in CRT.",0,0,N,N,N,N,0,0,0,0,0
+175,"In the ranibizumab group, the significant improvement in visual acuity preceded the significant reduction in CRT; visual acuity was significantly improved compared with baseline starting from month 1, but the reduction in CRT was not significant compared with baseline until month 6.",0,0,N,N,N,N,0,0,0,0,0
+176,"However, when comparing the 2 groups, low-fluence PDT led to a more rapid improvement in visual acuity compared with ranibizumab; eyes in the low-fluence PDT group achieved 96.2% of total improvement in visual acuity within 3 months, whereas those in the ranibizumab group obtained 61.6%.",0,0,N,N,N,N,0,0,0,0,0
+177,"In addition, the superiority of the low-fluence PDT group in visual acuity parameters was sustained throughout the follow-up after treatment initiation, although the difference was not significant.",0,0,N,N,N,N,0,0,0,0,0
+178,"However, in the ranibizumab group, the improvement in visual acuity fluctuated with a small drop in visual acuity at months 5 and 9, which might be the result of reaccumulated fluid over time.",0,0,N,N,N,N,0,0,0,0,0
+179,The higher risk of recurrent or persistent fluid in the macula in patients treated with ranibizumab could lead to further visual deterioration over 1 year of follow-up.,0,0,N,N,N,N,0,0,0,0,0
+180,"Considering this, the functional efficacy of low-fluence PDT could be superior compared with that of ranibizumab in clinical situations, although our results did not show significant differences between them owing to a relatively short follow-up period.",0,0,N,N,N,N,0,0,0,0,0
+181,"Although the efficacy of ranibizumab injections did not reach the level seen for low-fluence PDT, ranibizumab monotherapy induced a temporary resolution of SRF and cessation of active leaks from the level of RPE along with a significant improvement of visual acuity in several patients.",0,0,N,N,N,N,0,0,0,0,0
+182,"In 1 low-fluence PDT–treated eye with persistent SRF, rescue ranibizumab treatment led to the regression of fluorescein leakage and SRF.",0,0,N,N,N,N,0,0,0,0,0
+183,"These results suggest that the ranibizumab regimen can be efficacious in some selected patients, although the beneficial effect of ranibizumab is not long lasting compared with low-fluence PDT.",0,0,N,N,N,N,0,0,0,0,0
+184,"In some cases, the response to ranibizumab treatment might indicate an unrevealed underlying CNV component, although the angiographic studies did not show a combined CNV.",0,0,N,N,N,N,0,0,0,0,0
+185,"We have proposed several explanations about the overall inferiority of ranibizumab monotherapy compared with low-fluence PDT in our pilot study.First, the exact mechanism of ranibizumab is ambiguous in the treatment of CSC.",0,0,N,N,N,N,0,0,0,0,0
+186,"Although the role of VEGF has not been verified in CSC, several reports suggest that VEGF expression might be stimulated by choroidal ischemia and long-lasting retinal detachment in chronic CSC.They speculated that anti-VEGF therapy might be effective in reducing choroidal hyperpermeability.However, there have been no reports demonstrating increased levels of VEGF in CSC, and Lim et al reported a similar level of VEGF in the aqueous humor of CSC eyes compared with normal eyes.",0,0,N,N,N,N,0,0,0,0,0
+187,And our results show that ranibizumab monotherapy could not normalize choroidal abnormalities to the extent that abnormally increased choroidal permeability and extravascular leakage diminish.,0,0,N,N,N,N,0,0,0,0,0
+188,"Additionally, there may be a dose–response relationship of ranibizumab in the treatment of CSC.",0,0,N,N,N,N,0,0,0,0,0
+189,"The dose of ranibizumab, 0.5 mg, used in this study, has worked effectively to treat CNV secondary to age-related macular degeneration.However, choroidal pathologies are widespread in chronic CSC compared with age-related macular degeneration.",0,0,N,N,N,N,0,0,0,0,0
+190,"If the patients with chronic CSC respond to anti-VEGF agents through an unknown mechanism, anti-VEGF agents at a higher dose or frequency, or longer treatment duration, may be advantageous.",0,0,N,N,N,N,0,0,0,0,0
+191,"However, such a treatment may lead to an increase in the rates of drug- or injection-related complications.",0,0,N,N,N,N,0,0,0,0,0
+192,This study has several other limitations.,0,0,N,N,N,N,0,0,0,0,0
+193,"There is a tendency of CSC toward spontaneous remission, and the lack of a control group does not allow for the evaluation of the effect of each treatment regimen over conservative management.",0,0,N,N,N,N,0,0,0,0,0
+194,"Herein, we allowed rescue treatment for the eyes with sustained or recurrent SRF.",0,0,N,N,N,N,0,0,0,0,0
+195,"Thus, we could not compare the effectiveness between single low-fluence PDT and ranibizumab monotherapy at the completion of this study.",0,0,N,N,N,N,0,0,0,0,0
+196,"In addition, rescue treatment was decided at the discretion of the investigator, and our results cannot provide the optimal guideline for rescue treatment, including the extent of subfoveal fluid.",0,0,N,N,N,N,0,0,0,0,0
+197,"Thus, further studies might be warranted to demonstrate the optimal treatment schedule and guidelines for subsequent treatments.",0,0,N,N,N,N,0,0,0,0,0
+198,"Additionally, although the sample size was acceptable to estimate the efficacy of the treatment regimens, a larger sample size is needed to corroborate the safety because 300 subjects are required to find 1% unexpected severe AEs.",0,0,N,N,N,N,0,0,0,0,0
+199,"In conclusion, our study demonstrated that treatment outcomes of low-fluence PDT were superior to those of intravitreal ranibizumab in the treatment of chronic CSC.",0,0,N,N,N,N,0,0,0,0,0

@@ -1,0 +1,125 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,"Background: Antioxidants and dietary fiber are postulated to have preventive effects on diabetic retinopathy, but evidence is lacking.",0,0,0,0,N,N,0,N,0,0,0
+1,"We investigated this association in a cohort with type 2 diabetes 40-70 years of age with hemoglobin (Hb)A1C >=6.5%, originally part of the Japan Diabetes Complications Study.",0,0,0,0,N,N,0,N,0,0,0
+2,"Methods: After excluding people who did not respond to a dietary survey and patients with diabetic retinopathy or a major ocular disease at baseline, we analyzed 978 patients.",0,0,0,0,N,N,0,N,0,0,0
+3,Baseline dietary intake was assessed by a food frequency questionnaire based on food groups and 24-hour dietary records.,0,0,0,0,N,N,0,N,0,0,0
+4,Primary outcome was incident diabetic retinopathy determined using international severity scales.,0,0,0,0,N,N,0,N,0,0,0
+5,"Results: Mean fruit intake in quartiles ranged from 23 to 253 g/day, with increasing trends across quartiles of fruit intake for vitamin C, vitamin E, carotene, retinol equivalent, dietary fiber, potassium, and sodium.",0,0,0,0,N,N,0,N,0,0,0
+6,"Mean energy intake ranged from 1644 to 1863 kcal/day, and fat intake was approximately 25%.",0,0,0,0,N,N,0,N,0,0,0
+7,"HbA1C, body mass index, triglycerides, and systolic blood pressure were well controlled.",0,0,0,0,N,N,0,N,0,0,0
+8,"During the 8-year follow-up, the numbers of incident cases of diabetic retinopathy from the first through the fourth quartiles of fruit intake were 83, 74, 69, and 59.",0,0,0,0,N,N,0,N,0,0,0
+9,"Multivariate-adjusted hazard ratios for the second, third, and fourth quartiles of fruit intake compared with the first quartile were 0.66 (95% confidence interval = 0.46-0.92), 0.59 (0.41-0.85), and 0.48 (0.32-0.71) (test for trend, P < 0.01).",0,0,0,0,N,N,0,N,0,0,0
+10,"There was no substantial effect modification by age, sex, HbA1C, diabetes duration, overweight, smoking, and hypertension.",0,0,0,0,N,N,0,N,0,0,0
+11,"Risk for diabetic retinopathy declined with increased intake of fruits and vegetables, vitamin C, and carotene.",0,0,0,0,N,N,0,N,0,0,0
+12,Conclusion: Increased fruit intake in ranges commonly consumed was associated with reduced incident diabetic retinopathy among patients adhering to a low-fat energy-restricted diet.,0,0,0,0,N,N,0,N,0,0,0
+13,Diabetic retinopathy accounts for 5% of blindness in the world and 15-17% of blindness in developed countries.,0,0,0,0,N,N,0,N,0,0,0
+14,"Strict glycemic and blood pressure control reduces the incidence and progression of diabetic retinopathy, and the importance of lipid control is emerging, although the possible value of other treatments remains unclear.",0,0,0,0,N,N,0,N,0,0,0
+15,"In the management of diabetic patients, a diet rich in fruit is encouraged by guidelines in the United States, Europe, and Canada, mainly based on its benefits for the prevention of hypertension and cardiovascular disease.However, the direct effects of a high-fruit diet on diabetic retinopathy are not well understood.",0,0,0,0,N,N,0,N,0,0,0
+16,"In contrast, guidelines of the Japan Diabetes Society (JDS) recommend fruit intake of only up to one unit.",0,0,0,0,N,N,0,N,0,0,0
+17,"Several studies have examined nutrients that are abundant in fruits, such as vitamins C and E, carotene, and dietary fiber.",0,0,0,0,N,N,0,N,0,0,0
+18,The pathogenesis of diabetic retinopathy is closely linked to oxidative stress and the antioxidants mentioned above are potential agents for preventing diabetic retinopathy.,0,0,0,0,N,N,0,N,0,0,0
+19,"The associations between antioxidants and diabetic retinopathy have been examined only cross-sectionally and remain unclear, but some antioxidants have been shown to reduce risk of age-related macular degeneration.",0,0,0,0,N,N,0,N,0,0,0
+20,"Fruits are low-glycemic-index foods rich in dietary fiber  that can slow glucose response, and a few studies have reported an inverse association between increased intake of dietary fiber and prevalence of diabetic retinopathy.",0,0,0,0,N,N,0,N,0,0,0
+21,These lines of evidence prompted us to investigate the association between intake of fruits and related nutrients and incident diabetic retinopathy in a cohort of patients with type 2 diabetes.,0,0,0,0,N,N,0,N,0,0,0
+22,"This study is part of the Japan Diabetes Complications Study, an open-labeled randomized trial originally designed to evaluate the efficacy of a long-term therapeutic intervention focused on lifestyle education.",1,0,1,1,N,N,1,N,1,0,0
+23,The primary results of the clinical trial have been described elsewhere.,1,0,1,1,N,N,1,N,1,0,0
+24,"Incidence rates of diabetic retinopathy were similar for the conventional treatment group and the intervention group (36/1,000 and 39/1,000 patient-years, respectively); therefore, we combined data from both randomized groups for this study.",1,1,1,1,N,N,1,N,1,0,0
+25,Eligibility criteria were previously diagnosed patients with type 2 diabetes 40-70 years of age whose hemoglobin (Hb)A1C levels were >=6.5%.,1,0,1,1,N,N,1,N,1,0,0
+26,"From outpatient clinics in 59 university and general hospitals nationwide that specialize in diabetes care, 2205 patients were initially registered from January 1995 to March 1996.",1,0,1,1,N,N,1,N,1,0,0
+27,"Of 2033 patients who met the eligibility criteria and were randomized, 1588 patients responded to the baseline dietary survey.",0,1,0,0,N,N,0,N,0,0,0
+28,There was no notable difference in baseline characteristics between responders and nonresponders.,0,0,0,0,N,N,0,N,0,0,0
+29,"After excluding 610 patients who had diabetic retinopathy or a major ocular disease (eg, glaucoma, dense cataract, or history of cataract surgery) at baseline, 978 patients were included in the current analysis.",0,0,0,0,N,N,0,N,0,0,0
+30,We analyzed follow-up data until March 2003.,0,0,0,0,N,N,0,N,0,0,0
+31,The protocol was approved by the institutional review boards of all the participating institutes.,0,0,0,0,N,N,0,N,0,0,0
+32,We obtained written informed consent from all patients.,0,0,0,0,N,N,0,N,0,0,0
+33,Patients were assessed yearly after the baseline evaluation.,0,0,0,0,N,N,0,N,0,0,0
+34,"Mean values of at least two measurements each year were obtained for HbA1C, fasting plasma glucose, and fasting serum lipids.",0,0,0,0,N,N,0,N,0,0,0
+35,HbA1C assays were performed according to procedures outlined by the Laboratory Test Committee of the JDS.,0,0,0,0,N,N,0,N,0,0,0
+36,These values can be converted by the formula: HbA1C (JDS) (%) = 0.98 x HbA1C (National Glycohemoglobin Standardization Program) (%) + 0.25%.,0,0,0,0,N,N,0,N,0,0,0
+37,All other laboratory measurements were performed at the participating institutes.,0,0,0,0,N,N,0,N,0,0,0
+38,"Serum low-density lipoprotein (LDL)-cholesterol was calculated using Friedewald's equation except where triglycerides exceeded 400 mg/dl, in which case LDL-cholesterol data were treated as missing.",0,0,0,0,N,N,0,N,0,0,0
+39,Assessment of Diabetic Retinopathy,0,0,0,0,N,N,0,N,0,0,0
+40,Presence and severity of diabetic retinopathy were determined annually by qualified ophthalmologists at each institute using the international diabetic retinopathy and diabetic macular edema disease scales with minor modification.,0,0,0,0,N,N,0,N,0,0,0
+41,"Severity of diabetic retinopathy was categorized as ""none,"" ""mild nonproliferative,"" ""moderate nonproliferative,"" ""severe nonproliferative,"" and ""proliferative.""",0,0,0,0,N,N,0,N,0,0,0
+42,"We collected both paper-based clinical assessment forms and retinal images, but only 70% of the images were suitable for assessment.",0,0,0,0,N,N,0,N,0,0,0
+43,"We therefore adopted clinical assessments to determine incident diabetic retinopathy, which would improve statistical power.",0,0,0,0,N,N,0,N,0,0,0
+44,We also evaluated the agreement in staging between local ophthalmologists and retinal specialists; the kappa statistic for agreement of severity was 0.59 (95% confidence interval [CI] = 0.54-0.65).,0,0,0,0,N,N,0,N,0,0,0
+45,History of ocular surgery was also surveyed.,0,0,0,0,N,N,0,N,0,0,0
+46,"A food frequency questionnaire (FFQ) based on food groups  was administered at baseline, and information for the 24-hour dietary record was also collected at baseline.",0,0,0,0,N,N,0,N,0,0,0
+47,"In brief, the FFQ elicited information on the average intake per week of 29 food groups and 10 kinds of cookery, in commonly used units or portion sizes.",0,0,0,0,N,N,0,N,0,0,0
+48,"After the patients completed the questionnaire or dietary records, a dietician reviewed the answers and in the case of questionable responses interviewed the patient.",0,0,0,0,N,N,0,N,0,0,0
+49,"We used standardized software for population-based surveys and nutrition counseling in Japan (Excel EIYO-KUN version 4.5, developed by the Shikoku University Nutrition Database; KENPAKUSHA, Tokyo, Japan) based on the Standard Tables of Food Composition in Japan  edited by the Japanese Ministry of Education, Culture, Sports, Science and Technology to calculate nutrient and food intakes from both the FFQ and 24-hour dietary records.",0,0,0,0,N,N,0,N,0,0,0
+50,"To confirm the robustness against measurement errors, we estimated fruit and nutritional intakes by the averages of the FFQ and 24-hour dietary records, which may reduce attenuation bias due to measurement error.",0,0,0,0,N,N,0,N,0,0,0
+51,Mean intakes correlations were as follows: 130.6 g/day from the FFQ and 125.4 g/day from the average (r = 0.80) for fruit; 1749.0 and 1733 kcal/day (r = 0.84) for energy; 133 and 123 mg/day (r = 0.79) for vitamin C; 9.1 and 8.7 mg/day (r = 0.76) for vitamin E; 6475 and 5480 [mu]g/day (r = 0.79) for carotene; 1304 and 1150 [mu]g/day (r = 0.77) for retinol equivalent; 14.8 and 14.7 g/day (r = 0.83) for dietary fiber; and 2775 and 2825 mg/day (r = 0.82) for potassium.,0,0,0,0,N,N,0,N,0,0,0
+52,The FFQ was also externally validated by comparison with dietary records for seven continuous days of 66 subjects 19-60 years of age.21 The ratios of the estimates obtained by the FFQ against those by the dietary records ranged from 72 to 121%; the average was 104%.,0,0,0,0,N,N,0,N,0,0,0
+53,The primary outcome was time from registration to incidence of diabetic retinopathy.,0,0,0,0,N,N,0,N,0,0,0
+54,"Incidence was defined as having no signs of diabetic retinopathy in either eye at baseline but subsequently having any of the following conditions in either eye at two consecutive follow-up years: mild to severe nonproliferative diabetic retinopathy, proliferative diabetic retinopathy, or laser photocoagulation treatment for diabetic retinopathy.",0,0,0,0,N,N,0,N,0,0,0
+55,Date of incident retinopathy was determined by the date of the ophthalmoscopic examination or laser photocoagulation treatment.,0,0,0,0,N,N,0,N,0,0,0
+56,Intraocular or cataract surgery was censored at the date of surgery.,0,0,0,0,N,N,0,N,0,0,0
+57,Probability of incident diabetic retinopathy during 8 years was estimated by the Kaplan-Meier method.,0,0,0,0,N,N,0,N,0,0,0
+58,"We estimated hazard ratios (HRs) of incident diabetic retinopathy in relation to quartiles of dietary intake by Cox regression with the standard multivariate method for energy adjustment, adjusted for the following variables: age, sex, body mass index (BMI), HbA1C, duration of diabetes, treatment by insulin, treatment by oral hypoglycemic agents without insulin, systolic blood pressure (SBP), LDL-cholesterol, high-density lipoprotein (HDL)-cholesterol, triglycerides (log-transformed), current smoker, alcohol intake, physical activity, total energy intake, proportions of dietary protein, fat, carbohydrate, saturated fatty acids, n-6 polyunsaturated fatty acids and n-3 polyunsaturated fatty acids, cholesterol, and sodium.",0,0,0,0,N,N,0,N,0,0,0
+59,A trend across quartiles was examined by a trend test using multivariate Cox regression with scores from 1 to 4 for quartiles.,0,0,0,0,N,N,0,N,0,0,0
+60,"By means of subgroup analysis and interaction tests using energy-adjusted Cox regression, we explored potential effect modification by age >=60 years, sex, HbA1C >=9%, diabetes duration >=10 years, overweight (BMI >=25 kg/m2), smoking status, and hypertension (SBP >=140 mmHg, diastolic blood pressure >=90 mmHg, or treatment by antihypertensive agents).",0,0,0,0,N,N,0,N,0,0,0
+61,"Gradients per year for HbA1C, BMI, triglycerides, and SBP were estimated using linear mixed models.",0,0,0,0,N,N,0,N,0,0,0
+62,"All statistical analyses and data management were conducted at a central data center using SAS version 9[middle dot]2 (SAS Institute Inc., Cary, NC).",0,0,0,0,N,N,0,N,0,0,0
+63,Table 1 describes the baseline characteristics and dietary intake of the 978 patients according to quartiles of fruit intake.,0,0,0,0,N,N,0,N,0,1,1
+64,Mean fruit intake in the quartiles ranged from 23 to 253 g/day.,0,0,0,0,N,N,0,N,0,1,1
+65,"Mean energy intake in the quartiles ranged from 1640 to 1860 kcal/day, and fat intake was approximately 25%.",0,0,0,0,N,N,0,N,0,1,1
+66,"The increasing trend in energy intake is attributable to calories from fruits, vegetables, and seafood (given that fruit intake was positively correlated with intakes of carbohydrate, vegetables, and seafood), but not grains.",0,0,0,0,N,N,0,N,0,1,1
+67,"Patients in higher quartiles were older, with lower SBP and preferable lifestyles such as a lower smoking rate and increased physical activity.",0,0,0,0,N,N,0,N,0,1,1
+68,"As expected, increase in fruit intake was positively associated with higher intake of total energy, vitamin C, vitamin E, carotene, retinol equivalent, dietary fiber, potassium, and sodium.",0,0,0,0,N,N,0,N,0,0,0
+69,"Figure 1 shows longitudinal trends for mean HbA1C, mean BMI, median triglycerides, and mean SBP over 8 years.",0,0,0,0,N,N,0,N,0,0,0
+70,"Overall, these parameters were well controlled.",0,0,0,0,N,N,0,N,0,0,0
+71,"Gradients per year according to the quartiles of fruit intake (Q1 to Q4, respectively) were 0.018, -0.032, -0.049, and 0.001 for HbA1C (test for a trend across quartiles, P = 0.25); -0.006, -0.035, -0.006, and -0.038 for BMI (P = 0.13); 0.667, -2.200, -0.479, and -0.509 for triglycerides (P = 0.58); and 0.256, 0.248, 0.290, and 0.550 for SBP (P = 0.09).",0,0,0,0,N,N,0,N,0,0,0
+72,"During the follow-up of a median of 8 years, 6707 person-years were studied and 285 incidents of diabetic retinopathy were observed.",0,0,0,0,N,N,0,N,0,0,0
+73,The follow-up rate at 8 years was 79%.,0,0,0,0,N,N,0,N,0,0,0
+74,"Incidence of diabetic retinopathy according to the quartiles of fruit intake was 83 (Q1), 74, 69, and 59 (Q4).",0,0,0,0,N,N,0,N,0,0,0
+75,The overall annual incidence rate of diabetic retinopathy was 0.0425 (95% CI = 0.0378-0.0477).,0,0,0,0,N,N,0,N,0,0,0
+76,Figure 2 shows Kaplan-Meier curves for incident diabetic retinopathy according to quartiles.,0,0,0,0,N,N,0,N,0,0,0
+77,"In confounder- and nutrient-adjusted Cox regression, fruit intake was inversely associated with incident diabetic retinopathy (Table2).",0,0,0,0,N,N,0,N,0,0,0
+78,"The nutrient-adjusted HR between the fourth and first quartiles was 0.48 (95% CI = 0.32-0.71; test for trend, P < 0.01).",0,0,0,0,N,N,0,N,0,0,0
+79,"Other important variables in this model were HbA1C (HR per 1% increment = 1.30 [95% CI = 1.20-1.41], P < 0.01), diabetes duration (HR per 1 year = 1.04 [1.02-1.06], P < 0.01), BMI (HR per 1 kg/m2 = 1.05 [1.00-1.09], P = 0.05), insulin (1.68 [1.13-2.49], P < 0.01), and oral hypoglycemic agents (1.52 [1.10-2.11], P = 0.01).",0,0,0,0,N,N,0,N,0,0,0
+80,These trends remained if we alternatively used fruit intake estimated by the FFQ (Table 2).,0,0,0,0,N,N,0,N,0,0,0
+81,"If we alternatively used fruit and vegetable intake, the associations were weakened and remained significant only in the analysis of averages of the FFQ and 24-hour dietary records (Table 2).",0,0,0,0,N,N,0,N,0,0,0
+82,"If we treated incident diabetic retinopathy in the first 2 years as censored, nutrient-adjusted HRs of quartiles of fruit intake were 0.69 (0.44-1.07), 0.58 (0.36-0.92), and 0.46 (0.28-0.76), respectively, for Q2, Q3, and Q4 compared with Q1 (test trend for P < 0.01).",0,0,0,0,N,N,0,N,0,0,0
+83,Figure 3 shows results of subgroup analysis according to risk factors for diabetic retinopathy.,0,0,0,0,N,N,0,N,0,0,0
+84,"Table 3 shows incidence of diabetic retinopathy in relation to quartiles of antioxidants, dietary fiber, and potassium.",0,0,0,0,N,N,0,N,0,0,0
+85,Decreasing trends were observed for vitamin C and carotene.,0,0,0,0,N,N,0,N,0,0,0
+86,"Nutrient-adjusted HRs between the fourth and first quartiles were 0.61 (95% CI = 0.39-0.96) for vitamin C, 0.84 (0.51-1.40) for vitamin E, 0.52 (0.33-0.81) for carotene, 0.68 (0.44-1.05) for retinol equivalent, 0.63 (0.38-1.03) for dietary fiber, and 0.82 (0.49-1.38) for potassium.",0,0,0,0,N,N,0,N,0,0,0
+87,"Medical nutritional treatment is essential in secondary prevention of diabetes complications, but the preventive effect of nutrition on diabetic retinopathy is generally not well understood.",0,0,0,0,N,N,0,N,0,0,0
+88,"In this 8-year follow-up study of patients with type 2 diabetes in Japan, those who consumed an average of 253 g of fruit per day had a 50% lower risk of incident retinopathy compared with those consuming an average of 23 g/day.",0,0,0,0,N,N,0,N,0,0,0
+89,"HbA1C, BMI, triglycerides, and SBP were well controlled over 8 years even in the fourth quartile.",0,0,0,0,N,N,0,N,0,0,0
+90,"This is the first report of a follow-up study on the temporal associations between antioxidants, dietary fiber, and potassium and incident diabetic retinopathy, which previously has been examined only cross-sectionally.",0,0,0,0,N,N,0,N,0,0,0
+91,Decreasing trends in HRs were noted for vitamin C and carotene.,0,0,0,0,N,N,0,N,0,0,0
+92,"The mechanisms whereby fruits exert preventive effects on diabetic retinopathy are not entirely clear, but our data suggest the potential involvement of vitamin C, carotene, retinol equivalent, and dietary fiber.",0,0,0,0,N,N,0,N,0,0,0
+93,A high-fruit-vegetable intervention is known to increase carotene and vitamin C levels in plasma.,0,0,0,0,N,N,0,N,0,0,0
+94,"However, a previous systematic review found no clear association between vitamin C and E and prevalent diabetic retinopathy.",0,0,0,0,N,N,0,N,0,0,0
+95,Our findings are not consistent with these results.,0,0,0,0,N,N,0,N,0,0,0
+96,"This may reflect the cross-sectional design of those previous studies, which limits the ability to establish a temporal relationship and may suggest that it takes several years for antioxidants to have an effect on diabetic retinopathy.",0,0,0,0,N,N,0,N,0,0,0
+97,Another possibility is that the preventive effects of fruits are mediated through glycemic control.,0,0,0,0,N,N,0,N,0,0,0
+98,"Fruits are low-glycemic-index foods rich in dietary fiber, which can slow glucose response after ingestion.",0,0,0,0,N,N,0,N,0,0,0
+99,Our findings also suggest that dietary fiber might reduce damage to the retina caused by glucose.,0,0,0,0,N,N,0,N,0,0,0
+100,"Guidelines for diabetic patients in the United States, Europe, and Canada (but not in Japan) recommend a diet rich in fruits.",0,0,0,0,N,N,0,N,0,0,0
+101,"Fruits and vegetables have a variety of beneficial effects; the Dietary Approaches to Stop Hypertension diet lowers blood pressure,8 and increased fruit-vegetable intake reduces the incidence of stroke, coronary heart disease, and cancer.",0,0,0,0,N,N,0,N,0,0,0
+102,"Our findings support guidelines in Western countries encouraging diabetics to consume a diet rich in fruits, in addition to those benefits already shown.",0,0,0,0,N,N,0,N,0,0,0
+103,"However, this is a single observational study; randomized trials would be needed to establish the clinical benefit of high-fruit diet for reducing incident diabetic retinopathy.",0,0,0,0,N,N,0,N,0,0,0
+104,"Determining a tentative goal of fruit intake to achieve clinical benefit in preventing diabetic retinopathy is a difficult task, but it is notable that the association between fruit intake and incident diabetic retinopathy was in the range of amounts commonly consumed.",0,0,0,0,N,N,0,N,0,0,0
+105,"The average intake in the fourth quartile was 253 g/day, which is approximately one fruit serving (eg, one apple or two bananas).",0,0,0,0,N,N,0,N,0,0,0
+106,This is twice the average intake for Japanese adults in the National Health and Nutrition Survey  and achieving such intake would be a realistic goal.,0,0,0,0,N,N,0,N,0,0,0
+107,"It is also important that most patients in the larger study had a ""low-fat energy-restricted diet.""",0,0,0,0,N,N,0,N,0,0,0
+108,"The proportion of protein, fat, and carbohydrate consumption met the Western guidelines,which recommended carbohydrate intake from 45 to 65%, fat intake less than 35%, and protein intake from 10 to 20%.",0,0,0,0,N,N,0,N,0,0,0
+109,"Unexpectedly, there was no increasing trend in BMI and triglycerides even in the fourth quartile (Figure 2), although patients consumed more energy than in the lower quartiles by 100 to 200 kcal (Table 1).",0,0,0,0,N,N,0,N,0,0,0
+110,The European Prospective Investigation into Cancer and Nutrition study recently reported that increasing baseline fruit-vegetable intake while keeping total energy intake constant did not substantially influence midterm weight change.,0,0,0,0,N,N,0,N,0,0,0
+111,These data suggest that the benefits of consuming fruits up to 250 g/day outweigh the potential impact on weight control under a low-fat energy-restricted diet.,0,0,0,0,N,N,0,N,0,0,0
+112,"The possible benefits of antioxidant supplements would be difficult to assess, based on our data, given the fact that micronutrients are highly correlated with each other and difficult to isolate in preventive effects of fruits.",0,0,0,0,N,N,0,N,0,0,0
+113,These findings must be interpreted in the context of study limitations.,0,0,0,0,N,N,0,N,0,0,0
+114,"First, the potential for bias, such as measurement errors in dietary assessments, confounding factors, and informative censoring, cannot be ruled out entirely.",0,0,0,0,N,N,0,N,0,0,0
+115,"For example, use of vitamin supplements was assessed only by 24-hour dietary records, and intake of vitamins C and E and carotene could be underestimated.",0,0,0,0,N,N,0,N,0,0,0
+116,"We believe, however, that measurement error and the possibility of unmeasured confounders were minimized by the use of two instruments for dietary assessment and by the comprehensive lifestyle survey of diet, physical activity, and smoking status.",0,0,0,0,N,N,0,N,0,0,0
+117,"Second, as an observational study rather than a randomized trial, it is impossible to conclude whether medical nutritional treatment encouraging fruits would reduce incident retinopathy in clinical practice.",0,0,0,0,N,N,0,N,0,0,0
+118,Another limitation is the accuracy of diabetic retinopathy staging based on clinical diagnosis compared with staging based on seven-field stereo fundus photography.,0,0,0,0,N,N,0,N,0,0,0
+119,"Finally, our results may not be generally applicable to populations with different genetic or lifestyle factors.",0,0,0,0,N,N,0,N,0,0,0
+120,"Fruits commonly consumed in Japan include pome fruits (apples, Japanese pears, and Japanese persimmons), citrus fruits (oranges, grapefruits, and lemons), drupes (peaches, cherries, and Japanese apricots), berries (strawberries, blueberries, and grapes), bananas, watermelon, and other melons; people in other locations may consume different types of fruits.",0,0,0,0,N,N,0,N,0,0,0
+121,"Moreover, as we previously reported, BMI and body weight are markedly different between patients in Japan and Western countries, although energy intakes were similar.Verifying our findings in studies of different ethnic populations would be useful.",0,0,0,0,N,N,0,N,0,0,0
+122,"These limitations notwithstanding, we conclude that increased fruit intake within the range commonly consumed is associated with reduced incident diabetic retinopathy.",0,0,0,0,N,N,0,N,0,0,0
+123,Further randomized trials are needed to clarify whether medical nutritional treatment that encourages consumption of fruits reduces incident retinopathy in the management of diabetes.,0,0,0,0,N,N,0,N,0,0,0

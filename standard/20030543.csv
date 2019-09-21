@@ -1,0 +1,120 @@
+Sentence-ID,Sentence-String,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+0,All light is not equal: blue wavelengths are the most potent portion of the visible electromagnetic spectrum for circadian regulation.,0,0,N,0,0,N,N,0,0,0,0
+1,"Therefore, blocking blue light could create a form of physiologic darkness.",0,0,N,0,0,N,N,0,0,0,0
+2,"Because the timing and quantity of light and darkness both affect sleep, evening use of amber lenses to block blue light might affect sleep quality.",0,0,N,0,0,N,N,0,0,0,0
+3,"Mood is also affected by light and sleep; therefore, mood might be affected by blue light blockade.",0,0,N,0,0,N,N,0,0,0,0
+4,"In this study, 20 adult volunteers were randomized to wear either blue-blocking (amber) or yellow-tinted (blocking ultraviolet only) safety glasses for 3 h prior to sleep.",0,0,N,0,0,N,N,0,0,0,0
+5,Participants completed sleep diaries during a one-week baseline assessment and two weeks' use of glasses.,0,0,N,0,0,N,N,0,0,0,0
+6,Outcome measures were subjective: change in overall sleep quality and positive/negative affect.,0,0,N,0,0,N,N,0,0,0,0
+7,Results demonstrated that sleep quality at study outset was poorer in the amber lens than the control group.,0,0,N,0,0,N,N,0,0,0,0
+8,Two- by three-way ANOVA revealed significant (p < .001) interaction between quality of sleep over the three weeks and experimental condition.,0,0,N,0,0,N,N,0,0,0,0
+9,"At the end of the study, the amber lens group experienced significant (p < .001) improvement in sleep quality relative to the control group and positive affect (p = .005).",0,0,N,0,0,N,N,0,0,0,0
+10,Mood also improved significantly relative to controls.,0,0,N,0,0,N,N,0,0,0,0
+11,A replication with more detailed data on the subjects' circadian baseline and objective outcome measures is warranted.,0,0,N,0,0,N,N,0,0,0,0
+12,"Sleep-onset insomnia (difficulty falling asleep) and mid-sleep insomnia (difficulty staying asleep) are common problems, affecting as many as 30% of the world's population.In anxiety and mood disorders, insomnia is a prominent and distressing symptom that often exacerbates the condition, and in bipolar disorder, insomnia can be the primary cause of severe mood episodes.",0,0,N,0,0,N,N,0,0,0,0
+13,"An inexpensive, safe treatment for insomnia would have significant public health value, as available treatments are either hard to access or carry significant risk.",0,0,N,0,0,N,N,0,0,0,0
+14,"Self-medication of insomnia is common, particularly with alcohol and over-the-counter sleep medications, both of which can cause cognitive impairment.Cognitive behavioral therapy for insomnia (CBT-I) is clearly effective but hard to access.Prescription medications for insomnia carry a variety of risks, including tolerance, dependence, and cognitive impairment.",0,0,N,0,0,N,N,0,0,0,0
+15,"Recently, the regulation of circadian rhythms was discovered to depend primarily on a novel photoreceptor, fibers from which connect not to the visual cortex but to the suprachiasmatic nucleus (and to a lesser extent, other nuclei) of the hypothalamus.This circadian photoreceptor does not respond to the longer wavelengths of the visual spectrum (red, orange, or yellow-green) but rather only to the shorter wavelengths,  < 550 nm (blue and blue-green).",0,0,N,0,0,N,N,0,0,0,0
+16,"Thus, all wavelengths of light are not equal in their effects on the circadian clock network of the brain: it is predominantly blue light that is most affective, as reflected experimentally by melatonin production.",0,0,N,0,0,N,N,0,0,0,0
+17,"Longer wavelengths have a significant, though lesser, influence, except at high intensities or when mixed with blue light.",0,0,N,0,0,N,N,0,0,0,0
+18,"Meanwhile, a potential role for darkness as a treatment for sleep dysregulation has also been explored: two case reports and a small randomized trial.",0,0,N,0,0,N,N,0,0,0,0
+19,"This regimen placed patients in dark rooms nightly, preventing exposure to all wavelengths of light after early evening.",0,0,N,0,0,N,N,0,0,0,0
+20,"Because bipolar disorder has been strongly associated with disruption of the circadian system, the presumption was that a dramatic and regular shift between light levels (light and darkness) might restore a more regular day/night rhythm and thereby stabilize mood.",0,0,N,0,0,N,N,0,0,0,0
+21,"But as a treatment, this approach is limited, as few patients are willing to place themselves in complete darkness at 18:00 h.",0,0,N,0,0,N,N,0,0,0,0
+22,"However, if circadian rhythmicity is dependent primarily on blue wavelengths of light, and if increased exposure to darkness in the evening may constitute an effective treatment for sleep difficulties associated with circadian disturbance, might a blue-light filter have the same net effect as darkness?",0,0,N,0,0,N,N,0,0,0,0
+23,"Could wearing amber safety glasses in the evening, to filter out blue wavelengths, substitute for turning-off light sources?",0,0,N,0,0,N,N,0,0,0,0
+24,"If so, such blue-light filtering would enable patients to experience the physiologic effects of darkness, yet still allow participation in evening activities that depend on light.",0,0,N,0,0,N,N,0,0,0,0
+25,Amber safety glasses have already been shown to preserve normal overnight melatonin production in a fully lit sleep laboratory.,0,0,N,0,0,N,N,0,0,0,0
+26,"Likewise, amber glasses have been reported to improve sleep in patients with mood disorders in an uncontrolled case series.",0,0,N,0,0,N,N,0,0,0,0
+27,"We present here the results of a proof-of-concept, controlled trial of amber lenses to improve sleep and mood in volunteers with sleep-onset and mid-sleep insomnia.",0,0,N,0,0,N,N,0,0,0,0
+28,"The experimental protocol for this study, consistent with international ethical standards, was approved by the Institutional Review Board of Saint Vincent Charity Hospital, Cleveland, Ohio, and each participant provided informed consent.",0,0,N,0,0,N,N,0,0,0,0
+29,"Participants enrolled in the study after responding to advertisements displayed on a private, Midwestern university campus.",0,0,N,0,0,N,N,0,0,0,0
+30,Only individuals who reported sleep difficulty were included in the study.,0,0,N,0,0,N,N,0,0,0,0
+31,"Sleep difficulty was defined as sleep-onset insomnia (difficulty falling asleep), mid-sleep insomnia (waking up after falling asleep), and terminal insomnia (waking up too early) by subjective account; no quantitative assessment was used.",0,0,N,0,0,N,N,0,0,0,0
+32,Participants reported only sleep-onset or mid-sleep insomnia.,0,0,N,0,0,N,N,0,0,0,0
+33,"The study enrolled 20 participants (9 males/11 females) 18 to 68 yrs of age with a mean age of 34 (SD = 8.22) yrs, who were randomly assigned to either receive low-blue-light or placebo glasses, and blinded to the amber lens hypothesis.",0,1,N,0,0,N,N,0,0,0,0
+34,There were 10 participants in each condition (experimental vs. control).,0,0,N,0,0,N,N,0,0,0,0
+35,"Exclusion criteria included the use of any prescribed medication, oral or inhaled nicotine, or excessive caffeine use (>2 cups at one time or >500 mg daily).",0,0,N,0,0,N,N,0,0,0,0
+36,"Participants were instructed to refrain from ingestion of alcohol, excessive stimulant use, or use of street drugs.",0,0,N,0,0,N,N,0,0,0,0
+37,"If participants failed to refrain, they were to indicate the nature, amount, and time of the use.",0,0,N,0,0,N,N,0,0,0,0
+38,"Other factors affecting circadian synchronywere not assessed: subjects' ambient light-dark cycle, intensity of ambient light exposure, work schedule, and menstrual phase.",0,0,N,0,0,N,N,0,0,0,0
+39,All subjects were tested in the fall season.,0,0,N,0,0,N,N,0,0,0,0
+40,No assessment for psychiatric illness (DSM-IV criteria) was conducted in this study.,0,0,N,0,0,N,N,0,0,0,0
+41,"In the low blue-light condition, participants used amber-tinted safety glasses, which blocked wavelengths  <550 nm (blue-green or longer wavelengths being transmitted).",0,0,N,0,0,N,N,0,0,0,0
+42,"In the placebo condition, yellow-tinted safety glasses, blocking only ultraviolet light, were used (blue and longer wavelengths being transmitted).",0,0,N,0,0,N,N,0,0,0,0
+43,Figure 1 shows the light transmission data for both types of lens.,0,0,N,0,0,N,N,0,0,0,0
+44,"The glasses were manufactured by NoIR Polycarbonate Eyewear, distributed by Photonic Developments LLC, and donated for this project.",0,0,N,0,0,N,N,0,0,0,0
+45,"Transmission spectra determinations for the lenses were performed in the Lighting Innovations Institute, a division of the Physics Department at John Carroll University in Cleveland, Ohio.",0,0,N,0,0,N,N,0,0,0,0
+46,FIGURE 1 Transmission spectra for experimental and placebo lenses.,0,0,N,0,0,N,N,0,0,0,0
+47,"Participants completed a sleep diary, which included rating sleep quality on a Likert scale of 1 to 10, with 0 being very poor and 10 being very good.",0,0,N,0,0,N,N,0,0,0,0
+48,"Stimulant, medication, and alcohol use were not systematically assessed.",0,0,N,0,0,N,N,0,0,0,0
+49,Participants also completed a Positive Affect and Negative Affect Scale (PANAS) mood scale.,0,0,N,0,0,N,N,0,0,0,0
+50,The scale consists of 20 words that describe both positive and negative emotions and feelings.,0,0,N,0,0,N,N,0,0,0,0
+51,Participants were instructed to rate each word based on how they currently felt on a scale of 1 (very slightly or not at all) to 5 (extremely).,0,0,N,0,0,N,N,0,0,0,0
+52,"The PANAS has been shown to be a valid and reliable measure, demonstrating high scale intercorrelations and internal consistency reliabilities.",0,0,N,0,0,N,N,0,0,0,0
+53,"Participants were instructed to begin wearing the glasses 3 h prior to their normal bedtime, removing the glasses only when in the dark (glasses were not worn overnight).",0,0,N,0,0,N,N,0,0,0,0
+54,"Because even limited exposure to light has been shown to suppress melatonin, participants were specifically instructed to avoid exposing their eyes directly to light without wearing their protective lenses, after donning their glasses in the evening.",0,0,N,0,0,N,N,0,0,0,0
+55,They were instructed to complete the sleep diary and PANAS mood scale upon awaking each morning for three weeks.,0,0,N,0,0,N,N,0,0,0,0
+56,"In the first (baseline) week, no lenses were worn.",0,0,N,0,0,N,N,0,0,0,0
+57,"In the following two weeks, participants were instructed to wear the glasses routinely as described above; compliance with these instructions was not systematically assessed.",0,0,N,0,0,N,N,0,0,0,0
+58,"After three weeks of participation, participants were debriefed and given glasses as compensation for their participation.",0,0,N,0,0,N,N,0,0,0,0
+59,Participants were asked whether they had knowledge of glasses that were designed to improve one's sleep.,0,0,N,0,0,N,N,0,0,0,0
+60,"All indicated they had no knowledge (if they had, they would have been excluded from participation).",0,0,N,0,0,N,N,0,0,0,0
+61,"Participants were instructed that the study was being conducted to investigate whether use of the glasses prior to going sleep improves quality of sleep and mood, and that some would receive the glasses under investigation while other participants would receive placebo glasses.",0,0,N,0,0,N,N,0,0,0,0
+62,They were instructed to refrain from researching lenses designed to improve sleep and contacting other participants to compare the effects of their glasses.,0,0,N,0,0,N,N,0,0,0,0
+63,"Experimental and control group results, pre- and post-intervention, were compared using two-tailed Student's t-tests.",0,0,N,0,0,N,N,0,0,0,0
+64,"Two- (glass condition: experimental vs. control) by three-(week) between-within ANOVAs were conducted on the self-reported hours of sleep, quality of sleep, and positive and negative affect.",0,0,N,0,0,N,N,0,0,0,0
+65,One subject was 68 yrs old; the rest were <65.,1,0,N,1,1,N,N,1,1,1,1
+66,"By self-report, none of the participants used nicotine, consumed more than 300 mg of caffeine or more than 3 oz.",1,0,N,1,1,N,N,1,1,1,1
+67,"of alcohol/day, or used street drugs.",1,0,N,1,1,N,N,1,1,1,1
+68,"There were no individual differences in stimulant use between baseline and during the experimental period (e.g., if participants drank one cup of coffee each morning during baseline, they also drank one cup of coffee each morning during the time they were using the lenses).",1,0,N,1,1,N,N,1,1,1,1
+69,"All caffeine use (coffee, soda) ended by 18:30 h, with no participants drinking >2 cups of coffee or >1 glass of soda at any one time.",1,0,N,1,1,N,N,1,1,1,1
+70,"No adverse events were reported, nor any difficulty complying with the experimental regimen.",0,0,N,0,0,N,N,0,0,0,0
+71,None of these variables was significantly affected by sex of the study participant (11 females/9 males).,0,0,N,0,0,N,N,0,0,0,0
+72,Relevant sleep diary data are summarized in Table 1.,0,0,N,0,0,N,N,0,0,0,0
+73,TABLE 1 Sleep diary baseline data,0,0,N,0,0,N,N,0,0,0,0
+74,"At baseline, the experimental and control groups were equivalent on self-reported negative affect (t[18] = 1.92, p = .056).",0,0,N,0,0,N,N,0,0,0,0
+75,"As shown in Figures 2 and 3, the two groups were not equivalent on self-reported baseline quality of sleep (t[18] = 15.81, p < .001) or self-reported baseline positive affect (t[18] = 9.75, p < .001).",0,0,N,0,0,N,N,0,0,0,0
+76,"FIGURE 2 Mean quality of sleep, with error bars indicating 95% confidence intervals, as a function of time and lens type.",0,0,N,0,0,N,N,0,0,0,0
+77,"**indicates significant difference versus control, p < 0.001.",0,0,N,0,0,N,N,0,0,0,0
+78,"FIGURE 3 Mean positive affect, with error bars indicating 95% confidence intervals, as a function of time and lens type.",0,0,N,0,0,N,N,0,0,0,0
+79,"*indicates significant difference versus control, p < 0.005; **p < 0.001.",0,0,N,0,0,N,N,0,0,0,0
+80,"As shown, at the end of the study, sleep quality reports for the experimental and control group are significantly different in the opposite direction (t[18} = 9.079, p < .001).",0,0,N,0,0,N,N,0,0,0,0
+81,"Likewise, positive affect scores were significantly different versus controls at the end of the study (t[18] = 3.240, p = .005).",0,0,N,0,0,N,N,0,0,0,0
+82,"ANOVA indicated a significant interaction between quality of sleep over the three weeks and experimental condition (F[1, 18] = 40.08, p < .001) and a significant interaction between the rate of increase in positive affect and the experimental condition (F[1, 18] = 17.26, p = .001).",0,0,N,0,0,N,N,0,0,0,0
+83,"Baseline differences in the primary outcome variables (sleep quality and mood) at the outset of the study, likely due to the small sample size, limit the conclusions that can be drawn from this simple proof-of-concept study.",0,0,N,0,0,N,N,0,0,0,0
+84,"Replication with a larger sample is necessary, or, if sample size is limited, using a crossover design in which subjects serve as their own controls.",0,0,N,0,0,N,N,0,0,0,0
+85,"The subjective ratings used herein also limit interpretation, including the lack of a validated measure for determining sleep quality at the outset.",0,0,N,0,0,N,N,0,0,0,0
+86,"Replication using objective measures of changing sleep rhythm and quality, such as wristwatch actimetry, dim-light melatonin onset, or polysomnography, is warranted.",0,0,N,0,0,N,N,0,0,0,0
+87,"Subsequent studies should follow the guidelines that have been suggested for biologic rhythm research, including assessment of subjects' ambient light-dark cycle, intensity and spectrum of ambient light exposure, work (shift) schedule, and menstrual phase.",0,0,N,0,0,N,N,0,0,0,0
+88,The absence of such measures in this study limits its interpretation.,0,0,N,0,0,N,N,0,0,0,0
+89,"Moreover, the control lenses used in this study have a half-transmission cut-off value at 460 nm, such that even these lenses can potentially also strongly affect the human melanopsin system, in addition to reducing input from blue cones.",0,0,N,0,0,N,N,0,0,0,0
+90,"Thus, future studies should endeavour to use a more neutral control.",0,0,N,0,0,N,N,0,0,0,0
+91,"However, until a replication study is available improving on these deficiencies, the results herein are important, as they are consistent with the working hypothesis—namely, that by preventing blue wavelengths from reaching the retina in the evening, sleep quality and mood can be improved.",0,0,N,0,0,N,N,0,0,0,0
+92,"The results imply that a simple, accessible intervention could be valuable in the treatment of insomnia and perhaps mood disorders as well.",0,0,N,0,0,N,N,0,0,0,0
+93,"Because the low blue-light group began this study with poorer sleep quality and lower positive affect scores than the control group, the observed results could be interpreted as regression to the mean (i.e., the improvement in the experimental group could be the result of potential random variation in the first sample, such that a follow-up measure would predictably drift toward the average initial value).",0,0,N,0,0,N,N,0,0,0,0
+94,"However, at the end of study, the sleep quality of the experimental group was significantly improved relative to the (unchanged) control group.",0,0,N,0,0,N,N,0,0,0,0
+95,"Therefore, regression to the mean is unlikely as an explanation for the observed findings.",0,0,N,0,0,N,N,0,0,0,0
+96,"If the amber glasses are indeed responsible for the observed shift in sleep quality and positive affect, is this due to a circadian shift?",0,0,N,0,0,N,N,0,0,0,0
+97,"Did the glasses cause a phase advance, relative to the initial phasing of the participants' circadian system?",0,0,N,0,0,N,N,0,0,0,0
+98,"Phase advances have been shown to have an antidepressant effect, though only in subjects with a pre-treatment phase delay.",0,0,N,0,0,N,N,0,0,0,0
+99,"The mechanisms of mood shifts in response to changes in light exposure remain controversial, however.",0,0,N,0,0,N,N,0,0,0,0
+100,"Thus, replication of our study with a measurement of circadian phase, such as dim-light melatonin onset, might be useful in the further investigation of this issue.",0,0,N,0,0,N,N,0,0,0,0
+101,"Alternatively, might there be some non-specific effect of amber glasses on sleep quality, independent of circadian regulation?",0,0,N,0,0,N,N,0,0,0,0
+102,Red-tinted lenses that block wavelengths ≤600 nm were found in a small study to decrease pain from migraines within minutes of application .,0,0,N,0,0,N,N,0,0,0,0
+103,"Although unreplicated as yet, this result suggests a non-circadian effect of blue-light blockade.",0,0,N,0,0,N,N,0,0,0,0
+104,"Therefore, until further studies are performed, it should not be assumed that the mechanism of amber glasses is entirely via impact on the circadian photoreceptor and the biological clock.",0,0,N,0,0,N,N,0,0,0,0
+105,"For example, only 60% of the fibers in the retinohypothalamic tract terminate in suprachiasmatic nuclei; the remaining fibers terminate in non-circadian nuclei, some of which are involved in sleep and wake regulation.",0,0,N,0,0,N,N,0,0,0,0
+106,"Changes in mood might also be a basis, at least in part, for the apparent improvement in sleep quality.",0,0,N,0,0,N,N,0,0,0,0
+107,Positive affect scores were low in the experimental group at study outset.,0,0,N,0,0,N,N,0,0,0,0
+108,"Likewise, negative affect scores at study outset demonstrated a strong trend toward lower values in the experimental group, nearly reaching statistical significance (p = .056).",0,0,N,0,0,N,N,0,0,0,0
+109,"Might the experimental group have begun the study more depressed (a randomization failure), such that somehow the intervention changed mood primarily, with only secondary change in sleep?",0,0,N,0,0,N,N,0,0,0,0
+110,"Mood changes are often associated with changes in sleep latency, quality, and duration, but this relationship is bidirectional, with sleep changes clearly preceding mood changes, at least in bipolar subjects .",0,0,N,0,0,N,N,0,0,0,0
+111,Some (but not all) studies have reported different sensitivity to light among patients with mood disorders.,0,0,N,0,0,N,N,0,0,0,0
+112,"No quantified measure such as the CES-Dwas used in this study, which would have helped address this question, and is obviously warranted in subsequent investigations of amber lenses and affect.",0,0,N,0,0,N,N,0,0,0,0
+113,No adverse effects were reported in this small study.,0,0,N,0,0,N,N,0,0,0,0
+114,"Indeed, it is hard to imagine a possible risk of amber glasses, except to wear them while driving and potentially increase sleepiness .",0,0,N,0,0,N,N,0,0,0,0
+115,Glasses with the same wavelength blockade as those used in this study are now easily obtained and inexpensive.,0,0,N,0,0,N,N,0,0,0,0
+116,"If subsequent studies confirm efficacy, the cost/benefit and risk/benefit ratios of these glasses as a potential treatment would be dramatic, substantially exceeding those of existing treatments.",0,0,N,0,0,N,N,0,0,0,0
+117,"Moreover, if amber lenses create a “virtual darkness” sufficient to increase total melatonin production, their use may apply to realms as disparate as cancer prevention, control of premenstrual symptoms , and mood disorders.",0,0,N,0,0,N,N,0,0,0,0
+118,"Further examination of this approach, including as therapy for patients with poor sleep quality, is warranted.",0,0,N,0,0,N,N,0,0,0,0
